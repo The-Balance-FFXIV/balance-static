@@ -1,5 +1,571 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dark Knight on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/</link><description>Recent content in Dark Knight on Balance Guides</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 06 Dec 2024 22:45:52 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/index.xml" rel="self" type="application/rss+xml"/><item><title>Dark Knight Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/best-in-slot/</link><pubDate>Fri, 06 Dec 2024 22:45:52 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/best-in-slot/</guid><description/></item><item><title>Dark Knight Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/advanced-guide/</link><pubDate>Sat, 16 Nov 2024 15:17:46 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/advanced-guide/</guid><description>Introduction This guide focuses on advanced level 100 Dark Knight gameplay, and assumes that you are comfortable with the entirety of the Dark Knight kit as well as its opener and rotation. If you are still leveling, you should start with the leveling guide, and if you&amp;rsquo;re still learning, you should start with the the basic guide, and build familiarity with Dark Knight&amp;rsquo;s kit first.
-Trying to apply these techniques before you are fully comfortable with the rotation and job could make your gameplay worse rather than better.</description></item><item><title>Dark Knight Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/job-changes/</link><pubDate>Wed, 13 Nov 2024 21:44:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/job-changes/</guid><description/></item><item><title>Dark Knight Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/leveling-guide/</link><pubDate>Wed, 13 Nov 2024 21:44:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/leveling-guide/</guid><description>Introduction While this guide is not intended as a complete resource for tanking in dungeons and trials, the following sections will provide a brief primer for those new to the role or who need a refresher. If you are already confident in your job as a tank, feel free to skip ahead to the last section, which covers the evolution of your rotation as you level up to max.
-Gearing Your primary focus until you reach level cap is to accumulate as much defense and vitality as possible in order to stay alive.</description></item><item><title>Dark Knight Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide/</link><pubDate>Wed, 25 Sep 2024 22:19:23 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide/</guid><description>Introduction to Dark Knight The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x and 7.x). Introduction Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawntrail. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).</description></item><item><title>Dark Knight Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</link><pubDate>Wed, 31 Jul 2024 19:09:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</guid><description>Dark Knight Skills Overview Abilities will be presented in a tabular format for easy reading.
-Actions used in Single Target Rotation Icon Action Abbreviation Level Type Recast Description Hard Slash HS 1 Weaponskill 2.5 seconds The first action in your main combo. Delivers an attack with a potency of 300. Syphon Strike SS 2 Weaponskill 2.5 seconds The second action in your main combo. Delivers an attack with a combo potency of 380.</description></item><item><title>Dark Knight Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</link><pubDate>Thu, 25 Jan 2024 08:36:34 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</guid><description>Dark Knight Openers and Rotation Dark Knight Openers DRK is a flexible class, and so specific encounters may benefit from alternate openers. Encounter-specific opener information may be found in the drk_encounter channel of the Balance discord, or on fight-specific guides, where applicable. This section will list general-purpose DRK openers, which work well for most situations, and provide an overview of how openers are chosen.
-Opener Design Goals Use as many big hits and spend as much MP as possible inside potion and raid buff windows (which typically come up around the third or fourth GCD).</description></item><item><title>Dark Knight FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/faq/</link><pubDate>Thu, 19 Jan 2023 04:45:38 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/faq/</guid><description>Frequently Asked Questions Why can’t I fit five GCDs in Blood Weapon (or Delirium)? The single most likely reason is that you aren’t weaving Blood Weapon late into the GCD. As long as you are weaving Blood Weapon late and keeping the GCD rolling during it, five GCDs in Blood Weapon should be very consistent. With high latency (100+ ms), double weaves can cause the last GCD to fall out of Blood Weapon.</description></item><item><title>Dark Knight Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/stat-priority/</link><pubDate>Wed, 21 Sep 2022 00:12:34 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/stat-priority/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dark Knight on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/</link><description>Recent content in Dark Knight on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 06 Dec 2024 22:45:52 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/index.xml" rel="self" type="application/rss+xml"/><item><title>Dark Knight Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/best-in-slot/</link><pubDate>Fri, 06 Dec 2024 22:45:52 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/best-in-slot/</guid><description/></item><item><title>Dark Knight Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/advanced-guide/</link><pubDate>Sat, 16 Nov 2024 15:17:46 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/advanced-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>This guide focuses on advanced level 100 Dark Knight gameplay, and assumes that you are comfortable with the entirety of the Dark Knight kit as well as its opener and rotation. If you are still leveling, you should start with the &lt;a href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/leveling-guide">leveling guide&lt;/a>, and if you&amp;rsquo;re still learning, you should start with the the &lt;a href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide">basic guide&lt;/a>, and build familiarity with Dark Knight&amp;rsquo;s kit first.&lt;/p>
+&lt;p>Trying to apply these techniques before you are fully comfortable with the rotation and job could make your gameplay worse rather than better.&lt;/p></description></item><item><title>Dark Knight Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/job-changes/</link><pubDate>Wed, 13 Nov 2024 21:44:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/job-changes/</guid><description/></item><item><title>Dark Knight Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/leveling-guide/</link><pubDate>Wed, 13 Nov 2024 21:44:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/leveling-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>While this guide is not intended as a complete resource for tanking in dungeons and trials, the following sections will provide a brief primer for those new to the role or who need a refresher. If you are already confident in your job as a tank, feel free to skip ahead to the last section, which covers the evolution of your rotation as you level up to max.&lt;/p>
+&lt;h1 id="gearing">Gearing&lt;/h1>
+&lt;p>Your primary focus until you reach level cap is to accumulate as much defense and vitality as possible in order to stay alive. Luckily, both of these stats scale directly with item level, so deciding which gear to use is rather straightforward; equip the highest item level you can, and don&amp;rsquo;t worry too much about substats.&lt;/p></description></item><item><title>Dark Knight Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide/</link><pubDate>Wed, 25 Sep 2024 22:19:23 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide/</guid><description>&lt;h1 id="introduction-to-dark-knight">Introduction to Dark Knight&lt;/h1>
+&lt;h2 id="the-useless-pre-endwalker-guide-by-nikroulah1605-now-updated-for-6x-and-7x">The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x and 7.x).&lt;/h2>
+&lt;hr>
+&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawntrail. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).&lt;/p></description></item><item><title>Dark Knight Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</link><pubDate>Wed, 31 Jul 2024 19:09:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</guid><description>&lt;h1 id="dark-knight-skills-overview">Dark Knight Skills Overview&lt;/h1>
+&lt;p>Abilities will be presented in a tabular format for easy reading.&lt;/p>
+&lt;h2 id="actions-used-in-single-target-rotation">Actions used in Single Target Rotation&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Action&lt;/th>
+ &lt;th style="text-align: left">Abbreviation&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Type&lt;/th>
+ &lt;th style="text-align: left">Recast&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[402 351 281 273 381 262]" src="https://xivapi.com/i/003000/003051_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Hard Slash&lt;/td>
+ &lt;td style="text-align: left">HS&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">The first action in your main combo. Delivers an attack with a potency of 300.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[331 10 262 177 487 140]" src="https://xivapi.com/i/003000/003054_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Syphon Strike&lt;/td>
+ &lt;td style="text-align: left">SS&lt;/td>
+ &lt;td style="text-align: left">2&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">The second action in your main combo. Delivers an attack with a combo potency of 380. Restores 600 MP.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[278 293 190 411 404 82]" src="https://xivapi.com/i/003000/003055_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Souleater&lt;/td>
+ &lt;td style="text-align: left">SE&lt;/td>
+ &lt;td style="text-align: left">26&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">The final action in your main combo. Delivers an attack with a combo potency of 480. Restores the users HP by a cure potency of 300. Generates 20 Blood Gauge.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[318 385 64 206 74 271]" src="https://xivapi.com/i/003000/003062_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Unmend&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">15&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage to the target for 150 potency (counts as 750 potency for enmity purposes). Reduces the timer of Shadowstride by 5 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[17 374 311 293 442 178]" src="https://xivapi.com/i/003000/003080_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Bloodspiller&lt;/td>
+ &lt;td style="text-align: left">BS&lt;/td>
+ &lt;td style="text-align: left">62&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack with a potency of 600. Costs 50 Blood Gauge.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[348 491 344 158 72 361]" src="https://xivapi.com/i/003000/003086_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Edge of Shadow&lt;/td>
+ &lt;td style="text-align: left">Edge&lt;/td>
+ &lt;td style="text-align: left">74&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">1 second&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage to the target for 460 potency. Grants 30 seconds of Darkside, increasing damage dealt by 10%. Costs 3000 MP.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[492 315 477 452 126 85]" src="https://xivapi.com/i/003000/003078_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Delirium&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">68&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">60 seconds&lt;/td>
+ &lt;td style="text-align: left">Grants three stacks of Delirium and Blood Weapon, both of which last for 15 seconds. Each stack of Blood Weapon increases Blood Gauge by 10 and restores 600 MP upon landing a weaponskill or spell. While under the effect of any number of stacks of Delirium, Bloodspiller changes into the Torcleaver combo, and Quietus changes into Impalement, both costing no Blood Gauge, but consuming a stack of Delirium when used.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[475 245 117 468 193 301]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003095_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Scarlet Delirium&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">62&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">The first action in the Torcleaver combo. Delivers an attack with a potency of 620 and restores 200 MP. Can only be used while under the effect of Delirium. Bloodspiller will change into Scarlet Delirium when under the effect of Delirium.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[294 435 211 58 387 184]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003096_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Comeuppance&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">62&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">The second action in the Torcleaver combo. Delivers an attack with a combo potency of 720 and restores 200 MP. Can only be used while under the effect of Delirium. Scarlet Delirium will change into Comeuppance after being used.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[483 387 113 415 473 355]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Torcleaver&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">62&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">The third action in the Torcleaver combo. Delivers an attack with a combo potency of 820 and restores 200 MP. Can only be used while under the effect of Delirium. Comeuppance will change into Torcleaver after being used.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[312 80 53 199 47 169]" src="https://xivapi.com/i/003000/003058_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Carve and Spit&lt;/td>
+ &lt;td style="text-align: left">C&amp;amp;S, CaS, CnS&lt;/td>
+ &lt;td style="text-align: left">60&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">60 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack with a potency of 540. Restores 600 MP and heals for 500 potency worth of healing. Shares a recast timer with Abyssal Drain.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[218 3 419 219 452 9]" src="https://xivapi.com/i/003000/003088_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Living Shadow&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">80&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">120 seconds&lt;/td>
+ &lt;td style="text-align: left">Summons a simulacrum of your darkside to fight beside you. Living Shadow lasts 20 seconds. After a 6.8 second summoning animation, the simulacrum will execute six actions, going through the following rotation: Abyssal Drain, Shadowstride, Shadowbringer, Edge of Shadow, Bloodspiller, Disesteem. Shadowstride does no damage, Shadowbringer deals 570 potency of damage, Disesteem deals 620 potency worth of damage, and all remaining attacks deal 420 potency worth of damage, for a total of 2450 potency. AoE actions (Abyssal Drain, Shadowbringer, Disesteem) also deal damage in an AoE when executed by the simulacrum, with Shadowbringer and Disesteem doing 25% reduced damage on targets beyond the first. Also grants Scorn, lasting 30 seconds and enabling Disesteem to be used.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[62 266 433 475 445 236]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003099_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Disesteem&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">62&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Deals physical damage ot all enemies in a straight line in front of you with a potency of 1000 for the first enemy and 50% less for all remaining enemies. Can only be executed while Scorn is active, and removes Scorn upon execution.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[207 4 66 47 129 275]" src="https://xivapi.com/i/003000/003066_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Salted Earth&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">52&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">90 seconds&lt;/td>
+ &lt;td style="text-align: left">Places a ground targeted AoE dealing 50 potency per tick. Lasts 15 seconds. One tick is applied immediately when the ability is placed, and then 5 more ticks happen at 3 second intervals, starting at an unpredictable time within the first 3 seconds of placement.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[145 355 394 342 442 242]" src="https://xivapi.com/i/003000/003090_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Salt and Darkness&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">86&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">20 seconds&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage with a potency of 500 to the first target standing in Salted Earth, and 50% less damage to all remaining enemies.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[371 307 433 252 128 460]" src="https://xivapi.com/i/003000/003091_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Shadowbringer&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">90&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">60 seconds&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage to the initial target for 600 potency, and 50% less to all remaining enemies in a straight line before the user. Can hold up to two charges.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="multi-target-actions">Multi-Target Actions&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Action&lt;/th>
+ &lt;th style="text-align: left">Abbreviation&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Type&lt;/th>
+ &lt;th style="text-align: left">Recast&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[83 362 180 59 47 55]" src="https://xivapi.com/i/003000/003063_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Unleash&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">6&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage with a potency of 120 to all nearby enemies, and generates increased enmity.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[316 185 325 76 459 244]" src="https://xivapi.com/i/003000/003084_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Stalwart Soul&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">72&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage with a combo potency of 160 to all nearby enemies, and generates increased enmity. Restores 600 MP. Increases Blood Gauge by 20.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[456 447 175 155 382 280]" src="https://xivapi.com/i/003000/003079_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Quietus&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">64&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack with a potency of 240 to all nearby enemies. Costs 50 Blood Gauge.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[99 264 94 309 408 64]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Impalement&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">62&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack with a potency of 320 to all nearby enemies. Restores 500 MP. Can only be used while under the effect of Delirium. Quietus will change into Impalement while under the effect of Delirium.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[103 23 65 412 422 331]" src="https://xivapi.com/i/003000/003085_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Flood of Shadow&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">74&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">1 second&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage to the target for 160 potency in a straight line before you. Grants 30 seconds of Darkside, increasing damage dealt by 10%. Costs 3000 MP.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[244 491 328 3 442 178]" src="https://xivapi.com/i/003000/003064_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Abyssal Drain&lt;/td>
+ &lt;td style="text-align: left">AD&lt;/td>
+ &lt;td style="text-align: left">56&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">60 seconds&lt;/td>
+ &lt;td style="text-align: left">Deals aspected damage for 240 potency to the target and all surrounding enemies. Restores 600 MP and heals for 500 potency worth of healing. Shares a recast timer with Carve and Spit.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="mitigative-actions">Mitigative Actions&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Action&lt;/th>
+ &lt;th style="text-align: left">Abbreviation&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Type&lt;/th>
+ &lt;th style="text-align: left">Recast&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[266 235 349 487 192 87]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Rampart&lt;/td>
+ &lt;td style="text-align: left">Ramp&lt;/td>
+ &lt;td style="text-align: left">8&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">90 seconds&lt;/td>
+ &lt;td style="text-align: left">Reduces damage taken by 20% and increases healing received by 15% for 20 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[307 11 447 469 179 7]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Reprisal&lt;/td>
+ &lt;td style="text-align: left">Rep&lt;/td>
+ &lt;td style="text-align: left">22&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">60 seconds&lt;/td>
+ &lt;td style="text-align: left">Reduces all damage dealt by nearby enemies by 10% for 15 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[425 301 47 178 322 101]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
+ &lt;td style="text-align: left">AL&lt;/td>
+ &lt;td style="text-align: left">32&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">120 seconds&lt;/td>
+ &lt;td style="text-align: left">Applies a buff that nullifies most draw-in and knockback effects, lasting six seconds. When enemies strike you while this buff is active, they receive a 20% slow debuff for 15s.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[312 425 228 187 280 263]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003094_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Shadowed Vigil&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">38&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">120 seconds&lt;/td>
+ &lt;td style="text-align: left">Reduces damage taken by 40% for 15 seconds. Also applies Vigilant, which lasts for 20 seconds and heals for 1200 potency when expiring or when your HP drops below 50%, whichever happens first.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[469 248 304 402 153 426]" src="https://xivapi.com/i/003000/003076_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Dark Mind&lt;/td>
+ &lt;td style="text-align: left">DM&lt;/td>
+ &lt;td style="text-align: left">45&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">60 seconds&lt;/td>
+ &lt;td style="text-align: left">Reduces magic damage taken by 20% and physical damage taken by 10% for ten seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[162 15 33 213 239 421]" src="https://xivapi.com/i/003000/003077_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Living Dead&lt;/td>
+ &lt;td style="text-align: left">LD&lt;/td>
+ &lt;td style="text-align: left">50&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">300 seconds&lt;/td>
+ &lt;td style="text-align: left">Grants the effect of Living Dead for 10 seconds. If HP drops to 0 while active, status will change to Walking Dead, with a duration of ten seconds. While under the effect of Walking Dead, most attacks will not drop your HP below 1, and you will heal for 1500 potency per target hit with weaponskills or spells. If you are healed for an amount equal to 100% of your maximum HP, Walking Dead is replaced with the Undead Rebirth buff, retaining its duration. Undead Rebirth prevents most attacks from dropping your HP below 1, but does not have the healing effect of Walking Dead. If the Walking Dead debuff expires without being converted into Undead Rebirth, you will be KO&amp;rsquo;d.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[181 374 254 25 457 497]" src="https://xivapi.com/i/003000/003087_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Dark Missionary&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">66&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">90 seconds&lt;/td>
+ &lt;td style="text-align: left">Reduces magic damage taken by self and nearby party members by 10%, and physical damage taken by self and nearby party members by 5% for 15 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[26 480 159 483 251 383]" src="https://xivapi.com/i/003000/003081_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">The Blackest Night&lt;/td>
+ &lt;td style="text-align: left">TBN&lt;/td>
+ &lt;td style="text-align: left">70&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">15 seconds&lt;/td>
+ &lt;td style="text-align: left">Places a shield on the target totaling 25% of their HP. If shield is broken, grants the user Dark Arts which allows one free use of Edge of Shadow or Flood of Shadow. Costs 3000 MP.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[7 195 88 103 481 18]" src="https://xivapi.com/i/003000/003089_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Oblation&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">82&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">60 seconds&lt;/td>
+ &lt;td style="text-align: left">Reduces damage taken by self or party member by 10% for ten seconds. Can hold up to two stacks.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="utility-actions">Utility Actions&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Action&lt;/th>
+ &lt;th style="text-align: left">Abbreviation&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Type&lt;/th>
+ &lt;th style="text-align: left">Recast&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[95 45 473 179 229 206]" src="https://xivapi.com/i/003000/003070_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Grit&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">10&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">2 seconds&lt;/td>
+ &lt;td style="text-align: left">Dark Knight&amp;rsquo;s tank stance. Significantly increases (by a factor of 10) enmity generation.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[474 340 413 154 52 132]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Low Blow&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">12&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">25 seconds&lt;/td>
+ &lt;td style="text-align: left">Stuns the target for five seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[367 197 157 130 434 200]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Provoke&lt;/td>
+ &lt;td style="text-align: left">Voke&lt;/td>
+ &lt;td style="text-align: left">15&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">30 seconds&lt;/td>
+ &lt;td style="text-align: left">Places yourself at the top of the target&amp;rsquo;s enmity list, while gaining additional enmity.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[268 264 181 22 490 339]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Interject&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">18&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">30 seconds&lt;/td>
+ &lt;td style="text-align: left">Effectively a silence. Interrupts certain enemy actions.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[177 402 97 276 280 150]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Shirk&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">48&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">120 seconds&lt;/td>
+ &lt;td style="text-align: left">Diverts 25% of enmity onto the target party member.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[245 273 56 144 29 120]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003093_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Shadowstride&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">54&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">30 seconds&lt;/td>
+ &lt;td style="text-align: left">Dark Knight&amp;rsquo;s dash, also generates enmity on the target. Can hold up to two charges.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Dark Knight Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</link><pubDate>Thu, 25 Jan 2024 08:36:34 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</guid><description>&lt;h1 id="dark-knight-openers-and-rotation">Dark Knight Openers and Rotation&lt;/h1>
+&lt;h1 id="dark-knight-openers">Dark Knight Openers&lt;/h1>
+&lt;p>DRK is a flexible class, and so specific encounters may benefit from alternate openers.
+Encounter-specific opener information may be found in the drk_encounter channel of the Balance discord, or on fight-specific guides, where applicable.
+This section will list general-purpose DRK openers, which work well for most situations, and provide an overview of how openers are chosen.&lt;/p>
+&lt;h2 id="opener-design-goals">Opener Design Goals&lt;/h2>
+&lt;ul>
+&lt;li>Use as many big hits and spend as much MP as possible inside potion and raid buff windows (which typically come up around the third or fourth GCD). This means that most skills will be delayed until this point.&lt;/li>
+&lt;li>Get Living Shadow out early enough that its attacks fully fit into buffs. Its long spawn animation and the fact that it updates with buffs in real time means that it is best used before buffs come out, unlike skills that apply damage immediately.&lt;/li>
+&lt;li>Use an Edge of Shadow to apply Darkside as early as possible.&lt;/li>
+&lt;li>Avoid overcapping on MP.&lt;/li>
+&lt;/ul>
+&lt;p>Tanks currently use &lt;strong>Grade 1 Gemdraughts of Strength&lt;/strong>.
+&lt;br>Note that strength affects both physical and magical skills for tanks.&lt;/p></description></item><item><title>Dark Knight FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/faq/</link><pubDate>Thu, 19 Jan 2023 04:45:38 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/faq/</guid><description>&lt;h1 id="frequently-asked-questions">Frequently Asked Questions&lt;/h1>
+&lt;h1 id="why-cant-i-fit-five-gcds-in-blood-weapon-or-delirium">Why can’t I fit five GCDs in Blood Weapon (or Delirium)?&lt;/h1>
+&lt;p>The single most likely reason is that you aren’t weaving Blood Weapon late into the GCD. As long as you are weaving Blood Weapon late and keeping the GCD rolling during it, five GCDs in Blood Weapon should be very consistent. With high latency (100+ ms), double weaves can cause the last GCD to fall out of Blood Weapon. It is possible to mitigate some latency by using a gaming VPN (for example, Mudfish or PingZapper).&lt;/p></description></item><item><title>Dark Knight Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/stat-priority/</link><pubDate>Wed, 21 Sep 2022 00:12:34 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/stat-priority/</guid><description/></item></channel></rss>

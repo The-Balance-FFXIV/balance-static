@@ -1,20 +1,121 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guides on Balance Guides</title><link>https://www.thebalanceffxiv.com/guide/</link><description>Recent content in Guides on Balance Guides</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.thebalanceffxiv.com/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Becoming A Better Tank</title><link>https://www.thebalanceffxiv.com/guide/becoming-a-better-tank/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/guide/becoming-a-better-tank/</guid><description>Version 1.0 Torael Valdis | Jenova (NA) | Torael_Valdis#8120
-This guide is written with the intention to be hosted on The Balance Discord and should not be hosted elsewhere without consent of the owner.
-Table of Contents Introduction
-Mindset
-Mitigation
-Mitigating As The Off Tank Facilitating Party Uptime
-Damage
-Consistency and Adaptability
-Closing Thoughts
-Special Thanks Changelog Intro “What is Tanking: Tanking in Final Fantasy 14, in the most basic of ideas, is controlling the Enmity of the enemies and reducing the damage you take from said enemies.</description></item><item><title>Endgame Gearing and Content Unlock Guide</title><link>https://www.thebalanceffxiv.com/guide/endgame-gearing-and-content-unlock-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/guide/endgame-gearing-and-content-unlock-guide/</guid><description>Endgame Gearing and Content Unlock Guide
-Introduction This is a comprehensive guide aimed towards players entering endgame — Level 90 — for the first time and getting overwhelmed with Final Fantasy XIV&amp;rsquo;s gear progression systems. This guide will help you get an understanding of how FFXIV’s endgame systems work, as well as how to gear up and what types of endgame PvE content exist.
-Step 1. Get AF gear, finish MSQ, and farm Tomestones for gear.</description></item><item><title>Guide to Leveling Reaper and Sage Immediately in Endwalker</title><link>https://www.thebalanceffxiv.com/guide/guide-to-leveling-reaper-and-sage-immediately-in-endwalker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/guide/guide-to-leveling-reaper-and-sage-immediately-in-endwalker/</guid><description>Written by: Ringabel Dim (DNC Mentor in The Balance)
-On November 19th - Early Access of Endwalker, many players may be interested in leveling either Reaper or Sage as their first job in the new expansion. This guide provides info on what to prepare and how to optimize your time to level from 70 to 80 as quick as possible.
-EXP Sources to Prepare Before Endwalker is Released: Wondrous Tails (roughly 50%): Pick up Wondrous Tails in Idyllshire on the week of Tuesday, November 9th.</description></item><item><title>Tanking FAQ</title><link>https://www.thebalanceffxiv.com/guide/tanking-faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/guide/tanking-faq/</guid><description>Tanking FAQ What Food / Potion do tanks use? Grade 4 Tincture of Strength Chicken Fettuccine OR Smoked Chicken What do I meld? Read the &amp;ldquo;Stats&amp;rdquo; section
-Why is my combo breaking? The combo timer is exactly 15 seconds long. This means that you can do the following:
-Combo 1 Spender GCD Spender GCD Spender GCD Spender GCD Spender GCD Combo 2 As long as the time between the cast of Combo 1 and Combo 2 doesn&amp;rsquo;t exceed 15s.</description></item><item><title>Tanking Stats and Materia</title><link>https://www.thebalanceffxiv.com/guide/tanking-stats-and-materia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/guide/tanking-stats-and-materia/</guid><description>Tanking Stats and Materia Stats Stat Priority Weapon Damage Main stat (Str/Vit on tanks) Substats There are no &amp;ldquo;Stat weights&amp;rdquo;.
-Weapon Damage almost always comes with main stat increase.
-Higher item level almost always comes with main stat increase.
-Upgrade your gear as often as possible
-Skill Speed (at level 80) 2.43s GCD - 1015 SkS 2.42s GCD - 1117 SkS 2.41s GCD - 1218 SkS 2.40s GCD - 1320 SkS 2.</description></item><item><title>Zyrk's Bullshit Guide to the Principles of Healing</title><link>https://www.thebalanceffxiv.com/guide/zyrks-bullshit-guide-to-the-principles-of-healing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/guide/zyrks-bullshit-guide-to-the-principles-of-healing/</guid><description>Zyrk’s FFXIV Shadowbringers Healing Guide Learn how to hate your party, the game, and yourself About the Author Hi, I’m Zyrkhan Dar’locke. My name is blue on The Balance, and that’s basically all I have to say for myself. You may also know me as “what?” and “literally who.” I’m here to talk about healing and stuff, because I guess I like it or something, mostly because I don’t respect myself.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guides on Balance Guides</title><link>https://www.thebalanceffxiv.com/guide/</link><description>Recent content in Guides on Balance Guides</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://www.thebalanceffxiv.com/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Becoming A Better Tank</title><link>https://www.thebalanceffxiv.com/guide/becoming-a-better-tank/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/guide/becoming-a-better-tank/</guid><description>&lt;h2 id="version-10">Version 1.0&lt;/h2>
+&lt;p>&lt;em>Torael Valdis | Jenova (NA) | Torael_Valdis#8120&lt;/em>&lt;/p>
+&lt;p>This guide is written with the intention to be hosted on The Balance Discord and should not be hosted elsewhere without consent of the owner.&lt;/p>
+&lt;hr>
+&lt;h1 id="table-of-contents">Table of Contents&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="#intro">Introduction&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#mindset">Mindset&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#mitigation">Mitigation&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="#mitigating-as-the-off-tank">Mitigating As The Off Tank&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#facilitating-party-uptime">Facilitating Party Uptime&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#damage">Damage&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#consistency-and-adaptability">Consistency and Adaptability&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#closing-thoughts">Closing Thoughts&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="#special-thanks">Special Thanks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#changelog">Changelog&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h1 id="intro">Intro&lt;/h1>
+&lt;h2 id="what-is-tanking">“What is Tanking:&lt;/h2>
+&lt;blockquote>
+&lt;p>Tanking in Final Fantasy 14, in the most basic of ideas, is controlling the Enmity of the enemies and reducing the damage you take from said enemies. The ultimate goal for a tank is to provide the most comfortable experience for both healers and DPS to do their jobs. Comfortable DPS will be able to output more damage, while comfortable healers will be able to heal less, and in turn output more damage.”
+&lt;br> - Aletin Ves’ser, So You Want To Be a Tank?&lt;/p></description></item><item><title>Endgame Gearing and Content Unlock Guide</title><link>https://www.thebalanceffxiv.com/guide/endgame-gearing-and-content-unlock-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/guide/endgame-gearing-and-content-unlock-guide/</guid><description>&lt;p>Endgame Gearing and Content Unlock Guide&lt;/p>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>This is a comprehensive guide aimed towards players entering endgame — Level 90 — for the first time and getting overwhelmed with Final Fantasy XIV&amp;rsquo;s gear progression systems. This guide will help you get an understanding of how FFXIV’s endgame systems work, as well as how to gear up and what types of endgame PvE content exist.&lt;/p>
+&lt;p>Step 1. Get AF gear, finish MSQ, and farm Tomestones for gear.
+Step 2. Get i565 to unlock and complete Pandaemonium: Asphodelos (Normal).&lt;/p></description></item><item><title>Guide to Leveling Reaper and Sage Immediately in Endwalker</title><link>https://www.thebalanceffxiv.com/guide/guide-to-leveling-reaper-and-sage-immediately-in-endwalker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/guide/guide-to-leveling-reaper-and-sage-immediately-in-endwalker/</guid><description>&lt;p>Written by: Ringabel Dim (DNC Mentor in &lt;a href="https://discord.com/invite/thebalanceffxiv">The Balance&lt;/a>)&lt;/p>
+&lt;blockquote>
+&lt;p>On November 19th - Early Access of Endwalker, many players may be interested in leveling either Reaper or Sage as their first job in the new expansion. This guide provides info on what to prepare and how to optimize your time to level from 70 to 80 as quick as possible.&lt;/p>
+&lt;/blockquote>
+&lt;h1 id="exp-sources-to-prepare-before-endwalker-is-released">EXP Sources to Prepare Before Endwalker is Released:&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>Wondrous Tails (roughly 50%):&lt;/strong> Pick up Wondrous Tails in Idyllshire on the week of Tuesday, November 9th. Complete nine seals but DO NOT turn it in. Make sure you have nine Second Chance points as well.&lt;/li>
+&lt;li>&lt;strong>The Hunt (roughly 33%):&lt;/strong> Pick up daily One-Star / Two-Star / Three-Star Veteran Clan Mark Bills from Crystarium / Eulmore. These can be picked up whenever since they do not expire. If playing a new job with someone else also playing a new job, you can coordinate and sync your first set of One-Star / Two-Star / Three-Star logs by checking daily the new Hunt Logs (there are only about 8-10 different combinations of hunt monsters for each hunt log level). You can also create a map for the path you want to travel to kill them all using a tool such as &lt;a href="http://ff14huntpath.c4cdn.com/shb/">FFXIVHuntPaths&lt;/a>. You can also prep the logs by killing all but one of the number of monsters you need to kill for each log prior to the release of Endwalker.&lt;br>
+&lt;br>
+If doing this, be careful not to accidentally pull more mobs than you need, and to be one short. I would strongly recommend you don’t participate in Shadowbringers Hunts once they are prepared, as some stray monsters can sometimes be tagged by party members which happen to be a monster needed for the Hunt Log.&lt;/li>
+&lt;li>&lt;strong>Challenge Logs (Depends on which ones you do, but roughly 30% total):&lt;/strong> Prepare Challenge Logs (i.e. Prepare 2/3 dungeons via Duty Roulette, 4/5 dungeons, 4/5 player commendations, complete 4/5 FATEs). These can be prepared starting Tuesday, November 16th. It is recommended to complete four FATEs in open world zones, queue for two dungeons via Duty Roulette (while commending people), then Normal Raid / Trial to give two more commendations, and complete two undersized dungeons to get to 4/5 dungeons so the first dungeon you queue will give you several Challenge Log bonuses and first FATE you do will give you a Challenge Log bonus on Friday, November 19th.&lt;/li>
+&lt;li>&lt;strong>Bloodsworn Pixie Beast Tribe (roughly 30%):&lt;/strong> While you will be unable to prepare a set to turn in ahead of time, being higher ranked gives you more EXP per quest so you should start ranking up now if you have not already. Bloodsworn takes 30 days worth of daily beast tribe quests to obtain from just starting the Pixie Beast Tribe.&lt;/li>
+&lt;li>&lt;strong>Menphina’s Earring (30% bonus EXP):&lt;/strong> Use the Menphina Earrings (Endwalker pre-order reward), which gives +30% extra experience up to level 80.&lt;/li>
+&lt;li>&lt;strong>The Heat of Battle (10% [II]/15% [III] bonus combat EXP):&lt;/strong> Make sure you have Heat of Battle III buffs prepared. If your FC does not have them, you can acquire them through the GC Squadron system.&lt;/li>
+&lt;li>&lt;strong>Leveling Food (3% bonus combat EXP):&lt;/strong> Any food will do! Ideally you will be using Shadowbringers food, as it has 10% VIT. (Smoked Chicken is the recommended food for both level 70 Reaper and Sage).&lt;/li>
+&lt;/ul>
+&lt;h1 id="gear-sources-to-prepare-before-endwalker-is-released">Gear Sources to Prepare Before Endwalker is Released:&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>Ensure you are capped on Poetics, Allegory, and Revelation so you can buy level 70 Tomestone weapon from Rhalgr’s Reach (Augmented weapon is 600 Poetics). Allegory and Revelation will become obsolete when 6.0 launches, but they can be traded in for Poetics.&lt;/p></description></item><item><title>Tanking FAQ</title><link>https://www.thebalanceffxiv.com/guide/tanking-faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/guide/tanking-faq/</guid><description>&lt;h1 id="tanking-faq">Tanking FAQ&lt;/h1>
+&lt;h2 id="what-food--potion-do-tanks-use">What Food / Potion do tanks use?&lt;/h2>
+&lt;ul>
+&lt;li>Grade 4 Tincture of Strength&lt;/li>
+&lt;li>Chicken Fettuccine OR Smoked Chicken&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-do-i-meld">What do I meld?&lt;/h2>
+&lt;p>Read the &amp;ldquo;Stats&amp;rdquo; section&lt;/p>
+&lt;h2 id="why-is-my-combo-breaking">Why is my combo breaking?&lt;/h2>
+&lt;p>The combo timer is exactly 15 seconds long.
+&lt;br> This means that you can do the following:&lt;/p>
+&lt;ul>
+&lt;li>Combo 1&lt;/li>
+&lt;li>Spender GCD&lt;/li>
+&lt;li>Spender GCD&lt;/li>
+&lt;li>Spender GCD&lt;/li>
+&lt;li>Spender GCD&lt;/li>
+&lt;li>Spender GCD&lt;/li>
+&lt;li>Combo 2&lt;/li>
+&lt;/ul>
+&lt;p>As long as the time between the cast of Combo 1 and Combo 2 doesn&amp;rsquo;t exceed 15s.&lt;/p></description></item><item><title>Tanking Stats and Materia</title><link>https://www.thebalanceffxiv.com/guide/tanking-stats-and-materia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/guide/tanking-stats-and-materia/</guid><description>&lt;h1 id="tanking-stats-and-materia">Tanking Stats and Materia&lt;/h1>
+&lt;h1 id="stats">Stats&lt;/h1>
+&lt;h2 id="stat-priority">Stat Priority&lt;/h2>
+&lt;ol>
+&lt;li>Weapon Damage&lt;/li>
+&lt;li>Main stat (Str/Vit on tanks)&lt;/li>
+&lt;li>Substats&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>
+&lt;p>There are no &amp;ldquo;Stat weights&amp;rdquo;.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Weapon Damage almost always comes with main stat increase.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Higher item level almost always comes with main stat increase.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Upgrade your gear as often as possible&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skill-speed-at-level-80">Skill Speed (at level 80)&lt;/h2>
+&lt;ul>
+&lt;li>2.43s GCD - 1015 SkS&lt;/li>
+&lt;li>2.42s GCD - 1117 SkS&lt;/li>
+&lt;li>2.41s GCD - 1218 SkS&lt;/li>
+&lt;li>2.40s GCD - 1320 SkS&lt;/li>
+&lt;li>2.39s GCD - 1421 SkS&lt;/li>
+&lt;li>2.38s GCD - 1523 SkS&lt;/li>
+&lt;li>2.37s GCD - 1624 SkS&lt;/li>
+&lt;li>2.36s GCD - 1726 SkS&lt;/li>
+&lt;/ul>
+&lt;p>For any other speed, use #bot_spam and the following command:
+&lt;code>!xivmath rspeed X.XX&lt;/code> (replace X.XX with the GCD you want)&lt;/p></description></item><item><title>Zyrk's Bullshit Guide to the Principles of Healing</title><link>https://www.thebalanceffxiv.com/guide/zyrks-bullshit-guide-to-the-principles-of-healing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/guide/zyrks-bullshit-guide-to-the-principles-of-healing/</guid><description>&lt;h1 id="zyrks-ffxiv-shadowbringers-healing-guide">Zyrk’s FFXIV Shadowbringers Healing Guide&lt;/h1>
+&lt;h2 id="learn-how-to-hate-your-party-the-game-and-yourself">Learn how to hate your party, the game, and yourself&lt;/h2>
+&lt;h1 id="about-the-author">About the Author&lt;/h1>
+&lt;p>Hi, I’m Zyrkhan Dar’locke. My name is blue on The Balance, and that’s basically all I have to say for myself. You may also know me as “what?” and “literally who.” I’m here to talk about healing and stuff, because I guess I like it or something, mostly because I don’t respect myself. If you also would like to learn about healing, or just hate yourself enough to listen to me ramble about it for the next 48 pages, here’s a thing I guess.&lt;/p></description></item></channel></rss>

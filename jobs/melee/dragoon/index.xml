@@ -1,7 +1,741 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dragoon on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/</link><description>Recent content in Dragoon on Balance Guides</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 11:23:35 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/melee/dragoon/index.xml" rel="self" type="application/rss+xml"/><item><title>Dragoon Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/best-in-slot/</link><pubDate>Mon, 09 Dec 2024 11:23:35 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/best-in-slot/</guid><description/></item><item><title>Dragoon Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/skills-overview/</link><pubDate>Mon, 09 Dec 2024 10:48:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/skills-overview/</guid><description>Dragoon Skills Overview Global Cooldown Actions (Single Target) All potencies assume level 100, meaning potency increases through traits are already included.
-Icon Name Acronym Level Description True Thrust TT 1 Basic combo initiator for both the Chaos Thrust and the Full Thrust combo with 230 potency. Raiden Thrust RT 76 Direct upgrade to True Thrust after successfully landing the last combo action, i.e. Drakesbane. The True Thrust button will temporarily be replaced by this 320 potency action.</description></item><item><title>Dragoon Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/job-changes/</link><pubDate>Mon, 09 Dec 2024 10:36:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/job-changes/</guid><description/></item><item><title>Dragoon Openers</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/openers/</link><pubDate>Mon, 09 Dec 2024 10:34:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/openers/</guid><description>Dragoon Opener and Rotation The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new job design, it’s possible that we’ll actually have fight-specific openers down the stretch.
-Standard Opener - No PT We use our raidbuff Battle Litany after applying our DoT for party alignment, the rest of our buffs surround it with Geirskogul being used last to ensure its own potency is buffed by all our personal buffs and potential raidbuffs.</description></item><item><title>Dragoon Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/</link><pubDate>Mon, 09 Dec 2024 10:28:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/</guid><description>/jobs/melee/dragoon/opener/Saving The Dragoon Overview Dragoon is a relatively static melee DPS job with a high focus on weaving off-Global Cooldown (oGCD) actions between a rigid 10-hit sequence of Global Cooldown (GCD) actions. Burst windows can get hectic, and prioritizing the various skills you need to execute can become a rather significant hassle in some instances. Dawntrail has doubled down on this by introducing the ability to utilize even more oGCD actions at regular intervals, as if we didn’t have enough already.</description></item><item><title>Dragoon Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/leveling-guide/</link><pubDate>Mon, 29 Jul 2024 16:30:54 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/leveling-guide/</guid><description>Dragoon Leveling Guide Gear Always use the highest Item Level gear available to you. The increase of Strength and survivability outweighs potentially more favorable substats in lower Item Level gear. The total amount of substats is also higher.
-Dragoons use Maiming armor and Slaying accessories. Low level gear may not be labeled as such, so make sure you always equip gear that gives a bonus to Strength.
-Know Your Role Melee DPS jobs have a unique mechanic in Positionals.</description></item><item><title>Dragoon FAQ</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</link><pubDate>Sun, 28 Jul 2024 11:18:50 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</guid><description>Frequently Asked Questions Type !faq drg in #bot_spam for a full list of commands to answer other common questions!
-How does Raiden Thrust work?
-Raiden Thrust is an upgraded True Thrust. It combos into both Disembowel and Vorpal Thrust and replaces True Thrust on your bar when it’s ready. You activate it by successfully landing the positional on the fifth hit of your combo (Fang and Claw or Wheeling Thrust following Wheeling Thrust or Fang and Claw, respectively).</description></item><item><title>Dragoon Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/stat-priority/</link><pubDate>Sun, 28 Jul 2024 11:16:22 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/stat-priority/</guid><description/></item><item><title>Dragoon Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/advanced-guide/</link><pubDate>Wed, 21 Sep 2022 20:41:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/advanced-guide/</guid><description>Due to the nature of the Dragoon job design, advanced content is included and covered within the Basic Guide. If you have further questions regarding DRG optimization, please feel free to ask in the Discord server.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dragoon on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/</link><description>Recent content in Dragoon on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 11:23:35 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/melee/dragoon/index.xml" rel="self" type="application/rss+xml"/><item><title>Dragoon Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/best-in-slot/</link><pubDate>Mon, 09 Dec 2024 11:23:35 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/best-in-slot/</guid><description/></item><item><title>Dragoon Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/skills-overview/</link><pubDate>Mon, 09 Dec 2024 10:48:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/skills-overview/</guid><description>&lt;h1 id="dragoon-skills-overview">Dragoon Skills Overview&lt;/h1>
+&lt;h2 id="global-cooldown-actions-single-target">Global Cooldown Actions (Single Target)&lt;/h2>
+&lt;p>All potencies assume level 100, meaning potency increases through traits are already included.&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Name&lt;/th>
+ &lt;th style="text-align: left">Acronym&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[27 208 233 377 51 191]" src="https://xivapi.com/i/000000/000310_hr1.png" onclick="openModal(this.id)" alt="True Thrust" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">True Thrust&lt;/td>
+ &lt;td style="text-align: left">TT&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">Basic combo initiator for both the Chaos Thrust and the Full Thrust combo with 230 potency.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[358 125 225 360 354 185]" src="https://xivapi.com/i/002000/002592_hr1.png" onclick="openModal(this.id)" alt="Raiden Thrust" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Raiden Thrust&lt;/td>
+ &lt;td style="text-align: left">RT&lt;/td>
+ &lt;td style="text-align: left">76&lt;/td>
+ &lt;td style="text-align: left">Direct upgrade to True Thrust after successfully landing the last combo action, i.e. Drakesbane. The True Thrust button will temporarily be replaced by this 320 potency action. Grants a stack of Firstminds&amp;rsquo; Focus at Level 90.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[420 296 136 74 464 62]" src="https://xivapi.com/i/000000/000317_hr1.png" onclick="openModal(this.id)" alt="Disembowel" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Disembowel&lt;/td>
+ &lt;td style="text-align: left">DE&lt;/td>
+ &lt;td style="text-align: left">18&lt;/td>
+ &lt;td style="text-align: left">250 potency action that combos off of True Thrust/Raiden Thrust and applies a 10% damage buff for 30s.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[334 259 160 311 305 381]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002077_hr1.tex?format=png" onclick="openModal(this.id)" alt="Spiral Blow" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Sprial Blow&lt;/td>
+ &lt;td style="text-align: left">SB&lt;/td>
+ &lt;td style="text-align: left">96&lt;/td>
+ &lt;td style="text-align: left">250 potency action that combos off of True Thrust/Raiden Thrust and applies a 10% damage buff for 30s. Direct upgrade to Disembowel, replacing the original action.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[224 117 174 344 302 172]" src="https://xivapi.com/i/000000/000308_hr1.png" onclick="openModal(this.id)" alt="Chaos Thrust" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Chaos Thrust&lt;/td>
+ &lt;td style="text-align: left">CT&lt;/td>
+ &lt;td style="text-align: left">50&lt;/td>
+ &lt;td style="text-align: left">260 potency action that combos off of Disembowel and applies a 40 potency Damage over Time effect to the target for 24s. Has to be executed from the targets rear for maximum damage. The DoT effect is not influenced by the positional.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[477 196 394 438 191 157]" src="https://xivapi.com/i/002000/002596_hr1.png" onclick="openModal(this.id)" alt="Chaotic Spring" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Chaotic Spring&lt;/td>
+ &lt;td style="text-align: left">CS&lt;/td>
+ &lt;td style="text-align: left">86&lt;/td>
+ &lt;td style="text-align: left">An upgraded version of Chaos Thrust that automatically replaces Chaos Thrust on your hotbar at Level 86. Increases the potency to 300 and the DoT potency to 45.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[278 38 379 53 13 66]" src="https://xivapi.com/i/000000/000312_hr1.png" onclick="openModal(this.id)" alt="Vorpal Thrust" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Vorpal Thrust&lt;/td>
+ &lt;td style="text-align: left">VT&lt;/td>
+ &lt;td style="text-align: left">4&lt;/td>
+ &lt;td style="text-align: left">280 potency action that combos off of True Thrust/Raiden Thrust&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[114 285 410 388 289 257]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002076_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Barrage" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Lance Barrage&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">96&lt;/td>
+ &lt;td style="text-align: left">340 potency action that combos off of True Thrust/Raiden Thrust. Direct upgrade to Vorpal Thrust, replacing the original action.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[206 34 79 367 204 477]" src="https://xivapi.com/i/000000/000314_hr1.png" onclick="openModal(this.id)" alt="Full Thrust" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Full Thrust&lt;/td>
+ &lt;td style="text-align: left">FT&lt;/td>
+ &lt;td style="text-align: left">26&lt;/td>
+ &lt;td style="text-align: left">380 potency action that combos off of Vorpal Thrust.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[397 91 477 217 280 223]" src="https://xivapi.com/i/002000/002595_hr1.png" onclick="openModal(this.id)" alt="Heavens&amp;rsquo; Thrust" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Heavens&amp;rsquo; Thrust&lt;/td>
+ &lt;td style="text-align: left">HT&lt;/td>
+ &lt;td style="text-align: left">86&lt;/td>
+ &lt;td style="text-align: left">An upgraded version of Full Thrust that automatically replaces Full Thrust on your hotbar at Level 86. Increases potency to 440.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[219 79 367 58 338 129]" src="https://xivapi.com/i/002000/002582_hr1.png" onclick="openModal(this.id)" alt="Fang and Claw" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Fang and Claw&lt;/td>
+ &lt;td style="text-align: left">FC&lt;/td>
+ &lt;td style="text-align: left">56&lt;/td>
+ &lt;td style="text-align: left">300 potency combo action after Full Thrust/Heavens&amp;rsquo; Thrust. 340 potency when executed from the targets flank.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[261 313 460 100 260 191]" src="https://xivapi.com/i/002000/002584_hr1.png" onclick="openModal(this.id)" alt="Wheeling Thrust" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Wheeling Thrust&lt;/td>
+ &lt;td style="text-align: left">WT&lt;/td>
+ &lt;td style="text-align: left">58&lt;/td>
+ &lt;td style="text-align: left">300 potency combo action after Chaos Thrust/Chaotic Spring. 340 potency when executed from the targets rear.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[340 495 275 471 273 115]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png" onclick="openModal(this.id)" alt="Drakesbane" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Drakesbane&lt;/td>
+ &lt;td style="text-align: left">DB&lt;/td>
+ &lt;td style="text-align: left">64&lt;/td>
+ &lt;td style="text-align: left">The fifth and final combo action after Fang and Claw and Wheeling Thrust with 440 potency. Grants Draconian Fire for 30s, turning True Thrust into Raiden Thrust and Doom Spike into Draconian Fury.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[438 68 284 343 75 436]" src="https://xivapi.com/i/000000/000315_hr1.png" onclick="openModal(this.id)" alt="Piercing Talon" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Piercing Talon&lt;/td>
+ &lt;td style="text-align: left">PT&lt;/td>
+ &lt;td style="text-align: left">15&lt;/td>
+ &lt;td style="text-align: left">Uncomboed ranged action with 200 potency. Will not terminate an active combo if used between combo skills.\&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">350 potency while under the effect of &amp;ldquo;Enhanced Piercing Talon&amp;rdquo;.&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="global-cooldown-actions-area-of-effect">Global Cooldown Actions (Area of Effect)&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Name&lt;/th>
+ &lt;th style="text-align: left">Acronym&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[284 393 191 404 205 171]" src="https://xivapi.com/i/000000/000306_hr1.png" onclick="openModal(this.id)" alt="Doom Spike" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Doom Spike&lt;/td>
+ &lt;td style="text-align: left">DoS&lt;/td>
+ &lt;td style="text-align: left">40&lt;/td>
+ &lt;td style="text-align: left">Basic combo initiator for the AoE combo with 110 potency. Deals damage to all enemies in a rectangular shape.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[23 232 305 266 203 272]" src="https://xivapi.com/i/002000/002594_hr1.png" onclick="openModal(this.id)" alt="Draconian Fury" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Draconian Fury&lt;/td>
+ &lt;td style="text-align: left">DrF&lt;/td>
+ &lt;td style="text-align: left">82&lt;/td>
+ &lt;td style="text-align: left">Direct upgrade to Doom Spike after using a comboed Coerthan Torment. The Doom Spike button will temporarily be replaced by this 130 potency action. Grants a stack of Firstmind&amp;rsquo;s Focus at Level 90 and above.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[206 242 113 74 334 300]" src="https://xivapi.com/i/002000/002586_hr1.png" onclick="openModal(this.id)" alt="Sonic Thrust" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Sonic Thrust&lt;/td>
+ &lt;td style="text-align: left">SoT&lt;/td>
+ &lt;td style="text-align: left">62&lt;/td>
+ &lt;td style="text-align: left">120 potency action that combos off of Doom Spike. Deals damage to all enemies in a rectangular shape and grants the Power Surge buff for 30s, increasing damage dealt by 10%.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[498 144 261 305 274 373]" src="https://xivapi.com/i/002000/002590_hr1.png" onclick="openModal(this.id)" alt="Coerthan Torment" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Coerthan Torment&lt;/td>
+ &lt;td style="text-align: left">CoT&lt;/td>
+ &lt;td style="text-align: left">72&lt;/td>
+ &lt;td style="text-align: left">150 potency action that combos off of Sonic Thrust. Deals damage to all enemies in a rectangular shape and allows the execution of Draconian Fury.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="off-global-cooldown-actions">off-Global Cooldown Actions&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Name&lt;/th>
+ &lt;th style="text-align: left">Acronym&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[8 347 164 75 441 253]" src="https://xivapi.com/i/002000/002576_hr1.png" onclick="openModal(this.id)" alt="Jump" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Jump&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">30&lt;/td>
+ &lt;td style="text-align: left">320 potency action with a 30s cooldown. Long animation and movement lock (Movement lock can be avoided by jumping while executing this action). Allows the execution of Mirage Dive within 15s after using Jump.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[283 72 357 360 47 234]" src="https://xivapi.com/i/002000/002591_hr1.png" onclick="openModal(this.id)" alt="High Jump" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">High Jump&lt;/td>
+ &lt;td style="text-align: left">HJ&lt;/td>
+ &lt;td style="text-align: left">74&lt;/td>
+ &lt;td style="text-align: left">Upgraded version of Jump with 400 potency and a reduced movement lock (Movement lock can be avoided by jumping while executing this action).&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[313 60 387 290 326 468]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002598_hr1.tex?format=png" onclick="openModal(this.id)" alt="Winged Glide" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Winged Glide&lt;/td>
+ &lt;td style="text-align: left">WG&lt;/td>
+ &lt;td style="text-align: left">45&lt;/td>
+ &lt;td style="text-align: left">Non-damaging dash to a target enemy&amp;rsquo;s location. Gains a second charge at level 84.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[88 173 305 104 343 442]" src="https://xivapi.com/i/002000/002578_hr1.png" onclick="openModal(this.id)" alt="Dragonfire Dive" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Dragonfire Dive&lt;/td>
+ &lt;td style="text-align: left">DFD&lt;/td>
+ &lt;td style="text-align: left">50&lt;/td>
+ &lt;td style="text-align: left">Jumps to the target and deals 500 potency (and 50% less to all enemies in a 5y radius around it). 120s cooldown - long animation lock. Grants Dragon&amp;rsquo;s Flight for 30s, allowing the execution of Rise of the Dragon.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[481 101 173 85 257 128]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002075_hr1.tex?format=png" onclick="openModal(this.id)" alt="Rise of the Dragon" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Rise of the Dragon&lt;/td>
+ &lt;td style="text-align: left">RotD&lt;/td>
+ &lt;td style="text-align: left">92&lt;/td>
+ &lt;td style="text-align: left">Follow-up to Dragonfire Dive. Deals 550 potency to all enemies in a 5y range around the target with a 50% damage fall-off.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[116 320 468 50 343 308]" src="https://xivapi.com/i/002000/002588_hr1.png" onclick="openModal(this.id)" alt="Mirage Dive" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Mirage Dive&lt;/td>
+ &lt;td style="text-align: left">MD&lt;/td>
+ &lt;td style="text-align: left">68&lt;/td>
+ &lt;td style="text-align: left">380 potency action. Only available after using (High) Jump.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[240 35 354 106 443 403]" src="https://xivapi.com/i/002000/002583_hr1.png" onclick="openModal(this.id)" alt="Geirskogul" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Geirskogul&lt;/td>
+ &lt;td style="text-align: left">GSK&lt;/td>
+ &lt;td style="text-align: left">60&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack to all enemies in a straight line before you with a potency of 280 for the first enemy, and 50% less for all remaining enemies. Enters Life of the Dragon for 20s, increasing damage dealt by 15%. Also grants 1 stack of Nastrond Ready.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[260 204 192 475 176 148]" src="https://xivapi.com/i/002000/002589_hr1.png" onclick="openModal(this.id)" alt="Nastrond" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Nastrond&lt;/td>
+ &lt;td style="text-align: left">NAS&lt;/td>
+ &lt;td style="text-align: left">70&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack to all enemies in a straight line before you with a potency of 720 for the first enemy, and 50% less for all remaining enemies. Can only be used under the effect of Nastrond Ready.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[103 158 184 217 34 48]" src="https://xivapi.com/i/002000/002593_hr1.png" onclick="openModal(this.id)" alt="Stardiver" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Stardiver&lt;/td>
+ &lt;td style="text-align: left">STD or SD&lt;/td>
+ &lt;td style="text-align: left">80&lt;/td>
+ &lt;td style="text-align: left">Jumps to the target and deals damage to all enemies in a 5y radius around it (820 potency for the first enemy, 30% less for all remaining enemies). Only available once per Life of the Dragon - very long animation lock.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[456 84 91 109 9 146]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002078_hr1.tex?format=png" onclick="openModal(this.id)" alt="Starcross" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Starcross&lt;/td>
+ &lt;td style="text-align: left">StC&lt;/td>
+ &lt;td style="text-align: left">100&lt;/td>
+ &lt;td style="text-align: left">Follow-up to Stardiver. Deals damage with a potency of 1000 to the target and 50% less to all remaining targets in a 5y range.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[4 61 138 53 445 418]" src="https://xivapi.com/i/002000/002597_hr1.png" onclick="openModal(this.id)" alt="Wyrmwind Thrust" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Wyrmwind Thrust&lt;/td>
+ &lt;td style="text-align: left">WWT&lt;/td>
+ &lt;td style="text-align: left">90&lt;/td>
+ &lt;td style="text-align: left">440 potency action with a 10s cooldown that deals damage to all enemies in a rectangular shape. 50% reduced damage for all enemies hit after the first one. Can only be executed when you have two Stacks of Firstminds&amp;rsquo; Focus&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[186 465 104 19 56 174]" src="https://xivapi.com/i/002000/002577_hr1.png" onclick="openModal(this.id)" alt="Elusive Jump" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Elusive Jump&lt;/td>
+ &lt;td style="text-align: left">EJ&lt;/td>
+ &lt;td style="text-align: left">35&lt;/td>
+ &lt;td style="text-align: left">Jumps 15y backwards. Used to travel long distances quickly. 30s cooldown. Now also grants the effect &amp;ldquo;Enhanced Piercing Talon&amp;rdquo; for 15s, considerably increasing its potency.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="buffs">Buffs&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Name&lt;/th>
+ &lt;th style="text-align: left">Acronym&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[240 182 334 54 424 464]" src="https://xivapi.com/i/000000/000309_hr1.png" onclick="openModal(this.id)" alt="Lance Charge" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Lance Charge&lt;/td>
+ &lt;td style="text-align: left">LC&lt;/td>
+ &lt;td style="text-align: left">30&lt;/td>
+ &lt;td style="text-align: left">Increases damage dealt by 10% for 20s. 60s cooldown&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[243 57 321 377 111 376]" src="https://xivapi.com/i/002000/002585_hr1.png" onclick="openModal(this.id)" alt="Battle Litany" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Battle Litany&lt;/td>
+ &lt;td style="text-align: left">BL&lt;/td>
+ &lt;td style="text-align: left">52&lt;/td>
+ &lt;td style="text-align: left">Increases the Critical Hit Rate by self and party members within 30y by 10% for 20s. 120s cooldown.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[121 297 429 377 364 205]" src="https://xivapi.com/i/000000/000304_hr1.png" onclick="openModal(this.id)" alt="Life Surge" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Life Surge&lt;/td>
+ &lt;td style="text-align: left">LS&lt;/td>
+ &lt;td style="text-align: left">6&lt;/td>
+ &lt;td style="text-align: left">Guarantees a Critical Hit on the next Global Cooldown Action within 5s. 40s cooldown. Also works on AoE actions. Absorbs 10% of the damage dealt from the buffed action as own HP. Gains a second charge at level 88.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[183 399 81 389 126 269]" src="https://beta.xivapi.com/api/1/asset/ui/icon/020000/020710_hr1.tex?format=png" onclick="openModal(this.id)" alt="Gemdraught of Strength" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Current Gemdraught of Strength&lt;/td>
+ &lt;td style="text-align: left">Pot&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">Increases Strength by 10% for 30s. 270s cooldown.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="role-actions">Role Actions&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Name&lt;/th>
+ &lt;th style="text-align: left">Acronym&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[494 207 379 457 238 446]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Second Wind&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">8&lt;/td>
+ &lt;td style="text-align: left">Instant self-heal for 800 potency. 120s cooldown.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[90 436 291 37 259 438]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="Leg Sweep" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Leg Sweep&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">10&lt;/td>
+ &lt;td style="text-align: left">Stuns the target for 3s. 40s cooldown.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[327 345 239 361 105 111]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="Bloodbath" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Bloodbath&lt;/td>
+ &lt;td style="text-align: left">BB&lt;/td>
+ &lt;td style="text-align: left">12&lt;/td>
+ &lt;td style="text-align: left">Heals self for 1/6 of all physical damage dealt for 20s. 90s cooldown.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[164 128 51 206 333 453]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="Feint" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Feint&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">22&lt;/td>
+ &lt;td style="text-align: left">Reduces target&amp;rsquo;s physical damage dealt by 10% and magic damage by 5% for 15s. 90s cooldown.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[298 232 125 196 330 183]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
+ &lt;td style="text-align: left">AL&lt;/td>
+ &lt;td style="text-align: left">32&lt;/td>
+ &lt;td style="text-align: left">Grants knockback immunity for 6s (note that some knockbacks cannot be mitigated with this) and inflicts 20% slow for 15s on attackers when struck during this time. 120s cooldown.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[170 476 196 350 274 16]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="True North" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">True North&lt;/td>
+ &lt;td style="text-align: left">TN&lt;/td>
+ &lt;td style="text-align: left">50&lt;/td>
+ &lt;td style="text-align: left">Nullifies all positional requirements for 10s. 45s cooldown, can hold two charges.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="traits">Traits&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Name&lt;/th>
+ &lt;th style="text-align: left">Acronym&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[72 142 459 138 474 264]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005294_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Jump" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Jump&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">54&lt;/td>
+ &lt;td style="text-align: left">Increases Jump potency to 320.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[322 263 327 140 281 432]" src="https://xivapi.com/i/005000/005285_hr1.png" onclick="openModal(this.id)" alt="Life of the Dragon" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Life of the Dragon&lt;/td>
+ &lt;td style="text-align: left">LotD&lt;/td>
+ &lt;td style="text-align: left">70&lt;/td>
+ &lt;td style="text-align: left">Increases damage dealt by 15% for 20s, grants 3 stacks of Nastrond Ready when landing Geirskogul.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[350 270 124 457 118 356]" src="https://xivapi.com/i/005000/005286_hr1.png" onclick="openModal(this.id)" alt="Jump Mastery" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Jump Mastery&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">74&lt;/td>
+ &lt;td style="text-align: left">Upgrades Jump to High Jump.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[239 224 456 172 80 121]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005284_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Lance Mastery&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">76&lt;/td>
+ &lt;td style="text-align: left">Increases the potency of True Thrust to 230, Vorpal Thrust to 280 and Disembowel to 250. Also enables the use of Raiden Thrust.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[14 120 479 188 194 193]" src="https://xivapi.com/i/005000/005290_hr1.png" onclick="openModal(this.id)" alt="Enhanced Coerthan Torment" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Coerthan Torment&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">82&lt;/td>
+ &lt;td style="text-align: left">Enables the use of Draconian Fury.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[343 75 365 253 114 116]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005295_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Winged Glide" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Winged Glide&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">84&lt;/td>
+ &lt;td style="text-align: left">Grants a second charge for Winged Glide.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[35 25 287 79 402 345]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005288_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery II" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Lance Mastery II&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">86&lt;/td>
+ &lt;td style="text-align: left">Upgrades Chaos Thrust to Chaotic Spring and Full Thrust to Heavens&amp;rsquo; Thrust. Increases Drakesbane potency to 400.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[251 146 494 169 262 281]" src="https://xivapi.com/i/005000/005277_hr1.png" onclick="openModal(this.id)" alt="Enhanced Life Surge" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Life Surge&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">88&lt;/td>
+ &lt;td style="text-align: left">Grants a second charge of Life Surge.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[500 487 64 492 353 260]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005292_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery III" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Lance Mastery III&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">90&lt;/td>
+ &lt;td style="text-align: left">Increases Geirskogul potency to 280 and Nastrond potency to 360. Also enables the collection of Firstminds&amp;rsquo; Focus stacks.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[230 233 380 197 358 309]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005296_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Dragonfire Dive" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Dragonfire Dive&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">92&lt;/td>
+ &lt;td style="text-align: left">Enables the use of Rise of the Dragon.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[106 35 263 434 30 28]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006806_hr1.tex?format=png" onclick="openModal(this.id)" alt="Melee Mastery" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Melee Mastery&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">94&lt;/td>
+ &lt;td style="text-align: left">Increases the potency of Fang and Claw to 340, Wheeling Thrust to 340, Drakesbane to 440, Raiden Thrust to 320, Heavens&amp;rsquo; Thrust to 440 and Chaotic Spring to 340.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[106 192 4 403 182 307]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005293_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery IV" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Lance Mastery IV&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">96&lt;/td>
+ &lt;td style="text-align: left">Upgrades Disembowel to Spiral Blow and Vorpal Thrust to Lance Barrage.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[217 193 138 345 479 104]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005298_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Stardiver" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Stardiver&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">100&lt;/td>
+ &lt;td style="text-align: left">Enables the use of Starcross.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="role-traits">Role Traits&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Name&lt;/th>
+ &lt;th style="text-align: left">Acronym&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[357 441 256 324 47 500]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006852_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Second Wind" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Second Wind&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">94&lt;/td>
+ &lt;td style="text-align: left">Increases the healing potency of Second Wind to 800.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[192 381 308 95 345 238]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006851_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Feint" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Feint&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">98&lt;/td>
+ &lt;td style="text-align: left">Extends the duration of Feint to 15 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Dragoon Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/job-changes/</link><pubDate>Mon, 09 Dec 2024 10:36:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/job-changes/</guid><description/></item><item><title>Dragoon Openers</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/openers/</link><pubDate>Mon, 09 Dec 2024 10:34:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/openers/</guid><description>&lt;h1 id="dragoon-opener-and-rotation">Dragoon Opener and Rotation&lt;/h1>
+&lt;p>The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new job design, it’s possible that we’ll actually have fight-specific openers down the stretch.&lt;/p>
+&lt;h2 id="standard-opener---no-pt">Standard Opener - No PT&lt;/h2>
+&lt;p>
+&lt;div class="md__image">
+ &lt;img id="[415 141 395 149 275 57]" src="https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_-_No_PT.png?raw=true" onclick="openModal(this.id)" alt="Standard Opener - No PT" />
+&lt;/div>
+
+&lt;br>
+We use our raidbuff Battle Litany after applying our DoT for party alignment, the rest of our buffs surround it with Geirskogul being used last to ensure its own potency is buffed by all our personal buffs and potential raidbuffs.&lt;/p></description></item><item><title>Dragoon Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/</link><pubDate>Mon, 09 Dec 2024 10:28:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/</guid><description>&lt;h1 id="jobsmeleedragoonopenerjobsmeleedragoonopenersaving-the-dragoon">&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/dragoon/opener/">/jobs/melee/dragoon/opener/&lt;/a>Saving The Dragoon&lt;/h1>
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Dragoon is a relatively static melee DPS job with a high focus on weaving off-Global Cooldown (oGCD) actions between a rigid 10-hit sequence of Global Cooldown (GCD) actions. Burst windows can get hectic, and prioritizing the various skills you need to execute can become a rather significant hassle in some instances. Dawntrail has doubled down on this by introducing the ability to utilize even more oGCD actions at regular intervals, as if we didn’t have enough already.&lt;/p></description></item><item><title>Dragoon Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/leveling-guide/</link><pubDate>Mon, 29 Jul 2024 16:30:54 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/leveling-guide/</guid><description>&lt;h1 id="dragoon-leveling-guide">Dragoon Leveling Guide&lt;/h1>
+&lt;h2 id="gear">Gear&lt;/h2>
+&lt;p>Always use the highest Item Level gear available to you. The increase of Strength and survivability outweighs potentially more favorable substats in lower Item Level gear. The total amount of substats is also higher.&lt;/p>
+&lt;p>Dragoons use Maiming armor and Slaying accessories.
+Low level gear may not be labeled as such, so make sure you always equip gear that gives a bonus to Strength.&lt;/p>
+&lt;h2 id="know-your-role">Know Your Role&lt;/h2>
+&lt;p>Melee DPS jobs have a unique mechanic in Positionals. Certain actions will deal more damage when executed from the rear or flank of a target. Targets with continuous Target Rings will always take the increased damage from positional actions. &lt;br>
+The Role Action True North allows you to disregard positional requirements for ten seconds per use. &lt;br>
+A continuous target ring will always count positionals as successful, regardless of your position.
+
+&lt;div class="md__image">
+ &lt;img id="[436 255 473 199 446 94]" src="https://imgur.com/ANOqtwM.png" onclick="openModal(this.id)" alt="Positional zones" title="Positional zones" />
+&lt;/div>
+&lt;/p></description></item><item><title>Dragoon FAQ</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</link><pubDate>Sun, 28 Jul 2024 11:18:50 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</guid><description>&lt;h1 id="frequently-asked-questions">Frequently Asked Questions&lt;/h1>
+&lt;p>Type &lt;code>!faq drg&lt;/code> in #bot_spam for a full list of commands to answer other common questions!&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>How does Raiden Thrust work?&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>Raiden Thrust is an upgraded True Thrust. It combos into both Disembowel and Vorpal Thrust and replaces True Thrust on your bar when it’s ready. You activate it by successfully landing the positional on the fifth hit of your combo (Fang and Claw or Wheeling Thrust following Wheeling Thrust or Fang and Claw, respectively). If you fail, you get to press True Thrust and hear a laugh track play in the background.&lt;/p></description></item><item><title>Dragoon Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/stat-priority/</link><pubDate>Sun, 28 Jul 2024 11:16:22 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/stat-priority/</guid><description/></item><item><title>Dragoon Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/advanced-guide/</link><pubDate>Wed, 21 Sep 2022 20:41:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/advanced-guide/</guid><description>&lt;p>Due to the nature of the Dragoon job design, advanced content is included and covered within the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/">Basic Guide&lt;/a>. If you have further questions regarding DRG optimization, please feel free to ask in the Discord server.&lt;/p></description></item></channel></rss>

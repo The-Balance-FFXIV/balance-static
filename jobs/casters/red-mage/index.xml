@@ -1,3 +1,438 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Red Mage on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/</link><description>Recent content in Red Mage on Balance Guides</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2024 08:37:00 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/casters/red-mage/index.xml" rel="self" type="application/rss+xml"/><item><title>Red Mage Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/leveling-guide/</link><pubDate>Wed, 07 Aug 2024 08:37:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/leveling-guide/</guid><description>Red Mage Leveling Guide Updated for 7.0 Introduction The purpose of this guide is to help players understand the core mechanics of Red Mage. This guide will cover the basics of the job and its abilities as you progress through each set of levels. Once you hit level 100, it is strongly encouraged to check out the RDM guide to familiarize yourself with more advanced topics as you begin to enter endgame content.</description></item><item><title>Red Mage Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/skills-overview/</link><pubDate>Fri, 02 Aug 2024 09:32:30 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/skills-overview/</guid><description>Red Mage Skill Overview All skills are listed with their level 100 effects and potencies. Offensive On Global Cool Down Abilities Jolt III A 360 potency Spell with a cast time of two seconds that increases both Black and White Mana by 2. Verthunder III A 440 potency Spell with a cast time of five seconds that increases Black Mana by 6. Has a 50% chance to proc Verfire Ready. Verfire A 380 potency Spell with a cast time of two seconds that increases Black Mana by 5.</description></item><item><title>Red Mage FAQ</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/faq/</link><pubDate>Fri, 02 Aug 2024 04:26:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/faq/</guid><description/></item><item><title>Red Mage Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/stat-priority/</link><pubDate>Fri, 02 Aug 2024 04:23:07 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/stat-priority/</guid><description/></item><item><title>Red Mage Changes</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/job-changes/</link><pubDate>Fri, 02 Aug 2024 04:22:09 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/job-changes/</guid><description/></item><item><title>Red Mage Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/best-in-slot/</link><pubDate>Fri, 02 Aug 2024 04:19:10 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/best-in-slot/</guid><description/></item><item><title>Red Mage Openers</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/openers/</link><pubDate>Sun, 28 Jul 2024 17:22:52 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/openers/</guid><description>Openers At time of writing, there are three general purpose openers that are viable for their own reasons.
-Red Mage is somewhat flexible with its openers: Often, prioritizing one thing comes at the expense of another (i.e. buff damage potency vs Fleche/Contre Sixte usage vs movement flexibility for mechanics), and what is actually optimal or most practical will depend on encounter design. If further discoveries are made or job changes occur, these openers will be adjusted for future versions of the guide, and readers can also expect fight-specific Savage and/or Ultimate openers to be made for encounters with more unique timelines.</description></item><item><title>Red Mage Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/basic-guide/</link><pubDate>Thu, 18 Jul 2024 03:34:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/basic-guide/</guid><description>Red Mage Level 100 Guide for 7.x (Preliminary) Currently, this guide is in a preliminary state, which aims to concisely cover a basic overview of the Red Mage changes brought with Dawntrail along with an introduction to new rotation and opener concepts. A more detailed version of the guide will be updated closer to the release of Savage raids (7.05). If you have questions after reading the guide, feel free to ask in the #rdm_questions channel on The Balance server.</description></item><item><title>Red Mage Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/advanced-guide/</link><pubDate>Sat, 10 Jun 2023 03:36:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/advanced-guide/</guid><description>6.X Red Mage Advanced Optimization Guide This guide will cover some Endwalker Red Mage optimization concepts and principles that aren’t fully covered in the basic job guide. The intended audience includes:
-Red Mage players who have the fundamentals mostly down and are familiar with all the concepts in the basic job guide, but are trying to improve. High performing Red Mage players who get good logs through good GCD uptime, intuitive sense and repetition but wish to augment their theoretical understanding.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Red Mage on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/</link><description>Recent content in Red Mage on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2024 08:37:00 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/casters/red-mage/index.xml" rel="self" type="application/rss+xml"/><item><title>Red Mage Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/leveling-guide/</link><pubDate>Wed, 07 Aug 2024 08:37:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/leveling-guide/</guid><description>&lt;h1 id="red-mage-leveling-guide">Red Mage Leveling Guide&lt;/h1>
+&lt;h2 id="updated-for-70">Updated for 7.0&lt;/h2>
+&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>The purpose of this guide is to help players understand the core mechanics of Red Mage. This guide will cover the basics of the job and its abilities as you progress through each set of levels. Once you hit level 100, it is strongly encouraged to check out the RDM guide to familiarize yourself with more advanced topics as you begin to enter endgame content. This guide was written as of patch 7.0. Unless anything major changes, you can expect this guide to remain relevant throughout Dawntrail.&lt;/p></description></item><item><title>Red Mage Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/skills-overview/</link><pubDate>Fri, 02 Aug 2024 09:32:30 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/skills-overview/</guid><description>&lt;h1 id="red-mage-skill-overview">Red Mage Skill Overview&lt;/h1>
+&lt;h4 id="all-skills-are-listed-with-their-level-100-effects-and-potencies">All skills are listed with their level 100 effects and potencies.&lt;/h4>
+&lt;h2 id="offensive-on-global-cool-down-abilities">Offensive On Global Cool Down Abilities&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left"> &lt;/th>
+ &lt;th style="text-align: left"> &lt;/th>
+ &lt;th style="text-align: left"> &lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[160 104 9 289 399 474]" src="https://xivapi.com/i/003000/003241_hr1.png" onclick="openModal(this.id)" alt="Jolt III" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Jolt III&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 360 potency Spell with a cast time of two seconds that increases both Black and White Mana by 2.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[96 155 326 84 456 380]" src="https://xivapi.com/i/003000/003235_hr1.png" onclick="openModal(this.id)" alt="Verthunder III" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Verthunder III&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 440 potency Spell with a cast time of five seconds that increases Black Mana by 6. Has a 50% chance to proc &lt;strong>Verfire Ready&lt;/strong>.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[324 33 471 333 198 417]" src="https://xivapi.com/i/003000/003208_hr1.png" onclick="openModal(this.id)" alt="Verfire" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Verfire&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 380 potency Spell with a cast time of two seconds that increases Black Mana by 5. Can only be used when under the effect of &lt;strong>Verfire Ready&lt;/strong>.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[110 371 9 173 41 67]" src="https://xivapi.com/i/003000/003236_hr1.png" onclick="openModal(this.id)" alt="Veraero III" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Veraero III&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 440 potency Spell with a cast time of two seconds that increases White Mana by 6. Has a 50% chance to proc Verstone &lt;strong>Ready&lt;/strong>.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[420 411 490 254 140 332]" src="https://xivapi.com/i/003000/003209_hr1.png" onclick="openModal(this.id)" alt="Verstone" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Verstone&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 380 potency Spell with a cast time of two seconds that increases White Mana by 5. Can only be used when under the effect of &lt;strong>Verstone Ready&lt;/strong>.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[206 372 458 146 371 470]" src="https://xivapi.com/i/003000/003232_hr1.png" onclick="openModal(this.id)" alt="Enchanted Reprise" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Enchanted Reprise&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 420 potency magical, ranged Weaponskill with no cast time. Consumes 5 Black and 5 White Mana to use.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[430 407 380 227 53 51]" src="https://xivapi.com/i/003000/003233_hr1.png" onclick="openModal(this.id)" alt="Reprise" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Reprise&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 100 potency physical, melee Weaponskill with no cast time. Upgrades to &lt;strong>Enchanted Reprise&lt;/strong> when both Black and White mana are at 5 or more.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[85 96 381 278 95 393]" src="https://xivapi.com/i/003000/003225_hr1.png" onclick="openModal(this.id)" alt="EnchantedRiposte" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Enchanted Riposte&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">The first skill of our &lt;strong>melee combo&lt;/strong>. A 300 potency magical, melee Weaponskill with no cast time. Consumes 20 Black and 20 White Mana to use. Creates one Mana Stack upon use.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[381 9 70 268 369 500]" src="https://xivapi.com/i/003000/003226_hr1.png" onclick="openModal(this.id)" alt="EnchantedZwerchhau" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Enchanted Zwerchhau&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">The second skill of our &lt;strong>melee combo&lt;/strong>. A 360 potency magical, melee Weaponskill with no cast time. Consumes 15 Black and 15 White Mana to use. Creates one Mana Stack upon use.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[236 69 372 178 267 356]" src="https://xivapi.com/i/003000/003227_hr1.png" onclick="openModal(this.id)" alt="EnchantedRedoublement" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Enchanted Redoublement&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">The third skill of our &lt;strong>melee combo&lt;/strong>. A 540 potency magical, melee Weaponskill with no cast time. Consumes 15 Black and 15 White Mana to use. Creates one Mana Stack upon use.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[297 14 161 248 344 47]" src="https://xivapi.com/i/003000/003224_hr1.png" onclick="openModal(this.id)" alt="Verholy" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Verholy&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">One of two finishers of our &lt;strong>melee combo&lt;/strong>. A 620 potency spell with no cast time that increases White Mana by 11. It also hits as an AoE, dealing 60% less damage to all enemies hit after the first. Has a 20% chance to proc &lt;strong>Verstone Ready&lt;/strong> if White Mana is greater than or equal to Black Mana, which increases to 100% if White Mana is lesser than Black Mana or Acceleration is active. Replaces &lt;strong>Veraero&lt;/strong> on the hotbar. Costs three Mana Stacks to use.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[255 465 382 134 246 162]" src="https://xivapi.com/i/003000/003223_hr1.png" onclick="openModal(this.id)" alt="Verflare" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Verflare&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">One of two finishers of our &lt;strong>melee combo&lt;/strong>. A 620 potency spell with no cast time that increases Black Mana by 11. It also hits as an AoE, dealing 60% less damage to all enemies hit after the first. Has a 20% chance to proc &lt;strong>Verfire Ready&lt;/strong> if Black Mana is greater than or equal to White Mana, which increases to 100% if Black Mana is lesser than White Mana or Acceleration is active. Replaces &lt;strong>Verthunder&lt;/strong> on the hotbar. Costs three Mana Stacks to use.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[182 384 441 404 2 315]" src="https://xivapi.com/i/003000/003234_hr1.png" onclick="openModal(this.id)" alt="Scorch" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Scorch&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">The penultimate ability in our &lt;strong>melee combo&lt;/strong> sequence. A 700 potency spell that increases both Black and White Mana by 4. It also hits as an AoE, dealing 60% less damage to all enemies hit after the first. Replaces &lt;strong>Jolt III&lt;/strong> on the hotbar.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[102 246 148 36 239 457]" src="https://xivapi.com/i/003000/003238_hr1.png" onclick="openModal(this.id)" alt="Resolution" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Resolution&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">The final ability in our &lt;strong>melee combo&lt;/strong> sequence. A 800 potency spell that increases both Black and White Mana by 4. It also hits as an AoE, dealing 60% less damage to all enemies hit after the first. Replaces &lt;strong>Scorch&lt;/strong> on the hotbar.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[435 272 462 494 159 473]" src="https://xivapi.com/i/003000/003201_hr1.png" onclick="openModal(this.id)" alt="Riposte" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Riposte&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 130 potency physical, melee Weaponskill with no cast time. Upgrades to &lt;strong>Enchanted Riposte&lt;/strong> when both Black and White mana are at 20 or more.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[372 274 22 430 374 269]" src="https://xivapi.com/i/003000/003210_hr1.png" onclick="openModal(this.id)" alt="Zwerchhau" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Zwerchhau&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 150 potency physical, melee Weaponskill with no cast time. Upgrades to &lt;strong>Enchanted Zwerchhau&lt;/strong> when both Black and White mana are at 15 or more.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[344 250 468 327 19 56]" src="https://xivapi.com/i/003000/003213_hr1.png" onclick="openModal(this.id)" alt="Redoublement" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Redoublement&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 230 potency physical, melee Weaponskill with no cast time. Upgrades to &lt;strong>Enchanted Redoublement&lt;/strong> when both Black and White mana are at 15 or more.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[216 45 275 500 44 141]" src="https://xivapi.com/i/003000/003229_hr1.png" onclick="openModal(this.id)" alt="VerthunderII" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Verthunder II&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 140 potency Spell with a cast time of two seconds that increases Black Mana by 7. Deals damage to all enemies in a radius of 5 yalms of your target.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[299 25 300 17 231 447]" src="https://xivapi.com/i/003000/003230_hr1.png" onclick="openModal(this.id)" alt="VeraeroII" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Veraero II&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 140 potency Spell with a cast time of two seconds that increases White Mana by 7. Deals damage to all enemies in a radius of 5 yalms of your target.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[90 496 95 302 344 54]" src="https://xivapi.com/i/003000/003222_hr1.png" onclick="openModal(this.id)" alt="Impact" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Impact&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 210 potency Spell with a cast time of five seconds that increases both Black and White Mana by 3. Deals damage to all enemies in a radius of 5 yalms of your target. Potency increased to 260 when under the effect of &lt;strong>Acceleration&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[249 143 142 401 324 369]" src="https://xivapi.com/i/003000/003243_hr1.png" onclick="openModal(this.id)" alt="Grand Impact" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Grand Impact&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 600 potency Spell with an instant cast time that increases both Black and White Mana by 3. Deals damage to all enemies in a radius of 5 yalms of your target. It also hits as an AoE, dealing 60% less damage to all enemies hit after the first. After using &lt;strong>Acceleration&lt;/strong>, Grants &lt;strong>Grand Impact Ready&lt;/strong> and replaces &lt;strong>Impact&lt;/strong> and &lt;strong>Jolt III&lt;/strong> on the hotbar.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[36 368 57 462 401 259]" src="https://xivapi.com/i/003000/003228_hr1.png" onclick="openModal(this.id)" alt="EnchantedMoulinet" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Enchanted Moulinet&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 130 potency magical Weaponskill with no cast time that deals damage to all enemies within an 8 yalm cone in front of you. Consumes 20 Black and 20 White Mana to use. Grants one Mana Stack upon use.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[318 72 336 456 434 211]" src="https://xivapi.com/i/003000/003239_hr1.png" onclick="openModal(this.id)" alt="EnchantedMoulinetDeux" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Enchanted Moulinet Deux&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 140 potency magical Weaponskill with no cast time that deals damage to all enemies within an 8 yalm cone in front of you. Consumes 15 Black and 15 White Mana to use. Grants one Mana Stack upon use.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[112 447 464 245 193 262]" src="https://xivapi.com/i/003000/003240_hr1.png" onclick="openModal(this.id)" alt="EnchantedMoulinetTrois" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Enchanted Moulinet Trois&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 150 potency magical Weaponskill with no cast time that deals damage to all enemies within an 8 yalm cone in front of you. Consumes 15 Black and 15 White Mana to use. Grants one Mana Stack upon use.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[105 192 445 422 45 493]" src="https://xivapi.com/i/003000/003215_hr1.png" onclick="openModal(this.id)" alt="Moulinet" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Moulinet&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 60 potency physical Weaponskill with no cast time that deals damage to all enemies within an 8 yalm cone in front of you. Upgrades to &lt;strong>Enchanted Moulinet&lt;/strong> when both Black and White mana are at or above 20.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[457 80 280 20 291 357]" src="https://xivapi.com/i/003000/003216_hr1.png" onclick="openModal(this.id)" alt="Vercure" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Vercure&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 350 potency &lt;strong>healing&lt;/strong> Spell with a cast time of two seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[442 295 406 200 226 251]" src="https://xivapi.com/i/003000/003221_hr1.png" onclick="openModal(this.id)" alt="Verraise" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Verraise&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A Spell with a cast time of ten seconds that resurrects the target to a weakened state.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="offensive-off-global-cooldown-abilities">Offensive Off Global Cooldown Abilities&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left"> &lt;/th>
+ &lt;th style="text-align: left"> &lt;/th>
+ &lt;th style="text-align: left"> &lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[279 286 17 146 236 101]" src="https://xivapi.com/i/003000/003212_hr1.png" onclick="openModal(this.id)" alt="Fleche" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Fleche&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 480 potency attack with a cooldown of 25 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[243 225 464 274 132 360]" src="https://xivapi.com/i/003000/003217_hr1.png" onclick="openModal(this.id)" alt="ContreSixte" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Contre Sixte&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 420 potency attack with a cooldown of 35 seconds. Deal damage with no fall-off to all enemies in a radius of six yalms of the target.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[500 317 3 431 282 385]" src="https://xivapi.com/i/003000/003204_hr1.png" onclick="openModal(this.id)" alt="CorpsACorps" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Corps-A-Corps&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 130 potency attack with a cooldown of 35 seconds. Rushes the target, placing you in melee range. Has a maximum of two charges.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[490 3 43 87 188 149]" src="https://xivapi.com/i/003000/003211_hr1.png" onclick="openModal(this.id)" alt="Displacement" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Displacement&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 180 potency attack with a cooldown of 35 seconds, which is shared with &lt;strong>Engagement&lt;/strong>. Pushes you 15 yalms away from the target. Has a maximum of two charges.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[199 369 89 323 405 427]" src="https://xivapi.com/i/003000/003231_hr1.png" onclick="openModal(this.id)" alt="Engagement" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Engagement&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 180 potency attack with a cooldown of 35 seconds, which is shared with &lt;strong>Displacement&lt;/strong>. Has a maximum of two charges.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[332 186 274 365 397 424]" src="https://xivapi.com/i/003000/003218_hr1.png" onclick="openModal(this.id)" alt="Embolden" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Embolden&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A buff with a cooldown of 120 seconds that increases your own magical damage by 5% and the damage of nearby party members by 5%. Grants Thorned Flourish, allowing the use of &lt;strong>Vice of Thorns.&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[180 374 335 318 356 476]" src="https://xivapi.com/i/003000/003242_hr1.png" onclick="openModal(this.id)" alt="ViceOfThorns" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Vice of Thorns&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 700 potency attack granted after using &lt;strong>Embolden&lt;/strong>. It also hits as an AoE, dealing 60% less damage to all enemies hit after the first.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[290 163 259 194 111 6]" src="https://xivapi.com/i/003000/003219_hr1.png" onclick="openModal(this.id)" alt="Manafication" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Manafication&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">An ability with a cooldown of 110 seconds that grants 3 stacks of &lt;strong>Magicked Swordplay&lt;/strong>, each stack allowing the use of &lt;strong>Enchanted Riposte, Enchanted&lt;/strong> &lt;strong>Zwerchhau, Enchanted Redoublement&lt;/strong> without cost, and increases magical damage dealt by self by 5% for the next six GCDs used. Grants &lt;strong>Prefulgence Ready&lt;/strong> upon consuming 6 stacks of Manafication, allowing the use of &lt;strong>Prefulgence&lt;/strong>.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[256 12 83 467 317 95]" src="https://xivapi.com/i/003000/003244_hr1.png" onclick="openModal(this.id)" alt="Prefulgence" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Prefulgence&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A 900 potency attack granted after using &lt;strong>Manafication&lt;/strong>. It also hits as an AoE, dealing 60% less damage to all enemies hit after the first.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[336 402 442 185 192 302]" src="https://xivapi.com/i/003000/003214_hr1.png" onclick="openModal(this.id)" alt="Acceleration" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Acceleration&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">An ability with a cooldown of 55 seconds that ensures the next use of Verthunder III or Veraero III will grant the respective &lt;strong>Verfire Ready&lt;/strong> or &lt;strong>Verstone Ready&lt;/strong> effects. Also ensures the next cast of Impact, Veraero III or Verthunder III are instant. Increases the potency of Impact by 50. Grants &lt;strong>Grand Impact Ready,&lt;/strong> allowing the use of &lt;strong>Grand Impact&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[425 7 16 78 186 335]" src="https://xivapi.com/i/000000/000866_hr1.png" onclick="openModal(this.id)" alt="Swiftcast" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Swiftcast&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A role action with a cooldown of 40 seconds that makes the cast of the next spell instant.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="utility-off-global-cool-down-abilities">Utility Off Global Cool Down Abilities&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left"> &lt;/th>
+ &lt;th style="text-align: left"> &lt;/th>
+ &lt;th style="text-align: left"> &lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[323 398 139 353 260 387]" src="https://xivapi.com/i/000000/000861_hr1.png" onclick="openModal(this.id)" alt="Addle" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Addle&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A role action with a cooldown of 90 seconds that lowers target&amp;rsquo;s &lt;strong>physical damage dealt&lt;/strong> by 5% and &lt;strong>magic damage dealt&lt;/strong> by 10% for ten seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[468 145 138 124 445 74]" src="https://xivapi.com/i/000000/000865_hr1.png" onclick="openModal(this.id)" alt="LucidDreaming" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Lucid Dreaming&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A role action with a cooldown of 60 seconds that increases mana restoration for 21 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[74 361 363 81 366 52]" src="https://xivapi.com/i/000000/000869_hr1.png" onclick="openModal(this.id)" alt="Surecast" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Surecast&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A role action with a cooldown of 120 seconds that prevents cast interruption and nullifies most incoming knockback and draw-in effects for 6 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[274 201 326 95 14 196]" src="https://xivapi.com/i/003000/003237_hr1.png" onclick="openModal(this.id)" alt="Magick Barrier" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Magick Barrier&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">An oGCD ability with a cooldown of 120 seconds that decreases magic damage taken by yourself and party members in a 15 yalm radius by 10% and increases the HP recovered by healing actions by 5%.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[190 304 17 218 245 441]" src="https://xivapi.com/i/000000/000871_hr1.png" onclick="openModal(this.id)" alt="Sleep" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>Sleep&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">A role action with that puts the target and all nearby enemies to sleep for 30 seconds, if the target is vulnerable to the effect of Sleep.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Red Mage FAQ</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/faq/</link><pubDate>Fri, 02 Aug 2024 04:26:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/faq/</guid><description/></item><item><title>Red Mage Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/stat-priority/</link><pubDate>Fri, 02 Aug 2024 04:23:07 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/stat-priority/</guid><description/></item><item><title>Red Mage Changes</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/job-changes/</link><pubDate>Fri, 02 Aug 2024 04:22:09 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/job-changes/</guid><description/></item><item><title>Red Mage Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/best-in-slot/</link><pubDate>Fri, 02 Aug 2024 04:19:10 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/best-in-slot/</guid><description/></item><item><title>Red Mage Openers</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/openers/</link><pubDate>Sun, 28 Jul 2024 17:22:52 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/openers/</guid><description>&lt;h2 id="openers">&lt;strong>Openers&lt;/strong>&lt;/h2>
+&lt;p>At time of writing, there are three general purpose openers that are viable for their own reasons.&lt;/p>
+&lt;p>Red Mage is somewhat flexible with its openers: Often, prioritizing one thing comes at the expense of another (i.e. buff damage potency vs Fleche/Contre Sixte usage vs movement flexibility for mechanics), and what is actually optimal or most practical will depend on encounter design. If further discoveries are made or job changes occur, these openers will be adjusted for future versions of the guide, and readers can also expect fight-specific Savage and/or Ultimate openers to be made for encounters with more unique timelines.&lt;/p></description></item><item><title>Red Mage Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/basic-guide/</link><pubDate>Thu, 18 Jul 2024 03:34:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/basic-guide/</guid><description>&lt;h1 id="red-mage-level-100-guide-for-7x-preliminary">Red Mage Level 100 Guide for 7.x (Preliminary)&lt;/h1>
+&lt;p>Currently, this guide is in a &lt;strong>preliminary state&lt;/strong>, which aims to concisely cover a basic overview of the Red Mage changes brought with Dawntrail along with an introduction to new rotation and opener concepts. A more detailed version of the guide will be updated closer to the release of Savage raids (7.05). If you have questions after reading the guide, feel free to ask in the &lt;strong>#rdm_questions&lt;/strong> channel on &lt;a href="https://discord.gg/thebalanceffxiv">The Balance server.&lt;/a>&lt;/p></description></item><item><title>Red Mage Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/advanced-guide/</link><pubDate>Sat, 10 Jun 2023 03:36:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/advanced-guide/</guid><description>&lt;h1 id="6x-red-mage-advanced-optimization-guide">6.X Red Mage Advanced Optimization Guide&lt;/h1>
+&lt;p>This guide will cover some Endwalker Red Mage optimization concepts and principles that aren’t fully covered in the basic job guide. The intended audience includes:&lt;/p>
+&lt;ul>
+&lt;li>Red Mage players who have the fundamentals mostly down and are familiar with all the concepts in the &lt;a href="https://www.thebalanceffxiv.com/jobs/casters/red-mage/basic-guide/">basic job guide&lt;/a>, but are trying to improve.&lt;/li>
+&lt;li>High performing Red Mage players who get good logs through good GCD uptime, intuitive sense and repetition but wish to augment their theoretical understanding.&lt;/li>
+&lt;li>Players who have experience optimizing other jobs but are trying out Red Mage.&lt;/li>
+&lt;/ul>
+&lt;p>Some of the content here will cover concepts that are obvious to people who have experience playing other jobs at a high level. Other aspects will be unique to Red Mage.&lt;/p></description></item></channel></rss>

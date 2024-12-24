@@ -1,6 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>faq on Balance Guides</title><link>https://www.thebalanceffxiv.com/tags/faq/</link><description>Recent content in faq on Balance Guides</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 28 Jul 2024 11:18:50 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/tags/faq/index.xml" rel="self" type="application/rss+xml"/><item><title>Dragoon FAQ</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</link><pubDate>Sun, 28 Jul 2024 11:18:50 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</guid><description>Frequently Asked Questions Type !faq drg in #bot_spam for a full list of commands to answer other common questions!
-How does Raiden Thrust work?
-Raiden Thrust is an upgraded True Thrust. It combos into both Disembowel and Vorpal Thrust and replaces True Thrust on your bar when it’s ready. You activate it by successfully landing the positional on the fifth hit of your combo (Fang and Claw or Wheeling Thrust following Wheeling Thrust or Fang and Claw, respectively).</description></item><item><title>Dancer FAQ</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 20 Sep 2022 12:59:51 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>DANCE PARTNER PRIORITY This list is made in a gear/skill vacuum. This is the recommended partner priority list.
-Special Note: some fights may favor certain Dance Partners over others based on phases/mechanics or ability to hit multiple targets.
-Updated: January 19, 2021 to account for balance changes in patch 5.4.
-SAM NIN MNK / BLM (crit build)* DRG / SMN RDM MCH BRD DNC *Data on BLM SpS build as a dance partner is not available due to length in time to reach BiS with this build as of this update, but value as a dance partner is believed to drop significantly between the two builds due to under utilization of Devilment.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FAQ on Balance Guides</title><link>https://www.thebalanceffxiv.com/tags/faq/</link><description>Recent content in FAQ on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 28 Jul 2024 11:18:50 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/tags/faq/index.xml" rel="self" type="application/rss+xml"/><item><title>Dragoon FAQ</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</link><pubDate>Sun, 28 Jul 2024 11:18:50 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</guid><description>&lt;h1 id="frequently-asked-questions">Frequently Asked Questions&lt;/h1>
+&lt;p>Type &lt;code>!faq drg&lt;/code> in #bot_spam for a full list of commands to answer other common questions!&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>How does Raiden Thrust work?&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>Raiden Thrust is an upgraded True Thrust. It combos into both Disembowel and Vorpal Thrust and replaces True Thrust on your bar when it’s ready. You activate it by successfully landing the positional on the fifth hit of your combo (Fang and Claw or Wheeling Thrust following Wheeling Thrust or Fang and Claw, respectively). If you fail, you get to press True Thrust and hear a laugh track play in the background.&lt;/p></description></item><item><title>Dancer FAQ</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 20 Sep 2022 12:59:51 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>&lt;h1 id="dance-partner-priority">DANCE PARTNER PRIORITY&lt;/h1>
+&lt;p>This list is made in a gear/skill vacuum. This is the recommended partner priority list.&lt;br>
+Special Note: some fights may favor certain Dance Partners over others based on phases/mechanics or ability to hit multiple targets.&lt;/p>
+&lt;p>&lt;em>Updated: January 19, 2021 to account for balance changes in patch 5.4.&lt;/em>&lt;/p>
+&lt;ol>
+&lt;li>SAM&lt;/li>
+&lt;li>NIN&lt;/li>
+&lt;li>MNK / BLM (crit build)*&lt;/li>
+&lt;li>DRG / SMN&lt;/li>
+&lt;li>RDM&lt;/li>
+&lt;li>MCH&lt;/li>
+&lt;li>BRD&lt;/li>
+&lt;li>DNC&lt;/li>
+&lt;/ol>
+&lt;p>*Data on BLM SpS build as a dance partner is not available due to length in time to reach BiS with this build as of this update, but value as a dance partner is believed to drop significantly between the two builds due to under utilization of Devilment.&lt;/p></description></item></channel></rss>

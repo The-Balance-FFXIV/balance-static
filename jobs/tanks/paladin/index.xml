@@ -1,14 +1,77 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paladin on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/</link><description>Recent content in Paladin on Balance Guides</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Jul 2024 01:05:24 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/paladin/index.xml" rel="self" type="application/rss+xml"/><item><title>Paladin Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</link><pubDate>Sun, 14 Jul 2024 01:05:24 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</guid><description>Post-6.3 rework, there is very little to optimize outside of rolling your GCD, keeping oGCDs on cooldown, and not dropping resources (Divine Might, Sword Oath stacks).
-Encounter-specific optimizations can be discussed in the PLD Encounter forum in the Balance Discord.</description></item><item><title>Paladin Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</link><pubDate>Wed, 10 Jul 2024 05:19:01 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</guid><description/></item><item><title>Paladin Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</link><pubDate>Wed, 10 Jul 2024 05:09:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</guid><description/></item><item><title>Paladin FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 10 Jul 2024 05:01:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>Why is Circle of Scorn used immediately in the opener?
-Circle of Scorn is used before Fight or Flight in most openers and kept on cooldown in most phases for two reasons:
-Its short cooldown (25 seconds) is equal to the duration of Fight or Flight, meaning one CoS usage should always occur during FoF regardless of their respective timings, given full uptime. Its high DoT uptime (~60%) means that any delays are likely to cost ticks at the end of the phase, resulting in a potency loss overall.</description></item><item><title>Paladin Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/openers/</link><pubDate>Wed, 10 Jul 2024 05:01:03 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/openers/</guid><description>Paladin Openers Tanks currently use Grade 1 Gemdraught of Strength (Strength also affects tank magic potency, including healing).
-Opener Burst Use Fight or Flight on cooldown, this begins your burst phase. At 2.50 GCD and following the standard opener, double weave Imperator after Fight or Flight (see FAQ for bursting at other speeds) Similar to the opener, use your high potency skills (Confiteor + Blades, Goring Blade) and oGCDs (Circle of Scorn, Expiacion, Intervene, Blade of Honor) as they become available For the remaining duration of Fight or Flight, prioritize your high potency filler GCDs (Royal Authority, Atonement/Supplication/Sepulchre, Holy Spirit with Divine Might buff) Since Sepulchre is stronger than Holy Spirit with Divine Might (which is stronger than Royal Authority, Atonement, and Supplication), prioritize putting Sepulchre in Fight or Flight if able (this will not be possible if Royal Authority falls inside Fight or Flight).</description></item><item><title>Paladin Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/</link><pubDate>Wed, 10 Jul 2024 02:27:20 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/</guid><description>Buffs Iron Will Toggle | 3s cooldown after toggling on. | 1s cooldown after toggling off.
-Increases enmity generation by 10x (Enmity is also known as aggro, hate, etc.).
-Keep this on in dungeons or as the main tank (in content with more than one tank).
-Fight or Flight 60s cooldown.
-+25% damage dealt for 20 seconds.
-Imperator 60s cooldown.
-580 potency.
-Provides 4 stacks of Requiescat, granting instant casts and increasing the potency of Holy Spirit, Holy Circle, Confiteor, and the Blade of Valor combo actions.</description></item><item><title>Paladin Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/</link><pubDate>Wed, 10 Jul 2024 02:16:49 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/</guid><description>Paladin Leveling Dungeon Tips Keeping Aggro Turn on Iron Will and never turn it off. As long as you keep hitting the mobs, you will have aggro on them. In multi-target situations, use AoE so that you can keep aggro on all mobs.
-Pulling Mobs There are a variety of ways to ensure you pull all of the mobs in a pack quickly and reliably, without stopping on your way to the next pack of mobs.</description></item><item><title>Paladin Basics Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</link><pubDate>Wed, 10 Jul 2024 02:02:55 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</guid><description>Welcome to the Basics Guide for Paladin! Whether you are a fresh level 100, a returning player, or just need a refresher, this guide will get you started and allow you to hit the ground running.
-Since this is a basic introduction to level 100 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below, or in discussion channels on the Balance discord:</description></item><item><title>Paladin Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/stat-priority/</link><pubDate>Thu, 25 May 2023 01:19:35 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/stat-priority/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paladin on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/</link><description>Recent content in Paladin on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 14 Jul 2024 01:05:24 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/paladin/index.xml" rel="self" type="application/rss+xml"/><item><title>Paladin Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</link><pubDate>Sun, 14 Jul 2024 01:05:24 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</guid><description>&lt;p>Post-6.3 rework, there is very little to optimize outside of rolling your GCD, keeping oGCDs on cooldown, and not dropping resources (Divine Might, Sword Oath stacks).&lt;/p>
+&lt;p>Encounter-specific optimizations can be discussed in the PLD Encounter forum in the Balance Discord.&lt;/p></description></item><item><title>Paladin Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</link><pubDate>Wed, 10 Jul 2024 05:19:01 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</guid><description/></item><item><title>Paladin Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</link><pubDate>Wed, 10 Jul 2024 05:09:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</guid><description/></item><item><title>Paladin FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 10 Jul 2024 05:01:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>&lt;blockquote>
+&lt;p>&lt;em>Why is Circle of Scorn used immediately in the opener?&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>Circle of Scorn is used before Fight or Flight in most openers and kept on cooldown in most phases for two reasons:&lt;/p>
+&lt;ul>
+&lt;li>Its short cooldown (25 seconds) is equal to the duration of Fight or Flight, meaning one CoS usage should always occur during FoF regardless of their respective timings, given full uptime.&lt;/li>
+&lt;li>Its high DoT uptime (~60%) means that any delays are likely to cost ticks at the end of the phase, resulting in a potency loss overall.&lt;/li>
+&lt;/ul>
+&lt;p>Circle of Scorn should only be delayed in an optimized setting to line up with buffs and/or for an extra usage in tinctures if it is guaranteed to not lose ticks.&lt;/p></description></item><item><title>Paladin Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/openers/</link><pubDate>Wed, 10 Jul 2024 05:01:03 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/openers/</guid><description>&lt;h1 id="paladin-openers">Paladin Openers&lt;/h1>
+&lt;p>Tanks currently use Grade 1 Gemdraught of Strength
+(Strength also affects tank magic potency, including healing).&lt;/p>
+&lt;h2 id="opener">Opener&lt;/h2>
+&lt;p>
+&lt;div class="md__image">
+ &lt;img id="[109 286 310 426 87 105]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
+&lt;/div>
+&lt;/p>
+&lt;h2 id="burst">Burst&lt;/h2>
+&lt;p>
+&lt;div class="md__image">
+ &lt;img id="[316 128 115 278 79 269]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
+&lt;/div>
+&lt;/p>
+&lt;ul>
+&lt;li>Use Fight or Flight on cooldown, this begins your burst phase.
+&lt;ul>
+&lt;li>At 2.50 GCD and following the standard opener, double weave Imperator after Fight or Flight (see FAQ for bursting at other speeds)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Similar to the opener, use your high potency skills (Confiteor + Blades, Goring Blade) and oGCDs (Circle of Scorn, Expiacion, Intervene, Blade of Honor) as they become available&lt;/li>
+&lt;li>For the remaining duration of Fight or Flight, prioritize your high potency filler GCDs (Royal Authority, Atonement/Supplication/Sepulchre, Holy Spirit with Divine Might buff)
+&lt;ul>
+&lt;li>Since Sepulchre is stronger than Holy Spirit with Divine Might (which is stronger than Royal Authority, Atonement, and Supplication), prioritize putting Sepulchre in Fight or Flight if able (this will not be possible if Royal Authority falls inside Fight or Flight). This will sometimes push Holy Spirit out of Fight or Flight but is still a gain.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="filler">Filler&lt;/h2>
+&lt;ul>
+&lt;li>Outside of Fight or Flight, repeat the Royal Authority combo and spend the procs it gives you (Atonement, Supplication, Sepulchre, Holy Spirit)&lt;/li>
+&lt;li>Spend your procs — avoid completing another Royal Authority combo before using all the procs from the previous one&lt;/li>
+&lt;li>Bank resources for your next burst by not spending them until your next Royal Authority is ready
+&lt;ul>
+&lt;li>For example, by repeatedly following Royal Authority with Atonement, Fast Blade, Riot Blade, Supplication, Holy Spirit, Sepulchre, then Royal Authority outside of Fight or Flight, you will always have strong filler GCDs available for burst, no matter where Fight or Flight comes off cooldown&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Use Circle of Scorn and Expiacion on cooldown so they are available for your next burst&lt;/li>
+&lt;/ul></description></item><item><title>Paladin Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/</link><pubDate>Wed, 10 Jul 2024 02:27:20 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/</guid><description>&lt;h2 id="buffs">Buffs&lt;/h2>
+&lt;p>&lt;strong>Iron Will&lt;/strong>
+
+&lt;div class="md__image">
+ &lt;img id="[450 383 106 357 105 267]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/p>
+&lt;p>Toggle | 3s cooldown after toggling on. | 1s cooldown after toggling off.&lt;/p>
+&lt;p>Increases enmity generation by 10x (Enmity is also known as aggro, hate, etc.).&lt;/p>
+&lt;p>Keep this on in dungeons or as the main tank (in content with more than one tank).&lt;/p>
+&lt;p>&lt;strong>Fight or Flight&lt;/strong>
+
+&lt;div class="md__image">
+ &lt;img id="[458 409 38 67 453 343]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/p>
+&lt;p>60s cooldown.&lt;/p>
+&lt;p>+25% damage dealt for 20 seconds.&lt;/p>
+&lt;p>&lt;strong>Imperator&lt;/strong>
+
+&lt;div class="md__image">
+ &lt;img id="[208 433 384 339 1 160]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/p></description></item><item><title>Paladin Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/</link><pubDate>Wed, 10 Jul 2024 02:16:49 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/</guid><description>&lt;h1 id="paladin-leveling">Paladin Leveling&lt;/h1>
+&lt;h2 id="dungeon-tips">Dungeon Tips&lt;/h2>
+&lt;h3 id="keeping-aggro">Keeping Aggro&lt;/h3>
+&lt;p>Turn on Iron Will and never turn it off. As long as you keep hitting the mobs, you will have aggro on them. In multi-target situations, use AoE so that you can keep aggro on all mobs.&lt;/p>
+&lt;h3 id="pulling-mobs">Pulling Mobs&lt;/h3>
+&lt;p>There are a variety of ways to ensure you pull all of the mobs in a pack quickly and reliably, without stopping on your way to the next pack of mobs.&lt;/p></description></item><item><title>Paladin Basics Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</link><pubDate>Wed, 10 Jul 2024 02:02:55 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</guid><description>&lt;p>Welcome to the Basics Guide for Paladin! Whether you are a fresh level 100, a returning player, or just need a refresher, this guide will get you started and allow you to hit the ground running.&lt;/p>
+&lt;p>Since this is a basic introduction to level 100 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below, or in discussion channels on the Balance discord:&lt;/p></description></item><item><title>Paladin Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/stat-priority/</link><pubDate>Thu, 25 May 2023 01:19:35 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/stat-priority/</guid><description/></item></channel></rss>

@@ -1,8 +1,799 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pictomancer on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/</link><description>Recent content in Pictomancer on Balance Guides</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2024 23:26:10 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/casters/pictomancer/index.xml" rel="self" type="application/rss+xml"/><item><title>Pictomancer Job Changes</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/job-changes/</link><pubDate>Tue, 03 Dec 2024 23:26:10 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/job-changes/</guid><description/></item><item><title>Pictomancer Frequently-Asked Questions</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/faq/</link><pubDate>Tue, 03 Dec 2024 23:25:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/faq/</guid><description/></item><item><title>Pictomancer Best in Slot</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/best-in-slot/</link><pubDate>Fri, 02 Aug 2024 04:18:28 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/best-in-slot/</guid><description/></item><item><title>Pictomancer Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/leveling-guide/</link><pubDate>Thu, 27 Jun 2024 05:57:14 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/leveling-guide/</guid><description>Single Target Sub-Level 30 Use Fire In Red -&amp;gt; Water In Blue -&amp;gt; Aero in Green. Use Smudge for movement and use the second of free time after your casts to move. Use Tempera Coat to reduce incoming damage during fights.
-Level 30 - 50 Use creature Muses for damage. They do more potency in AoE situations than on bosses, but do not let them overcap to save them for AoE situations.</description></item><item><title>Pictomancer Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/basic-guide/</link><pubDate>Mon, 24 Jun 2024 00:51:55 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/basic-guide/</guid><description>Basic Overview Let’s go over how the individual pieces of the Pictomancer kit fit together. We can broadly group the job’s mechanics into these subsystems:
-Basic Combos and Palette Gauge Subtractive Palette Creature Motifs Weapon Motif Landscape Motif Basic Combos and Palette Gauge Pictomancer has two primary combo foundations: “Palette” and “Motif”. The “Palette” foundation consists of actions that generate Palette Gauge and Paint Charges, whereas “Motif” paints multiple Motifs on Canvas to life as powerful Muses.</description></item><item><title>Pictomancer Openers</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/openers/</link><pubDate>Sun, 23 Jun 2024 05:35:11 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/openers/</guid><description>Openers The following are openers you can follow at the beginning of the fight to set up the rest of your rotation and burst windows. For more details about the opener, as well as the skills used within, please read the Basic Guide, by Eydis.
-Please note: the Creature Muse used before your Mog/Madeen use can be any of Pom/Wing/Claw/Maw, so long as you don&amp;rsquo;t overwrite the Mog/Madeen by using Wing/Maw before using the saved Mog/Madeen charge.</description></item><item><title>Pictomancer Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/stat-priority/</link><pubDate>Sun, 23 Jun 2024 02:20:46 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/stat-priority/</guid><description/></item><item><title>Pictomancer Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/skills-overview/</link><pubDate>Fri, 21 Jun 2024 06:31:26 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/skills-overview/</guid><description>Please note that all values in this table are values for a level 100 Pictomancer.
-Spells and Abilities Icon Action Name Level Type Cast/Recast MP Cost Range/Radius Description Fire in Red 1 Spell 1.5s / 2.5s 200 MP 25y / 0y Deals fire damage with a potency of 440.
-Additional Effect: Grants Aetherhues
-Duration: 30s
-This action is affected by Hyperphantasia. Aero in Green 5 Spell 1.5s / 2.5s 200 MP 25y / 0y Deals wind damage with a potency of 480.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pictomancer on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/</link><description>Recent content in Pictomancer on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2024 23:26:10 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/casters/pictomancer/index.xml" rel="self" type="application/rss+xml"/><item><title>Pictomancer Job Changes</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/job-changes/</link><pubDate>Tue, 03 Dec 2024 23:26:10 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/job-changes/</guid><description/></item><item><title>Pictomancer Frequently-Asked Questions</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/faq/</link><pubDate>Tue, 03 Dec 2024 23:25:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/faq/</guid><description/></item><item><title>Pictomancer Best in Slot</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/best-in-slot/</link><pubDate>Fri, 02 Aug 2024 04:18:28 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/best-in-slot/</guid><description/></item><item><title>Pictomancer Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/leveling-guide/</link><pubDate>Thu, 27 Jun 2024 05:57:14 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/leveling-guide/</guid><description>&lt;h1 id="single-target">Single Target&lt;/h1>
+&lt;h2 id="sub-level-30">Sub-Level 30&lt;/h2>
+&lt;p>Use Fire In Red -&amp;gt; Water In Blue -&amp;gt; Aero in Green. Use Smudge for movement and use the second of free time after your casts to move. Use Tempera Coat to reduce incoming damage during fights.&lt;/p>
+&lt;h2 id="level-30---50">Level 30 - 50&lt;/h2>
+&lt;p>Use creature Muses for damage. They do more potency in AoE situations than on bosses, but do not let them overcap to save them for AoE situations. If bosses have downtime, cast your Motifs in downtime.&lt;/p></description></item><item><title>Pictomancer Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/basic-guide/</link><pubDate>Mon, 24 Jun 2024 00:51:55 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/basic-guide/</guid><description>&lt;h1 id="basic-overview">&lt;strong>Basic Overview&lt;/strong>&lt;/h1>
+&lt;p>Let’s go over how the individual pieces of the Pictomancer kit fit together. We can broadly group the job’s mechanics into these subsystems:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Basic Combos and Palette Gauge&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Subtractive Palette&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Creature Motifs&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Weapon Motif&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Landscape Motif&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h2 id="basic-combos-and-palette-gauge">&lt;strong>Basic Combos and Palette Gauge&lt;/strong>&lt;/h2>
+&lt;p>Pictomancer has two primary combo foundations: “Palette” and “Motif”. The “Palette” foundation consists of actions that generate Palette Gauge and Paint Charges, whereas “Motif” paints multiple Motifs on Canvas to life as powerful Muses. Both foundations are used to deal damage as a Pictomancer.&lt;/p></description></item><item><title>Pictomancer Openers</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/openers/</link><pubDate>Sun, 23 Jun 2024 05:35:11 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/openers/</guid><description>&lt;h1 id="openers">Openers&lt;/h1>
+&lt;p>The following are openers you can follow at the beginning of the fight to set up the rest of your rotation and burst windows. For more details about the opener, as well as the skills used within, please read the &lt;a href="https://www.thebalanceffxiv.com/jobs/casters/pictomancer/basic-guide/">Basic Guide, by Eydis&lt;/a>.&lt;/p>
+&lt;p>&lt;strong>Please note:&lt;/strong> the Creature Muse used before your Mog/Madeen use can be any of Pom/Wing/Claw/Maw, so long as you don&amp;rsquo;t overwrite the Mog/Madeen by using Wing/Maw before using the saved Mog/Madeen charge.&lt;/p></description></item><item><title>Pictomancer Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/stat-priority/</link><pubDate>Sun, 23 Jun 2024 02:20:46 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/stat-priority/</guid><description/></item><item><title>Pictomancer Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/skills-overview/</link><pubDate>Fri, 21 Jun 2024 06:31:26 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/pictomancer/skills-overview/</guid><description>&lt;p>Please note that all values in this table are values for a level 100 Pictomancer.&lt;/p>
+&lt;h1 id="spells-and-abilities">Spells and Abilities&lt;/h1>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Action Name&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Type&lt;/th>
+ &lt;th style="text-align: left">Cast/Recast&lt;/th>
+ &lt;th style="text-align: left">MP Cost&lt;/th>
+ &lt;th style="text-align: left">Range/Radius&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[410 337 96 231 74 158]" src="https://ffxiv.gamerescape.com/w/images/6/6b/Fire_in_Red_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Fire in Red&lt;/td>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">1.5s / 2.5s&lt;/td>
+ &lt;td style="text-align: left">200 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 0y&lt;/td>
+ &lt;td style="text-align: left">Deals fire damage with a potency of 440.&lt;br>Additional Effect: Grants Aetherhues&lt;br>Duration: 30s&lt;br>This action is affected by Hyperphantasia.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[410 263 411 476 322 461]" src="https://ffxiv.gamerescape.com/w/images/f/f0/Aero_in_Green_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Aero in Green&lt;/td>
+ &lt;td style="text-align: left">5&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">1.5s / 2.5s&lt;/td>
+ &lt;td style="text-align: left">200 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 0y&lt;/td>
+ &lt;td style="text-align: left">Deals wind damage with a potency of 480.&lt;br>Additional Effect: Grants Aetherhues II&lt;br>Duration: 30s&lt;br>Can only be executed while under the effect of Aetherhues.&lt;br>This action cannot be assigned to a hotbar. Fire in Red changes to Aero in Green when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[309 243 62 290 305 237]" src="https://github.com/The-Balance-FFXIV/balance-static/blob/main/static/img/jobs/pct/PCTTemperaCoat.png?raw=true" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Tempera Coat&lt;/td>
+ &lt;td style="text-align: left">10&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 60s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Creates a barrier around self that absorbs damage totaling 20% of maximum HP.&lt;br>Duration: 10s&lt;br>Reduces the recast time of Tempera Coat by 60 seconds when barrier is completely absorbed.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[333 239 447 169 87 276]" src="https://ffxiv.gamerescape.com/w/images/4/45/Water_in_Blue_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Water in Blue&lt;/td>
+ &lt;td style="text-align: left">15&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">1.5s / 2.5s&lt;/td>
+ &lt;td style="text-align: left">200 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 0y&lt;/td>
+ &lt;td style="text-align: left">Deals water damage with a potency of 520.&lt;br>Additional Effect: Increases Palette Gauge by 25&lt;br>Additional Effect: Grants White Paint&lt;br>Maximum Stacks: 5&lt;br>Can only be executed while under the effect of Aetherhues II.&lt;br>This action is affected by Hyperphantasia.&lt;br>This action cannot be assigned to a hotbar.&lt;br>Aero in Green changes to Water in Blue when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[349 375 164 453 225 51]" src="https://ffxiv.gamerescape.com/w/images/b/b0/Smudge_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Smudge&lt;/td>
+ &lt;td style="text-align: left">20&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 20s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Quickly dash 15 yalms forward.&lt;br>Additional Effect: Increases movement speed&lt;br>Duration: 5s&lt;br>Cannot be executed while bound.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[19 419 22 149 429 134]" src="https://ffxiv.gamerescape.com/w/images/6/6b/Fire_II_in_Red_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Fire II in Red&lt;/td>
+ &lt;td style="text-align: left">25&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">1.5s / 2.5s&lt;/td>
+ &lt;td style="text-align: left">300 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Deals fire damage with a potency of 120 to target and all enemies nearby it.&lt;br>Additional Effect: Grants Aetherhues&lt;br>Duration: 30s&lt;br>This action is affected by Hyperphantasia.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[138 28 343 320 107 117]" src="https://ffxiv.gamerescape.com/w/images/5/5a/Creature_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Creature Motif&lt;/td>
+ &lt;td style="text-align: left">30&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">3s / 4s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Paints a creature motif.&lt;br>This action changes when placed on the hotbar in order of Pom Motif, Wing Motif, Claw Motif, and Maw Motif when executed in succession.&lt;br>Cast immediately when used outside of combat.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[186 406 388 451 118 399]" src="https://ffxiv.gamerescape.com/w/images/f/fc/Living_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Living Muse&lt;/td>
+ &lt;td style="text-align: left">30&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 40s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Renders your depiction of a creature to life.&lt;br>Maximum Charges: 3&lt;br>Can only be executed when a Creature Motif is depicted on the Creature Canvas.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[67 332 387 279 13 276]" src="https://ffxiv.gamerescape.com/w/images/5/58/Mog_of_the_Ages_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Mog of the Ages&lt;/td>
+ &lt;td style="text-align: left">30&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 30s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">25y / 25y&lt;/td>
+ &lt;td style="text-align: left">Render your moogle portrait to life, dealing unaspected damage to target and all enemies nearby it with a potency of 1,300 for the first enemy, and 50% less for all remaining enemies.&lt;br>Can only be executed while Moogle Portrait is active.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[64 113 408 416 111 445]" src="https://ffxiv.gamerescape.com/w/images/0/0c/Pom_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Pom Motif&lt;/td>
+ &lt;td style="text-align: left">30&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">3s / 4s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Paints a pom.&lt;br>Cast immediately when used outside of combat.&lt;br>This action cannot be assigned to the hotbar. Creature Motif changes to Pom Motif when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[478 198 447 98 500 80]" src="https://ffxiv.gamerescape.com/w/images/8/8c/Wing_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Wing Motif&lt;/td>
+ &lt;td style="text-align: left">30&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">3s / 4s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Paints a pair of wings.&lt;br>Cast immediately when used outside of combat.&lt;br>This action cannot be assigned to a hotbar. Creature Motif changes to Wing Motif when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[186 463 321 407 488 190]" src="https://ffxiv.gamerescape.com/w/images/2/24/Pom_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Pom Muse&lt;/td>
+ &lt;td style="text-align: left">30&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 40s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Renders a rain of poms, dealing unaspected damage to target and all enemies nearby it with a potency of 1,100 for the first enemy, and 60% less for all remaining enemies.&lt;br>Additional Effect: Adds Depiction of Pom to the Creature Canvas.&lt;br>Maximum Charges: 3&lt;br>Can only be executed while pom is painted on Creature Canvas.&lt;br>This action cannot be assigned to a hotbar. Living Muse changes to Pom Muse when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[85 466 188 499 291 389]" src="https://ffxiv.gamerescape.com/w/images/5/5a/Winged_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Winged Muse&lt;/td>
+ &lt;td style="text-align: left">30&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 40s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Render a pair of windborne wings, dealing unaspected damage to target and all enemies nearby it with a potency of 1,100 for the first enemy, and 60% less for all remaining enemies.&lt;br>Additional Effect: Adds Depiction of Wings to the Creature Canvas.&lt;br>Also paints a Moogle Portrait when Depiction of Pom and Depiction of Wings are rendered on the Creature Canvas.&lt;br>Maximum Charges: 3&lt;br>Can only be executed while a pair of wings is painted on the Creature Canvas.&lt;br>This action cannot be assigned to a hotbar. Living Muse changes to Winged Muse when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[315 31 361 183 311 77]" src="https://ffxiv.gamerescape.com/w/images/e/ea/Aero_II_in_Green_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Aero II in Green&lt;/td>
+ &lt;td style="text-align: left">35&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">1.5s / 2.5s&lt;/td>
+ &lt;td style="text-align: left">300 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Deals wind damage with a potency of 140 to target and all enemies nearby it.&lt;br>Additional Effect: Grants Aetherhues II&lt;br>Duration: 30s&lt;br>Can only be executed while under the effect of Aetherhues.&lt;br>This action is affected by Hyperphantasia.&lt;br>This action cannot be assigned to a hotbar. Fire II in Red changes to Aero II in Green when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[408 204 38 39 213 490]" src="https://ffxiv.gamerescape.com/w/images/3/38/Water_II_in_Blue_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Water II in Blue&lt;/td>
+ &lt;td style="text-align: left">45&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">1.5s / 2.5s&lt;/td>
+ &lt;td style="text-align: left">300 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Deals water damage with a potency of 160 to target and all enemies nearby it.&lt;br>Additional Effect: Increases Palette Gauge by 25&lt;br>Additional Effect: Grants White Paint&lt;br>Maximum Stacks: 5&lt;br>Can only be executed while under the effect of Aetherhues II. This action is affected by Hyperphantasia.&lt;br>This action cannot be assigned to a hotbar. Aero II in Green changes to Water II in Blue when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[127 43 213 347 275 65]" src="https://ffxiv.gamerescape.com/w/images/5/57/Weapon_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Weapon Motif&lt;/td>
+ &lt;td style="text-align: left">50&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">3s / 4s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Paints a weapon motif.&lt;br>This action changes to Hammer Motif when placed on the hotbar.&lt;br>Cast immediately when used outside of combat.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[395 5 132 383 177 181]" src="https://ffxiv.gamerescape.com/w/images/2/2e/Steel_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Steel Muse&lt;/td>
+ &lt;td style="text-align: left">50&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 60s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Render your depiction of a weapon to life.&lt;br>Maximum Charges: 2&lt;br>Can only be executed in combat and when a Weapon Motif is depicted on the Weapon Canvas.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[422 457 61 318 207 316]" src="https://ffxiv.gamerescape.com/w/images/9/97/Hammer_Stamp_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Hammer Stamp&lt;/td>
+ &lt;td style="text-align: left">50&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">Instant / 2.5s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage as a critical direct hit with a potency of 560 for the first enemy, and 60% less for all remaining enemies.&lt;br>Can only be executed while under the effect of Hammer Time.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[383 148 231 320 193 65]" src="https://ffxiv.gamerescape.com/w/images/7/73/Hammer_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Hammer Motif&lt;/td>
+ &lt;td style="text-align: left">50&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">3s / 4s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Paints a hammer.&lt;br>Cast immediately when used outside of combat.&lt;br>This action cannot be assigned to a hotbar.&lt;br>Weapon Motif changes to Hammer Motif when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[224 341 241 434 140 65]" src="https://ffxiv.gamerescape.com/w/images/5/56/Striking_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Striking Muse&lt;/td>
+ &lt;td style="text-align: left">50&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 60s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">25y / 0y&lt;/td>
+ &lt;td style="text-align: left">Render a mighty hammer, granting three stacks of Hammer Time.&lt;br>Duration: 30s&lt;br>Maximum Charges: 2&lt;br>Can only be executed while in combat and when a hammer is painted on the Weapon Canvas.&lt;br>This action cannot be assigned to a hotbar. Steel Muse changes to Striking Muse when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[356 183 116 236 94 343]" src="https://ffxiv.gamerescape.com/w/images/5/5f/Blizzard_in_Cyan_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Blizzard in Cyan&lt;/td>
+ &lt;td style="text-align: left">60&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">2.3s / 3.3s&lt;/td>
+ &lt;td style="text-align: left">300 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 0y&lt;/td>
+ &lt;td style="text-align: left">Deals ice damage with a potency of 800.&lt;br>Additional Effect: Grants Aetherhues&lt;br>Duration: 30s&lt;br>Can only be executed while under the effect of Subtractive Palette and Aetherhues.&lt;br>This action is affected by Hyperphantasia.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[499 187 98 378 124 50]" src="https://github.com/The-Balance-FFXIV/balance-static/blob/main/static/img/jobs/pct/PCTBlizzardIIInCyan.png?raw=true" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Blizzard II in Cyan&lt;/td>
+ &lt;td style="text-align: left">60&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">2.3s / 3.3s&lt;/td>
+ &lt;td style="text-align: left">400 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Deals ice damage with a potency of 240 to target and all enemies nearby it.&lt;br>Additional Effect: Grants Aetherhues&lt;br>Duration: 30s&lt;br>Can only be executed while under the effect of Subtractive Palette.&lt;br>This action is affected by Hyperphantasia.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[235 473 474 170 84 131]" src="https://ffxiv.gamerescape.com/w/images/d/d0/Subtractive_Palette_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Subtractive Palette&lt;/td>
+ &lt;td style="text-align: left">60&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 1s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Grants 3 stacks of Subtractive Palette.&lt;br>Additional Effect: Grants Monochrome Tones&lt;br>Monochrome Tones Effect: Converts one stack of White Paint into Black Paint&lt;br>Palette Gauge Cost: 50&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[101 130 39 422 361 327]" src="https://ffxiv.gamerescape.com/w/images/9/9d/Stone_in_Yellow_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Stone in Yellow&lt;/td>
+ &lt;td style="text-align: left">60&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">2.3s / 3.3s&lt;/td>
+ &lt;td style="text-align: left">300 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 0y&lt;/td>
+ &lt;td style="text-align: left">Deals earth damage with a potency of 840.&lt;br>Additional Effect: Grants Aetherhues II&lt;br>Duration: 30s&lt;br>Can only be executed while under the effect of Subtractive Palette and Aetherhues.&lt;br>This action is affected by Hyperphantasia.&lt;br>This action cannot be assigned to a hotbar. Blizzard in Cyan changes to Stone in Yellow when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[321 141 67 278 198 371]" src="https://ffxiv.gamerescape.com/w/images/e/e3/Stone_II_in_Yellow_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Stone II in Yellow&lt;/td>
+ &lt;td style="text-align: left">60&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">2.3s / 3.3s&lt;/td>
+ &lt;td style="text-align: left">400 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Deals earth damage with a potency of 260 to target and all enemies nearby it.&lt;br>Additional Effect: Grants Aetherhues II&lt;br>Duration: 30s&lt;br>Can only be executed while under the effect of Subtractive Palette and Aetherhues.&lt;br>This action is affected by Hyperphantasia.&lt;br>This action cannot be assigned to a hotbar. Blizzard II in Cyan changes to Stone II in Yellow when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[22 381 398 323 243 411]" src="https://ffxiv.gamerescape.com/w/images/3/37/Thunder_in_Magenta_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Thunder in Magenta&lt;/td>
+ &lt;td style="text-align: left">60&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">2.3s / 3.3s&lt;/td>
+ &lt;td style="text-align: left">300 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 0y&lt;/td>
+ &lt;td style="text-align: left">Deals lightning damage with a potency of 880.&lt;br>Additional Effect: Grants White Paint&lt;br>Maximum Stacks: 5&lt;br>Can only be executed while under the effect of Subtractive Palette and Aetherhues II.&lt;br>This action is affected by Hyperphantasia.&lt;br>This action cannot be assigned to a hotbar. Stone in Yellow changes to Thunder in Magenta when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[455 250 35 431 270 122]" src="https://ffxiv.gamerescape.com/w/images/9/92/Thunder_II_in_Magenta_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Thunder II in Magenta&lt;/td>
+ &lt;td style="text-align: left">60&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">2.3s / 3.3s&lt;/td>
+ &lt;td style="text-align: left">400 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Deals lightning damage with a potency of 280 to target and all enemies nearby it.&lt;br>Additional Effect: Grants White Paint&lt;br>Maximum Stacks: 5&lt;br>Can only be executed while under the effect of Subtractive Palette and Aetherhues.&lt;br>This action is affected by Hyperphantasia.&lt;br>This action cannot be assigned to a hotbar. Stone II in Yellow changes to Thunder II in Magenta when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[220 144 445 394 119 7]" src="https://ffxiv.gamerescape.com/w/images/2/22/Landscape_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Landscape Motif&lt;/td>
+ &lt;td style="text-align: left">70&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">3s / 4s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Paints a landscape motif.&lt;br>This action changes to Starry Sky Motif when placed on the hotbar.&lt;br>Cast immediately when used outside of combat.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[335 115 93 342 223 390]" src="https://ffxiv.gamerescape.com/w/images/e/eb/Scenic_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Scenic Muse&lt;/td>
+ &lt;td style="text-align: left">70&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 120s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Render your depiction of a landscape to life.&lt;br>Can only be executed in combat and when a Landscape Motif is depicted on the Landscape Canvas.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[384 33 461 254 436 426]" src="https://ffxiv.gamerescape.com/w/images/1/16/Starry_Sky_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Starry Sky Motif&lt;/td>
+ &lt;td style="text-align: left">70&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">3s / 4s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Paints a starry sky.&lt;br>Cast immediately when used outside of combat.&lt;br>This action cannot be assigned to a hotbar. Landscape Motif changes to Starry Sky Motif when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[94 15 460 401 406 69]" src="https://ffxiv.gamerescape.com/w/images/d/d7/Starry_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Starry Muse&lt;/td>
+ &lt;td style="text-align: left">70&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 120s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">0y / 30y&lt;/td>
+ &lt;td style="text-align: left">Render a star streaming sky over a magicked landscape, increasing damage dealt by self and nearby party members by 5%.&lt;br>Duration: 20s&lt;br>Additional Effect: Grants Subtractive Spectrum&lt;br>Duration: 30s&lt;br>Additional Effect: Grants Inspiration and 5 stacks of Hyperphantasia&lt;br>Duration: 30s&lt;br>Inspiration Effect: Reduces cast time and recast time of Star Prism and Aetherhue spells by 25% while standing within the bounds of the magicked landscape&lt;br>Effect expires when all stacks of Hyperphantasia are consumed.&lt;br>Additional Effect: Grants Rainbow Bright upon consuming all 5 stacks of Hyperphantasia&lt;br>Rainbow Bright Effect: Rainbow Drip can be cast immediately and has a reduced recast timer&lt;br>Additional Effect: Grants Starstruck&lt;br>Duration: 20s&lt;br>Can only be executed while a starry sky is painted on the Landscape Canvas.&lt;br>This action cannot be assigned to a hotbar. Scenic Muse changes to Starry Muse when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[82 481 96 201 154 114]" src="https://ffxiv.gamerescape.com/w/images/e/e4/Holy_in_White_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Holy in White&lt;/td>
+ &lt;td style="text-align: left">80&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">Instant / 2.5s&lt;/td>
+ &lt;td style="text-align: left">200 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage to target and all enemies nearby it with a potency of 520 for the first enemy, and 60% less for all remaining enemies.&lt;br>Can only be executed while under the effect of White Paint.&lt;br>This action is affected by Hyperphantasia.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[76 181 348 190 200 106]" src="https://ffxiv.gamerescape.com/w/images/e/e5/Hammer_Brush_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Hammer Brush&lt;/td>
+ &lt;td style="text-align: left">86&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">Instant / 2.5s&lt;/td>
+ &lt;td style="text-align: left">NN/A&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage as a critical direct hit with a potency of 620 for the first enemy, and 60% less for all remaining enemies.&lt;br>Combo Action: Hammer Stamp&lt;br>Can only be executed while under the effect of Hammer Time.&lt;br>This action cannot be assigned to a hotbar. Hammer Stamp changes to Hammer Brush when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[365 465 411 42 470 451]" src="https://ffxiv.gamerescape.com/w/images/a/a0/Polishing_Hammer_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Polishing Hammer&lt;/td>
+ &lt;td style="text-align: left">86&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">Instant / 2.5s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage as a critical direct hit with a potency of 680 for the first enemy, and 60% less for all remaining enemies.&lt;br>Combo Action: Hammer Brush&lt;br>Can only be executed while under the effect of Hammer Time.&lt;br>This action cannot be assigned to a hotbar. Hammer Brush changes to Polishing Hammer when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[204 370 339 338 195 232]" src="https://github.com/The-Balance-FFXIV/balance-static/blob/main/static/img/jobs/pct/PCTTemperaGrassa.png?raw=true" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Tempera Grassa&lt;/td>
+ &lt;td style="text-align: left">88&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 1.5s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">0y / 30y&lt;/td>
+ &lt;td style="text-align: left">Creates a barrier around self and all nearby party members that absorbs damage totaling 10% of maximum HP.&lt;br>Duration: 10s&lt;br>Reduces the recast time of Tempera Coat by 30 seconds when barrier is completely absorbed.&lt;br>Can only be executed when under the effect of Tempura Coat.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[407 387 1 259 443 403]" src="https://ffxiv.gamerescape.com/w/images/e/eb/Comet_in_Black_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Comet in Black&lt;/td>
+ &lt;td style="text-align: left">90&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">Instant / 3.3s&lt;/td>
+ &lt;td style="text-align: left">300 MP&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage to target and all enemies nearby it with a potency of 880 for the first enemy, and 60% less for all remaining enemies.&lt;br>Can only be executed while under the effect of Black Paint and Monochrome Tones.&lt;br>This action is affected by Hyperphantasia.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[291 358 369 207 414 423]" src="https://ffxiv.gamerescape.com/w/images/2/23/Rainbow_Drip_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Rainbow Drip&lt;/td>
+ &lt;td style="text-align: left">92&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">4s / 6s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">25y / 25y&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage to all enemies in a straight line before you with a potency of 1000 for the first enemy, and 85% less for all remaining enemies.&lt;br>Additional Effect: Grants White Paint&lt;br>When Rainbow Bright is active, Rainbow Drip can be cast immediately and its recast timer is reduced.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[265 119 308 28 75 350]" src="https://ffxiv.gamerescape.com/w/images/9/9c/Claw_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Claw Motif&lt;/td>
+ &lt;td style="text-align: left">96&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">3s / 4s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Paints a claw.&lt;br>Cast immediately when used outside of combat.&lt;br>This action cannot be assigned to a hotbar. Creature Motif changes to Claw Motif when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[453 146 414 15 319 472]" src="https://ffxiv.gamerescape.com/w/images/0/00/Maw_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Maw Motif&lt;/td>
+ &lt;td style="text-align: left">96&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">3s / 4s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">Paints a set of fangs.&lt;br>Cast immediately when used outside of combat.&lt;br>This action cannot be assigned to a hotbar. Creature Motif changes to Maw Motif when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[77 409 440 103 331 5]" src="https://ffxiv.gamerescape.com/w/images/4/4e/Clawed_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Clawed Muse&lt;/td>
+ &lt;td style="text-align: left">96&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 40s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Render a sharpened claw, dealing unaspected damage to target and all enemies nearby it with a potency of 1,100 for the first enemy, and 60% less for all remaining enemies.&lt;br>Additional Effect: Adds Depiction of Claw to the Creature Canvas&lt;br>Maximum Charges: 3&lt;br>Can only be executed while a claw is painted on the Creature Canvas.&lt;br>This action cannot be assigned to a hotbar. Living Muse changes to Clawed Muse when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[485 195 260 472 162 177]" src="https://ffxiv.gamerescape.com/w/images/a/a2/Fanged_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Fanged Muse&lt;/td>
+ &lt;td style="text-align: left">96&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 40s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Render a set of ferocious fangs, dealing unaspected damage to target and all enemies nearby it with a potency of 1,100 for the first enemy, and 60% less for all remaining enemies.&lt;br>Additional Effect: Adds Depiction of Fangs to the Creature Canvas&lt;br>Also paints a Madeen Portrait when Depiction of Pom, Depiction of Wings, Depiction of Claw, and Depiction of Fangs are rendered on the Creature Canvas.&lt;br>All depictions are removed from the canvas upon execution.&lt;br>Maximum Charges: 3&lt;br>Can only be executed while fangs are painted on the Creature Canvas.&lt;br>This action cannot be assigned to a hotbar. Living Muse changes to Fanged Muse when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[453 71 443 258 219 353]" src="https://ffxiv.gamerescape.com/w/images/f/fc/Retribution_of_the_Madeen_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Retribution of the Madeen&lt;/td>
+ &lt;td style="text-align: left">96&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">Instant / 30s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Render your Madeen portrait to life, dealing unaspected damage to target and all enemies nearby it with a potency of 1,400 for the first enemy, and 50% less for all remaining enemies.&lt;br>Can only be executed while Madeen Portrait is active.&lt;br>This action cannot be assigned to a hotbar. Mog of the Ages changes to Retribution of the Madeen when requirements for execution are met.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[109 404 301 190 252 213]" src="https://ffxiv.gamerescape.com/w/images/3/35/Star_Prism_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Star Prism&lt;/td>
+ &lt;td style="text-align: left">100&lt;/td>
+ &lt;td style="text-align: left">Spell&lt;/td>
+ &lt;td style="text-align: left">Instant / 2.5s&lt;/td>
+ &lt;td style="text-align: left">N/A&lt;/td>
+ &lt;td style="text-align: left">25y / 5y&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage with a potency of 1,400 for the first enemy, and 60% less for all remaining enemies.&lt;br>Additional Effect: Restores HP of all party members nearby target&lt;br>Cure Potency: 400&lt;br>Can only be executed while under the effect of Starstruck.&lt;br>This action is affected by Hyperphantasia.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h1 id="traits">Traits&lt;/h1>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Action Name&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[433 287 74 42 115 80]" src="https://ffxiv.gamerescape.com/w/images/thumb/b/b4/Maim_and_Mend_Icon.png/40px-Maim_and_Mend_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Maim and Mend&lt;/td>
+ &lt;td style="text-align: left">20&lt;/td>
+ &lt;td style="text-align: left">Increases base action damage and HP restoration by 10%.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[453 113 180 104 434 166]" src="https://ffxiv.gamerescape.com/w/images/thumb/9/99/Maim_and_Mend_II_Icon.png/40px-Maim_and_Mend_II_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Maim and Mend II&lt;/td>
+ &lt;td style="text-align: left">40&lt;/td>
+ &lt;td style="text-align: left">Increases base action damage and HP restoration by 30%.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[444 35 18 199 109 217]" src="https://ffxiv.gamerescape.com/w/images/a/aa/Palette_Gauge_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Palette Gauge&lt;/td>
+ &lt;td style="text-align: left">60&lt;/td>
+ &lt;td style="text-align: left">Allows for Palette Gauge accumulation upon landing Water in Blue and Water II in Blue.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[11 369 394 181 63 134]" src="https://ffxiv.gamerescape.com/w/images/c/ca/Enhanced_Artistry_I_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Artistry I&lt;/td>
+ &lt;td style="text-align: left">80&lt;/td>
+ &lt;td style="text-align: left">Grants White Paint upon the landing of Water in Blue, Water II in Blue, Thunder in Magenta, and Thunder II in Magenta.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[447 347 328 297 482 67]" src="https://ffxiv.gamerescape.com/w/images/7/76/Enhanced_Pictomancy_I_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Pictomancy I&lt;/td>
+ &lt;td style="text-align: left">82&lt;/td>
+ &lt;td style="text-align: left">Grants 5 stacks of Hyperphantasia upon executing Starry Muse.&lt;br>Duration: 30s&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[496 227 68 377 390 272]" src="https://ffxiv.gamerescape.com/w/images/5/51/Enhanced_Smudge_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Smudge&lt;/td>
+ &lt;td style="text-align: left">84&lt;/td>
+ &lt;td style="text-align: left">Increases movement speed after executing Smudge.&lt;br>Duration: 5s&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[34 17 63 4 465 102]" src="https://ffxiv.gamerescape.com/w/images/1/1e/Enhanced_Pictomancy_II_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Pictomancy II&lt;/td>
+ &lt;td style="text-align: left">86&lt;/td>
+ &lt;td style="text-align: left">Hammer Stamp changes to Hammer Brush upon execution, which in turn changes to Polishing Hammer upon execution.&lt;br>Additionally allows the accumulation of charges for consecutive uses of Striking Muse.&lt;br>Maximum Charges: 2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[72 193 63 236 34 238]" src="https://ffxiv.gamerescape.com/w/images/1/1c/Enhanced_Tempura_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Tempera&lt;/td>
+ &lt;td style="text-align: left">88&lt;/td>
+ &lt;td style="text-align: left">Allows the execution of Tempera Grassa.&lt;br>Can only be executed while under the effect of Tempera Coat.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[131 245 282 487 201 419]" src="https://ffxiv.gamerescape.com/w/images/4/48/Enhanced_Palette_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Palette&lt;/td>
+ &lt;td style="text-align: left">90&lt;/td>
+ &lt;td style="text-align: left">Grants Monochrome Tones upon executing Subtractive Palette.&lt;br>Monochrome Tones Effect: Converts one stack of White Paint into Black Paint&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[16 349 23 162 371 284]" src="https://ffxiv.gamerescape.com/w/images/0/05/Enhanced_Pictomancy_III_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Pictomancy III&lt;/td>
+ &lt;td style="text-align: left">92&lt;/td>
+ &lt;td style="text-align: left">Grants Rainbow Bright upon consuming all stacks of Hyperphantasia. Stacks may be depleted by casting aetherhue spells.&lt;br>Duration: 30s&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[399 319 370 312 65 208]" src="https://ffxiv.gamerescape.com/w/images/f/f2/Enhanced_Swiftcast_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Swiftcast&lt;/td>
+ &lt;td style="text-align: left">94&lt;/td>
+ &lt;td style="text-align: left">Reduces Swiftcast recast time to 40 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[125 401 93 328 432 27]" src="https://ffxiv.gamerescape.com/w/images/9/96/Pictomancy_Mastery_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Pictomancy Mastery&lt;/td>
+ &lt;td style="text-align: left">94&lt;/td>
+ &lt;td style="text-align: left">Increases the potency of Fire in Red to 400, Aero in Green to 440, Water in Blue to 480, Hammer Stamp to 520, Blizzard in Cyan to 700, Stone in &lt;br>Yellow to 740, Thunder in Magenta to 780, Holy in White to 480, Hammer Brush to 580, Polishing Hammer to 640, and Comet in Black to 780.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[385 354 108 296 438 65]" src="https://ffxiv.gamerescape.com/w/images/f/f7/Enhanced_Pictomancy_IV_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Pictomancy IV&lt;/td>
+ &lt;td style="text-align: left">96&lt;/td>
+ &lt;td style="text-align: left">Allows a third charge of Living Muse. In addition, Claw Motif and Maw Motif may now be performed after executing Living Muse.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[388 377 126 187 183 137]" src="https://ffxiv.gamerescape.com/w/images/b/b6/Enhanced_Addle_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Addle&lt;/td>
+ &lt;td style="text-align: left">98&lt;/td>
+ &lt;td style="text-align: left">Extends the duration of Addle to 15 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[234 79 210 378 226 13]" src="https://ffxiv.gamerescape.com/w/images/8/83/Enhanced_Pictomancy_V_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Enhanced Pictomancy V&lt;/td>
+ &lt;td style="text-align: left">100&lt;/td>
+ &lt;td style="text-align: left">Grants Starstruck upon executing Starry Muse.&lt;br>Duration: 20s&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>
