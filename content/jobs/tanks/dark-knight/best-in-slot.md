@@ -36,12 +36,12 @@ changelog:
 bis:
   - type: genericiframe
     name: 7.15 Bis (2.50)
-    link: https://xivgear.app/?page=embed%7Csl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f&onlySetIndex=0
+    link: https://xivgear.app/?page=embed%7Csl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f&onlySetIndex=2
     description: Speed should be chosen according to comfort, but this set is
       generally recommended.
   - type: genericiframe
     name: 7.15 BiS (2.46)
-    link: https://xivgear.app/?page=embed%7Csl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f&onlySetIndex=0
+    link: https://xivgear.app/?page=embed%7Csl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f&onlySetIndex=6
   - type: genericlink
     name: 7.15 BiS Gearsets
     link: https://xivgear.app/?page=sl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f
