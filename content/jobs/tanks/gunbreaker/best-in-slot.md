@@ -2,22 +2,22 @@
 title: Gunbreaker BIS
 layout: bis
 patch: "7.15"
-lastmod: 2024-12-18T18:41:10.021Z
+lastmod: 2024-12-19T17:44:54.638Z
 changelog:
   - date: 2024-12-18T18:41:01.674Z
     message: 7.15 Gear Update
 bis:
   - type: xivgearset
     name: 2.50 (Chaotic)
-    link: https://xivgear.app/?page=sl%7C00354cf7-a849-48a1-aa58-83576cf95dc8
+    link: ac4ea201-35a5-40a1-85db-541f6ebfd125
     description: </br> The FRU weapon is "true BIS" for all sets. Replace the
       Chaotic gloves with Dark Horse gloves when using the FRU weapon.
   - type: xivgearset
     name: 2.45 (Chaotic)
-    link: https://xivgear.app/?page=sl%7C758a5de1-09ee-4495-8421-29fe36f68326
+    link: c1ce8ff8-2278-4290-8726-d742c2f692ae
   - type: xivgearset
     name: 2.40 (Chaotic)
-    link: https://xivgear.app/?page=sl%7C6c16a6e9-94fd-4fc6-b054-41f7e2258e59
+    link: 33be1c0e-1f66-4360-af1b-bee086b8ead0
   - type: etro
     description: </br>Default suggestion.
     name: 2.50 (Non-Chaotic)
