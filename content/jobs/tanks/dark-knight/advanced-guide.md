@@ -28,11 +28,11 @@ However, it is often your only option for a GCD that can be used outside of mele
 In more advanced settings, we can be more nuanced --- for small amounts of GCD downtime, it may not always be correct to keep the GCD rolling with Unmend.
 DRK's Souleater combo has an average potency per GCD of 387, even before counting the resource gain from Syphon Strike and Souleater.
 If we have a downtime of \(x\) seconds (where \(x\) is smaller than 2.50 --- at 2.50 seconds or longer of downtime, Unmend can be freely used without delaying your next melee GCD), using Unmend gives 150 potency, but delays the next GCD by \(2.50 - x\) seconds, relative to if it had not been used.
-On average, this means that using Unmend costs \(\frac{2.50 - x}{\rm{GCD Speed}}\) of an average filler GCD, or \(378 - \frac{2.50 - x}{\rm{GCD Speed}}\).
+On average, this means that using Unmend costs \(\frac{2.50 - x}{\rm{GCD Speed}}\) of an average filler GCD, or \(378 \times \frac{2.50 - x}{\rm{GCD Speed}}\).
 The average potency gain/loss from using Unmend when there are \(x\) seconds remaining of downtime can then be written as \(150 - (378 \times \frac{2.50 - x}{\rm{GCD Speed}})\).
 When this quantity is positive, you gain damage from using Unmend, and when it is negative, you lose damage from using Unmend.
 
-Setting this equal to zero and solving for \(x\) in terms of GCD speed, we see that the amount of seconds break-even point for using Unmend is when downtime is the the result of the following equation:
+Setting this equal to zero and solving for \(x\) in terms of GCD speed, we see that the break-even point for using Unmend is when downtime (in seconds) is the result of the following expression:
 
 \[
 \begin{aligned}
@@ -141,7 +141,7 @@ This changes the weapon damage multiplier formula from the following:
 
 \[
 \begin{aligned}
-\frac{\left \lfloor{\frac{\rm{baseStrength} \times 115}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
+\frac{\left \lfloor{\frac{115 \times \rm{baseStrength}}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
 \end{aligned}
 \]
 
@@ -149,7 +149,7 @@ To the following (where \(\rm{baseStrength}\) is \(440\) at level 100):
 
 \[
 \begin{aligned}
-\frac{\left \lfloor{\frac{\rm{baseStrength} \times 100}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
+\frac{\left \lfloor{\frac{100 \times \rm{baseStrength}}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
 \end{aligned}
 \]
 
@@ -176,4 +176,3 @@ To the following (where \(\rm{livingShadowStrength}\) is calculated via the form
 \frac{\left \lfloor{\frac{236 \times \left(\rm{livingShadowStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
 \end{aligned}
 \]
-
