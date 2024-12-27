@@ -4,8 +4,8 @@ card_header_image: /img/jobs/blm/basic.png
 authors:
   - Balance-BLM-Staff
   - rika-vanih
-patch: "7.05"
-lastmod: 2024-08-09T00:30:20.483Z
+patch: "7.15"
+lastmod: 2024-12-21T04:01:23.607Z
 changelog:
   - date: 2021-10-26T01:47:44.292Z
     message: Added page
@@ -17,6 +17,8 @@ changelog:
     message: Updated for 7.0
   - date: 2024-08-09T00:30:21.569Z
     message: Updated for 7.05
+  - date: 2024-12-21T04:01:29.135Z
+    message: Updated for 7.15
 ---
 # **7.x Black Mage Guide**
 
@@ -76,7 +78,7 @@ In either stance, keeping the **High Thunder** DoT up is important, as well as u
 
 ## **Fire III Opener**
 
-![](/img/jobs/blm/black-mage-fire-iii-opener.png)
+![](/img/jobs/blm/7.1-black-mage-fire-iii-opener.png)
 
 <br>The standard opener for BLM. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving **Ley Lines** with the INT pot usage in the opener.
 
@@ -85,6 +87,7 @@ The initial **Fire III** cast should start around 4 seconds prepull (to land at 
 Additional notes:
 
 * Despite missing out on a second **Flare Star** usage by starting in Astral Fire, it is still generally a gain to do so rather than have to cast relatively weak **Blizzard IV** then **Fire III** in Umbral Ice III. Having a slower start with an Umbral Ice opener will likely also result in pushing some stronger spells out of buffs.
+* The second charge of **Ley Lines** can be flexibly used at any point after the opener, with the goal of using it during a window where its full duration can be used.
 
 Using Flare for the extra Astral Soul stacks to enable an additional **Flare Star** in the opener before the **Manafont** is not worthwhile. Even if the **Flare** is instant-cast, it is too weak of a spell to justify using it for single-target to use over **Despair**, particularly when considering the lost potency from **Flare** is during raid buffs and the extra **Flare Star** usage occurs after buffs expire.
 
@@ -92,17 +95,15 @@ Using Flare for the extra Astral Soul stacks to enable an additional **Flare Sta
 
 ## **Rotation Overview**
 
-![](/img/jobs/blm/black-mage-single-target-rotation.png "Single Target Rotation")
+![](/img/jobs/blm/7.1-black-mage-single-target-rotation.png "Single Target Rotation")
 
 <br>The standard format for the single target rotation loop is as above, following directly after the second **Despair** in the opener. Both **Xenoglossy** and **High Thunder** have no set place in the rotation, and instead are used as needed. The guaranteed Firestarter proc from **Paradox** has some flexibility in use as well. All of these will be further explained in later sections.
 
 With **Paradox** now being instant-cast during Astral Fire as well in Dawntrail, it is recommended to default to having four **Fire IV** casts before **Paradox**. This provides similar leeway to Endwalker, allowing one extra cast on either half of the Astral Fire cycle. This can be used to shift **Fire IV** casts around and/or use **Xenoglossy**/**High Thunder** as needed anywhere in the cycle.
 
+Patch 7.1 changed **Despair** to be instant-cast at level 100, providing additional leeway and flexibility as well.
+
 As of Patch 7.05, Paradox is now available for use in Umbral Ice again. Since this is a strong spell, it should generally be used every Umbral Ice phase. Prioritize using it for movement/weaving as needed, or for refreshing your Umbral Ice timer if needed.
-
-When possible, it can be advantageous to frontload five **Fire IV** casts before the **Paradox**, giving you even more room in the second half. You will need a bit higher Spell Speed and/or leverage **Triplecast**/**Swiftcast**/**Ley Lines** in order to execute this without dropping Astral Fire. Here is a more extreme example of using two **Xenoglossy** and one **High Thunder** while still being able to complete the full Astral Fire cycle:
-
-![](/img/jobs/blm/black-mage-single-target-rotation-frontloaded-astral-fire-example.png "Single Target Rotation - Frontloaded Astral Fire Example")
 
 ## **High Thunder**
 
@@ -127,7 +128,7 @@ A few important notes:
 
 Using your Firestarter proc in Astral Fire III, typically referred to as “AF3 F3P”, allows for extra flexibility in your Astral Fire timer, as well as extra mobility. Pictured below is a baseline version of using the proc for this purpose, allowing for the maximum leeway in your Astral Fire timer:
 
-![](/img/jobs/blm/black-mage-firestarter_-astral-fire-iii.png "Firestarter: Astral Fire III")
+![](/img/jobs/blm/7.1-black-mage-firestarter_-astral-fire-iii.png "Firestarter: Astral Fire III")
 
 <br>This is just an example though–as needed, you can easily shift around any of the **Fire IV**/**Paradox** casts then use the Firestarter proc when your Astral Fire timer is getting low. Situationally, if you will not be able to complete all of your six **Fire IV** casts before Astral Fire drops, it will generally be the largest priority to use your Firestarter proc to refresh your timer. Guaranteeing the **Flare Star** is often going to be more important than other potential usage for the Firestarter proc.
 
@@ -181,9 +182,9 @@ In case of emergency to prevent deaths (using **Addle**, **Manaward**, or panic 
 
 ## **Ley Lines/Between the Lines/Retrace**
 
-Standing within **Ley Lines** grants the user the buff Circle of Power, reducing both the cast time and recast time of all spells. Since **Ley Lines** affects all GCDs and lasts for 30s, it does not need to be specifically lined up for use in Astral Fire, but instead should generally be used off cooldown at the next available weaving window. Since the recast time is also reduced for spells used within **Ley Lines**, even instant-cast spells gain value.
+Standing within **Ley Lines** grants the user the buff Circle of Power, reducing both the cast time and recast time of all spells. Since **Ley Lines** affects all GCDs and lasts for 30s, it does not need to be specifically lined up for use in Astral Fire, but instead should generally be used roughly off cooldown at the next available weaving window, with the second charge used when there is a window of time to make use of its full duration. Notably, since the recast time is also reduced for spells used within **Ley Lines**, even instant-cast spells gain value.
 
-Fight-specific mechanics/timings may warrant specific positioning or potentially small delays in order to maximize overall uptime within **Ley Lines**. However, there are some options for flexibility for mechanics without having to delay usage:
+Fight-specific mechanics/timings may warrant specific positioning or potentially small delays in order to maximize overall uptime within **Ley Lines**. With the addition of the second charge to the ability with Patch 7.1, minor delays are unlikely to cause drift/missed uses over the course of a fight. In addition, there are some options for flexibility for mechanics without having to delay usage:
 
 1. It can be beneficial to stand at one edge of your **Ley Lines** by default. Many AoEs or other targeted mechanics are not large enough to cover them entirely, so by standing on one edge you may be able to dodge to the opposite edge.
 2. If you need to leave your **Ley Lines** for a short time, consider using an instant cast spell within them, moving out to dodge/handle a mechanic, and then use **Between the Lines** to return to them. If you are able to return before your next cast starts, you do not lose any effective uptime.
@@ -200,13 +201,13 @@ The instant casts from **Triplecast** and **Swiftcast** are valuable for weaving
 
 ### Gaining Time
 
-Using **Triplecast** and **Swiftcast** on spells that are longer than base GCD (notably **Fire IV**, **Despair**, **Flare Star** and **Flare**) will instead make them instant, saving a small amount of time and eventually resulting in additional casts over the course of a fight. For example, on a **Fire IV** cast, instead of taking the \~2.8s before starting the following cast, it is instead subject to the base 2.5s GCD, saving \~0.3s. Saving time over the course of an encounter will result in additional casts that you would have not gotten otherwise.
+Using **Triplecast** and **Swiftcast** on spells that are longer than base GCD (notably **Fire IV**, **Flare Star** and **Flare**) will instead make them instant, saving a small amount of time and eventually resulting in additional casts over the course of a fight. For example, on a **Fire IV** cast, instead of taking the \~2.8s before starting the following cast, it is instead subject to the base 2.5s GCD, saving \~0.3s. Saving time over the course of an encounter will result in additional casts that you would have not gotten otherwise.
 
 ### Instant Blizzard III
 
-An additional consideration for **Swiftcast** or **Triplecast** is usage along with Transpose to increase the damage of Blizzard III. When casted in Astral Fire III, Blizzard III takes a 30% damage penalty, so using **Transpose** to enter Umbral Ice before using it removes this penalty. The **Triplecast**/**Swiftcast** makes the **Blizzard III** instant so it is not subject to the otherwise slow cast time in Umbral Ice—without this, it is not worthwhile over just casting the spell in Astral Fire. Gaining time from making **Despair** and **Flare Star** instant is often more valuable than instant **Blizzard III**, but it’s a solid option especially if you need movement on that GCD, and can be especially valuable with a late weaved **Triplecast**:
+An additional consideration for **Swiftcast** or **Triplecast** is usage along with Transpose to increase the damage of Blizzard III. When casted in Astral Fire III, Blizzard III takes a 30% damage penalty, so using **Transpose** to enter Umbral Ice before using it removes this penalty. The **Triplecast**/**Swiftcast** makes the **Blizzard III** instant so it is not subject to the otherwise slow cast time in Umbral Ice—without this, it is not worthwhile over just casting the spell in Astral Fire. On average this has similar value to making **Fire IV** instant-cast, and can especially be a solid option especially if you need movement on that GCD or if you can weave a **Triplecast** early to catch a **Fire IV**, **Flare Star**, and the **Blizzard III**:
 
-![](/img/jobs/blm/black-mage-triple-despair-fs-b3.png "Triple Despair FS B3")
+![](/img/jobs/blm/black-mage-triple-f4-fs-b3.png "Triple Despair FS B3")
 
 ## **Manafont**
 
