@@ -29,14 +29,14 @@ bis:
     link: https://xivgear.app/
   - type: genericlink
     name: 7.15 BiS Sets
-    link: https://xivgear.app/?page=sl%7Cd16da117-7acd-461b-a57e-c6e5d3e063b0
+    link: https://xivgear.app/?page=sl%7Cae72faca-c3e9-42a1-a82e-1e2bbf934251
     description: This sheet contains the different variations of 7.15 BiS gear, with
       and without the ultimate edenmorn weapon.
   - type: genericiframe
     name: 2.50 Moqueca (7.15 BiS)
-    link: https://xivgear.app/?page=embed%7Csl%7C479fbe4a-ecff-4042-b024-b7c4a7cc61a8&onlySetIndex=1
-  - type: genericlink
-    link: https://xiv.sleepyshiba.com/pld/sets/730chicken.png
+    link: https://xivgear.app/?page=sl%7Cae72faca-c3e9-42a1-a82e-1e2bbf934251&onlySetIndex=1
+  - type: genericiframe
+    link: https://xivgear.app/?page=sl%7Cae72faca-c3e9-42a1-a82e-1e2bbf934251&onlySetIndex=2
     name: 2.50 Roast Chicken (7.05 BiS)
   - type: etro
     description: >-
