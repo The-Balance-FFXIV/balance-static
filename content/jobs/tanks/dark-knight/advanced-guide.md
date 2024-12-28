@@ -5,10 +5,14 @@ authors:
   - Balance-DRK-Staff
   - violet-stardust
 patch: "7.1"
-lastmod: 2024-11-16T15:17:46.131Z
+lastmod: 2024-12-26T01:31:33.152Z
 changelog:
   - date: 2024-11-16T15:17:46.131Z
     message: Updated for 7.1
+  - date: 2024-12-26T01:30:53.485Z
+    message: Updated to use LaTeX formatting, clearer equations, and corrected some
+      minor mistakes
+description: ""
 ---
 
 # Introduction
@@ -25,13 +29,20 @@ However, it is often your only option for a GCD that can be used outside of mele
 
 In more advanced settings, we can be more nuanced --- for small amounts of GCD downtime, it may not always be correct to keep the GCD rolling with Unmend.
 DRK's Souleater combo has an average potency per GCD of 387, even before counting the resource gain from Syphon Strike and Souleater.
-If we have a downtime of `x` seconds (where `x` is smaller than 2.50 --- at 2.50 seconds or longer of downtime, Unmend can be freely used without delaying your next melee GCD), using Unmend gives 150 potency, but delays the next GCD by `(2.50 - x)` seconds, relative to if it had not been used.
-On average, this means that using Unmend costs `(2.50 - x)/([GCD speed])` of an average filler GCD, or `378 * (2.50 - x)/([GCD speed])`.
-The average potency gain/loss from using Unmend when there are `x` seconds remaining of downtime can then be written as `150 - (378 * (2.50 - x)/([GCD speed]))`.
+If we have a downtime of \(x\) seconds (where \(x\) is smaller than 2.50 --- at 2.50 seconds or longer of downtime, Unmend can be freely used without delaying your next melee GCD), using Unmend gives 150 potency, but delays the next GCD by \(2.50 - x\) seconds, relative to if it had not been used.
+On average, this means that using Unmend costs \(\frac{2.50 - x}{\rm{GCD Speed}}\) of an average filler GCD, or \(378 \times \frac{2.50 - x}{\rm{GCD Speed}}\).
+The average potency gain/loss from using Unmend when there are \(x\) seconds remaining of downtime can then be written as \(150 - (378 \times \frac{2.50 - x}{\rm{GCD Speed}})\).
 When this quantity is positive, you gain damage from using Unmend, and when it is negative, you lose damage from using Unmend.
 
-Setting this equal to zero and solving for `x` in terms of GCD speed, we see that the break-even point for using Unmend is when downtime is `2.50 - (150/378 * ([GCD speed]))` seconds long.
-At a 2.50 GCD, this value is just over 1.5, and so using Unmend is a gain (on average) for downtime longer than 1.5 seconds, and a loss for downtime shorter than 1.5 seconds.
+Setting this equal to zero and solving for \(x\) in terms of GCD speed, we see that the break-even point for using Unmend is when downtime (in seconds) is the result of the following expression:
+
+\[
+\begin{aligned}
+2.5 - \left(\frac{150}{378} \times \rm{GCD Speed} \right)
+\end{aligned}
+\]
+
+At a 2.50 GCD, this value is just over \(1.5\), and so using Unmend is a gain (on average) for downtime longer than 1.5 seconds, and a loss for downtime shorter than 1.5 seconds.
 
 Of course, if you know exactly what GCD (if any) will be lost by using Unmend during a short downtime, there is no need to work with averages, and you can calculate for each individual case whether Unmend is a gain or not, but in general, using Unmend only when forced into downtime for more than 1.5 seconds at a time is a safe rule of thumb.
 
@@ -102,7 +113,7 @@ At level 100, Living Shadow performs the following abilities, in sequence, total
 
 You may notice that Living Shadow's abilities have higher damage than an ability with equivalent potency from the player. This is due to Living Shadow having a variety of alternate scalings to the player, that, combined, result in higher damage overall. Living Shadow updates buffs and debuffs in real-time, meaning you can use Living Shadow before buffs and have them applied to its abilities if they are applied before it uses that ability. It is not affected by Darkside, but is affected by every other buff (including potions). Unlike some abilities with alternate scalings, its listed potencies are accurate, and using the formulae listed below with the listed potencies, you get accurate damage numbers.
 
-To use an example, in 7.0 2.50 BiS, a 620 potency attack (e.g. Scarlet Delirium) from the player with Darkside active would do on average ~37069 damage before crit, whereas a 620 potency attack from Living Shadow (e.g. Living Shadow's Disesteem) would do on average ~38958 damage before crit (about 5% more). Due to the multitude of formulae involved, there is no simple rule for how different they will be at a given gear level, but in general, the higher your strength, the more damage Living Shadow's abilities will do compared to an equivalent potency ability on the player.
+To use an example, in 7.05 2.50 BiS, a 620 potency attack (e.g. Scarlet Delirium) from the player with Darkside active would do on average ~37069 damage before crit, whereas a 620 potency attack from Living Shadow (e.g. Living Shadow's Disesteem) would do on average ~38958 damage before crit (about 5% more). Due to the multitude of formulae involved, there is no simple rule for how different they will be at a given gear level, but in general, the higher your strength, the more damage Living Shadow's abilities will do compared to an equivalent potency ability on the player.
 
 ### Living Shadow's Scaling: The Specifics
 
@@ -114,34 +125,56 @@ Living Shadow's base strength is calculated differently to the player. In partic
 
 - Living Shadow's strength includes all strength bonuses from gear, as normal
 
-To be more specific, Living Shadow's base strength (before strength buffs like potions) is calculated by the following formula (where `baseStrength` is `440` at level 100):
+To be more specific, Living Shadow's base strength (before strength buffs like potions) is calculated by the following formula (where \(\rm{baseStrength}\) is \(440\) at level 100):
 
-`baseStrength + strengthProvidedByGear + 2`
+\[
+\begin{aligned}
+\rm{baseStrength} + \rm{strengthProvidedByGear} + 2
+\end{aligned}
+\]
 
-Living Shadow's weapon damage multplier is calculated differently to the player. In particular:
+Living Shadow's weapon damage multiplier is calculated differently to the player. In particular:
 
-- While players would use a weapon damage multplier of `115`, Living Shadow uses a weapon damage multiplier of `100`
+- While players would use a weapon damage multiplier of \(115\), Living Shadow uses a slightly lower weapon damage multiplier of \(100\)
 
 - This is typical for all 'pet actions', and generally true for any damage that does not come 'from' the player
 
 This changes the weapon damage multiplier formula from the following:
 
-`floor(baseStrength * 100 / 1000 + weaponDamage) / 100`
+\[
+\begin{aligned}
+\frac{\left \lfloor{\frac{115 \times \rm{baseStrength}}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
+\end{aligned}
+\]
 
-To the following (where `baseStrength` is 440 at level 100):
+To the following (where \(\rm{baseStrength}\) is \(440\) at level 100):
 
-`floor(baseStrength * 115 / 1000 + weaponDamage) / 100`
+\[
+\begin{aligned}
+\frac{\left \lfloor{\frac{100 \times \rm{baseStrength}}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
+\end{aligned}
+\]
+
 
 Living Shadow's main stat multiplier is calculated differently to the player. In particular:
 
-- The Tank Mastery trait means that tanks have a lower main stat power modifier than other jobs. The modifier varies by level, but at level 100, it is `190` for tanks, and `237` for all other roles (meaning tanks have ~20% lower main stat scaling than other roles). Living Shadow uses the 'other' scaling
+- The Tank Mastery trait means that tanks have a lower main stat power modifier than other jobs. The modifier varies by level, but at level 100, it is \(190\) for tanks, and \(237\) for all other roles (meaning tanks have ~20% lower main stat scaling than other roles). Living Shadow uses the 'other' scaling
 
-- This means Living Shadow gains more damage scaling (about 25% higher) from strength than normal abilities on Dark Knight
+- This means that Living Shadow gains more damage scaling (about 25% higher) from strength than other abilities on Dark Knight
 
-At level 100 (where the main stat multiplier for tanks is `190`, and other jobs is `237`), this changes the main stat multiplier formula from the following (where `baseStrength` is `440` at level 100):
+At level 100 (where the main stat multiplier for tanks is \(190\), and other jobs is \(237\)), this changes the main stat multiplier formula from the following (where \(\rm{baseStrength}\) is \(440\) at level 100):
 
-`trunc(190 * (totalStrength - baseStrength) / baseStrength) + 100 / 100`
 
-To the following:
+\[
+\begin{aligned}
+\frac{\left \lfloor{\frac{190 \times \left(\rm{totalStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
+\end{aligned}
+\]
 
-`trunc(237 * (livingShadowStrength - baseStrength) / baseStrength) + 100 / 100`
+To the following (where \(\rm{livingShadowStrength}\) is calculated via the formula defined above):
+
+\[
+\begin{aligned}
+\frac{\left \lfloor{\frac{236 \times \left(\rm{livingShadowStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
+\end{aligned}
+\]
