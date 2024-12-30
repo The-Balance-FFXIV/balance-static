@@ -10,6 +10,8 @@ lastmod: 2024-12-06T15:51:16.691Z
 changelog:
   - date: 2024-12-30T20:25:23.364Z
     message: Added details for all five phases
+  - date: 2024-12-30T23:22:39.334Z
+    message: general editing pass
 ---
 # Introduction
 
@@ -31,30 +33,35 @@ Shadowed Vigil can be used during the Burnished Glory cast before the second Pow
 
 You can get a GCD as the last fire/lightning cleave goes off, but it is extremely risky with lightning at a 2.50 GCD speed. Disesteem can be held for GCD uptime there.
 
+The Powder Mark followup explosions don't apply vulns and do about half as much damage as the initial hits, so it's possible with heavy mit to gapclose back to the boss and stack them together. Do not do this unless everyone is aware of and prepared for it.
+
 The minimum amount of mana you need to spend is 2 Edge of Shadows after downtime, 1 TBN on Burnished/Powder Mark, spend Dark Arts proc, then TBN again for second Powder Mark hit. You can also carry Carve and Spit and 1 Shadowbringer charge into Phase 2.
 
 # Phase 2: Usurper of Frost
 
-Oblation can last through both hits of Quadruple Slap with no special timing and TBN is usually better for the second hit, but most players will choose to invuln it instead. If the other tank is invulning Quadruple Slap, it's recommended that you Provoke after the second hit to save the healers from having to Esuna the vulnerability from the tank invulning the full tankbuster.
+Oblation can last through both hits of Quadruple Slap with no special timing and TBN is usually better for the second hit, but most players will choose to invuln it instead. If the other tank is invulning Quadruple Slap, it's recommended that you Provoke after the second hit to save the healers from having to Esuna the vulnerability debuff that also amplifies the fallowup auto-attacks.
 
 If you have Delirium before Diamond Dust, use it or lose it. This will only happen with a slow phase 1 kill. You can also delay Carve and Spit and a Shadowbringer charge into the phase 2 opener from phase 1 if you want, especially if you're holding DPS at the end of phase 1.
 
 Your pre-Diamond Dust mana management will vary somewhat depending on P1 killtime. You need to refresh Darkside to 60 seconds after the Quadruple Slap to keep it through the downtime. Passive generation during Diamond Dust is around 2600, and you need to refresh again after returning. With high mana and a Dark Arts proc going in, that means 2 Edge of Shadows at the start, TBN during, and Edge of Shadow after Quadruple Slap if not invulning, or just Edge of Shadow after if you are, then TBN after the Diamond Dust cast starts. 
 
-The goal is to end the uptime phase with ~3-6k mana and a Dark Arts proc. You mana will be on the lower side if you can't get Delirium combo hits before the downtime. Weave Edge of Shadow after coming back and use TBN on a squishy to maintain Darkside through the burst window. It may be a DPS gain to simply let Darkside drop during the transition if you are lower on mana and can trade the Darkside buff on the Hard Slash + Edge of Shadow for another EoS in buffs.
+The goal is to end the uptime phase with ~3-6k mana and a Dark Arts proc. You mana will be on the lower side if you can't get Delirium combo hits before the downtime. Weave Edge of Shadow after coming back to maintain Darkside through your burst window and TBN a squishy for the Hallowed Ray line stack.
 
 Dark Missionary can cover both the knockback and the baited puddles in Diamond Dust.
 
 Hold 1 mins (Delirium, Carve and Spit) for 2 min buffs after Diamond Dust. Edge of Shadow after the boss Scythe Kicks during Mirror Mirror to keep Darkside through Light Rampant (you will naturally do this with faster P1 killtimes).
- 
-Reprisal can cover both the Banish stack/spreads before Light Rampant and the Light Rampant cast itself. It is also possible to keep your combo through the Light Rampant downtime if your GCD roll aligns properly. Press your last GCD at the second pulse of the AoE markers.
-You can precast Delirium as the boss reappears during Light Rampant if you are not trying to keep your combo rolling, or at the voiceline if you are. Weave Carve and Spit immediately after Scarlet Delirium so you can use it again on your crystal.
+
+Reprisal can cover both the Banish stack/spreads before Light Rampant and the Light Rampant cast itself. Missionary can cover the puddle drops plus stacks if used after the boss goes untargetable, but can't be used for Light Rampant if it was used for Diamond Dust. 
+
+ It is possible to keep your combo through the Light Rampant downtime if your GCD roll aligns properly. Press your last GCD at the second pulse of the AoE markers. You can precast Delirium as the boss reappears during Light Rampant if you are not trying to keep your combo rolling, or at the voiceline if you are. Weave Carve and Spit immediately after Scarlet Delirium so you can use it again on your crystal.
+
+Save everything you can for intermission. It may be a DPS gain on your crystal to simply let Darkside drop during the transition if you are lower on mana and can trade the Darkside buff on the Hard Slash + Edge of Shadow for another EoS in buffs.
 
 # Phase 3: Oracle of Darkness
 
-You can keep your combo rolling through the intermission, but it is quite tight.
+You can keep your combo rolling through the intermission, but it is fairly tight. You GCD roll needs to be less than about 80% complete when the veil dies to carry over.
 
-TBN will break on yourself on the Ultimate Relativity cast. Spending down as much as you can there will set you up for the post-Rewind burst. Pre-cast Living Shadow just before getting stunned.
+TBN will break on yourself on the Ultimate Relativity cast. Spending down as much as you can there will set you up for the post-Rewind burst. Depending on how quickly your party buffs afterward, you may be able to hit buffs while pre-cast Living Shadow just before getting stunned.
 
 2.46 GCD lines up to let you roll your GCD as you take your fire out during Ultimate Relativity, with very little leeway.
 
@@ -64,22 +71,29 @@ Reprisal and Missionary can cover the final raidwide (Shockwave Pulsar) plus enr
 
 # Phase 4: Usurper of Frost and Oracle of Darkness
 
-Use a Shadowbringer charge out of buffs at the start. It is theoretically possible to get a two-target cleave without incurring any loss, but this is GCD-perfect on hitting buffs in P5.
-Delirium needs to be used at the Darklit Dragonsong cast to gain a use before CT. Carve can be used in buffs. You should hold Salted Earth for two-target cleave.
+Use a Shadowbringer charge out of buffs at the start. It is theoretically possible to get a two-target cleave without incurring any loss, but this is GCD-perfect on hitting buffs in P5 and will lose a use in that phase if you kill faster than about 80% of the way through the enrage castbar. 
 
-You may choose to have a tank invuln the Somber Dance in Darklit. This can either be one of the tanks regardless of chain/no chain (more difficult to execute) or whichever tank doesn't have chain (one invuln for the price of two). If you invuln this, you will have it for the second Phase 5 tower but not the first.
+Delirium needs to be used at the Darklit Dragonsong cast at the latest to gain a use before CT. Carve can be used in buffs.
 
-Reprisal and Dark Missionary can cover both Akh Morn and the following Morn Afah. A popular strategy involves having one tank solo their boss's Akh Morn while the rest of the party does a 7-stack (sometimes known as 7-1). This does not require extreme amounts of mitigation and adds a lot of comfort/wiggle room for healers.
+You may choose to have a tank invuln the Somber Dance in Darklit. This can either be one of the tanks regardless of chain/no chain (more difficult to execute) or whichever tank doesn't have chain (one invuln for the price of two). If you invuln this, you will have it for the second phase 5 tower but not the first.
 
-Use Shadowed Vigil after dropping rewind in Crystallize Time to survive potential vulnerability mistakes. You can also put Dark Missionary here (on top of other mits) to help prevent DPS deaths from non-tankbuster vuln hits.
+Reprisal and Dark Missionary can cover both Akh Morn and the following Morn Afah. A popular strategy involves having one tank solo their boss's Akh Morn while the rest of the party does a 7-stack (sometimes known as 7-1). This does not require extreme amounts of mitigation—you can save Shadowed Vigil for Crystallized Time if doing this—and adds a lot of comfort/wiggle room for healers.
 
-Go into Crystallize Time with low mana and Dark Arts, and use Shadowbringer after Crystallize Time, you'll get two stacks back during cutscene. You can also use two Edges of Shadow and TBN after Crystallize Time, as you get roughly 5200 MP gen during transition.
+You can keep Darkside through Crystallized time if you refresh to 60 seconds at the end of the cast. Count on gaining about 4k mana during the mechanic.
+
+You can use Shadowed Vigil after dropping rewind in Crystallize Time to survive potential vulnerability mistakes. You can also put Dark Missionary here (on top of other mits) to help prevent DPS deaths from non-tankbuster vuln hits.
+
+You can use your Shadowbringer charge and Salted Earth after coming back without losing them in the phase 5 opener, but do not use Living Shadow. Total MP generation during transition is around 5200, so try to end the phase with around 4k mana and a Dark Arts proc. This will likely involve two Edges of Shadow plus TBN.
 
 # Phase 5: Pandora
 
 Salted Earth should be used on a 2 min CD for this phase, in buffs, as you do not lose a use.
 
-You will likely want to invuln one of the Wings Dark and Light tankbusters. If you're able to, this frees up your conventional mitigations for exawaves.
+Shadowed Vigil can be used after the Paradise Regained castbar ends. 10-second mitigations need to be used after the "W" in the Wings Dark and Light cast to last through both hits. Save TBN for the second hit on whichever tank is not invulning.
+
+Hitting Rampart/Shadowed Vigil to deal with auto-attack damage during exawaves helps quite a bit. You can use them on the first set if using cooldowns on the second Wings, or on the third set if using cooldowns on the first Wings. 
+
+Mana plan for this phase is a fairly standard 5/2. You can bank your first Dark Arts proc on Pandora's Box if you started the phase with less than 9k MP, or on the Polarizing Paths before it. Your second proc can be on the second Polarizing Paths or the third Fulgent Blade.
 
 Best of luck on your clear!
 
