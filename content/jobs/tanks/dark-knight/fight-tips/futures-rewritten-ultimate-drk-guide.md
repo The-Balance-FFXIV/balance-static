@@ -17,7 +17,7 @@ changelog:
 
 This guide contains suggestions on how to use your cooldowns effectively, and tips and tricks to play each phase as effectively as possible.
 
-Both 2.50 and 2.46 GCD speeds are comfortable during this fight, so we recommend choosing whatever speed you feel most comfortable on.
+Both 2.50 and 2.46 GCD speeds are comfortable during this fight, so we recommend choosing whichever speed you feel most comfortable on.
 
 # Phase 1: Fatebreaker
 
