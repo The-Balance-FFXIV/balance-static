@@ -73,13 +73,13 @@ Reprisal and Missionary can cover the final raidwide (Shockwave Pulsar) plus enr
 
 Use a Shadowbringer charge out of buffs at the start. It is theoretically possible to get a two-target cleave without incurring any loss, but this is GCD-perfect on hitting buffs in P5 and will lose a use in that phase if you kill faster than about 80% of the way through the enrage castbar. 
 
-Delirium needs to be used at the Darklit Dragonsong cast at the latest to gain a use before CT. Carve can be used in buffs.
+Delirium needs to be used at the Darklit Dragonsong cast at the latest to gain a use before Crystallize Time. Carve and Spit can be used in buffs.
 
 You may choose to have a tank invuln the Somber Dance in Darklit. This can either be one of the tanks regardless of chain/no chain (more difficult to execute) or whichever tank doesn't have chain (one invuln for the price of two). If you invuln this, you will have it for the second phase 5 tower but not the first.
 
-Reprisal and Dark Missionary can cover both Akh Morn and the following Morn Afah. A popular strategy involves having one tank solo their boss's Akh Morn while the rest of the party does a 7-stack (sometimes known as 7-1). This does not require extreme amounts of mitigation—you can save Shadowed Vigil for Crystallized Time if doing this—and adds a lot of comfort/wiggle room for healers.
+Reprisal and Dark Missionary can cover both Akh Morn and the following Morn Afah. A popular strategy involves having one tank solo their boss's Akh Morn while the rest of the party does a 7-stack (sometimes known as 7-1). This does not require extreme amounts of mitigation—you can save Shadowed Vigil for Crystallize Time if doing this—and adds a lot of comfort/wiggle room for healers.
 
-You can keep Darkside through Crystallized time if you refresh to 60 seconds at the end of the cast. Count on gaining about 4k mana during the mechanic.
+You can keep Darkside through Crystallize Time if you refresh to 60 seconds at the end of the cast. Count on gaining about 4k mana during the mechanic.
 
 You can use Shadowed Vigil after dropping rewind in Crystallize Time to survive potential vulnerability mistakes. You can also put Dark Missionary here (on top of other mits) to help prevent DPS deaths from non-tankbuster vuln hits.
 
