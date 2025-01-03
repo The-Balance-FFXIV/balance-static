@@ -10,22 +10,24 @@ changelog:
     message: Updated for 6.55. See set description for link to newest BiS.
   - date: 2024-08-22T06:37:37.121Z
     message: updated gear sets
+  - date: 2025-01-03T16:30:53.101Z
+    message: Fixed the display of the embeds.
 bis:
-  - type: gsheets
+  - type: genericiframe
     name: Lower Item Level Gear Sets
-    link: https://xivgear.app/?page=sl%7Cde55fddd-4515-402c-95aa-ff7913941734
+    link: https://xivgear.app/?page=sl%7Cb4256335-0c4a-43be-9e2f-4c4ae6a65f35&onlySetIndex=0
     description: Descriptions for all sets individually can be found in the sheet.
       As a general rule these sets sacrifice the higher vitality from 730 gear
       in return for damage gains gotten from 710 pieces of gear.
-  - type: gsheets
-    link: https://xivgear.app/?page=sl%7C36810e75-44ce-455e-b290-c03fb5c56392
+  - type: genericiframe
+    link: https://xivgear.app/?page=sl%7Cbfe800de-d7b6-4b35-a1c8-c6cb2bda2bfa&onlySetIndex=0
     name: Max Item Level Gear Sets
     description: Descriptions for both sets can be found in the sheet. These are
       sets that are utilizing all 730 gear. While sacrificing a very small
       amount of damage compared to the other sets, they are still extremely
       useful for both reclears and should be used for ultimate prog. **PLEASE DO
       NOT GO INTO ULTIMATE PROG WITHOUT MAX ITEM LEVEL**
-  - type: gsheets
+  - type: genericlink
     name: " Full Comprehensive Set List"
     description: These sets have no descriptions, and most people should never worry
       about them. They only exist if someone wants to know every absolute
