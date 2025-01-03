@@ -25,7 +25,7 @@ Use a standard opener for this fight. 2.50 GCD with an Unmend pull is very tight
 
 Powder Mark hits much harder on the first hit than the second. Rampart can last through both hits, but Shadowed Vigil cannot. Use Rampart on the first regardless of whether you're main tank (MT) or off tank (OT), and add Dark Mind + 2x Oblation after the boss starts his quote and use The Blackest Night (TBN) as you go to your spread spot.
 
-Pre-cast Delirium near the end of Utopian Sky. There are three indicators for this: the end of the Burnt Strike castbar, the start of the "B" in the Brightfire cast, or when debuffs hit 9 seconds.
+Pre-cast Delirium near the end of Utopian Sky. There are three indicators for this: the end of the Burnt Strike cast-bar, the start of the "B" in the Brightfire cast, or when debuffs hit 9 seconds.
 
 Dark Missionary can cover 2-3 hits of Fall of Faith plus the following Burnished Glory. The earliest you can use it is as the first tether resolves, though it's recommended to err on the side of caution, as Burnished Glory is by far the most important cast to cover. Reprisal does not work on the Fall of Faith tethers that don't originate from Fatebreaker himself.
 
@@ -53,15 +53,15 @@ Hold 1 mins (Delirium, Carve and Spit) for 2 min buffs after Diamond Dust. Edge 
 
 Reprisal can cover both the Banish stack/spreads before Light Rampant and the Light Rampant cast itself. Missionary can cover the puddle drops plus stacks if used after the boss goes untargetable, but can't be used for Light Rampant if it was used for Diamond Dust. 
 
- It is possible to keep your combo through the Light Rampant downtime if your GCD roll aligns properly. Press your last GCD at the second pulse of the AoE markers. You can precast Delirium as the boss reappears during Light Rampant if you are not trying to keep your combo rolling, or at the voiceline if you are. Weave Carve and Spit immediately after Scarlet Delirium so you can use it again on your crystal.
+It is possible to keep your combo through the Light Rampant downtime if your GCD roll aligns properly. Press your last GCD at the second pulse of the AoE markers. You can precast Delirium as the boss reappears during Light Rampant if you are not trying to keep your combo rolling, or at the voice-line if you are. Weave Carve and Spit immediately after Scarlet Delirium so you can use it again on your crystal.
 
-Save everything you can for intermission. It may be a DPS gain on your crystal to simply let Darkside drop during the transition if you are lower on mana and can trade the Darkside buff on the Hard Slash + Edge of Shadow for another EoS in buffs.
+Save everything you can for intermission. It may be a DPS gain on your crystal to simply let Darkside drop during the transition if you are lower on mana and can trade the Darkside buff on the Hard Slash + Edge of Shadow for another Edge of Shadow in buffs.
 
 # Phase 3: Oracle of Darkness
 
 You can keep your combo rolling through the intermission, but it is fairly tight. You GCD roll needs to be less than about 80% complete when the veil dies to carry over.
 
-TBN will break on yourself on the Ultimate Relativity cast. Spending down as much as you can there will set you up for the post-Rewind burst. Depending on how quickly your party buffs afterward, you may be able to hit buffs while pre-cast Living Shadow just before getting stunned.
+TBN will break on yourself on the Ultimate Relativity cast. Spending down as much as you can there will set you up for the post-Rewind burst. Depending on how quickly your party buffs afterwards, you may be able to hit buffs while pre-cast Living Shadow just before getting stunned.
 
 2.46 GCD lines up to let you roll your GCD as you take your fire out during Ultimate Relativity, with very little leeway.
 
