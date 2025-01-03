@@ -52,8 +52,8 @@ bis:
     name: 7.05 TOP Gearsets
     link: https://xivgear.app/?page=sl%7C1b8cab41-b5cd-4aee-bdb6-fdff787ef795
   - type: genericlink
-    name: 7.05 DSR Gearsets
-    link: https://xivgear.app/?page=sl%7C4ea06fb1-9176-41e8-8c60-3239c9449f0d
+    name: 7.15 DSR Gearsets
+    link: https://xivgear.app/?page=sl%7Cd30bac05-e801-4e0d-b1ea-4bed4e0e17fb
   - type: genericlink
     name: 7.05 TEA Gearsets
     link: https://xivgear.app/?page=sl%7Ce1946069-4bd8-4aba-ad89-bee34e32d388
