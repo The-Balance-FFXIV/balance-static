@@ -1,5 +1,6 @@
 ---
 title: Futures Rewritten (Ultimate) RDM Guide
+card_header_image: /img/rdm-fight-tips.jpg
 authors:
   - cyclopsdragon
 patch: "7.15"
