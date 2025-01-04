@@ -1,5 +1,8 @@
 ---
 title: Futures Rewritten (Ultimate) RDM Guide
+authors:
+  - cyclopsdragon
+patch: "7.15"
 lastmod: 2025-01-04T04:06:33.337Z
 ---
 # Introduction
