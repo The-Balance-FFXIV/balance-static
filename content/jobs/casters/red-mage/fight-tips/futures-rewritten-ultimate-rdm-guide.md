@@ -58,7 +58,7 @@ If your group wants a slower P1 killtime, you can contribute to this without los
 
 # Phase One: Fatebreaker
 
-The suggested opener for this fight starts the melee combo early in order to fit two uses of Grand Impact into buffs without using Swiftcast, as using Swiftcast makes us unable to get our last GCD before the boss becomes untargetable. The Addle usage in the opener assumes that your mitigation plan has you using Addle on the opening cleaves and stack/spread, and our last melee-range oGCD happens right before having to move away from the boss for spreads.
+The suggested opener for this fight starts your first melee combo early in order to fit two uses of Grand Impact into buffs without using Swiftcast, as using Swiftcast makes us unable to get our last GCD before the boss becomes untargetable. The Addle usage in the opener assumes that your mitigation plan has you using Addle on the opening cleaves and stack/spread, and our last melee-range oGCD happens right before having to move away from the boss for spreads.
 
 ![5 seconds prepull Veraero. Verthunder, weave Acceleration and Potion. Verthunder, weave Fleche and Manafication. Enchanted Riposte, weave Embolden. Enchanted Zwerchhau, weave Contre Sixte. Enchanted Redoublement, weave Engagement and Corps-a-Corps. Verholy, weave Addle and Corps-a-Corps. Scorch, weave Engagement and Vice of Thorns. Resolution, weave Prefulgence. Grand Impact. Verfire. Verthunder, weave Acceleration. Grand Impact. Verstone. Veraero, weave Fleche. Verthunder.](/img/rdm-fru-p1.png "Futures Rewritten Recommended Opener")
 
