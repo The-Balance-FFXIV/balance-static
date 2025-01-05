@@ -10,7 +10,7 @@ lastmod: 2025-01-04T04:06:33.337Z
 
 This raid has some of the more lenient DPS checks in terms of on-content Ultimate fights. However, the difficulty of the DPS checks in the first two phases will vary greatly depending on your composition as they are quite downtime-heavy, so you may find yourself having to shift your damage around these first two phases a fair bit. Additionally, this fight sees a much larger population of double caster compositions than prior Ultimate fights, due to the popularity of Pictomancer in the fight. This guide will account for as many possible scenarios as possible regarding damage compositions and fake melee positions.
 
-The fight is comprised of five primary phases and an intermission phase, with varying DPS checks and mechanical difficulties. These phases are commonly referred to by numbers, and will be referenced as below:
+The fight consists of five primary phases and an intermission phase, with varying DPS checks and mechanical difficulties. These phases are commonly referred to by numbers, and will be referenced as below:
 
 * Fatebreaker: P1
 * Usurper of Frost: P2
@@ -118,7 +118,7 @@ Once you arrive at either the middle tower or your clock spot, prepare a Dualcas
 
 ## Mitigation Usage
 
-If your mitigation plan asked you to Addle the first Burnished Glory in P1, it will likely have you using Addle on Diamond Dust and the Banish into Light Rampant combo. If your mitigation plan asked you to Addle the P1 opener and the second Burnished Glory, it will likely have you using Addle on the Hallowed Ray line stack and the Absolute Zero enrage. Regardless of your plan, you should use Magick Barrier when the Usurper of Frost's knockback animation happens during Diamond Dust, and on the Absolute Zero enrage.
+If your mitigation plan asks you to Addle the first Burnished Glory in P1, it will likely have you using Addle on Diamond Dust and the Banish into Light Rampant combo. If your mitigation plan asks you to Addle the P1 opener and the second Burnished Glory, it will likely have you using Addle on the Hallowed Ray line stack and the Absolute Zero enrage. Regardless of your plan, you should use Magick Barrier when the Usurper of Frost's knockback animation happens during Diamond Dust, and on the Absolute Zero enrage.
 
 # Intermission
 
