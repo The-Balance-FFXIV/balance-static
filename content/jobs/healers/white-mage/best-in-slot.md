@@ -15,14 +15,14 @@ changelog:
   - date: 2025-01-06T12:40:41.694Z
     message: Updated for 7.1 + Chaotic Gear
 bis:
-  - type: genericiframe
+  - type: genericlink
     name: Chaotic Gear Sets
     link: https://xivgear.app/?page=sl%7Ce72af770-24b4-4fbc-8b36-a8fd339e1463
     description: "These are the current highest damage sets. They have the minimum
       possible piety and utilize gear from Chaotic Cloud of Darkness.
       Alternative minimum piety sets without chaotic gear and using lower item
       level gear can be found in the comprehensive set list below. "
-  - type: genericiframe
+  - type: genericlink
     link: https://xivgear.app/?page=sl%7Cbfe800de-d7b6-4b35-a1c8-c6cb2bda2bfa&onlySetIndex=0
     name: More Piety Gear Sets
     description: >-
