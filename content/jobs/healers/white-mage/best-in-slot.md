@@ -29,8 +29,9 @@ bis:
       Descriptions for both sets can be found in the sheet. These are sets that
       are utilizing all 730 gear. While sacrificing a very small amount of
       damage compared to the other sets, they are still extremely useful for
-      both reclears and should be used for ultimate prog. **PLEASE DO NOT GO
-      INTO ULTIMATE PROG WITHOUT MAX ITEM LEVEL, ESPECIALLY NOW THAT IF YOURE
+      both reclears and should be used for ultimate prog. These are also the
+      best sets for max item level without using Chaotic gear. **PLEASE DO NOT
+      GO INTO ULTIMATE PROG WITHOUT MAX ITEM LEVEL, ESPECIALLY NOW THAT IF YOURE
       GOING FOR MAX DPS CHAOTIC GETS YOU MAX ITEM LEVEL AS WELL
 
       **
