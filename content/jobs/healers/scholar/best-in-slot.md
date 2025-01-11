@@ -55,6 +55,22 @@ bis:
     name: 2.31 min piety
     link: https://xivgear.app/?page=sl%7C6309a7ef-29a6-49fe-9fac-ab5237cb799b
   - type: etro
+    name: mid piety/no chaotic
+    description: These are higher piety sets for those  who don't know the limit of
+      their piety or don't know the raid environment they're going into and how
+      much they'll need to safety heal. You should use these sets until you get
+      more used to your kit and how to effectively heal without burning too much
+      mana.
+  - type: genericiframe
+    name: 2.50 956 piety
+    description: https://xivgear.app/?page=sl%7Cf802e7b0-b316-419a-a777-6794ed0cebb1
+  - type: genericiframe
+    name: 2.49 956 piety
+    link: https://xivgear.app/?page=sl%7C18ce34ca-066b-4a2a-a468-d415b442d0e4
+  - type: genericiframe
+    name: 2.50 1330 piety
+    link: https://xivgear.app/?page=sl%7C7e35966f-654e-4c3e-800b-c29e768cae7e
+  - type: etro
     name: You can find full sheet with more sets in the scholar resources on The
       Balance discord
     description: ""
