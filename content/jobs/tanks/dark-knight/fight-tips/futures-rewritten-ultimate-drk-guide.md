@@ -1,5 +1,5 @@
 ---
-title: Future's Rewritten (Ultimate) DRK Guide
+title: Futures Rewritten (Ultimate) DRK Guide
 card_header_image: /img/drk_fight_tips.png
 authors:
   - Balance-DRK-Staff
