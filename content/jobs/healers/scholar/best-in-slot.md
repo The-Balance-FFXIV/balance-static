@@ -37,57 +37,39 @@ bis:
 
       If using the Early Refresh(DoT clip) opener: The 2.50 GCD and 2.49 GCD sets will NOT land Biolysis under Chain Stratagem if you use Biolysis AFTER your 6th Energy Drain in the opener (the breakpoint is 2.47 GCD and requires low ping). To fix this, use Biolysis on the same GCD as your 6th Energy Drain.
   - type: etro
-    name: General Recommendations
-    description: >-
-      The i729 versions of the 2.5 and 2.49 sets are practical all-rounder sets.
-      They are only behind their i727 counterparts by single-digit DPS and offer
-      more HP, piety and magic defense in return.
-
-
-      We recommend the 2.5/2.49 set for general use
-    link: ""
-  - type: xivgearset
-    link: 7C7bc551de-ceb6-446b-9391-6eba86b2c78e
-    name: "2.5"
-  - type: xivgearset
-    name: "2.49"
-    link: 7C33be7428-e34c-4f47-81fd-b38f98070baa
-  - type: gsheets
-    name: FRU / Max ilvl Sets
-    link: ""
-    description: >-
-      These sets are for people who value eHP or want to start working towards
-      Futures Rewritten (Ultimate). FRU sets are between 2.50/2.49 low piety
-      sets and a higher piety 2.5 set. Choose whichever one seems more in line
-      with your goals.
-
-
-      We recommend the 2.5/2.49 set or the  2.5 higher piety set.
-  - type: xivgearset
-    name: "2.5"
-    link: 7Cdf6a55e3-30a0-4dc6-b163-1a6278150075
-  - type: xivgearset
-    name: "2.49"
-    link: 7C91a8fdc7-586c-4321-ba6f-763612e07cda
-  - type: gsheets
-    name: Max Damage Sets
-    link: ""
-    description: >-
-      These sets are for people who are interested in speeds/parsing and want
-      the most damage they can get. These sets use 710 items so your eHP will be
-      lower. The 2.5 set may parse better with higher variance but 2.31 has more
-      consistent damage.
-
-
-
-
-      We recommend the 2.5 or 2.31 sets.
-  - type: xivgearset
-    link: 7C1fa4c759-bd26-402e-90e3-109e6379e081
-    name: "2.5"
-  - type: xivgearset
-    name: "2.31"
-    link: 7Ce2ddde5b-2846-4c2d-87f1-a6a990612a00
+    name: Min Piety BiS sets
+    description: "These sets are for people who just want to push for damage and
+      know the limits of their mana regen. The .50 and .49 sets are slow sets
+      that have better mana eco while the 2.32 sets and 2.31 sets uses a lot
+      more mana. the .32 set does 9 more sim DPS than the .31 set. "
+  - type: genericlink
+    description: https://xivgear.app/?page=sl%7C6fddb2b7-3c13-4933-8d00-a361e45b60c3
+    name: 2.5 min piety
+  - type: genericiframe
+    name: 2.49 min piety
+    link: https://xivgear.app/?page=sl%7C2a1726c4-3487-47fc-a079-0cef761f6cc7
+  - type: genericiframe
+    name: 2.32 min piety
+    link: https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=2
+  - type: genericiframe
+    name: 2.31 min piety
+    link: https://xivgear.app/?page=sl%7C6309a7ef-29a6-49fe-9fac-ab5237cb799b
+  - type: etro
+    name: mid piety/no chaotic
+    description: These are higher piety sets for those  who don't know the limit of
+      their piety or don't know the raid environment they're going into and how
+      much they'll need to safety heal. You should use these sets until you get
+      more used to your kit and how to effectively heal without burning too much
+      mana.
+  - type: genericiframe
+    name: 2.50 956 piety
+    description: https://xivgear.app/?page=sl%7Cf802e7b0-b316-419a-a777-6794ed0cebb1
+  - type: genericiframe
+    name: 2.49 956 piety
+    link: https://xivgear.app/?page=sl%7C18ce34ca-066b-4a2a-a468-d415b442d0e4
+  - type: genericiframe
+    name: 2.50 1330 piety
+    link: https://xivgear.app/?page=sl%7C7e35966f-654e-4c3e-800b-c29e768cae7e
   - type: etro
     name: You can find full sheet with more sets in the scholar resources on The
       Balance discord
