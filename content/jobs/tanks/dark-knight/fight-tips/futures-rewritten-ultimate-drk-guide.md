@@ -3,8 +3,8 @@ title: Futures Rewritten (Ultimate) DRK Guide
 card_header_image: /img/drk_fight_tips.png
 authors:
   - Balance-DRK-Staff
-  - Violet Stardust
   - apileofcats
+  - violet-stardust
 patch: "7.11"
 lastmod: 2024-12-06T15:51:16.691Z
 changelog:
