@@ -122,16 +122,14 @@ Ensure before each opener you always cast ‘Suiton’ roughly 6 seconds before 
 Replace Dream Within A Dream with Assassinate.\
 Once you hit level 62 you can begin pooling Ninki and aiming to spend it within your burst windows with Hellfrog Medium, and later Bhavacakra at level 68.
 
-
-
 ### Levels 70-72
 
 **NOTE:** Due to this opener only being useful for a couple of levels, it is recommended to skip this opener and do the Levels 73 - 79 opener instead, unless you plan on doing Level 70 Ultimate content such as the Unending Coil of Bahamut (Ultimate), or the Ultima Weapon’s Refrain (Ultimate).\
 For more information on the level 70 rotation, see the pin in the #nin_questions channel.
 
-![](/img/jobs/nin/ninja-level-70-72-ninja-opener.png)
+![](/img/jobs/nin/ninja_70.png)
 
-Dokumori can be double-weaved with Trick Attack after Gust Slash to allow for a potion to be used after Spinning Edge.
+Potion should be used after Spinning Edge.
 
 ### Levels 73-79
 
@@ -156,8 +154,6 @@ At level 92 Trick Attack will upgrade to Kunai's Bane.
 At level 96 Dokumori will grant "Higi" which will upgrade the next Bhavacakra to Zesho Meppo, or Hellfrog Medium to Deathfrog Medium.
 
 And at level 100 the oGCD Tenri Jindo will be unlocked, which is weaved with the first Bhavacakra in the opener.
-
-
 
 ## **Multi-Target Guidelines**
 
