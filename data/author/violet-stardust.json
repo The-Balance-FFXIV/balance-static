@@ -1,8 +1,8 @@
 {
-    "username": "Violet Stardust",
-    "image": "/img/profile/violet-stardust.png",
-    "name": "Violet Stardust",
-    "socials": {
-      "discord_id": "violet.stardust"
-    }
+  "username": "violet-stardust",
+  "image": "/img/profile/violet-stardust.png",
+  "name": "Violet Stardust",
+  "socials": {
+    "discord_id": "violet.stardust"
   }
+}
