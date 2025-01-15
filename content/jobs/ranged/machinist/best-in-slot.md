@@ -20,6 +20,17 @@ changelog:
     message: top bis updated for 6.5
 bis:
   - type: etro
+    name: Chaotic + Ultimate Weapon Best-in-Slot 2.5 GCD
+    link: https://etro.gg/gearset/821040d4-fea5-46ef-8aa9-2a9de0ac2eeb
+    description: >-
+      <!--StartFragment-->
+
+
+      ~5 DPS increase over previous BIS (w/ FRU Weapon). Swap out a DH meld for a DET meld on the Augmented Quetzalli Ring.
+
+
+      <!--EndFragment-->
+  - type: etro
     name: Ultimate Weapon Best-in-Slot 2.5 GCD
     link: https://etro.gg/gearset/9e444cba-9bb9-4590-ae16-a750067835eb
   - type: etro
