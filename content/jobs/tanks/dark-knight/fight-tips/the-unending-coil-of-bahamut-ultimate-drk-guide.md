@@ -3,7 +3,7 @@ title: The Unending Coil of Bahamut (Ultimate) DRK Guide
 card_header_image: /img/drk_fight_tips.png
 authors:
   - apileofcats
-  - Violet Stardust
+  - violet-stardust
 patch: "7.15"
 lastmod: 2025-01-14T23:55:40.718Z
 changelog:
