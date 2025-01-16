@@ -3,11 +3,13 @@ title: Monk Advanced Guide
 card_header_image: /img/jobs/mnk/advanced.png
 authors:
   - nyanpyon
-patch: "7.1"
-lastmod: 2024-11-26T03:36:54.692Z
+patch: "7.15"
+lastmod: 2025-01-16T01:14:13.226Z
 changelog:
   - date: 2024-11-26T03:37:01.717Z
     message: Added first part of advanced guide
+  - date: 2025-01-16T01:14:18.751Z
+    message: Corrected math (nothing else changed) and formatting.
 ---
 # **Advanced Monk - Out of the Ballpit**
 
