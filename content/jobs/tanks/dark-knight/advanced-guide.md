@@ -101,7 +101,7 @@ At level 100, Living Shadow performs the following abilities, in sequence, total
 
 - Shadowstride (Single Target, No Damage)
 
-- Shadowbringer (AoE, 470 Potency)
+- Shadowbringer (AoE, 570 Potency)
 
 - Edge of Shadow (Single Target, 420 Potency)
 
