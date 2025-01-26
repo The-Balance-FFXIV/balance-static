@@ -21,7 +21,7 @@ The fight consists of five primary phases and an intermission phase, with varyin
 
 ## Gearing and GCD Speed
 
-This fight doesn't really benefit from any particular GCD speed value, as most phase timings leave you with plenty of time to get your last hit in on the boss regardless of your GCD. The one exception to this is P4, where your final GCD may be a bit tight on slower GCD speeds. However, this singular case isn't really enough to recommend against using a slower GCD speed, and so we recommend you use whatever BiS set is most comfortable for you.
+This fight doesn't really benefit from any particular GCD speed value, as most phase timings leave you with plenty of time to get your last hit in on the boss regardless of your GCD. The one exception to this is P4, where your final GCD may be a bit tight on slower GCD speeds. However, this singular case isn't really enough to recommend against using a slower GCD speed, and so we recommend you use whichever 7.05-7.15 BiS set is most comfortable for you speed-wise.
 
 ## Addle and Magick Barrier Usage
 
