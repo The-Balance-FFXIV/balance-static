@@ -107,19 +107,13 @@ If you open with an instant cast from a prepared Dualcast, you will have an odd 
 
 ![An XIVAnalysis screenshot showing a phase 2 reopener sequence with one melee combo](/img/rdm-fru-4.png "Phase 2 reopener, single combo")
 
-
-
 **Swordplay smuggling without prepared Dualcast: 1/2 combos, 0/1 Swiftcast, 4/9 casts**
 
 ![An XIVAnalysis screenshot showing a phase 2 reopener sequence with two melee combos and no prepared Dualcast, utilizing smuggled Enchanted Swordplay stacks](/img/rdm-fru-5.png "Phase 2 reopener, double combo no prepared Dualcast")
 
-
-
 **Swordplay smuggling with prepared Dualcast: 1/2 combos, 0/1 Swiftcast, 4/9 casts**
 
 ![An XIVAnalysis screenshot showing a phase 2 reopener sequence with two melee combos and a prepared Dualcast, utilizing smuggled Enchanted Swordplay stacks](/img/rdm-fru-6.png "Phase 2 reopener, double combo with prepared Dualcast")
-
-
 
 **Casts only (needed to use three combos at the end of P1): 0 combos, 1 Swiftcast, 14 casts (including Grand Impact carried over from previous phase in place of a prepared Dualcast)**
 
@@ -293,6 +287,8 @@ As a solo caster, you will typically be tasked with Addling all three Akh Morns,
 
 # Clear PoVs
 
-Draid Kylian (ranged position): <https://www.twitch.tv/videos/2341164225>Accompanying log: [https://www.fflogs.com/reports/PpgV8BFMNHChbntL?fight=5](https://www.fflogs.com/reports/PpgV8BFMNHChbntL?fight=5&type=damage-done)
+Draid Kylian (ranged position): <https://www.twitch.tv/videos/2341164225>\
+Accompanying log: [https://www.fflogs.com/reports/PpgV8BFMNHChbntL?fight=5](https://www.fflogs.com/reports/PpgV8BFMNHChbntL?fight=5&type=damage-done)
 
-Hildegard Adler (melee position): <https://www.youtube.com/watch?v=2nhJm9DMzB4>Accompanying log: <https://www.fflogs.com/reports/rzbNpVa2kG7KMQ8W?fight=5>
+Hildegard Adler (melee position): <https://www.youtube.com/watch?v=2nhJm9DMzB4>\
+Accompanying log: <https://www.fflogs.com/reports/rzbNpVa2kG7KMQ8W?fight=5>
