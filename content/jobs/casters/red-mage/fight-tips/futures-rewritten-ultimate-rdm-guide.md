@@ -3,10 +3,11 @@ title: Futures Rewritten (Ultimate) RDM Guide
 card_header_image: /img/rdm-fight-tips.jpg
 authors:
   - cyclopsdragon
+  - k242626
   - argen
   - Balance-RDM-Staff
 patch: "7.15"
-lastmod: 2025-01-26T17:18:24.184Z
+lastmod: 2025-01-29T15:04:51.983Z
 ---
 # Introduction
 
