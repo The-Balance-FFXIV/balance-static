@@ -91,23 +91,25 @@ This section provides details on exactly how it works, and the formulae that dif
 
 ## Living Shadow's Abilities and 'Rotation'
 
-Living Shadow spawns Esteem, which, after a ~6.8 second spawn delay, will perform six abilities, with a ~2.18 second delay between each.
+Living Shadow spawns Esteem, which, after a ~6.8 second spawn delay, will perform six abilities, with a ~2.18 second delay between each. 
+
+Esteem will lock onto the first target attacked by the player after a ~1 second delay after using Living Shadow. Notably, Esteem's target lock cares about attack intent, and not damage application. After being 'locked on' to an enemy, it will attempt to execute all of its abilities in sequence on that target. If its current target dies, it will lock onto the next target attacked after its previous target's death for its remaining attacks.
 
 The abilities Esteem uses share animations, damage types, and areas of effect with the player's abilities, but have their own potencies independent of the skills they mimic. For example, if Bloodspiller gets a potency buff, then Living Shadow's Bloodspiller does not gain the same potency buff.
 
 At level 100, Living Shadow performs the following abilities, in sequence, totaling 2450 potency. It may start over if the target moves out of range, but always stops after executing six abilities:
 
-- Abyssal Drain (AoE, 420 Potency)
+- Abyssal Drain (AoE, 420 Potency, 0% less to additional targets)
 
 - Shadowstride (Single Target, No Damage)
 
-- Shadowbringer (AoE, 570 Potency)
+- Shadowbringer (AoE, 570 Potency, 25% less to additional targets)
 
 - Edge of Shadow (Single Target, 420 Potency)
 
 - Bloodspiller (Single Target, 420 Potency)
 
-- Disesteem (AoE, 620 Potency)
+- Disesteem (AoE, 620 Potency, 25% less to additional targets)
 
 ## Living Shadow's Scaling
 
