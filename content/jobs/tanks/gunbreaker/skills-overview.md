@@ -2,8 +2,8 @@
 title: Gunbreaker Skills Overview
 authors:
   - Balance-GNB-Staff
-patch: "7.05"
-lastmod: 2023-05-25T04:30:38.026Z
+patch: "7.16"
+lastmod: 2025-02-04T20:21:16.888Z
 changelog:
   - date: 2021-10-25T21:30:58.365Z
     message: Added Superbolide w/ EW buff
@@ -35,7 +35,7 @@ changelog:
 | ![Noble Blood](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003438_hr1.tex?format=png)     | **Noble Blood**     | Deals 1000 potency to the first target hit and 60% less for all remaining enemies within 5y.                                                                                                    |
 | ![Lion Heart](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003439_hr1.tex?format=png)      | **Lionheart**       | Deals 1200 potency to the first target hit and 60% less for all remaining enemies within 5y.                                                                                                    |
 | ![SonicBreak](/img/jobs/tanks/gunbreaker/Sonic_Break.png)                                        | **Sonic Break**     | Deals 300 potency to a single target and applies a damage-over-time effect dealing 60 potency every 3 seconds for a duration of 30 seconds. This totals 900 potency, including the initial hit. |
-| ![LightingShot](/img/jobs/tanks/gunbreaker/Lightning_Shot.png)                                   | **Lightning Shot**  | Ranged attack with a potency of 150 and a range of 20y.                                                                                                                                         |
+| ![LightingShot](/img/jobs/tanks/gunbreaker/Lightning_Shot.png)                                   | **Lightning Shot**  | Ranged attack with a potency of 150 and a range of 20y. Contains a x7 enmity multiplier for the damage dealt by this action.                                                                    |
 | ![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png)                                        | **Demon Slice**     | Deals 100 potency to all targets in a 5y circle centered around you.                                                                                                                            |
 | ![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)                                | **Demon Slaughter** | Used after **Demon Slice**. Deals 160 potency to all targets in a 5y circle around you and generates one cartridge.                                                                             |
 | ![FatedCircle](/img/jobs/tanks/gunbreaker/Fated_Circle.png)                                      | **Fated Circle**    | Deals 300 potency to all targets in a 5y circle around you and grants **Ready to Raze** at level 96.                                                                                            |
