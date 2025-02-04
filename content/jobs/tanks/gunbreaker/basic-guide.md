@@ -185,7 +185,7 @@ OGCD cooldowns within **No Mercy** should be used in the following priority:
 
 A situation can occur where a **Solid Barrel** would be next action before **No Mercy when Bloodfest is also coming off cooldown, pushing you to 3 cartridges.** Since we'd prefer not to drift **Bloodfest**, what do we do?\
 \
-\*\*This graphic is being updated, but the solution is to cast a **Burst Strike** in place of that **Solid Barrel**. This will drive you down to 1 cartridge, where then you can cast **Sonic Break** earlier in your burst window to fill the gap that forms. **Gnashing Fang** or **Double Down** (or both) will drift by 1 GCD in the process, but Bloodfest will not.\*\*
+\*\*This graphic is being updated, but the solution is to cast a **Burst Strike** in place of that **Solid Barrel**. This will drive you down to 1 cartridge, where then you can cast **Sonic Break** earlier in your burst window to fill the gap that forms at the first GCD of **No Mercy**. **Gnashing Fang** or **Double Down** (or both) will drift by 1 GCD in the process, but Bloodfest will not.\*\*
 
 - - -
 
