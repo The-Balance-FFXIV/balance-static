@@ -14,5 +14,5 @@ changelog:
 priority: Item Level > Critical Hit > Direct Hit > Determination > Tenacity.
   Replace with SKS (as required for GCD tier) in reverse order.
 authors:
-  - ToraelValdis
+  - Balance-GNB-Staff
 ---
