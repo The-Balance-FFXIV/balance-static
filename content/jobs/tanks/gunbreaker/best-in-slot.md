@@ -1,7 +1,7 @@
 ---
 title: Gunbreaker BIS
 layout: bis
-patch: "7.15"
+patch: "7.16"
 lastmod: 2024-12-19T17:44:54.638Z
 changelog:
   - date: 2024-12-18T18:41:01.674Z
