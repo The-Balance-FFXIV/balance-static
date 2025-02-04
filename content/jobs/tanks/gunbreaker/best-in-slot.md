@@ -2,7 +2,7 @@
 title: Gunbreaker BIS
 layout: bis
 patch: "7.16"
-lastmod: 2024-12-19T17:44:54.638Z
+lastmod: 2025-02-04T20:23:21.584Z
 changelog:
   - date: 2024-12-18T18:41:01.674Z
     message: 7.15 Gear Update
