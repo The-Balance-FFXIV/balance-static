@@ -1,7 +1,7 @@
 ---
 title: Gunbreaker Changes
 layout: changes
-lastmod: 2024-08-06T19:28:05.738Z
+lastmod: 2025-02-04T20:18:36.738Z
 changes:
   - patch: "7.05"
     description: Updated information for Dawntrail.
