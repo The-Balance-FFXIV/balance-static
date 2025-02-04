@@ -1,8 +1,8 @@
 ---
 title: Gunbreaker FAQ
 layout: qna
-patch: "6.2"
-lastmod: 2022-09-20T21:06:55.198Z
+patch: "7.16"
+lastmod: 2025-02-04T19:47:05.253Z
 changelog:
   - date: 2021-11-15T03:49:47.299Z
     message: Created
@@ -13,76 +13,90 @@ changelog:
   - date: 2022-08-28T21:16:30.164Z
     message: Removed Bloodfest Question as no longer relevant
 qna:
-  - question: I heard GNB is clunky and bad to play, is this true?
-    answer: That’s the opinion of some players but that’s all it is, opinion. Others
-      have the opinion that it’s fun. Play it and decide for yourself.
-  - question: Can I do a single weave rotation?
-    answer: Yes. But you will still be forced to double weave at some point so you
-      should look at fixing the issues forcing you to single weave for a better
-      experience. If your latency is bad enough that double weaving is an issue,
-      try moving a necessary weave to be paired with **Savage Claw**, as this
-      weaponskill has the lowest animation lock of any GNB action, and plan
-      weaving mitigation in before your burst to avoid having to press too many
-      buttons.
+  - question: What GCD speed is optimal for Gunbreaker?
+    answer: >-
+      Gunbreaker functions at realistically any speed, but generally prefers
+      2.50. There can sometimes be a few benefits to running a faster speed
+      though, depending on available gear stat types and the encounter. Faster
+      speeds such as 2.40 tend to be easier for progging purposes because it
+      provides additional leeway for mistakes due to it possessing cooldown
+      reduction for your GCD cooldowns, and more resource generation in any
+      given fight, making burst phase preparation easier. The tradeoff is that
+      you will typically do about 1% less damage in the average Savage encounter
+      than 2.50 would.
+
+
+
+      We generally advise 2.50, 2.45, and 2.40 due to the fact that those three speeds in specific are respective playstyle breakpoints that do not drift No Mercy. Any speed inbetween these ranges will introduce drift to No Mercy to some extent.
+  - question: How difficult is this job in comparison to other tanks?
+    answer: >-
+      All tank jobs follow a generally consistent rotational pattern of
+      building/spending every minute with some variation of that for the 120s
+      burst. Gunbreaker is only "harder" than the others in that it has some
+      specific constraints that can make it less flexible around certain
+      encounters, such as the fact that it is the only tank job to currently
+      have hard GCD cooldowns like Gnashing Fang and Double Down to manage.
+
+
+      In practice, the job works in every piece of content the game has to offer and can even be an insightful experience for learning how to play at a higher level for end-game optimization.
+  - question: How weave intensive is this job, and can you do a single-weave rotation?
+    answer: >-
+      The job is more weave-intensive than other tanks, and some GCD speeds have
+      ping requirements that you may not be able to meet, such as 2.45 requiring
+      less than around 50 ping to successfully execute without clipping your
+      GCDs when starting the burst phase.
+
+
+      Single-weave rotations are possible now due to the removal of Rough Divide in Dawntrail. It may prove difficult to consistently execute a single-weave rotation during periods of high tank damage due to the necessity of mitigation usage, but this can usually be accomodated for by shuffling cooldowns/burst timing/mitigation timing around.
+  - question: Is it worth it to hold No Mercy to secure better GCDs in No Mercy when
+      I don't have Bloodfest?
+    answer: >-
+      The "odd minute" burst phase that doesn't have Bloodfest has three to four
+      extra GCDs that end up being filler actions, and so some people get the
+      idea that it is optimal to hold that burst phase to make sure they
+      maximize what ends up being buffed out of those four GCDs. In unplanned
+      environments, this decision is almost never worth doing.
+
+
+
+      In a timeless fight, every GCD you hold your burst phase ends up losing 1/24 of a future burst phase. This loses more average DPS than the buffed GCD gains, unless you already know how the fight timeline plays out and you have determined that you do not lose cooldown usages from delaying. You can still lose average DPS even if you do not lose cooldown usages from the fact that you will push GCDs out of party raid buffs by delaying your burst phase.
   - question: I heard it’s hard to move bosses as GNB? Is this true?
     answer: Yes, if you’re inexperienced. Some bosses are easier to move than
       others. However, this again stems from experience in stutter stepping
       between continuations to move the boss.
-  - question: " I used Superbolide but died anyway, why? I was told it puts you to 1
-      HP first and then gives you the invuln?"
-    answer: This isn't necessarily true. The reality is your HP was likely very low
-      and the damage of the enemies snapshotted before Bolide added the buff,
-      this can happen to any Invuln, as they all have a delay and as such, if
-      damage is applied before the buff, you'll be KO'd. This isn't exclusive to
-      Superbolide.
-  - question: Is it worth changing my rotation/opener to secure more Hypervelocity
-      uses in No Mercy?
-    answer: Hypervelocity is 180 potency, 216 under No Mercy which is a 36 potency
-      gain. It’s not substantial enough to change the rotation or risk moving
-      harder hitting abilities later which may result in missing No Mercy’s
-      buff.
-  - question: What if I misaligned my Gnashing Fang from No Mercy because of
-      Downtime/user error?
+  - question: What if Gnashing Fang became misaligned from No Mercy because of
+      downtime or user error?
     answer: >-
       Follow this flow:
 
 
-      Less than 17s on No Mercy? Hold Gnashing Fang or it will be pushed out of No Mercy.
+      Less than 17s on No Mercy: Hold Gnashing Fang, or it will be pushed out of No Mercy.
 
 
-      More than 17s on No Mercy? Don't hold Gnashing Fang because it will come up during the latter half of No Mercy.
-  - question: Should I stack more SkS to get nine GCDs in NM?
-    answer: It’s hard to answer this question conclusively for every situation, but
-      yes more SkS is an option. However, there are other factors in regards to
-      getting nine GCDs in NM. Hitting NM at the right time in the GCD clock,
-      your latency and SkS are all contributing factors. See the “No Mercy”
-      section for more info on this.
-  - question: I heard Tenacity is useless, is this true? Some pieces are higher IL
-      but they have tenacity so should I just avoid them to get more Crit/Det?
-      Is Det better than DH now that it's buffed? Why do some gear sets have a
-      single Ten Meld?
+      More than 17s on No Mercy: Use Gnashing Fang, because it will come up during the latter half of No Mercy.
+  - question: Can you die while casting Superbolide?
+    answer: With the modification to application times of invulns in Dawntrail, they
+      apply almost instantaneously (whatever time it takes for your request to
+      use the invuln to reach the game server). You should never encounter a
+      situation where you die after pressing your invuln.
+  - question: What does Tenacity do, and why do tanks tend to minimize its use?
     answer: >-
-      1) Tenacity contributes DPS at only a slightly worse rate than
-      determination. Unlike piety on healers, which contributes zero DPS, it is
-      almost never worth it to lower your item-level to avoid tenacity.
+      Tenacity has two effects that scale at different rates, with the first
+      effect being a damage bonus that increases your damage by 0.1% per tier
+      (similar to Determination), and the second effect being a mitigation bonus
+      that decreases your damage taken by 0.1%.
 
 
-      2) Det did get buffed but the contribution of DH is still very good for GNB due to us not getting it naturally in our gear. Det is an option, but DH is still a strong stat for us despite the Det buff.
+      The damage reduction scales relatively quickly, which can be valuable in situations where damage isn't required (which usually isn't the case, so we don't prioritize this since our mitigation will cover the fight with or without Tenacity).
 
 
-      3) Sometimes a Tenacity meld is used to break a stat tier. What this means simply is that when you have enough of a stat you go up a tier which means your baseline damage goes up. Tenacity breaking a tier through a single meld can offer a bigger DPS gain than say a DH or Det meld in that spot. This doesn’t happen often but it is something you will notice from time to time.
-  - question: I only had two Cartridges going into No Mercy. Do I hold NM and
-      generate a third Cartridge or just go into NM and delay Double Down?
-    answer: You should not be entering No Mercy with two Cartridges. If you did, it
-      meant you did an unnecessary Burst Strike earlier on or you weren’t doing
-      enough Solid Barrel combos. You have more than enough time to do three
-      Solid Barrel combos before No Mercy is ready. In that situation, there’s
-      nothing you can really do to fix it. You can enter No Mercy and then
-      continue your ammo combo and generate a second Cartridge to land Double
-      Down, however this moves Double Down in your NM window and loses a burst
-      strike and is something you’ll have to account for in future NM windows.
-      Unfortunately, GNB’s solution for mistakes is just “Deal with it and don’t
-      let it happen in future pulls” due to how strict the rotation is.
+      The damage boost scales somewhat slowly, at a rate equal to 80% of the tiering rate of Determination. This means that you get less damage boost per stat point invested, albeit not by a great difference.
+
+
+      Since every encounter can be covered by mitigation tools without any Tenacity, there's no reason to sacrifice damage on best-in-slot sets (or progression sets) for week 1 sets or parsing parties and potentially risk missing a DPS check that you could have made by having better stats on your gear.
+
+
+      You shouldn't avoid Tenacity as a rule, though. If you have higher item level gear that has Tenacity, it's definitely better than your lower item level gear.
 authors:
   - Balance-GNB-Staff
 ---
