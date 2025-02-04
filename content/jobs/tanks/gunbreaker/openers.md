@@ -2,9 +2,8 @@
 title: Gunbreaker Openers
 authors:
   - Balance-GNB-Staff
-  - azazael
-patch: "7.05"
-lastmod: 2024-08-06T19:23:25.992Z
+patch: "7.16"
+lastmod: 2025-02-04T20:25:43.143Z
 changelog:
   - date: 2021-10-25T21:38:35.164Z
     message: Created article
@@ -23,6 +22,7 @@ Your opener is flexible and **No Mercy** can be used earlier or later than what 
 
 * **Lightning Shot** is heavily suggested for raid buff alignment and pull consistency.
 * You may opt to use **Trajectory** at -0.22s on the pull timer for an accurate pull at 0.00s.
+* You may opt to use **Provoke** at -0.6s on the pull timer for an accurate pull at 0.00s. Exercise caution using this method - you may need this cooldown if the fight begins with a tankbuster.
 * Do not facepull unless the boss is already within melee range. It is a waste of GCD uptime in comparison to the other two options.
 
 #### OPENERS
