@@ -93,7 +93,7 @@ This section provides details on exactly how it works, and the formulae that dif
 
 Living Shadow spawns Esteem, which, after a ~6.8 second spawn delay, will perform six abilities, with a ~2.18 second delay between each. 
 
-Esteem will lock onto the first target attacked by the player after a ~1 second delay after using Living Shadow. Notably, Esteem's target lock cares about attack intent, and not damage application. After being 'locked on' to an enemy, it will attempt to execute all of its abilities in sequence on that target. If its current target dies, it will lock onto the next target attacked after its previous target's death for its remaining attacks.
+Esteem will lock onto the first target attacked by the player after a ~1 second delay after using Living Shadow. Notably, Esteem's target lock cares about attack intent, and not damage application. After being 'locked on' to an enemy, it will attempt to execute all of its abilities in sequence on that target. If its current target dies, for its remaining abilities, it will lock onto the first enemy attacked after its previous target's death, and will attempt to continue with the next ability in its sequence.
 
 The abilities Esteem uses share animations, damage types, and areas of effect with the player's abilities, but have their own potencies independent of the skills they mimic. For example, if Bloodspiller gets a potency buff, then Living Shadow's Bloodspiller does not gain the same potency buff.
 
