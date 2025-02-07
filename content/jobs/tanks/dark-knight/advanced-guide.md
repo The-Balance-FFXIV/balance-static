@@ -97,7 +97,7 @@ Esteem will lock onto the first target attacked by the player after a ~1 second 
 
 The abilities Esteem uses share animations, damage types, and areas of effect with the player's abilities, but have their own potencies independent of the skills they mimic. For example, if Bloodspiller gets a potency buff, then Living Shadow's Bloodspiller does not gain the same potency buff.
 
-At level 100, Living Shadow performs the following abilities, in sequence, totaling 2450 potency. It may start over if the target moves out of range, but always stops after executing six abilities:
+At level 100, Living Shadow performs the following abilities, in sequence, totaling 2450 potency. Esteem will always stop after executing six abilities:
 
 - Abyssal Drain (AoE, 420 Potency, 0% less to additional targets)
 
@@ -110,6 +110,8 @@ At level 100, Living Shadow performs the following abilities, in sequence, total
 - Bloodspiller (Single Target, 420 Potency)
 
 - Disesteem (AoE, 620 Potency, 25% less to additional targets)
+
+If the target leaves Esteem's range, Esteem will replace the next ability with Abyssal Drain, and then continue where it was in its sequence. If the target is still out of range after Abyssal Drain, it will replace its next ability with Shadowstride. The only exception to this is if Esteem is out of range for its fifth attack (Bloodspiller), in which case it will replace Bloodspiller with Shadowstride, instead of Abyssal Drain. One quirk of Esteem is that Disesteem is a melee range ability for Esteem, so if Esteem is out of range for Disesteem, it will Abyssal Drain instead.
 
 ## Living Shadow's Scaling
 
