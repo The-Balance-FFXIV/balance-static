@@ -3,23 +3,25 @@ title: Monk Advanced Guide
 card_header_image: /img/jobs/mnk/advanced.png
 authors:
   - nyanpyon
-patch: "7.1"
-lastmod: 2024-11-26T03:36:54.692Z
+patch: "7.15"
+lastmod: 2025-01-16T01:14:13.226Z
 changelog:
   - date: 2024-11-26T03:37:01.717Z
     message: Added first part of advanced guide
+  - date: 2025-01-16T01:14:18.751Z
+    message: Corrected math (nothing else changed) and formatting.
 ---
-# Advanced Monk - Out of the Ballpit
+# **Advanced Monk - Out of the Ballpit**
 
 - - -
 
 You have made it out of the ballpit and you know about the standard Monk rotation, as well as its Openers and Burst Windows. In the following section we will introduce knowledge that will help answer some questions about why the standard rotation is standard, and in more advanced fashion, why other considerations are not standard. As well as basic understanding of game mechanics, spreadsheet territory targeting single digit gains and in traditional fashion, cursed knowledge.
 
-## Busting Your Balls
+# Busting Your Balls
 
-Breaking out of common Nadi pathing In the following section we will recap the standard rotation, discuss fundamental mechanics and why we are allowed a certain degree of flexibility, basic guidelines to optimizing Monk and the thought process of optimizing Monk for a specific fight.
+In the following section we will recap the standard rotation, breaking out of common Nadi pathing, discuss fundamental mechanics and why we are allowed a certain degree of flexibility, basic guidelines to optimizing Monk and the thought process of optimizing Monk for a specific fight.
 
-### Recapping Standard Monk
+## Recapping Standard Monk
 
 The standard Monk rotation follows the following guidelines:
 
@@ -35,7 +37,7 @@ The standard Monk rotation follows the following guidelines:
 
 If we do the Solar Lunar Opener, we arrive at the standard Monk rotation, we will never waste resources and we will never lose a Phantom Rush. The Double Lunar and Triple Lunar openers overcaps the Lunar Nadis, overcapping Nadis in the opener is considered as standard, but overcapping otherwise is not technically considered as standard as it will immediately lead to guaranteed Phantom Rush losses.
 
-### Introducing Nadi Notation
+## Introducing Nadi Notation
 
 For the following sections, we will introduce the standard Nadi rotation to help readability.
 
@@ -53,7 +55,7 @@ Similarly, Double Lunar and Triple Lunar followed by standard rotation.
 
 Introducing this notation will help us to quickly understand the progression through the Nadis throughout a fight, analyze the overcaps and overall uses of Phantom Rush, Elixir Burst and Rising Phoenix.
 
-### The (in)flexibility of Phantom Rush
+## The (in)flexibility of Phantom Rush
 
 Elixir Burst, Rising Phoenix, Phantom Rush. To execute a Phantom Rush, we need 2 Masterful Blitz to acquire the Lunar and Solar Nadi each. This means we need 3 Perfect Balance uses to execute a single Phantom Rush. In standard Solar Lunar opener fashion, we use 2 PBs in our opener, the 3rd PB will be available for use at around 41 seconds into combat. If used, the earliest possible time the PR can be executed is at around 50 seconds, and then every 120 seconds after. Usually we would delay this use of this PB such that the Phantom Rush will hit into the 1 minute Riddle of Fire.
 
@@ -73,7 +75,7 @@ If the kill time is not within the PR gaining window, then we are allowed to ove
 
 The question is now, at what point is the increase to personal or overall party DPS big enough to make up for the loss of a Phantom Rush overall. For personal DPS, this question will never depend on your party composition; the extra 5% buff from Brotherhood and occasional Gemdraught (\~8%) to Phantom Rush is a fairly small gain that will need to make up an entire extra Phantom Rush that we would lose. Ignoring all other variables, this happens at a very unrealistic kill time that is over 16 minutes long. If playing for party DPS, then putting Phantom Rush in buffs at the loss of one overall becomes a gain much sooner, although a clear answer to this does not exist, as it will depend on the amount of buffs your party brings. In a maximum buff comp (eg. AST, SCH, NIN, BRD, PCT), Double Lunar pulls ahead of Solar Lunar at \~7:28, even at a loss of a PR. With no party buffs, other than yourself, the gains are the same as just playing for personal DPS. Very often, playing Phantom Rush into buffs even if it comes at a slight personal loss will end up feeding buffs, which can be important for other jobs to parse successfully and will keep your party happy.
 
-### The Monkey Gazes Upon the Lunatic Landscapes
+## The Monkey Gazes Upon the Lunatic Landscapes
 
 If we are granted Formless Fist, we use it on Opo-opo. Our Elixir Burst is built using Opo-opo. Our Phantom Rush is built using Opo-opo. Our second Blitz in 2 minutes is always Lunar. Our Nadi overcapping method of choice is to overcap using Elixir Burst, which is built using Opo-opo. But why are we so obsessed with Opo-opo and why is Lunar our strongest sequence at level 100? In this Section we will talk about why Opo-opo is our strongest Form, why we will always aim to maximize the number of Lunar sequences as much as possible, and how the placement of Lunar sequences affects DPS. 
 
@@ -101,7 +103,7 @@ In the second path, we do not stand to gain another Phantom Rush, and we can mak
 
 Typically, a Lunar Lunar burst is very long and does not fit into a single Riddle of Fire (specifically the first Lunar will always be at least partially before the Riddle of Fire). By doing Triple Lunar, we have now turned our 2 minute windows into Solar Lunar windows, and our 1 minute windows into Lunar windows. This way we can fit all the full Lunar sequences into Riddle of Fire. Solar Lunar has the added benefit that we can choose to reorder the Solar sequence GCDs from weakest to strongest as we usually do in the 1 minute window, similarly giving us a small increase in potency. 
 
-#### Somehow Even Less Standard Nadi Pathing
+### Somehow Even Less Standard Nadi Pathing
 
 One added benefit of Triple Lunar is that it allows us to choose if we want our 2 minute windows to be Lunar Lunar or Solar Lunar, this is done by choosing Solar or Lunar in the odd minute window preceding the 2 minute window. Being able to choose the 2 minute windows allows us some control over the GCDs we put into buff windows. It is worth to note that while Lunar Lunar is very strong, it is too long for Riddle of Fire, but the full sequence does fit into a Gemdraught window. The following Nadi path wins against Triple Lunar in 7 seconds buffs.
 
@@ -109,7 +111,7 @@ One added benefit of Triple Lunar is that it allows us to choose if we want our 
 
 The most important takeaway of being allowed to choose Lunar or Solar in 1 minute is that we can (sometimes) exchange weaker for stronger GCDs in 2 minutes. If the GCDs would be the same in both paths (usually happens in -2 and -3 windows), then it allows us to put a Lunar Lunar into Gemdraught for a definitive gain.
 
-### Gemdraught Placement
+## Gemdraught Placement
 
 For opener Gemdraught placements see the Opener section. 
 
@@ -121,7 +123,7 @@ Now that we have identified which windows have a Gemdraught use available, we ca
 
 Lastly, having identified which GCDs we will use the Gemdraught for, we have the choice of the exact weaving placement. For 1.94 and 2.00, both early weaving or late weaving will capture the same amount of GCDs, we will usually prefer to late weave. The reason is that The Forbidden Chakra can become available on our last GCD by chance, which can be captured using a late-weave Gemdraught. The only exception to this rule and when we want to early weave our Gemdraught is when The Forbidden Chakra is available in the same weave space. Capturing a guaranteed FBC is still better than having merely the chance of capturing one.
 
-#### Gemdraught Double Weaves
+### Gemdraught Double Weaves
 
 In the unmodified game, (most) abilities are granted a 0.5 seconds buffer every time they are pressed, this means that the game will try to use the ability on every frame for the next 0.5 seconds. As a consequence of this, abilities can be pressed when the animation lock of the previous ability is still active, and they will be used as soon as the animation lock expires, usually this is referred to as queuing. Unlike abilities, the use of items cannot be queued. If we try to use an item during animation lock, it will simply fail, this is often very annoying if we try to double weave our Gemdraught, the window where it is possible to double weave without clipping is very small (under 100ms). 
 
@@ -133,11 +135,11 @@ A trick that can be used to accommodate for this inconvenience is to bind the Ge
 
 Skipping the headache of the Gemdraught weave by installing a plugin that queues it for you is a definite option, but also consider the hilarity of trying to explain to someone why you have a full numpad's worth of pot binds.
 
-### Perfect Balance as a Resource
+## Perfect Balance as a Resource
 
 The Masterful Blitzes are amongst our strongest hitters, and the amount of uses is directly bound to Perfect Balance. The amount of Perfect Balance gained during a fight is limited. We are granted with 2 stacks of Perfect Balance at the start of a fight and it is often **imperative** that we spend as little time capped at 2 stacks of Perfect Balance as possible if we want to maximize its uses; every second lost at 2 stacks is a second lost towards a new Perfect Balance. In full uptime, following the standard procedure of keeping our buffs on cooldown, we will rarely run into the issue of being overcapped for long. However as downtime is introduced, this can lead to delays of our buffs and cause Perfect Balance overcaps. One solution to keep our Perfect Balance cooldown rolling is to Downtime Blitz.
 
-#### Downtime Blitz
+### Downtime Blitz
 
 Perfect Balance has a duration of 20 seconds, and the Masterful Blitz we are granted has to be used within 20 seconds after we complete the Perfect Balance. One important fact about PB is that even without a target, our AoE abilities can progress it, this means that we can complete our PB and gain the ability to use a Masterful Blitz in downtime. If we use our PB less than 40 seconds before downtime ends, we have 20 seconds to use 3 AoE GCDs with the 3rd being used right before PB runs out, then we are able to hold the Blitz for 20 more seconds until the boss is targetable again. Below is an example of a Downtime Blitz, the Perfect Balance is used right before overcapping about 18 seconds before downtime ends.
 
@@ -145,11 +147,11 @@ Perfect Balance has a duration of 20 seconds, and the Masterful Blitz we are gra
 
 &nbsp;
 
-### Non-Standard RoF
+## Non-Standard RoF
 
 The standard Riddle of Fire is always used on cooldown as much as possible, this helps keep buffs aligned, and leads to the usual alternating of 2 Blitz and 1 Blitz in RoF. In a full uptime fight, this also maximizes the amount of uses and uptime of Riddle of Fire. The following section attempts to explain some of the non-standard Riddle of Fire uses.
 
-#### RoF Holds
+### RoF Holds
 
 Encounters come in various flavors and kill times. There are two very common reasons to hold Riddle of Fire: delaying the use because of downtime, and delaying the use in uptime to enable a more optimal Riddle of Fire. 
 
@@ -157,7 +159,7 @@ Often a fight might force downtime of various lengths, usually with the boss not
 
 Similarly, if the fight length grants it, we can hold Riddle of Fire and even buffs to capture more potency without losing uptime of either. The most common case of this type of RoF hold is delaying the very last Odd minute Riddle of Fire to not only capture more potency, but even allow us to Double Odd Blitz.
 
-### Double Odd Blitzing
+## Double Odd Blitzing
 
 Let us consider a fairly common kill time between 7:30 and 8:00, a very common Nadi path would look like the following.
 
@@ -175,7 +177,7 @@ Double Odd Blitzing can additionally also occur if there is appropriately placed
 
 Situations enabling very beneficial Double Odd Blitz windows are very common in Ultimates.
 
-#### Triple Even Blitzing
+### Triple Even Blitzing
 
 While Double Odd Blitz is possible, with appropriately placed downtime, it is also possible to Triple Even Blitz. Triple Even Blitz is enabled by the use of a Downtime Blitz, the Perfect Balance for this needs to be used around 26-30 seconds before downtime ends. If we run in this situation, we prefer to set up our Nadi path to prepare a Rising Phoenix in downtime to lose less Opo-opo GCDs in uptime. Compared to Endwalker, due to the loss of our DoT and Disciplined Fist, our triple blitzing has become very easy and flexible, with the only loss being the absence of almost any Formless Fist use in the window, depending on the availability of Wind’s Reply.
 
@@ -185,6 +187,6 @@ While Double Odd Blitz is possible, with appropriately placed downtime, it is al
 
 When a Triple Even Blitz is possible, very often a Double Odd Blitz is possible right before instead. If given the choice, generally the Double Odd Blitz option will win against the Triple Even Blitz, as it is the option that loses less Formless Fists.
 
+## Further Topics
 
-### Further Topics
 Many more Topics are still being discussed and added over time to this page as they are being tested and verified, please check the Monk channels in the Balance Discord Server for (earlier) updates.
