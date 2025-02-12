@@ -95,11 +95,11 @@ As you gain access to the **Gnashing Fang** combo at level 60. you want to use o
 
 *Bloodfest is unlocked at level 76. Use it on cooldown and ensure you have an empty gauge when using it.*
 
-# Level 80+:
+# Level 80+
 
 A lot of the guide’s core rules are applicable at level 80+. The only differences between level 80 to level 100 are the lack of a third Cart, no **Hypervelocity,** no **Double Down**, and no **Lionheart**, but the same rotational rules still apply. Since **Double Down** and **Lionheart** are AOE actions, you should naturally prioritize them as a part of your AOE rotation.
 
-# Level 94+:
+# Level 94+
 
 * The **Solid Barrel** combo should now be used up to 2 targets.
 * Begin using the **Demon Slaughter** combo at 3 or more targets.
