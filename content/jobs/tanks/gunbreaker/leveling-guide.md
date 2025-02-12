@@ -4,8 +4,8 @@ card_header_image: /img/jobs/gnb/leveling.png
 authors:
   - azazael
   - Balance-GNB-Staff
-patch: "7.05"
-lastmod: 2024-08-06T18:56:33.220Z
+patch: "7.16"
+lastmod: 2025-02-12T01:53:36.188Z
 changelog:
   - date: 2021-10-25T21:25:48.261Z
     message: Created article
@@ -71,7 +71,7 @@ As you gain access to the **Gnashing Fang** combo at level 60. you want to use o
 
 * Same as 3 targets, but stop using **Gnashing Fang**.
 
-***Fated Circle** is unlocked at level 72, as a result, it cannot be used in **UCoB** or **UWU**. Keep this in mind for phases where you do multi-target, including Garuda, Ifrit and UCoB Adds. In this case, Burst Strike to avoid overcapping on two targets, ignore cartridges on three or more targets.*
+**\*Fated Circle** is unlocked at level 72, as a result, it cannot be used in **UCoB** or **UWU**. Keep this in mind for phases where you do multi-target, including Garuda, Ifrit and UCoB Adds. In this case, Burst Strike to avoid overcapping on two targets, ignore cartridges on three or more targets.*
 
 # Level 72+
 
@@ -97,4 +97,9 @@ As you gain access to the **Gnashing Fang** combo at level 60. you want to use o
 
 # Level 80+:
 
-A lot of the guide’s core rules are applicable at level 80+. The only differences between level 80 to level 100 are the lack of a third Cart, no **Hypervelocity,** no **Double Down**, and no **Lionheart**, but the same rotational rules still apply.
+A lot of the guide’s core rules are applicable at level 80+. The only differences between level 80 to level 100 are the lack of a third Cart, no **Hypervelocity,** no **Double Down**, and no **Lionheart**, but the same rotational rules still apply. Since **Double Down** and **Lionheart** are AOE actions, you should naturally prioritize them as a part of your AOE rotation.
+
+# Level 94+:
+
+* The **Solid Barrel** combo should now be used up to 2 targets.
+* Begin using the **Demon Slaughter** combo at 3 or more targets.
