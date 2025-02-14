@@ -3,8 +3,8 @@ title: Gunbreaker Basic Guide
 card_header_image: /img/jobs/gnb/basic.png
 authors:
   - Balance-GNB-Staff
-patch: "7.05"
-lastmod: 2024-08-06T18:56:56.717Z
+patch: "7.16"
+lastmod: 2025-02-04T20:25:16.580Z
 changelog:
   - date: 2022-04-05T18:01:38.826Z
     message: Updated for Endwalker
@@ -135,7 +135,7 @@ Certain GCD speeds are poorly aligned to **No Mercy** and will cause **No Mercy*
 
 The simplest explanation of the rotation revolves around a filler and burst phase concept. Review the graphic with the text explanation below it.
 
-![Gunbreaker Rotation Graphic](/img/jobs/gbn/rotation_gnb_7.1_1.3.png)
+![Gunbreaker Rotation Graphic](/img/jobs/gbn/gnbfundamental_7.1_1.1_experimental.png)
 
 </br>
 
@@ -185,7 +185,7 @@ OGCD cooldowns within **No Mercy** should be used in the following priority:
 
 A situation can occur where a **Solid Barrel** would be next action before **No Mercy when Bloodfest is also coming off cooldown, pushing you to 3 cartridges.** Since we'd prefer not to drift **Bloodfest**, what do we do?\
 \
-\*\*This graphic is being updated, but the solution is to cast a **Burst Strike** in place of that **Solid Barrel**. This will drive you down to 1 cartridge, where then you can cast **Sonic Break** earlier in your burst window to fill the gap that forms. **Gnashing Fang** or **Double Down** (or both) will drift by 1 GCD in the process, but Bloodfest will not.\*\*
+\*\*This graphic is being updated, but the solution is to cast a **Burst Strike** in place of that **Solid Barrel**. This will drive you down to 1 cartridge, where then you can cast **Sonic Break** earlier in your burst window to fill the gap that forms at the first GCD of **No Mercy**. **Gnashing Fang** or **Double Down** (or both) will drift by 1 GCD in the process, but Bloodfest will not.\*\*
 
 - - -
 
