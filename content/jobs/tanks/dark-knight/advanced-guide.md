@@ -89,31 +89,37 @@ Living Shadow is a very unique ability.
 Esteem abilities work uniquely, and each of them has unique strength scaling and an alternate weapon damage scaling.
 This section provides details on exactly how it works, and the formulae that differ between Living Shadow's abilities and Dark Knight's normal abilities.
 
-## Living Shadow's Abilities and 'Rotation'
+## Living Shadow's Abilities, Targeting, and 'Rotation'
 
-Living Shadow spawns Esteem, which, after a ~6.8 second spawn delay, will perform six abilities, with a ~2.18 second delay between each.
+Living Shadow spawns Esteem, which, after a ~6.8 second spawn delay, will perform six abilities, with a ~2.18 second delay between each. 
+
+Esteem begins searching for a target ~1s after Living Shadow is used, at which point it will lock onto the first enemy you attack. After being 'locked on' to an enemy, it will attempt to execute all of its abilities in sequence on that target until that enemy dies or runs out of abilities. If that enemy dies, Esteem retargets with the same logic but without the delay. In both cases, you must attack an enemy for Esteem to begin or continue its attack sequence.
+
+Target selection is based off of cast event rather than damage application. Using a skill with a long application delay immediately after summoning will not lock Esteem's target despite dealing damage after the ~1s wait is over. Conversely, using a long-delay skill on one enemy followed by a short-delay skill on another will lock Esteem onto the first target even if the second enemy takes damage first.
 
 The abilities Esteem uses share animations, damage types, and areas of effect with the player's abilities, but have their own potencies independent of the skills they mimic. For example, if Bloodspiller gets a potency buff, then Living Shadow's Bloodspiller does not gain the same potency buff.
 
-At level 100, Living Shadow performs the following abilities, in sequence, totaling 2450 potency. It may start over if the target moves out of range, but always stops after executing six abilities:
+At level 100, Living Shadow performs the following abilities, in sequence, totaling 2450 potency. Esteem will always stop after executing six abilities:
 
-- Abyssal Drain (AoE, 420 Potency)
+- Abyssal Drain (AoE, 420 Potency, 0% less to additional targets)
 
 - Shadowstride (Single Target, No Damage)
 
-- Shadowbringer (AoE, 470 Potency)
+- Shadowbringer (AoE, 570 Potency, 25% less to additional targets)
 
 - Edge of Shadow (Single Target, 420 Potency)
 
 - Bloodspiller (Single Target, 420 Potency)
 
-- Disesteem (AoE, 620 Potency)
+- Disesteem (AoE, 620 Potency, 25% less to additional targets)
+
+If the target leaves Esteem's range, Esteem will replace the next ability with Abyssal Drain, and then continue where it was in its sequence. If the target is still out of range after Abyssal Drain, it will replace its next ability with Shadowstride. The only exception to this is if Esteem is out of range for its fifth attack (Bloodspiller), in which case it will replace Bloodspiller with Shadowstride, instead of Abyssal Drain. One quirk of Esteem is that Disesteem is a melee range ability for Esteem, so if Esteem is out of range for Disesteem, it will Abyssal Drain instead.
 
 ## Living Shadow's Scaling
 
 You may notice that Living Shadow's abilities have higher damage than an ability with equivalent potency from the player. This is due to Living Shadow having a variety of alternate scalings to the player, that, combined, result in higher damage overall. Living Shadow updates buffs and debuffs in real-time, meaning you can use Living Shadow before buffs and have them applied to its abilities if they are applied before it uses that ability. It is not affected by Darkside, but is affected by every other buff (including potions). Unlike some abilities with alternate scalings, its listed potencies are accurate, and using the formulae listed below with the listed potencies, you get accurate damage numbers.
 
-To use an example, in 7.05 2.50 BiS, a 620 potency attack (e.g. Scarlet Delirium) from the player with Darkside active would do on average ~37069 damage before crit, whereas a 620 potency attack from Living Shadow (e.g. Living Shadow's Disesteem) would do on average ~38958 damage before crit (about 5% more). Due to the multitude of formulae involved, there is no simple rule for how different they will be at a given gear level, but in general, the higher your strength, the more damage Living Shadow's abilities will do compared to an equivalent potency ability on the player.
+To use an example, in 7.05 2.50 BiS, a 620 potency attack (e.g. Scarlet Delirium) from the player with Darkside active would do on average ~37069 damage, whereas a 620 potency attack from Living Shadow (e.g. Living Shadow's Disesteem) would do on average ~38958 damage (about 5% more). Due to the multitude of formulae involved, there is no simple rule for how different they will be at a given gear level, but in general, the higher your strength, the more damage Living Shadow's abilities will do compared to an equivalent potency ability on the player.
 
 ### Living Shadow's Scaling: The Specifics
 
