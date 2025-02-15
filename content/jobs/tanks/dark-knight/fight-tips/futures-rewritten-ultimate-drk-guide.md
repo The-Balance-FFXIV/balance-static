@@ -3,8 +3,8 @@ title: Futures Rewritten (Ultimate) DRK Guide
 card_header_image: /img/drk_fight_tips.png
 authors:
   - Balance-DRK-Staff
-  - Violet Stardust
   - apileofcats
+  - violet-stardust
 patch: "7.11"
 lastmod: 2024-12-06T15:51:16.691Z
 changelog:
@@ -35,7 +35,7 @@ You can get a GCD as the last fire/lightning cleave goes off, but it is extremel
 
 The Powder Mark followup explosions don't apply vulns and do about half as much damage as the initial hits, so it's possible with heavy mit to gapclose back to the boss and stack them together. Do not do this unless everyone is aware of and prepared for it.
 
-The minimum amount of mana you need to spend is 2 Edge of Shadows after downtime, 1 TBN on Burnished/Powder Mark, spend Dark Arts proc, then TBN again for second Powder Mark hit. You can also carry Carve and Spit and 1 Shadowbringer charge into Phase Two.
+The minimum amount of MP you need to spend is 2 Edge of Shadows after downtime, 1 TBN on Burnished/Powder Mark, spend Dark Arts proc, then TBN again for second Powder Mark hit. You can also carry Carve and Spit and 1 Shadowbringer charge into Phase Two.
 
 # Phase Two: Usurper of Frost
 
@@ -43,9 +43,9 @@ Oblation can last through both hits of Quadruple Slap with no special timing and
 
 If you have Delirium before Diamond Dust, use it or lose it. This will only happen with a slow phase 1 kill. You can also delay Carve and Spit and a Shadowbringer charge into the phase 2 opener from phase 1 if you want, especially if you're holding DPS at the end of phase 1.
 
-Your pre-Diamond Dust mana management will vary somewhat depending on Phase One killtime. You need to refresh Darkside to 60 seconds after the Quadruple Slap to keep it through the downtime. Passive generation during Diamond Dust is around 2600, and you need to refresh again after returning. With high mana and a Dark Arts proc going in, that means 2 Edge of Shadows at the start, TBN during, and Edge of Shadow after Quadruple Slap if not invulning, or just Edge of Shadow after if you are, then TBN after the Diamond Dust cast starts. 
+Your pre-Diamond Dust MP management will vary somewhat depending on Phase One killtime. You need to refresh Darkside to 60 seconds after the Quadruple Slap to keep it through the downtime. Passive generation during Diamond Dust is around 2600, and you need to refresh again after returning. With high MP and a Dark Arts proc going in, that means 2 Edge of Shadows at the start, TBN during, and Edge of Shadow after Quadruple Slap if not invulning, or just Edge of Shadow after if you are, then TBN after the Diamond Dust cast starts. 
 
-The goal is to end the uptime phase with ~3-6k mana and a Dark Arts proc. You mana will be on the lower side if you can't get Delirium combo hits before the downtime. Weave Edge of Shadow after coming back to maintain Darkside through your burst window and TBN a squishy for the Hallowed Ray line stack.
+The goal is to end the uptime phase with ~3-6k MP and a Dark Arts proc. Your MP will be on the lower side if you can't get Delirium combo hits before the downtime. Weave Edge of Shadow after coming back to maintain Darkside through your burst window and TBN a squishy for the Hallowed Ray line stack.
 
 Dark Missionary can cover both the knockback and the baited puddles in Diamond Dust.
 
@@ -55,7 +55,7 @@ Reprisal can cover both the Banish stack/spreads before Light Rampant and the Li
 
 It is possible to keep your combo through the Light Rampant downtime if your GCD roll aligns properly. Press your last GCD at the second pulse of the AoE markers. You can precast Delirium as the boss reappears during Light Rampant if you are not trying to keep your combo rolling, or at the voice-line if you are. Weave Carve and Spit immediately after Scarlet Delirium so you can use it again on your crystal.
 
-Save everything you can for intermission. It may be a DPS gain on your crystal to simply let Darkside drop during the transition if you are lower on mana and can trade the Darkside buff on the Hard Slash + Edge of Shadow for another Edge of Shadow in buffs.
+Save everything you can for intermission. It may be a DPS gain on your crystal to simply let Darkside drop during the transition if you are lower on MP and can trade the Darkside buff on the Hard Slash + Edge of Shadow for another Edge of Shadow in buffs.
 
 # Phase Three: Oracle of Darkness
 
@@ -79,11 +79,13 @@ You may choose to have a tank invuln the Somber Dance in Darklit. This can eithe
 
 Reprisal and Dark Missionary can cover both Akh Morn and the following Morn Afah. A popular strategy involves having one tank solo their boss's Akh Morn while the rest of the party does a 7-stack (sometimes known as 7-1). This does not require extreme amounts of mitigation—you can save Shadowed Vigil for Crystallize Time if doing this—and adds a lot of comfort/wiggle room for healers.
 
-You can keep Darkside through Crystallize Time if you refresh to 60 seconds at the end of the cast. Count on gaining about 4k mana during the mechanic.
+You can keep Darkside through Crystallize Time if you refresh to 60 seconds at the end of the cast. Count on gaining about 4k MP during the mechanic.
 
 You can use Shadowed Vigil after dropping rewind in Crystallize Time to survive potential vulnerability mistakes. You can also put Dark Missionary here (on top of other mits) to help prevent DPS deaths from non-tankbuster vuln hits.
 
-You can use your Shadowbringer charge and Salted Earth after coming back without losing them in the Phase Five opener, but do not use Living Shadow. Total MP generation during transition is around 5200, so try to end the phase with around 4k mana and a Dark Arts proc. This will likely involve two Edges of Shadow plus TBN.
+You can use your Shadowbringer charge and Salted Earth after coming back without losing them in the Phase Five opener, but do not use Living Shadow. Total MP generation during transition is around 5200, so try to end the phase with around 4k MP and a Dark Arts proc. This will likely involve two Edges of Shadow plus TBN.
+
+While you might recognize that it can be possible, with some adjustments, to use Living Shadow during Crystallize Time to gain a use before Phase Five, doing so is **strongly** discouraged. This will disalign Living Shadow from buffs, which will be an overall DPS loss in most group compositions, as well as only being possible at all with slow Phase One killtimes. 
 
 # Phase Five: Pandora
 
@@ -93,7 +95,7 @@ Shadowed Vigil can be used after the Paradise Regained castbar ends. 10-second m
 
 Hitting Rampart/Shadowed Vigil to deal with auto-attack damage during exawaves helps quite a bit. You can use them on the first set if using cooldowns on the second Wings, or on the third set if using cooldowns on the first Wings. 
 
-Mana plan for this phase is a fairly standard 5/2. You can bank your first Dark Arts proc on Pandora's Box if you started the phase with less than 9k MP, or on the Polarizing Paths before it. Your second proc can be on the second Polarizing Paths or the third Fulgent Blade.
+MP plan for this phase is a fairly standard 5/2. You can bank your first Dark Arts proc on Pandora's Box if you started the phase with less than 9k MP, or on the Polarizing Paths before it. Your second proc can be on the second Polarizing Paths or the third Fulgent Blade.
 
 Best of luck on your clear!
 
