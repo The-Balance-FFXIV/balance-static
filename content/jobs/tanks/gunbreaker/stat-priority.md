@@ -1,7 +1,7 @@
 ---
 title: Gunbreaker Stat Priority
-patch: "6.4"
-lastmod: 2023-05-25T02:22:26.357Z
+patch: "7.16"
+lastmod: 2025-02-04T20:19:02.711Z
 changelog:
   - date: 2021-10-25T21:49:20.050Z
     message: Created page
@@ -9,8 +9,10 @@ changelog:
     message: Bumped patch to 6.08, as no changes to priority.
   - date: 2023-05-30T23:46:08.004Z
     message: Patch 6.4
-priority: Item Level > Critical Hit > Direct Hit > Determination > Tenacity, SKS
-  for GCD tier.
+  - date: 2025-02-04T20:19:08.384Z
+    message: "7.16"
+priority: Item Level > Critical Hit > Direct Hit > Determination > Tenacity.
+  Replace with SKS (as required for GCD tier) in reverse order.
 authors:
-  - ToraelValdis
+  - Balance-GNB-Staff
 ---
