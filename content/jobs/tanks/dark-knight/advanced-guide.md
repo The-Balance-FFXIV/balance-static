@@ -4,14 +4,17 @@ card_header_image: /img/jobs/drk/advanced.png
 authors:
   - Balance-DRK-Staff
   - violet-stardust
-patch: "7.1"
-lastmod: 2024-12-26T01:31:33.152Z
+patch: "7.16"
+lastmod: 2025-02-20T04:05:49.586Z
 changelog:
   - date: 2024-11-16T15:17:46.131Z
     message: Updated for 7.1
   - date: 2024-12-26T01:30:53.485Z
     message: Updated to use LaTeX formatting, clearer equations, and corrected some
       minor mistakes
+  - date: 2025-02-20T04:05:51.782Z
+    message: Added some minor clarifications and improvements, including Esteem
+      targeting behavior.
 description: ""
 ---
 
