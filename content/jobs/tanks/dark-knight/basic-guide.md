@@ -33,7 +33,7 @@ changelog:
 
 Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawntrail. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).
 
-The purpose of this guide is to give an overview of Dark Knight’s abilities and to allow you to hit the ground running when picking up Dark Knight, as well as giving a peek into optimization in high-end content.
+The purpose of this guide is to give an overview of Dark Knight's abilities and to allow you to hit the ground running when picking up Dark Knight, as well as giving a peek into optimization in high-end content.
 
 - - -
 
@@ -118,7 +118,7 @@ For oGCDs:
 
 Edge of Shadow and Bloodspiller can be delayed without loss, as long as MP and Blood Gauge do not overcap. Dark Knight is thus uniquely able to pool a massive amount of potency for use during party raid buff windows, which typically come every 2 minutes.
 
-Dark Knight generates around 10800 MP per minute, from a combination of Syphon Strike, Carve and Spit, Delirium, and natural MP regen ticks.
+Dark Knight generates around 10800 MP per minute, from a combination of Syphon Strike, Carve and Spit, Delirium, and natural MP regen ticks (which grant 200 MP every three seconds in combat, or 600 MP every three seconds if out of combat).
 This translates to 3.6 MP spenders per minute, or 7.2 spenders per 2 minutes.
 Since at least 2 Edge/Flood of Shadow are needed in the odd minutes to maintain Darkside, this leaves at most 5.2 spenders for every even minute, when buffs come out.
 Even going into burst at full MP and using the MP generated from Carve and Spit and Delirium, however, we do not reach 15000 MP.
