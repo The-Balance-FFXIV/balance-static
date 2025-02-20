@@ -90,6 +90,14 @@ Because it is a ground effect ability, Salted Earth also gains a free tick on al
 
 Salt and Darkness, Salted Earth's follow-up ability, snapshots buffs independently of Salted Earth, and snapshots both buffs on the player and damage modifying debuffs when it is used, separately from Salted Earth.
 
+# Breaking TBN Pre-pull If Possible
+
+There are some encounters, such as Dawntrail's second Extreme, M3N, and P10S, where it's possible to use environmental hazards to safely break TBN pre-pull and grant a Dark Arts stack before the fight begins. This is very beneficial to do where possible as it regularly results in an extra Edge you wouldn't have otherwise gotten.
+
+For some encounters (like P10S), while this is possible, it can take some time to stabilize the Dark Knight, so if you do want to do this trick, it's recommended to save this only for fights where this is a simple break, or for organized groups if doing this trick would inconvenience the party.
+
+If starting the fight with 10k MP and a Dark Arts proc, try to open with Unmend -> Edge -> Hard Slash -> Edge -> Living Shadow (and then continue as normal) when possible, to result in the lowest amount of wasted MP gain.
+
 # How Does Living Shadow Work Exactly?
 
 Living Shadow is a very unique ability.
