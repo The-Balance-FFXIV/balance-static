@@ -100,6 +100,16 @@ For some encounters (like P10S), while this is possible, it can take some time t
 
 If starting the fight with 10k MP and a Dark Arts proc, try to open with Unmend -> Edge -> Hard Slash -> Edge -> Living Shadow (and then continue as normal) when possible, to result in the lowest amount of wasted MP gain.
 
+# How Does Passive MP Gain Work Exactly?
+
+Passive MP/HP regeneration happens every three seconds on what's known as an 'actor tick'. This is what gives Dark Knight its passive MP gain, 600 if out of combat when the tick occurs, and 200 if in combat when the tick occurs. When these ticks happen is also when damage over time and healing over time effects trigger.
+
+When players queue into an instance, party members have their actor ticks synced, so they all receive healing and MP ticks at the same time. If a player dies, their actor tick is paused until they are alive again (by either being resurrected or a party wipe).
+
+This means that, if you time things perfectly, and TBN at 3.1s pre-pull, it's absolutely possible to get two out of combat actor ticks and therefore 1200 MP pre-combat, but MP gain being tied to these ticks is why this is impractical to rely on in practice. This is also why, in practice, starting a fight without using TBN pre-pull makes the last Edge come up at different times.
+
+For the most part, in unorganized settings where the party isn't trying to align their actor ticks for strategies like advanced LB generation, it's not really possible to rely on your actor ticks being at a consistent point during a fight, which is why MP can vary extremely slightly between pulls with identical play.
+
 # How Does Living Shadow Work Exactly?
 
 Living Shadow is a very unique ability.
