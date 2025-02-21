@@ -106,7 +106,7 @@ Passive MP/HP regeneration happens every three seconds on what's known as an 'ac
 
 When players queue into an instance, party members have their actor ticks synced, so they all receive healing and MP ticks at the same time. If a player dies, their actor tick is paused until they are alive again (by either being resurrected or a party wipe).
 
-This means that, if things are timed perfectly, with a TBN at 3.1s pre-pull, it's absolutely possible to get two out of combat actor ticks and therefore 1200 MP pre-combat, but MP gain being tied to these ticks is why this is impractical to rely on in practice. This is also why, in practice, starting a fight without using TBN pre-pull makes the last Edge come up at different times.
+This means that, if things are timed perfectly, with a TBN at 3.1s pre-pull, it's absolutely possible to get two out of combat actor ticks and therefore 1200 MP pre-combat, but MP gain being tied to these ticks is why this is impractical to rely on in practice. This is also why, in practice, starting a fight without using TBN pre-pull will mean you reach the 3000 MP required for the fifth Edge at different times.
 
 For the most part, in unorganized settings where the party isn't trying to align their actor ticks for strategies like advanced LB generation, it's not really possible to rely on your actor ticks being at a consistent point during a fight, which is why MP can vary extremely slightly between pulls with identical play.
 
