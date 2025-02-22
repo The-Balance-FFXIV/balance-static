@@ -3,8 +3,8 @@ title: Ninja Openers
 authors:
   - Balance-NIN-Staff
   - jackal
-patch: "6.4"
-lastmod: 2023-05-30T00:33:16.827Z
+patch: "7.1"
+lastmod: 2025-02-22T08:18:12.466Z
 changelog:
   - date: 2021-10-29T03:10:02.993Z
     message: Created page
@@ -19,15 +19,14 @@ changelog:
   - date: 2023-05-25T20:43:36.539Z
     message: Updated for 6.4 (no changes)
 ---
-![Ninja standard opener graphic. ](/img/jobs/nin/earlymug3.png "Ninja Standard Opener")
+![Ninja standard opener graphic. ](/img/jobs/nin/standard4th-1-.png "Ninja Standard Opener")
 
-⦿ Late weave Trick Attack as much as possible without clipping. \
-⦿ Mug should be held a GCD after the opener (at next usage) then used strictly on cooldown after.\
-⦿ It is important to start preparing the Suiton prepull at -6 seconds on the countdown and use at -1 second. This will not pull the boss early and allows future mudras to come off cooldown sooner.
+* Suiton prepull preparation should be at -6.0 seconds and cast approximately -0.90 seconds on the timer. This will shorten our cooldown on mudra and ensure we can get x2 Raiton under Kunai’s Bane after the opener
+* Ideally drift Dokumori 1 GCD post opener, to allow for better alignment with all other raid buffs. We use it so early in the opener due to Bunshin.
+* Can catch the last Raiju (Extended Standard) with very late woven Kunai’s Bane. More in the Advanced Guide.
 
-![](/img/jobs/nin/4th-gcd.png)
+![Ninja standard opener graphic. ](/img/jobs/nin/standard3rd.png "Ninja Standard Opener")
 
-⦿ This version uses Trick Attack at the 4th GCD instead of the standard 3rd. It is susceptible to Trick drifting a GCD later in a full uptime fight, which could separate Trick from Mug by two GCDs, unless Mug was also held an additional GCD (at most, one GCD separation between Trick and Mug is desired).\
-⦿ Exits the opener only slightly higher than 3rd GCD Trick; however, under full uptime performs nearly the same.\
-⦿ Hold Mug one GCD after the opener (next usage) then strictly on cooldown after. This will align it with other 20 and 15 second buffs.\
-⦿ It is important for the Suiton prepull to start being prepared at -6 seconds on the countdown and used at -1 second. This will not pull the boss early and allows future Mudras to come off cooldown sooner.
+* Similar to the above with Suiton and drifting Dokomori.
+* This uses Kunai’s Bane a GCD earlier, but is a slightly weaker opener.
+* This opener is preferable on 2.10 GCD due to inherit drift on that speed.
