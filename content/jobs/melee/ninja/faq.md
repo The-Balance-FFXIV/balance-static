@@ -21,11 +21,6 @@ qna:
       sub stats tier list linked [here](http://bit.ly/substats).
   - question: How much ping do I need to double-weave?
     answer: The threshold is about 40ms.
-  - question: "What do I do in multiple target scenarios? "
-    answer: Use Doton on 2+ targets, if targets remain in Doton for full duration.
-      Death Blossom and Hakke should be used on 3+ targets, ideally within
-      Doton. Hellfrog only used on 3+ targets. Katon and Goka Mekkyaku on 3+
-      targets, also ideally in Doton.
   - question: "What should I use to disengage from the boss? "
     answer: "Priority order: \r
 
@@ -45,39 +40,16 @@ qna:
     answer: "In the event cooldowns become permanently misaligned from Trick, it is
       better to continue using them off-cooldown rather than realign and risk
       losing a usage. "
-  - question: "Should I use Phantom Kamaitachi immediately or save it for Trick Attack? "
-    answer: "First priority of Phantom Kamaitachi is to use it as a disengagement
-      tool over Raiton or Throwing Dagger. If there is none, you generally can
-      save it for the next Trick window. Some important things to keep in mind:
-
-      \r
-
-      **1. Odd Trick Windows (no-TCJ):** Most of the time prefer
-      Phantom.\ 
-
-      \r
-
-      **2. Even/2m Trick Windows (with TCJ):** Generally, you do not want
-      Phantom in 2m windows."
   - question: "Should I be using Forked Raiju or Fleeting Raiju? "
     answer: Both Forked Raiju and Fleeting Raiju have an identical potency of 560.
       Forked Raiju is a gap-closer, whereas Fleeting Raiju is a standard melee
       GCD which allows it freedom of movement. Realistically you should always
       be using Fleeting Raiju, however if you need to use a gap-closer then use
       Forked Raiju. Tldr; use whatever you want.
-  - question: "Why don’t we use Huraijin anywhere in the rotation? "
-    answer: "Huraijin is more of a recovery tool than a damage skill, as it is a DPS
-      loss if used over Armor Crush. It’s primarily used to gain full Huton
-      gauge after a death, after a long fight transition, or if the boss is
-      pulled before you get to cast Huton pre-pull. "
   - question: Does Kassatsu's % damage affect Hyosho and Goka?
     answer: Yes it does.
   - question: Do uncombo-ed skills give Ninki?
     answer: No, they don't.
-  - question: " Does Hakke give Huton/Ninki without hitting a target?"
-    answer: No, It doesn't
-  - question: Is there a dungeon/normal mode/24man/non-savage BiS?
-    answer: No, it wouldn't be BiS.﻿
 authors:
   - Balance-NIN-Staff
 ---
