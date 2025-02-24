@@ -208,6 +208,6 @@ To the following (where \(\rm{livingShadowStrength}\) is calculated via the form
 
 \[
 \begin{aligned}
-\frac{\left \lfloor{\frac{236 \times \left(\rm{livingShadowStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
+\frac{\left \lfloor{\frac{237 \times \left(\rm{livingShadowStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
 \end{aligned}
 \]
