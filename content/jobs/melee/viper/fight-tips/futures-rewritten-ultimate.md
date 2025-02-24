@@ -1,5 +1,7 @@
 ---
 title: Futures Rewritten (Ultimate)
+authors:
+  - Verra
 patch: "7.1"
 lastmod: 2025-02-24T06:16:58.576Z
 changelog:
