@@ -4,14 +4,17 @@ card_header_image: /img/jobs/drk/advanced.png
 authors:
   - Balance-DRK-Staff
   - violet-stardust
-patch: "7.1"
-lastmod: 2024-12-26T01:31:33.152Z
+patch: "7.16"
+lastmod: 2025-02-20T04:05:49.586Z
 changelog:
   - date: 2024-11-16T15:17:46.131Z
     message: Updated for 7.1
   - date: 2024-12-26T01:30:53.485Z
     message: Updated to use LaTeX formatting, clearer equations, and corrected some
       minor mistakes
+  - date: 2025-02-20T04:05:51.782Z
+    message: Added some minor clarifications and improvements, including Esteem
+      targeting behavior.
 description: ""
 ---
 
@@ -46,19 +49,25 @@ At a 2.50 GCD, this value is just over \(1.5\), and so using Unmend is a gain (o
 
 Of course, if you know exactly what GCD (if any) will be lost by using Unmend during a short downtime, there is no need to work with averages, and you can calculate for each individual case whether Unmend is a gain or not, but in general, using Unmend only when forced into downtime for more than 1.5 seconds at a time is a safe rule of thumb.
 
+If you do opt to take GCD downtime instead of using Unmend, you should be aware that the clip might mean your GCD won't align as perfectly with oGCDs as it would normally on GCD speeds like 2.50. This isn't inherently an issue, but is something to be aware of.
+
 It is also worth noting that Disesteem has a range of 10 yalms, meaning that if Disesteem is available, then you should use it over Unmend to deal with melee downtime.
 
 # Application Delay, Resources, and How to Be a Time Criminal
 
 In FFXIV, abilities first consume any resources that they cost, and then apply their effects. The time between the cooldown starting and the ability's effects happening (both *applying* its damage and *applying* its other effects) is called the *application delay* of the ability. This primarily matters for Dark Knight because of Blood Weapon's 600 MP gain on GCDs. This 600 MP is gained upon ability application, which means you can do something that would overcap MP, but spend it by using Edge of Shadow before the ability application. 
 
-For most abilities, the application delay is low enough that we cannot realistically weave an Edge of Shadow before the ability (and MP gain, which could be granted by Blood Weapon) applies. You cannot use Syphon Strike (which has the 'standard' application delay of 0.62s) and use an Edge of Shadow before you gain the 600 MP from the Syphon Strike. However, Disesteem is an exception. Disesteem has a 1.65s application time, meaning it is not only possible but very comfortable to perform these 'time crimes' with it.
+For most abilities, the application delay is low enough that we cannot realistically weave an Edge of Shadow before the ability (and MP gain, which could be granted by Blood Weapon) applies. Due to the animation lock being 0.6s, while it is theoretically possible, you cannot use Syphon Strike (which has the 'standard' application delay of 0.62s) and use an Edge of Shadow before you gain the 600 MP from the Syphon Strike in realistic scenarios due to requiring sub-0.02s precision and unrealistically low ping. Comeuppance has a 0.67s application delay, making it slightly more practically possible, but realistically requiring a combination of very low ping and/or plugins to be consistent.
+
+However, Disesteem is an exception. Disesteem has a 1.65s application delay, meaning it is not only possible, but very comfortable to perform these 'time crimes' with it at any ping and under any circumstance.
 
 For example, if you have 9600 MP and Blood Weapon active, you can use Disesteem, immediately weave Edge of Shadow, and not overcap MP, as the Edge of Shadow will spend MP before Disesteem (and the Blood Weapon buff that modified it to give you +600 MP) applies. If you were to use Hard Slash in the same situation, you would overcap MP.
 
 Another ability where the application delay is worth knowing is Carve and Spit, which has an application delay of 1.47s, similarly allowing an Edge of Shadow weave before the MP gain applies.
 
 This can come up in practical situations if you are about to enter burst window with an especially high amount of MP. In these situations, you want to save Disesteem for the GCD where you would normally overcap. If you have, for example, 9000 MP and a Dark Arts proc, then with Blood Weapon and Delirium up, using Disesteem -> Edge of Shadow -> Scarlet Delirium -> Edge of Shadow would overcap MP, whereas Scarlet Delirium -> Edge of Shadow -> Disesteem -> Edge of Shadow would not.
+
+While the most salient application delays are highlighted in this section, if you're curious about the application delay of every Dark Knight ability, refer to [this spreadsheet](https://docs.google.com/spreadsheets/d/1Emevsz5_oJdmkXy23hZQUXimirZQaoo5BejSzL3hZ9I/edit?gid=0#gid=0). 
 
 # Salted Earth and Buff Windows
 
@@ -82,6 +91,24 @@ Salted Earth snapshots all buffs on the player when cast, but checks damage modi
 Because it is a ground effect ability, Salted Earth also gains a free tick on all targets in range immediately when cast, giving it 300 total potential potency (which is slightly increased by the skill speed DoT scalar).
 
 Salt and Darkness, Salted Earth's follow-up ability, snapshots buffs independently of Salted Earth, and snapshots both buffs on the player and damage modifying debuffs when it is used, separately from Salted Earth.
+
+# Breaking TBN Pre-pull If Possible
+
+There are some encounters, such as Dawntrail's second Extreme, M3N, and P10S, where it's possible to use environmental hazards to safely break TBN pre-pull and grant a Dark Arts stack before the fight begins. This is very beneficial to do where possible as it regularly results in an extra Edge you wouldn't have otherwise gotten.
+
+For some encounters (like P10S), while this is possible, it can take some time to stabilize the Dark Knight, so if you do want to do this trick, it's recommended to save this only for fights where this is a simple break, or for organized groups if doing this trick would inconvenience the party.
+
+If starting the fight with 10k MP and a Dark Arts proc, try to open with Unmend -> Edge -> Hard Slash -> Edge -> Living Shadow (and then continue as normal) when possible, to result in the lowest amount of wasted MP gain.
+
+# How Does Passive MP Gain Work Exactly?
+
+Passive MP/HP regeneration happens every three seconds on what's known as an 'actor tick'. This is what gives Dark Knight its passive MP gain, 600 if out of combat when the tick occurs, and 200 if in combat when the tick occurs. When these ticks happen is also when damage over time and healing over time effects trigger.
+
+When players queue into an instance, party members have their actor ticks synced, so they all receive healing and MP ticks at the same time. If a player dies, their actor tick is paused until they are alive again (by either being resurrected or a party wipe).
+
+This means that, if things are timed perfectly, with a TBN at 3.1s pre-pull, it's absolutely possible to get two out of combat actor ticks and therefore 1200 MP pre-combat, but MP gain being tied to these ticks is why this is impractical to rely on in practice. This is also why, in practice, starting a fight without using TBN pre-pull will mean you reach the 3000 MP required for the fifth Edge at different times.
+
+For the most part, in unorganized settings where the party isn't trying to align their actor ticks for strategies like advanced LB generation, it's not really possible to rely on your actor ticks being at a consistent point during a fight, which is why MP can vary extremely slightly between pulls with identical play.
 
 # How Does Living Shadow Work Exactly?
 
@@ -181,6 +208,6 @@ To the following (where \(\rm{livingShadowStrength}\) is calculated via the form
 
 \[
 \begin{aligned}
-\frac{\left \lfloor{\frac{236 \times \left(\rm{livingShadowStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
+\frac{\left \lfloor{\frac{237 \times \left(\rm{livingShadowStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
 \end{aligned}
 \]
