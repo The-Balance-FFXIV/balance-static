@@ -8,8 +8,6 @@ changelog:
   - date: 2025-02-24T06:17:28.033Z
     message: "Guide added to website. "
 ---
-<!--StartFragment-->
-
 # Introduction
 
 This guide contains information on how to plan and use your cooldowns to gain the most damage possible per phase. The information within this guide is not meant to be followed blindly, and should be coupled with your own understanding of the job to formulate the most optimal rotation plan for your group.
