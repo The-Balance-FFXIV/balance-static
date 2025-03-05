@@ -44,14 +44,17 @@ The most optimal opener can vary based on your group and your specific killtime,
 
 It's recommended to use TBN on the off tank (whether that be you or not) taking the Mistral Song at the start of the fight. If you do so, it will still be up for the Downburst tankbuster later. If you're taking the Mistral Song, it's recommended to weave Dark Mind into your opener for the Mistral Song too.
 
-Once the boss moves, you're safe to use Rampart immediately if you're main tank and it will cover the upcoming Downburst. You can use TBN for the Downburst at any point after the boss starts casting Slipstream.
-
 You can also Shadowstride/facepull opener, but Unmend will often align better with raid buffs, and Unmend will most easily allow both yourself and your fellow melee players to keep your GCDs rolling, as Garuda's small size and rapid movement can easily eat your inputs, and any advantages of pulling with Shadowstride are outweighed if multiple people experience GCD rollbacks. 
+
+Once the boss moves, you're safe to use Rampart immediately if you're main tank and it will cover the upcoming Downburst. Use Dark Mind one GCD after Rampart so it will cover the Downburst, and you'll have it back in time for the Mistral Songs. You can use TBN for the Downburst at any point after the boss starts casting Slipstream.
 
 Plan your Reprisal uses with your co-tank. While using it to grab the Spiny Plume is popular, more efficient uses are at the first Friction cast and the following Aerial Blast. The second set of Plumes come with quite a bit of damage on the main tank, so it helps to make sure that whoever is holding the boss at that point receives a TBN. Dark Missionary can be placed before the second Friction and last for both cleanses. It can be used before the first Friction and sometimes cover both cleanses too, but this can depend on the timing between cleanses, and ensuring that Dark Missionary hits both cleanses is preferred.
 
-One thing to be aware of throughout this phase is that Garuda's Feather Rains causing her to disapper can cause attacks to 'ghost' if they were prepared and not yet applied before she disappears. This is especially noticeable on the Feather Rain that happens just after the Frictions and Cleanses but can depend on the exact time she gets pulled. To avoid losing major damage, save the Bloodspillers granted by Delirium until after she returns, and especially avoid using Carve and Spit which has an especially long (~1.5s) application delay.
+If you're on 2.40 GCD speed, the end of your Souleater combo will line up perfectly with when the Satin Plumes start to converge. You should use your Salted Earth here too, and it will come back off cooldown for the second set of Satin Plumes that arrive during the two Mesohigh tethers at the end of the phase.
 
+One thing to be aware of throughout this phase is that Garuda's Feather Rains causing her to disappear can cause attacks to 'ghost' if they were prepared and not yet applied before she disappears. This is especially noticeable on the Feather Rain that happens just after the Frictions and Cleanses but can depend on the exact time she gets pulled. To avoid losing major damage, save the Bloodspillers granted by Delirium until after she returns, and especially avoid using Carve and Spit which has an especially long (~1.5s) application delay.
+
+If you're main tank, a good use of mitigation for the latter half of the phase is to use Dark Mind and TBN on the Mistral Song during Wicked Wheel, and then kitchen sink the Downburst and awakening damage at the end of the phase. To do this, after Feather Rains following the Mistral Song/Wicked Wheel combo, simply use Rampart once the boss is repositioned, use Shadow Wall when Rampart has 15 seconds left, and use TBN when you're dodging the Slipstream.
 
 # Phase Two: Ifrit
 
@@ -59,7 +62,7 @@ It is possible to keep your combo rolling from Garuda's death to Ifrit's reappea
 
 If you are holding the boss during the Infernal Nail phase, you can hit three targets with Flood of Darkness by targeting one of the front two Infernal Nails and moving onto the hitbox of the other. Using Abyssal Drain on Ifrit plus the two front nails is not worthwhile. If you're holding Ifrit, it's recommended to use your AoE combo on Ifrit and the front two nails, as well as Quietus when appropriate, though damage should be balanced to ensure the nails do not pop too quickly.
 
-The Infernal Nail phase is another period of heavy tank damage, so make sure the tank holding the boss gets a TBN. If you're main tank, and holding Ifrit, you can use Rampart when available, and Dark Mind for near the end of the nail phase, for auto-attack damage and nail explosion damage. It's recommended to use Dark Missionary to cover nail explosions, and to Reprisal the front two nails if you're holding the boss. Using Reprisal for the Hellfire after the nail phase can make LB generation more difficult, and as such is often not recommended.
+The Infernal Nail phase is another period of heavy tank damage, so make sure the tank holding the boss gets a TBN. If you're main tank, and holding Ifrit, you can use Rampart when available, and Dark Mind near the end of the nail phase for auto-attack damage and nail explosion damage. It's recommended to use Dark Missionary to cover nail explosions, and to Reprisal the front two nails if you're holding the boss. Using Reprisal for the Hellfire after the nail phase can make LB generation more difficult, and as such is often not recommended.
 
 After pulling Ifrit to the 'new north', you should feel free to use Shadow Wall to further mitigate auto-attack damage. TBN is also valuable for Flaming Crush + auto-attack damage. It's okay to spend all of your mitigation on auto-attacks here, since if you're taking Titan first, you can use Living Dead on the first tankbuster, and you'll still have all of your cooldowns up for the third Mountain Buster if your group sees it.
 
@@ -83,8 +86,7 @@ Delirium and Carve and Spit can be used on Lahabrea and be available for Ultima 
 
 Make sure that you are the one who uses tank LB, as Dark Knight has the coolest one.
 
-Bank a Dark Arts proc by using TBN either on a non-tank at Magitek Bits or on anyone for Ultima. This is not incompatible with using the LB3.
-
+Bank a Dark Arts proc by using TBN either on a non-tank at Magitek Bits or on anyone for Ultima. You can get Dark Arts even if you're the one using the LB3, just use it immediately afterwards on any target (such as yourself).
 
 # Phase Five: Ultima
 
