@@ -1,5 +1,5 @@
 ---
-title: Futures Rewritten (Ultimate)
+title: Futures Rewritten (Ultimate) Viper Fight Guide
 authors:
   - Verra
 patch: "7.1"
