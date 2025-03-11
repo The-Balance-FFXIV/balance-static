@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Viper on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/</link><description>Recent content in Viper on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2024 21:50:07 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/melee/viper/index.xml" rel="self" type="application/rss+xml"/><item><title>Viper Job Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/job-changes/</link><pubDate>Sat, 16 Nov 2024 21:50:07 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/job-changes/</guid><description/></item><item><title>Viper Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/stat-priority/</link><pubDate>Sat, 16 Nov 2024 21:49:38 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/stat-priority/</guid><description>&lt;p>Viper follows the stat priority of: Critical Hit &amp;gt; Determination = Direct Hit &amp;gt; Skill Speed. However, it is recommended to use the highest item level gear available to you, as it will give you more of your primary stat which will always result in a higher DPS gain than lower item level counterparts.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Viper on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/</link><description>Recent content in Viper on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 06:16:58 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/melee/viper/index.xml" rel="self" type="application/rss+xml"/><item><title>Futures Rewritten (Ultimate) Viper Fight Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/fight-tips/futures-rewritten-ultimate/</link><pubDate>Mon, 24 Feb 2025 06:16:58 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/fight-tips/futures-rewritten-ultimate/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>This guide contains information on how to plan and use your cooldowns to gain the most damage possible per phase. The information within this guide is not meant to be followed blindly, and should be coupled with your own understanding of the job to formulate the most optimal rotation plan for your group.&lt;/p>
+&lt;h3 id="gearing---210-v-212">Gearing - 2.10 v 2.12&lt;/h3>
+&lt;p>Viper performs well in FRU at the three standard GCD speeds: 2.10, 2.11, and 2.12. The average DPS difference between these sets are about equal, and any difference can be easily covered by good crit RNG. Which one you should choose ultimately comes down to preference.&lt;/p></description></item><item><title>Viper Job Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/job-changes/</link><pubDate>Sat, 16 Nov 2024 21:50:07 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/job-changes/</guid><description/></item><item><title>Viper Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/stat-priority/</link><pubDate>Sat, 16 Nov 2024 21:49:38 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/stat-priority/</guid><description>&lt;p>Viper follows the stat priority of: Critical Hit &amp;gt; Determination = Direct Hit &amp;gt; Skill Speed. However, it is recommended to use the highest item level gear available to you, as it will give you more of your primary stat which will always result in a higher DPS gain than lower item level counterparts.&lt;/p>
 &lt;p>When melding with materia, it is advised to follow the same stat priority.&lt;/p></description></item><item><title>Viper Best in Slot</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/best-in-slot/</link><pubDate>Sat, 16 Nov 2024 21:49:01 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/best-in-slot/</guid><description/></item><item><title>Viper Intermediate Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/intermediate-guide/</link><pubDate>Sat, 16 Nov 2024 21:48:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/intermediate-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
 &lt;p>Special thanks to Akashi, Jackal, Azazel, Azrael, Stella, and Rhy whose work religiously theorycrafting this job made this guide possible.&lt;/p>
 &lt;p>&lt;em>&lt;strong>This guide assumes that the player has a firm grasp of the concepts presented in the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/">VPR Basic Guide&lt;/a>. If this doesn’t apply to you, give that guide a read before returning here.&lt;/strong>&lt;/em> This guide will be focused on more Intermediate level concepts of VPR, such as burst window optimization with party buffs, planning for downtime, and other rotation optimization.&lt;/p></description></item><item><title>Viper Frequently Asked Questions</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/faq/</link><pubDate>Sat, 16 Nov 2024 21:48:21 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/faq/</guid><description/></item><item><title>Viper Standard Opener</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/openers/</link><pubDate>Sat, 16 Nov 2024 21:47:54 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/openers/</guid><description>&lt;p>
 &lt;div class="md__image">
- &lt;img id="[213 256 219 329 448 8]" src="https://www.thebalanceffxiv.com/img/jobs/vpr/vpr7-05standardop.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[113 19 281 239 159 329]" src="https://www.thebalanceffxiv.com/img/jobs/vpr/vpr7-05standardop.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>&lt;a href="https://www.thebalanceffxiv.com/img/jobs/vpr/vpr7-05standardop.png">Click here&lt;/a> for a larger image.&lt;/p>
@@ -25,7 +28,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[2 236 363 446 57 158]" src="https://xivapi.com/i/003000/003701_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[263 90 63 198 235 465]" src="https://xivapi.com/i/003000/003701_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Steel Fangs&lt;/td>
@@ -36,7 +39,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[245 190 391 114 500 282]" src="https://xivapi.com/i/003000/003702_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[101 118 363 76 453 156]" src="https://xivapi.com/i/003000/003702_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reaving Fangs&lt;/td>
@@ -47,7 +50,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[479 191 7 218 379 278]" src="https://xivapi.com/i/003000/003703_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[306 70 65 130 416 199]" src="https://xivapi.com/i/003000/003703_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hunter&amp;rsquo;s Sting&lt;/td>
@@ -58,7 +61,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[398 492 450 159 80 186]" src="https://xivapi.com/i/003000/003704_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[484 422 148 167 237 71]" src="https://xivapi.com/i/003000/003704_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Swiftkin&amp;rsquo;s Sting&lt;/td>
@@ -69,7 +72,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[110 346 236 332 374 419]" src="https://xivapi.com/i/003000/003705_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[428 138 105 172 383 266]" src="https://xivapi.com/i/003000/003705_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flanksting Strike&lt;/td>
@@ -80,7 +83,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[349 410 398 296 142 427]" src="https://xivapi.com/i/003000/003706_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[88 291 343 91 445 203]" src="https://xivapi.com/i/003000/003706_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flanksbane Fang&lt;/td>
@@ -91,7 +94,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[363 284 113 38 46 365]" src="https://xivapi.com/i/003000/003707_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[304 422 307 232 65 298]" src="https://xivapi.com/i/003000/003707_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hindsting Strike&lt;/td>
@@ -102,7 +105,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[163 290 497 408 281 215]" src="https://xivapi.com/i/003000/003708_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[461 6 148 278 198 365]" src="https://xivapi.com/i/003000/003708_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hindsbane Fang&lt;/td>
@@ -113,7 +116,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[90 38 254 410 445 203]" src="https://xivapi.com/i/003000/003729_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[76 413 176 19 85 293]" src="https://xivapi.com/i/003000/003729_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Death Rattle&lt;/td>
@@ -138,7 +141,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[159 481 191 181 49 452]" src="https://xivapi.com/i/003000/003709_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[121 187 410 284 449 131]" src="https://xivapi.com/i/003000/003709_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Steel Maw&lt;/td>
@@ -149,7 +152,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[362 350 370 429 195 194]" src="https://xivapi.com/i/003000/003710_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[210 340 445 113 395 421]" src="https://xivapi.com/i/003000/003710_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reaving Maw&lt;/td>
@@ -160,7 +163,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[235 111 165 449 29 71]" src="https://xivapi.com/i/003000/003711_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[286 356 191 136 16 56]" src="https://xivapi.com/i/003000/003711_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hunter&amp;rsquo;s Bite&lt;/td>
@@ -171,7 +174,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[94 170 361 401 53 337]" src="https://xivapi.com/i/003000/003712_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[1 373 280 284 445 317]" src="https://xivapi.com/i/003000/003712_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Swiftskin&amp;rsquo;s Bite&lt;/td>
@@ -182,7 +185,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[314 175 228 430 435 234]" src="https://xivapi.com/i/003000/003714_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[114 68 139 5 459 410]" src="https://xivapi.com/i/003000/003714_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodied Maw&lt;/td>
@@ -193,7 +196,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[64 66 4 390 410 384]" src="https://xivapi.com/i/003000/003713_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[245 367 383 298 147 323]" src="https://xivapi.com/i/003000/003713_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Jagged Maw&lt;/td>
@@ -204,7 +207,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[147 416 371 79 49 453]" src="https://xivapi.com/i/003000/003730_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[62 373 85 438 418 9]" src="https://xivapi.com/i/003000/003730_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Last Lash&lt;/td>
@@ -230,7 +233,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[494 195 405 492 332 241]" src="https://xivapi.com/i/003000/003715_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[171 272 478 389 240 189]" src="https://xivapi.com/i/003000/003715_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Vicewinder&lt;/td>
@@ -241,7 +244,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[256 28 24 469 350 77]" src="https://xivapi.com/i/003000/003716_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[311 223 253 94 176 387]" src="https://xivapi.com/i/003000/003716_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hunter&amp;rsquo;s Coil&lt;/td>
@@ -252,7 +255,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[312 152 31 162 297 276]" src="https://xivapi.com/i/003000/003717_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[61 37 25 360 195 290]" src="https://xivapi.com/i/003000/003717_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Swiftskin&amp;rsquo;s Coil&lt;/td>
@@ -263,7 +266,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[239 157 392 211 282 366]" src="https://xivapi.com/i/003000/003731_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[75 338 157 287 416 30]" src="https://xivapi.com/i/003000/003731_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Twinfang Bite&lt;/td>
@@ -274,7 +277,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[468 354 202 384 199 274]" src="https://xivapi.com/i/003000/003732_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[119 308 132 13 114 144]" src="https://xivapi.com/i/003000/003732_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Twinblood Bite&lt;/td>
@@ -299,7 +302,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[336 210 58 91 180 393]" src="https://xivapi.com/i/003000/003718_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[15 184 422 385 295 248]" src="https://xivapi.com/i/003000/003718_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Vicepit&lt;/td>
@@ -310,7 +313,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[203 459 334 449 336 126]" src="https://xivapi.com/i/003000/003719_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[262 105 419 491 53 64]" src="https://xivapi.com/i/003000/003719_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hunter&amp;rsquo;s Den&lt;/td>
@@ -321,7 +324,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[240 236 272 382 297 179]" src="https://xivapi.com/i/003000/003720_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[212 255 289 273 21 403]" src="https://xivapi.com/i/003000/003720_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Swiftskin&amp;rsquo;s Den&lt;/td>
@@ -332,7 +335,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[116 59 380 361 242 106]" src="https://xivapi.com/i/003000/003733_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[315 67 308 179 409 64]" src="https://xivapi.com/i/003000/003733_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Twinfang Thresh&lt;/td>
@@ -343,7 +346,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[283 417 373 446 9 186]" src="https://xivapi.com/i/003000/003734_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[126 217 486 497 144 75]" src="https://xivapi.com/i/003000/003734_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Twinblood Thresh&lt;/td>
@@ -368,7 +371,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[341 100 131 267 40 118]" src="https://xivapi.com/i/003000/003721_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[222 258 223 352 88 188]" src="https://xivapi.com/i/003000/003721_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reawaken&lt;/td>
@@ -379,7 +382,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[362 208 52 494 235 421]" src="https://xivapi.com/i/003000/003722_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[44 125 259 372 38 214]" src="https://xivapi.com/i/003000/003722_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">First Generation&lt;/td>
@@ -390,7 +393,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[130 131 34 435 28 9]" src="https://xivapi.com/i/003000/003735_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[228 24 139 164 143 275]" src="https://xivapi.com/i/003000/003735_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">First Legacy&lt;/td>
@@ -401,7 +404,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[171 468 76 17 156 351]" src="https://xivapi.com/i/003000/003723_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[56 74 200 160 320 450]" src="https://xivapi.com/i/003000/003723_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Generation&lt;/td>
@@ -412,7 +415,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[127 420 356 222 251 392]" src="https://xivapi.com/i/003000/003736_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[233 41 208 75 432 127]" src="https://xivapi.com/i/003000/003736_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Legacy&lt;/td>
@@ -423,7 +426,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[311 373 120 111 84 252]" src="https://xivapi.com/i/003000/003724_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[399 285 115 248 161 82]" src="https://xivapi.com/i/003000/003724_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Third Generation&lt;/td>
@@ -434,7 +437,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[301 147 369 311 228 436]" src="https://xivapi.com/i/003000/003737_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[290 306 140 146 279 351]" src="https://xivapi.com/i/003000/003737_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Third Legacy&lt;/td>
@@ -445,7 +448,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[76 374 130 496 332 184]" src="https://xivapi.com/i/003000/003725_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[364 379 103 472 498 468]" src="https://xivapi.com/i/003000/003725_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fourth Generation&lt;/td>
@@ -456,7 +459,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[445 132 361 449 190 352]" src="https://xivapi.com/i/003000/003738_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[10 178 448 122 492 172]" src="https://xivapi.com/i/003000/003738_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fourth Legacy&lt;/td>
@@ -467,7 +470,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[239 438 164 90 403 120]" src="https://xivapi.com/i/003000/003726_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[376 194 155 260 335 400]" src="https://xivapi.com/i/003000/003726_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Ouroboros&lt;/td>
@@ -492,7 +495,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[132 308 207 306 34 150]" src="https://xivapi.com/i/003000/003728_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[293 365 396 465 204 54]" src="https://xivapi.com/i/003000/003728_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Uncoiled Fury&lt;/td>
@@ -503,7 +506,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[400 291 439 198 317 80]" src="https://xivapi.com/i/003000/003739_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[106 124 14 45 379 282]" src="https://xivapi.com/i/003000/003739_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Uncoiled Twinfang&lt;/td>
@@ -514,7 +517,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[180 223 498 274 38 280]" src="https://xivapi.com/i/003000/003740_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[28 62 434 473 276 311]" src="https://xivapi.com/i/003000/003740_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Uncoiled Twinblood&lt;/td>
@@ -525,7 +528,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[46 195 31 489 204 293]" src="https://xivapi.com/i/003000/003727_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[482 145 152 175 17 320]" src="https://xivapi.com/i/003000/003727_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Writhing Snap&lt;/td>
@@ -536,7 +539,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[272 379 446 93 204 399]" src="https://xivapi.com/i/003000/003741_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[210 199 338 455 175 396]" src="https://xivapi.com/i/003000/003741_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Slither&lt;/td>
@@ -547,7 +550,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[342 294 494 127 1 247]" src="https://xivapi.com/i/003000/003742_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[12 181 47 441 324 360]" src="https://xivapi.com/i/003000/003742_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Serpent&amp;rsquo;s Ire&lt;/td>
@@ -558,7 +561,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[318 64 301 103 24 54]" src="https://xivapi.com/i/003000/003743_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[74 22 419 436 37 101]" src="https://xivapi.com/i/003000/003743_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Serpent&amp;rsquo;s Tail&lt;/td>
@@ -569,7 +572,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[473 131 364 9 493 121]" src="https://xivapi.com/i/003000/003744_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[107 468 304 475 482 14]" src="https://xivapi.com/i/003000/003744_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Twinfang&lt;/td>
@@ -580,7 +583,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[58 483 117 325 390 153]" src="https://xivapi.com/i/003000/003745_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[355 470 198 432 13 246]" src="https://xivapi.com/i/003000/003745_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Twinblood&lt;/td>
@@ -605,7 +608,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[186 200 220 311 78 207]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[373 162 224 121 59 54]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">True North&lt;/td>
@@ -616,7 +619,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[188 170 193 464 387 498]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[19 389 475 474 239 327]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Feint&lt;/td>
@@ -627,7 +630,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[164 107 163 401 450 18]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[221 404 250 201 285 500]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodbath&lt;/td>
@@ -638,7 +641,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[26 183 212 432 354 384]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[303 319 469 247 145 231]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -649,7 +652,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[7 270 433 75 458 443]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[358 318 267 3 81 179]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -660,7 +663,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[326 226 40 120 313 155]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[212 369 217 480 444 85]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Sweep&lt;/td>
