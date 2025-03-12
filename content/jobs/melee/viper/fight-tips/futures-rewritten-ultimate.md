@@ -1,5 +1,6 @@
 ---
 title: Futures Rewritten (Ultimate) Viper Fight Guide
+card_header_image: /img/fruguide-thumbnail.png
 authors:
   - Verra
 patch: "7.1"
