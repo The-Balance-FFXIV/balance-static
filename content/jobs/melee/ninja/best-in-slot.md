@@ -26,6 +26,9 @@ changelog:
     message: Updated for Dawntrail
 bis:
   - type: xivgearset
+    name: 7.1 FRU BIS
+    link: https://xivgear.app/?page=sl%7C13816cb8-9134-4d9d-be54-78e87cc5e627
+  - type: xivgearset
     name: 7.05 NIN BIS (2.12)
     link: 1589cdf4-7037-421f-8503-790d270d51ff
   - type: etro
