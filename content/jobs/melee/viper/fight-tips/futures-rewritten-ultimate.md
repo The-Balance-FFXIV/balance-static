@@ -3,7 +3,7 @@ title: Futures Rewritten (Ultimate) Viper Fight Guide
 authors:
   - Verra
 patch: "7.1"
-lastmod: 2025-02-24T06:16:58.576Z
+lastmod: 2025-03-12T00:28:47.913Z
 changelog:
   - date: 2025-02-24T06:17:28.033Z
     message: "Guide added to website. "
