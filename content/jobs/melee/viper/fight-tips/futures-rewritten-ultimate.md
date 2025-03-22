@@ -4,14 +4,18 @@ card_header_image: /img/fruguide-thumbnail.png
 authors:
   - Verra
 patch: "7.1"
-lastmod: 2025-03-12T00:28:47.913Z
+lastmod: 2025-03-22T20:11:04.891Z
 changelog:
   - date: 2025-02-24T06:17:28.033Z
     message: "Guide added to website. "
+  - date: 2025-03-22T20:11:07.291Z
+    message: Fixed formatting issues and added video guide.
 ---
 # Introduction
 
 This guide contains information on how to plan and use your cooldowns to gain the most damage possible per phase. The information within this guide is not meant to be followed blindly, and should be coupled with your own understanding of the job to formulate the most optimal rotation plan for your group.
+
+{{< youtube 5XM3oBaFCkg >}}
 
 ### Gearing - 2.10 v 2.12
 
@@ -152,7 +156,7 @@ The Writhing Snap is to fill the last potential GCD in the phase if it goes to e
 
 Fall of Faith requires us to stand still for an extended period of time while the boss spins, making hitting positionals difficult. But with smart UF usage, the entire mechanic can be done under True North.
 
-The important bit of the Post-UR reopener is UF placement. Using the 1 - or 2 if you’re doing a Double-RA burst - UFs early will allow all of the following 123s and VW combo to be under True North if both charges are chained together. Do note that the opening positionals from HC, SC, and the Finisher need to be manually hit. Using TN in the beginning may cause you to miss a few positionals during Fall of Faith depending on what pattern you get.
+The important bit of the Post-Utopian Sky reopener is UF placement. Using the 1 - or 2 if you’re doing a Double-RA burst - UFs early will allow all of the following 123s and VW combo to be under True North if both charges are chained together. Do note that the opening positionals from HC, SC, and the Finisher need to be manually hit. Using TN in the beginning may cause you to miss a few positionals during Fall of Faith depending on what pattern you get.
 
 After the reopener, the order of VW and 123s leading up to the burst can be moved around. For instance, using the VW earlier and doing 123 combos until burst can free up a weave slot for Feint so that you can hit both the Burnished Glory raidwide and the tank buster. BB is also good to use here to help out your healers as there’s a lot of rot damage.
 
@@ -355,7 +359,7 @@ Towards the end of the burst sequence, Gaia will jump toward a random party memb
 
 In the event you are not combo neutral before going into burst, make sure that you will not drop that combo after the burst window. The easiest way to do that is to use Vicewinder earlier in the phase, meaning one of the leading GCDs will instead be a dual-wield GCD. You can then follow up the burst window with the next dual-wield GCD in the combo. 
 
-* A common sequence may have you starting Phase 4 on a finisher (3). In this case, you will end up replacing the UF before the Reawakens with a finisher, and then carry on as normal.
+* A common sequence may have you starting Phase 4 on a finisher (3). In this case, you can hold the UF until later as you shouldn't need it to delay for your pot. If desired, you can still use UF anyway for comfort.
 * If you start Phase 4 on a Buffing GCD (2), then you will enter burst with an active combo and must continue it after the Double Reawaken. This may result in a worse pot window, but dropping the combo will result in a much larger loss.
 
 Do note that entering Phase 4 where your first GCD is a Buffing GCD (2), then you will not be able to choose Option 1 below, as you will not be able to get the required gauge needed for Phase 5 without losing an Uncoiled Fury (~1700p loss). \
@@ -563,8 +567,6 @@ Option 2:
 | Phase 2 (Mirror Mirror) | Phase 4 (Darklit) | Total Medicated Potency |
 |-------------------------|-------------------|-------------------------|
 |                  13,890 |            13,270 |              **27,160** |
-
-
 
 ## Non-standard Pot Windows
 
