@@ -1,16 +1,21 @@
 ---
 title: Futures Rewritten (Ultimate) Viper Fight Guide
+card_header_image: /img/fruguide-thumbnail.png
 authors:
   - Verra
 patch: "7.1"
-lastmod: 2025-02-24T06:16:58.576Z
+lastmod: 2025-03-22T20:11:04.891Z
 changelog:
   - date: 2025-02-24T06:17:28.033Z
     message: "Guide added to website. "
+  - date: 2025-03-22T20:11:07.291Z
+    message: Fixed formatting issues and added video guide.
 ---
 # Introduction
 
 This guide contains information on how to plan and use your cooldowns to gain the most damage possible per phase. The information within this guide is not meant to be followed blindly, and should be coupled with your own understanding of the job to formulate the most optimal rotation plan for your group.
+
+{{< youtube 5XM3oBaFCkg >}}
 
 ### Gearing - 2.10 v 2.12
 
@@ -59,23 +64,37 @@ Note: If a melee has Weakness, Brink of Death, or Damage Down, they automaticall
 
 For ease of reading and writing, some ability names may be abbreviated in this guide:
 
-\| VW   | Vicewinder            |
+VW = Vicewinder
 
-\| VP   | Vicepit               |
-| HC   | Hunter’s Coil         |
-| SC   | Swiftskin’s Coil      |
-| HS   | Hunter’s Sting        |
-| SS   | Swiftskin’s Sting     |
-| TN   | True North            |
-| BB   | Bloodbath             |
-| SI   | Serpent’s Ire         |
-| UF   | Uncoiled Fury         |
-| Gems | Rattling Coils        |
-| RA   | Reawaken              |
-| Ouro | Ouroboros             |
-| SR   | Single-Reawaken Burst |
-| DR   | Double-Reawaken Burst |
-| 123  | Dual Wield Combo      |
+VP = Vicepit
+
+HC = Hunter’s Coil
+
+SC = Swiftskin’s Coil
+
+HS = Hunter’s Sting
+
+SS = Swiftskin’s Sting
+
+TN = True North
+
+BB = Bloodbath
+
+SI = Serpent’s Ire
+
+UF = Uncoiled Fury
+
+Gems = Rattling Coils
+
+RA = Reawaken
+
+Ouro = Ouroboros
+
+SR = Single-Reawaken Burst
+
+DR = Double-Reawaken Burst
+
+123 = Referring to a dual wield combo. These represent Starter (1), Buffing GCD (2), and Finisher (3).
 
 This guide will refer to Viper’s job resources as X|Y, where X = the amount of gauge (0-100), and Y = the amount of Gems (0-3).
 
@@ -137,7 +156,7 @@ The Writhing Snap is to fill the last potential GCD in the phase if it goes to e
 
 Fall of Faith requires us to stand still for an extended period of time while the boss spins, making hitting positionals difficult. But with smart UF usage, the entire mechanic can be done under True North.
 
-The important bit of the Post-UR reopener is UF placement. Using the 1 - or 2 if you’re doing a Double-RA burst - UFs early will allow all of the following 123s and VW combo to be under True North if both charges are chained together. Do note that the opening positionals from HC, SC, and the Finisher need to be manually hit. Using TN in the beginning may cause you to miss a few positionals during Fall of Faith depending on what pattern you get.
+The important bit of the Post-Utopian Sky reopener is UF placement. Using the 1 - or 2 if you’re doing a Double-RA burst - UFs early will allow all of the following 123s and VW combo to be under True North if both charges are chained together. Do note that the opening positionals from HC, SC, and the Finisher need to be manually hit. Using TN in the beginning may cause you to miss a few positionals during Fall of Faith depending on what pattern you get.
 
 After the reopener, the order of VW and 123s leading up to the burst can be moved around. For instance, using the VW earlier and doing 123 combos until burst can free up a weave slot for Feint so that you can hit both the Burnished Glory raidwide and the tank buster. BB is also good to use here to help out your healers as there’s a lot of rot damage.
 
@@ -340,15 +359,13 @@ Towards the end of the burst sequence, Gaia will jump toward a random party memb
 
 In the event you are not combo neutral before going into burst, make sure that you will not drop that combo after the burst window. The easiest way to do that is to use Vicewinder earlier in the phase, meaning one of the leading GCDs will instead be a dual-wield GCD. You can then follow up the burst window with the next dual-wield GCD in the combo. 
 
-* A common sequence may have you starting Phase 4 on a finisher (3). In this case, you will end up replacing the UF before the Reawakens with a finisher, and then carry on as normal.
+* A common sequence may have you starting Phase 4 on a finisher (3). In this case, you can hold the UF until later as you shouldn't need it to delay for your pot. If desired, you can still use UF anyway for comfort.
 * If you start Phase 4 on a Buffing GCD (2), then you will enter burst with an active combo and must continue it after the Double Reawaken. This may result in a worse pot window, but dropping the combo will result in a much larger loss.
 
 Do note that entering Phase 4 where your first GCD is a Buffing GCD (2), then you will not be able to choose Option 1 below, as you will not be able to get the required gauge needed for Phase 5 without losing an Uncoiled Fury (~1700p loss). \
 You can see the timeline difference in the image below:
 
 > ![](https://i.imgur.com/MdkiJdS.png)
-
-
 
 This is because we only get a set amount of Dual Wield GCDs in the phase, and since only 1/3 of those GCDs give gauge, it matters when and where that Finishers are used.
 
@@ -384,9 +401,9 @@ The option you should choose largely depends on your group and Phase 4 kill time
 
 If your group needs additional Phase 4 damage, then Option 1 will go a long way to making the dps check much easier. This option is great for group comps that have weak 2 target cleave, such as Ninja, Reaper, Black Mage, or Machinist. These jobs’ burst windows have phenomenal burst but only onto 1 target with little cleave. Option 1 is also the option that results in the highest overall damage.
 
-Option 2 is much better for groups that have great 2 target cleave and smash the dps check. This option also puts the group in a better chance to clear the fight with the additional Reawaken moved to Phase 5, which results in an extra 250-400k damage, or ~1% of the health bar. This option is also great if you kill Phase 4 too fast, and will give the Post-Crystalize Time Reawaken a better chance to get its full damage off.
+Option 2 is much better for groups that have great 2 target cleave and smash the dps check. This option also puts the group in a better chance to clear the fight with the additional Reawaken moved to Phase 5, which results in an extra 250-400k damage, or ~1% of the health bar. If your group is killing Phase 4 quickly, then this option will additionally give the Post-Crystalize Time Reawaken a better chance to get its full damage off.
 
-This option is also necessary if you have to be the one to use Limit Break in Phase 3, or if you killed P1 too fast and lost gauge because of it.
+Option 2 is necessary if you have to be the one to use Limit Break in Phase 3, or if you killed P1 too fast and lost gauge because of it.
 
 Parsing this fight will heavily favor Option 1, but the extra damage in P5 from Option 2 can be the difference between a clear or not.
 
@@ -539,6 +556,35 @@ Option 2
 The graphics for each standard burst window show when exactly to weave the pot. The exception is for the Phase 3 burst window: if you choose to do this, weave pot just after pressing the first Reawaken, as this will maximize its duration. For Phase 5, you can follow the Standard Pot Windows outlined in the Intermediate Guide.
 
 The total amount of medicated potency for each option (Phases 1- 4) is as follows:
+
+Option 1:
+| Phase 1 (Opener) | Phase 2 (Intermission) | Phase 4 (Darklit) | Total Medicated Potency |
+|------------------|------------------------|-------------------|-------------------------|
+|           12,120 | 9,430 + 990 *(10,420)  |            13,270 |              **35,810** |*
+This is the halved potency from GCDs typically used on the veil at the end of the pot window.
+
+Option 2:
+| Phase 2 (Mirror Mirror) | Phase 4 (Darklit) | Total Medicated Potency |
+|-------------------------|-------------------|-------------------------|
+|                  13,890 |            13,270 |              **27,160** |
+
+## Non-standard Pot Windows
+
+If you’re looking to further optimize your pot windows, the following options are designed to get the best possible uses depending on several key factors. All of these options require additional setup that the standard rotation listed above does not cover by default. The specific setups will be included in each option’s section.
+
+As covered in the Intermediate Guide, these advanced pot windows are only a gain if they are performed perfectly. Any mistakes and improper setup can lead to an overall loss compared to the standard variants.
+
+### Phase 2 - Mirror Mirror Triple Reawaken
+
+Entering Diamond Dust at 80|1 allows a Triple Reawaken pot window to line up perfectly with the phase timing.
+
+This exact sequence assumes that a pot wasn’t used in Phase 1, and is not needed for Intermission (Option 2 pot timings). Do note that this sequence contains the same GCDs listed in the Alternate Mirror Mirror sequence earlier in this guide. **This means the setup, Post-Light Rampant, and Intermission sequences will be the same.**
+
+![](https://i.imgur.com/rce6QCm.jpeg)
+
+**Note:** The order of GCDs used is deliberate and must be followed exactly. The GCDs leading up to the RAs are to buy time for our pot to come off cooldown
+
+**This pot window is only an overall gain in low-buff party comps.** The breakpoint can be found below:
 
 **Mirror Mirror Active Phase DPS (~57 seconds)**
 | # of buffs | Normal 3RA | Normal 3RA Pot | Triple Reawaken Pot |
