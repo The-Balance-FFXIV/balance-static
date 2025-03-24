@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reaper on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/</link><description>Recent content in Reaper on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 21:34:17 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/melee/reaper/index.xml" rel="self" type="application/rss+xml"/><item><title>Reaper Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/stat-priority/</link><pubDate>Mon, 24 Mar 2025 21:34:17 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/stat-priority/</guid><description/></item><item><title>Reaper FAQ</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/faq/</link><pubDate>Mon, 24 Mar 2025 21:32:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/faq/</guid><description/></item><item><title>Reaper Openers</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/openers/</link><pubDate>Mon, 24 Mar 2025 21:32:06 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/openers/</guid><description>&lt;h2 id="2nd-gcd-ac">2nd GCD AC&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[466 141 249 43 200 107]" src="https://www.thebalanceffxiv.com/img/jobs/rpr/second-gcd-ac.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[402 398 276 72 236 2]" src="https://www.thebalanceffxiv.com/img/jobs/rpr/second-gcd-ac.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>&lt;a href="rpr_6.3_early_gluttony.png">Full Size&lt;/a>&lt;/p>
@@ -32,7 +32,10 @@
 &lt;p>Executioner&amp;rsquo;s Gallows&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Plentiful Harvest&lt;/p></description></item><item><title>Reaper Job Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/job-changes/</link><pubDate>Sat, 16 Nov 2024 21:55:19 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/job-changes/</guid><description/></item><item><title>Reaper Best-in-Slot</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/best-in-slot/</link><pubDate>Sat, 16 Nov 2024 21:54:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/best-in-slot/</guid><description/></item><item><title>Intermediate Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/intermediate-guide/</link><pubDate>Sat, 16 Nov 2024 21:54:21 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/intermediate-guide/</guid><description>&lt;h1 id="reaper-intermediate-guide">Reaper Intermediate Guide&lt;/h1>
+&lt;p>Plentiful Harvest&lt;/p></description></item><item><title>Reaper Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</link><pubDate>Mon, 24 Mar 2025 21:31:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</guid><description>&lt;h1 id="basic-reaper-guide">Basic Reaper Guide&lt;/h1>
+&lt;p>Welcome to the Basic Guide for Reaper, which will cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.&lt;/p>
+&lt;p>Whether you’re a fresh level 100, a returning player, or just need a refresh, this guide will give you the tools you need to feel comfortable playing Reaper.&lt;/p>
+&lt;p>This guide is intended to be relatively basic and doesn’t go into huge explanations of specific situations or small nuances. If you’re looking for something specific, check out the more detailed guides below:&lt;/p></description></item><item><title>Reaper Job Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/job-changes/</link><pubDate>Sat, 16 Nov 2024 21:55:19 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/job-changes/</guid><description/></item><item><title>Reaper Best-in-Slot</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/best-in-slot/</link><pubDate>Sat, 16 Nov 2024 21:54:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/best-in-slot/</guid><description/></item><item><title>Intermediate Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/intermediate-guide/</link><pubDate>Sat, 16 Nov 2024 21:54:21 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/intermediate-guide/</guid><description>&lt;h1 id="reaper-intermediate-guide">Reaper Intermediate Guide&lt;/h1>
 &lt;p>Welcome to Reaper Intermediate Guide! The objective of this guide is to tackle some of the more slightly complicated part of Reaper. This guide will cover the following topics:&lt;/p>
 &lt;ul>
 &lt;li>Standard Two-Minute Burst Window&lt;/li>
@@ -57,7 +60,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[402 144 145 71 200 9]" src="https://xivapi.com/i/003000/003601_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[418 362 117 105 315 330]" src="https://xivapi.com/i/003000/003601_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Slice&lt;/td>
@@ -70,7 +73,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[320 499 367 54 417 232]" src="https://xivapi.com/i/003000/003602_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[375 36 486 34 89 83]" src="https://xivapi.com/i/003000/003602_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Waxing Slice&lt;/td>
@@ -83,7 +86,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[114 384 22 104 359 128]" src="https://xivapi.com/i/003000/003603_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[101 242 407 345 337 225]" src="https://xivapi.com/i/003000/003603_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Infernal Slice&lt;/td>
@@ -96,7 +99,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[188 497 131 469 412 273]" src="https://xivapi.com/i/003000/003614_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[26 93 98 202 400 142]" src="https://xivapi.com/i/003000/003614_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Harpe&lt;/td>
@@ -109,7 +112,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[66 19 321 82 475 447]" src="https://xivapi.com/i/003000/003606_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[418 39 157 412 120 250]" src="https://xivapi.com/i/003000/003606_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadow of Death&lt;/td>
@@ -122,7 +125,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[220 323 318 435 103 266]" src="https://xivapi.com/i/003000/003608_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[272 464 370 250 365 265]" src="https://xivapi.com/i/003000/003608_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Soul Slice&lt;/td>
@@ -135,7 +138,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[97 72 341 75 207 204]" src="https://xivapi.com/i/003000/003617_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[278 372 227 401 101 254]" src="https://xivapi.com/i/003000/003617_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Blood Stalk&lt;/td>
@@ -148,7 +151,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[278 325 96 19 374 384]" src="https://xivapi.com/i/003000/003610_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[214 40 253 321 111 450]" src="https://xivapi.com/i/003000/003610_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Gibbet&lt;/td>
@@ -161,7 +164,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[218 320 27 386 295 430]" src="https://xivapi.com/i/003000/003618_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[328 371 446 368 31 242]" src="https://xivapi.com/i/003000/003618_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Unveiled Gibbet&lt;/td>
@@ -174,7 +177,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[404 281 278 412 24 491]" src="https://xivapi.com/i/003000/003611_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[485 243 276 122 184 235]" src="https://xivapi.com/i/003000/003611_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Gallows&lt;/td>
@@ -187,7 +190,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[450 99 410 123 50 137]" src="https://xivapi.com/i/003000/003619_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[358 109 357 134 367 305]" src="https://xivapi.com/i/003000/003619_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Unveiled Gallows&lt;/td>
@@ -200,7 +203,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[306 127 389 287 383 438]" src="https://xivapi.com/i/003000/003621_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[285 385 495 166 244 344]" src="https://xivapi.com/i/003000/003621_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Gluttony&lt;/td>
@@ -213,7 +216,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[311 206 290 146 121 172]" src="https://xivapi.com/i/003000/003635_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[130 21 147 405 38 208]" src="https://xivapi.com/i/003000/003635_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Executioner&amp;rsquo;s Gibbet&lt;/td>
@@ -226,7 +229,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[215 56 493 283 448 46]" src="https://xivapi.com/i/003000/003636_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[158 194 83 316 457 412]" src="https://xivapi.com/i/003000/003636_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Executioner&amp;rsquo;s Gallows&lt;/td>
@@ -239,7 +242,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[244 245 253 372 346 426]" src="https://xivapi.com/i/003000/003613_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[370 122 262 93 59 275]" src="https://xivapi.com/i/003000/003613_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Plentiful Harvest&lt;/td>
@@ -252,7 +255,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[252 166 216 405 475 205]" src="https://xivapi.com/i/003000/003638_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[49 209 486 242 183 20]" src="https://xivapi.com/i/003000/003638_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Perfectio&lt;/td>
@@ -265,7 +268,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[210 481 238 272 131 438]" src="https://xivapi.com/i/003000/003615_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[187 325 56 276 227 409]" src="https://xivapi.com/i/003000/003615_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Soulsow&lt;/td>
@@ -278,7 +281,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[72 235 376 335 149 66]" src="https://xivapi.com/i/003000/003616_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[343 342 319 309 251 169]" src="https://xivapi.com/i/003000/003616_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Harvest Moon&lt;/td>
@@ -291,7 +294,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[112 493 356 263 257 318]" src="https://xivapi.com/i/003000/003633_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[353 182 120 224 328 45]" src="https://xivapi.com/i/003000/003633_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arcane Circle&lt;/td>
@@ -304,7 +307,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[90 268 102 468 180 15]" src="https://xivapi.com/i/003000/003622_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[486 26 201 385 43 464]" src="https://xivapi.com/i/003000/003622_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enshroud&lt;/td>
@@ -317,7 +320,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[308 487 121 99 486 456]" src="https://xivapi.com/i/003000/003634_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[211 263 442 402 25 235]" src="https://xivapi.com/i/003000/003634_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Sacrificium&lt;/td>
@@ -330,7 +333,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[95 266 350 67 249 445]" src="https://xivapi.com/i/003000/003623_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[440 147 225 76 103 342]" src="https://xivapi.com/i/003000/003623_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Void Reaping&lt;/td>
@@ -343,7 +346,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[315 103 165 98 155 230]" src="https://xivapi.com/i/003000/003624_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[50 381 77 302 323 464]" src="https://xivapi.com/i/003000/003624_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Cross Reaping&lt;/td>
@@ -356,7 +359,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[387 317 398 89 276 260]" src="https://xivapi.com/i/003000/003627_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[408 215 222 236 462 480]" src="https://xivapi.com/i/003000/003627_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lemure&amp;rsquo;s Slice&lt;/td>
@@ -369,7 +372,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[406 393 250 199 29 68]" src="https://xivapi.com/i/003000/003626_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[194 427 113 462 250 197]" src="https://xivapi.com/i/003000/003626_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Communio&lt;/td>
@@ -398,7 +401,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[407 334 408 19 312 109]" src="https://xivapi.com/i/003000/003604_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[99 265 257 413 362 405]" src="https://xivapi.com/i/003000/003604_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Spinning Scythe&lt;/td>
@@ -411,7 +414,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[469 108 19 194 339 228]" src="https://xivapi.com/i/003000/003605_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[191 17 314 136 180 246]" src="https://xivapi.com/i/003000/003605_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Nightmare Scythe&lt;/td>
@@ -424,7 +427,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[176 461 463 6 88 173]" src="https://xivapi.com/i/003000/003607_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[392 47 310 78 156 131]" src="https://xivapi.com/i/003000/003607_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Whorl of Death&lt;/td>
@@ -437,7 +440,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[97 60 184 179 463 61]" src="https://xivapi.com/i/003000/003609_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[459 312 407 494 467 490]" src="https://xivapi.com/i/003000/003609_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Soul Scythe&lt;/td>
@@ -450,7 +453,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[428 274 474 167 216 484]" src="https://xivapi.com/i/003000/003612_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[131 68 47 433 393 102]" src="https://xivapi.com/i/003000/003612_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Guillotine&lt;/td>
@@ -463,7 +466,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[7 407 236 387 221 139]" src="https://xivapi.com/i/003000/003637_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[316 452 136 9 249 347]" src="https://xivapi.com/i/003000/003637_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Executioner&amp;rsquo;s Guillotine&lt;/td>
@@ -476,7 +479,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[399 164 413 444 460 208]" src="https://xivapi.com/i/003000/003620_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[230 147 307 313 335 114]" src="https://xivapi.com/i/003000/003620_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Grim Swathe&lt;/td>
@@ -489,7 +492,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[115 405 451 424 248 377]" src="https://xivapi.com/i/003000/003625_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[321 300 247 299 171 490]" src="https://xivapi.com/i/003000/003625_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Grim Reaping&lt;/td>
@@ -502,7 +505,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[405 258 85 247 368 345]" src="https://xivapi.com/i/003000/003628_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[383 244 262 157 201 395]" src="https://xivapi.com/i/003000/003628_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lemure&amp;rsquo;s Scythe&lt;/td>
@@ -531,7 +534,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[1 247 440 124 187 67]" src="https://xivapi.com/i/003000/003632_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[2 261 340 297 284 418]" src="https://xivapi.com/i/003000/003632_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arcane Crest&lt;/td>
@@ -544,7 +547,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[60 75 145 288 399 332]" src="https://xivapi.com/i/003000/003629_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[17 117 404 228 297 356]" src="https://xivapi.com/i/003000/003629_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hell&amp;rsquo;s Ingress&lt;/td>
@@ -557,7 +560,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[223 483 304 97 92 229]" src="https://xivapi.com/i/003000/003630_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[48 155 18 412 103 10]" src="https://xivapi.com/i/003000/003630_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hell&amp;rsquo;s Egress&lt;/td>
@@ -570,7 +573,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[350 101 117 51 372 316]" src="https://xivapi.com/i/003000/003631_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[424 46 394 453 439 470]" src="https://xivapi.com/i/003000/003631_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Regress&lt;/td>
@@ -583,7 +586,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[156 309 330 151 272 409]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[16 492 328 426 38 289]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Feint&lt;/td>
@@ -596,7 +599,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[405 325 134 160 3 151]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[431 11 119 142 349 297]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Sweep&lt;/td>
@@ -609,7 +612,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[388 8 133 165 344 370]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[94 28 498 443 73 42]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -622,7 +625,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[385 450 20 97 81 85]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[431 84 365 264 60 466]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -635,7 +638,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[201 250 52 23 433 341]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[107 64 66 84 379 320]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodbath&lt;/td>
@@ -648,7 +651,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[290 500 194 21 186 439]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[410 399 175 293 12 1]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">True North&lt;/td>
@@ -659,10 +662,7 @@
  &lt;td style="text-align: left">Nullifies all positional requirements for 10 seconds. Can hold up to two charges.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Reaper Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</link><pubDate>Sat, 16 Nov 2024 21:51:49 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</guid><description>&lt;h1 id="basic-reaper-guide">Basic Reaper Guide&lt;/h1>
-&lt;p>Welcome to the Basic Guide for Reaper, which will cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.&lt;/p>
-&lt;p>Whether you’re a fresh level 100, a returning player, or just need a refresh, this guide will give you the tools you need to feel comfortable playing Reaper.&lt;/p>
-&lt;p>This guide is intended to be relatively basic and doesn’t go into huge explanations of specific situations or small nuances. If you’re looking for something specific, check out the more detailed guides below:&lt;/p></description></item><item><title>Reaper Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</link><pubDate>Sat, 16 Nov 2024 21:51:23 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</guid><description>&lt;p>This guide is targeted at players looking to play and understand Reaper as they level up. It will cover some basic priorities for each level tier and will also serve as a priority list for playing Reaper at lower levels (for ultimates and such). If you are level 100 and looking to explore other guides please visit the following links:&lt;/p>
+&lt;/table></description></item><item><title>Reaper Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</link><pubDate>Sat, 16 Nov 2024 21:51:23 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</guid><description>&lt;p>This guide is targeted at players looking to play and understand Reaper as they level up. It will cover some basic priorities for each level tier and will also serve as a priority list for playing Reaper at lower levels (for ultimates and such). If you are level 100 and looking to explore other guides please visit the following links:&lt;/p>
 &lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/">Basic Guide&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/">Advanced Guide&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/reaper/skills-overview/">Skill Details&lt;/a>&lt;/p>
