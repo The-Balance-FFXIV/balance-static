@@ -3,8 +3,8 @@ title: Red Mage Leveling Guide
 card_header_image: /img/jobs/rdm/leveling.png
 authors:
   - Balance-RDM-Staff
-patch: "7.0"
-lastmod: 2024-08-07T08:37:00.152Z
+patch: "7.1"
+lastmod: 2025-03-24T00:00:00.000Z
 changelog:
   - date: 2021-11-15T18:49:06.143Z
     message: Created page
@@ -14,11 +14,13 @@ changelog:
     message: No changes, updated patch number
   - date: 2024-08-03T08:37:08.091Z
     message: Updated for Dawntrail
+  - date: 2025-03-24T16:14:39.523Z
+    message: No changes, updated patch number
 tags: []
 ---
 # Red Mage Leveling Guide
 
-## Updated for 7.0
+## Updated for 7.1
 
 # Introduction
 
@@ -74,8 +76,6 @@ Red Mage’s job gauge consists of two bars (White Mana | Black Mana) that are g
 | Verfire (+5)            | Scatter/Impact/Grand Impact (+3) | Verstone (+5)        |
 | Verthunder II (+7)      | Scorch (+4)                      | Veraero II (+7)      |
 | Verflare (+11)          | Resolution (+4)                  | Verholy (+11)        |
-
-
 
 The mana gauge enchants our melee weaponskills (Moulinet, Reprise, Riposte, Zwerchhau, and Redoublement). And we spend the gauge when we have enough Mana to complete an enchanted melee combo. Note that you should never use these weaponskills when they are unenchanted.
 
