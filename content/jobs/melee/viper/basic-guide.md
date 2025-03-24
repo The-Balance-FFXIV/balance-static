@@ -4,13 +4,15 @@ card_header_image: /img/jobs/vpr/image_2024-11-10_193623139.png
 authors:
   - ToraelValdis
   - Balance-VPR-Staff
-patch: "7.1"
-lastmod: 2024-11-16T21:46:55.031Z
+patch: "7.2"
+lastmod: 2025-03-24T21:26:55.295Z
 changelog:
   - date: 2024-06-17T23:50:53.310Z
     message: Added guide to website
   - date: 2024-08-01T22:26:14.910Z
     message: Updated for 7.05 job changes.
+  - date: 2025-03-24T21:26:58.057Z
+    message: Updated to Patch 7.2.
 ---
 # 1﻿. Introduction
 
