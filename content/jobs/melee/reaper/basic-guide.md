@@ -3,8 +3,8 @@ title: "Reaper Basic Guide "
 card_header_image: /img/jobs/rpr/rpr-basic.png
 authors:
   - ellunavi
-patch: "7.1"
-lastmod: 2024-11-16T21:51:49.786Z
+patch: "7.2"
+lastmod: 2025-03-24T21:31:44.234Z
 changelog:
   - date: 2022-01-02T21:17:24.172Z
     message: Created page
@@ -20,6 +20,8 @@ changelog:
     message: Updated for Dawntrail.
   - date: 2024-07-21T02:35:59.542Z
     message: Updated Opener for better raid buff alignment.
+  - date: 2025-03-24T21:31:23.183Z
+    message: Updated to Patch 7.2.
 tags:
   - Reaper
   - guide
