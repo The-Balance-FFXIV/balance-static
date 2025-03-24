@@ -101,7 +101,7 @@ At level 92, Embolden grants Thorned Flourish upon executing Embolden, which all
 
 ## Manafication and Prefulgence
 
-Manafication is an ability with a 110s cooldown that allows us to use a melee combo without consuming mana. Specifically, it grants three stacks of Magicked Swordplay, each stack allowing us to use a melee combo at no mana cost while the buff is up. The ability also gives us a 5% magic damage buff with six stacks that lasts 15 seconds, which buffs the next six GCDs by 5%. This damage buff should generally be used on our melee combo, as it is the strongest burst window Red Mage has. 
+Manafication is an ability with a 110s cooldown that allows us to use a melee combo without consuming mana. Specifically, it grants three stacks of Magicked Swordplay, each stack allowing us to use a melee combo at no mana cost while the buff is up. The ability also gives us a 5% magic damage buff with six stacks that lasts 30 seconds, which buffs the next six GCDs by 5%. This damage buff should generally be used on our melee combo, as it is the strongest burst window Red Mage has. 
 
 At level 100, we also gain a new oGCD ability: **Prefulgence**, which is our hardest hitting oGCD at 1000 potency for the first enemy, and 60% less for all remaining enemies. It is enabled after the sixth Manafication stack is consumed, which grants us the Prefulgence Ready buff for 30 seconds and replaces Manafication on our hotbar until used. 
 
@@ -115,7 +115,7 @@ Here is an image showing the gap between both cooldowns, and why the longer a fi
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfUxuDB9S2726AafGsmUcDyQaI9ndIzSm8NI00s-CnbUpib66re4H_9G4AcZrVDL_3vRdTzAVgSsifUiA2FroMHvoI3jKLLBJsofQx4qoRJ9iuoUUhIWh3qxdDm7MTp2XQo4Xmny8iSu4YjKQyOzKOeiqwL?key=g0mOyOwaD_13c10-GmC5Xg)
 
-In general, do not use Manafication during downtime. There is some theoretically niche optimization potential there to be further tested on certain encounters, but is unnecessary for standard play.
+In general, do not use Manafication during downtime. There is niche optimization potential there that may be applicable in certain encounters, but is unnecessary for standard play.
 
 ## Core damaging oGCDs: Fleche, Contre Sixte, Engagement, and Corps-a-corps
 
@@ -163,8 +163,7 @@ Grand Impact Ready, a new effect we get from a level 96 trait (Enhanced Accelera
 * To avoid complicating oGCD alignment, we can default to using the instant-cast spell and Grand Impact back-to-back for movement. It can also be used as a temporary fix for oGCD alignment issues (keep the Fleche/Contre Sixte/Embolden cooldowns running) if Swiftcast and a melee combo are not available.
 * It can be worth using under buffs if we are only doing a single combo under buffs, but this is not a priority for fundamental play. Learn to maximize uses and keep full uptime with movement first.
 * Generally, we can use Acceleration during downtime as long as the boss will be targetable in 15 or so seconds (we can re-open with an Acceleration-boosted GCD, a Dualcasted GCD, and then Grand Impact for three instant casts in a row).
-
-Grand Impact has further intermediate and advanced potential for optimizing damage, managing oGCD alignment, or min maxing procs that will not be covered in this preliminary version of the guide.
+* A slightly advanced application of Acceleration is to use it with one proc active when you need to imminently change alignment and do not have Swiftcast available. By doing this, you can use the Verthunder/aero of the opposite element of your proc, giving you both procs and guaranteeing that you can delay using Grand Impact by at least 10 seconds. An example of this being executed can be found in [this clip](https://www.twitch.tv/cyclopsdragon/clip/SlickSweetSoybeanM4xHeh-Akk-fFqS0WdRmTxD).
 
 # Party utility and recovery
 
