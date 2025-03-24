@@ -2,8 +2,8 @@
 title: Reaper Openers
 authors:
   - Balance-RPR-Staff
-patch: "7.1"
-lastmod: 2024-11-16T21:52:39.390Z
+patch: "7.2"
+lastmod: 2025-03-24T21:32:06.490Z
 changelog:
   - date: 2022-01-29T01:54:23.902Z
     message: Updated Fast Shroud opener (Adjusted potion for better timing)
@@ -19,6 +19,8 @@ changelog:
     message: Added Dawntrail Opener
   - date: 2024-07-21T02:33:45.812Z
     message: Updated opener for better raid buff alignment.
+  - date: 2025-03-24T21:32:07.392Z
+    message: Updated to Patch 7.2.
 ---
 ## 2nd GCD AC
 
