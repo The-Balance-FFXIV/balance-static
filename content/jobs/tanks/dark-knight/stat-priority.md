@@ -3,10 +3,6 @@ title: Dark Knight Stat Priority
 patch: "7.2"
 lastmod: 2025-03-24T21:59:58.614Z
 changelog:
-  - date: 2021-10-27T17:44:09.556Z
-    message: Added
-  - date: 2022-09-21T00:12:34.912Z
-    message: Reviewed for 6.2
   - date: 2024-07-28T10:14:21.480Z
     message: Version bump to 7.0
   - date: 2025-03-24T22:00:17.170Z
