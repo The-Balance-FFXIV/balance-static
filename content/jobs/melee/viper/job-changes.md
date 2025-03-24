@@ -1,7 +1,7 @@
 ---
 title: Viper Job Changes
 layout: changes
-lastmod: 2024-11-16T21:50:07.019Z
+lastmod: 2025-03-24T11:20:18.805Z
 changes:
   - patch: "7.0"
     description: Job added to the game with patch 7.0 -- Dawntrail. For a full
@@ -23,6 +23,10 @@ changes:
       \
 
       For a full list of changes please see the [Official 7.05 Patch Notes.](https://na.finalfantasyxiv.com/lodestone/topics/detail/3a247a30e096e56b701157cd9fb903299a244c2f)
+  - patch: "7.2"
+    description: First, Second, Third, and Fourth Legacy have had their potency
+      increased from 280 to 320. This equates to about ~1.15% DPS increase for
+      VPR compared to 7.1.
 authors:
   - Balance-VPR-Staff
 ---
