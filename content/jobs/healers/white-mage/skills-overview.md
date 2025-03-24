@@ -55,7 +55,7 @@ changelog:
 
 ### **Dia**
 
-* Single target damage (75p) and DoT (10 ticks of 75p), instant cast. Total Potency: 825
+* Single target damage (80p) and DoT (10 ticks of 80p), instant cast. Total Potency: 880
 * At lower levels you'll have Aero, this is replaced by Dia at level 72
 * In dungeons, apply Dia while running and spam Holy when the tank stops
 * If Optimizing: 
