@@ -4,8 +4,9 @@ authors:
   - Balance-DRK-Staff
   - silaqui-amakiir
   - athunin
+  - violet-stardust
 patch: "7.2"
-lastmod: 2024-01-25T08:36:34.887Z
+lastmod: 2025-03-24T21:53:29.839Z
 changelog:
   - date: 2021-10-27T17:35:21.786Z
     message: Added
@@ -35,8 +36,8 @@ This section will list general-purpose DRK openers, which work well for most sit
 * Avoid overcapping on MP.
 
 
-Tanks currently use **Grade 1 Gemdraughts of Strength**.
-<br>Note that strength affects both physical and magical skills for tanks.
+Tanks currently use **Grade 3 Gemdraughts of Strength**.
+<br>Note that Strength affects both physical and magical skills for tanks.
 
 ## Standard Opener
 
@@ -89,7 +90,7 @@ At levels 94 and higher, DRK switches to using its AoE rotation for **3 or more 
 The AoE rotation is another simple priority system, replacing each single-target ability with its AoE counterpart.
 
 For GCDs:
-* Replace the Torcleaver combo with Impalement.
+* Replace the Torcleaver combo with Impalement
 * Replace Bloodspiller with Quietus
 * Replace Souleater combo GCDs with Stalwart Soul combo GCDs (Unleash, Stalwart Soul)
 
