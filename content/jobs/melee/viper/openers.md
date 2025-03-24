@@ -2,13 +2,15 @@
 title: Viper Standard Opener
 authors:
   - Balance-VPR-Staff
-patch: "7.1"
-lastmod: 2024-11-16T21:47:54.128Z
+patch: "7.2"
+lastmod: 2025-03-24T21:27:31.148Z
 changelog:
   - date: 2024-06-23T19:46:14.169Z
     message: Tentative Opener added.
   - date: 2024-08-01T16:45:52.530Z
     message: updated for 7.05
+  - date: 2025-03-24T21:27:32.617Z
+    message: Updated to Patch 7.2.
 ---
 ![](/img/jobs/vpr/vpr7-05standardop.png)
 
