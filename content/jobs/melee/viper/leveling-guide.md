@@ -9,6 +9,8 @@ lastmod: 2025-03-24T21:25:57.028Z
 changelog:
   - date: 2024-08-06T18:56:34.334Z
     message: Updated to reflect 7.05 changes.
+  - date: 2025-03-24T21:26:14.163Z
+    message: Updated to Patch 7.2.
 ---
 # Viper Leveling Guide
 
