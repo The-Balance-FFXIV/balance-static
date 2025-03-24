@@ -5,7 +5,7 @@ authors:
   - apileofcats
   - silaqui-amakiir
   - violet-stardust
-patch: "7.1"
+patch: "7.2"
 lastmod: 2024-11-13T21:44:02.311Z
 changelog:
   - date: 2021-10-27T17:23:27.257Z
