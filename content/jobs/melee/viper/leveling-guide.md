@@ -4,11 +4,13 @@ card_header_image: /img/jobs/vpr/image_2024-11-10_193647496.png
 authors:
   - akashi
   - Balance-VPR-Staff
-patch: "7.1"
-lastmod: 2024-11-16T21:46:22.813Z
+patch: "7.2"
+lastmod: 2025-03-24T21:25:57.028Z
 changelog:
   - date: 2024-08-06T18:56:34.334Z
     message: Updated to reflect 7.05 changes.
+  - date: 2025-03-24T21:26:14.163Z
+    message: Updated to Patch 7.2.
 ---
 # Viper Leveling Guide
 
