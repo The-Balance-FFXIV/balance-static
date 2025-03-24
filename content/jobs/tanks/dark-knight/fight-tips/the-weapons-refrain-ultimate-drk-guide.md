@@ -4,8 +4,8 @@ card_header_image: /img/drk_fight_tips.png
 authors:
   - violet-stardust
   - apileofcats
-patch: "7.16"
-lastmod: 2025-02-14T00:16:44.938Z
+patch: "7.2"
+lastmod: 2025-03-24T21:34:12.065Z
 changelog:
   - date: 2025-02-14T00:17:24.943Z
     message: UWU DRK fight tips version 1 added.
