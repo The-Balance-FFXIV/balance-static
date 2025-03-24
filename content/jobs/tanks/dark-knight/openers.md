@@ -4,7 +4,7 @@ authors:
   - Balance-DRK-Staff
   - silaqui-amakiir
   - athunin
-patch: "7.01"
+patch: "7.2"
 lastmod: 2024-01-25T08:36:34.887Z
 changelog:
   - date: 2021-10-27T17:35:21.786Z
