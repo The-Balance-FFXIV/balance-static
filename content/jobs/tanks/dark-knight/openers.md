@@ -8,16 +8,6 @@ authors:
 patch: "7.2"
 lastmod: 2025-03-24T21:53:29.839Z
 changelog:
-  - date: 2021-10-27T17:35:21.786Z
-    message: Added
-  - date: 2022-01-02T22:59:40.775Z
-    message: Updated for 6.01. Non-standard opener images are still placeholders.
-  - date: 2022-09-19T08:31:01.249Z
-    message: Updated for 6.21.
-  - date: 2023-01-18T23:05:24.499Z
-    message: Opener update, bump to 6.3
-  - date: 2024-01-25T08:36:30.623Z
-    message: Small opener update, mostly to highlight final edge in potion window)
   - date: 2024-07-28T09:27:40.592Z
     message: Updates for 7.0
 ---
