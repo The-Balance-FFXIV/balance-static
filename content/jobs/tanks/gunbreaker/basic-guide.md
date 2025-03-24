@@ -26,8 +26,7 @@ changelog:
 #### Authors
 
 **Krom Ulus** | discord: krom.ulus\
-**Azazel Raine** | discord: azazelraine\
-**Rin Karigani** | discord: rinkarigani
+**Azazel Raine** | discord: azazelraine
 
 - - -
 
