@@ -16,6 +16,8 @@ changelog:
     message: Updated patch number to 6.5
   - date: 2024-07-04T02:45:41.470Z
     message: Updated for Dawntrail.
+  - date: 2025-03-24T21:30:55.670Z
+    message: Updated to patch 7.2.
 tags:
   - Reaper
   - guide
