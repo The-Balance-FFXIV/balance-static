@@ -28,7 +28,7 @@ This guide will not go over the changes and tooltips which can be read from the 
 * oGCD alignment is trickier to manage due to Acceleration changes. We will primarily rely on the 40-second Swiftcast and stricter combo timings instead, though Acceleration can be used as a “temporary” fix for preventing oGCD drift.
 * Scorch and Resolution take priority over Grand Impact on our hotbar when all of these spells are up, but once they are used, Grand Impact will replace Jolt III again.
 * Grand Impact does not consume Dualcast, Swiftcast, or Acceleration’s instant-cast buff.
-* Manafication rush is even better than before because in addition to an extra combo, it now also means +1 use of Prefulgence (900 potency AOE oGCD). Most Prefulgence uses can be held for buffs, even when rushing Manafication.
+* Manafication rush is even better than before because in addition to an extra combo, it now also means +1 use of Prefulgence (1000 potency AOE oGCD). Most Prefulgence uses can be held for buffs, even when rushing Manafication.
 * Downtime Manafication, however, has been severely nerfed since it no longer grants mana by itself. It may still have very niche and situational use cases, but this will depend heavily on encounter design.
 * Our AOE Enchanted Moulinet combo now costs 50|50 mana.
 
@@ -91,8 +91,6 @@ This means that when you know you will no longer be able to gain an additional m
 
 For standard play, it is best to stick to the three main uses mentioned.
 
-
-
 # Understanding our oGCD abilities: priorities, alignment, buffs
 
 ## Embolden and Vice of Thorns
@@ -105,7 +103,7 @@ At level 92, Embolden grants Thorned Flourish upon executing Embolden, which all
 
 Manafication is an ability with a 110s cooldown that allows us to use a melee combo without consuming mana. Specifically, it grants three stacks of Magicked Swordplay, each stack allowing us to use a melee combo at no mana cost while the buff is up. The ability also gives us a 5% magic damage buff with six stacks that lasts 15 seconds, which buffs the next six GCDs by 5%. This damage buff should generally be used on our melee combo, as it is the strongest burst window Red Mage has. 
 
-At level 100, we also gain a new oGCD ability: **Prefulgence**, which is our hardest hitting oGCD at 900 potency for the first enemy, and 60% less for all remaining enemies. It is enabled after the sixth Manafication stack is consumed, which grants us the Prefulgence Ready buff for 30 seconds and replaces Manafication on our hotbar until used. 
+At level 100, we also gain a new oGCD ability: **Prefulgence**, which is our hardest hitting oGCD at 1000 potency for the first enemy, and 60% less for all remaining enemies. It is enabled after the sixth Manafication stack is consumed, which grants us the Prefulgence Ready buff for 30 seconds and replaces Manafication on our hotbar until used. 
 
 In general, Prefulgence should be used in buffs whenever possible. If you’re unsure about whether you can hold Prefulgence long enough for the next buff window, simply compare the timer with your Embolden cooldown timer, which should be aligned with the party: if Embolden is coming up in 15 seconds and the Prefulgence Ready buff has 25 seconds left on the timer, then it will easily be available for the upcoming buff window.
 
