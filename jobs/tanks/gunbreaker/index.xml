@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gunbreaker on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/</link><description>Recent content in Gunbreaker on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 21:59:23 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/index.xml" rel="self" type="application/rss+xml"/><item><title>Gunbreaker Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/basic-guide/</link><pubDate>Mon, 24 Mar 2025 21:59:23 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/basic-guide/</guid><description>&lt;h1 id="gunbreaker-rotation-guide">Gunbreaker Rotation Guide&lt;/h1>
-&lt;h4 id="authors">Authors&lt;/h4>
-&lt;p>&lt;strong>Krom Ulus&lt;/strong> | discord: krom.ulus&lt;br>
-&lt;strong>Azazel Raine&lt;/strong> | discord: azazelraine&lt;/p>
-&lt;hr>
-&lt;h2 id="intro">Intro&lt;/h2>
-&lt;hr>
-&lt;p>&lt;strong>Gunbreaker&lt;/strong> is a tank job with a focus on continuously building and spending cartridges to deal very high damage inside of strict burst windows. As a basic overview, the rotation is a builder-spender rotation focused on optimizing damage dealt every minute inside &lt;strong>No Mercy&lt;/strong>, which is a 20% damage buff that lasts for 20 seconds after its use.&lt;/p></description></item><item><title>Gunbreaker Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/leveling-guide/</link><pubDate>Mon, 24 Mar 2025 21:57:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/leveling-guide/</guid><description>&lt;h1 id="leveling-guide">Leveling Guide&lt;/h1>
-&lt;p>Like any other class, you may have to do lower level content and of course will need to Level from level 60 to level 90 if forgoing a jump book. So, it’s important to keep on top of GNB, especially at Level 70 due to sync for &lt;strong>The Weapon’s Refrain (Ultimate)&lt;/strong> and &lt;strong>The Unending Coil of Bahamut (Ultimate).&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>No Mercy&lt;/strong> is unlocked at level 2, so it’s used in all forms of content from the beginning of A Realm Reborn up to current content in Endwalker. No Mercy is standard and should be used on cooldown, though the abilities and weaponskills available to you will expand as your level increases.&lt;/p></description></item><item><title>Gunbreaker Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/openers/</link><pubDate>Wed, 12 Feb 2025 01:50:58 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/openers/</guid><description>&lt;h1 id="openers">Openers&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gunbreaker on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/</link><description>Recent content in Gunbreaker on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 22:16:28 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/index.xml" rel="self" type="application/rss+xml"/><item><title>Gunbreaker Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/openers/</link><pubDate>Mon, 24 Mar 2025 22:16:28 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/openers/</guid><description>&lt;h1 id="openers">Openers&lt;/h1>
 &lt;p>Your opener is flexible and &lt;strong>No Mercy&lt;/strong> can be used earlier or later than what is listed in either of these openers if necessary to allow for additional uses to be used before phases or mechanics, or alignment to your party&amp;rsquo;s buffs.&lt;/p>
 &lt;h4 id="pulling-techniques">PULLING TECHNIQUES&lt;/h4>
 &lt;ul>
@@ -19,9 +10,18 @@
 &lt;h4 id="openers-1">OPENERS&lt;/h4>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[266 73 128 268 271 425]" src="https://www.thebalanceffxiv.com/img/jobs/gbn/2.4opener_7.1_1.1.png" onclick="openModal(this.id)" alt="2.50 Opener" title="2.50 Opener" />
+ &lt;img id="[135 178 96 106 90 38]" src="https://www.thebalanceffxiv.com/img/jobs/gbn/2.4opener_7.1_1.1.png" onclick="openModal(this.id)" alt="2.50 Opener" title="2.50 Opener" />
 &lt;/div>
-&lt;/p></description></item><item><title>Gunbreaker Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/skills-overview/</link><pubDate>Wed, 12 Feb 2025 01:14:48 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/skills-overview/</guid><description>&lt;h1 id="gunbreaker-skills-overview">Gunbreaker Skills Overview&lt;/h1>
+&lt;/p></description></item><item><title>Gunbreaker Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/basic-guide/</link><pubDate>Mon, 24 Mar 2025 21:59:23 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/basic-guide/</guid><description>&lt;h1 id="gunbreaker-rotation-guide">Gunbreaker Rotation Guide&lt;/h1>
+&lt;h4 id="authors">Authors&lt;/h4>
+&lt;p>&lt;strong>Krom Ulus&lt;/strong> | discord: krom.ulus&lt;br>
+&lt;strong>Azazel Raine&lt;/strong> | discord: azazelraine&lt;/p>
+&lt;hr>
+&lt;h2 id="intro">Intro&lt;/h2>
+&lt;hr>
+&lt;p>&lt;strong>Gunbreaker&lt;/strong> is a tank job with a focus on continuously building and spending cartridges to deal very high damage inside of strict burst windows. As a basic overview, the rotation is a builder-spender rotation focused on optimizing damage dealt every minute inside &lt;strong>No Mercy&lt;/strong>, which is a 20% damage buff that lasts for 20 seconds after its use.&lt;/p></description></item><item><title>Gunbreaker Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/leveling-guide/</link><pubDate>Mon, 24 Mar 2025 21:57:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/leveling-guide/</guid><description>&lt;h1 id="leveling-guide">Leveling Guide&lt;/h1>
+&lt;p>Like any other class, you may have to do lower level content and of course will need to Level from level 60 to level 90 if forgoing a jump book. So, it’s important to keep on top of GNB, especially at Level 70 due to sync for &lt;strong>The Weapon’s Refrain (Ultimate)&lt;/strong> and &lt;strong>The Unending Coil of Bahamut (Ultimate).&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>No Mercy&lt;/strong> is unlocked at level 2, so it’s used in all forms of content from the beginning of A Realm Reborn up to current content in Endwalker. No Mercy is standard and should be used on cooldown, though the abilities and weaponskills available to you will expand as your level increases.&lt;/p></description></item><item><title>Gunbreaker Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/skills-overview/</link><pubDate>Wed, 12 Feb 2025 01:14:48 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/skills-overview/</guid><description>&lt;h1 id="gunbreaker-skills-overview">Gunbreaker Skills Overview&lt;/h1>
 &lt;h2 id="offensive-on-global-cool-down-abilities">Offensive On Global Cool Down Abilities&lt;/h2>
 &lt;table>
  &lt;thead>
@@ -35,7 +35,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[275 32 285 257 241 195]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Keen_Edge.png" onclick="openModal(this.id)" alt="KeenEdge" />
+ &lt;img id="[281 429 251 335 279 449]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Keen_Edge.png" onclick="openModal(this.id)" alt="KeenEdge" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Keen Edge&lt;/strong>&lt;/td>
@@ -44,7 +44,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[69 34 400 301 335 330]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Brutal_Shell.png" onclick="openModal(this.id)" alt="BrutalShell" />
+ &lt;img id="[54 476 177 134 456 450]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Brutal_Shell.png" onclick="openModal(this.id)" alt="BrutalShell" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Brutal Shell&lt;/strong>&lt;/td>
@@ -53,7 +53,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[4 264 64 59 88 287]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Solid_Barrel.png" onclick="openModal(this.id)" alt="SolidBarrel" />
+ &lt;img id="[314 41 70 157 283 196]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Solid_Barrel.png" onclick="openModal(this.id)" alt="SolidBarrel" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Solid Barrel&lt;/strong>&lt;/td>
@@ -62,7 +62,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[162 215 66 126 292 263]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Burst_Strike.png" onclick="openModal(this.id)" alt="BurstStrike" />
+ &lt;img id="[488 176 401 430 6 117]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Burst_Strike.png" onclick="openModal(this.id)" alt="BurstStrike" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Burst Strike&lt;/strong>&lt;/td>
@@ -71,7 +71,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[78 493 125 431 465 308]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Gnashing_Fang.png" onclick="openModal(this.id)" alt="GnashingFang" />
+ &lt;img id="[148 143 13 206 421 219]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Gnashing_Fang.png" onclick="openModal(this.id)" alt="GnashingFang" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Gnashing Fang&lt;/strong>&lt;/td>
@@ -80,7 +80,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[160 351 6 356 268 419]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Savage_Claw.png" onclick="openModal(this.id)" alt="SavageClaw" />
+ &lt;img id="[352 117 165 67 331 256]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Savage_Claw.png" onclick="openModal(this.id)" alt="SavageClaw" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Savage Claw&lt;/strong>&lt;/td>
@@ -89,7 +89,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[106 284 232 104 500 382]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Wicked_Talon.png" onclick="openModal(this.id)" alt="WickedTalon" />
+ &lt;img id="[30 479 439 471 281 56]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Wicked_Talon.png" onclick="openModal(this.id)" alt="WickedTalon" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Wicked Talon&lt;/strong>&lt;/td>
@@ -98,7 +98,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[293 369 153 139 383 137]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003437_hr1.tex?format=png" onclick="openModal(this.id)" alt="Reign of Beasts" />
+ &lt;img id="[323 280 446 351 85 126]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003437_hr1.tex?format=png" onclick="openModal(this.id)" alt="Reign of Beasts" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Reign of Beasts&lt;/strong>&lt;/td>
@@ -107,7 +107,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[268 385 130 347 1 296]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003438_hr1.tex?format=png" onclick="openModal(this.id)" alt="Noble Blood" />
+ &lt;img id="[317 429 53 28 70 182]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003438_hr1.tex?format=png" onclick="openModal(this.id)" alt="Noble Blood" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Noble Blood&lt;/strong>&lt;/td>
@@ -116,7 +116,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[348 342 450 444 334 445]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003439_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lion Heart" />
+ &lt;img id="[273 440 66 322 271 483]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003439_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lion Heart" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Lionheart&lt;/strong>&lt;/td>
@@ -125,7 +125,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[428 382 28 184 416 60]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Sonic_Break.png" onclick="openModal(this.id)" alt="SonicBreak" />
+ &lt;img id="[410 288 308 449 306 366]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Sonic_Break.png" onclick="openModal(this.id)" alt="SonicBreak" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Sonic Break&lt;/strong>&lt;/td>
@@ -134,7 +134,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[319 123 205 417 476 164]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Lightning_Shot.png" onclick="openModal(this.id)" alt="LightingShot" />
+ &lt;img id="[434 197 443 95 117 110]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Lightning_Shot.png" onclick="openModal(this.id)" alt="LightingShot" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Lightning Shot&lt;/strong>&lt;/td>
@@ -143,7 +143,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[484 395 426 320 65 161]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Demon_Slice.png" onclick="openModal(this.id)" alt="DemonSlice" />
+ &lt;img id="[223 272 417 361 67 342]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Demon_Slice.png" onclick="openModal(this.id)" alt="DemonSlice" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Demon Slice&lt;/strong>&lt;/td>
@@ -152,7 +152,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[47 119 293 2 360 48]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Demon_Slaughter.png" onclick="openModal(this.id)" alt="DemonSlaughter" />
+ &lt;img id="[198 227 393 113 164 369]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Demon_Slaughter.png" onclick="openModal(this.id)" alt="DemonSlaughter" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Demon Slaughter&lt;/strong>&lt;/td>
@@ -161,7 +161,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[255 499 202 4 88 249]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Fated_Circle.png" onclick="openModal(this.id)" alt="FatedCircle" />
+ &lt;img id="[326 20 201 6 445 250]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Fated_Circle.png" onclick="openModal(this.id)" alt="FatedCircle" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Fated Circle&lt;/strong>&lt;/td>
@@ -170,7 +170,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[370 272 391 407 345 241]" src="https://i.imgur.com/65HIKLr.png" onclick="openModal(this.id)" alt="Double Down" />
+ &lt;img id="[261 87 82 197 440 39]" src="https://i.imgur.com/65HIKLr.png" onclick="openModal(this.id)" alt="Double Down" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Double Down&lt;/strong>&lt;/td>
@@ -192,7 +192,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[352 385 304 473 342 55]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/No_Mercy.png" onclick="openModal(this.id)" alt="NoMercy" />
+ &lt;img id="[273 390 112 56 199 461]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/No_Mercy.png" onclick="openModal(this.id)" alt="NoMercy" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>No Mercy&lt;/strong>&lt;/td>
@@ -202,7 +202,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[146 476 61 179 208 365]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Bloodfest.png" onclick="openModal(this.id)" alt="Bloodfest" />
+ &lt;img id="[240 424 375 329 25 28]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Bloodfest.png" onclick="openModal(this.id)" alt="Bloodfest" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Bloodfest&lt;/strong>&lt;/td>
@@ -212,7 +212,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[74 428 90 305 439 148]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Continuation.png" onclick="openModal(this.id)" alt="Continuation" />
+ &lt;img id="[34 338 203 329 286 412]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Continuation.png" onclick="openModal(this.id)" alt="Continuation" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Continuation&lt;/strong>&lt;/td>
@@ -222,7 +222,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[73 124 435 385 77 198]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Jugular_Rip.png" onclick="openModal(this.id)" alt="JugularRip" />
+ &lt;img id="[211 255 324 469 182 480]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Jugular_Rip.png" onclick="openModal(this.id)" alt="JugularRip" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Jugular Rip&lt;/strong>&lt;/td>
@@ -232,7 +232,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[63 134 364 89 371 439]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Abdomen_Tear.png" onclick="openModal(this.id)" alt="AbdomenTear" />
+ &lt;img id="[241 291 211 254 1 180]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Abdomen_Tear.png" onclick="openModal(this.id)" alt="AbdomenTear" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Abdomen Tear&lt;/strong>&lt;/td>
@@ -242,7 +242,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[408 133 202 64 339 191]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Eye_Gouge.png" onclick="openModal(this.id)" alt="EyeGouge" />
+ &lt;img id="[476 294 412 484 60 350]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Eye_Gouge.png" onclick="openModal(this.id)" alt="EyeGouge" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Eye Gouge&lt;/strong>&lt;/td>
@@ -252,7 +252,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[384 412 188 375 17 18]" src="https://i.imgur.com/GhDtGtc.png" onclick="openModal(this.id)" alt="Hypervelocity" />
+ &lt;img id="[424 200 255 103 62 336]" src="https://i.imgur.com/GhDtGtc.png" onclick="openModal(this.id)" alt="Hypervelocity" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Hypervelocity&lt;/strong>&lt;/td>
@@ -262,7 +262,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[362 470 193 195 6 205]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003436_hr1.tex?format=png" onclick="openModal(this.id)" alt="RoughDivide" />
+ &lt;img id="[329 122 343 240 375 364]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003436_hr1.tex?format=png" onclick="openModal(this.id)" alt="RoughDivide" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Fated Brand&lt;/strong>&lt;/td>
@@ -272,7 +272,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[29 459 52 186 248 497]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Danger_Zone.png" onclick="openModal(this.id)" alt="DangerZone" />
+ &lt;img id="[471 248 56 237 481 380]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Danger_Zone.png" onclick="openModal(this.id)" alt="DangerZone" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Danger Zone&lt;/strong>&lt;/td>
@@ -282,7 +282,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[7 216 148 77 52 455]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Blasting_Zone.png" onclick="openModal(this.id)" alt="BlastingZone" />
+ &lt;img id="[18 130 100 359 378 448]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Blasting_Zone.png" onclick="openModal(this.id)" alt="BlastingZone" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Blasting Zone&lt;/strong>&lt;/td>
@@ -292,7 +292,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[382 1 417 2 468 293]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Bow_Shock.png" onclick="openModal(this.id)" alt="BowShock" />
+ &lt;img id="[345 69 145 78 302 270]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Bow_Shock.png" onclick="openModal(this.id)" alt="BowShock" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Bow Shock&lt;/strong>&lt;/td>
@@ -314,7 +314,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[240 469 219 336 138 186]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Aurora.png" onclick="openModal(this.id)" alt="Aurora" />
+ &lt;img id="[140 136 393 412 25 181]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Aurora.png" onclick="openModal(this.id)" alt="Aurora" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Aurora&lt;/strong>&lt;/td>
@@ -323,7 +323,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[422 283 380 199 310 396]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Camouflage.png" onclick="openModal(this.id)" alt="Camouflage" />
+ &lt;img id="[89 111 266 274 235 198]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Camouflage.png" onclick="openModal(this.id)" alt="Camouflage" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Camouflage&lt;/strong>&lt;/td>
@@ -332,7 +332,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[41 12 398 25 22 490]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Nebula.png" onclick="openModal(this.id)" alt="Nebula" />
+ &lt;img id="[85 329 342 142 63 230]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Nebula.png" onclick="openModal(this.id)" alt="Nebula" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Great Nebula&lt;/strong>&lt;/td>
@@ -341,7 +341,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[400 46 271 488 389 316]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Superbolide.png" onclick="openModal(this.id)" alt="Superbolide" />
+ &lt;img id="[336 177 29 338 258 82]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Superbolide.png" onclick="openModal(this.id)" alt="Superbolide" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Superbolide&lt;/strong>&lt;/td>
@@ -350,7 +350,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[110 88 455 172 36 160]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Heart_of_Stone.png" onclick="openModal(this.id)" alt="HeartOfStone" />
+ &lt;img id="[453 21 14 124 45 160]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Heart_of_Stone.png" onclick="openModal(this.id)" alt="HeartOfStone" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Heart of Stone&lt;/strong>&lt;/td>
@@ -359,7 +359,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[97 241 215 224 186 18]" src="https://i.imgur.com/N2vujlH.png" onclick="openModal(this.id)" alt="Heart of Corundum" />
+ &lt;img id="[216 159 73 289 106 94]" src="https://i.imgur.com/N2vujlH.png" onclick="openModal(this.id)" alt="Heart of Corundum" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Heart of Corundum&lt;/strong>&lt;/td>
@@ -368,7 +368,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[381 45 126 208 152 40]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Arms_Length.png" onclick="openModal(this.id)" alt="ArmsLength" />
+ &lt;img id="[416 409 74 496 214 347]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Arms_Length.png" onclick="openModal(this.id)" alt="ArmsLength" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Arm’s Length&lt;/strong>&lt;/td>
@@ -377,7 +377,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[55 377 362 423 295 438]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Rampart.png" onclick="openModal(this.id)" alt="Rampart" />
+ &lt;img id="[440 108 156 83 368 220]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Rampart.png" onclick="openModal(this.id)" alt="Rampart" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Rampart&lt;/strong>&lt;/td>
@@ -398,7 +398,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[398 391 117 352 53 210]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Heart_of_Light.png" onclick="openModal(this.id)" alt="HeartOfLight" />
+ &lt;img id="[366 153 282 14 477 422]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Heart_of_Light.png" onclick="openModal(this.id)" alt="HeartOfLight" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Heart of Light&lt;/strong>&lt;/td>
@@ -407,7 +407,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[236 20 53 265 225 335]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Reprisal.png" onclick="openModal(this.id)" alt="Reprisal" />
+ &lt;img id="[474 499 382 496 304 4]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Reprisal.png" onclick="openModal(this.id)" alt="Reprisal" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Reprisal&lt;/strong>&lt;/td>
@@ -416,7 +416,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[303 251 452 48 193 434]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Low_Blow.png" onclick="openModal(this.id)" alt="LowBlow" />
+ &lt;img id="[23 270 115 272 405 7]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Low_Blow.png" onclick="openModal(this.id)" alt="LowBlow" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Low Blow&lt;/strong>&lt;/td>
@@ -425,7 +425,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[18 230 369 39 481 194]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Interject.png" onclick="openModal(this.id)" alt="Interject" />
+ &lt;img id="[389 169 282 491 275 344]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Interject.png" onclick="openModal(this.id)" alt="Interject" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Interject&lt;/strong>&lt;/td>
@@ -434,7 +434,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[337 463 451 192 279 277]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Royal_Guard.png" onclick="openModal(this.id)" alt="RoyalGuard" />
+ &lt;img id="[222 6 99 119 463 418]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Royal_Guard.png" onclick="openModal(this.id)" alt="RoyalGuard" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Royal Guard&lt;/strong>&lt;/td>
@@ -443,7 +443,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[272 330 62 28 146 54]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Provoke.png" onclick="openModal(this.id)" alt="Provoke" />
+ &lt;img id="[468 75 27 333 237 474]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Provoke.png" onclick="openModal(this.id)" alt="Provoke" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Provoke&lt;/strong>&lt;/td>
@@ -452,7 +452,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[5 386 252 339 110 155]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Shirk.png" onclick="openModal(this.id)" alt="Shirk" />
+ &lt;img id="[274 488 275 309 66 179]" src="https://www.thebalanceffxiv.com/img/jobs/tanks/gunbreaker/Shirk.png" onclick="openModal(this.id)" alt="Shirk" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Shirk&lt;/strong>&lt;/td>
