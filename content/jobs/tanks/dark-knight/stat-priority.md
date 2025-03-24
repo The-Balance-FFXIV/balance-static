@@ -1,6 +1,6 @@
 ---
 title: Dark Knight Stat Priority
-patch: "7.0"
+patch: "7.2"
 lastmod: 2022-09-21T00:12:34.252Z
 changelog:
   - date: 2021-10-27T17:44:09.556Z
