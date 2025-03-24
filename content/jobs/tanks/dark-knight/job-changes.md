@@ -1,7 +1,7 @@
 ---
 title: Dark Knight Changes
 layout: changes
-lastmod: 2024-11-13T21:44:02.311Z
+lastmod: 2025-03-24T21:46:04.891Z
 changes:
   - patch: "7.0"
     description: View the latest changes at the Official Site, located
@@ -23,7 +23,7 @@ changes:
       the number of targets. 2 targets have a particularly large increase, going
       down again for 3-4 targets, and then increasing with more targets up to a
       max of 5.4% at 16 targets (the most that can be hit simultaneously with
-      one ability)
+      one ability).
 authors:
   - Balance-DRK-Staff
 ---
