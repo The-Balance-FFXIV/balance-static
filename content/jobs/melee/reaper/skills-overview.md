@@ -2,8 +2,8 @@
 title: Reaper Skill Overview
 authors:
   - Balance-RPR-Staff
-patch: "7.1"
-lastmod: 2024-11-16T21:52:17.884Z
+patch: "7.2"
+lastmod: 2025-03-24T21:46:14.618Z
 changelog:
   - date: 2022-01-04T20:37:59.400Z
     message: Updated Crest of Time Returned potency from 100 to 50.
@@ -23,6 +23,8 @@ changelog:
     message: Updated for 7.0
   - date: 2024-08-02T15:58:59.283Z
     message: Updated for 7.05 job changes.
+  - date: 2025-03-24T21:46:17.554Z
+    message: Updated to Patch 7.2.
 ---
 ## Single-Target Actions
 
