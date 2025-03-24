@@ -3,8 +3,8 @@ title: Intermediate Guide
 authors:
   - Balance-RPR-Staff
   - ellunavi
-patch: "7.1"
-lastmod: 2024-11-16T21:54:21.368Z
+patch: "7.2"
+lastmod: 2025-03-24T21:33:44.692Z
 changelog:
   - date: 2024-07-02T21:55:37.160Z
     message: Created article.
@@ -12,6 +12,8 @@ changelog:
     message: Updated for 2nd GCD AC.
   - date: 2024-07-21T02:37:55.531Z
     message: Updated Burst Window.
+  - date: 2025-03-24T21:33:40.298Z
+    message: Updated to Patch 7.2.
 ---
 # Reaper Intermediate Guide
 
