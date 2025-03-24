@@ -3,8 +3,8 @@ title: Red Mage Basic Guide
 card_header_image: /img/jobs/rdm/lanaresized.png
 authors:
   - Balance-RDM-Staff
-patch: "7.05"
-lastmod: 2024-07-18T03:34:42.588Z
+patch: "7.2"
+lastmod: 2025-03-24T00:00:00.000Z
 changelog:
   - date: 2021-10-26T01:24:41.469Z
     message: Created page
@@ -14,10 +14,12 @@ changelog:
     message: No changes, updated patch number
   - date: 2024-07-18T22:31:08.446Z
     message: Updated for Dawntrail with preliminary version
+  - date: 2025-03-24T20:09:08.609Z
+    message: Updated for 7.2
 ---
-# Red Mage Level 100 Guide for 7.x (Preliminary)
+# Red Mage Level 100 Guide for 7.x
 
-Currently, this guide is in a **preliminary state**, which aims to concisely cover a basic overview of the Red Mage changes brought with Dawntrail along with an introduction to new rotation and opener concepts. A more detailed version of the guide will be updated closer to the release of Savage raids (7.05). If you have questions after reading the guide, feel free to ask in the **\#rdm_questions** channel on [The Balance server.](https://discord.gg/thebalanceffxiv)
+This guide aims to concisely cover a basic overview of the Red Mage changes brought with Dawntrail along with an introduction to new rotation and opener concepts. A new guide with deep dives into advanced concepts and applications of theory for Red Mage is being worked on as of patch 7.2 being released. If you have questions after reading the guide, feel free to ask in the **\#rdm_questions** channel on [The Balance server.](https://discord.gg/thebalanceffxiv)
 
 ## TL;DR changes in playstyle from Endwalker for raiding
 
