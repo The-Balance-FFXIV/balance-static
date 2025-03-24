@@ -19,22 +19,22 @@ changelog:
 ![SpinningEdge](https://xivapi.com/i/000000/000601_hr1.png)\
 **Spinning Edge**
 
-Delivers an attack with a potency of 220. Grants 5 Ninki. This is the first part of our basic combo. 
+Delivers an attack with a potency of 300. Grants 5 Ninki. This is the first part of our basic combo. 
 
 ![GustSlash](https://xivapi.com/i/000000/000602_hr1.png)\
 **Gust Slash**
 
-Delivers an attack with a potency of 160. If used after Spinning Edge in the combo, it will instead deliver an attack with a potency of 320. Grants 5 Ninki if used in the combo. This is the second part of our basic combo.
+Delivers an attack with a potency of 240. If used after Spinning Edge in the combo, it will instead deliver an attack with a potency of 400. Grants 5 Ninki if used in the combo. This is the second part of our basic combo.
 
 ![AeolianEdge](https://xivapi.com/i/000000/000605_hr1.png)\
 **Aeolian Edge**
 
-Delivers an attack with a potency of 140, or 200 potency if done from the rear of the enemy. If this is used after Gust Slash as the third part of our combo, it will instead deliver an attack with a potency of 380, or 440 if done from the enemy's rear. Grants 15 Ninki if used in the combo. This is one of two options for the third part of our basic combo.
+Delivers an attack with a potency of 220, or 280 potency if done from the rear of the enemy. If this is used after Gust Slash as the third part of our combo, it will instead deliver an attack with a potency of 400, or 460 if done from the enemy's rear. If you have at least one stack of Kazematoi, this attack will instead deliver an attack of 500, or 560 if done from the enemy's rear. Grants 15 Ninki if used in the combo. This is one of two options for the third part of our basic combo.
 
 ![ArmorCrush](https://xivapi.com/i/002000/002915_hr1.png)\
 **Armor Crush**  
 
-Delivers an attack with a potency of 140, or 200 if done from the enemy's flank. If this is used after Gust Slash as the third part of the combo, it will instead deliver an attack with a potency of 360, or 420 if done from the enemy's flank. If done as part of the combo, it will also add 30 seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Grants 15 Ninki if used in the combo. This is one of two options for the third part of our basic combo.
+Delivers an attack with a potency of 240, or 300 if done from the enemy's flank. If this is used after Gust Slash as the third part of the combo, it will instead deliver an attack with a potency of 440, or 500 if done from the enemy's flank. If done as part of the combo, it will also add 2 stacks to your Kazematoi gauge, to a maximum of 5 stacks. Grants 15 Ninki if used in the combo. This is one of two options for the third part of our basic combo.
 
 ![ThrowingDagger](https://xivapi.com/i/000000/000614_hr1.png)\
 **Throwing Dagger**
