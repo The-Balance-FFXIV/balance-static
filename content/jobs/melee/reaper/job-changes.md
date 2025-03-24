@@ -1,7 +1,7 @@
 ---
 title: Reaper Job Changes
 layout: changes
-lastmod: 2024-11-16T21:55:19.026Z
+lastmod: 2025-03-24T21:34:45.680Z
 changes:
   - patch: "6.0"
     description: Job added to game.
@@ -98,6 +98,28 @@ changes:
       Perfectio potency increased to 1300.
 
       These changes did not affect the core rotation.
+  - patch: "7.2"
+    description: >-
+      Void Reaping and Cross Reaping potency increased via Melee Mastery III
+      from 500 to 540, and enhanced potency increased from 560 to 600. 
+
+
+      Harvest Moon AoE falloff damage penalty reduced from 50% to 40% (10% more damage to additional targets).
+
+
+      Plentiful Harvest and Communio AoE falloff damage penalty reduced from 60% to 40% (20% more damage to additional targets).
+
+
+      Sacrificium potency increased from 530 to 600. AoE falloff damage penalty reduced from 50% to 40% (10% more damage to additional targets).
+
+
+      Melee Mastery III no longer increases the potency of Spinning Scythe and Nightmare Scythe (potency of Spinning Scythe reduced from 180 to 160, potency of Nightmare Scythe reduced from 160 to 140, combo potency reduced from 200 to 180).
+
+
+      Executioner's Guillotine potency reduced from 300 to 260.
+
+
+      Perfectio AoE falloff damage penalty reduced from 60% to 40% (20% more damage to additional targets).
 authors:
   - Balance-RPR-Staff
 ---
