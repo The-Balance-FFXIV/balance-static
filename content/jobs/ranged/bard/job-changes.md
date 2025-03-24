@@ -3,38 +3,13 @@ title: Bard Changes
 layout: changes
 lastmod: 2023-05-25T03:49:56.213Z
 changes:
-  - patch: "6.0"
-    description: "[Click here to view new changes on the Official
-      Site!](https://na.finalfantasyxiv.com/jobguide/bard)"
-  - patch: "6.1"
+  - patch: "7.2"
     description: >-
-      - Battle Voice can be used without a song active
+      Ladonsbite potency raised from 130 to 140
 
-      - Repelling Shot can be used from farther away (15 yalms instead of 5)
+      Shadowbite potency raised from 170 to 180 (now 280 under Barrage)
 
-      - The Wanderer's Minuet now changes to Pitch Perfect on activation
-
-
-      View the latest changes for 6.1 at the Official Site, located [here](https://na.finalfantasyxiv.com/jobguide/bard/)!
-  - patch: "6.28"
-    description: >-
-      - Empyreal Arrow potency increased from 200 to 230
-
-
-      View the latest changes for 6.28 at the Official Site, located [here](https://na.finalfantasyxiv.com/jobguide/bard/)!
-  - patch: "6.3"
-    description: "- Nature's Minne is no longer a single-target skill. It affects
-      all party members in a 20 yalm range, increasing healing received by 15%.
-      It now has a 120s cooldown."
-  - patch: "6.4"
-    description: >-
-      * The range of song passive buffs extended to 50 yalms
-
-      * The range of Troubadour, Nature's Minne, Battle Voice, Radiant Finale, and Peloton increased to 30 yalms
-  - patch: "6.5"
-    description: |-
-      * Empyreal Arrow potency increased from 230 to 240
-      * Sidewinder potency increased from 300 to 320
+      Pitch Perfect, Resonant Arrow and Radiant Encore now have a 55% damage fall-off on additional targets (was 50%)
   - patch: "7.0"
     description: >-
       * Straighter Shot and Shadowbite Ready have been combined into a single
