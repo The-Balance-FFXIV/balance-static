@@ -23,6 +23,8 @@ changelog:
     message: Updated for 7.0
   - date: 2024-09-08T15:44:15.022Z
     message: Updated for 7.05 potency changes
+  - date: 2025-03-25T19:50:59.922Z
+    message: Updated for 7.2 potency changes to AoE combo
 ---
 ## Buffs
 
