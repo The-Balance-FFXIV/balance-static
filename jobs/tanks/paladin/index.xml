@@ -1,25 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paladin on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/</link><description>Recent content in Paladin on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 14 Jul 2024 01:05:24 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/paladin/index.xml" rel="self" type="application/rss+xml"/><item><title>Paladin Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</link><pubDate>Sun, 14 Jul 2024 01:05:24 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</guid><description>&lt;p>Post-6.3 rework, there is very little to optimize outside of rolling your GCD, keeping oGCDs on cooldown, and not dropping resources (Divine Might, Sword Oath stacks).&lt;/p>
-&lt;p>Encounter-specific optimizations can be discussed in the PLD Encounter forum in the Balance Discord.&lt;/p></description></item><item><title>Paladin Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</link><pubDate>Wed, 10 Jul 2024 05:19:01 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</guid><description/></item><item><title>Paladin Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</link><pubDate>Wed, 10 Jul 2024 05:09:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</guid><description/></item><item><title>Paladin FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 10 Jul 2024 05:01:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>&lt;blockquote>
-&lt;p>&lt;em>Why is Circle of Scorn used immediately in the opener?&lt;/em>&lt;/p>
-&lt;/blockquote>
-&lt;p>Circle of Scorn is used before Fight or Flight in most openers and kept on cooldown in most phases for two reasons:&lt;/p>
-&lt;ul>
-&lt;li>Its short cooldown (25 seconds) is equal to the duration of Fight or Flight, meaning one CoS usage should always occur during FoF regardless of their respective timings, given full uptime.&lt;/li>
-&lt;li>Its high DoT uptime (~60%) means that any delays are likely to cost ticks at the end of the phase, resulting in a potency loss overall.&lt;/li>
-&lt;/ul>
-&lt;p>Circle of Scorn should only be delayed in an optimized setting to line up with buffs and/or for an extra usage in tinctures if it is guaranteed to not lose ticks.&lt;/p></description></item><item><title>Paladin Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/openers/</link><pubDate>Wed, 10 Jul 2024 05:01:03 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/openers/</guid><description>&lt;h1 id="paladin-openers">Paladin Openers&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paladin on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/</link><description>Recent content in Paladin on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 25 Mar 2025 20:00:02 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/paladin/index.xml" rel="self" type="application/rss+xml"/><item><title>Paladin Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/openers/</link><pubDate>Tue, 25 Mar 2025 20:00:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/openers/</guid><description>&lt;h1 id="paladin-openers">Paladin Openers&lt;/h1>
 &lt;p>Tanks currently use Grade 1 Gemdraught of Strength
 (Strength also affects tank magic potency, including healing).&lt;/p>
 &lt;h2 id="opener">Opener&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[339 326 272 462 256 161]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
+ &lt;img id="[476 443 104 342 291 164]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
 &lt;/div>
 &lt;/p>
 &lt;h2 id="burst">Burst&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[256 299 330 234 412 471]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
+ &lt;img id="[63 223 6 36 222 359]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
 &lt;/div>
 &lt;/p>
 &lt;ul>
@@ -45,11 +36,33 @@
 &lt;/ul>
 &lt;/li>
 &lt;li>Use Circle of Scorn and Expiacion on cooldown so they are available for your next burst&lt;/li>
-&lt;/ul></description></item><item><title>Paladin Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/</link><pubDate>Wed, 10 Jul 2024 02:27:20 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/</guid><description>&lt;h2 id="buffs">Buffs&lt;/h2>
+&lt;/ul>
+&lt;h2 id="aoe">AoE&lt;/h2>
+&lt;h3 id="level-94-and-above">Level 94 and above&lt;/h3>
+&lt;ul>
+&lt;li>Use the Prominence combo (Total Eclipse, Prominence) in place of the Royal Authority combo at 3 or more targets.&lt;/li>
+&lt;li>Holy Circle is neutral compared to Holy Spirit at 2 targets. Use Holy Circle at 2 targets to spread damage evenly, or Holy Spirit to focus damage on one target. Always use Holy Circle on 3 or more targets.&lt;/li>
+&lt;li>Use Goring Blade on up to 3 targets. At 4 or more targets, the Prominence combo is stronger than Goring Blade.&lt;/li>
+&lt;/ul>
+&lt;h3 id="level-93-and-below">Level 93 and below&lt;/h3>
+&lt;ul>
+&lt;li>Use the Prominence combo (Total Eclipse, Prominence) in place of the Royal Authority combo at 2 or more targets.&lt;/li>
+&lt;li>Use Holy Circle in place of Holy Spirit at 2 or more targets.&lt;/li>
+&lt;li>Use Goring Blade on up to 3 targets. At 4 or more targets, the Prominence combo is stronger than Goring Blade.&lt;/li>
+&lt;/ul></description></item><item><title>Paladin Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</link><pubDate>Sun, 14 Jul 2024 01:05:24 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</guid><description>&lt;p>Post-6.3 rework, there is very little to optimize outside of rolling your GCD, keeping oGCDs on cooldown, and not dropping resources (Divine Might, Sword Oath stacks).&lt;/p>
+&lt;p>Encounter-specific optimizations can be discussed in the PLD Encounter forum in the Balance Discord.&lt;/p></description></item><item><title>Paladin Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</link><pubDate>Wed, 10 Jul 2024 05:19:01 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</guid><description/></item><item><title>Paladin Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</link><pubDate>Wed, 10 Jul 2024 05:09:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</guid><description/></item><item><title>Paladin FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 10 Jul 2024 05:01:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>&lt;blockquote>
+&lt;p>&lt;em>Why is Circle of Scorn used immediately in the opener?&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>Circle of Scorn is used before Fight or Flight in most openers and kept on cooldown in most phases for two reasons:&lt;/p>
+&lt;ul>
+&lt;li>Its short cooldown (25 seconds) is equal to the duration of Fight or Flight, meaning one CoS usage should always occur during FoF regardless of their respective timings, given full uptime.&lt;/li>
+&lt;li>Its high DoT uptime (~60%) means that any delays are likely to cost ticks at the end of the phase, resulting in a potency loss overall.&lt;/li>
+&lt;/ul>
+&lt;p>Circle of Scorn should only be delayed in an optimized setting to line up with buffs and/or for an extra usage in tinctures if it is guaranteed to not lose ticks.&lt;/p></description></item><item><title>Paladin Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/</link><pubDate>Wed, 10 Jul 2024 02:27:20 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/</guid><description>&lt;h2 id="buffs">Buffs&lt;/h2>
 &lt;p>&lt;strong>Iron Will&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[5 484 84 364 394 52]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[429 174 320 317 49 424]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>Toggle | 3s cooldown after toggling on. | 1s cooldown after toggling off.&lt;/p>
@@ -58,7 +71,7 @@
 &lt;p>&lt;strong>Fight or Flight&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[272 79 216 144 9 23]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[172 209 416 461 401 305]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>60s cooldown.&lt;/p>
@@ -66,7 +79,7 @@
 &lt;p>&lt;strong>Imperator&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[491 377 435 243 274 151]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[471 54 243 163 186 197]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p></description></item><item><title>Paladin Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/</link><pubDate>Wed, 10 Jul 2024 02:16:49 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/</guid><description>&lt;h1 id="paladin-leveling">Paladin Leveling&lt;/h1>
 &lt;h2 id="dungeon-tips">Dungeon Tips&lt;/h2>
