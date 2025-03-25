@@ -273,7 +273,7 @@ Applies a 20% auto-attack and cast time slow for 15s to enemies that attack you 
 | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002511_hr1.png) | ![](https://xivapi.com/i/002000/002516_hr1.png) |
 
-100 > 170 potency (physical damage).
+120 > 220 potency (physical damage).
 
 Grants Divine Might
 
@@ -288,9 +288,9 @@ Replaces single target combos at 3+ enemies.
 
 100 potency (magical) | 1.5s cast time
 
-200 potency and instant under Divine Might (also consumes Divine Might).
+250 potency and instant under Divine Might (also consumes Divine Might).
 
-300 potency and instant under Requiescat (also consumes a stack of Requiescat).
+350 potency and instant under Requiescat (also consumes a stack of Requiescat).
 
 Heals self for 400 potency.
 
