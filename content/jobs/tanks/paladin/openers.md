@@ -3,7 +3,7 @@ title: Paladin Openers
 authors:
   - Balance-PLD-Staff
   - nikroulah
-patch: "7.0"
+patch: "7.2"
 lastmod: 2024-07-10T05:01:03.400Z
 changelog:
   - date: 2021-10-27T17:21:23.427Z
