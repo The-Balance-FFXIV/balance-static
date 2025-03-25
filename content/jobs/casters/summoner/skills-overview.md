@@ -3,7 +3,7 @@ title: Summoner Skills Overview
 authors:
   - juliacare
   - Hauffen
-patch: "7.05"
+patch: "7.2"
 lastmod: 2024-08-02T00:08:17.574Z
 changelog:
   - date: 2021-11-29T23:13:41.431Z
