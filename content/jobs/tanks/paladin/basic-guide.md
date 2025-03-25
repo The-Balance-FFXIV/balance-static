@@ -3,7 +3,7 @@ title: Paladin Basics Guide
 card_header_image: /img/jobs/pld/basic.png
 authors:
   - nikroulah
-patch: "7.05"
+patch: "7.2"
 lastmod: 2024-07-10T02:02:55.686Z
 changelog:
   - date: 2021-10-27T17:21:54.665Z
