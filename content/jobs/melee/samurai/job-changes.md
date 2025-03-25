@@ -53,7 +53,7 @@ changes:
       Hissatsu Kyuten potency reduced from 120 to 100.
 
 
-      Hissatsu Gyren potency reduced from 500 to 400. Guren is now only a gain on 3 targets.
+      Hissatsu Guren potency reduced from 500 to 400. Guren is now only a gain on 3 targets.
 
 
       Shoha's damage falloff was reduced from 65% to 50%, meaning it does more damage in AOE.
