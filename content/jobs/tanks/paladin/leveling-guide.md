@@ -3,7 +3,7 @@ title: Paladin Leveling Guide
 card_header_image: /img/jobs/pld/leveling.png
 authors:
   - nikroulah
-patch: "7.0"
+patch: "7.2"
 lastmod: 2024-07-10T02:16:49.333Z
 changelog:
   - date: 2021-10-27T17:22:16.067Z
