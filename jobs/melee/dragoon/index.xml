@@ -15,7 +15,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[320 292 47 220 466 133]" src="https://xivapi.com/i/000000/000310_hr1.png" onclick="openModal(this.id)" alt="True Thrust" />
+ &lt;img id="[91 297 266 155 167 409]" src="https://xivapi.com/i/000000/000310_hr1.png" onclick="openModal(this.id)" alt="True Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">True Thrust&lt;/td>
@@ -26,7 +26,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[316 464 200 363 372 480]" src="https://xivapi.com/i/002000/002592_hr1.png" onclick="openModal(this.id)" alt="Raiden Thrust" />
+ &lt;img id="[473 262 21 89 100 68]" src="https://xivapi.com/i/002000/002592_hr1.png" onclick="openModal(this.id)" alt="Raiden Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Raiden Thrust&lt;/td>
@@ -37,7 +37,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[445 217 216 298 29 119]" src="https://xivapi.com/i/000000/000317_hr1.png" onclick="openModal(this.id)" alt="Disembowel" />
+ &lt;img id="[213 91 431 253 103 295]" src="https://xivapi.com/i/000000/000317_hr1.png" onclick="openModal(this.id)" alt="Disembowel" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Disembowel&lt;/td>
@@ -48,7 +48,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[132 143 181 443 433 495]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002077_hr1.tex?format=png" onclick="openModal(this.id)" alt="Spiral Blow" />
+ &lt;img id="[80 365 45 152 34 322]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002077_hr1.tex?format=png" onclick="openModal(this.id)" alt="Spiral Blow" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Sprial Blow&lt;/td>
@@ -59,7 +59,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[31 291 176 345 469 139]" src="https://xivapi.com/i/000000/000308_hr1.png" onclick="openModal(this.id)" alt="Chaos Thrust" />
+ &lt;img id="[303 9 168 341 467 490]" src="https://xivapi.com/i/000000/000308_hr1.png" onclick="openModal(this.id)" alt="Chaos Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chaos Thrust&lt;/td>
@@ -70,7 +70,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[475 389 472 269 309 159]" src="https://xivapi.com/i/002000/002596_hr1.png" onclick="openModal(this.id)" alt="Chaotic Spring" />
+ &lt;img id="[143 484 235 163 487 287]" src="https://xivapi.com/i/002000/002596_hr1.png" onclick="openModal(this.id)" alt="Chaotic Spring" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chaotic Spring&lt;/td>
@@ -81,7 +81,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[181 462 73 165 282 236]" src="https://xivapi.com/i/000000/000312_hr1.png" onclick="openModal(this.id)" alt="Vorpal Thrust" />
+ &lt;img id="[334 39 340 160 215 374]" src="https://xivapi.com/i/000000/000312_hr1.png" onclick="openModal(this.id)" alt="Vorpal Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Vorpal Thrust&lt;/td>
@@ -92,7 +92,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[44 282 255 59 218 193]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002076_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Barrage" />
+ &lt;img id="[490 231 159 429 64 92]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002076_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Barrage" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Barrage&lt;/td>
@@ -103,7 +103,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[347 47 369 434 392 280]" src="https://xivapi.com/i/000000/000314_hr1.png" onclick="openModal(this.id)" alt="Full Thrust" />
+ &lt;img id="[215 366 68 247 443 348]" src="https://xivapi.com/i/000000/000314_hr1.png" onclick="openModal(this.id)" alt="Full Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Full Thrust&lt;/td>
@@ -114,7 +114,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[413 175 29 423 33 453]" src="https://xivapi.com/i/002000/002595_hr1.png" onclick="openModal(this.id)" alt="Heavens&amp;rsquo; Thrust" />
+ &lt;img id="[52 118 389 466 252 197]" src="https://xivapi.com/i/002000/002595_hr1.png" onclick="openModal(this.id)" alt="Heavens&amp;rsquo; Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heavens&amp;rsquo; Thrust&lt;/td>
@@ -125,7 +125,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[177 135 112 483 57 374]" src="https://xivapi.com/i/002000/002582_hr1.png" onclick="openModal(this.id)" alt="Fang and Claw" />
+ &lt;img id="[146 69 92 308 344 385]" src="https://xivapi.com/i/002000/002582_hr1.png" onclick="openModal(this.id)" alt="Fang and Claw" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fang and Claw&lt;/td>
@@ -136,7 +136,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[12 328 375 63 435 454]" src="https://xivapi.com/i/002000/002584_hr1.png" onclick="openModal(this.id)" alt="Wheeling Thrust" />
+ &lt;img id="[105 344 269 378 8 349]" src="https://xivapi.com/i/002000/002584_hr1.png" onclick="openModal(this.id)" alt="Wheeling Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Wheeling Thrust&lt;/td>
@@ -147,7 +147,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[33 385 218 376 296 224]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png" onclick="openModal(this.id)" alt="Drakesbane" />
+ &lt;img id="[178 276 390 201 19 86]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png" onclick="openModal(this.id)" alt="Drakesbane" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Drakesbane&lt;/td>
@@ -158,7 +158,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[19 293 136 124 326 88]" src="https://xivapi.com/i/000000/000315_hr1.png" onclick="openModal(this.id)" alt="Piercing Talon" />
+ &lt;img id="[140 276 314 385 401 480]" src="https://xivapi.com/i/000000/000315_hr1.png" onclick="openModal(this.id)" alt="Piercing Talon" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Piercing Talon&lt;/td>
@@ -190,7 +190,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[479 168 236 358 311 51]" src="https://xivapi.com/i/000000/000306_hr1.png" onclick="openModal(this.id)" alt="Doom Spike" />
+ &lt;img id="[119 136 456 316 147 288]" src="https://xivapi.com/i/000000/000306_hr1.png" onclick="openModal(this.id)" alt="Doom Spike" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Doom Spike&lt;/td>
@@ -201,7 +201,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[422 342 402 458 179 81]" src="https://xivapi.com/i/002000/002594_hr1.png" onclick="openModal(this.id)" alt="Draconian Fury" />
+ &lt;img id="[177 419 496 57 307 211]" src="https://xivapi.com/i/002000/002594_hr1.png" onclick="openModal(this.id)" alt="Draconian Fury" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Draconian Fury&lt;/td>
@@ -212,7 +212,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[110 174 334 229 158 363]" src="https://xivapi.com/i/002000/002586_hr1.png" onclick="openModal(this.id)" alt="Sonic Thrust" />
+ &lt;img id="[139 379 271 130 377 41]" src="https://xivapi.com/i/002000/002586_hr1.png" onclick="openModal(this.id)" alt="Sonic Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Sonic Thrust&lt;/td>
@@ -223,7 +223,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[372 237 476 375 231 197]" src="https://xivapi.com/i/002000/002590_hr1.png" onclick="openModal(this.id)" alt="Coerthan Torment" />
+ &lt;img id="[442 411 64 344 348 322]" src="https://xivapi.com/i/002000/002590_hr1.png" onclick="openModal(this.id)" alt="Coerthan Torment" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Coerthan Torment&lt;/td>
@@ -248,7 +248,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[446 186 204 500 163 28]" src="https://xivapi.com/i/002000/002576_hr1.png" onclick="openModal(this.id)" alt="Jump" />
+ &lt;img id="[119 201 401 107 227 299]" src="https://xivapi.com/i/002000/002576_hr1.png" onclick="openModal(this.id)" alt="Jump" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Jump&lt;/td>
@@ -259,7 +259,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[117 393 316 376 353 367]" src="https://xivapi.com/i/002000/002591_hr1.png" onclick="openModal(this.id)" alt="High Jump" />
+ &lt;img id="[286 16 108 133 45 30]" src="https://xivapi.com/i/002000/002591_hr1.png" onclick="openModal(this.id)" alt="High Jump" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">High Jump&lt;/td>
@@ -270,7 +270,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[358 143 353 237 403 59]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002598_hr1.tex?format=png" onclick="openModal(this.id)" alt="Winged Glide" />
+ &lt;img id="[173 20 241 377 81 99]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002598_hr1.tex?format=png" onclick="openModal(this.id)" alt="Winged Glide" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Winged Glide&lt;/td>
@@ -281,7 +281,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[178 464 465 174 475 403]" src="https://xivapi.com/i/002000/002578_hr1.png" onclick="openModal(this.id)" alt="Dragonfire Dive" />
+ &lt;img id="[152 377 469 106 415 85]" src="https://xivapi.com/i/002000/002578_hr1.png" onclick="openModal(this.id)" alt="Dragonfire Dive" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dragonfire Dive&lt;/td>
@@ -292,7 +292,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[298 388 479 441 45 236]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002075_hr1.tex?format=png" onclick="openModal(this.id)" alt="Rise of the Dragon" />
+ &lt;img id="[116 9 421 368 89 439]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002075_hr1.tex?format=png" onclick="openModal(this.id)" alt="Rise of the Dragon" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Rise of the Dragon&lt;/td>
@@ -303,7 +303,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[39 80 190 381 143 447]" src="https://xivapi.com/i/002000/002588_hr1.png" onclick="openModal(this.id)" alt="Mirage Dive" />
+ &lt;img id="[169 408 373 443 28 8]" src="https://xivapi.com/i/002000/002588_hr1.png" onclick="openModal(this.id)" alt="Mirage Dive" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Mirage Dive&lt;/td>
@@ -314,7 +314,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[94 16 411 303 219 369]" src="https://xivapi.com/i/002000/002583_hr1.png" onclick="openModal(this.id)" alt="Geirskogul" />
+ &lt;img id="[289 386 491 246 61 364]" src="https://xivapi.com/i/002000/002583_hr1.png" onclick="openModal(this.id)" alt="Geirskogul" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Geirskogul&lt;/td>
@@ -325,7 +325,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[204 30 134 408 315 96]" src="https://xivapi.com/i/002000/002589_hr1.png" onclick="openModal(this.id)" alt="Nastrond" />
+ &lt;img id="[389 34 442 429 366 149]" src="https://xivapi.com/i/002000/002589_hr1.png" onclick="openModal(this.id)" alt="Nastrond" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Nastrond&lt;/td>
@@ -336,7 +336,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[405 33 91 196 224 210]" src="https://xivapi.com/i/002000/002593_hr1.png" onclick="openModal(this.id)" alt="Stardiver" />
+ &lt;img id="[210 394 334 278 136 54]" src="https://xivapi.com/i/002000/002593_hr1.png" onclick="openModal(this.id)" alt="Stardiver" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Stardiver&lt;/td>
@@ -347,7 +347,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[442 78 470 85 178 213]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002078_hr1.tex?format=png" onclick="openModal(this.id)" alt="Starcross" />
+ &lt;img id="[30 168 183 167 472 176]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002078_hr1.tex?format=png" onclick="openModal(this.id)" alt="Starcross" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Starcross&lt;/td>
@@ -358,7 +358,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[50 373 370 121 97 26]" src="https://xivapi.com/i/002000/002597_hr1.png" onclick="openModal(this.id)" alt="Wyrmwind Thrust" />
+ &lt;img id="[375 240 4 118 284 452]" src="https://xivapi.com/i/002000/002597_hr1.png" onclick="openModal(this.id)" alt="Wyrmwind Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Wyrmwind Thrust&lt;/td>
@@ -369,7 +369,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[408 276 234 131 459 178]" src="https://xivapi.com/i/002000/002577_hr1.png" onclick="openModal(this.id)" alt="Elusive Jump" />
+ &lt;img id="[217 42 376 336 357 253]" src="https://xivapi.com/i/002000/002577_hr1.png" onclick="openModal(this.id)" alt="Elusive Jump" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Elusive Jump&lt;/td>
@@ -394,7 +394,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[63 304 410 183 356 422]" src="https://xivapi.com/i/000000/000309_hr1.png" onclick="openModal(this.id)" alt="Lance Charge" />
+ &lt;img id="[75 83 318 392 452 78]" src="https://xivapi.com/i/000000/000309_hr1.png" onclick="openModal(this.id)" alt="Lance Charge" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Charge&lt;/td>
@@ -405,7 +405,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[318 283 96 205 95 72]" src="https://xivapi.com/i/002000/002585_hr1.png" onclick="openModal(this.id)" alt="Battle Litany" />
+ &lt;img id="[473 185 441 384 49 484]" src="https://xivapi.com/i/002000/002585_hr1.png" onclick="openModal(this.id)" alt="Battle Litany" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Battle Litany&lt;/td>
@@ -416,7 +416,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[98 153 34 29 49 182]" src="https://xivapi.com/i/000000/000304_hr1.png" onclick="openModal(this.id)" alt="Life Surge" />
+ &lt;img id="[183 448 271 86 172 135]" src="https://xivapi.com/i/000000/000304_hr1.png" onclick="openModal(this.id)" alt="Life Surge" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Life Surge&lt;/td>
@@ -427,7 +427,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[186 205 27 390 72 332]" src="https://beta.xivapi.com/api/1/asset/ui/icon/020000/020710_hr1.tex?format=png" onclick="openModal(this.id)" alt="Gemdraught of Strength" />
+ &lt;img id="[488 339 143 300 127 117]" src="https://beta.xivapi.com/api/1/asset/ui/icon/020000/020710_hr1.tex?format=png" onclick="openModal(this.id)" alt="Gemdraught of Strength" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Current Gemdraught of Strength&lt;/td>
@@ -452,7 +452,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[37 420 339 14 111 245]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" />
+ &lt;img id="[267 189 10 168 284 397]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -463,7 +463,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[67 430 425 225 371 186]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="Leg Sweep" />
+ &lt;img id="[71 196 197 36 366 449]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="Leg Sweep" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Sweep&lt;/td>
@@ -474,7 +474,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[437 3 4 422 204 165]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="Bloodbath" />
+ &lt;img id="[64 417 149 33 495 402]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="Bloodbath" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodbath&lt;/td>
@@ -485,7 +485,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[303 114 140 151 188 117]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="Feint" />
+ &lt;img id="[157 105 392 285 29 202]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="Feint" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Feint&lt;/td>
@@ -496,7 +496,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[436 472 187 65 420 408]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" />
+ &lt;img id="[287 329 454 433 31 386]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -507,7 +507,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[369 103 205 293 327 313]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="True North" />
+ &lt;img id="[442 149 13 473 312 34]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="True North" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">True North&lt;/td>
@@ -532,7 +532,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[103 141 487 459 391 416]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005294_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Jump" />
+ &lt;img id="[478 480 342 233 234 349]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005294_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Jump" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Jump&lt;/td>
@@ -543,7 +543,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[298 415 260 267 325 185]" src="https://xivapi.com/i/005000/005285_hr1.png" onclick="openModal(this.id)" alt="Life of the Dragon" />
+ &lt;img id="[322 64 278 52 208 343]" src="https://xivapi.com/i/005000/005285_hr1.png" onclick="openModal(this.id)" alt="Life of the Dragon" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Life of the Dragon&lt;/td>
@@ -554,7 +554,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[481 87 240 69 474 301]" src="https://xivapi.com/i/005000/005286_hr1.png" onclick="openModal(this.id)" alt="Jump Mastery" />
+ &lt;img id="[92 75 353 488 365 111]" src="https://xivapi.com/i/005000/005286_hr1.png" onclick="openModal(this.id)" alt="Jump Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Jump Mastery&lt;/td>
@@ -565,7 +565,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[379 204 222 297 463 143]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005284_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery" />
+ &lt;img id="[1 499 495 498 378 405]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005284_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Mastery&lt;/td>
@@ -576,7 +576,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[151 116 87 135 412 290]" src="https://xivapi.com/i/005000/005290_hr1.png" onclick="openModal(this.id)" alt="Enhanced Coerthan Torment" />
+ &lt;img id="[184 86 49 329 267 314]" src="https://xivapi.com/i/005000/005290_hr1.png" onclick="openModal(this.id)" alt="Enhanced Coerthan Torment" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Coerthan Torment&lt;/td>
@@ -587,7 +587,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[233 441 49 291 133 389]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005295_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Winged Glide" />
+ &lt;img id="[453 12 405 147 161 271]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005295_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Winged Glide" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Winged Glide&lt;/td>
@@ -598,7 +598,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[310 259 368 240 497 66]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005288_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery II" />
+ &lt;img id="[151 376 153 356 34 141]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005288_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Mastery II&lt;/td>
@@ -609,7 +609,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[131 173 54 23 196 118]" src="https://xivapi.com/i/005000/005277_hr1.png" onclick="openModal(this.id)" alt="Enhanced Life Surge" />
+ &lt;img id="[213 458 465 492 364 439]" src="https://xivapi.com/i/005000/005277_hr1.png" onclick="openModal(this.id)" alt="Enhanced Life Surge" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Life Surge&lt;/td>
@@ -620,7 +620,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[218 365 407 334 355 448]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005292_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery III" />
+ &lt;img id="[341 2 412 467 333 403]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005292_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery III" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Mastery III&lt;/td>
@@ -631,7 +631,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[136 130 267 178 97 461]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005296_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Dragonfire Dive" />
+ &lt;img id="[140 65 36 397 168 432]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005296_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Dragonfire Dive" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Dragonfire Dive&lt;/td>
@@ -642,7 +642,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[67 100 86 325 423 4]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006806_hr1.tex?format=png" onclick="openModal(this.id)" alt="Melee Mastery" />
+ &lt;img id="[431 433 463 123 204 414]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006806_hr1.tex?format=png" onclick="openModal(this.id)" alt="Melee Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Melee Mastery&lt;/td>
@@ -653,7 +653,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[328 152 400 93 469 257]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005293_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery IV" />
+ &lt;img id="[174 457 28 451 110 381]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005293_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery IV" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Mastery IV&lt;/td>
@@ -664,7 +664,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[296 495 375 176 38 262]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005298_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Stardiver" />
+ &lt;img id="[302 333 453 122 289 230]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005298_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Stardiver" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Stardiver&lt;/td>
@@ -689,7 +689,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[149 265 394 453 212 413]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006852_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Second Wind" />
+ &lt;img id="[316 146 4 178 200 473]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006852_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Second Wind" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Second Wind&lt;/td>
@@ -700,7 +700,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[377 266 443 402 200 108]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006851_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Feint" />
+ &lt;img id="[277 420 371 382 489 395]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006851_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Feint" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Feint&lt;/td>
@@ -714,7 +714,7 @@
 &lt;h2 id="standard-opener---no-pt">Standard Opener - No PT&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[215 463 93 209 421 157]" src="https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_-_No_PT.png?raw=true" onclick="openModal(this.id)" alt="Standard Opener - No PT" />
+ &lt;img id="[198 225 219 141 330 223]" src="https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_-_No_PT.png?raw=true" onclick="openModal(this.id)" alt="Standard Opener - No PT" />
 &lt;/div>
 
 &lt;br>
@@ -731,7 +731,7 @@ The Role Action True North allows you to disregard positional requirements for t
 A continuous target ring will always count positionals as successful, regardless of your position.
 
 &lt;div class="md__image">
- &lt;img id="[406 307 296 84 454 498]" src="https://imgur.com/ANOqtwM.png" onclick="openModal(this.id)" alt="Positional zones" title="Positional zones" />
+ &lt;img id="[73 135 274 32 323 411]" src="https://imgur.com/ANOqtwM.png" onclick="openModal(this.id)" alt="Positional zones" title="Positional zones" />
 &lt;/div>
 &lt;/p></description></item><item><title>Dragoon FAQ</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</link><pubDate>Sun, 28 Jul 2024 11:18:50 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</guid><description>&lt;h1 id="frequently-asked-questions">Frequently Asked Questions&lt;/h1>
 &lt;p>Type &lt;code>!faq drg&lt;/code> in #bot_spam for a full list of commands to answer other common questions!&lt;/p>
