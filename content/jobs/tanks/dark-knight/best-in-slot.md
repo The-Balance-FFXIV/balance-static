@@ -1,8 +1,8 @@
 ---
 title: Dark Knight Best in Slot (BiS)
 layout: bis
-patch: "7.15"
-lastmod: 2024-12-06T22:45:52.615Z
+patch: "7.2"
+lastmod: 2025-03-25T19:49:35.599Z
 changelog:
   - date: 2021-10-27T17:45:00.078Z
     message: Added
@@ -33,46 +33,47 @@ changelog:
       sheets. Also added a 7.1 savage starter gear sheet.
   - date: 2024-12-22T18:33:46.998Z
     message: Updated current BiS sheet link with chaotic gear.
+  - date: 2025-03-25T19:49:37.685Z
+    message: Added sets for 7.2
 bis:
   - type: genericiframe
-    name: 7.15 Bis (2.50)
-    link: https://xivgear.app/?page=embed%7Csl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f&onlySetIndex=2
+    name: 7.2 Bis (2.50)
+    link: https://xivgear.app/?page=sl%7C0ab7650e-e569-4d09-8893-e081b2465c42&onlySetIndex=0
     description: Speed should be chosen according to comfort, but this set is
       generally recommended.
   - type: genericiframe
-    name: 7.15 BiS (2.46)
-    link: https://xivgear.app/?page=embed%7Csl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f&onlySetIndex=6
+    name: 7.2 BiS (2.46)
+    link: https://xivgear.app/?page=sl%7C0ab7650e-e569-4d09-8893-e081b2465c42&onlySetIndex=1
+  - type: genericlink
+    name: 7.2 BiS Gearsets
+    link: https://xivgear.app/?page=sl%7C0ab7650e-e569-4d09-8893-e081b2465c42
+  - type: genericiframe
+    link: https://xivgear.app/?page=sl%7Cc39185c8-6896-41db-a352-a504018ee598&onlySetIndex=0
+    name: 7.2 Prog Gear (2.50, Tome chest)
+  - type: genericlink
+    name: 7.2 Prog Gearsets
+    link: https://xivgear.app/?page=sl%7Cc39185c8-6896-41db-a352-a504018ee598
+  - type: genericlink
+    name: 7.2 FRU Gearsets
+    link: https://xivgear.app/?page=sl%7C35c65de5-16e5-4837-bd04-55520eb9d33a
+  - type: genericlink
+    name: 7.2 TOP Gearsets
+    link: https://xivgear.app/?page=sl%7C6a297a89-8ba7-4e98-8c0d-05c9b0106c84
+  - type: genericlink
+    name: 7.2 DSR Gearsets
+    link: https://xivgear.app/?page=sl%7C17be86e9-0a34-4a36-a108-d3949735908c
+  - type: genericlink
+    name: 7.2 TEA Gearsets
+    link: https://xivgear.app/?page=sl%7C2ee9bfdc-1062-4dd3-ae12-04730c065569
+  - type: genericlink
+    link: https://xivgear.app/?page=sl%7Cf66276df-ce6e-4143-b9fa-cd2599647bdf
+    name: 7.2 UWU Gearsets
+  - type: genericlink
+    link: https://xivgear.app/?page=sl%7Cb52aa990-15c7-47bb-835c-6f5101ff6e18
+    name: 7.2 UCoB Gearsets
   - type: genericlink
     name: 7.15 BiS Gearsets
     link: https://xivgear.app/?page=sl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f
-  - type: genericlink
-    name: 7.1 Savage Starter Gearsets
-    link: https://xivgear.app/?page=sl%7Ca5dcd340-dce2-499f-88c9-cfa3f478ae21
-  - type: genericlink
-    name: 7.05 TOP Gearsets
-    link: https://xivgear.app/?page=sl%7C1b8cab41-b5cd-4aee-bdb6-fdff787ef795
-  - type: genericlink
-    name: 7.15 DSR Gearsets
-    link: https://xivgear.app/?page=sl%7Cd30bac05-e801-4e0d-b1ea-4bed4e0e17fb
-  - type: genericlink
-    name: 7.05 TEA Gearsets
-    link: https://xivgear.app/?page=sl%7Ce1946069-4bd8-4aba-ad89-bee34e32d388
-  - type: genericlink
-    link: https://xivgear.app/?page=sl%7Ca31944c3-a9ca-4839-ba67-2e3ec23dabb2
-    name: 7.05 UWU Gearsets
-  - type: genericlink
-    link: https://xivgear.app/?page=sl%7Cee6fe736-c66e-425b-8710-c8635dca2a2f
-    name: 7.05 UCoB Gearsets
-  - type: genericlink
-    name: 7.05 Prog Gearsets
-    link: https://xivgear.app/?page=sl%7C177e7703-dffa-42b6-ad5d-77401db09452
-  - type: genericlink
-    name: 7.01 Gearsets (2 weeks of normal raid gear)
-    link: https://xivgear.app/?page=sl%7C7ed23846-ab66-43d2-bf6b-02669b86c586&
-  - type: genericlink
-    link: https://xivgear.app/?page=sl%7C8e145346-ef1b-4a4a-911a-e699aa8897e1
-    name: 7.00 BiS Gearsets
-    description: ""
 authors:
   - Balance-DRK-Staff
   - apileofcats
