@@ -1,8 +1,8 @@
 ---
 title: Dark Knight FAQ
 layout: qna
-patch: "7.1"
-lastmod: 2023-01-19T04:45:38.945Z
+patch: "7.2"
+lastmod: 2025-03-24T21:47:10.677Z
 changelog:
   - date: 2021-10-27T17:50:54.106Z
     message: Added
@@ -51,11 +51,15 @@ qna:
       the fight ends in the middle of a burst.
   - question: What GCD speed(s) should I use?
     answer: >-
-      Use whichever speed feels most comfortable.
+      It's personal preference. They sim extremely similarly, but they 'feel'
+      slightly different. The main differences in 'feel' are:
 
-      2.50 has perfect alignment between GCDs and oGCDs, but may not always be achievable depending on gear options.
+      - 2.50: Nothing will clip, and all oGCDs will align perfectly if you keep your GCD rolling. Bursts will have variable amounts of starting Blood.
 
-      2.45 has good alignment with perfect play, but 2.46 gives slightly more leniency than 2.45 at the expense of slightly worse alignment in the optimal case. 
+      - 2.46: Carve and Spit will drift slightly to prevent clipping your GCD, but Blood is more consistent, and each burst will have 70 Blood going into it in full uptime.
+
+
+      If in doubt, or if none of that made sense, we recommend 2.50. It will likely be more forgiving if you're new to the job or have very high ping, as well as simming very slightly better. If you like Dark Knight a lot, then we recommend trying both, and deciding for yourself what's comfiest for you.
   - question: What food should I use?
     answer: >-
       (Patch 7.1): Either Roast Chicken (for 2.50) or Moqueca (for 2.46).
@@ -70,6 +74,7 @@ qna:
       For 7.00 best gear, a full focus on Tenacity gains approximately 6.2% mitigation and loses approximately 0.8% damage compared to the best damage melds.
 authors:
   - silaqui-amakiir
+  - violet-stardust
 ---
 # Frequently Asked Questions
 
