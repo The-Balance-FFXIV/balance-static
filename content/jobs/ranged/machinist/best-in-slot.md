@@ -19,6 +19,15 @@ changelog:
   - date: 2023-10-04T10:36:00.506Z
     message: top bis updated for 6.5
 bis:
+  - type: xivgearset
+    name: 7.2 Best-in-Slot 2.5 GCD
+    link: https://xivgear.app/?page=sl%7C2db494ce-6804-4b11-81c4-5945b3bdb305
+  - type: xivgearset
+    name: "7.2 (Week 1: 900 Tomes) 2.5 GCD"
+    link: https://xivgear.app/?page=sl%7Cc612c6d5-3ea3-48d7-8026-adba7b2a4c22
+  - type: xivgearset
+    name: 7.2 (Week 1) 2.5 GCD
+    link: https://xivgear.app/?page=sl%7Cc0ba8709-ad23-4fd6-ac94-5374ee103e9a
   - type: etro
     name: Chaotic + Ultimate Weapon Best-in-Slot 2.5 GCD
     link: https://etro.gg/gearset/821040d4-fea5-46ef-8aa9-2a9de0ac2eeb
@@ -33,15 +42,6 @@ bis:
   - type: etro
     name: Ultimate Weapon Best-in-Slot 2.5 GCD
     link: https://etro.gg/gearset/9e444cba-9bb9-4590-ae16-a750067835eb
-  - type: etro
-    name: Savage Weapon Best-in-Slot 2.5 GCD
-    link: https://etro.gg/gearset/c7206baa-68fc-4f52-a8ae-b1a3abfed92f
-  - type: etro
-    name: Full Crafted 2.48 GCD
-    link: https://etro.gg/gearset/1c51980c-9c65-4449-8d80-77721b08e951
-  - type: etro
-    name: Full Crafted + Tome Earring 2.5 GCD
-    link: https://etro.gg/gearset/81854e01-1acf-4bd4-9eee-3e97eefcfa7d
   - type: etro
     description: Highest DPS, abuses 6.5 dungeon gear and the 645 relic weapon.
     name: TOP Best-in-Slot 2.5 GCD
