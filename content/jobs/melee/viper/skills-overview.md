@@ -3,13 +3,15 @@ title: Viper Skills Overview
 authors:
   - ToraelValdis
   - Balance-VPR-Staff
-patch: "7.1"
-lastmod: 2024-11-16T21:47:23.720Z
+patch: "7.2"
+lastmod: 2025-03-25T01:01:55.018Z
 changelog:
   - date: 2024-06-20T21:56:01.856Z
     message: Guide added to website
   - date: 2024-07-30T16:46:24.870Z
     message: updated for 7.05 job changes
+  - date: 2025-03-25T01:01:57.009Z
+    message: Updated to patch 7.2.
 ---
 Please note that all of the following actions are based on Viper at level 100, and may not reflect their lower level version effects or potencies.
 
