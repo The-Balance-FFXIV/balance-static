@@ -1,7 +1,7 @@
 ---
 title: Machinist Openers
 authors: []
-patch: "7.0"
+patch: "7.2"
 lastmod: 2024-06-28T19:37:11.460Z
 changelog:
   - date: 2021-10-25T22:04:20.477Z
