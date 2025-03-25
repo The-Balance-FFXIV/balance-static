@@ -45,3 +45,16 @@ Tanks currently use Grade 1 Gemdraught of Strength
 * Bank resources for your next burst by not spending them until your next Royal Authority is ready
   * For example, by repeatedly following Royal Authority with Atonement, Fast Blade, Riot Blade, Supplication, Holy Spirit, Sepulchre, then Royal Authority outside of Fight or Flight, you will always have strong filler GCDs available for burst, no matter where Fight or Flight comes off cooldown
 * Use Circle of Scorn and Expiacion on cooldown so they are available for your next burst
+
+## AoE
+
+### Level 94 and above
+
+* Use the Prominence combo (Total Eclipse, Prominence) in place of the Royal Authority combo at 3 or more targets.
+* Holy Circle is neutral compared to Holy Spirit at 2 targets. Use Holy Circle at 2 targets to spread damage evenly, or Holy Spirit to focus damage on one target. Always use Holy Circle on 3 or more targets.
+* Use Goring Blade on up to 3 targets. At 4 or more targets, the Prominence combo is stronger than Goring Blade.
+
+### Level 93 and below
+* Use the Prominence combo (Total Eclipse, Prominence) in place of the Royal Authority combo at 2 or more targets.
+* Use Holy Circle in place of Holy Spirit at 2 or more targets.
+* Use Goring Blade on up to 3 targets. At 4 or more targets, the Prominence combo is stronger than Goring Blade.
