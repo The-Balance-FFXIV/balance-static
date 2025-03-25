@@ -5,8 +5,8 @@ authors:
   - nikroulah
   - silaqui-amakiir
   - violet-stardust
-patch: "7.0"
-lastmod: 2024-09-25T22:19:23.129Z
+patch: "7.2"
+lastmod: 2025-03-24T21:58:32.051Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
     message: Added
@@ -22,6 +22,9 @@ changelog:
     message: Updates for 7.0
   - date: 2024-09-25T22:19:23.129Z
     message: Add section on breaking pre-pull TBN on any boss.
+  - date: 2025-03-24T21:58:44.706Z
+    message: Updates for 7.2, and some minor corrections/fixes.
+tags: []
 ---
 # Introduction to Dark Knight
 
@@ -269,6 +272,8 @@ Outside of high-end optimization, choice of skill speed has little impact on the
 
 In optimization, each encounter must be considered separately to determine what GCDs are gained or lost by different skill speeds, as well as lining up the GCD with any melee disengages. In general, the slowest speed that doesn’t lose any major GCDs within a phase will be the strongest choice, as much of Dark Knight's damage does not scale with speed.
 
+If in doubt, or you're not sure what any of this means, we recommend 2.50. It will likely be more forgiving if you're new to the job or have very high ping, as well as simming very slightly better. If you like Dark Knight a lot or want to branch out, then we recommend trying 2.46 too, which many find a very comfortable speed, and deciding for yourself what's comfiest for you.
+
 - - -
 
 # Dungeons
@@ -310,7 +315,7 @@ This section assumes that you are comfortable with the entirety of the Dark Knig
 
 ## Optimizing Raid Buffs Further
 
-Moving Mana with The Blackest Night:
+Moving MP with The Blackest Night:
 
 The standard rotation allows four Edges of Shadow to be used in each raid buff window without any further adjustments. However, since raid buffs windows happen every two minutes, it is beneficial to use The Blackest Night during odd minutes to get Dark Arts afterwards, which allows five Edges of Shadow to be used in the next even-minute buff window without overcapping MP.
 
