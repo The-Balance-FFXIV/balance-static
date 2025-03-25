@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dark Knight on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/</link><description>Recent content in Dark Knight on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 20 Feb 2025 04:05:49 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/index.xml" rel="self" type="application/rss+xml"/><item><title>Dark Knight Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/advanced-guide/</link><pubDate>Thu, 20 Feb 2025 04:05:49 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/advanced-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
-&lt;p>This guide focuses on advanced level 100 Dark Knight gameplay, and assumes that you are comfortable with the entirety of the Dark Knight kit as well as its opener and rotation. If you are still leveling, you should start with the &lt;a href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/leveling-guide">leveling guide&lt;/a>, and if you&amp;rsquo;re still learning, you should start with the the &lt;a href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide">basic guide&lt;/a>, and build familiarity with Dark Knight&amp;rsquo;s kit first.&lt;/p>
-&lt;p>Trying to apply these techniques before you are fully comfortable with the rotation and job could make your gameplay worse rather than better.&lt;/p></description></item><item><title>Dark Knight Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/best-in-slot/</link><pubDate>Fri, 06 Dec 2024 22:45:52 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/best-in-slot/</guid><description/></item><item><title>Dark Knight Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/job-changes/</link><pubDate>Wed, 13 Nov 2024 21:44:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/job-changes/</guid><description/></item><item><title>Dark Knight Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/leveling-guide/</link><pubDate>Wed, 13 Nov 2024 21:44:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/leveling-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
-&lt;p>While this guide is not intended as a complete resource for tanking in dungeons and trials, the following sections will provide a brief primer for those new to the role or who need a refresher. If you are already confident in your job as a tank, feel free to skip ahead to the last section, which covers the evolution of your rotation as you level up to max.&lt;/p>
-&lt;h1 id="gearing">Gearing&lt;/h1>
-&lt;p>Your primary focus until you reach level cap is to accumulate as much defense and vitality as possible in order to stay alive. Luckily, both of these stats scale directly with item level, so deciding which gear to use is rather straightforward; equip the highest item level you can, and don&amp;rsquo;t worry too much about substats.&lt;/p></description></item><item><title>Dark Knight Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide/</link><pubDate>Wed, 25 Sep 2024 22:19:23 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide/</guid><description>&lt;h1 id="introduction-to-dark-knight">Introduction to Dark Knight&lt;/h1>
-&lt;h2 id="the-useless-pre-endwalker-guide-by-nikroulah1605-now-updated-for-6x-and-7x">The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x and 7.x).&lt;/h2>
-&lt;hr>
-&lt;h1 id="introduction">Introduction&lt;/h1>
-&lt;p>Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawntrail. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).&lt;/p></description></item><item><title>Dark Knight Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</link><pubDate>Wed, 31 Jul 2024 19:09:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</guid><description>&lt;h1 id="dark-knight-skills-overview">Dark Knight Skills Overview&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dark Knight on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/</link><description>Recent content in Dark Knight on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 21:44:35 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/index.xml" rel="self" type="application/rss+xml"/><item><title>Dark Knight Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</link><pubDate>Mon, 24 Mar 2025 21:44:35 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</guid><description>&lt;h1 id="dark-knight-skills-overview">Dark Knight Skills Overview&lt;/h1>
 &lt;p>Abilities will be presented in a tabular format for easy reading.&lt;/p>
 &lt;h2 id="actions-used-in-single-target-rotation">Actions used in Single Target Rotation&lt;/h2>
 &lt;table>
@@ -26,7 +17,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[367 403 307 219 401 325]" src="https://xivapi.com/i/003000/003051_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[201 193 56 14 465 108]" src="https://xivapi.com/i/003000/003051_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hard Slash&lt;/td>
@@ -39,7 +30,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[469 310 400 122 154 401]" src="https://xivapi.com/i/003000/003054_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[214 266 277 287 179 482]" src="https://xivapi.com/i/003000/003054_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Syphon Strike&lt;/td>
@@ -52,7 +43,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[210 233 216 454 452 57]" src="https://xivapi.com/i/003000/003055_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[130 144 248 134 405 156]" src="https://xivapi.com/i/003000/003055_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Souleater&lt;/td>
@@ -65,7 +56,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[131 297 22 108 461 221]" src="https://xivapi.com/i/003000/003062_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[248 276 122 57 117 318]" src="https://xivapi.com/i/003000/003062_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Unmend&lt;/td>
@@ -78,7 +69,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[435 236 393 434 347 276]" src="https://xivapi.com/i/003000/003080_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[31 392 176 220 208 313]" src="https://xivapi.com/i/003000/003080_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodspiller&lt;/td>
@@ -91,7 +82,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[132 229 452 255 82 488]" src="https://xivapi.com/i/003000/003086_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[479 492 379 495 39 364]" src="https://xivapi.com/i/003000/003086_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Edge of Shadow&lt;/td>
@@ -104,7 +95,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[150 403 227 320 283 287]" src="https://xivapi.com/i/003000/003078_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[147 390 281 140 457 499]" src="https://xivapi.com/i/003000/003078_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Delirium&lt;/td>
@@ -117,7 +108,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[113 115 21 153 223 364]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003095_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[119 80 34 109 200 442]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003095_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Scarlet Delirium&lt;/td>
@@ -130,7 +121,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[112 422 198 305 349 78]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003096_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[130 392 168 328 223 3]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003096_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Comeuppance&lt;/td>
@@ -143,7 +134,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[204 422 317 362 153 163]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[210 263 482 255 132 114]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Torcleaver&lt;/td>
@@ -156,7 +147,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[458 29 317 23 161 106]" src="https://xivapi.com/i/003000/003058_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[43 419 106 14 493 233]" src="https://xivapi.com/i/003000/003058_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Carve and Spit&lt;/td>
@@ -169,11 +160,11 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[338 400 296 265 370 75]" src="https://xivapi.com/i/003000/003088_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[16 72 130 79 167 449]" src="https://xivapi.com/i/003000/003088_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Living Shadow&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">LS&lt;/td>
  &lt;td style="text-align: left">80&lt;/td>
  &lt;td style="text-align: left">Ability&lt;/td>
  &lt;td style="text-align: left">120 seconds&lt;/td>
@@ -182,7 +173,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[472 98 143 109 174 412]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003099_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[3 197 138 492 288 405]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003099_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Disesteem&lt;/td>
@@ -190,16 +181,16 @@
  &lt;td style="text-align: left">62&lt;/td>
  &lt;td style="text-align: left">Weaponskill&lt;/td>
  &lt;td style="text-align: left">2.5 seconds&lt;/td>
- &lt;td style="text-align: left">Deals physical damage ot all enemies in a straight line in front of you with a potency of 1000 for the first enemy and 50% less for all remaining enemies. Can only be executed while Scorn is active, and removes Scorn upon execution.&lt;/td>
+ &lt;td style="text-align: left">Deals physical damage ot all enemies in a straight line in front of you with a potency of 1000 for the first enemy and 25% less for all remaining enemies. Can only be executed while Scorn is active, and removes Scorn upon execution.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[185 147 346 210 12 5]" src="https://xivapi.com/i/003000/003066_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[383 325 341 20 374 426]" src="https://xivapi.com/i/003000/003066_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Salted Earth&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">SE, Salted&lt;/td>
  &lt;td style="text-align: left">52&lt;/td>
  &lt;td style="text-align: left">Ability&lt;/td>
  &lt;td style="text-align: left">90 seconds&lt;/td>
@@ -208,7 +199,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[340 132 303 361 413 18]" src="https://xivapi.com/i/003000/003090_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[239 105 37 172 443 266]" src="https://xivapi.com/i/003000/003090_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Salt and Darkness&lt;/td>
@@ -216,12 +207,12 @@
  &lt;td style="text-align: left">86&lt;/td>
  &lt;td style="text-align: left">Ability&lt;/td>
  &lt;td style="text-align: left">20 seconds&lt;/td>
- &lt;td style="text-align: left">Deals unaspected damage with a potency of 500 to the first target standing in Salted Earth, and 50% less damage to all remaining enemies.&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage with a potency of 500 to the first target standing in Salted Earth, and 25% less damage to all remaining enemies.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[219 163 413 300 334 394]" src="https://xivapi.com/i/003000/003091_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[222 208 156 233 313 260]" src="https://xivapi.com/i/003000/003091_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadowbringer&lt;/td>
@@ -229,7 +220,7 @@
  &lt;td style="text-align: left">90&lt;/td>
  &lt;td style="text-align: left">Ability&lt;/td>
  &lt;td style="text-align: left">60 seconds&lt;/td>
- &lt;td style="text-align: left">Deals unaspected damage to the initial target for 600 potency, and 50% less to all remaining enemies in a straight line before the user. Can hold up to two charges.&lt;/td>
+ &lt;td style="text-align: left">Deals unaspected damage to the initial target for 600 potency, and 25% less to all remaining enemies in a straight line before the user. Can hold up to two charges.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -250,7 +241,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[390 229 396 451 321 5]" src="https://xivapi.com/i/003000/003063_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[115 439 399 332 308 422]" src="https://xivapi.com/i/003000/003063_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Unleash&lt;/td>
@@ -263,7 +254,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[396 308 447 411 136 26]" src="https://xivapi.com/i/003000/003084_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[227 14 53 430 384 27]" src="https://xivapi.com/i/003000/003084_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Stalwart Soul&lt;/td>
@@ -276,7 +267,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[18 216 169 255 336 98]" src="https://xivapi.com/i/003000/003079_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[297 210 248 351 234 74]" src="https://xivapi.com/i/003000/003079_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Quietus&lt;/td>
@@ -289,7 +280,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[184 297 279 223 289 11]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[188 91 289 228 454 262]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Impalement&lt;/td>
@@ -297,16 +288,16 @@
  &lt;td style="text-align: left">62&lt;/td>
  &lt;td style="text-align: left">Weaponskill&lt;/td>
  &lt;td style="text-align: left">2.5 seconds&lt;/td>
- &lt;td style="text-align: left">Delivers an attack with a potency of 320 to all nearby enemies. Restores 500 MP. Can only be used while under the effect of Delirium. Quietus will change into Impalement while under the effect of Delirium.&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack with a potency of 300 to all nearby enemies. Restores 500 MP. Can only be used while under the effect of Delirium. Quietus will change into Impalement while under the effect of Delirium.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[245 83 395 86 102 488]" src="https://xivapi.com/i/003000/003085_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[416 139 51 54 5 443]" src="https://xivapi.com/i/003000/003085_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flood of Shadow&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Flood&lt;/td>
  &lt;td style="text-align: left">74&lt;/td>
  &lt;td style="text-align: left">Ability&lt;/td>
  &lt;td style="text-align: left">1 second&lt;/td>
@@ -315,7 +306,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[301 2 138 461 312 286]" src="https://xivapi.com/i/003000/003064_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[78 103 142 389 56 411]" src="https://xivapi.com/i/003000/003064_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Abyssal Drain&lt;/td>
@@ -344,7 +335,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[4 265 109 212 336 151]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[430 286 266 396 217 378]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Rampart&lt;/td>
@@ -357,7 +348,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[86 259 100 230 106 372]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[315 69 371 73 364 10]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reprisal&lt;/td>
@@ -370,7 +361,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[285 365 424 482 284 487]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[294 238 56 277 265 224]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -383,11 +374,11 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[7 436 123 399 389 479]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003094_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[246 379 296 312 193 127]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003094_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadowed Vigil&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">SV&lt;/td>
  &lt;td style="text-align: left">38&lt;/td>
  &lt;td style="text-align: left">Ability&lt;/td>
  &lt;td style="text-align: left">120 seconds&lt;/td>
@@ -396,7 +387,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[461 283 213 438 212 44]" src="https://xivapi.com/i/003000/003076_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[464 148 12 83 328 175]" src="https://xivapi.com/i/003000/003076_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dark Mind&lt;/td>
@@ -409,7 +400,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[436 368 212 60 357 337]" src="https://xivapi.com/i/003000/003077_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[287 77 239 24 162 498]" src="https://xivapi.com/i/003000/003077_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Living Dead&lt;/td>
@@ -422,7 +413,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[489 308 112 389 10 56]" src="https://xivapi.com/i/003000/003087_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[151 35 415 218 171 103]" src="https://xivapi.com/i/003000/003087_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dark Missionary&lt;/td>
@@ -435,7 +426,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[234 466 249 256 73 135]" src="https://xivapi.com/i/003000/003081_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[87 294 244 180 496 62]" src="https://xivapi.com/i/003000/003081_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">The Blackest Night&lt;/td>
@@ -448,7 +439,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[88 470 432 124 273 126]" src="https://xivapi.com/i/003000/003089_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[298 242 474 185 441 265]" src="https://xivapi.com/i/003000/003089_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Oblation&lt;/td>
@@ -477,7 +468,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[309 181 106 229 419 53]" src="https://xivapi.com/i/003000/003070_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[28 76 310 143 86 8]" src="https://xivapi.com/i/003000/003070_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Grit&lt;/td>
@@ -490,7 +481,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[449 421 309 128 192 259]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[304 161 118 215 45 335]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Low Blow&lt;/td>
@@ -503,7 +494,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[92 397 242 423 352 413]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[236 456 283 131 182 475]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Provoke&lt;/td>
@@ -516,7 +507,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[279 478 22 66 282 299]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[80 127 10 290 306 477]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Interject&lt;/td>
@@ -529,7 +520,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[222 96 338 216 9 41]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[121 301 379 478 50 234]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shirk&lt;/td>
@@ -542,7 +533,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[259 463 285 387 55 60]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003093_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[437 486 182 324 348 124]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003093_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadowstride&lt;/td>
@@ -553,7 +544,16 @@
  &lt;td style="text-align: left">Dark Knight&amp;rsquo;s dash, also generates enmity on the target. Can hold up to two charges.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Dark Knight Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</link><pubDate>Thu, 25 Jan 2024 08:36:34 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</guid><description>&lt;h1 id="dark-knight-openers-and-rotation">Dark Knight Openers and Rotation&lt;/h1>
+&lt;/table></description></item><item><title>Dark Knight Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/advanced-guide/</link><pubDate>Thu, 20 Feb 2025 04:05:49 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/advanced-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>This guide focuses on advanced level 100 Dark Knight gameplay, and assumes that you are comfortable with the entirety of the Dark Knight kit as well as its opener and rotation. If you are still leveling, you should start with the &lt;a href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/leveling-guide">leveling guide&lt;/a>, and if you&amp;rsquo;re still learning, you should start with the the &lt;a href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide">basic guide&lt;/a>, and build familiarity with Dark Knight&amp;rsquo;s kit first.&lt;/p>
+&lt;p>Trying to apply these techniques before you are fully comfortable with the rotation and job could make your gameplay worse rather than better.&lt;/p></description></item><item><title>Dark Knight Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/best-in-slot/</link><pubDate>Fri, 06 Dec 2024 22:45:52 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/best-in-slot/</guid><description/></item><item><title>Dark Knight Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/job-changes/</link><pubDate>Wed, 13 Nov 2024 21:44:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/job-changes/</guid><description/></item><item><title>Dark Knight Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/leveling-guide/</link><pubDate>Wed, 13 Nov 2024 21:44:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/leveling-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>While this guide is not intended as a complete resource for tanking in dungeons and trials, the following sections will provide a brief primer for those new to the role or who need a refresher. If you are already confident in your job as a tank, feel free to skip ahead to the last section, which covers the evolution of your rotation as you level up to max.&lt;/p>
+&lt;h1 id="gearing">Gearing&lt;/h1>
+&lt;p>Your primary focus until you reach level cap is to accumulate as much defense and vitality as possible in order to stay alive. Luckily, both of these stats scale directly with item level, so deciding which gear to use is rather straightforward; equip the highest item level you can, and don&amp;rsquo;t worry too much about substats.&lt;/p></description></item><item><title>Dark Knight Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide/</link><pubDate>Wed, 25 Sep 2024 22:19:23 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide/</guid><description>&lt;h1 id="introduction-to-dark-knight">Introduction to Dark Knight&lt;/h1>
+&lt;h2 id="the-useless-pre-endwalker-guide-by-nikroulah1605-now-updated-for-6x-and-7x">The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x and 7.x).&lt;/h2>
+&lt;hr>
+&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawntrail. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).&lt;/p></description></item><item><title>Dark Knight Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</link><pubDate>Thu, 25 Jan 2024 08:36:34 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</guid><description>&lt;h1 id="dark-knight-openers-and-rotation">Dark Knight Openers and Rotation&lt;/h1>
 &lt;h1 id="dark-knight-openers">Dark Knight Openers&lt;/h1>
 &lt;p>DRK is a flexible class, and so specific encounters may benefit from alternate openers.
 Encounter-specific opener information may be found in the drk_encounter channel of the Balance discord, or on fight-specific guides, where applicable.
