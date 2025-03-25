@@ -4,7 +4,7 @@ authors:
   - Balance-PLD-Staff
   - nikroulah
 patch: "7.2"
-lastmod: 2024-07-10T05:01:03.400Z
+lastmod: 2025-03-25T20:00:02.644Z
 changelog:
   - date: 2021-10-27T17:21:23.427Z
     message: Created
@@ -18,6 +18,8 @@ changelog:
     message: Updated graphic for 6.4 changes
   - date: 2024-07-10T05:01:05.233Z
     message: Updated for 7.0
+  - date: 2025-03-25T19:59:52.413Z
+    message: Added AoE section, with 7.2 information.
 ---
 # Paladin Openers
 
