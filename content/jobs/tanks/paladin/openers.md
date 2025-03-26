@@ -23,7 +23,7 @@ changelog:
 ---
 # Paladin Openers
 
-Tanks currently use Grade 1 Gemdraught of Strength 
+Tanks currently use Grade 3 Gemdraught of Strength 
 (Strength also affects tank magic potency, including healing).
 
 ## Opener
