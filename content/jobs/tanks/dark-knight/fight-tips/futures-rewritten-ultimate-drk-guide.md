@@ -5,7 +5,7 @@ authors:
   - Balance-DRK-Staff
   - apileofcats
   - violet-stardust
-patch: "7.11"
+patch: "7.2"
 lastmod: 2024-12-06T15:51:16.691Z
 changelog:
   - date: 2024-12-30T20:25:23.364Z
