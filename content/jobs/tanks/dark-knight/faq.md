@@ -2,7 +2,7 @@
 title: Dark Knight FAQ
 layout: qna
 patch: "7.2"
-lastmod: 2025-03-24T21:47:10.677Z
+lastmod: 2025-03-26T15:39:43.451Z
 changelog:
   - date: 2021-10-27T17:50:54.106Z
     message: Added
@@ -61,10 +61,9 @@ qna:
 
       If in doubt, or if none of that made sense, we recommend 2.50. It will likely be more forgiving if you're new to the job or have very high ping, as well as simming very slightly better. If you like Dark Knight a lot, then we recommend trying both, and deciding for yourself what's comfiest for you.
   - question: What food should I use?
-    answer: >-
-      (Patch 7.1): Either Roast Chicken (for 2.50) or Moqueca (for 2.46).
-
-      You can compare the two in a gear calculator to see which is better for your current gearset.
+    answer: "(Patch 7.2): Mate Cookie (high quality) is the best food for all of our
+      recommended gearsets, and will be very likely best for any other set of
+      gear, too. "
   - question: How much mitigation will I gain/damage will I lose by focusing on Tenacity?
     answer: >-
       Every 24-25 points of Tenacity give 0.1% additional damage, and every
