@@ -4,13 +4,13 @@
 &lt;h2 id="opener">Opener&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[475 443 308 117 165 311]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
+ &lt;img id="[196 456 493 399 260 176]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
 &lt;/div>
 &lt;/p>
 &lt;h2 id="burst">Burst&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[106 234 382 309 162 303]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
+ &lt;img id="[265 264 194 340 36 232]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
 &lt;/div>
 &lt;/p>
 &lt;ul>
@@ -62,7 +62,7 @@
 &lt;p>&lt;strong>Iron Will&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[485 453 87 151 23 49]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[280 428 285 499 219 410]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>Toggle | 3s cooldown after toggling on. | 1s cooldown after toggling off.&lt;/p>
@@ -71,7 +71,7 @@
 &lt;p>&lt;strong>Fight or Flight&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[154 135 139 493 294 10]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[118 478 19 99 28 378]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>60s cooldown.&lt;/p>
@@ -79,7 +79,7 @@
 &lt;p>&lt;strong>Imperator&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[352 295 5 170 304 130]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[41 35 108 285 328 419]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p></description></item><item><title>Paladin Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/</link><pubDate>Wed, 10 Jul 2024 02:16:49 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/</guid><description>&lt;h1 id="paladin-leveling">Paladin Leveling&lt;/h1>
 &lt;h2 id="dungeon-tips">Dungeon Tips&lt;/h2>
