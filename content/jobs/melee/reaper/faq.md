@@ -14,8 +14,8 @@ changelog:
     message: "Updated to be consistent with our Discord RPR Resources page. "
 qna:
   - question: Which Potion/Food should RPR use?
-    answer: The highest available Strength potion. Currently, that is **Grade 2
-      Gemdraught of Strength**. Current food is **Moqueca.** Always use High
+    answer: The highest available Strength potion. Currently, that is **Grade 3
+      Gemdraught of Strength**. Current food is **Mate Cookie.** Always use High
       Quality!
   - question: Why is my Plentiful Harvest clipping in the AC 3rd GCD Opener?
     answer: Plentiful Harvest cannot be used for 6.7s after using Arcane Circle. You
