@@ -1,8 +1,8 @@
 ---
 title: Red Mage Best in Slot (BiS)
 layout: bis
-patch: "7.05"
-lastmod: 2024-08-02T04:19:10.957Z
+patch: "7.2"
+lastmod: 2025-03-25T00:00:00.000Z
 changelog:
   - date: 2021-10-26T01:30:27.164Z
     message: Created page
@@ -18,6 +18,8 @@ changelog:
     message: Added 6.55 relic BiS, added disclaimers for TOP/DSR
   - date: 2024-08-02T04:19:12.573Z
     message: Updated with 7.05 BiS sets.
+  - date: 2025-03-25T00:49:52.401Z
+    message: Updated with 7.2 prog and BiS sets including FRU and legacy Ultimates
 bis:
   - type: xivgearset
     name: 7.2 RDM BiS - 2.5 GCD
