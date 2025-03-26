@@ -6,6 +6,8 @@ lastmod: 2025-03-26T20:02:05.079Z
 changelog:
   - date: 2024-12-18T18:41:01.674Z
     message: 7.15 Gear Update
+  - date: 2025-03-26T20:02:14.335Z
+    message: 7.2 Gear Update
 bis:
   - type: etro
     link: https://etro.gg/gearset/f9e862f8-6854-45be-a52e-ec142c5d27a9
