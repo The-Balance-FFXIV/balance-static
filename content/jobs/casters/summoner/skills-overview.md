@@ -3,7 +3,7 @@ title: Summoner Skills Overview
 authors:
   - juliacare
   - Hauffen
-patch: "7.05"
+patch: "7.2"
 lastmod: 2024-08-02T00:08:17.574Z
 changelog:
   - date: 2021-11-29T23:13:41.431Z
@@ -14,6 +14,8 @@ changelog:
     message: Updated for 7.0
   - date: 2024-08-02T00:08:18.839Z
     message: Updated for 7.05
+  - date: 2025-03-25T06:57:59.911Z
+    message: Updated for 7.2
 ---
 # Actions
 
@@ -42,7 +44,7 @@ changelog:
 | ![](https://img.finalfantasyxiv.com/lds/d/e49b3a55b75a637cb0e6e794d588b2ba4886c742.png) | Summon Ifrit II     | 90    | Spell   | Instant | 2.5s   | Summons Ruby Ifrit and orders it to execute Inferno.<br>Inferno Effect: Deals fire damage to target and all enemies within 5 yalms with a potency of 800 for the first enemy, and 60% less for all remaining enemies<br>Additional Effect: Grants 2 stacks of Fire Attunement<br>Duration: 30s<br>Fire Attunement Effect: Gemshine and Precious Brilliance become fire-aspected<br>Additional Effect: Grants Ifrit's Favor<br>Effect of Ifrit's Favor ends upon execution of certain summoner actions.<br>Can only be executed while under the effect of Ruby Arcanum and Carbuncle is summoned.                    |
 | ![](https://img.finalfantasyxiv.com/lds/d/d5e3edcb915673621b1ccb51774abf494eba6b5e.png) | Summon Titan II     | 90    | Spell   | Instant | 2.5s   | Summons Topaz Titan and orders it to execute Earthen Fury.<br>Earthen Fury Effect: Deals earth damage to target and all enemies within 5 yalms with a potency of 800 for the first enemy, and 60% less for all remaining enemies<br>Additional Effect: Grants 4 stacks of Earth Attunement<br>Duration: 30s<br>Earth Attunement Effect: Gemshine and Precious Brilliance become earth-aspected<br>Can only be executed while under the effect of Topaz Arcanum and Carbuncle is summoned.                                                                                                                           |
 | ![](https://img.finalfantasyxiv.com/lds/d/f25f4c81570c889872295e4ba99496ee6bf3fc89.png) | Summon Garuda II    | 90    | Spell   | Instant | 2.5s   | Summons Emerald Garuda and orders it to execute Aerial Blast.<br>Aerial Blast Effect: Deals wind damage to target and all enemies within 5 yalms with a potency of 800 for the first enemy, and 60% less for all remaining enemies<br>Additional Effect: Grants 4 stacks of Wind Attunement<br>Duration: 30s<br>Wind Attunement Effect: Gemshine and Precious Brilliance become wind-aspected<br>Additional Effect: Grants Garuda's Favor<br>Effect of Garuda's Favor ends upon execution of certain summoner actions.<br>Can only be executed while under the effect of Emerald Arcanum and Carbuncle is summoned. |
-| ![](https://lds-img.finalfantasyxiv.com/d/f224b169e6f0f4b35b361e5c6666293e09a1f0ac.png) | Necrotize | 92 | Spell | Instant | 1s | Deals unaspected damage with a potency of 440.<br>Aetherflow Gauge Cost: 1 |
+| ![](https://lds-img.finalfantasyxiv.com/d/f224b169e6f0f4b35b361e5c6666293e09a1f0ac.png) | Necrotize | 92 | Spell | Instant | 1s | Deals unaspected damage with a potency of 460.<br>Aetherflow Gauge Cost: 1 |
 | ![](https://lds-img.finalfantasyxiv.com/d/b1edfc3a4d1b47e1df840e26e0969529070fed58.png) | Searing Flash | 96  | Ability | Instant | 1s  | Deals unaspected damage with a potency of 600 to target and all enemies nearby it.<br>Can only be executed while under the effect of Ruby's Glimmer. |
 | ![](https://lds-img.finalfantasyxiv.com/d/38e51b1e903bd0b7bc685ec95c2ac105779bbc8c.png) | Lux Solaris | 100 | Ability | Instant | 60s | Restores own HP and the HP of all nearby party members.<br>Cure Potency: 500<br>Can only be executed while under the effect of Refulgent Lux. |
 
@@ -84,7 +86,7 @@ changelog:
 | ![](https://lds-img.finalfantasyxiv.com/d/ea98821592c274277d2472f4eb33e014c66a751f.png) | Sunflare | 100 | Ability | Instant | 20s | Deals unaspected damage to target and all enemies nearby it with a potency of 800 for the first enemy, and 60% less for all remaining enemies.<br>Can only be executed while in Lightwyrm Trance.<br><br>※This action cannot be assigned to a hotbar.<br>※Astral Flow changes to Sunflare when requirements for execution are met. |
 | ![](https://lds-img.finalfantasyxiv.com/d/4deaaa9815c4b1bd5fc52e76019d9192342568b9.png) | Enkindle Solar Bahamut | 100 | Ability | Instant | 20s | Orders Solar Bahamut to execute Exodus.<br>Exodus Effect: Deals unaspected damage to target and all enemies nearby it with a potency of 1,400 for the first enemy, and 60% less for all remaining enemies<br><br>※This action cannot be assigned to a hotbar.<br>※Enkindle Bahamut changes to Enkindle Solar Bahamut when requirements for execution are met. |
 | ![](https://lds-img.finalfantasyxiv.com/d/7ea77f0af91e55be0b619e4dc72e20c5ba56f516.png) | Luxwave | 100 | Spell | Instant | 1.5s | Deals unaspected damage with a potency of 160.<br>Will only execute while Solar Bahamut is summoned.<br><br>※This action cannot be assigned to a hotbar. |
-| ![](https://lds-img.finalfantasyxiv.com/d/97f91c1009d19698ee6e2e3272b974a4c0dd62ff.png) | Exodus | 100 | Ability | Instant | - | Deals unaspected damage to target and all enemies nearby it with a potency of 1,400 for the first enemy, and 60% less for all remaining enemies.<br>Can only be executed while Solar Bahamut is summoned.<br><br>※This action cannot be assigned to a hotbar. |
+| ![](https://lds-img.finalfantasyxiv.com/d/97f91c1009d19698ee6e2e3272b974a4c0dd62ff.png) | Exodus | 100 | Ability | Instant | - | Deals unaspected damage to target and all enemies nearby it with a potency of 1,500 for the first enemy, and 60% less for all remaining enemies.<br>Can only be executed while Solar Bahamut is summoned.<br><br>※This action cannot be assigned to a hotbar. |
 
 # Magic Ranged DPS Role Actions
 
