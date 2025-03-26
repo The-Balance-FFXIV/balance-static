@@ -1,8 +1,8 @@
 ---
 title: Reaper Best-in-Slot
 layout: bis
-patch: "7.1"
-lastmod: 2024-11-16T21:54:42.523Z
+patch: "7.2"
+lastmod: 2025-03-26T18:32:13.945Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
     message: Created page
@@ -28,20 +28,25 @@ changelog:
     message: Updated with 7.05 gear.
   - date: 2024-09-19T19:09:09.663Z
     message: Added 7.05 sets for DSR and TOP
+  - date: 2025-03-26T18:32:18.900Z
+    message: Updated sets for 7.2
 bis:
   - type: etro
-    name: 2.49 Savage BiS
-    link: 885a40b4-6ab2-4bf6-b479-b9f835e094bc
+    name: 7.2 2.49 Savage BiS
+    link: 780e0c03-e5a1-48ae-9acd-a314b82f63dc
     description: >-
       This is the recommended BiS set for most players. It uses a 2.49 GCD
       instead of 2.50 to minimize Arcane Circle misalignment and drift, equating
       to more damage than 2.50.
 
 
-      Use this set unless you play capped on 60 FPS.
+      Use this set unless you play capped on a **stable** 60 FPS.
+
+
+      Unfortunately due to needing slightly different stats, this set is not meld compatible with DRG, and will incur a sizeable loss on DRG without several remelds. Use the DRG Parity set if you intend to also play DRG.
   - type: etro
-    name: 60 FPS Capped 2.48 BiS
-    link: 16ba48d5-6ee4-4d57-8e41-a17ed363c4f0
+    name: 7.2 60 FPS Capped 2.48 BiS
+    link: c3d1be67-8202-4e18-97bb-7a5993215c79
     description: >-
       Because of how framerate and abilities interact in FFXIV, 2.49 GCD while
       capped at 60 FPS is actually closer to 2.50 GCD. This causes Arcane Circle
@@ -49,37 +54,43 @@ bis:
       60 FPS, which plays at effectively 2.49 GCD. 
 
 
-      **Do not use this set unless you are capped at 60 FPS!** 
+      **Do not use this set unless you are capped at *stable* 60 FPS!** 
 
 
       Players who are on console should favor this set as console is capped at 60 FPS.
   - type: etro
-    link: e9f0ea99-37fa-49bc-9f73-709dfbe41ca8
-    name: Savage Prog Pentamelded+Tome Neck
+    link: 45947fb9-dba8-4a47-8dec-74e760c6bf89
+    name: 7.2 2.49 BiS (DRG Parity)
+    description: This set takes a small loss of ~10 simulated DPS in order to use
+      the same melds as DRG, except for one skill speed meld. Swap this Skill
+      Speed meld for direct hit to play DRG.
+  - type: xivgearset
+    name: Savage Prog Recommended Set 450 Tomes Option
+    link: https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=2
     description: >-
-      A pentamelded option for those who will be capping their tomes before
-      entering savage.
+      The best option for week 1 savage prog if you are only going to have one
+      week of tomes before entering. There is no need to use pentamelds if you
+      are not going for a week 1 kill. 
 
 
       Replace pieces with higher item level pieces as you get them.
-  - type: etro
-    name: Savage Prog Pentamelded Set
-    link: 957149c7-4170-4516-bea9-6f67f8cac4dd
+  - type: xivgearset
+    name: Savage Prog Recommended Set 900 Tomes Option
+    link: https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=0
+      https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=1
+      https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=2
+      https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=3
+      https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=4
+      https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=5
     description: >-
-      The best option for week 1 savage prog. There is no need to use pentamelds
-      if you are not going for a week 1 kill. 
+      The best option for week 1 savage prog if you are going to have enough
+      tomes for two accessories before entering. There is no need to use
+      pentamelds if you are not going for a week 1 kill. 
 
 
       Replace pieces with higher item level pieces as you get them.
   - type: etro
-    name: Savage Prog Economy Set
-    link: d02fd6e7-b9f3-4f07-a3e2-b9443663ee2f
-    description: |-
-      A gear set for progging savage without breaking the bank.
-
-      Replace pieces with higher item level pieces as you get them.
-  - type: etro
-    name: 7.05 Dragonsong's Reprise (Ultimate) BiS (Mixed 730 + 600/605 Gear)
+    name: 7.05+ Dragonsong's Reprise (Ultimate) BiS (Mixed 730 + 600/605 Gear)
     link: 2f655c79-6db1-4e5b-90f7-41e130bed30a
     description: This set is currently the best set available and is slightly
       stronger than the previous BiS set using only 605/600 gear. The 645 and
