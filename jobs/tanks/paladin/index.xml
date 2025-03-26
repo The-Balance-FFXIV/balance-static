@@ -4,13 +4,13 @@
 &lt;h2 id="opener">Opener&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[472 239 424 59 85 330]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
+ &lt;img id="[322 266 125 490 294 306]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
 &lt;/div>
 &lt;/p>
 &lt;h2 id="burst">Burst&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[462 470 464 121 203 52]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
+ &lt;img id="[210 106 196 369 420 279]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
 &lt;/div>
 &lt;/p>
 &lt;ul>
@@ -49,11 +49,11 @@
 &lt;li>Use the Prominence combo (Total Eclipse, Prominence) in place of the Royal Authority combo at 2 or more targets.&lt;/li>
 &lt;li>Use Holy Circle in place of Holy Spirit at 2 or more targets.&lt;/li>
 &lt;li>Use Goring Blade on up to 3 targets. At 4 or more targets, the Prominence combo is stronger than Goring Blade.&lt;/li>
-&lt;/ul></description></item><item><title>Paladin Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/</link><pubDate>Tue, 25 Mar 2025 19:37:52 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/</guid><description>&lt;h2 id="buffs">Buffs&lt;/h2>
+&lt;/ul></description></item><item><title>Paladin Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</link><pubDate>Tue, 25 Mar 2025 19:50:47 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</guid><description/></item><item><title>Paladin Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/</link><pubDate>Tue, 25 Mar 2025 19:37:52 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/</guid><description>&lt;h2 id="buffs">Buffs&lt;/h2>
 &lt;p>&lt;strong>Iron Will&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[211 279 477 340 326 373]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[19 463 453 240 219 333]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>Toggle | 3s cooldown after toggling on. | 1s cooldown after toggling off.&lt;/p>
@@ -62,7 +62,7 @@
 &lt;p>&lt;strong>Fight or Flight&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[316 210 236 130 87 92]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[476 13 497 43 344 53]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>60s cooldown.&lt;/p>
@@ -70,10 +70,10 @@
 &lt;p>&lt;strong>Imperator&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[90 492 240 292 63 134]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[360 252 76 147 52 169]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p></description></item><item><title>Paladin Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</link><pubDate>Sun, 14 Jul 2024 01:05:24 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</guid><description>&lt;p>Post-6.3 rework, there is very little to optimize outside of rolling your GCD, keeping oGCDs on cooldown, and not dropping resources (Divine Might, Sword Oath stacks).&lt;/p>
-&lt;p>Encounter-specific optimizations can be discussed in the PLD Encounter forum in the Balance Discord.&lt;/p></description></item><item><title>Paladin Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</link><pubDate>Wed, 10 Jul 2024 05:19:01 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</guid><description/></item><item><title>Paladin Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</link><pubDate>Wed, 10 Jul 2024 05:09:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</guid><description/></item><item><title>Paladin FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 10 Jul 2024 05:01:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>&lt;blockquote>
+&lt;p>Encounter-specific optimizations can be discussed in the PLD Encounter forum in the Balance Discord.&lt;/p></description></item><item><title>Paladin Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</link><pubDate>Wed, 10 Jul 2024 05:19:01 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</guid><description/></item><item><title>Paladin FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 10 Jul 2024 05:01:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>&lt;blockquote>
 &lt;p>&lt;em>Why is Circle of Scorn used immediately in the opener?&lt;/em>&lt;/p>
 &lt;/blockquote>
 &lt;p>Circle of Scorn is used before Fight or Flight in most openers and kept on cooldown in most phases for two reasons:&lt;/p>
