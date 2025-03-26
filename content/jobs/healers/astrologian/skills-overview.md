@@ -35,9 +35,9 @@ changelog:
 
 **Gravity II**
 
-* AoE damage in a 5y radius around your target  (130 potency), 1.5s cast time. 
+* AoE damage in a 5y radius around your target  (140 potency), 1.5s cast time. 
 * In dungeons, apply Combust while running and spam gravity when the tank stops. 
-* Gravity II is a gain on three targets over Fall Malefic. 
+* Gravity II is a gain on two targets over Fall Malefic. 
 * Can weave one oGCD after this. 
 
 ![](/img/jobs/ast/003554_hr1.png)
@@ -188,7 +188,7 @@ changelog:
 Oracle
 
 * Can be used under the effect of divining, granted when activating divination
-* AoE Damage in a 5y Radius around your target (860p), oGCD
+* AoE Damage, dealing 860p to your primary target and 430p to targets in a 5y radius around your primary target. oGCD
 * Divining duration 30s
 * Always use this under divination buff
 
