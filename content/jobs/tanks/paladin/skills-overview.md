@@ -2,8 +2,8 @@
 title: Paladin Skills Overview
 authors:
   - nikroulah
-patch: "7.05"
-lastmod: 2024-07-10T02:27:20.353Z
+patch: "7.2"
+lastmod: 2025-03-25T19:37:52.486Z
 changelog:
   - date: 2021-10-27T17:21:39.738Z
     message: Added
@@ -23,6 +23,8 @@ changelog:
     message: Updated for 7.0
   - date: 2024-09-08T15:44:15.022Z
     message: Updated for 7.05 potency changes
+  - date: 2025-03-25T19:50:59.922Z
+    message: Updated for 7.2 potency changes to AoE combo
 ---
 ## Buffs
 
@@ -273,7 +275,7 @@ Applies a 20% auto-attack and cast time slow for 15s to enemies that attack you 
 | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002511_hr1.png) | ![](https://xivapi.com/i/002000/002516_hr1.png) |
 
-100 > 170 potency (physical damage).
+120 > 220 potency (physical damage).
 
 Grants Divine Might
 
@@ -288,9 +290,9 @@ Replaces single target combos at 3+ enemies.
 
 100 potency (magical) | 1.5s cast time
 
-200 potency and instant under Divine Might (also consumes Divine Might).
+250 potency and instant under Divine Might (also consumes Divine Might).
 
-300 potency and instant under Requiescat (also consumes a stack of Requiescat).
+350 potency and instant under Requiescat (also consumes a stack of Requiescat).
 
 Heals self for 400 potency.
 
