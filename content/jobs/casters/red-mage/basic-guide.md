@@ -3,8 +3,8 @@ title: Red Mage Basic Guide
 card_header_image: /img/jobs/rdm/lanaresized.png
 authors:
   - Balance-RDM-Staff
-patch: "7.05"
-lastmod: 2024-07-18T03:34:42.588Z
+patch: "7.2"
+lastmod: 2025-03-24T00:00:00.000Z
 changelog:
   - date: 2021-10-26T01:24:41.469Z
     message: Created page
@@ -14,10 +14,12 @@ changelog:
     message: No changes, updated patch number
   - date: 2024-07-18T22:31:08.446Z
     message: Updated for Dawntrail with preliminary version
+  - date: 2025-03-24T20:09:08.609Z
+    message: Updated for 7.2
 ---
-# Red Mage Level 100 Guide for 7.x (Preliminary)
+# Red Mage Level 100 Guide for 7.x
 
-Currently, this guide is in a **preliminary state**, which aims to concisely cover a basic overview of the Red Mage changes brought with Dawntrail along with an introduction to new rotation and opener concepts. A more detailed version of the guide will be updated closer to the release of Savage raids (7.05). If you have questions after reading the guide, feel free to ask in the **\#rdm_questions** channel on [The Balance server.](https://discord.gg/thebalanceffxiv)
+This guide aims to concisely cover a basic overview of the Red Mage changes brought with Dawntrail along with an introduction to new rotation and opener concepts. A new guide with deep dives into advanced concepts and applications of theory for Red Mage is being worked on as of patch 7.2 being released. If you have questions after reading the guide, feel free to ask in the **\#rdm_questions** channel on [The Balance server.](https://discord.gg/thebalanceffxiv)
 
 ## TL;DR changes in playstyle from Endwalker for raiding
 
@@ -101,7 +103,7 @@ At level 92, Embolden grants Thorned Flourish upon executing Embolden, which all
 
 ## Manafication and Prefulgence
 
-Manafication is an ability with a 110s cooldown that allows us to use a melee combo without consuming mana. Specifically, it grants three stacks of Magicked Swordplay, each stack allowing us to use a melee combo at no mana cost while the buff is up. The ability also gives us a 5% magic damage buff with six stacks that lasts 15 seconds, which buffs the next six GCDs by 5%. This damage buff should generally be used on our melee combo, as it is the strongest burst window Red Mage has. 
+Manafication is an ability with a 110s cooldown that allows us to use a melee combo without consuming mana. Specifically, it grants three stacks of Magicked Swordplay, each stack allowing us to use a melee combo at no mana cost while the buff is up. The ability also gives us a 5% magic damage buff with six stacks that lasts 30 seconds, which buffs the next six GCDs by 5%. This damage buff should generally be used on our melee combo, as it is the strongest burst window Red Mage has. 
 
 At level 100, we also gain a new oGCD ability: **Prefulgence**, which is our hardest hitting oGCD at 1000 potency for the first enemy, and 60% less for all remaining enemies. It is enabled after the sixth Manafication stack is consumed, which grants us the Prefulgence Ready buff for 30 seconds and replaces Manafication on our hotbar until used. 
 
@@ -115,7 +117,7 @@ Here is an image showing the gap between both cooldowns, and why the longer a fi
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfUxuDB9S2726AafGsmUcDyQaI9ndIzSm8NI00s-CnbUpib66re4H_9G4AcZrVDL_3vRdTzAVgSsifUiA2FroMHvoI3jKLLBJsofQx4qoRJ9iuoUUhIWh3qxdDm7MTp2XQo4Xmny8iSu4YjKQyOzKOeiqwL?key=g0mOyOwaD_13c10-GmC5Xg)
 
-In general, do not use Manafication during downtime. There is some theoretically niche optimization potential there to be further tested on certain encounters, but is unnecessary for standard play.
+In general, do not use Manafication during downtime. There is niche optimization potential there that may be applicable in certain encounters, but is unnecessary for standard play.
 
 ## Core damaging oGCDs: Fleche, Contre Sixte, Engagement, and Corps-a-corps
 
@@ -163,8 +165,7 @@ Grand Impact Ready, a new effect we get from a level 96 trait (Enhanced Accelera
 * To avoid complicating oGCD alignment, we can default to using the instant-cast spell and Grand Impact back-to-back for movement. It can also be used as a temporary fix for oGCD alignment issues (keep the Fleche/Contre Sixte/Embolden cooldowns running) if Swiftcast and a melee combo are not available.
 * It can be worth using under buffs if we are only doing a single combo under buffs, but this is not a priority for fundamental play. Learn to maximize uses and keep full uptime with movement first.
 * Generally, we can use Acceleration during downtime as long as the boss will be targetable in 15 or so seconds (we can re-open with an Acceleration-boosted GCD, a Dualcasted GCD, and then Grand Impact for three instant casts in a row).
-
-Grand Impact has further intermediate and advanced potential for optimizing damage, managing oGCD alignment, or min maxing procs that will not be covered in this preliminary version of the guide.
+* A slightly advanced application of Acceleration is to use it with one proc active when you need to imminently change alignment and do not have Swiftcast available. By doing this, you can use the Verthunder/aero of the opposite element of your proc, giving you both procs and guaranteeing that you can delay using Grand Impact by at least 10 seconds. An example of this being executed can be found in [this clip](https://www.twitch.tv/cyclopsdragon/clip/SlickSweetSoybeanM4xHeh-Akk-fFqS0WdRmTxD).
 
 # Party utility and recovery
 
