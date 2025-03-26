@@ -1,8 +1,8 @@
 ---
 title: Paladin Best in Slot (BiS)
 layout: bis
-patch: "7.15"
-lastmod: 2024-07-10T05:09:32.573Z
+patch: "7.2"
+lastmod: 2025-03-25T19:50:47.669Z
 changelog:
   - date: 2021-10-28T03:10:04.413Z
     message: Created page
@@ -22,22 +22,24 @@ changelog:
     message: Updated for 7.0 (pre-savage)
   - date: 2024-09-08T15:56:14.384Z
     message: 7.05 BiS added
+  - date: 2025-03-25T19:50:38.230Z
+    message: Added 7.2 BiS
 bis:
   - type: genericlink
     description: Useful to put in your own gear options.
     name: Gear Planner
     link: https://xivgear.app/
+  - type: genericiframe
+    name: 7.2 BiS
+    link: https://xivgear.app/?page=embed%7Csl%7C4c77ea69-f2d9-4e3e-9f8b-4fc1b054b9ce&onlySetIndex=0
   - type: genericlink
-    name: 7.15 BiS Sets
+    name: 7.2 Prog Sets
+    link: https://xivgear.app/?page=sl%7C3a2bb769-52df-4122-84cc-14044a855b2a
+  - type: genericlink
+    name: 7.15 BiS Sets (applicable for FRU)
     link: https://xivgear.app/?page=sl%7Cae72faca-c3e9-42a1-a82e-1e2bbf934251
     description: This sheet contains the different variations of 7.15 BiS gear, with
       and without the ultimate edenmorn weapon.
-  - type: genericiframe
-    name: 2.50 Moqueca (7.15 BiS)
-    link: https://xivgear.app/?page=sl%7Cae72faca-c3e9-42a1-a82e-1e2bbf934251&onlySetIndex=1
-  - type: genericiframe
-    link: https://xivgear.app/?page=sl%7Cae72faca-c3e9-42a1-a82e-1e2bbf934251&onlySetIndex=2
-    name: 2.50 Roast Chicken (7.05 BiS)
   - type: etro
     description: >-
       Note: 665 relic can be used in place of 645 relic (no stat change due to
