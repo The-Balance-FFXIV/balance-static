@@ -3,6 +3,27 @@ title: Samurai Changes
 layout: changes
 lastmod: 2024-11-16T06:19:33.646Z
 changes:
+  - patch: "7.2"
+    description: >-
+      Hissatsu Kyuten potency reduced from 120 to 100.
+
+
+      Hissatsu Guren potency reduced from 500 to 400. Guren is now only a gain on 3 targets.
+
+
+      Shoha's damage falloff was reduced from 65% to 50%, meaning it does more damage in AOE.
+
+
+      Ogi Namikiri and Kaeshi: Namikiri potency increased from 900 to 1000. Damage falloff was reduced from 75% to 50%, meaning it does more damage in AOE.
+
+
+      Zanshin potency increased from 900 to 940. Damage falloff was reduced from 60% to 50%, meaning it does more damage in AOE.
+
+
+      Tendo Setsugekka and Tendo Kaeshi Setsugekka potency increased from 1020 to 1100.
+
+
+      Overall DPS increase is around 2.26% compared to 7.1.
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
   - patch: "6.0"
@@ -48,27 +69,6 @@ changes:
       Gyofu's potency has been increased from 230 to 240.
 
       Zanshin's potency has been increased from 820 to 900.
-  - patch: "7.2"
-    description: >-
-      Hissatsu Kyuten potency reduced from 120 to 100.
-
-
-      Hissatsu Guren potency reduced from 500 to 400. Guren is now only a gain on 3 targets.
-
-
-      Shoha's damage falloff was reduced from 65% to 50%, meaning it does more damage in AOE.
-
-
-      Ogi Namikiri and Kaeshi: Namikiri potency increased from 900 to 1000. Damage falloff was reduced from 75% to 50%, meaning it does more damage in AOE.
-
-
-      Zanshin potency increased from 900 to 940. Damage falloff was reduced from 60% to 50%, meaning it does more damage in AOE.
-
-
-      Tendo Setsugekka and Tendo Kaeshi Setsugekka potency increased from 1020 to 1100.
-
-
-      Overall DPS increase is around 2.26% compared to 7.1.
 authors:
   - Balance-SAM-Staff
   - boxer
