@@ -20,7 +20,7 @@ changelog:
   - date: 2024-12-21T04:01:29.135Z
     message: Updated for 7.15
 ---
-#  **and7.x Black Mage Guide**
+# **7.x Black Mage Guide**
 
 By: Rika Vanih
 
@@ -89,8 +89,6 @@ Additional notes:
 * The second charge of **Ley Lines** can be flexibly used at any point after the opener, with the goal of using it during a window where its full duration can be used.
 * **Triplecast** and **Swiftcast** usage is fairly flexible as needed in the opener for movement, but should still ideally be weaved after an instant-cast spell.
 * Due to skipping the **Paradox** post-**Manafont**, 
-
-
 
 # **Single Target Rotation**
 
