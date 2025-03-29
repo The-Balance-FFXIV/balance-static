@@ -20,7 +20,7 @@ changelog:
   - date: 2024-12-21T04:01:29.135Z
     message: Updated for 7.15
 ---
-# **7.x Black Mage Guide**
+#  **and7.x Black Mage Guide**
 
 By: Rika Vanih
 
@@ -46,7 +46,7 @@ Black Mage is a caster specializing in high, steady personal damage in place of 
 
 **Polyglot** is a resource gained every 30 seconds that Enochian is active. At level 80+, a maximum of two polyglot stacks can be held at a time. At level 98+, a maximum of three polyglot stacks can be held at a time. If the polyglot timer completes while at maximum stacks, no additional polyglot stack is gained, and the timer restarts at zero again. If Enochian is dropped the polyglot stacks remain, but the timer is reset to 0.
 
-**Paradox** is a resource and spell available at level 90. When you have the resource, Paradox replaces both **Fire** and **Blizzard** on your hotbars. In Astral Fire, it replaces the **Fire** cast to refresh your Astral Fire timer, is instant-cast, and generates a guaranteed Firestarter proc. In Umbral ice, it is a strong instant-cast spell that refreshes your Umbral Ice timer and can be leveraged for weaving/movement. You gain a **Paradox** marker on your job gauge by transitioning from Umbral Ice III with three Umbral Hearts to Astral Fire, as well as from Astral Fire III to Umbral Ice.
+**Paradox** is a resource and spell available at level 90. When you have the resource, Paradox replaces both **Fire** and **Blizzard** on your hotbars. It is a strong spell that is instant-cast, providing a window for movement/weaving abilities. In Astral Fire, it also generates a guaranteed Firestarter proc. You gain a **Paradox** marker on your job gauge by transitioning from Umbral Ice III with three Umbral Hearts to Astral Fire, as well as from Astral Fire III to Umbral Ice.
 
 **Astral Soul** is a resource available at level 100. Successful casting of **Fire IV** generates one Astral Soul stack, casting **Flare** grants three Astral Soul stacks. Generating the maximum of 6 stacks of Astral Soul allows for the user to cast **Flare Star**. Stacks are consumed upon casting **Flare Star**, and expire upon leaving Astral Fire.
 
@@ -68,7 +68,7 @@ Black Mage is a caster specializing in high, steady personal damage in place of 
 
 ## **General Gameplay**
 
-In Astral Fire, the goal is to use all of your MP on **Fire IV** casts, and end in **Despair** followed by **Flare Star**. However, **Fire IV** does not refresh the Astral Fire timer, so **Paradox** is used once in between the **Fire IV** spam to maintain Astral Fire.
+In Astral Fire, the goal is to use all of your MP on six **Fire IV** casts and end in **Flare Star** and **Despair**. Somewhere within the phase, **Paradox** should be used for both damage as well as generating a Firestarter proc.
 
 In Umbral Ice, **Blizzard IV** is used to obtain three Umbral Hearts (as well as produce a **Paradox** marker when entering Astral Fire again), as well as refresh MP for the next Astral Fire cycle. The **Paradox** generated upon entering Umbral Ice from Astral Fire III is also used in this phase.
 
@@ -76,20 +76,21 @@ In either stance, keeping the **High Thunder** DoT up is important, as well as u
 
 # **Opener**
 
-## **Fire III Opener**
+## **Standard 5+7 Opener**
 
 ![](/img/jobs/blm/7.1-black-mage-fire-iii-opener.png)
 
-<br>The standard opener for BLM. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving **Ley Lines** with the INT pot usage in the opener.
+<br>The standard opener for BLM. This opener skips a **Despair** cast pre-**Manafont** as well as a **Paradox** cast post-**Manafont** in order to cast 12 total **Fire IV** casts (5 before and 7 after **Manafont,** thus the name "5+7"), enabling two uses of **Flare Star**.
 
-The initial **Fire III** cast should start around 4 seconds prepull (to land at the same time the boss is pulled). The second **Fire IV** is hardcasted with the expectation of raid buffs landing just before the cast goes off.
+The initial **Fire III** cast should start around 4 seconds prepull (to land at the same time the boss is pulled). **High Thunder** should be refreshed just before raid buffs are falling off.
 
 Additional notes:
 
-* Despite missing out on a second **Flare Star** usage by starting in Astral Fire, it is still generally a gain to do so rather than have to cast relatively weak **Blizzard IV** then **Fire III** in Umbral Ice III. Having a slower start with an Umbral Ice opener will likely also result in pushing some stronger spells out of buffs.
 * The second charge of **Ley Lines** can be flexibly used at any point after the opener, with the goal of using it during a window where its full duration can be used.
+* **Triplecast** and **Swiftcast** usage is fairly flexible as needed in the opener for movement, but should still ideally be weaved after an instant-cast spell.
+* Due to skipping the **Paradox** post-**Manafont**, 
 
-Using Flare for the extra Astral Soul stacks to enable an additional **Flare Star** in the opener before the **Manafont** is not worthwhile. Even if the **Flare** is instant-cast, it is too weak of a spell to justify using it for single-target to use over **Despair**, particularly when considering the lost potency from **Flare** is during raid buffs and the extra **Flare Star** usage occurs after buffs expire.
+
 
 # **Single Target Rotation**
 
