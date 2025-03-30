@@ -4,18 +4,18 @@ layout: bis
 patch: "7.2"
 lastmod: 2025-03-30T20:36:04.292Z
 changelog:
-  - date: 2024-08-04T18:55:57.960Z
-    message: Cleaned up the sets. Added master list of sets, added final bis sets.
+  - date: 2025-03-30T20:47:44.879Z
+    message: Added 7.2 sets
 bis:
   - type: gsheets
     link: https://xivgear.app/?page=sl%7C95d20a0f-8d69-4123-abb4-187a79ffe7d1&onlySetIndex=6&
     name: Patch 7.2 WAR 2.50 GCD BIS
     description: ""
   - type: gsheets
-    name: Patch 7.2 WAR Specific 2.45 GCD BIS
+    name: Patch 7.2 WAR 2.45 GCD BIS
     link: https://xivgear.app/?page=sl%7C95d20a0f-8d69-4123-abb4-187a79ffe7d1&onlySetIndex=11&
   - type: gsheets
-    name: Patch 7.2 WAR Specific 2.40 GCD BIS
+    name: Patch 7.2 WAR 2.40 GCD BIS
     link: https://xivgear.app/?page=embed%7Csl%7C07fa6926-f316-41f3-b797-31bba232d267&onlySetIndex=13
     description: ""
   - type: gsheets
