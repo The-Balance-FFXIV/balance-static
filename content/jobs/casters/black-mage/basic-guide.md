@@ -227,15 +227,7 @@ Due to the specific placement in the rotation, **Manafont** will rarely line up 
 
 # Downtime and Recovery
 
-Inevitably when learning a fight (and the job itself), there will be situations where maintaining the rotation perfectly will not be possible, or otherwise interrupted by downtime. In these cases, learning how best to either maintain Astral Fire or what to do across the downtime is extremely beneficial.
-
-## Maintaining Astral Fire
-
-With the introduction of **Flare Star**, it is even more important than ever to make sure you complete your entire Astral Fire cycle successfully. While some situations can make it much more difficult of a prospect, there are some good habits to keep in mind to set you up for the highest chance of success:
-
-1. Frontloading your Astral Fire cycle with four **Fire IV** casts before the **Paradox** by default, five if possible (usually facilitated via **Ley Lines** and/or **Triplecast**/**Swiftcast**) provides you much more leeway to work with particularly in the second half of your Astral Fire cycle.
-2. Particularly in situations where you need to fit in a **Xenoglossy** use or a High Thunder refresh, consider using **Triplecast**/**Swiftcast** wherever best suited to give yourself sufficient leeway on your Astral Fire timer wherever it may be tighter.
-3. As previously mentioned, using your Firestarter procs to re-enter Astral Fire is generally the most optimal usage. However, if you have no other options to complete your Astral Fire cycle without it, using the proc to extend your Astral Fire timer is more valuable if it means finishing your cycle off and getting a **Flare Star** where you would not otherwise.
+Inevitably when learning a fight (and the job itself), there will be situations where maintaining the rotation perfectly will not be possible, or otherwise interrupted by downtime. In these cases, learning what to best do across downtime is extremely beneficial.
 
 ## Handling Downtime and End of Fight
 
@@ -245,81 +237,26 @@ Depending on the length and type of downtime, there are a few options to conside
 
 1. Other than some rare situations, DoTs do not tick while enemies are untargetable (and of course will not deal damage after the target is dead). Unless the DoT ticks nearly fully, it is often less worthwhile to apply/refresh **High Thunder** before downtimes/end of fight/during short uptime phases.
 2. Ensure that you will not overcap on polyglot stacks during downtime, and that you use up all of your stacks before the end of a fight. **Xenoglossy** is the strongest BLM spell, so it is important to not miss any uses.
-3. Try to prioritize strong spells before downtime. For example, if you are unable to get both **Despair** and **Flare Star** off right before downtime, the **Flare Star** takes priority.
+3. Try to prioritize strong spells before downtime. For example, if you are unable to get both **Despair** and **Flare Star** off right before downtime, the **Flare Star** takes priority. For longer downtime, if using **Flare** over a **Fire IV** will enable using **Flare Star** where you would not otherwise, it will likely be worthwhile to do so.
 4. An instant cast frontloads its damage at the start of the GCD, so it is good practice to plan to end on an instant cast before the downtime/end of fight. This can result in a last tap of damage where a normal cast would not have been able to finish otherwise.
 
 ### Continuing across/after downtime:
 
-1. For short downtime, try leveraging **Triplecast**/**Swiftcast** to help you finish the rest of your Astral Fire phase when you have uptime again. Otherwise, having a Firestarter proc to use to refresh your timer can have pretty large value in short downtimes.
-2. For moderate length downtimes, you will often be able to use **Umbral Soul** to get back to full MP with three Umbral Hearts. If you are going to end the uptime phase in Astral Fire, consider dumping the rest of your MP with **Despair**, then using **Transpose** to enter Umbral Ice before using **Umbral Soul**.
-3. For especially long downtime, a Thunderhead buff you may initially obtain may not last long enough. In these cases, you can consider using **Transpose** to head back into Astral Fire, then **Transpose** back into Umbral Ice, using **Umbral Soul** to build back up to Umbral Ice III with three Umbral Hearts before you have uptime again. You will generate a fresh Thunderhead buff with each transition, so you can time this to ensure the proc lasts long enough to reapply immediately when possible. You can also similarly generate a **Paradox** for Umbral Ice by building up to Umbral Ice III with three Umbral Hearts before the first **Transpose**.
+1. With the removal of Astral Fire and Umbral Ice timer, for short downtime you will often just be able to resume your rotation where you left off, even in Astral Fire. Aim to end on an instant-cast before the downtime, but otherwise you will often be able to continue without extra effort.
+2. For moderate length downtimes, you will often be able to use **Umbral Soul** to get back to full MP with three Umbral Hearts. Even if you are in the middle of an Astral Fire cycle, getting back to full MP and three Umbral Hearts without having to cast **Blizzard III** and **Blizzard IV** is very high value. Consider trying to rush a **Flare Star** and otherwise dump your MP before downtime (potentially by using **Flare**) to make the most use of it.
+3. For slightly longer downtime situations, in some cases you may have used Umbral Ice Paradox and/or not have a Thunderhead proc to use next uptime. With the extra time, after getting to Umbral Ice III with three Umbral Hearts via **Umbral Soul**, consider using **Transpose** to head back into Astral Fire to generate **Paradox**, then **Transpose** back into Umbral Ice, using **Umbral Soul** to build back up to Umbral Ice III with three Umbral Hearts before you have uptime again.
 
 ![](/img/jobs/blm/black-mage-downtime-thunderhead.png "Downtime Thunderhead")
 
 4. Of note, especially for downtime before AoE in dungeons, you can easily Transpose to Astral Fire after all the mobs are grouped together to apply High Thunder II before continuing on with your Flares/Flare Star.
-5. Downtime where you are stunned or are otherwise in a cutscene and unable to use Umbral Soul can be especially problematic, regardless of length. In most cases, try to end up in Umbral Ice for the downtime, via Transpose or otherwise to ensure you do not delay getting at least natural MP refresh from having to wait until your Astral Fire timer expires.
 
-## Dropped Astral Fire/Umbral Ice
+## Recovering After a Death
 
-**Flare Star** creates extra incentive for a full Astral Fire cycle, and the only way to get much MP back is from casting ice-aspected spells in Umbral Ice. Therefore, most of the time if you do end up dropping Astral Fire/Umbral Ice, your best course of action will be to cast **Blizzard III** (ideally using **Swiftcast** to avoid the long cast time), refresh/apply **High Thunder** if needed, then cast **Blizzard IV** and continue on with a normal Astral Fire cycle.
-
-# **Additional Optimizations**
-
-These sections are more preliminary and will likely be added onto/adjusted with more details/options as time goes on. It is likely some if not all of this will be moved over into an advanced guide.
-
-## Single Target Flare Usage
-
-**Flare** has the unique ability to generate three Astral Soul stacks with a single cast, where otherwise only one stack is generated per **Fire IV** cast for the single target rotation. While the spell itself is relatively weak for single target, there is room for some level of viability for it with regards to alignment as well as for end of fight considerations (to generate a **Flare Star** where you wouldn’t be able to otherwise).
-
-## Early/Late High Thunder Refresh
-
-With most of the **High Thunder** damage on the DoT portion and less on the on-hit, it is generally important to try to aim to refresh when the DoT is falling off (less than 3 seconds remaining).
-
-Refreshing the DoT after it has fallen off, especially for a longer period of time, more directly loses damage that you would get from the DoT ticks otherwise. Refreshing the DoT slightly prematurely, however, really only starts to lose more damage if it causes you to have to spend an extra GCD refreshing the DoT to have the same uptime, or if you end up missing ticks before downtime/end of fight that you would have gotten with regular refresh timing.
-
-On average it will be better to refresh slightly early than let it drop off entirely. However, in either case, it is quite possible to have minimal to no loss from an early/late refresh. In an ideal environment and planned uptime lengths/killtimes/casting timeline, it is viable to quantify loss in alternative refresh timings compared to the gains they may facilitate for things like weaving for AF1 F3P, movement, or whatever else.
-
-In a less controlled environment, it can still situationally be worthwhile to refresh slightly early/late, particularly if it helps keep better uptime on the DoT overall or otherwise helps you from having to sacrifice your rotation later in order to refresh the DoT. To stress again, however, it is important to not overly rely on early/late **High Thunder** refreshes, and they should instead be more considered as a situational alternative to utilize when needed.
-
-## Pre-Manafont Considerations
-
-With **Manafont** now granting full resources including a **Paradox**, normally we will end up with a spare Firestarter proc pre-**Manafont** that we need to burn in Astral Fire III before we generate a new one with the second **Paradox**. While the proc used in Astral Fire III is still fairly solid, it’s not as valuable as it would be otherwise since we cannot use it to enable AF1 F3P.
-
-This can lead way towards justifying an alternative setup pre-**Manafont** that does not generate this Firestarter proc since it is otherwise “wasted” in Astral Fire III, and can also potentially help adjust alignment for an earlier **Manafont** usage.
-
-## Additional GIRL Applications
-
-Beyond simply a recovery option after a panic **Transpose** to prevent dropping Astral Fire, GIRL can be used in place of a regular **Blizzard III** cast. By itself, this is a small potency loss, but there are a few use cases for it which can result in a net gain (typically with a weaved **Transpose** usage):
-
-* Using Transpose at the tail end of an Astral Fire cycle grants Thunderhead a GCD earlier than after casting **Blizzard III**. If this results in gaining a DoT tick due to being able to reapply **High Thunder** a GCD earlier, it can end up being a gain. This situation most likely will come up if you refresh your **High Thunder** DoT at the start of an Astral Fire phase, since the DoT may fall off before you reenter Umbral Ice normally.
-* A **Paradox** in raid buffs is significantly stronger than a **Blizzard III** in buffs, particularly if casted in Astral Fire III. If you’re in a situation with one GCD left before raid buffs fall off, with the ability to weave **Transpose** at the tail end of an Astral Fire phase to use **Paradox**, it can be a good consideration.
-* **Paradox** provides an additional GCD of movement that **Blizzard III** would not grant by itself. While not a direct gain, this can be used to extend movement by an extra GCD for a small loss. If this results in uptime that you would not get otherwise, it can turn into a gain.
+With the changes for Patch 7.2, one of the few ways that you may end up completely dropping Astral Fire/Umbral Ice is by dying. After waiting until a safe time to accept the raise/start casting, reenter your rotation with **Blizzard III** (made instant via **Swiftcast**/**Triplecast** if available), applying **High Thunder** if it has fallen off, cast **Blizzard IV** then continue on into the standard cycle.
 
 # **Appendix**
 
 ## **Macros**
-
-Since **Sprint** cannot be properly queued like regular oGCD actions, using a macro to spam the action can help with reliability, with no downside:
-
-```
-/merror off
-/ac "Sprint"
-/ac "Sprint"
-/ac "Sprint"
-/ac "Sprint"
-/ac "Sprint"
-/ac "Sprint"
-/ac "Sprint"
-/ac "Sprint"
-/ac "Sprint"
-/ac "Sprint"
-/ac "Sprint"
-/ac "Sprint"
-/ac "Sprint"
-/micon "Sprint"
-```
-
-![](/img/jobs/blm/sprintmacro.png)
 
 Manually targeting to use **Aetherial Manipulation** can often result in minor delay due to needing to change targets multiple times. Therefore, a common alternative is to use a mouseover macro for the ability:
 
