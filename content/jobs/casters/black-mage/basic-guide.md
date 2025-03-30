@@ -155,42 +155,27 @@ A few important notes:
 
 The **Freeze** cast in Umbral Ice I grants sufficient MP to use both **Flare** casts in the following Astral Fire. The filler spells (**Foul**/**High Thunder II**) are used to weave **Transpose**. Prioritize using **High Thunder II** for filler only when the DoT timer is lower to get the most value out of the DoT.
 
+**Manafont** can be used for an additional two **Flare** casts followed by another **Flare Star**. Using any ether that grants at least 800 MP can be used for an additional **Flare** in dungeons and can still be worthwhile even though it will not enable an additional **Flare Star** by itself.
+
 In a situation where you are running low on filler spells or otherwise anticipate a much longer time spent doing AoE, consider the following options to maintain skipping **High Fire II**/**High Blizzard II**:
 
 * Use **Triplecast** to make the **Flare** casts and **Flare Star** instant, avoiding needing an additional filler to **Transpose** afterwards
-*
+* Consider using **Paradox** in Umbral Ice for a filler spell, particularly at lower mob counts/if there is a mob with higher HP in the encounter
+* Clipping **Transpose** after **Flare Star** is only a small clip and allows for conserving filler spells for Umbral Ice, which is needed to wait out the **Transpose** cooldown
 
 
-
-
-
- The AoE rotation has a fairly straightforward flow—**High Blizzard II** to enter Umbral Ice III and **Freeze** for 3 Umbral Hearts as well as refilling MP, then **High Fire II** to enter Astral Fire III. Due to the lowered potency compared to Endwalker, it is no longer worthwhile to use **High Fire II** any additional times, and instead use **Flare** twice followed by **Flare Star**.
-
-**Foul** can be used for movement, weaving oGCDs, or just generally as a strong AoE spell. **High Thunder II** should generally be refreshed when the DoT timer is low on the targets (less than 3s remaining), unless the mobs are going to die soon.
-
-**Manafont** can be used for an additional two **Flare** casts followed by another **Flare Star**. Using any ether that grants at least 800 MP can be used for an additional **Flare** in dungeons and can still be worthwhile even though it will not enable an additional **Flare Star** by itself.
-
-## **Transpose Optimization**
-
-With the nerf to **High Blizzard II** and **High Fire II**, it is usually beneficial to use Transpose to skip them entirely.
-
-![](/img/jobs/blm/black-mage-aoe-with-transpose.png "AoE with Transpose")
-
-<br>Even at the cost of having only the Astral Fire I bonus on the first **Flare**, it is more worthwhile to skip the **High Fire II** cast. The **Freeze** cast in Umbral Ice I grants enough MP to use both **Flare** casts in the following Astral Fire. The filler spells (**Foul**/**High Thunder II**) are used to weave **Transpose**, though if the **Flare Star** at the end of an Astral Fire cycle is instant via **Swiftcast**/**Triplecast**, the filler after it is unnecessary. Prioritize using **High Thunder II** for filler only when the DoT timer is lower to get the most value out of the DoT.
-
-In a situation where you are running out of filler spells, prioritize using **Transpose** to skip **High Blizzard II** over **High Fire II**, as the latter still provides a damage bonus to the first **Flare**. Clipping **Transpose** can still be a gain over using **High Blizzard II**/**High Fire II**, though note that due to the cooldown of **Transpose** it is not possible to clip twice without waiting or otherwise using a filler spell anyways in Umbral Ice.
 
 ## **2-Target Situations**
 
-For 2-target situations, use **High Thunder II** instead of **High Thunder** if you can hit both with it, otherwise DoT one with **High Thunder** and apply it to the other target when you swap between Astral Fire/Umbral Ice naturally in your rotation.
+For 2-target situations where you are able to hit both targets at the same time, use the AoE rotation, substituting **Freeze** with **Blizzard IV**. **Foul** is now a gain in 2-target situations over **Xenoglossy**.
 
 # **oGCD Abilities**
 
 Whenever possible, oGCD abilities should be weaved to avoid delays in casting. One oGCD ability can be used after **Fire III**/**High Fire II** from Umbral Ice III, and after **Blizzard III**/**High Blizzard II** from Astral Fire III. Up to two oGCD abilities can be weaved after instant-cast spells (**Xenoglossy**/**Foul**, **Paradox**, **High Thunder**/**High Thunder II**, Firestarter procs, or spells made instant via **Swiftcast**/**Triplecast**).
 
-In case of emergency to prevent deaths (using **Addle**, **Manaward**, or panic **Aetherial Manipulation**) or to keep uptime where it otherwise would not be possible, it situationally can still be good to use oGCD abilities even without weaving them. However, it is recommended to later figure out a better way to deal with the situation without relying on clipping oGCD abilities.
+Most spells are now base 2 second cast time with 2.5 second recast time. This is not sufficient to allow for weaving without clipping, but if necessary will only lose a small amount of time.
 
-![](/img/jobs/blm/blmweaving.png)
+In case of emergency to prevent deaths (using **Addle**, **Manaward**, or panic **Aetherial Manipulation**) or to keep uptime where it otherwise would not be possible, it situationally can still be good to use oGCD abilities even without weaving them. However, it is recommended to later figure out a better way to deal with the situation without relying on clipping oGCD abilities.
 
 <br>Below are general recommendations for usage of various oGCD abilities for BLM.
 
