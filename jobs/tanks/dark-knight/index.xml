@@ -36,7 +36,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[487 360 98 38 190 357]" src="https://xivapi.com/i/003000/003051_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[393 5 410 175 290 344]" src="https://xivapi.com/i/003000/003051_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hard Slash&lt;/td>
@@ -49,7 +49,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[288 84 415 406 6 466]" src="https://xivapi.com/i/003000/003054_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[192 203 261 249 131 35]" src="https://xivapi.com/i/003000/003054_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Syphon Strike&lt;/td>
@@ -62,7 +62,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[159 165 105 494 437 164]" src="https://xivapi.com/i/003000/003055_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[391 195 40 53 287 241]" src="https://xivapi.com/i/003000/003055_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Souleater&lt;/td>
@@ -75,7 +75,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[201 302 241 183 110 371]" src="https://xivapi.com/i/003000/003062_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[30 241 111 439 313 178]" src="https://xivapi.com/i/003000/003062_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Unmend&lt;/td>
@@ -88,7 +88,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[315 220 357 372 151 35]" src="https://xivapi.com/i/003000/003080_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[311 49 177 262 185 345]" src="https://xivapi.com/i/003000/003080_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodspiller&lt;/td>
@@ -101,7 +101,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[121 146 143 278 151 126]" src="https://xivapi.com/i/003000/003086_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[464 368 74 474 21 374]" src="https://xivapi.com/i/003000/003086_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Edge of Shadow&lt;/td>
@@ -114,7 +114,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[298 72 415 35 445 15]" src="https://xivapi.com/i/003000/003078_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[495 135 36 10 416 325]" src="https://xivapi.com/i/003000/003078_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Delirium&lt;/td>
@@ -127,7 +127,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[464 430 340 32 391 398]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003095_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[445 499 476 27 58 441]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003095_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Scarlet Delirium&lt;/td>
@@ -140,7 +140,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[207 366 479 402 130 18]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003096_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[182 421 251 88 137 232]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003096_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Comeuppance&lt;/td>
@@ -153,7 +153,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[445 471 223 112 454 233]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[218 66 260 34 33 209]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Torcleaver&lt;/td>
@@ -166,7 +166,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[443 7 43 325 307 70]" src="https://xivapi.com/i/003000/003058_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[400 312 363 331 288 194]" src="https://xivapi.com/i/003000/003058_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Carve and Spit&lt;/td>
@@ -179,7 +179,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[229 172 114 357 171 486]" src="https://xivapi.com/i/003000/003088_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[13 393 296 491 397 30]" src="https://xivapi.com/i/003000/003088_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Living Shadow&lt;/td>
@@ -192,7 +192,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[187 20 481 193 466 103]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003099_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[430 128 165 233 1 168]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003099_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Disesteem&lt;/td>
@@ -205,7 +205,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[212 316 321 456 70 279]" src="https://xivapi.com/i/003000/003066_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[346 222 295 422 238 241]" src="https://xivapi.com/i/003000/003066_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Salted Earth&lt;/td>
@@ -218,7 +218,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[370 492 424 307 211 141]" src="https://xivapi.com/i/003000/003090_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[475 2 107 306 49 223]" src="https://xivapi.com/i/003000/003090_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Salt and Darkness&lt;/td>
@@ -231,7 +231,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[165 235 105 129 3 118]" src="https://xivapi.com/i/003000/003091_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[26 275 230 481 103 453]" src="https://xivapi.com/i/003000/003091_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadowbringer&lt;/td>
@@ -260,7 +260,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[287 134 267 477 414 338]" src="https://xivapi.com/i/003000/003063_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[255 265 377 165 154 401]" src="https://xivapi.com/i/003000/003063_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Unleash&lt;/td>
@@ -273,7 +273,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[375 41 26 145 118 266]" src="https://xivapi.com/i/003000/003084_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[51 76 170 388 109 273]" src="https://xivapi.com/i/003000/003084_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Stalwart Soul&lt;/td>
@@ -286,7 +286,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[73 70 475 276 374 58]" src="https://xivapi.com/i/003000/003079_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[430 499 331 465 389 16]" src="https://xivapi.com/i/003000/003079_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Quietus&lt;/td>
@@ -299,7 +299,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[12 485 364 136 216 387]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[487 52 359 495 284 364]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Impalement&lt;/td>
@@ -312,7 +312,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[482 236 380 433 338 32]" src="https://xivapi.com/i/003000/003085_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[83 408 158 395 29 223]" src="https://xivapi.com/i/003000/003085_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flood of Shadow&lt;/td>
@@ -325,7 +325,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[76 458 239 378 83 357]" src="https://xivapi.com/i/003000/003064_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[60 140 55 63 212 340]" src="https://xivapi.com/i/003000/003064_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Abyssal Drain&lt;/td>
@@ -354,7 +354,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[400 1 352 119 271 21]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[402 40 78 235 90 89]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Rampart&lt;/td>
@@ -367,7 +367,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[150 310 187 156 132 48]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[182 381 373 233 46 107]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reprisal&lt;/td>
@@ -380,7 +380,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[103 21 409 410 366 358]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[298 438 141 88 411 477]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -393,7 +393,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[104 160 120 474 272 270]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003094_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[384 144 471 170 388 341]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003094_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadowed Vigil&lt;/td>
@@ -406,7 +406,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[203 359 256 300 352 477]" src="https://xivapi.com/i/003000/003076_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[327 500 250 421 399 279]" src="https://xivapi.com/i/003000/003076_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dark Mind&lt;/td>
@@ -419,7 +419,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[323 228 258 224 316 259]" src="https://xivapi.com/i/003000/003077_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[214 49 367 420 292 260]" src="https://xivapi.com/i/003000/003077_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Living Dead&lt;/td>
@@ -432,7 +432,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[203 422 131 56 189 363]" src="https://xivapi.com/i/003000/003087_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[450 345 488 462 144 192]" src="https://xivapi.com/i/003000/003087_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dark Missionary&lt;/td>
@@ -445,7 +445,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[367 229 270 231 54 464]" src="https://xivapi.com/i/003000/003081_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[241 246 336 147 165 193]" src="https://xivapi.com/i/003000/003081_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">The Blackest Night&lt;/td>
@@ -458,7 +458,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[113 29 328 105 356 310]" src="https://xivapi.com/i/003000/003089_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[187 395 449 385 53 168]" src="https://xivapi.com/i/003000/003089_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Oblation&lt;/td>
@@ -487,7 +487,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[460 375 429 173 108 32]" src="https://xivapi.com/i/003000/003070_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[253 138 152 158 398 301]" src="https://xivapi.com/i/003000/003070_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Grit&lt;/td>
@@ -500,7 +500,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[409 233 324 190 339 495]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[153 214 35 227 84 72]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Low Blow&lt;/td>
@@ -513,7 +513,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[75 403 319 252 279 140]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[419 236 222 197 149 348]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Provoke&lt;/td>
@@ -526,7 +526,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[425 438 234 259 186 327]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[349 431 369 441 347 57]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Interject&lt;/td>
@@ -539,7 +539,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[5 31 447 143 26 92]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[37 6 340 51 434 249]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shirk&lt;/td>
@@ -552,7 +552,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[298 252 250 124 54 142]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003093_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[175 225 292 423 290 347]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003093_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadowstride&lt;/td>

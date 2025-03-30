@@ -15,7 +15,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[35 118 305 261 428 498]" src="https://xivapi.com/i/003000/003451_hr1.png" onclick="openModal(this.id)" alt="Cascade" />
+ &lt;img id="[421 395 39 308 365 229]" src="https://xivapi.com/i/003000/003451_hr1.png" onclick="openModal(this.id)" alt="Cascade" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Cascade&lt;/td>
@@ -28,7 +28,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[114 305 109 32 310 191]" src="https://xivapi.com/i/003000/003452_hr1.png" onclick="openModal(this.id)" alt="Fountain" />
+ &lt;img id="[218 433 240 245 265 483]" src="https://xivapi.com/i/003000/003452_hr1.png" onclick="openModal(this.id)" alt="Fountain" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fountain&lt;/td>
@@ -41,7 +41,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[27 40 211 254 64 420]" src="https://xivapi.com/i/003000/003453_hr1.png" onclick="openModal(this.id)" alt="Windmill" />
+ &lt;img id="[470 49 96 210 195 168]" src="https://xivapi.com/i/003000/003453_hr1.png" onclick="openModal(this.id)" alt="Windmill" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Windmill&lt;/td>
@@ -54,7 +54,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[231 57 137 423 191 20]" src="https://xivapi.com/i/003000/003454_hr1.png" onclick="openModal(this.id)" alt="Standard Step" />
+ &lt;img id="[139 294 51 288 192 414]" src="https://xivapi.com/i/003000/003454_hr1.png" onclick="openModal(this.id)" alt="Standard Step" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Standard Step&lt;/td>
@@ -67,7 +67,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[181 260 478 329 198 316]" src="https://xivapi.com/i/003000/003459_hr1.png" onclick="openModal(this.id)" alt="Standard Finish" />
+ &lt;img id="[344 401 205 392 442 278]" src="https://xivapi.com/i/003000/003459_hr1.png" onclick="openModal(this.id)" alt="Standard Finish" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Standard Finish&lt;/td>
@@ -80,7 +80,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[441 301 110 425 404 456]" src="https://xivapi.com/i/003000/003460_hr1.png" onclick="openModal(this.id)" alt="Reverse Cascade" />
+ &lt;img id="[282 206 493 197 346 16]" src="https://xivapi.com/i/003000/003460_hr1.png" onclick="openModal(this.id)" alt="Reverse Cascade" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reverse Cascade&lt;/td>
@@ -93,7 +93,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[266 392 487 425 451 328]" src="https://xivapi.com/i/003000/003461_hr1.png" onclick="openModal(this.id)" alt="Bladeshower" />
+ &lt;img id="[56 168 212 260 142 208]" src="https://xivapi.com/i/003000/003461_hr1.png" onclick="openModal(this.id)" alt="Bladeshower" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bladeshower&lt;/td>
@@ -106,7 +106,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[93 201 55 39 294 266]" src="https://xivapi.com/i/003000/003462_hr1.png" onclick="openModal(this.id)" alt="Fan Dance" />
+ &lt;img id="[30 93 399 257 129 67]" src="https://xivapi.com/i/003000/003462_hr1.png" onclick="openModal(this.id)" alt="Fan Dance" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fan Dance&lt;/td>
@@ -119,7 +119,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[337 424 275 196 1 79]" src="https://xivapi.com/i/003000/003463_hr1.png" onclick="openModal(this.id)" alt="Rising Windmill" />
+ &lt;img id="[84 254 94 431 141 407]" src="https://xivapi.com/i/003000/003463_hr1.png" onclick="openModal(this.id)" alt="Rising Windmill" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Rising Windmill&lt;/td>
@@ -132,7 +132,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[75 178 294 446 6 14]" src="https://xivapi.com/i/003000/003464_hr1.png" onclick="openModal(this.id)" alt="Fountainfall" />
+ &lt;img id="[449 188 237 436 310 12]" src="https://xivapi.com/i/003000/003464_hr1.png" onclick="openModal(this.id)" alt="Fountainfall" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fountainfall&lt;/td>
@@ -145,7 +145,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[284 40 162 410 133 264]" src="https://xivapi.com/i/003000/003465_hr1.png" onclick="openModal(this.id)" alt="Bloodshower" />
+ &lt;img id="[143 150 22 14 178 458]" src="https://xivapi.com/i/003000/003465_hr1.png" onclick="openModal(this.id)" alt="Bloodshower" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodshower&lt;/td>
@@ -158,7 +158,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[180 352 123 244 476 463]" src="https://xivapi.com/i/003000/003466_hr1.png" onclick="openModal(this.id)" alt="Fan Dance II" />
+ &lt;img id="[335 142 83 176 488 256]" src="https://xivapi.com/i/003000/003466_hr1.png" onclick="openModal(this.id)" alt="Fan Dance II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fan Dance II&lt;/td>
@@ -171,7 +171,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[125 304 403 276 272 28]" src="https://xivapi.com/i/003000/003467_hr1.png" onclick="openModal(this.id)" alt="En Avant" />
+ &lt;img id="[235 459 187 228 70 142]" src="https://xivapi.com/i/003000/003467_hr1.png" onclick="openModal(this.id)" alt="En Avant" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">En Avant&lt;/td>
@@ -184,7 +184,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[114 116 445 309 95 80]" src="https://xivapi.com/i/003000/003468_hr1.png" onclick="openModal(this.id)" alt="Curing Waltz" />
+ &lt;img id="[246 126 467 58 337 205]" src="https://xivapi.com/i/003000/003468_hr1.png" onclick="openModal(this.id)" alt="Curing Waltz" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Curing Waltz&lt;/td>
@@ -197,7 +197,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[219 235 109 200 240 377]" src="https://xivapi.com/i/003000/003469_hr1.png" onclick="openModal(this.id)" alt="Shield Samba" />
+ &lt;img id="[17 125 295 399 144 167]" src="https://xivapi.com/i/003000/003469_hr1.png" onclick="openModal(this.id)" alt="Shield Samba" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shield Samba&lt;/td>
@@ -210,7 +210,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[317 433 476 331 482 410]" src="https://xivapi.com/i/003000/003470_hr1.png" onclick="openModal(this.id)" alt="Closed Position" />
+ &lt;img id="[79 292 393 316 163 305]" src="https://xivapi.com/i/003000/003470_hr1.png" onclick="openModal(this.id)" alt="Closed Position" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Closed Position&lt;/td>
@@ -223,7 +223,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[121 89 490 164 83 426]" src="https://xivapi.com/i/003000/003478_hr1.png" onclick="openModal(this.id)" alt="Ending" />
+ &lt;img id="[162 16 499 374 307 395]" src="https://xivapi.com/i/003000/003478_hr1.png" onclick="openModal(this.id)" alt="Ending" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Ending&lt;/td>
@@ -236,7 +236,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[473 328 135 69 424 105]" src="https://xivapi.com/i/003000/003471_hr1.png" onclick="openModal(this.id)" alt="Devilment" />
+ &lt;img id="[478 95 263 315 41 329]" src="https://xivapi.com/i/003000/003471_hr1.png" onclick="openModal(this.id)" alt="Devilment" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Devilment&lt;/td>
@@ -249,7 +249,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[77 217 117 227 405 447]" src="https://xivapi.com/i/003000/003472_hr1.png" onclick="openModal(this.id)" alt="Fan Dance III" />
+ &lt;img id="[324 479 83 364 282 313]" src="https://xivapi.com/i/003000/003472_hr1.png" onclick="openModal(this.id)" alt="Fan Dance III" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fan Dance III&lt;/td>
@@ -262,7 +262,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[265 314 199 143 14 137]" src="https://xivapi.com/i/003000/003473_hr1.png" onclick="openModal(this.id)" alt="Technical Step" />
+ &lt;img id="[68 231 247 290 429 336]" src="https://xivapi.com/i/003000/003473_hr1.png" onclick="openModal(this.id)" alt="Technical Step" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Technical Step&lt;/td>
@@ -275,7 +275,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[270 366 402 330 475 201]" src="https://xivapi.com/i/003000/003474_hr1.png" onclick="openModal(this.id)" alt="Technical Finish" />
+ &lt;img id="[426 239 29 414 243 329]" src="https://xivapi.com/i/003000/003474_hr1.png" onclick="openModal(this.id)" alt="Technical Finish" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Technical Finish&lt;/td>
@@ -288,7 +288,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[287 373 179 301 480 223]" src="https://xivapi.com/i/003000/003475_hr1.png" onclick="openModal(this.id)" alt="Flourish" />
+ &lt;img id="[159 93 425 475 360 143]" src="https://xivapi.com/i/003000/003475_hr1.png" onclick="openModal(this.id)" alt="Flourish" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flourish&lt;/td>
@@ -301,7 +301,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[94 413 121 96 421 426]" src="https://xivapi.com/i/003000/003476_hr1.png" onclick="openModal(this.id)" alt="Saber Dance" />
+ &lt;img id="[49 21 336 313 445 470]" src="https://xivapi.com/i/003000/003476_hr1.png" onclick="openModal(this.id)" alt="Saber Dance" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Saber Dance&lt;/td>
@@ -314,7 +314,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[206 103 154 343 251 335]" src="https://xivapi.com/i/003000/003477_hr1.png" onclick="openModal(this.id)" alt="Improvisation" />
+ &lt;img id="[484 302 81 292 350 333]" src="https://xivapi.com/i/003000/003477_hr1.png" onclick="openModal(this.id)" alt="Improvisation" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Improvisation&lt;/td>
@@ -327,7 +327,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[396 299 180 293 283 119]" src="https://xivapi.com/i/003000/003479_hr1.png" onclick="openModal(this.id)" alt="Improvised Finish" />
+ &lt;img id="[135 336 462 472 308 475]" src="https://xivapi.com/i/003000/003479_hr1.png" onclick="openModal(this.id)" alt="Improvised Finish" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Improvised Finish&lt;/td>
@@ -340,7 +340,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[282 421 142 315 410 374]" src="https://xivapi.com/i/003000/003480_hr1.png" onclick="openModal(this.id)" alt="Tillana" />
+ &lt;img id="[220 494 355 119 32 122]" src="https://xivapi.com/i/003000/003480_hr1.png" onclick="openModal(this.id)" alt="Tillana" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tillana&lt;/td>
@@ -353,7 +353,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[262 45 391 228 53 367]" src="https://xivapi.com/i/003000/003481_hr1.png" onclick="openModal(this.id)" alt="Fan Dance IV" />
+ &lt;img id="[250 17 466 90 163 440]" src="https://xivapi.com/i/003000/003481_hr1.png" onclick="openModal(this.id)" alt="Fan Dance IV" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fan Dance IV&lt;/td>
@@ -366,7 +366,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[110 352 190 357 30 482]" src="https://xivapi.com/i/003000/003482_hr1.png" onclick="openModal(this.id)" alt="Starfall Dance" />
+ &lt;img id="[238 490 78 112 412 55]" src="https://xivapi.com/i/003000/003482_hr1.png" onclick="openModal(this.id)" alt="Starfall Dance" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Starfall Dance&lt;/td>
@@ -379,7 +379,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[202 256 321 311 167 316]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003483_hr1.tex?format=png" onclick="openModal(this.id)" alt="Last Dance" />
+ &lt;img id="[308 52 162 193 45 156]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003483_hr1.tex?format=png" onclick="openModal(this.id)" alt="Last Dance" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Last Dance&lt;/td>
@@ -392,7 +392,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[14 258 221 294 225 261]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003484_hr1.tex?format=png" onclick="openModal(this.id)" alt="Finishing Move" />
+ &lt;img id="[96 210 229 291 389 150]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003484_hr1.tex?format=png" onclick="openModal(this.id)" alt="Finishing Move" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Finishing Move&lt;/td>
@@ -405,7 +405,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[42 471 143 156 65 216]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003485_hr1.tex?format=png" onclick="openModal(this.id)" alt="Dance of the Dawn" />
+ &lt;img id="[364 434 237 413 406 234]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003485_hr1.tex?format=png" onclick="openModal(this.id)" alt="Dance of the Dawn" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Damce of the Dawn&lt;/td>
@@ -434,7 +434,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[146 345 16 176 4 82]" src="https://xivapi.com/i/003000/003455_hr1.png" onclick="openModal(this.id)" alt="Emboite" />
+ &lt;img id="[11 153 311 79 244 138]" src="https://xivapi.com/i/003000/003455_hr1.png" onclick="openModal(this.id)" alt="Emboite" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Emboite&lt;/td>
@@ -447,7 +447,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[237 109 130 305 377 499]" src="https://xivapi.com/i/003000/003456_hr1.png" onclick="openModal(this.id)" alt="Entrechat" />
+ &lt;img id="[484 435 396 328 464 211]" src="https://xivapi.com/i/003000/003456_hr1.png" onclick="openModal(this.id)" alt="Entrechat" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Entrechat&lt;/td>
@@ -460,7 +460,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[155 369 317 19 284 288]" src="https://xivapi.com/i/003000/003457_hr1.png" onclick="openModal(this.id)" alt="Jete" />
+ &lt;img id="[254 40 30 13 484 397]" src="https://xivapi.com/i/003000/003457_hr1.png" onclick="openModal(this.id)" alt="Jete" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Jete&lt;/td>
@@ -473,7 +473,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[371 432 247 343 428 342]" src="https://xivapi.com/i/003000/003458_hr1.png" onclick="openModal(this.id)" alt="Pirouette" />
+ &lt;img id="[82 122 378 195 47 247]" src="https://xivapi.com/i/003000/003458_hr1.png" onclick="openModal(this.id)" alt="Pirouette" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Pirouette&lt;/td>
@@ -502,7 +502,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[389 308 391 183 262 48]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="Leg Graze" />
+ &lt;img id="[345 412 215 58 271 287]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="Leg Graze" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Graze&lt;/td>
@@ -515,7 +515,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[256 39 289 380 90 351]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" />
+ &lt;img id="[358 339 399 213 375 201]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -528,7 +528,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[246 331 320 448 424 159]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="Foot Graze" />
+ &lt;img id="[357 330 449 56 130 383]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="Foot Graze" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Foot Graze&lt;/td>
@@ -541,7 +541,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[259 364 391 210 376 452]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="Peloton" />
+ &lt;img id="[315 264 421 153 224 346]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="Peloton" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Peloton&lt;/td>
@@ -554,7 +554,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[143 121 357 147 344 159]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="Head Graze" />
+ &lt;img id="[7 328 125 94 389 343]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="Head Graze" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Head Graze&lt;/td>
@@ -567,7 +567,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[15 269 497 305 483 276]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" />
+ &lt;img id="[227 70 74 437 397 394]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -581,7 +581,7 @@
 &lt;/table></description></item><item><title>Dancer Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/openers/</link><pubDate>Mon, 05 Aug 2024 14:08:20 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/openers/</guid><description>&lt;h1 id="opener-infographic">OPENER INFOGRAPHIC&lt;/h1>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[101 221 20 10 181 230]" src="https://www.thebalanceffxiv.com/img/jobs/dnc/dt_dnc_opener_full.png" onclick="openModal(this.id)" alt="DNC Opener" title="DNC Opener" />
+ &lt;img id="[159 104 337 228 150 57]" src="https://www.thebalanceffxiv.com/img/jobs/dnc/dt_dnc_opener_full.png" onclick="openModal(this.id)" alt="DNC Opener" title="DNC Opener" />
 &lt;/div>
 &lt;/p>
 &lt;p>&lt;a href="https://imgur.com/a/sJjW3ve">Full Size&lt;/a>&lt;/p>
