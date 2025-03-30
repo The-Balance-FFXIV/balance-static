@@ -3,8 +3,8 @@ title: Dragoon Leveling Guide
 card_header_image: /img/jobs/drg/leveling.png
 authors:
   - Balance-DRG-Staff
-patch: "7.0"
-lastmod: 2024-07-29T16:30:54.685Z
+patch: "7.2"
+lastmod: 2025-03-30T10:51:36.939Z
 changelog:
   - date: 2021-10-29T02:48:36.195Z
     message: Created page
@@ -14,6 +14,8 @@ changelog:
     message: Updated patch - no changes
   - date: 2024-07-29T16:31:00.273Z
     message: Revisions for DT
+  - date: 2025-03-30T10:51:38.303Z
+    message: Bump to 7.2
 ---
 # Dragoon Leveling Guide
 
