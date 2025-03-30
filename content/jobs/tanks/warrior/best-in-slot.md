@@ -16,7 +16,7 @@ bis:
     link: https://xivgear.app/?page=sl%7C95d20a0f-8d69-4123-abb4-187a79ffe7d1&onlySetIndex=11&
   - type: gsheets
     name: Patch 7.2 WAR 2.40 GCD BIS
-    link: https://xivgear.app/?page=embed%7Csl%7C07fa6926-f316-41f3-b797-31bba232d267&onlySetIndex=13
+    link: https://xivgear.app/?page=embed%7Csl%7C07fa6926-f316-41f3-b797-31bba232d267&onlySetIndex=13&
     description: ""
   - type: gsheets
     name: Patch 7.2 All Prog and BIS sets
