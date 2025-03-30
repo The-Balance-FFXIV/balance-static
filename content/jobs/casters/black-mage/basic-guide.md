@@ -53,12 +53,11 @@ Black Mage is a caster specializing in high, steady personal damage in place of 
 ## **Job Gauge**
 
 1. Astral Fire/Umbral Ice stacks
-2. Duration of Astral Fire/Umbral Ice
-3. Umbral Hearts
-4. Polyglot stacks
-5. Polyglot timer
-6. Paradox marker
-7. Astral Soul Stacks
+2. Umbral Hearts
+3. Polyglot stacks
+4. Polyglot timer
+5. Paradox marker
+6. Astral Soul Stacks
 
 ![](/img/jobs/blm/standard-gauge-labels.png "Standard Gauge")
 
@@ -125,7 +124,7 @@ Additional notes:
 
 In the situation where you do not have a Firestarter proc from the previous Astral Fire phase when entering a new one, such as after the Standard opener, the **Paradox** should specifically be used at the start of Astral Fire:
 
-![](/img/jobs/blm/black-mage-aoe-rotation.png "Single Target Rotation")
+![AF1 Paradox Single Target Rotation](/img/jobs/blm/black-mage-af1-paradox-single-target-rotation.png "AF1 Paradox Single Target Rotation")
 
 When doing this, you are running on a sort of "Firestarter deficit", needing to continue to generate a new proc at the start of each Astral Fire phase until the following **Manafont** cycle where you can regain flexibility with **Paradox** usage once more.
 
@@ -163,8 +162,6 @@ In a situation where you are running low on filler spells or otherwise anticipat
 * Use **Triplecast** to make the **Flare** casts and **Flare Star** instant, avoiding needing an additional filler to **Transpose** afterwards
 * Consider using **Paradox** in Umbral Ice for a filler spell, particularly at lower mob counts/if there is a mob with higher HP in the encounter
 * Clipping **Transpose** after **Flare Star** is only a small clip and allows for conserving filler spells for Umbral Ice, which is needed to wait out the **Transpose** cooldown
-
-
 
 ## **2-Target Situations**
 
@@ -205,7 +202,7 @@ An additional consideration for **Swiftcast** or **Triplecast** is usage along w
 
 ## **Manafont**
 
-In Dawntrail, **Manafont** grants full MP and Umbral Hearts, refreshes your Astral Fire timer, and provides both a Thunderhead buff and a **Paradox** marker. Therefore, outside of the opener it should primarily be weaved at the tail end of an Astral Fire phase when it is available, in order to get full value of a second Astral Fire phase along with a second **Flare Star**.
+In Dawntrail, **Manafont** grants full MP and Umbral Hearts, and provides both a Thunderhead buff and a **Paradox** marker. Therefore, outside of the opener it should primarily be weaved at the tail end of an Astral Fire phase when it is available, in order to get full value of a second Astral Fire phase along with a second **Flare Star**.
 
 Due to the specific placement in the rotation, **Manafont** will rarely line up to be used strictly on cooldown, often incurring some (often significant) delay in usage. Since it is not a burst cooldown and does not have notable value in lining it up with raid buffs, this drift by itself is often not a large issue. However, if the collective drift over the course of a fight results in missing out on an entire usage, it may be worthwhile to look into options for shifting alignment to be able to get maximum uses out of **Manafont**.
 
@@ -242,7 +239,7 @@ Depending on the length and type of downtime, there are a few options to conside
 
 ### Continuing across/after downtime:
 
-1. With the removal of Astral Fire and Umbral Ice timer, for short downtime you will often just be able to resume your rotation where you left off, even in Astral Fire. Aim to end on an instant-cast before the downtime, but otherwise you will often be able to continue without extra effort.
+1. With the removal of Astral Fire and Umbral Ice timers, for short downtime you will often just be able to resume your rotation where you left off, even in Astral Fire. Aim to end on an instant-cast before the downtime, but otherwise you will often be able to continue without extra effort.
 2. For moderate length downtimes, you will often be able to use **Umbral Soul** to get back to full MP with three Umbral Hearts. Even if you are in the middle of an Astral Fire cycle, getting back to full MP and three Umbral Hearts without having to cast **Blizzard III** and **Blizzard IV** is very high value. Consider trying to rush a **Flare Star** and otherwise dump your MP before downtime (potentially by using **Flare**) to make the most use of it.
 3. For slightly longer downtime situations, in some cases you may have used Umbral Ice Paradox and/or not have a Thunderhead proc to use next uptime. With the extra time, after getting to Umbral Ice III with three Umbral Hearts via **Umbral Soul**, consider using **Transpose** to head back into Astral Fire to generate **Paradox**, then **Transpose** back into Umbral Ice, using **Umbral Soul** to build back up to Umbral Ice III with three Umbral Hearts before you have uptime again.
 
