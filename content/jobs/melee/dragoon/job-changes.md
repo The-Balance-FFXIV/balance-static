@@ -1,7 +1,7 @@
 ---
 title: Dragoon Changes
 layout: changes
-lastmod: 2024-12-09T10:36:41.707Z
+lastmod: 2025-03-30T10:21:03.052Z
 changes:
   - patch: "6.05"
     description: |-
@@ -81,6 +81,15 @@ changes:
       * Nastrond is only useable once per Life window now.
       * Elusive Jump now grants Enhanced Piercing Talon, increasing its potency.
       * Starcross range massively increased.
+  - patch: "7.2"
+    description: |-
+      20 potency buff for:
+
+      * Stardiver
+      * Heavens' Thrust
+      * Drakesbane
+
+      No rotational changes.
 authors:
   - Balance-DRG-Staff
 tags:
