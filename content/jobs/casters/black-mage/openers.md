@@ -2,8 +2,8 @@
 title: Black Mage Openers
 authors:
   - Balance-BLM-Staff
-patch: "7.15"
-lastmod: 2024-12-21T04:08:01.582Z
+patch: "7.2"
+lastmod: 2025-03-30T20:22:12.846Z
 changelog:
   - date: 2021-11-15T02:42:11.541Z
     message: Article Created.
@@ -20,16 +20,33 @@ changelog:
 
 Openers should put abilities on cooldown, fit strong spells within buff windows, and minimize clipping. All openers assume there is a pull countdown and the boss is pulled at zero. If your group pulls earlier, adjust them as necessary. Use the highest tier Potion of Intelligence available.
 
-## **Fire III Opener**
+## **Standard 5+7 Opener**
 
-![](/img/jobs/blm/7.1-black-mage-fire-iii-opener.png)
+![Standard 5+7 Opener](/img/jobs/blm/standard-5-7-opener.png "Standard 5+7 Opener")
 
-<br>The standard opener for BLM. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving Ley Lines with the INT pot usage in the opener.
+<br>The standard opener for BLM. This opener skips a **Despair** cast pre-**Manafont** as well as a **Paradox** cast post-**Manafont** in order to cast 12 total **Fire IV** casts (5 before and 7 after **Manafont,** thus the name "5+7"), enabling two uses of **Flare Star**.
 
-The initial Fire III cast should start around 4 seconds prepull (to land at the same time the boss is pulled). The second Fire IV is hardcasted with the expectation of raid buffs landing just before the cast goes off.
+The initial **Fire III** cast should start around 4 seconds prepull (to land at the same time the boss is pulled). **High Thunder** should be refreshed just before raid buffs are falling off, which may shift depending on spell speed and party buff timing.
 
 Additional notes:
 
-* Despite missing out on a second Flare Star usage by starting in Astral Fire, it is still generally a gain to do so rather than have to cast relatively weak Blizzard IV then Fire III in Umbral Ice III. Having a slower start with an Umbral Ice opener will likely also result in pushing some stronger spells out of buffs.
-* Using Flare for the extra Astral Soul stacks to enable an additional Flare Star in the opener before the Manafont is not worthwhile. Even if the Flare is instant-cast, it is too weak of a spell to justify using it for single-target to use over Despair, particularly when considering the lost potency from Flare is during raid buffs and the extra Flare Star usage occurs after buffs expire.
 * The second charge of **Ley Lines** can be flexibly used at any point after the opener, with the goal of using it during a window where its full duration can be used.
+* **Triplecast** and **Swiftcast** usage is fairly flexible as needed in the opener for movement, but should still ideally be weaved after an instant-cast spell. At very low spell speeds, **Swiftcast** will come off cooldown to be available for the Umbral Ice I **Blizzard III** usage as pictured.
+* This opener does not generate a Firestarter proc due to skipping the **Paradox** in Astral Fire. As a result, in order to consistently generate the proc for stronger reentry into Astral Fire III you should continue to use **Paradox** as your first spell in Astral Fire until at least the next **Manafont** cycle.
+
+## **Alternative Single-Target Flare Opener**
+
+![](/img/jobs/blm/alternative-st-flare-opener.png)
+
+<br>This alternative opener leverages **Flare** to generate sufficient Astral Soul stacks for a second **Flare Star** in the opener. The initial **Fire III** cast should start around 4 seconds prepull (to land at the same time the boss is pulled). **High Thunder** should be refreshed just before raid buffs are falling off, which may shift depending on spell speed and party buff timing.\
+\
+While a minor loss compared to the Standard opener, this opener allows for casting **Paradox** post-**Manafont**. This generates a Firestarter proc for use in the following Astral Fire cycle, allowing for more flexible **Paradox** usage in subsequent cycles compared to the Standard opener.
+
+If you were to use the Standard opener and would want or otherwise need to regain this flexibility by casting **Fire III** from Umbral Ice III instead of the recommended **Astral Fire I** -> **Paradox** -> **Firestarter**, you will lose less from swapping to this Alternative Opener to begin with.
+
+Additional notes:
+
+* The second charge of **Ley Lines** can be flexibly used at any point after the opener, with the goal of using it during a window where its full duration can be used.
+* **Triplecast** and **Swiftcast** usage is fairly flexible as needed in the opener for movement, but should still ideally be weaved after an instant-cast spell.
+* The placement of **Xenoglossy** is flexible in the opener but should ideally be used within the raid buff window.
+* This opener can sometimes be referred to as "Potato Rotato" as homage to an old Stormblood BLM optimization nicknamed "Potato Rotato", similarly leveraging **Triplecast** for single-target **Flare** and Umbral Ice I **Blizzard III**.
