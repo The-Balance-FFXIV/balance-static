@@ -3,8 +3,8 @@ title: Dragoon Basic Guide
 card_header_image: /img/jobs/drg/basic.png
 authors:
   - Balance-DRG-Staff
-patch: "7.1"
-lastmod: 2024-12-09T10:28:56.599Z
+patch: "7.2"
+lastmod: 2025-03-30T10:51:04.763Z
 changelog:
   - date: 2021-10-29T02:49:11.086Z
     message: Created page
@@ -24,6 +24,8 @@ changelog:
     message: Revisions for DT
   - date: 2024-12-09T10:28:58.173Z
     message: Revision with 7.1 changes
+  - date: 2025-03-30T10:51:06.547Z
+    message: Bump to 7.2
 ---
 # [/jobs/melee/dragoon/opener/](/jobs/melee/dragoon/opener/)Saving The Dragoon
 
