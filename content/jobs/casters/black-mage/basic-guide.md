@@ -78,7 +78,7 @@ In either stance, keeping the **High Thunder** DoT up is important, as well as u
 
 ## **Standard 5+7 Opener**
 
-![](/img/jobs/blm/7.1-black-mage-fire-iii-opener.png)
+![](/img/jobs/blm/standard-5-7-opener.png)
 
 <br>The standard opener for BLM. This opener skips a **Despair** cast pre-**Manafont** as well as a **Paradox** cast post-**Manafont** in order to cast 12 total **Fire IV** casts (5 before and 7 after **Manafont,** thus the name "5+7"), enabling two uses of **Flare Star**.
 
@@ -104,6 +104,7 @@ Additional notes:
 
 * The second charge of **Ley Lines** can be flexibly used at any point after the opener, with the goal of using it during a window where its full duration can be used.
 * **Triplecast** and **Swiftcast** usage is fairly flexible as needed in the opener for movement, but should still ideally be weaved after an instant-cast spell.
+* The placement of **Xenoglossy** is flexible in the opener but should ideally be used within the raid buff window.
 * This opener can sometimes be referred to as "Potato Rotato" as homage to an old Stormblood BLM optimization nicknamed "Potato Rotato", similarly leveraging **Triplecast** for single-target **Flare** and Umbral Ice I **Blizzard III**.
 
 # **Single Target Rotation**
