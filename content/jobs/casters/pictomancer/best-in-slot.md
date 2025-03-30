@@ -1,9 +1,11 @@
 ---
 title: Pictomancer Best in Slot
 layout: bis
-patch: "7.1"
-lastmod: 2024-08-02T04:18:28.881Z
+patch: "7.2"
+lastmod: 2025-03-30T03:24:29.844Z
 changelog:
+  - date: 2025-03-30T03:24:32.876Z
+    message: Updated with patch 7.2 sets.
   - date: 2024-07-01T01:13:03.564Z
     message: Added pre-savage level 100 set
   - date: 2024-06-23T02:22:20.509Z
@@ -12,20 +14,21 @@ changelog:
     message: Updated with 7.05 BiS sets.
 bis:
   - type: etro
-    name: 7.05 PCT BiS - 2.5 GCD
-    link: e3b9abdf-6c16-4ce0-9f9f-7ed845d4d565
-    description: Absolute highest simming set, but very tight to get rainbow drip in
-      set and plays less nice with RDM/SMN.
+    name: 7.2 PCT BiS - 2.5 GCD
+    link: 03b1e1f7-6154-4504-8fbe-d7afe27989c0
+    description: Absolute highest simming set, but very tight to get rainbow drip in buffs.
   - type: etro
-    name: 7.05 PCT BiS - 2.48 GCD
-    link: ea75fe22-0f82-4b94-a974-0b825294b746
-    description: Slightly lower damage, but if you intend on swapping between PCT
-      and either RDM or SMN (or if you have issues fitting the last RD into
-      buffs on 2.5), this is worth consideration, as RDM and SMN don't want 2.5
-      GCD.
+    name: 7.2 PCT BiS - 2.49 GCD
+    link: 9a90d965-7b30-483d-b3c5-c167a2c04d95
+  - type: etro
+    name: 7.2 PCT BiS - 2.48 GCD
+    link: 77c9fb3b-ce22-4a8b-8e65-0a8a0a1dc392
+    description: Slightly lower damage, but if you have issues fitting the last RD
+      into buffs on 2.5, this is worth consideration, as RDM and SMN don't want
+      2.5 GCD.
   - type: etro
     name: Pentamelded Pre-Savage BiS
-    link: fbc176a9-e0f4-4224-8f77-d08b5f71a33e
+    link: b872a2e8-2427-4463-9deb-1eda52e7dd48
     description: Ideal set to enter savage with.
   - type: etro
     name: 2.5 GCD TOP BiS
