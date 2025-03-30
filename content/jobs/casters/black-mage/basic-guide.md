@@ -4,8 +4,8 @@ card_header_image: /img/jobs/blm/basic.png
 authors:
   - Balance-BLM-Staff
   - rika-vanih
-patch: "7.15"
-lastmod: 2024-12-21T04:01:23.607Z
+patch: "7.2"
+lastmod: 2025-03-30T19:57:09.964Z
 changelog:
   - date: 2021-10-26T01:47:44.292Z
     message: Added page
@@ -19,6 +19,8 @@ changelog:
     message: Updated for 7.05
   - date: 2024-12-21T04:01:29.135Z
     message: Updated for 7.15
+  - date: 2025-03-30T19:57:13.366Z
+    message: 7.2 Updates
 ---
 # **7.x Black Mage Guide**
 
