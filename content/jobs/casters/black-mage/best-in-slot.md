@@ -49,8 +49,24 @@ bis:
   - type: genericiframe
     name: Prog, Pentamelded Crafted with Tome Chest and EX Weapon
     link: https://xivgear.app/?page=embed%7Csl%7Cb0e978a2-93d2-4ed7-a6a2-e007d04889fd&onlySetIndex=0
-  - type: etro
+  - type: genericlink
     name: Prog, Pentamelded Crafted with Tome Pants and EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7Ce5f06855-7826-456c-911c-3ba7a14f5443&onlySetIndex=0
+  - type: genericiframe
+    name: Prog, Ornate Crafted with Tome Pants and EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C22c7fb83-1d90-41f8-ab77-491731c728e1&onlySetIndex=0
+  - type: genericiframe
+    name: Prog, Pentamelded Crafted with Tome Hands & Neck and EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C03ce07df-7356-4e18-8722-35d5c6d99a54&onlySetIndex=0
+  - type: genericiframe
+    name: Prog, Budget Crafted with Tome Chest and EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C8282a91f-1435-4b32-abf9-713cf5ae08c2&onlySetIndex=0
+  - type: genericiframe
+    name: Prog, Budget Crafted with Tome Legs and EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C761b2f98-283c-4718-ae1a-5826611e8921&onlySetIndex=0
+  - type: genericiframe
+    name: Prog, Budget Crafted with EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7Cb6b05def-4e7f-436a-9283-a70fb697702e&onlySetIndex=0
   - type: gsheets
     description: Gear Sheet for comparing various gearsets/meld options.
     name: Gear Sheet
