@@ -33,7 +33,7 @@ changelog:
 bis:
   - type: etro
     name: 7.2 2.49 Savage BiS
-    link: 780e0c03-e5a1-48ae-9acd-a314b82f63dc
+    link: 03aae80d-81f9-42e3-b05f-02304e7e5968
     description: >-
       This is the recommended BiS set for most players. It uses a 2.49 GCD
       instead of 2.50 to minimize Arcane Circle misalignment and drift, equating
@@ -43,7 +43,7 @@ bis:
       Use this set unless you play capped on a **stable** 60 FPS.
 
 
-      Unfortunately due to needing slightly different stats, this set is not meld compatible with DRG, and will incur a sizeable loss on DRG without several remelds. Use the DRG Parity set if you intend to also play DRG.
+      This set requires one Skill Speed to Direct Hit remeld to play DRG.
   - type: etro
     name: 7.2 60 FPS Capped 2.48 BiS
     link: c3d1be67-8202-4e18-97bb-7a5993215c79
@@ -58,15 +58,12 @@ bis:
 
 
       Players who are on console should favor this set as console is capped at 60 FPS.
-  - type: etro
-    link: 45947fb9-dba8-4a47-8dec-74e760c6bf89
-    name: 7.2 2.49 BiS (DRG Parity)
-    description: This set takes a small loss of ~10 simulated DPS in order to use
-      the same melds as DRG, except for one skill speed meld. Swap this Skill
-      Speed meld for direct hit to play DRG.
-  - type: xivgearset
+
+
+      This set requires 2 Skill Speed to Direct Hit remelds to play DRG.
+  - type: genericiframe
     name: Savage Prog Recommended Set 450 Tomes Option
-    link: https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=2
+    link: https://xivgear.app/?page=embed%7Csl%7Cdfe23d32-0881-46c7-b019-fb7f9556635a&onlySetIndex=1
     description: >-
       The best option for week 1 savage prog if you are only going to have one
       week of tomes before entering. There is no need to use pentamelds if you
@@ -74,14 +71,9 @@ bis:
 
 
       Replace pieces with higher item level pieces as you get them.
-  - type: xivgearset
+  - type: genericiframe
     name: Savage Prog Recommended Set 900 Tomes Option
-    link: https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=0
-      https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=1
-      https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=2
-      https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=3
-      https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=4
-      https://xivgear.app/?page=embed%7Csl%7C1a911d71-f2bf-4dab-a38e-2cf957257bcc&onlySetIndex=5
+    link: https://xivgear.app/?page=embed%7Csl%7Cdfe23d32-0881-46c7-b019-fb7f9556635a&onlySetIndex=2
     description: >-
       The best option for week 1 savage prog if you are going to have enough
       tomes for two accessories before entering. There is no need to use
@@ -89,6 +81,16 @@ bis:
 
 
       Replace pieces with higher item level pieces as you get them.
+  - type: genericiframe
+    name: Savage Prog Budget Option
+    link: https://xivgear.app/?page=embed%7Csl%7Cdfe23d32-0881-46c7-b019-fb7f9556635a&onlySetIndex=9
+    description: >-
+      This set is only for players who wish to spend as little as possible. It
+      is strongly recommended that you do not use this set if going for a week 1
+      kill. 
+
+
+      Replace more crafted pieces with normal raid pieces that do not have skill speed to reduce the cost further. Meld skill speed to maintain a 2.49 GCD, but do not go faster than this ideally.
   - type: etro
     name: 7.05+ Dragonsong's Reprise (Ultimate) BiS (Mixed 730 + 600/605 Gear)
     link: 2f655c79-6db1-4e5b-90f7-41e130bed30a
