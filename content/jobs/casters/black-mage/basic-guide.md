@@ -145,17 +145,30 @@ A few important notes:
 
 **Xenoglossy** is a powerful instant-cast spell that can be leveraged for movement or weaving as needed, in Astral Fire and/or Umbral Ice. With the ability to hold a third polyglot stack, it is now even easier to be more flexible with uses, with the potential to save stacks to use with raid buffs. This can be generally good practice, but movement considerations take priority.
 
-# **AoE Rotation (2+ targets)**
+# **AoE Rotation (3+ targets)**
 
 ## **Rotation Overview**
 
 ![](/img/jobs/blm/black-mage-aoe-rotation.png "AoE Rotation")
 
-<br>The AoE rotation has a fairly straightforward flow—**High Blizzard II** to enter Umbral Ice III and **Freeze** for 3 Umbral Hearts as well as refilling MP, then **High Fire II** to enter Astral Fire III. Due to the lowered potency compared to Endwalker, it is no longer worthwhile to use **High Fire II** any additional times, and instead use **Flare** twice followed by **Flare Star**.
+<br>As adjustments to other elements of the job continue to lower the value of **High Fire II** and especially **High Blizzard II**, it is especially recommended to aim to skip these with **Transpose** whenever possible.
+
+The **Freeze** cast in Umbral Ice I grants sufficient MP to use both **Flare** casts in the following Astral Fire. The filler spells (**Foul**/**High Thunder II**) are used to weave **Transpose**. Prioritize using **High Thunder II** for filler only when the DoT timer is lower to get the most value out of the DoT.
+
+In a situation where you are running low on filler spells or otherwise anticipate a much longer time spent doing AoE, consider the following options to maintain skipping **High Fire II**/**High Blizzard II**:
+
+* Use **Triplecast** to make the **Flare** casts and **Flare Star** instant, avoiding needing an additional filler to **Transpose** afterwards
+*
+
+
+
+
+
+ The AoE rotation has a fairly straightforward flow—**High Blizzard II** to enter Umbral Ice III and **Freeze** for 3 Umbral Hearts as well as refilling MP, then **High Fire II** to enter Astral Fire III. Due to the lowered potency compared to Endwalker, it is no longer worthwhile to use **High Fire II** any additional times, and instead use **Flare** twice followed by **Flare Star**.
 
 **Foul** can be used for movement, weaving oGCDs, or just generally as a strong AoE spell. **High Thunder II** should generally be refreshed when the DoT timer is low on the targets (less than 3s remaining), unless the mobs are going to die soon.
 
-**Manafont** can be used for an additional two **Flare** casts followed by another **Flare Star**. Using any ether that grants at least 800 MP can be used for an additional **Flare** in dungeons and can still be worthwhile even though it will not enable an additional **Flare Star** by itself. Leveraging **Swiftcast**/**Triplecast** to make **Flare** and/or **Flare Star** casts instant is very valuable due to their long base cast time.
+**Manafont** can be used for an additional two **Flare** casts followed by another **Flare Star**. Using any ether that grants at least 800 MP can be used for an additional **Flare** in dungeons and can still be worthwhile even though it will not enable an additional **Flare Star** by itself.
 
 ## **Transpose Optimization**
 
