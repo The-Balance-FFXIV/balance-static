@@ -1,51 +1,41 @@
 ---
 title: Viper Best in Slot
 layout: bis
-patch: "7.1"
-lastmod: 2025-03-22T19:39:25.646Z
-changelog: []
+patch: "7.2"
+lastmod: 2025-03-30T18:17:51.591Z
+changelog:
+  - date: 2025-03-30T18:17:38.405Z
+    message: Updated for 7.2
 bis:
   - type: xivgearset
-    name: VPR FRU Weapon BiS - 2.10 GCD
-    link: 74402165-f185-49f3-9618-c44213b2264f
-  - type: xivgearset
-    name: VPR FRU Weapon BiS (no CAR gear) - 2.10 GCD
-    link: cad55a51-6dbf-4a50-a65a-810a6917d177
-  - type: etro
-    link: 0efec098-f264-4790-a8ad-a8eb23a77afb
-    name: Savage BiS - 2.10 GCD
+    name: 7.2 Savage BiS
+    link: c234338b-8c0b-4b44-b9bd-a836766a0dda
     description: >-
-      Also BiS for FRU if you do not have the FRU weapon yet.\
+      Click
+      [here](https://xivgear.app/?page=sl%7Cac0e2f00-5876-4847-b48d-10fea240f073)
+      for sets with either 2.11 or 2.10 GCD speeds.\
 
       \
 
-      Compatibility with this set is limited.
+      **Q.** ***What GCD speed should I choose?***\
 
-      One remeld necessary on accessories, multiple on left side pieces and weapon.
-
-
-      The dps these sets offer is virtually identical. Pick the one you like the most.
-
-
-      2.10 has the advantage of allowing the free Reawaken before 6m. Check the intermediate guide for a detailed explanation on this.
-  - type: etro
-    name: Savage BiS - 2.12 GCD
-    link: 65fca9ef-2bea-48cd-b2d0-fe5473482f72
-    description: >-
-      This set is 100% compatible with NIN and Physical Ranged jobs.
-
-
-      The dps these sets offer is virtually identical. Pick the one you like the most.
-  - type: etro
-    name: Savage BiS - 2.11 GCD
-    link: 0940d164-d9ce-42fc-9926-c07bec5c4802
-    description: >-
-      This set is 100% compatible with NIN and Physical Ranged jobs. 2.11 GCD
-      follows the same rotation rules as 2.12 GCD, which is outlined in the
-      Basic and Intermediate Guides.
-
-
-      The dps these sets offer is virtually identical. Pick the one you like the most.
+      **A.** We recommend running 2.12 until we can determine if certain GCD speeds are better for different encounters. We cannot know this until the savage fights release and we have timelines for each fight.
+  - type: xivgearset
+    name: 7.2 Savage Prog Set (Pentamelded)
+    link: fdd88944-09d8-4341-8305-81d17317069c
+    description: Click
+      [here](https://xivgear.app/?page=sl%7C3dac5bd1-80bf-45e9-9726-0e65722a5677)
+      for more prog set options.
+  - type: xivgearset
+    name: 7.2 Savage Prog Set (Budget)
+    link: f0e74ffa-277e-42ab-806a-7455ae4f3416
+    description: Click
+      [here](https://xivgear.app/?page=sl%7C3dac5bd1-80bf-45e9-9726-0e65722a5677)
+      for more prog set options.
+  - type: xivgearset
+    name: VPR FRU Weapon BiS - 2.10 GCD
+    link: 9bea2d32-8c72-4eed-9b01-acace7bbc23f
+    description: Updated for 7.2
   - type: xivgearset
     link: 56ae8077-eb7b-4b5d-a310-95cbd584f2a0
     name: Viper TOP BiS
