@@ -43,6 +43,10 @@ bis:
       Compatibility with Reaper:
       99% compatible - unavoidable meld change in one ring to get their 2.49
   - type: etro
+    name: FRU Weapon BiS
+    link: https://etro.gg/gearset/72272317-821d-42ec-a1ea-70e7ecf4408f
+    description: "Changes from Savage BiS: Swap one DET for DHIT on Legs"
+  - type: etro
     description: Syncing gear is currently not a viable option for this fight due to
       the massive loss of substats from materia. The relic weapon is an
       exception.
@@ -62,27 +66,23 @@ bis:
     description: Gear pieces with equal stats can be used instead of the listed i600
       pieces as long as they are above i595.
     name: TEA BiS
-    link: 9216be5c-217f-4841-9c39-e250652db390
+    link: aca7d6c3-71db-4586-b1e5-d517e0b5706f
   - type: etro
     description: >-
       !!Example set!! You have many options for each gear slot. Synced gear has
-      to be at least i500. Please refer to etro or ariyala for other options.
+      to be at least i500. Please refer to etro or xivgear for other options.
 
       Materia does not matter in synced gear.
     name: UWU BiS
-    link: da1ae77a-3ff7-4c5e-8451-133205b63c29
+    link: ce9e422b-df7b-4147-93a5-ca35da2e510d
   - type: etro
     description: >-
       !!Example set!! You have many options for each gear slot. Synced gear has
-      to be at least i470. Please refer to etro or ariyala for other options.
+      to be at least i470. Please refer to etro or xivgear for other options.
 
       Materia does not matter in synced gear.
     name: UCoB BiS
-    link: 9d1e65ae-5adc-423b-9367-91ffccf5a37a
-  - type: etro
-    name: FRU Weapon BiS
-    link: https://etro.gg/gearset/72272317-821d-42ec-a1ea-70e7ecf4408f
-    description: "Changes from Savage BiS: Swap one DET for DHIT on Legs"
+    link: 8054bcc7-c8c2-4915-9394-41583d763247
 authors:
   - Balance-DRG-Staff
 tags:
