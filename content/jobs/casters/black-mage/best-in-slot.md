@@ -44,38 +44,13 @@ bis:
     link: https://xivgear.app/?page=sl%7C1b0a12b5-b9b4-409d-83b4-a790f2f27f67
     description: Hosts alternative BiS sets at various other GCDs.
   - type: genericiframe
-    name: 2.24 High SpS BiS with Chaotic Gear
-    link: https://xivgear.app/?page=embed%7Csl%7C9d0af842-0438-4882-94b3-fdad99c55327&onlySetIndex=2
-  - type: genericlink
-    name: Alternative Sets with Chaotic Gear
-    description: Hosts alternative sets at various other GCDs, including some sets
-      avoiding tomestone gear on the left side.
-    link: https://xivgear.app/?page=sl%7Ca48e68d7-5ae5-47cb-909f-b38858023aaa
+    name: Prog, Pentamelded Crafted with EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C2abbc24f-b704-41ff-8f73-fc3c61c9ece3&onlySetIndex=0
   - type: genericiframe
-    name: 2.42 Omnicaster Compatible BiS
-    link: https://xivgear.app/?page=embed%7Csl%7C12a9111e-6f66-47db-9abf-a41ecf5dc283&onlySetIndex=0
-    description: >-
-      By swapping the gloves for appropriately melded tome gloves, this set can
-      share gear with the PCT/RDM BiS sets as well as SMN omni-caster BiS sets.
-
-
-      Has speed melds on weapon to facilitate this compatibility with other caster sets.
-  - type: genericiframe
-    name: 2.36 High Crit BiS
-    link: https://xivgear.app/?page=embed%7Csl%7C12a9111e-6f66-47db-9abf-a41ecf5dc283&onlySetIndex=2
-  - type: genericiframe
-    name: 2.24 High SpS BiS
-    link: https://xivgear.app/?page=embed%7Csl%7C12a9111e-6f66-47db-9abf-a41ecf5dc283&onlySetIndex=3
-  - type: xivgearset
-    name: Alternative Sets without Chaotic Gear or FRU Weapon
-    link: https://xivgear.app/?page=sl%7Cca314375-63f1-48c2-a579-f6c617c54637
-    description: >-
-      Hosts alternative sets at various other GCDs.
-
-
-
-
-      Overall, choose your set based on your preferred speed, compatibility with other casters, or whatever else. The damage difference between sets is fairly minimal, particularly between sets using the Chaotic gear vs tome/raid gear.
+    name: Prog, Pentamelded Crafted with Tome Chest and EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7Cb0e978a2-93d2-4ed7-a6a2-e007d04889fd&onlySetIndex=0
+  - type: etro
+    name: Prog, Pentamelded Crafted with Tome Pants and EX Weapon
   - type: gsheets
     description: Gear Sheet for comparing various gearsets/meld options.
     name: Gear Sheet
