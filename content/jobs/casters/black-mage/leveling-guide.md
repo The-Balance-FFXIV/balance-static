@@ -4,8 +4,8 @@ card_header_image: /img/jobs/blm/leveling.png
 authors:
   - Fürst-Blumier
   - rika-vanih
-patch: "7.01"
-lastmod: 2024-07-22T01:08:46.127Z
+patch: "7.2"
+lastmod: 2025-03-30T20:07:15.083Z
 changelog:
   - date: 2022-01-29T17:49:36.231Z
     message: 6.0 Update
@@ -15,6 +15,8 @@ changelog:
     message: 6.4 Update, Mild Style Edits
   - date: 2024-07-22T01:08:50.721Z
     message: Patch 7.0 and 7.01 Update
+  - date: 2025-03-30T20:07:16.689Z
+    message: Initial updates for 7.2
 ---
 # Single Target Leveling Rotation
 
@@ -36,39 +38,35 @@ Umbral Soul should be used during downtime when you do not have a target to get 
 
 ## Levels 60-71
 
-At level 60, Fire IV becomes the main MP spender in Astral Fire, but does not refresh the Astral Firer timer. As a result, in the middle of Fire IV spam a Fire cast is necessary to refresh the timer.
+At level 60, Fire IV becomes the main MP spender in Astral Fire.
 
-**Blizzard III > Blizzard IV -> Fire III -> Fire IV x3 -> Fire -> Fire IV x3 > repeat**
+**Blizzard III > Blizzard IV -> Fire III -> Fire IV x6 > repeat**
 
-At 70-79, use Foul whenever. It does not have a set place in the rotation, is not affected by Astral Fire/Umbral Ice, and can often just be used in Umbral Ice so it does not make the Astral Fire timer tighter, but should be used/not let overcap as it is a strong spell.
-
-If the Fire cast results in a Firestarter proc, it should be used in Astral Fire primarily for movement/weaving/refreshing the Astral Firer timer, but should be used even if not necessary for any of these.
+At 70-79, use Foul whenever. It does not have a set place in the rotation, is not affected by Astral Fire/Umbral Ice, and should be used/not let overcap as it is a strong spell.
 
 ## Levels 72-89
 
-**Blizzard III > Blizzard IV > Fire III > Fire IV x3 > Fire > Fire IV x3 > Despair > repeat**
+**Blizzard III > Blizzard IV > Fire III > Fire IV x6 > Despair > repeat**
 
 Foul should be used similarly as before, replaced by Xenoglossy in single-target at level 80+. Xenoglossy provides additional utility since it is instant-cast and can also be used for movement/weaving as needed, as well as improved single-target damage over Foul.
 
-If the Fire cast results in a Firestarter proc, it should be used in Astral Fire primarily for movement/weaving/refreshing the Astral Firer timer, but should be used even if not necessary for any of these. At 80+, consider saving the Firestarter proc through Umbral Ice, using Xenoglossy to weave a Transpose back to Astral Fire, then using the proc for a stronger reentry into your Astral Fire phase.
-
 ## Level 90-99
 
-**Blizzard III > Blizzard IV -> Paradox -> Fire III > Fire IV x4 > Paradox > Fire IV x2 > Despair > repeat**
+**Blizzard III > Blizzard IV -> Paradox -> Fire III > Fire IV x3 > Paradox > Fire IV x3 > Despair > repeat**
 
 Paradox automatically replaces Fire and Blizzard on your hotbars when entering Astral Fire from Umbral Ice III with three Umbral hearts, as well as entering Umbral Ice from Astral Fire III which will happen naturally with the rotation. Note that if opening a fight with Blizzard III, the initial listed Paradox in Umbral Ice will not be available.
 
-Since Paradox is instant-cast, it is recommended to use four Fire IV casts before the Paradox in Astral Fire to allow for maximum leeway on the Astral Fire timer.
+The exact placement of Paradox in Astral Fire is flexible and can be shifted as needed for movement/weaving considerations.
 
 Your Firestarter proc should be used in Astral Fire primarily for movement/weaving/refreshing the Astral Firer timer, but should be used even if not necessary for any of these. Consider saving the Firestarter proc through Umbral Ice, using Paradox to weave a Transpose back to Astral Fire, then using the proc for a stronger reentry into your Astral Fire phase.
 
 ## Level 100
 
-**Blizzard III > Blizzard IV -> Paradox -> Fire III > Fire IV x4 > Paradox > Fire IV x2 > Despair > Flare Star > repeat**
+**Blizzard III > Blizzard IV -> Paradox -> Fire III > Fire IV x3 > Paradox > Fire IV x3 >Flare Star > Despair > repeat**
 
-Upon execution of all six Fire IV casts in a single Astral Fire phase, the Astral Gauge fills up and allows for the use of Flare Star. Since Flare Star does not cost any MP, does not refresh the Astral Fire timer, and Astral Soul stacks are lost upon exiting Astral Fire, it is recommended to cast Flare Star after the Despair.\
-\
-Note that if opening a fight with Blizzard III, the initial listed Paradox in Umbral Ice will not be available.
+Upon execution of all six Fire IV casts in a single Astral Fire phase, the Astral Gauge fills up and allows for the use of Flare Star. Note that if opening a fight with Blizzard III, the initial listed Paradox in Umbral Ice will not be available.
+
+The exact placement of Paradox in Astral Fire is flexible and can be shifted as needed for movement/weaving considerations. Similarly, Flare Star and Despair can be swapped as needed for movement/weaving considerations as well.
 
 Your Firestarter proc should be used in Astral Fire primarily for movement/weaving/refreshing the Astral Firer timer, but should be used even if not necessary for any of these. Consider saving the Firestarter proc through Umbral Ice, using Paradox to weave a Transpose back to Astral Fire, then using the proc for a stronger reentry into your Astral Fire phase.
 
