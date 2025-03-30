@@ -1,7 +1,7 @@
 ---
 layout: qna
-patch: "7.0"
-lastmod: 2024-07-28T11:18:50.814Z
+patch: "7.2"
+lastmod: 2025-03-30T10:37:28.553Z
 qna:
   - question: How much skill speed is required to play Dragoon?
     answer: Due to the amount of our damage that is tied to oGCDs with cooldowns
@@ -51,7 +51,21 @@ qna:
 
       The priority of which weaponskills should be buffed by Life Surge is as follows:
 
-      ![LS Usage](https://i.imgur.com/NvbaW0M.png)
+
+      1. Heavens' Thrust / Drakesbane under any of ourh personal buffs.
+
+      2. Lance Barrage / Chaotic Spring / Fang and Claw / Wheeling Thrust under **all three of our personal buffs**
+
+      3. Heavens' Thrust / Drakesbane outside of buffs.
+  - question: How do I deal with the movement lock on High Jump?
+    answer: >-
+      Upon using High Jump your character will be stopped in place for a short
+      amount of time. The movement lock on High Jump can be entirely nullified
+      by making your character jump with the spacebar or other control methods
+      slightly before using the jump.
+
+
+      This does not work on other jumps as they actually move your character.
 authors:
   - Balance-DRG-Staff
 changelog:
