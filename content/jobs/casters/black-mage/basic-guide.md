@@ -92,7 +92,7 @@ Additional notes:
 
 ## **Alternative Single-Target Flare Opener**
 
-![](/img/jobs/blm/7.1-black-mage-fire-iii-opener.png)
+![](/img/jobs/blm/alternative-st-flare-opener.png)
 
 <br>This alternative opener leverages **Flare** to generate sufficient Astral Soul stacks for a second **Flare Star** in the opener. The initial **Fire III** cast should start around 4 seconds prepull (to land at the same time the boss is pulled). **High Thunder** should be refreshed just before raid buffs are falling off, which may shift depending on spell speed and party buff timing.\
 \
@@ -111,21 +111,21 @@ Additional notes:
 
 ## **Rotation Overview**
 
-![](/img/jobs/blm/7.1-black-mage-single-target-rotation.png "Single Target Rotation")
+![](/img/jobs/blm/black-mage-single-target-rotation.png "Single Target Rotation")
 
-<br>The standard format for the single target rotation loop is as above. We have some measure of flexibility with reordering these spells, especially due to the removal of Astral Fire/Umbral Ice timers in Patch 7.2, but overall in some order plan to do the following each loop:
+<br>The standard format for the single target rotation loop is as above, entering after the end of an Astral Fire phase. We have some measure of flexibility with reordering these spells, especially due to the removal of Astral Fire/Umbral Ice timers in Patch 7.2, but overall in some order plan to do the following each loop:
 
 * Enter Astral Fire III via Firestarter proc used in Astral Fire I
 * Cast six **Fire IV** casts to generate sufficient Astral Soul stacks to cast **Flare Star**
 * Use **Paradox** in both Umbral Ice and Astral Fire (generating a Firestarter proc in Astral Fire)
 * Cast **Flare Star**
 * Cast **Despair** after all of your **Fire IV** and **Paradox** casts
-* Enter Umbral Ice III via **Blizzard III** (ideally in Umbral Ice I, made instant via **Swiftcast** or **Triplecast**)
+* Enter Umbral Ice III via **Blizzard III** (ideally in Umbral Ice I to negate the 30% penalty from casting in Astral Fire III instead, made instant via **Swiftcast** or **Triplecast**)
 * Cast **Blizzard IV** in Umbral Ice III to get back to full MP
 
-In the situation where you do not have a Firestarter proc from the previous Astral Fire phase when entering a new one, such as after the Standard opener, the **Paradox** should specifically come at the start of Astral Fire:
+In the situation where you do not have a Firestarter proc from the previous Astral Fire phase when entering a new one, such as after the Standard opener, the **Paradox** should specifically be used at the start of Astral Fire:
 
-![](/img/jobs/blm/7.1-black-mage-single-target-rotation.png "Single Target Rotation")
+![](/img/jobs/blm/black-mage-aoe-rotation.png "Single Target Rotation")
 
 When doing this, you are running on a sort of "Firestarter deficit", needing to continue to generate a new proc at the start of each Astral Fire phase until the following **Manafont** cycle where you can regain flexibility with **Paradox** usage once more.
 
@@ -182,7 +182,7 @@ In case of emergency to prevent deaths (using **Addle**, **Manaward**, or panic 
 
 ## **Ley Lines/Between the Lines/Retrace**
 
-Standing within **Ley Lines** grants the user the buff Circle of Power, reducing both the cast time and recast time of all spells. Since **Ley Lines** affects all GCDs and lasts for 30s, it does not need to be specifically lined up for use in Astral Fire, but instead should generally be used roughly off cooldown at the next available weaving window, with the second charge used when there is a window of time to make use of its full duration. Notably, since the recast time is also reduced for spells used within **Ley Lines**, even instant-cast spells gain value.
+Standing within **Ley Lines** grants the user the buff Circle of Power, reducing both the cast time and recast time of all spells. Since **Ley Lines** affects all GCDs and lasts for 20s, it does not need to be specifically lined up for use in Astral Fire, but instead should generally be used roughly off cooldown at the next available weaving window, with the second charge used when there is a window of time to make use of its full duration. Notably, since the recast time is also reduced for spells used within **Ley Lines**, even instant-cast spells gain value.
 
 Fight-specific mechanics/timings may warrant specific positioning or potentially small delays in order to maximize overall uptime within **Ley Lines**. With the addition of the second charge to the ability with Patch 7.1, minor delays are unlikely to cause drift/missed uses over the course of a fight. In addition, there are some options for flexibility for mechanics without having to delay usage:
 
@@ -236,16 +236,6 @@ With the introduction of **Flare Star**, it is even more important than ever to 
 1. Frontloading your Astral Fire cycle with four **Fire IV** casts before the **Paradox** by default, five if possible (usually facilitated via **Ley Lines** and/or **Triplecast**/**Swiftcast**) provides you much more leeway to work with particularly in the second half of your Astral Fire cycle.
 2. Particularly in situations where you need to fit in a **Xenoglossy** use or a High Thunder refresh, consider using **Triplecast**/**Swiftcast** wherever best suited to give yourself sufficient leeway on your Astral Fire timer wherever it may be tighter.
 3. As previously mentioned, using your Firestarter procs to re-enter Astral Fire is generally the most optimal usage. However, if you have no other options to complete your Astral Fire cycle without it, using the proc to extend your Astral Fire timer is more valuable if it means finishing your cycle off and getting a **Flare Star** where you would not otherwise.
-
-## Recovery After Panic Transpose
-
-If you are unable to complete your Astral Fire phase properly, including leveraging your tools as above, it is generally preferable to **Transpose** out of Astral Fire instead of letting it drop entirely. In this situation we have a recommended recovery option, named after a nickname of one of the BLM Helpfuls “Geiji”: “Geiji Ice Recovery Line” (commonly referred to as GIRL):
-
-![](/img/jobs/blm/black-mage-geiji-ice-recovery-line.png "Geiji Ice Recovery Line (GIRL)")
-
-Using **Transpose** from Astral Fire grants Umbral Ice I, **Paradox** grants Umbral Ice II. The **Blizzard** cast provides the final stack of Umbral Ice to get back to Umbral Ice III, so we can cast **Blizzard IV** to get to full MP and three Umbral Hearts and resume the rotation as normal from there.
-
-There are additional potential use cases for this line, discussed later in the “Additional Optimizations” section.
 
 ## Handling Downtime and End of Fight
 
