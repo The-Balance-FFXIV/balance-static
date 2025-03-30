@@ -1,8 +1,8 @@
 ---
 title: Black Mage Best in Slot (BiS)
 layout: bis
-patch: "7.15"
-lastmod: 2025-01-28T01:03:06.520Z
+patch: "7.2"
+lastmod: 2025-03-30T20:25:36.471Z
 changelog:
   - date: 2024-01-20T02:11:30.616Z
     message: Added BiS sets using Manderville Relic
@@ -20,24 +20,29 @@ changelog:
     message: Updated for 7.0
   - date: 2024-08-18T02:26:30.602Z
     message: Updated for 7.05
+  - date: 2025-03-30T20:25:39.239Z
+    message: Adding BiS and Prog Sets
 bis:
   - type: genericiframe
-    name: 2.42 Omnicaster Compatible BiS with Chaotic Gear & FRU Weapon
-    link: https://xivgear.app/?page=embed%7Csl%7C2ac3b26a-52b7-4362-b3ed-dd0f0100995f&onlySetIndex=0
-    description: Includes a single meld swap (Crit -> Det on savage ring).
+    name: 2.17 High SpS BiS
+    link: https://xivgear.app/?page=embed%7Csl%7C6e09949e-19f2-47b4-b711-242cef40faaa&onlySetIndex=0
+    description: Top simming set.
   - type: genericiframe
-    description: ""
-    link: https://xivgear.app/?page=embed%7Csl%7C91ef2716-1d1f-4635-a251-e7c3702fd07b&onlySetIndex=3
-    name: 2.24 High SpS BiS with Chaotic Gear & FRU Weapon
+    description: 99.08% of best.
+    link: https://xivgear.app/?page=embed%7Csl%7C6e09949e-19f2-47b4-b711-242cef40faaa&onlySetIndex=3
+    name: 2.36 High Crit BiS
+  - type: genericiframe
+    link: https://xivgear.app/?page=embed%7Csl%7C6e09949e-19f2-47b4-b711-242cef40faaa&onlySetIndex=6
+    name: 2.43 High Crit Omnicaster Compatible BiS
+    description: >-
+      98.92% of best.
+
+
+      Includes a single meld swap (Det-> SpS on earring) from other caster BiS sets.
   - type: genericlink
-    name: Alternative Sets with Chaotic Gear & FRU Weapon
-    link: https://xivgear.app/?page=sl%7C205b3c0e-25c4-4097-becf-dcb8fb5daaa6
-    description: Hosts alternative sets at various other GCDs, including some sets
-      avoiding tomestone gear on the left side.
-  - type: genericiframe
-    link: https://xivgear.app/?page=embed%7Csl%7C9d0af842-0438-4882-94b3-fdad99c55327&onlySetIndex=0
-    name: 2.42 Omnicaster Compatible BiS with Chaotic Gear
-    description: Includes a single meld swap (Crit -> Det on savage ring)
+    name: Alternative BiS sets
+    link: https://xivgear.app/?page=sl%7C1b0a12b5-b9b4-409d-83b4-a790f2f27f67
+    description: Hosts alternative BiS sets at various other GCDs.
   - type: genericiframe
     name: 2.24 High SpS BiS with Chaotic Gear
     link: https://xivgear.app/?page=embed%7Csl%7C9d0af842-0438-4882-94b3-fdad99c55327&onlySetIndex=2
