@@ -2,8 +2,8 @@
 title: Dragoon Skills Overview
 authors:
   - Balance-DRG-Staff
-patch: "7.1"
-lastmod: 2024-12-09T10:48:31.734Z
+patch: "7.2"
+lastmod: 2025-03-30T10:49:31.867Z
 changelog:
   - date: 2021-10-29T02:55:23.237Z
     message: Created page
@@ -23,6 +23,8 @@ changelog:
     message: 7.0 Overhaul
   - date: 2024-12-09T10:48:33.247Z
     message: Revision with 7.1 changes
+  - date: 2025-03-30T10:49:36.552Z
+    message: Update with 7.2 changes
 ---
 # Dragoon Skills Overview
 
@@ -41,10 +43,10 @@ All potencies assume level 100, meaning potency increases through traits are alr
 | ![Vorpal Thrust](https://xivapi.com/i/000000/000312_hr1.png)                                   | Vorpal Thrust   | VT      | 4     | 280 potency action that combos off of True Thrust/Raiden Thrust                                                                                                                                                                           |
 | ![Lance Barrage](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002076_hr1.tex?format=png) | Lance Barrage   | \-      | 96    | 340 potency action that combos off of True Thrust/Raiden Thrust. Direct upgrade to Vorpal Thrust, replacing the original action.                                                                                                          |
 | ![Full Thrust](https://xivapi.com/i/000000/000314_hr1.png)                                     | Full Thrust     | FT      | 26    | 380 potency action that combos off of Vorpal Thrust.                                                                                                                                                                                      |
-| ![Heavens' Thrust](https://xivapi.com/i/002000/002595_hr1.png)                                 | Heavens' Thrust | HT      | 86    | An upgraded version of Full Thrust that automatically replaces Full Thrust on your hotbar at Level 86. Increases potency to 440.                                                                                                          |
+| ![Heavens' Thrust](https://xivapi.com/i/002000/002595_hr1.png)                                 | Heavens' Thrust | HT      | 86    | An upgraded version of Full Thrust that automatically replaces Full Thrust on your hotbar at Level 86. Increases potency to 460.                                                                                                          |
 | ![Fang and Claw](https://xivapi.com/i/002000/002582_hr1.png)                                   | Fang and Claw   | FC      | 56    | 300 potency combo action after Full Thrust/Heavens' Thrust. 340 potency when executed from the targets flank.                                                                                                                             |
 | ![Wheeling Thrust](https://xivapi.com/i/002000/002584_hr1.png)                                 | Wheeling Thrust | WT      | 58    | 300 potency combo action after Chaos Thrust/Chaotic Spring. 340 potency when executed from the targets rear.                                                                                                                              |
-| ![Drakesbane](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png)    | Drakesbane      | DB      | 64    | The fifth and final combo action after Fang and Claw and Wheeling Thrust with 440 potency. Grants Draconian Fire for 30s, turning True Thrust into Raiden Thrust and Doom Spike into Draconian Fury.                                      |
+| ![Drakesbane](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png)    | Drakesbane      | DB      | 64    | The fifth and final combo action after Fang and Claw and Wheeling Thrust with 460 potency. Grants Draconian Fire for 30s, turning True Th0rust into Raiden Thrust and Doom Spike into Draconian Fury.                                      |
 | ![Piercing Talon](https://xivapi.com/i/000000/000315_hr1.png)                                  | Piercing Talon  | PT      | 15    | Uncomboed ranged action with 200 potency. Will not terminate an active combo if used between combo skills.\
 350 potency while under the effect of "Enhanced Piercing Talon".                                                              |
 
@@ -69,7 +71,7 @@ All potencies assume level 100, meaning potency increases through traits are alr
 | ![Mirage Dive](https://xivapi.com/i/002000/002588_hr1.png)                                          | Mirage Dive        | MD        | 68    | 380 potency action. Only available after using (High) Jump.                                                                                                                                                                                                  |
 | ![Geirskogul](https://xivapi.com/i/002000/002583_hr1.png)                                           | Geirskogul         | GSK       | 60    | Delivers an attack to all enemies in a straight line before you with a potency of 280 for the first enemy, and 50% less for all remaining enemies. Enters Life of the Dragon for 20s, increasing damage dealt by 15%. Also grants 1 stack of Nastrond Ready. |
 | ![Nastrond](https://xivapi.com/i/002000/002589_hr1.png)                                             | Nastrond           | NAS       | 70    | Delivers an attack to all enemies in a straight line before you with a potency of 720 for the first enemy, and 50% less for all remaining enemies. Can only  be used under the effect of Nastrond Ready.                                                     |
-| ![Stardiver](https://xivapi.com/i/002000/002593_hr1.png)                                            | Stardiver          | STD or SD | 80    | Jumps to the target and deals damage to all enemies in a 5y radius around it (820 potency for the first enemy, 30% less for all remaining enemies). Only available once per Life of the Dragon - very long animation lock.                                   |
+| ![Stardiver](https://xivapi.com/i/002000/002593_hr1.png)                                            | Stardiver          | STD or SD | 80    | Jumps to the target and deals damage to all enemies in a 5y radius around it (840 potency for the first enemy, 30% less for all remaining enemies). Only available once per Life of the Dragon - very long animation lock.                                   |
 | ![Starcross](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002078_hr1.tex?format=png)          | Starcross          | StC       | 100   | Follow-up to Stardiver. Deals damage with a potency of 1000 to the target and 50% less to all remaining targets in a 5y range.                                                                                                                               |
 | ![Wyrmwind Thrust](https://xivapi.com/i/002000/002597_hr1.png)                                      | Wyrmwind Thrust    | WWT       | 90    | 440 potency action with a 10s cooldown that deals damage to all enemies in a rectangular shape. 50% reduced damage for all enemies hit after the first one. Can only be executed when you have two Stacks of Firstminds' Focus                               |
 | ![Elusive Jump](https://xivapi.com/i/002000/002577_hr1.png)                                         | Elusive Jump       | EJ        | 35    | Jumps 15y backwards. Used to travel long distances quickly. 30s cooldown. Now also grants the effect "Enhanced Piercing Talon" for 15s, considerably increasing its potency.                                                                                 |
