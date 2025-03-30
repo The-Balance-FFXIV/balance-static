@@ -82,13 +82,29 @@ In either stance, keeping the **High Thunder** DoT up is important, as well as u
 
 <br>The standard opener for BLM. This opener skips a **Despair** cast pre-**Manafont** as well as a **Paradox** cast post-**Manafont** in order to cast 12 total **Fire IV** casts (5 before and 7 after **Manafont,** thus the name "5+7"), enabling two uses of **Flare Star**.
 
-The initial **Fire III** cast should start around 4 seconds prepull (to land at the same time the boss is pulled). **High Thunder** should be refreshed just before raid buffs are falling off.
+The initial **Fire III** cast should start around 4 seconds prepull (to land at the same time the boss is pulled). **High Thunder** should be refreshed just before raid buffs are falling off, which may shift depending on spell speed and party buff timing.
+
+Additional notes:
+
+* The second charge of **Ley Lines** can be flexibly used at any point after the opener, with the goal of using it during a window where its full duration can be used.
+* **Triplecast** and **Swiftcast** usage is fairly flexible as needed in the opener for movement, but should still ideally be weaved after an instant-cast spell. At very low spell speeds, **Swiftcast** will come off cooldown to be available for the Umbral Ice I **Blizzard III** usage as pictured.
+* This opener does not generate a Firestarter proc due to skipping the **Paradox** in Astral Fire. As a result, in order to consistently generate the proc for stronger reentry into Astral Fire III you should continue to use **Paradox** as your first spell in Astral Fire until at least the next **Manafont** cycle.
+
+## **Alternative Single-Target Flare Opener**
+
+![](/img/jobs/blm/7.1-black-mage-fire-iii-opener.png)
+
+<br>This alternative opener leverages **Flare** to generate sufficient Astral Soul stacks for a second **Flare Star** in the opener. The initial **Fire III** cast should start around 4 seconds prepull (to land at the same time the boss is pulled). **High Thunder** should be refreshed just before raid buffs are falling off, which may shift depending on spell speed and party buff timing.\
+\
+While a minor loss compared to the Standard opener, this opener allows for casting **Paradox** post-**Manafont**. This generates a Firestarter proc for use in the following Astral Fire cycle, allowing for more flexible **Paradox** usage in subsequent cycles compared to the Standard opener.
+
+If you were to use the Standard opener and would want or otherwise need to regain this flexibility by casting **Fire III** from Umbral Ice III instead of the recommended **Astral Fire I** -> **Paradox** -> **Firestarter**, you will lose less from swapping to this Alternative Opener to begin with.
 
 Additional notes:
 
 * The second charge of **Ley Lines** can be flexibly used at any point after the opener, with the goal of using it during a window where its full duration can be used.
 * **Triplecast** and **Swiftcast** usage is fairly flexible as needed in the opener for movement, but should still ideally be weaved after an instant-cast spell.
-* Due to skipping the **Paradox** post-**Manafont**, 
+* This opener can sometimes be referred to as "Potato Rotato" as homage to an old Stormblood BLM optimization nicknamed "Potato Rotato", similarly leveraging **Triplecast** for single-target **Flare** and Umbral Ice I **Blizzard III**.
 
 # **Single Target Rotation**
 
@@ -96,13 +112,21 @@ Additional notes:
 
 ![](/img/jobs/blm/7.1-black-mage-single-target-rotation.png "Single Target Rotation")
 
-<br>The standard format for the single target rotation loop is as above, following directly after the second **Despair** in the opener. Both **Xenoglossy** and **High Thunder** have no set place in the rotation, and instead are used as needed. The guaranteed Firestarter proc from **Paradox** has some flexibility in use as well. All of these will be further explained in later sections.
+<br>The standard format for the single target rotation loop is as above. We have some measure of flexibility with reordering these spells, especially due to the removal of Astral Fire/Umbral Ice timers in Patch 7.2, but overall in some order plan to do the following each loop:
 
-With **Paradox** now being instant-cast during Astral Fire as well in Dawntrail, it is recommended to default to having four **Fire IV** casts before **Paradox**. This provides similar leeway to Endwalker, allowing one extra cast on either half of the Astral Fire cycle. This can be used to shift **Fire IV** casts around and/or use **Xenoglossy**/**High Thunder** as needed anywhere in the cycle.
+* Enter Astral Fire III via Firestarter proc used in Astral Fire I
+* Cast six **Fire IV** casts to generate sufficient Astral Soul stacks to cast **Flare Star**
+* Cast **Flare Star**
+* Cast **Despair**
+* Use **Paradox** in both Umbral Ice and Astral Fire (generating a Firestarter proc in Astral Fire)
+* Enter Umbral Ice III via **Blizzard III** (ideally in Umbral Ice I, made instant via **Swiftcast** or **Triplecast**)
+* Cast **Blizzard IV** in Umbral Ice III to get back to full MP
 
-Patch 7.1 changed **Despair** to be instant-cast at level 100, providing additional leeway and flexibility as well.
+With this in mind, we typica
 
-As of Patch 7.05, Paradox is now available for use in Umbral Ice again. Since this is a strong spell, it should generally be used every Umbral Ice phase. Prioritize using it for movement/weaving as needed, or for refreshing your Umbral Ice timer if needed.
+
+
+Separate to this loop,
 
 ## **High Thunder**
 
@@ -117,31 +141,7 @@ A few important notes:
 
 ## **Xenoglossy**
 
-**Xenoglossy** is a powerful instant-cast spell that can be leveraged for movement or weaving as needed, in Astral Fire and/or Umbral Ice. With the ability to hold a third polyglot stack, it is now even easier to be more flexible with uses, with the potential to save stacks to use with raid buffs. This can be generally good practice, but movement considerations take priority, as well as ensuring that your Astral Fire timer is not at risk due to using an excess of **Xenoglossy** at a given time.
-
-## **Firestarter**
-
-**Paradox** now grants a guaranteed Firestarter proc upon execution in Astral Fire, which allows for a free instant-cast **Fire III**. There are two primary considerations for using Firestarter procs–extending your Astral Fire timer by using the proc in Astral Fire III, or using it to re-enter Astral Fire after the Umbral Ice phase.
-
-### Astral Fire III
-
-Using your Firestarter proc in Astral Fire III, typically referred to as “AF3 F3P”, allows for extra flexibility in your Astral Fire timer, as well as extra mobility. Pictured below is a baseline version of using the proc for this purpose, allowing for the maximum leeway in your Astral Fire timer:
-
-![](/img/jobs/blm/7.1-black-mage-firestarter_-astral-fire-iii.png "Firestarter: Astral Fire III")
-
-<br>This is just an example though–as needed, you can easily shift around any of the **Fire IV**/**Paradox** casts then use the Firestarter proc when your Astral Fire timer is getting low. Situationally, if you will not be able to complete all of your six **Fire IV** casts before Astral Fire drops, it will generally be the largest priority to use your Firestarter proc to refresh your timer. Guaranteeing the **Flare Star** is often going to be more important than other potential usage for the Firestarter proc.
-
-### Astral Fire I
-
-Whenever possible, it is generally recommended to carry your Firestarter proc through Umbral Ice and use it when transitioning back into Astral Fire, typically referred to as “AF1 F3P”, as below:
-
-![](/img/jobs/blm/black-mage-firestarter_-astral-fire-i.png "Firestarter: Astral Fire I")
-
-<br>While using the Firestarter proc in Astral Fire III is still a reasonably strong spell, using the proc this way replaces a relatively weak **Fire III** casted in Umbral Ice III with one used in Astral Fire I and as a result provides more of a gain.
-
-Generally we can utilize **Paradox** in Umbral Ice to weave the Transpose for this use case as above. As needed, High Thunder or **Xenoglossy** can also be utilized for weaving here, or even (less ideally) have your **Blizzard IV** be instant-cast via **Swiftcast**/**Triplecast**.
-
-It is important to note that the Firestarter proc applies Astral Fire III sooner than a regular cast of **Fire III** would apply it, which will result in a slightly stricter Astral Fire timer to work with.
+**Xenoglossy** is a powerful instant-cast spell that can be leveraged for movement or weaving as needed, in Astral Fire and/or Umbral Ice. With the ability to hold a third polyglot stack, it is now even easier to be more flexible with uses, with the potential to save stacks to use with raid buffs. This can be generally good practice, but movement considerations take priority.
 
 # **AoE Rotation (3+ targets)**
 
