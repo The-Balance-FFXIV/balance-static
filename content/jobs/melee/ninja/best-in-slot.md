@@ -1,8 +1,8 @@
 ---
 title: Ninja Best in Slot (BiS)
 layout: bis
-patch: "7.05"
-lastmod: 2024-08-11T04:26:56.645Z
+patch: "7.2"
+lastmod: 2025-03-30T20:23:39.945Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
     message: Created page
@@ -24,13 +24,30 @@ changelog:
     message: Updated for 6.55
   - date: 2024-08-11T04:27:03.186Z
     message: Updated for Dawntrail
+  - date: 2025-03-30T20:23:23.765Z
+    message: Updated for 7.2
 bis:
   - type: xivgearset
-    name: 7.1 FRU BIS
-    link: https://xivgear.app/?page=sl%7C13816cb8-9134-4d9d-be54-78e87cc5e627
+    name: 7.2 Savage BiS
+    link: ac0e2f00-5876-4847-b48d-10fea240f073
+    description: Compatible with VPR as long as VPR doesn't want to run any skill speed.
   - type: xivgearset
-    name: 7.05 NIN BIS (2.12)
-    link: 1589cdf4-7037-421f-8503-790d270d51ff
+    name: 7.2 Savage Prog Set (Pentamelded)
+    link: 209f0d9c-7d95-4f82-99c4-2457a5e63260
+    description: Click
+      [here](https://xivgear.app/?page=sl%7C059ae508-8767-4efd-b792-93ae0d161415)
+      for the full list of prog set options.
+  - type: xivgearset
+    name: 7.2 Savage Prog Set (Budget)
+    link: b6cf0919-5aaf-4816-9ccb-a31a4b16ec57
+    description: Click
+      [here](https://xivgear.app/?page=sl%7C04b2cf0b-aec0-4e75-b0dd-4f8e843ccef4)
+      for the full set of prog set options.
+  - type: xivgearset
+    name: 7.2 FRU BiS
+    link: 5cdf3514-c371-4a7f-a661-833d886f8fda
+    description: You can replace the CAR gloves with Darkhorse gloves but only if
+      you also replace the Darkhorse boots with CAR boots.
   - type: etro
     description: The i665 relic weapon can be substituted for the i645 relic.
     name: 6.55 TOP BIS
