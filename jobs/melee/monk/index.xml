@@ -13,7 +13,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[110 47 346 33 61 27]" src="https://xivapi.com/i/002000/002528_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[40 425 2 411 111 105]" src="https://xivapi.com/i/002000/002528_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Dragon Kick&lt;/strong> has a potency of 320. When in Opo-Opo form, it will grant &lt;em>Opo-opo&amp;rsquo;s Fury&lt;/em>.&lt;/td>
@@ -21,7 +21,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[161 80 437 400 57 423]" src="https://xivapi.com/i/000000/000208_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[337 359 51 233 282 267]" src="https://xivapi.com/i/000000/000208_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Bootshine&lt;/strong> has a potency of 220, or 420 when you have &lt;em>Opo-opo&amp;rsquo;s Fury&lt;/em>. When in Opo-Opo form, Bootshine will always crit.&lt;/td>
@@ -29,7 +29,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[286 133 58 434 11 483]" src="https://xivapi.com/i/002000/002982_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[377 459 450 160 109 154]" src="https://xivapi.com/i/002000/002982_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Leaping Opo&lt;/strong> is the upgraded version of &lt;strong>Bootshine&lt;/strong>, it has a potency of 260, or 460 when you have &lt;em>Opo-opo&amp;rsquo;s Fury&lt;/em>. When in Opo-Opo form, Leaping Opo will always crit.&lt;/td>
@@ -37,7 +37,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[449 141 374 435 205 336]" src="https://xivapi.com/i/000000/000213_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[167 490 301 304 457 113]" src="https://xivapi.com/i/000000/000213_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Twin Snakes&lt;/strong> has a potency of 420. Twin Snakes can only be executed from Raptor form and will grant &lt;em>Raptor&amp;rsquo;s Fury&lt;/em>.&lt;/td>
@@ -45,7 +45,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[309 305 272 21 396 152]" src="https://xivapi.com/i/000000/000209_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[426 423 161 386 170 366]" src="https://xivapi.com/i/000000/000209_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>True Strike&lt;/strong> has a potency of 300, or 500 when you have &lt;em>Raptor&amp;rsquo;s Fury&lt;/em>. It can only be executed from Raptor form.&lt;/td>
@@ -53,7 +53,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[302 55 275 203 331 6]" src="https://xivapi.com/i/002000/002983_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[149 355 460 136 115 457]" src="https://xivapi.com/i/002000/002983_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Rising Raptor&lt;/strong> is the upgraded version of &lt;strong>True Strike&lt;/strong>, it has a potency of 340, or 540 when you have &lt;em>Raptor&amp;rsquo;s Fury&lt;/em>. It can only be executed from Raptor form.&lt;/td>
@@ -61,7 +61,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[48 178 225 239 355 183]" src="https://xivapi.com/i/000000/000204_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[297 378 348 72 68 237]" src="https://xivapi.com/i/000000/000204_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Demolish&lt;/strong> has a potency of 360, or 420 when executed from the rear. It can only be executed from Coeurl form and will grant two &lt;em>Coeurl&amp;rsquo;s Fury&lt;/em>.&lt;/td>
@@ -69,7 +69,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[464 378 224 258 156 440]" src="https://xivapi.com/i/000000/000210_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[76 140 17 382 167 447]" src="https://xivapi.com/i/000000/000210_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Snap Punch&lt;/strong> has a potency of 270, or 420 when you have &lt;em>Coeurl&amp;rsquo;s Fury&lt;/em>, increasing to 330 and 480 respectively when executed from the flank. It can only be executed from Coeurl form.&lt;/td>
@@ -77,7 +77,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[290 18 65 328 203 190]" src="https://xivapi.com/i/002000/002984_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[497 28 6 443 372 80]" src="https://xivapi.com/i/002000/002984_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Pouncing Coeurl&lt;/strong> is the upgraded version of &lt;strong>Snap Punch&lt;/strong>, it has a potency of 310, or 460 when you have &lt;em>Coeurl&amp;rsquo;s Fury&lt;/em>, increasing to 370 and 520 respectively when executed from the flank. It can only be executed from Coeurl form.&lt;/td>
@@ -85,7 +85,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[107 345 422 56 481 303]" src="https://xivapi.com/i/002000/002547_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[452 478 296 206 344 302]" src="https://xivapi.com/i/002000/002547_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Six Sided Star&lt;/strong> is a GCD with a potency of 780, but double the recast of every other GCD. A situational skill, you&amp;rsquo;ll either use it before running out of a big aoe, before a boss dies, or before a boss goes untargetable for whatever reason. It also applies a small movement speed buff for five seconds. In Dawntrail SSS also consumes all your Chakra with the same 80 potency per Chakra as The Forbidden Chakra, but shouldn&amp;rsquo;t be used to replace The Forbidden Chakra or Enlightenment. Overall a very useful utility GCD.&lt;/td>
@@ -93,7 +93,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[8 266 496 269 465 416]" src="https://xivapi.com/i/002000/002536_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[144 211 11 76 454 135]" src="https://xivapi.com/i/002000/002536_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Form Shift&lt;/strong> is a unique GCD, as it&amp;rsquo;s not directly a part of our rotation, but it does enable our rotation. Form Shift grants the Formless Fist buff, which allows you to use any GCD and gain its additional form effects. Since this GCD does no damage, we only ever use it before pulling an enemy or during downtime.&lt;/td>
@@ -103,17 +103,17 @@
 &lt;h1 id="aoe-gcds">AoE GCDs&lt;/h1>
 &lt;p>Monk has three core AOE GCDs, one for each of its forms:&lt;/p></description></item><item><title>Monk Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/basic-guide/</link><pubDate>Tue, 03 Sep 2024 22:39:59 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/basic-guide/</guid><description>&lt;p>
 &lt;div class="md__image">
- &lt;img id="[277 285 473 383 20 159]" src="" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[220 174 156 352 168 67]" src="" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[66 472 444 120 443 10]" src="" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[249 309 351 25 172 298]" src="" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[64 463 110 309 375 413]" src="" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[58 366 62 99 394 494]" src="" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;h1 id="basic-monk-guide">&lt;strong>Basic Monk Guide&lt;/strong>&lt;/h1>
@@ -122,7 +122,7 @@
 The Role Action True North allows you to disregard positional requirements for ten seconds per use.&lt;/p>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[145 146 72 92 259 2]" src="https://www.thebalanceffxiv.com/img/jobs/mnk/anoqtwm-1-.png" onclick="openModal(this.id)" alt="Positional Zone" title="Positional Zone" />
+ &lt;img id="[92 355 297 105 422 173]" src="https://www.thebalanceffxiv.com/img/jobs/mnk/anoqtwm-1-.png" onclick="openModal(this.id)" alt="Positional Zone" title="Positional Zone" />
 &lt;/div>
 &lt;/p>
 &lt;p>While it is a loss to miss your Positionals, landing them should be your last priority, after you have met all of the other combat priority requirements of a melee DPS job. These are listed in order from largest to smallest loss of damage if you fail that level.&lt;/p></description></item><item><title>Monk Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/job-changes/</link><pubDate>Mon, 29 Jul 2024 01:09:49 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/job-changes/</guid><description/></item><item><title>Monk Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/stat-priority/</link><pubDate>Mon, 29 Jul 2024 00:33:37 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/stat-priority/</guid><description/></item><item><title>Monk FAQ</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/faq/</link><pubDate>Mon, 29 Jul 2024 00:29:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/faq/</guid><description>&lt;blockquote>
