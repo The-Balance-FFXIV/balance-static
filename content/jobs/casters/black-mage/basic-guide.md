@@ -116,17 +116,19 @@ Additional notes:
 
 * Enter Astral Fire III via Firestarter proc used in Astral Fire I
 * Cast six **Fire IV** casts to generate sufficient Astral Soul stacks to cast **Flare Star**
-* Cast **Flare Star**
-* Cast **Despair**
 * Use **Paradox** in both Umbral Ice and Astral Fire (generating a Firestarter proc in Astral Fire)
+* Cast **Flare Star**
+* Cast **Despair** after all of your **Fire IV** and **Paradox** casts
 * Enter Umbral Ice III via **Blizzard III** (ideally in Umbral Ice I, made instant via **Swiftcast** or **Triplecast**)
 * Cast **Blizzard IV** in Umbral Ice III to get back to full MP
 
-With this in mind, we typica
+In the situation where you do not have a Firestarter proc from the previous Astral Fire phase when entering a new one, such as after the Standard opener, the **Paradox** should specifically come at the start of Astral Fire:
 
+![](/img/jobs/blm/7.1-black-mage-single-target-rotation.png "Single Target Rotation")
 
+When doing this, you are running on a sort of "Firestarter deficit", needing to continue to generate a new proc at the start of each Astral Fire phase until the following **Manafont** cycle where you can regain flexibility with **Paradox** usage once more.
 
-Separate to this loop,
+Separate to the main rotational loop but still important, **High Thunder** should be maintained and **Xenoglossy** should be utilized, as detailed in the following sections.
 
 ## **High Thunder**
 
@@ -143,7 +145,7 @@ A few important notes:
 
 **Xenoglossy** is a powerful instant-cast spell that can be leveraged for movement or weaving as needed, in Astral Fire and/or Umbral Ice. With the ability to hold a third polyglot stack, it is now even easier to be more flexible with uses, with the potential to save stacks to use with raid buffs. This can be generally good practice, but movement considerations take priority.
 
-# **AoE Rotation (3+ targets)**
+# **AoE Rotation (2+ targets)**
 
 ## **Rotation Overview**
 
