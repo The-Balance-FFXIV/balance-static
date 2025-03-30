@@ -78,7 +78,7 @@ In either stance, keeping the **High Thunder** DoT up is important, as well as u
 
 ## **Standard 5+7 Opener**
 
-![](/img/jobs/blm/standard-5-7-opener.png)
+![Standard 5+7 Opener](/img/jobs/blm/standard-5-7-opener.png "Standard 5+7 Opener")
 
 <br>The standard opener for BLM. This opener skips a **Despair** cast pre-**Manafont** as well as a **Paradox** cast post-**Manafont** in order to cast 12 total **Fire IV** casts (5 before and 7 after **Manafont,** thus the name "5+7"), enabling two uses of **Flare Star**.
 
