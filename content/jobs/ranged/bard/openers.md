@@ -2,7 +2,7 @@
 title: Bard Openers
 authors:
   - Balance-BRD-Staff
-patch: "7.05"
+patch: "7.2"
 lastmod: 2024-08-12T02:09:40.474Z
 changelog:
   - date: 2021-10-26T02:31:00.147Z
