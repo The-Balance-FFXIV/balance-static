@@ -3,7 +3,7 @@ title: Astrologian Skills Overview
 card_header_image: /img/jobs/ast/2022-03-11_15-30-57-810_okamipassion.jpg
 authors:
   - shy
-patch: "6.21"
+patch: "7.2"
 lastmod: 2022-09-13T04:58:09.233Z
 changelog:
   - date: 2021-10-26T20:48:51.241Z
