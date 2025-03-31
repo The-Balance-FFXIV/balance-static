@@ -3,7 +3,7 @@ title: Astrologian Skills Overview
 card_header_image: /img/jobs/ast/2022-03-11_15-30-57-810_okamipassion.jpg
 authors:
   - shy
-patch: "6.21"
+patch: "7.2"
 lastmod: 2022-09-13T04:58:09.233Z
 changelog:
   - date: 2021-10-26T20:48:51.241Z
@@ -13,11 +13,12 @@ changelog:
   - date: 2022-09-13T04:58:10.621Z
     message: Updated Redraw section
 ---
-# ***Notable Endwalker Changes***
+# ***Notable Dawntrail Changes***
 
-* New Skills: Astrodyne, Macrocosmos, Exaltation, Minor Arcana.
-* Sleeve Draw and Nocturnal Sect has been removed.
-* Draw has gained two charges.
+* Complete card system revamp
+* Divination followup oGCD: Oracle
+* Aspected Helios got an animation upgrade to Helios Conjunction
+* Using Neutral Sect gains access to a new oGCD mitigation ability: Sun Sign
 
 # ***Damage***
 
