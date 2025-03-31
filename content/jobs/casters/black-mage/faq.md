@@ -1,8 +1,8 @@
 ---
 title: Black Mage FAQ
 layout: qna
-patch: "7.05"
-lastmod: 2024-08-09T00:52:50.765Z
+patch: "7.2"
+lastmod: 2025-03-30T22:02:21.883Z
 changelog:
   - date: 2021-10-26T01:53:18.078Z
     message: Added page
@@ -25,19 +25,6 @@ qna:
       can actively hit a target, you should not be using Umbral Soul. Since it
       can only be used in Umbral Ice, you may need to Transpose from Astral Fire
       before you can use it.
-  - question: Why does the opener not start in Umbral Ice to be able to get
-      additional Fire IV casts and a second Flare Star?
-    answer: Blizzard IV and Fire III casted in Umbral Ice III are relatively weak
-      casts, and don’t justify the additional fire casts gained from starting in
-      Umbral Ice. It is also likely to push some strong spells out of the buff
-      window.
-  - question: Why don’t we use a single target Flare in the opener to generate extra
-      Astral Soul stacks for a second Flare Star?
-    answer: Single target Flare is fairly weak, and is cast during a buff window in
-      place of the stronger Despair. While we gain a second Flare Star, this
-      occurs after buffs have already ended. Even before raid buff
-      consideration, single target Flare only really becomes worthwhile in very
-      specific and nuanced situations generally involving downtime.
   - question: Is it okay to refresh High Thunder early if I need it for movement?
     answer: If you have no other movement options in the given situation, using the
       proc early is better than losing out on the GCD entirely. However, try to
