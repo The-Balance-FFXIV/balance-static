@@ -3,7 +3,7 @@ title: Samurai Skills Overview
 authors:
   - Balance-SAM-Staff
   - Flare
-patch: "7.05"
+patch: "7.2"
 lastmod: 2024-11-16T06:16:19.288Z
 changelog:
   - date: 2021-10-28T03:25:40.964Z
