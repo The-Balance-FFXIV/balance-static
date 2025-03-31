@@ -13,6 +13,8 @@ changelog:
     message: Updated to 6.4
   - date: 2024-12-03T01:51:49.166Z
     message: "7.05 dawntrail very cerebral "
+  - date: 2025-03-31T22:19:25.197Z
+    message: 7.2 updated potency and aoe changes
 ---
 # Single Target GCDs
 
