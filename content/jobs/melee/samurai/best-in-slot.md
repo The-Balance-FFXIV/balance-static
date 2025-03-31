@@ -1,8 +1,8 @@
 ---
 title: Samurai Best in Slot (BiS)
 layout: bis
-patch: "7.16"
-lastmod: 2025-01-27T18:06:30.733Z
+patch: "7.2"
+lastmod: 2025-03-30T20:20:19.218Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -26,34 +26,18 @@ changelog:
     message: 7.05 sets for UCOB and UWU added, relaced TEA and DSR sets
   - date: 2025-01-27T18:06:22.973Z
     message: Included all sets using Clouddark pieces and FRU weapon.
+  - date: 2025-03-30T20:20:25.263Z
+    message: Updated for 7.2
 bis:
   - type: genericiframe
-    description: Classic "Slow SAM". Highest DPS, easiest weaving. Accessories have
-      parity across Slaying jobs.
-    link: https://xivgear.app/?page=embed%7Csl%7Cc54dfb40-f11b-4460-b3b3-fd0365b2add4&onlySetIndex=0
+    description: Classic "Slow SAM". Highest DPS, easiest weaving.
+    link: https://xivgear.app/?page=embed%7Csl%7Cf7ebd9ed-ba02-4a45-bd9f-e73a945f22ef
     name: 2.14 Savage BiS
   - type: genericiframe
-    name: 2.14 Chaotic + Ultimate Weapon BiS
-    link: https://xivgear.app/?page=embed%7Csl%7Cc54dfb40-f11b-4460-b3b3-fd0365b2add4&onlySetIndex=1
-    description: The Cloud of Darkness (Chaotic) has provided us with gear with
-      better stat tiering than Savage BiS. Use this if you have access to
-      Clouddark gear and the Ultimate Weapon from Futures Rewritten (Ultimate).
-  - type: genericiframe
-    name: 2.14 Chaotic + Savage Weapon BiS
-    link: https://xivgear.app/?page=embed%7Csl%7Cc54dfb40-f11b-4460-b3b3-fd0365b2add4&onlySetIndex=2
-    description: In case you're looking for a slightly better option to the Savage
-      BiS for FRU prog.
-  - type: genericiframe
-    description: As per community request, the 2.07 set has a small hit in DPS in
-      exchange for an easier looping rotation, as well as slightly better
-      flexibility with mechanic downtime.
+    description: The 2.08 set has a small hit in DPS in exchange for an easier
+      looping rotation in full uptime.
     name: 2.08 Savage BiS
-    link: https://xivgear.app/?page=embed%7Csl%7C7b858124-5167-4903-a7e2-058e5e7d1082&onlySetIndex=0
-  - type: genericiframe
-    name: 2.08 Chaotic + Ultimate Weapon BiS
-    link: https://xivgear.app/?page=embed%7Csl%7C7b858124-5167-4903-a7e2-058e5e7d1082&onlySetIndex=1
-  - type: etro
-    name: 2.08 Chaotic + Savage Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7Ceb5a0c32-362b-401a-a2a7-cd3ea1178184
   - type: null
     description: >-
       Sets for these fights are community-sourced through use of XIVGear. In the
