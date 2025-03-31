@@ -2,7 +2,7 @@
 title: Bard Skills Overview
 authors:
   - TKCetonis
-patch: "7.01"
+patch: "7.2"
 lastmod: 2024-07-28T21:31:36.031Z
 changelog:
   - date: 2021-10-26T02:24:56.512Z
