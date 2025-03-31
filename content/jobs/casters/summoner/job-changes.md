@@ -1,13 +1,12 @@
 ---
 title: Summoner Job Changes
 layout: changes
-lastmod: 2024-07-07T19:49:04.196Z
+lastmod: 2025-03-31T22:39:32.468Z
 changes:
-  - patch: "5.58"
-    description: "[Placeholder for Endwalker]"
   - patch: "6.0"
-    description: "[Click here to view the changes to 6.0 SMN on the official
-      site!](https://na.finalfantasyxiv.com/jobguide/summoner/)"
+    description: "[Click here to view the changes to SMN on the official site for
+      6.0!](https://na.finalfantasyxiv.com/lodestone/topics/detail/bdd208b52dda\
+      babad086dc9679e96a8412962edf)"
   - patch: "6.08"
     description: "[Click here to view the changes to SMN on the official site for
       6.08!](https://na.finalfantasyxiv.com/lodestone/topics/detail/9325d2a5dae\
@@ -40,6 +39,14 @@ changes:
     description: "[Click here to view the changes to SMN on the official site for
       7.0!](https://na.finalfantasyxiv.com/lodestone/topics/detail/d7db61f938f9\
       cea65e4c5cd261918edb036b3004)"
+  - patch: "7.1"
+    description: "[Click here to view the changes to SMN on the official site for
+      7.1!](https://na.finalfantasyxiv.com/lodestone/topics/detail/9b42b2425f3a\
+      680caea3281ccd65c99677cb00e2)"
+  - patch: "7.2"
+    description: "[Click here to view the changes to SMN on the official site for
+      7.2!](https://na.finalfantasyxiv.com/lodestone/topics/detail/3c4910f373e4\
+      97acd3428c37f6358e341e4cc06d)"
 authors:
   - Balance-SMN-Staff
 ---
