@@ -4,7 +4,7 @@ card_header_image: /img/jobs/brd/basic.png
 authors:
   - TKCetonis
   - Balance-BRD-Staff
-patch: "7.01"
+patch: "7.2"
 lastmod: 2024-08-15T02:32:55.137Z
 changelog:
   - date: 2021-10-26T02:17:16.801Z
