@@ -9,23 +9,9 @@ The Role Action True North allows you to disregard positional requirements for t
 A continuous target ring will always count positionals as successful, regardless of your position.
 
 &lt;div class="md__image">
- &lt;img id="[329 461 53 309 297 35]" src="https://imgur.com/ANOqtwM.png" onclick="openModal(this.id)" alt="Positional zones" title="Positional zones" />
+ &lt;img id="[364 161 483 425 351 344]" src="https://imgur.com/ANOqtwM.png" onclick="openModal(this.id)" alt="Positional zones" title="Positional zones" />
 &lt;/div>
-&lt;/p></description></item><item><title>Dragoon Openers</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/openers/</link><pubDate>Sun, 30 Mar 2025 10:47:38 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/openers/</guid><description>&lt;h1 id="dragoon-opener-and-rotation">Dragoon Opener and Rotation&lt;/h1>
-&lt;p>The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new job design, it’s possible that we’ll actually have fight-specific openers down the stretch.&lt;/p>
-&lt;h2 id="standard-opener---no-pt">Standard Opener - No PT&lt;/h2>
-&lt;p>
-&lt;div class="md__image">
- &lt;img id="[398 479 457 52 272 480]" src="https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_-_No_PT.png?raw=true" onclick="openModal(this.id)" alt="Standard Opener - No PT" />
-&lt;/div>
-
-&lt;br>
-We use our raidbuff Battle Litany after applying our DoT for party alignment, the rest of our buffs surround it with Geirskogul being used last to ensure its own potency is buffed by all our personal buffs and potential raidbuffs.&lt;/p></description></item><item><title>Dragoon FAQ</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</link><pubDate>Sun, 30 Mar 2025 10:37:28 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</guid><description>&lt;h1 id="frequently-asked-questions">Frequently Asked Questions&lt;/h1>
-&lt;p>Type &lt;code>!faq drg&lt;/code> in #bot_spam for a full list of commands to answer other common questions!&lt;/p>
-&lt;blockquote>
-&lt;p>&lt;em>How does Raiden Thrust work?&lt;/em>&lt;/p>
-&lt;/blockquote>
-&lt;p>Raiden Thrust is an upgraded True Thrust. It combos into both Disembowel and Vorpal Thrust and replaces True Thrust on your bar when it’s ready. You activate it by successfully landing the positional on the fifth hit of your combo (Fang and Claw or Wheeling Thrust following Wheeling Thrust or Fang and Claw, respectively). If you fail, you get to press True Thrust and hear a laugh track play in the background.&lt;/p></description></item><item><title>Dragoon Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/best-in-slot/</link><pubDate>Sun, 30 Mar 2025 10:24:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/best-in-slot/</guid><description/></item><item><title>Dragoon Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/stat-priority/</link><pubDate>Sun, 30 Mar 2025 10:23:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/stat-priority/</guid><description/></item><item><title>Dragoon Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/job-changes/</link><pubDate>Sun, 30 Mar 2025 10:21:03 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/job-changes/</guid><description/></item><item><title>Dragoon Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/skills-overview/</link><pubDate>Mon, 09 Dec 2024 10:48:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/skills-overview/</guid><description>&lt;h1 id="dragoon-skills-overview">Dragoon Skills Overview&lt;/h1>
+&lt;/p></description></item><item><title>Dragoon Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/skills-overview/</link><pubDate>Sun, 30 Mar 2025 10:49:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/skills-overview/</guid><description>&lt;h1 id="dragoon-skills-overview">Dragoon Skills Overview&lt;/h1>
 &lt;h2 id="global-cooldown-actions-single-target">Global Cooldown Actions (Single Target)&lt;/h2>
 &lt;p>All potencies assume level 100, meaning potency increases through traits are already included.&lt;/p>
 &lt;table>
@@ -42,7 +28,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[73 462 426 87 416 148]" src="https://xivapi.com/i/000000/000310_hr1.png" onclick="openModal(this.id)" alt="True Thrust" />
+ &lt;img id="[210 351 125 318 321 207]" src="https://xivapi.com/i/000000/000310_hr1.png" onclick="openModal(this.id)" alt="True Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">True Thrust&lt;/td>
@@ -53,7 +39,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[286 120 197 168 27 388]" src="https://xivapi.com/i/002000/002592_hr1.png" onclick="openModal(this.id)" alt="Raiden Thrust" />
+ &lt;img id="[380 265 44 316 194 198]" src="https://xivapi.com/i/002000/002592_hr1.png" onclick="openModal(this.id)" alt="Raiden Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Raiden Thrust&lt;/td>
@@ -64,7 +50,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[493 442 384 249 145 189]" src="https://xivapi.com/i/000000/000317_hr1.png" onclick="openModal(this.id)" alt="Disembowel" />
+ &lt;img id="[160 110 303 278 76 304]" src="https://xivapi.com/i/000000/000317_hr1.png" onclick="openModal(this.id)" alt="Disembowel" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Disembowel&lt;/td>
@@ -75,7 +61,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[148 260 1 300 198 227]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002077_hr1.tex?format=png" onclick="openModal(this.id)" alt="Spiral Blow" />
+ &lt;img id="[140 414 100 93 71 12]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002077_hr1.tex?format=png" onclick="openModal(this.id)" alt="Spiral Blow" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Sprial Blow&lt;/td>
@@ -86,7 +72,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[238 116 135 280 11 335]" src="https://xivapi.com/i/000000/000308_hr1.png" onclick="openModal(this.id)" alt="Chaos Thrust" />
+ &lt;img id="[368 357 277 402 88 411]" src="https://xivapi.com/i/000000/000308_hr1.png" onclick="openModal(this.id)" alt="Chaos Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chaos Thrust&lt;/td>
@@ -97,7 +83,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[249 111 387 197 178 4]" src="https://xivapi.com/i/002000/002596_hr1.png" onclick="openModal(this.id)" alt="Chaotic Spring" />
+ &lt;img id="[45 415 168 242 491 234]" src="https://xivapi.com/i/002000/002596_hr1.png" onclick="openModal(this.id)" alt="Chaotic Spring" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chaotic Spring&lt;/td>
@@ -108,7 +94,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[206 79 375 399 342 62]" src="https://xivapi.com/i/000000/000312_hr1.png" onclick="openModal(this.id)" alt="Vorpal Thrust" />
+ &lt;img id="[413 462 172 42 318 464]" src="https://xivapi.com/i/000000/000312_hr1.png" onclick="openModal(this.id)" alt="Vorpal Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Vorpal Thrust&lt;/td>
@@ -119,7 +105,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[131 164 207 274 446 463]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002076_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Barrage" />
+ &lt;img id="[59 401 296 404 280 394]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002076_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Barrage" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Barrage&lt;/td>
@@ -130,7 +116,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[462 493 155 210 314 338]" src="https://xivapi.com/i/000000/000314_hr1.png" onclick="openModal(this.id)" alt="Full Thrust" />
+ &lt;img id="[140 292 228 96 136 268]" src="https://xivapi.com/i/000000/000314_hr1.png" onclick="openModal(this.id)" alt="Full Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Full Thrust&lt;/td>
@@ -141,18 +127,18 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[289 444 144 41 364 402]" src="https://xivapi.com/i/002000/002595_hr1.png" onclick="openModal(this.id)" alt="Heavens&amp;rsquo; Thrust" />
+ &lt;img id="[293 47 14 491 86 318]" src="https://xivapi.com/i/002000/002595_hr1.png" onclick="openModal(this.id)" alt="Heavens&amp;rsquo; Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heavens&amp;rsquo; Thrust&lt;/td>
  &lt;td style="text-align: left">HT&lt;/td>
  &lt;td style="text-align: left">86&lt;/td>
- &lt;td style="text-align: left">An upgraded version of Full Thrust that automatically replaces Full Thrust on your hotbar at Level 86. Increases potency to 440.&lt;/td>
+ &lt;td style="text-align: left">An upgraded version of Full Thrust that automatically replaces Full Thrust on your hotbar at Level 86. Increases potency to 460.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[330 391 146 15 111 332]" src="https://xivapi.com/i/002000/002582_hr1.png" onclick="openModal(this.id)" alt="Fang and Claw" />
+ &lt;img id="[450 268 395 229 378 305]" src="https://xivapi.com/i/002000/002582_hr1.png" onclick="openModal(this.id)" alt="Fang and Claw" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fang and Claw&lt;/td>
@@ -163,7 +149,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[245 273 303 451 357 122]" src="https://xivapi.com/i/002000/002584_hr1.png" onclick="openModal(this.id)" alt="Wheeling Thrust" />
+ &lt;img id="[174 416 223 192 279 55]" src="https://xivapi.com/i/002000/002584_hr1.png" onclick="openModal(this.id)" alt="Wheeling Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Wheeling Thrust&lt;/td>
@@ -174,18 +160,18 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[189 458 185 334 46 475]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png" onclick="openModal(this.id)" alt="Drakesbane" />
+ &lt;img id="[198 78 133 495 286 401]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png" onclick="openModal(this.id)" alt="Drakesbane" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Drakesbane&lt;/td>
  &lt;td style="text-align: left">DB&lt;/td>
  &lt;td style="text-align: left">64&lt;/td>
- &lt;td style="text-align: left">The fifth and final combo action after Fang and Claw and Wheeling Thrust with 440 potency. Grants Draconian Fire for 30s, turning True Thrust into Raiden Thrust and Doom Spike into Draconian Fury.&lt;/td>
+ &lt;td style="text-align: left">The fifth and final combo action after Fang and Claw and Wheeling Thrust with 460 potency. Grants Draconian Fire for 30s, turning True Th0rust into Raiden Thrust and Doom Spike into Draconian Fury.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[500 399 484 361 360 127]" src="https://xivapi.com/i/000000/000315_hr1.png" onclick="openModal(this.id)" alt="Piercing Talon" />
+ &lt;img id="[273 404 413 141 362 277]" src="https://xivapi.com/i/000000/000315_hr1.png" onclick="openModal(this.id)" alt="Piercing Talon" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Piercing Talon&lt;/td>
@@ -217,7 +203,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[159 191 367 291 144 250]" src="https://xivapi.com/i/000000/000306_hr1.png" onclick="openModal(this.id)" alt="Doom Spike" />
+ &lt;img id="[318 438 464 84 396 244]" src="https://xivapi.com/i/000000/000306_hr1.png" onclick="openModal(this.id)" alt="Doom Spike" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Doom Spike&lt;/td>
@@ -228,7 +214,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[384 201 278 323 42 320]" src="https://xivapi.com/i/002000/002594_hr1.png" onclick="openModal(this.id)" alt="Draconian Fury" />
+ &lt;img id="[195 49 256 419 354 140]" src="https://xivapi.com/i/002000/002594_hr1.png" onclick="openModal(this.id)" alt="Draconian Fury" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Draconian Fury&lt;/td>
@@ -239,7 +225,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[443 81 276 441 273 14]" src="https://xivapi.com/i/002000/002586_hr1.png" onclick="openModal(this.id)" alt="Sonic Thrust" />
+ &lt;img id="[119 113 410 49 132 164]" src="https://xivapi.com/i/002000/002586_hr1.png" onclick="openModal(this.id)" alt="Sonic Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Sonic Thrust&lt;/td>
@@ -250,7 +236,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[146 6 359 416 183 253]" src="https://xivapi.com/i/002000/002590_hr1.png" onclick="openModal(this.id)" alt="Coerthan Torment" />
+ &lt;img id="[18 100 418 474 92 382]" src="https://xivapi.com/i/002000/002590_hr1.png" onclick="openModal(this.id)" alt="Coerthan Torment" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Coerthan Torment&lt;/td>
@@ -275,7 +261,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[430 490 96 89 250 230]" src="https://xivapi.com/i/002000/002576_hr1.png" onclick="openModal(this.id)" alt="Jump" />
+ &lt;img id="[6 297 163 46 193 451]" src="https://xivapi.com/i/002000/002576_hr1.png" onclick="openModal(this.id)" alt="Jump" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Jump&lt;/td>
@@ -286,7 +272,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[66 229 354 476 406 206]" src="https://xivapi.com/i/002000/002591_hr1.png" onclick="openModal(this.id)" alt="High Jump" />
+ &lt;img id="[119 415 330 246 394 473]" src="https://xivapi.com/i/002000/002591_hr1.png" onclick="openModal(this.id)" alt="High Jump" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">High Jump&lt;/td>
@@ -297,7 +283,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[444 99 183 272 187 255]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002598_hr1.tex?format=png" onclick="openModal(this.id)" alt="Winged Glide" />
+ &lt;img id="[419 231 115 230 41 258]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002598_hr1.tex?format=png" onclick="openModal(this.id)" alt="Winged Glide" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Winged Glide&lt;/td>
@@ -308,7 +294,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[118 409 302 82 308 106]" src="https://xivapi.com/i/002000/002578_hr1.png" onclick="openModal(this.id)" alt="Dragonfire Dive" />
+ &lt;img id="[289 252 210 408 16 355]" src="https://xivapi.com/i/002000/002578_hr1.png" onclick="openModal(this.id)" alt="Dragonfire Dive" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dragonfire Dive&lt;/td>
@@ -319,7 +305,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[156 255 59 486 468 97]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002075_hr1.tex?format=png" onclick="openModal(this.id)" alt="Rise of the Dragon" />
+ &lt;img id="[102 261 246 308 113 420]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002075_hr1.tex?format=png" onclick="openModal(this.id)" alt="Rise of the Dragon" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Rise of the Dragon&lt;/td>
@@ -330,7 +316,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[358 200 221 73 382 100]" src="https://xivapi.com/i/002000/002588_hr1.png" onclick="openModal(this.id)" alt="Mirage Dive" />
+ &lt;img id="[175 65 32 184 433 359]" src="https://xivapi.com/i/002000/002588_hr1.png" onclick="openModal(this.id)" alt="Mirage Dive" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Mirage Dive&lt;/td>
@@ -341,7 +327,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[3 54 388 344 368 133]" src="https://xivapi.com/i/002000/002583_hr1.png" onclick="openModal(this.id)" alt="Geirskogul" />
+ &lt;img id="[228 6 398 445 276 438]" src="https://xivapi.com/i/002000/002583_hr1.png" onclick="openModal(this.id)" alt="Geirskogul" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Geirskogul&lt;/td>
@@ -352,7 +338,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[192 272 57 295 341 56]" src="https://xivapi.com/i/002000/002589_hr1.png" onclick="openModal(this.id)" alt="Nastrond" />
+ &lt;img id="[457 487 60 345 294 21]" src="https://xivapi.com/i/002000/002589_hr1.png" onclick="openModal(this.id)" alt="Nastrond" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Nastrond&lt;/td>
@@ -363,18 +349,18 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[320 69 469 423 459 295]" src="https://xivapi.com/i/002000/002593_hr1.png" onclick="openModal(this.id)" alt="Stardiver" />
+ &lt;img id="[326 455 393 25 354 321]" src="https://xivapi.com/i/002000/002593_hr1.png" onclick="openModal(this.id)" alt="Stardiver" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Stardiver&lt;/td>
  &lt;td style="text-align: left">STD or SD&lt;/td>
  &lt;td style="text-align: left">80&lt;/td>
- &lt;td style="text-align: left">Jumps to the target and deals damage to all enemies in a 5y radius around it (820 potency for the first enemy, 30% less for all remaining enemies). Only available once per Life of the Dragon - very long animation lock.&lt;/td>
+ &lt;td style="text-align: left">Jumps to the target and deals damage to all enemies in a 5y radius around it (840 potency for the first enemy, 30% less for all remaining enemies). Only available once per Life of the Dragon - very long animation lock.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[132 225 489 89 201 16]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002078_hr1.tex?format=png" onclick="openModal(this.id)" alt="Starcross" />
+ &lt;img id="[92 162 168 478 200 117]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002078_hr1.tex?format=png" onclick="openModal(this.id)" alt="Starcross" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Starcross&lt;/td>
@@ -385,7 +371,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[169 405 203 15 184 404]" src="https://xivapi.com/i/002000/002597_hr1.png" onclick="openModal(this.id)" alt="Wyrmwind Thrust" />
+ &lt;img id="[53 133 338 435 19 403]" src="https://xivapi.com/i/002000/002597_hr1.png" onclick="openModal(this.id)" alt="Wyrmwind Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Wyrmwind Thrust&lt;/td>
@@ -396,7 +382,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[401 429 476 227 96 262]" src="https://xivapi.com/i/002000/002577_hr1.png" onclick="openModal(this.id)" alt="Elusive Jump" />
+ &lt;img id="[362 354 476 20 244 421]" src="https://xivapi.com/i/002000/002577_hr1.png" onclick="openModal(this.id)" alt="Elusive Jump" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Elusive Jump&lt;/td>
@@ -421,7 +407,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[71 141 40 6 436 50]" src="https://xivapi.com/i/000000/000309_hr1.png" onclick="openModal(this.id)" alt="Lance Charge" />
+ &lt;img id="[331 291 98 152 120 49]" src="https://xivapi.com/i/000000/000309_hr1.png" onclick="openModal(this.id)" alt="Lance Charge" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Charge&lt;/td>
@@ -432,7 +418,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[468 403 356 475 485 92]" src="https://xivapi.com/i/002000/002585_hr1.png" onclick="openModal(this.id)" alt="Battle Litany" />
+ &lt;img id="[142 496 445 428 327 458]" src="https://xivapi.com/i/002000/002585_hr1.png" onclick="openModal(this.id)" alt="Battle Litany" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Battle Litany&lt;/td>
@@ -443,7 +429,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[56 71 93 92 102 251]" src="https://xivapi.com/i/000000/000304_hr1.png" onclick="openModal(this.id)" alt="Life Surge" />
+ &lt;img id="[415 500 114 29 192 43]" src="https://xivapi.com/i/000000/000304_hr1.png" onclick="openModal(this.id)" alt="Life Surge" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Life Surge&lt;/td>
@@ -454,7 +440,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[282 313 438 338 286 479]" src="https://beta.xivapi.com/api/1/asset/ui/icon/020000/020710_hr1.tex?format=png" onclick="openModal(this.id)" alt="Gemdraught of Strength" />
+ &lt;img id="[30 227 281 233 413 427]" src="https://beta.xivapi.com/api/1/asset/ui/icon/020000/020710_hr1.tex?format=png" onclick="openModal(this.id)" alt="Gemdraught of Strength" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Current Gemdraught of Strength&lt;/td>
@@ -479,7 +465,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[43 51 153 96 384 487]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" />
+ &lt;img id="[325 231 479 314 368 26]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -490,7 +476,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[496 351 388 203 461 87]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="Leg Sweep" />
+ &lt;img id="[71 35 309 78 259 178]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="Leg Sweep" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Sweep&lt;/td>
@@ -501,7 +487,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[484 463 2 1 335 377]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="Bloodbath" />
+ &lt;img id="[11 361 310 429 229 86]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="Bloodbath" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodbath&lt;/td>
@@ -512,7 +498,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[14 454 47 412 94 83]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="Feint" />
+ &lt;img id="[165 279 138 51 142 264]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="Feint" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Feint&lt;/td>
@@ -523,7 +509,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[499 224 442 299 458 166]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" />
+ &lt;img id="[81 465 384 443 49 46]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -534,7 +520,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[406 377 346 113 21 454]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="True North" />
+ &lt;img id="[99 359 13 374 222 244]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="True North" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">True North&lt;/td>
@@ -559,7 +545,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[68 71 126 39 261 80]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005294_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Jump" />
+ &lt;img id="[239 24 347 479 464 229]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005294_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Jump" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Jump&lt;/td>
@@ -570,7 +556,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[256 145 159 370 221 267]" src="https://xivapi.com/i/005000/005285_hr1.png" onclick="openModal(this.id)" alt="Life of the Dragon" />
+ &lt;img id="[381 300 295 311 22 439]" src="https://xivapi.com/i/005000/005285_hr1.png" onclick="openModal(this.id)" alt="Life of the Dragon" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Life of the Dragon&lt;/td>
@@ -581,7 +567,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[114 116 122 347 309 500]" src="https://xivapi.com/i/005000/005286_hr1.png" onclick="openModal(this.id)" alt="Jump Mastery" />
+ &lt;img id="[465 165 66 93 166 381]" src="https://xivapi.com/i/005000/005286_hr1.png" onclick="openModal(this.id)" alt="Jump Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Jump Mastery&lt;/td>
@@ -592,7 +578,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[421 245 101 348 393 120]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005284_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery" />
+ &lt;img id="[29 69 436 88 289 213]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005284_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Mastery&lt;/td>
@@ -603,7 +589,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[364 30 165 11 102 144]" src="https://xivapi.com/i/005000/005290_hr1.png" onclick="openModal(this.id)" alt="Enhanced Coerthan Torment" />
+ &lt;img id="[475 254 231 298 56 97]" src="https://xivapi.com/i/005000/005290_hr1.png" onclick="openModal(this.id)" alt="Enhanced Coerthan Torment" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Coerthan Torment&lt;/td>
@@ -614,7 +600,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[425 205 333 218 191 254]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005295_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Winged Glide" />
+ &lt;img id="[348 318 153 495 26 76]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005295_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Winged Glide" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Winged Glide&lt;/td>
@@ -625,7 +611,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[137 181 480 200 37 375]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005288_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery II" />
+ &lt;img id="[496 232 217 95 473 315]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005288_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Mastery II&lt;/td>
@@ -636,7 +622,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[405 299 25 434 408 168]" src="https://xivapi.com/i/005000/005277_hr1.png" onclick="openModal(this.id)" alt="Enhanced Life Surge" />
+ &lt;img id="[359 392 287 39 434 332]" src="https://xivapi.com/i/005000/005277_hr1.png" onclick="openModal(this.id)" alt="Enhanced Life Surge" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Life Surge&lt;/td>
@@ -647,7 +633,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[457 181 349 17 323 359]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005292_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery III" />
+ &lt;img id="[327 404 212 423 51 264]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005292_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery III" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Mastery III&lt;/td>
@@ -658,7 +644,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[496 133 348 332 107 326]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005296_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Dragonfire Dive" />
+ &lt;img id="[423 37 218 241 47 104]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005296_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Dragonfire Dive" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Dragonfire Dive&lt;/td>
@@ -669,18 +655,18 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[74 206 396 97 443 178]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006806_hr1.tex?format=png" onclick="openModal(this.id)" alt="Melee Mastery" />
+ &lt;img id="[422 182 194 238 385 433]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006806_hr1.tex?format=png" onclick="openModal(this.id)" alt="Melee Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Melee Mastery&lt;/td>
  &lt;td style="text-align: left">-&lt;/td>
  &lt;td style="text-align: left">94&lt;/td>
- &lt;td style="text-align: left">Increases the potency of Fang and Claw to 340, Wheeling Thrust to 340, Drakesbane to 440, Raiden Thrust to 320, Heavens&amp;rsquo; Thrust to 440 and Chaotic Spring to 340.&lt;/td>
+ &lt;td style="text-align: left">Increases the potency of Fang and Claw to 340, Wheeling Thrust to 340, Drakesbane to 460, Raiden Thrust to 320, Heavens&amp;rsquo; Thrust to 460 and Chaotic Spring to 340.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[9 241 196 307 477 32]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005293_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery IV" />
+ &lt;img id="[109 65 253 447 157 316]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005293_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery IV" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Mastery IV&lt;/td>
@@ -691,7 +677,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[324 494 26 410 423 478]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005298_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Stardiver" />
+ &lt;img id="[475 175 365 202 430 390]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005298_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Stardiver" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Stardiver&lt;/td>
@@ -716,7 +702,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[85 276 481 261 296 318]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006852_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Second Wind" />
+ &lt;img id="[365 61 117 460 54 55]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006852_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Second Wind" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Second Wind&lt;/td>
@@ -727,7 +713,7 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[81 1 258 111 175 319]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006851_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Feint" />
+ &lt;img id="[170 416 297 310 79 345]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006851_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Feint" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Feint&lt;/td>
@@ -736,6 +722,20 @@ We use our raidbuff Battle Litany after applying our DoT for party alignment, th
  &lt;td style="text-align: left">Extends the duration of Feint to 15 seconds.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Dragoon Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/</link><pubDate>Mon, 09 Dec 2024 10:28:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/</guid><description>&lt;h1 id="jobsmeleedragoonopenerjobsmeleedragoonopenersaving-the-dragoon">&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/dragoon/opener/">/jobs/melee/dragoon/opener/&lt;/a>Saving The Dragoon&lt;/h1>
+&lt;/table></description></item><item><title>Dragoon Openers</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/openers/</link><pubDate>Sun, 30 Mar 2025 10:47:38 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/openers/</guid><description>&lt;h1 id="dragoon-opener-and-rotation">Dragoon Opener and Rotation&lt;/h1>
+&lt;p>The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new job design, it’s possible that we’ll actually have fight-specific openers down the stretch.&lt;/p>
+&lt;h2 id="standard-opener---no-pt">Standard Opener - No PT&lt;/h2>
+&lt;p>
+&lt;div class="md__image">
+ &lt;img id="[469 65 101 246 230 441]" src="https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_-_No_PT.png?raw=true" onclick="openModal(this.id)" alt="Standard Opener - No PT" />
+&lt;/div>
+
+&lt;br>
+We use our raidbuff Battle Litany after applying our DoT for party alignment, the rest of our buffs surround it with Geirskogul being used last to ensure its own potency is buffed by all our personal buffs and potential raidbuffs.&lt;/p></description></item><item><title>Dragoon FAQ</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</link><pubDate>Sun, 30 Mar 2025 10:37:28 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/faq/</guid><description>&lt;h1 id="frequently-asked-questions">Frequently Asked Questions&lt;/h1>
+&lt;p>Type &lt;code>!faq drg&lt;/code> in #bot_spam for a full list of commands to answer other common questions!&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>How does Raiden Thrust work?&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>Raiden Thrust is an upgraded True Thrust. It combos into both Disembowel and Vorpal Thrust and replaces True Thrust on your bar when it’s ready. You activate it by successfully landing the positional on the fifth hit of your combo (Fang and Claw or Wheeling Thrust following Wheeling Thrust or Fang and Claw, respectively). If you fail, you get to press True Thrust and hear a laugh track play in the background.&lt;/p></description></item><item><title>Dragoon Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/best-in-slot/</link><pubDate>Sun, 30 Mar 2025 10:24:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/best-in-slot/</guid><description/></item><item><title>Dragoon Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/stat-priority/</link><pubDate>Sun, 30 Mar 2025 10:23:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/stat-priority/</guid><description/></item><item><title>Dragoon Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/job-changes/</link><pubDate>Sun, 30 Mar 2025 10:21:03 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/job-changes/</guid><description/></item><item><title>Dragoon Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/</link><pubDate>Mon, 09 Dec 2024 10:28:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/</guid><description>&lt;h1 id="jobsmeleedragoonopenerjobsmeleedragoonopenersaving-the-dragoon">&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/dragoon/opener/">/jobs/melee/dragoon/opener/&lt;/a>Saving The Dragoon&lt;/h1>
 &lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>Dragoon is a relatively static melee DPS job with a high focus on weaving off-Global Cooldown (oGCD) actions between a rigid 10-hit sequence of Global Cooldown (GCD) actions. Burst windows can get hectic, and prioritizing the various skills you need to execute can become a rather significant hassle in some instances. Dawntrail has doubled down on this by introducing the ability to utilize even more oGCD actions at regular intervals, as if we didn’t have enough already.&lt;/p></description></item><item><title>Dragoon Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/advanced-guide/</link><pubDate>Wed, 21 Sep 2022 20:41:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/advanced-guide/</guid><description>&lt;p>Due to the nature of the Dragoon job design, advanced content is included and covered within the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/">Basic Guide&lt;/a>. If you have further questions regarding DRG optimization, please feel free to ask in the Discord server.&lt;/p></description></item></channel></rss>
