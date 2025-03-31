@@ -29,8 +29,11 @@ changelog:
 bis:
   - type: xivgearset
     name: 7.2 Savage BiS
-    link: ac0e2f00-5876-4847-b48d-10fea240f073
-    description: Compatible with VPR as long as VPR doesn't want to run any skill speed.
+    link: 6df7a6e2-c631-4b1d-a955-4db8cdd2a8e5
+    description: |-
+      Link shows VPR weapon, but NIN weapon has identical stats.\
+      \
+      Compatible with VPR as long as VPR doesn't want to run any skill speed.
   - type: xivgearset
     name: 7.2 Savage Prog Set (Pentamelded)
     link: 209f0d9c-7d95-4f82-99c4-2457a5e63260
