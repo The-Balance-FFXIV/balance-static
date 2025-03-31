@@ -1,8 +1,8 @@
 ---
 title: Monk Best in Slot (BiS)
 layout: bis
-patch: "6.5"
-lastmod: 2024-01-20T23:27:56.477Z
+patch: "7.2"
+lastmod: 2025-03-31T00:57:59.287Z
 changelog:
   - date: 2021-10-28T03:54:36.354Z
     message: Created page
@@ -14,27 +14,29 @@ changelog:
     message: Updated for 6.4 BiS.
   - date: 2024-01-20T23:27:42.358Z
     message: Updated for 6.5 BiS.
+  - date: 2025-03-31T01:08:47.430Z
+    message: Updated for 7.2
 bis:
-  - type: etro
+  - type: genericiframe
     description: ""
-    name: 1.94 GCD (relic)
-    link: b37bbc9d-5d92-4485-b933-dccfc989aa6a
-  - type: etro
-    description: Uses the same melds as Samurai 2.15 relic, with a different headpiece
-    name: 1.94 (relic - sam compatible)
-    link: 6176613e-679f-4eac-bbfd-91886688c177
-  - type: etro
+    name: 1.94 Savage BiS
+    link: https://xivgear.app/?page=sl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=1
+  - type: genericiframe
     description: ""
-    name: 1.93 (relic)
-    link: "dcaca0c5-4539-4c5a-9cc0-36aedd1a22cd "
-  - type: etro
-    description: Compatible with 2.14 GCD Samurai
-    name: 1.94 GCD (non-relic)
-    link: cc22e1aa-6d78-4ffe-bc53-e8466373b6bc
-  - type: etro
+    name: 1.94 Week 1, Ornate + Pentameld + Tome Pants
+    link: https://xivgear.app/?page=sl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=3
+  - type: genericiframe
     description: ""
-    name: 1.93 GCD (non-relic)
-    link: aacac26e-56b3-4341-95ff-2ae0cc97e233
+    name: 1.94 Week 1, Pentameld + Tome Pants
+    link: https://xivgear.app/?page=sl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=5
+  - type: genericiframe
+    description: ""
+    name: 1.94 Week 1, Pentameld + Ex Weapon
+    link: https://xivgear.app/?page=sl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=9
+  - type: genericiframe
+    description: ""
+    name: 1.94 Week 1, Pentameld Only
+    link: https://xivgear.app/?page=sl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=11
   - type: gsheets
     description: ""
     name: Ultimate/Unreal Sets
