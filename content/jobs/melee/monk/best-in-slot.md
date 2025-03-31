@@ -14,6 +14,8 @@ changelog:
     message: Updated for 6.4 BiS.
   - date: 2024-01-20T23:27:42.358Z
     message: Updated for 6.5 BiS.
+  - date: 2025-03-31T01:08:47.430Z
+    message: Updated for 7.2
 bis:
   - type: genericiframe
     description: ""
