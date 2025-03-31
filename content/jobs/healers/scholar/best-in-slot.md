@@ -1,20 +1,22 @@
 ---
 title: Scholar Best in Slot (BiS)
 layout: bis
-patch: "7.1"
-lastmod: 2024-12-06T23:18:33.755Z
+patch: "7.2"
+lastmod: 2025-03-30T20:24:14.476Z
 changelog:
-  - date: 2024-08-03T19:41:07.389Z
-    message: Updated for DT
   - date: 2024-08-06T21:59:04.647Z
     message: updated once again for DT
   - date: 2024-08-22T06:34:47.580Z
     message: Updated formatting
   - date: 2024-11-18T18:23:55.634Z
     message: aug crafted general recommendation updated
-  - date: 2024-12-06T23:18:16.307Z
-    message: updated sets
+  - date: 2025-03-30T20:19:43.416Z
+    message: added 7.2 savage sets
 bis:
+  - type: etro
+    name: You can find full sheet with more sets in the scholar resources on The
+      Balance discord
+    description: ""
   - type: null
     name: Information
     link: ""
@@ -36,44 +38,62 @@ bis:
 
 
       If using the Early Refresh(DoT clip) opener: The 2.50 GCD and 2.49 GCD sets will NOT land Biolysis under Chain Stratagem if you use Biolysis AFTER your 6th Energy Drain in the opener (the breakpoint is 2.47 GCD and requires low ping). To fix this, use Biolysis on the same GCD as your 6th Energy Drain.
+  - type: genericiframe
+    name: 2.40 GCD
+    description: "* This is the generally recommended set. It has great alignment
+      for both Aetherflow and Chain Stratagem, and its slower GCD ensures that
+      you will have more MP for raises and GCD healing."
+    link: https://xivgear.app/?page=sl%7C92a4ba85-80e2-4699-86d2-ded23625daf1
+  - type: genericiframe
+    link: https://xivgear.app/?page=sl%7C9b0013fc-a19d-474d-967e-4e054a041113
+    name: 2.32 GCD
+    description: >-
+      This set provides the highest simulated DPS. Despite its simulated DPS,
+      its awkward GCD alignment for Chain Stratagem and its increased MP
+      expenditure prevent it from being the default recommendation. It may not
+      be as easy or comfortable to use as the 2.40 set, but its higher simulated
+      DPS makes it a reasonable consideration.
+
+
+      This set has relatively good alignment for Aetherflow, but this GCD causes Chain Stratagem to drift by 0.6-0.7s per use. That amount of drift may or may not matter.
+
+
+      If your group's burst is not well timed, the slight Chain Stratagem drift is probably irrelevant. Even if your group's burst is coordinated, raid buffs tend to drift a little over the course of an encounter, so the slight Chain Stratagem drift might not actually cause it to be misaligned.
+
+
+      If the encounter is short enough (less than 8 or 10 minutes), or if your group ever delays raid buffs because of mechanics or downtime, the slight Chain Stratagem drift should not be significant.
+  - type: genericiframe
+    link: https://xivgear.app/?page=sl%7Cc675f00c-195f-4600-9103-801dcba50dfc
+    name: 2.31 GCD
+    description: >-
+      This is a suitable alternative for players who prefer a faster GCD without
+      dealing with the slightly awkward GCD alignment of the 2.32 set. Its
+      simulated DPS is slightly worse, but it may be more comfortable to use,
+      depending on your personal preference.
+
+
+      Even with the faster GCD, this set's MP should still be perfectly sustainable in a somewhat organized environment where you do not expect to cast multiple raises or do a lot of GCD healing.
   - type: etro
-    name: Min Piety BiS sets
-    description: "These sets are for people who just want to push for damage and
-      know the limits of their mana regen. The .50 and .49 sets are slow sets
-      that have better mana eco while the 2.32 sets and 2.31 sets uses a lot
-      more mana. the .32 set does 9 more sim DPS than the .31 set. "
-  - type: genericlink
-    description: https://xivgear.app/?page=sl%7C6fddb2b7-3c13-4933-8d00-a361e45b60c3
-    name: 2.5 min piety
+    name: Ultimate/criterion sets below
   - type: genericiframe
-    name: 2.49 min piety
-    link: https://xivgear.app/?page=sl%7C2a1726c4-3487-47fc-a079-0cef761f6cc7
+    name: DSR
+    link: https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45
+    description: DSR The piety requirements vary depending on your p7 strat for akh
+      morns. 332 requires more GCD healing while 611 is laxer. Choose a GCD
+      based on the gear you're willing to farm. 2.5 provids mainly sync gear
+      while 2.45/2.40 has p1s-p4s raid gear
   - type: genericiframe
-    name: 2.32 min piety
-    link: https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=2
+    name: TOP/Sil'dihn
+    link: https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650
   - type: genericiframe
-    name: 2.31 min piety
-    link: https://xivgear.app/?page=sl%7C6309a7ef-29a6-49fe-9fac-ab5237cb799b
-  - type: etro
-    name: mid piety/no chaotic
-    description: These are higher piety sets for those  who don't know the limit of
-      their piety or don't know the raid environment they're going into and how
-      much they'll need to safety heal. You should use these sets until you get
-      more used to your kit and how to effectively heal without burning too much
-      mana.
+    name: Rokkon Aloalo
+    link: https://xivgear.app/?page=bis%7Csch%7Cendwalker%7Canabaseios
   - type: genericiframe
-    name: 2.50 956 piety
-    description: https://xivgear.app/?page=sl%7Cf802e7b0-b316-419a-a777-6794ed0cebb1
+    name: FRU 2.50
+    link: https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=0
   - type: genericiframe
-    name: 2.49 956 piety
-    link: https://xivgear.app/?page=sl%7C18ce34ca-066b-4a2a-a468-d415b442d0e4
-  - type: genericiframe
-    name: 2.50 1330 piety
-    link: https://xivgear.app/?page=sl%7C7e35966f-654e-4c3e-800b-c29e768cae7e
-  - type: etro
-    name: You can find full sheet with more sets in the scholar resources on The
-      Balance discord
-    description: ""
+    name: FRU 2.31
+    link: https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=3
 authors:
   - Balance-SCH-Staff
 tags:
