@@ -27,6 +27,8 @@ changes:
 
 
       Swiftcast's cooldown has been reduced from 60s to 40s.
+  - patch: "7.2"
+    description: Eukrasian Dosis III Potency has been increased from 75 to 80.
 authors:
   - Balance-SGE-Staff
 ---
