@@ -1,8 +1,8 @@
 ---
 title: Dancer Best in Slot (BiS)
 layout: bis
-patch: "7.05"
-lastmod: 2024-08-05T13:26:47.140Z
+patch: "7.2"
+lastmod: 2025-03-31T16:56:26.693Z
 changelog:
   - date: 2021-10-26T02:11:25.028Z
     message: Created page
@@ -14,13 +14,20 @@ changelog:
     message: Updated for patch 6.55
   - date: 2024-08-05T13:26:33.033Z
     message: Updated for patch 7.05
+  - date: 2025-03-31T16:56:29.566Z
+    message: Updated for patch 7.2
 bis:
+  - type: xivgearset
+    name: 7.2 ilvl 760 BiS 2.5 GCD
+    link: https://xivgear.app/?page=sl|163d0df4-39fe-4036-b5f9-fdd7ba0e2a22
+  - type: xivgearset
+    name: 7.2 ilvl 740 Baseline Set
+    link: https://xivgear.app/?page=sl|a3d38c6f-02c7-4756-828a-2cae476fdfe5
+    description: Set for starting savage progression without any gear from weekly
+      capped tomestones or savage raids
   - type: etro
     name: 7.05 ilvl 730 BiS 2.5 GCD
     link: https://etro.gg/gearset/f0504326-4983-4baa-aa9c-06a495129910
-  - type: etro
-    name: 7.05 ilvl 710 Baseline Set
-    link: https://etro.gg/gearset/8b455173-4f56-4d3b-b398-63ed00d86c1a
   - type: etro
     description: ""
     name: 6.50 - TOP / ASS / ASS (Savage) BiS 2.47 GCD
@@ -41,6 +48,13 @@ bis:
     description: ""
     name: 6.50 - DSR BiS 2.49 GCD (with P4S weapon)
     link: fae08d67-fdaf-4494-9920-062524c4b583
+  - type: xivgearset
+    name: 7.2 ilvl 740 niche Week 1 Set
+    link: https://xivgear.app/?page=sl|c0eafba8-dca1-4aee-b09a-6dd09f3bc949
+    description: This set maximizes damage for week 1 savage progression with 2
+      weeks worth of weekly capped tomestones. Do NOT consider this set if you
+      are starting progression later, have already gotten more tomestone gear or
+      drops from savage floors.
 authors:
   - Balance-DNC-Staff
 tags:
