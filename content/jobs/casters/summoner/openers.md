@@ -12,6 +12,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-09-18T07:52:24.761Z
     message: Updated with current openers
+  - date: 2024-07-07T22:58:36.950Z
+    message: Updated for Dawntrail
   - date: 2025-03-31T22:56:48.365Z
     message: Updated Patch Number
 ---
