@@ -20,23 +20,23 @@ bis:
   - type: genericiframe
     description: ""
     name: 1.94 Savage BiS
-    link: https://xivgear.app/?page=sl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=1
+    link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=1
   - type: genericiframe
     description: ""
     name: 1.94 Week 1, Ornate + Pentameld + Tome Pants
-    link: https://xivgear.app/?page=sl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=3
+    link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=3
   - type: genericiframe
     description: ""
     name: 1.94 Week 1, Pentameld + Tome Pants
-    link: https://xivgear.app/?page=sl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=5
+    link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=5
   - type: genericiframe
     description: ""
     name: 1.94 Week 1, Pentameld + Ex Weapon
-    link: https://xivgear.app/?page=sl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=9
+    link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=9
   - type: genericiframe
     description: ""
     name: 1.94 Week 1, Pentameld Only
-    link: https://xivgear.app/?page=sl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=11
+    link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=11
   - type: gsheets
     description: ""
     name: Ultimate/Unreal Sets
