@@ -2,7 +2,7 @@
 title: Monk Best in Slot (BiS)
 layout: bis
 patch: "7.2"
-lastmod: 2025-03-31T00:57:59.287Z
+lastmod: 2025-03-31T22:02:44.561Z
 changelog:
   - date: 2021-10-28T03:54:36.354Z
     message: Created page
