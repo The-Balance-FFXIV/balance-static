@@ -1,8 +1,8 @@
 ---
 title: White Mage Best in Slot (BiS)
 layout: bis
-patch: "7.11"
-lastmod: 2024-08-07T06:18:50.396Z
+patch: "7.2"
+lastmod: 2025-03-31T11:28:25.313Z
 changelog:
   - date: 2023-06-13T07:42:00.016Z
     message: updated for 6.4
@@ -14,6 +14,8 @@ changelog:
     message: Fixed the display of the embeds.
   - date: 2025-01-06T12:40:41.694Z
     message: Updated for 7.1 + Chaotic Gear
+  - date: 2025-03-31T11:28:33.713Z
+    message: Updated for 7.2
 bis:
   - type: genericlink
     name: Best in Slot as well as Week 1 Prog sets for 7.2
