@@ -4,8 +4,8 @@ card_header_image: /img/jobs/mnk/basic.png
 authors:
   - Perfect-Balance
   - nyanpyon
-patch: "7.05"
-lastmod: 2024-09-03T22:39:59.256Z
+patch: "7.2"
+lastmod: 2025-03-31T22:27:44.609Z
 changelog:
   - date: 2021-10-28T03:44:08.486Z
     message: Created page
@@ -18,6 +18,8 @@ changelog:
     message: Patch bump to 6.4
   - date: 2024-09-03T22:39:43.491Z
     message: Updated Guide to 7.05
+  - date: 2025-03-31T22:27:46.089Z
+    message: 7.2 potency changes
 ---
 ![]()
 
