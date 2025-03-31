@@ -1,7 +1,7 @@
 ---
 title: Astrologian Changes
 layout: changes
-lastmod: 2022-04-12T00:18:35.349Z
+lastmod: 2025-03-31T23:09:12.115Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
