@@ -2,6 +2,7 @@
 title: Samurai Skills Overview
 authors:
   - Balance-SAM-Staff
+  - Flare
 patch: "7.05"
 lastmod: 2024-11-16T06:16:19.288Z
 changelog:
@@ -19,6 +20,8 @@ changelog:
     message: Updated for 6.55
   - date: 2024-08-18T07:37:44.161Z
     message: Updated for 7.05
+  - date: 2025-03-31T22:51:06.579Z
+    message: Updated for 7.2
 ---
 # Samurai Skills Overview
 
@@ -55,11 +58,11 @@ changelog:
 | ![Hissatsu: Gyoten](https://xivapi.com/i/003000/003169_hr1.png)                            | Hissatsu: Gyoten  | Dash to target (20-yalm range), 100 potency. -10 Kenki. 10s CD                                                                                                                                                        |
 | ![Hissatsu: Yaten](https://xivapi.com/i/003000/003170_hr1.png)                             | Hissatsu: Yaten   | 10-yalm backstep, 100 potency. Combos into Enpi. -10 Kenki. 10s CD.                                                                                                                                                   |
 | ![Hissatsu: Shinten](https://xivapi.com/i/003000/003173_hr1.png)                           | Hissatsu: Shinten | Single target attack, 250 potency. -25 Kenki. 15s CD.                                                                                                                                                                 |
-| ![Hissatsu: Kyuten](https://xivapi.com/i/003000/003174_hr1.png)                            | Hissatsu: Kyuten  | AoE in a circle around you, 120 potency. -25 Kenki. 15s CD.                                                                                                                                                           |
-| ![Hissatsu: Guren](https://xivapi.com/i/003000/003177_hr1.png)                             | Hissatsu: Guren   | Line AOE, 500 potency with 25% damage falloff. -25 Kenki. 60s CD, shared with Senei.                                                                                                                                  |
+| ![Hissatsu: Kyuten](https://xivapi.com/i/003000/003174_hr1.png)                            | Hissatsu: Kyuten  | AoE in a circle around you, 100 potency. -25 Kenki. 15s CD.                                                                                                                                                           |
+| ![Hissatsu: Guren](https://xivapi.com/i/003000/003177_hr1.png)                             | Hissatsu: Guren   | Line AOE, 400 potency with 25% damage falloff. -25 Kenki. 60s CD, shared with Senei.                                                                                                                                  |
 | ![Hissatsu: Senei](https://xivapi.com/i/003000/003178_hr1.png)                             | Hissatsu: Senei   | Single target nuke, 800 potency. -25 Kenki. 60s CD, shared with Guren.                                                                                                                                                |
-| ![Shoha](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003184_hr1.tex?format=png)     | Shoha             | Line AOE, 640 potency with 65% damage falloff. -3 Meditation stacks. 15s CD.                                                                                                                                          |
-| ![Zanshin](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003192_hr1.tex?format=png)   | Zanshin           | Cone AOE, 900 potency with 60% damage falloff. -50 Kenki.                                                                                                                                                             |
+| ![Shoha](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003184_hr1.tex?format=png)     | Shoha             | Line AOE, 640 potency with 50% damage falloff. -3 Meditation stacks. 15s CD.                                                                                                                                          |
+| ![Zanshin](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003192_hr1.tex?format=png)   | Zanshin           | Cone AOE, 940 potency with 50% damage falloff. -50 Kenki.                                                                                                                                                             |
 
 ## Iaijutsu
 
@@ -70,14 +73,14 @@ changelog:
 | ![Tenka Goken](https://xivapi.com/i/003000/003161_hr1.png)                                               | Tenka Goken             | Circle AoE. 300 potency.                                                                                                  |     |
 | ![Tendo Goken](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003193_hr1.tex?format=png)             | Tendo Goken             | Circle AOE. 410 potency.                                                                                                  |     |
 | ![Midare Setsugekka](https://xivapi.com/i/003000/003162_hr1.png)                                         | Midare Setsugekka       | Single target skill. 640 potency. This attack will always critical hit.                                                   |     |
-| ![Tendo Setsugekka](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003194_hr1.tex?format=png)        | Tendo Setsugekka        | Single target skill. 1020 potency. This attack will always critical hit.                                                  |     |
+| ![Tendo Setsugekka](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003194_hr1.tex?format=png)        | Tendo Setsugekka        | Single target skill. 1100 potency. This attack will always critical hit.                                                  |     |
 | ![Tsubame-gaeshi](https://xivapi.com/i/003000/003180_hr1.png)                                            | Tsubame-gaeshi          | Weaponskill, becomes available after casting Iaijutsu. Recasts the Iaijutsu you used for the same potency.                |     |
 | ![Kaeshi: Goken](https://xivapi.com/i/003000/003182_hr1.png)                                             | Kaeshi: Goken           | Circle AOE. Repeat of Tenka Goken. 300 potency.                                                                           |     |
 | ![Tendo Kaeshi Goken](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003195_hr1.tex?format=png)      | Tendo Kaeshi Goken      | Circle AOE. Repeat of Tendo Goken. 410 potency.                                                                           |     |
 | ![Kaeshi: Setsugekka](https://xivapi.com/i/003000/003183_hr1.png)                                        | Kaeshi: Setsugekka      | Single target skill. Repeat of Midare Setsugekka. 640 potency. This attack will always critical hit.                      |     |
-| ![Tendo Kaeshi Setsugekka](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003196_hr1.tex?format=png) | Tendo Kaeshi Setsugekka | Single target skill. Repeat of Tendo Setsugekka. 1020 potency. This attack will always critical hit.                      |     |
-| ![Ogi Namikiri](https://xivapi.com/i/003000/003187_hr1.png)                                              | Ogi Namikiri            | AoE frontal cone. 900 potency with 75% damage falloff. This attack will always critical hit. +1 Meditation stack (Max 3). |     |
-| ![Kaeshi: Namikiri](https://xivapi.com/i/003000/003188_hr1.png)                                          | Kaeshi: Namikiri        | AoE frontal cone. Repeat of Ogi Namikiri. 900 potency with 75% damage falloff. This attack will always critical hit.      |     |
+| ![Tendo Kaeshi Setsugekka](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003196_hr1.tex?format=png) | Tendo Kaeshi Setsugekka | Single target skill. Repeat of Tendo Setsugekka. 1100 potency. This attack will always critical hit.                      |     |
+| ![Ogi Namikiri](https://xivapi.com/i/003000/003187_hr1.png)                                              | Ogi Namikiri            | AoE frontal cone. 100 potency with 50% damage falloff. This attack will always critical hit. +1 Meditation stack (Max 3). |     |
+| ![Kaeshi: Namikiri](https://xivapi.com/i/003000/003188_hr1.png)                                          | Kaeshi: Namikiri        | AoE frontal cone. Repeat of Ogi Namikiri. 1000 potency with 50% damage falloff. This attack will always critical hit.     |     |
 
 ## Role Actions
 
