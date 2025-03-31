@@ -1,8 +1,8 @@
 ---
 title: Black Mage Best in Slot (BiS)
 layout: bis
-patch: "7.15"
-lastmod: 2025-01-28T01:03:06.520Z
+patch: "7.2"
+lastmod: 2025-03-30T20:25:36.471Z
 changelog:
   - date: 2024-01-20T02:11:30.616Z
     message: Added BiS sets using Manderville Relic
@@ -20,57 +20,53 @@ changelog:
     message: Updated for 7.0
   - date: 2024-08-18T02:26:30.602Z
     message: Updated for 7.05
+  - date: 2025-03-30T20:25:39.239Z
+    message: Adding BiS and Prog Sets
 bis:
   - type: genericiframe
-    name: 2.42 Omnicaster Compatible BiS with Chaotic Gear & FRU Weapon
-    link: https://xivgear.app/?page=embed%7Csl%7C2ac3b26a-52b7-4362-b3ed-dd0f0100995f&onlySetIndex=0
-    description: Includes a single meld swap (Crit -> Det on savage ring).
+    name: 2.17 High SpS BiS
+    link: https://xivgear.app/?page=embed%7Csl%7C6e09949e-19f2-47b4-b711-242cef40faaa&onlySetIndex=0
+    description: Top simming set.
   - type: genericiframe
-    description: ""
-    link: https://xivgear.app/?page=embed%7Csl%7C91ef2716-1d1f-4635-a251-e7c3702fd07b&onlySetIndex=3
-    name: 2.24 High SpS BiS with Chaotic Gear & FRU Weapon
-  - type: genericlink
-    name: Alternative Sets with Chaotic Gear & FRU Weapon
-    link: https://xivgear.app/?page=sl%7C205b3c0e-25c4-4097-becf-dcb8fb5daaa6
-    description: Hosts alternative sets at various other GCDs, including some sets
-      avoiding tomestone gear on the left side.
-  - type: genericiframe
-    link: https://xivgear.app/?page=embed%7Csl%7C9d0af842-0438-4882-94b3-fdad99c55327&onlySetIndex=0
-    name: 2.42 Omnicaster Compatible BiS with Chaotic Gear
-    description: Includes a single meld swap (Crit -> Det on savage ring)
-  - type: genericiframe
-    name: 2.24 High SpS BiS with Chaotic Gear
-    link: https://xivgear.app/?page=embed%7Csl%7C9d0af842-0438-4882-94b3-fdad99c55327&onlySetIndex=2
-  - type: genericlink
-    name: Alternative Sets with Chaotic Gear
-    description: Hosts alternative sets at various other GCDs, including some sets
-      avoiding tomestone gear on the left side.
-    link: https://xivgear.app/?page=sl%7Ca48e68d7-5ae5-47cb-909f-b38858023aaa
-  - type: genericiframe
-    name: 2.42 Omnicaster Compatible BiS
-    link: https://xivgear.app/?page=embed%7Csl%7C12a9111e-6f66-47db-9abf-a41ecf5dc283&onlySetIndex=0
-    description: >-
-      By swapping the gloves for appropriately melded tome gloves, this set can
-      share gear with the PCT/RDM BiS sets as well as SMN omni-caster BiS sets.
-
-
-      Has speed melds on weapon to facilitate this compatibility with other caster sets.
-  - type: genericiframe
+    description: 99.08% of best.
+    link: https://xivgear.app/?page=embed%7Csl%7C6e09949e-19f2-47b4-b711-242cef40faaa&onlySetIndex=3
     name: 2.36 High Crit BiS
-    link: https://xivgear.app/?page=embed%7Csl%7C12a9111e-6f66-47db-9abf-a41ecf5dc283&onlySetIndex=2
   - type: genericiframe
-    name: 2.24 High SpS BiS
-    link: https://xivgear.app/?page=embed%7Csl%7C12a9111e-6f66-47db-9abf-a41ecf5dc283&onlySetIndex=3
-  - type: xivgearset
-    name: Alternative Sets without Chaotic Gear or FRU Weapon
-    link: https://xivgear.app/?page=sl%7Cca314375-63f1-48c2-a579-f6c617c54637
+    link: https://xivgear.app/?page=embed%7Csl%7C6e09949e-19f2-47b4-b711-242cef40faaa&onlySetIndex=6
+    name: 2.43 High Crit Omnicaster Compatible BiS
     description: >-
-      Hosts alternative sets at various other GCDs.
+      98.92% of best.
 
 
-
-
-      Overall, choose your set based on your preferred speed, compatibility with other casters, or whatever else. The damage difference between sets is fairly minimal, particularly between sets using the Chaotic gear vs tome/raid gear.
+      Includes a single meld swap (Det-> SpS on earring) from other caster BiS sets.
+  - type: genericlink
+    name: Alternative BiS sets
+    link: https://xivgear.app/?page=sl%7C1b0a12b5-b9b4-409d-83b4-a790f2f27f67
+    description: Hosts alternative BiS sets at various other GCDs.
+  - type: genericiframe
+    name: Prog, Pentamelded Crafted with EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C2abbc24f-b704-41ff-8f73-fc3c61c9ece3&onlySetIndex=0
+  - type: genericiframe
+    name: Prog, Pentamelded Crafted with Tome Chest and EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7Cb0e978a2-93d2-4ed7-a6a2-e007d04889fd&onlySetIndex=0
+  - type: genericlink
+    name: Prog, Pentamelded Crafted with Tome Pants and EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7Ce5f06855-7826-456c-911c-3ba7a14f5443&onlySetIndex=0
+  - type: genericiframe
+    name: Prog, Ornate Crafted with Tome Pants and EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C22c7fb83-1d90-41f8-ab77-491731c728e1&onlySetIndex=0
+  - type: genericiframe
+    name: Prog, Pentamelded Crafted with Tome Hands & Neck and EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C03ce07df-7356-4e18-8722-35d5c6d99a54&onlySetIndex=0
+  - type: genericiframe
+    name: Prog, Budget Crafted with Tome Chest and EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C8282a91f-1435-4b32-abf9-713cf5ae08c2&onlySetIndex=0
+  - type: genericiframe
+    name: Prog, Budget Crafted with Tome Legs and EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C761b2f98-283c-4718-ae1a-5826611e8921&onlySetIndex=0
+  - type: genericiframe
+    name: Prog, Budget Crafted with EX Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7Cb6b05def-4e7f-436a-9283-a70fb697702e&onlySetIndex=0
   - type: gsheets
     description: Gear Sheet for comparing various gearsets/meld options.
     name: Gear Sheet
@@ -78,4 +74,5 @@ bis:
 authors:
   - xenitan
   - Fürst-Blumier
+  - rika-vanih
 ---
