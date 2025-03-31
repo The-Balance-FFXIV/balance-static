@@ -3,19 +3,25 @@ title: Futures Rewritten (Ultimate) Viper Fight Guide
 card_header_image: /img/fruguide-thumbnail.png
 authors:
   - Verra
-patch: "7.1"
-lastmod: 2025-03-22T20:11:04.891Z
+patch: "7.2"
+lastmod: 2025-03-30T18:47:45.971Z
 changelog:
   - date: 2025-02-24T06:17:28.033Z
     message: "Guide added to website. "
   - date: 2025-03-22T20:11:07.291Z
     message: Fixed formatting issues and added video guide.
+  - date: 2025-03-30T18:47:46.887Z
+    message: Updated gear set links for Patch 7.2.
 ---
 # Introduction
 
 This guide contains information on how to plan and use your cooldowns to gain the most damage possible per phase. The information within this guide is not meant to be followed blindly, and should be coupled with your own understanding of the job to formulate the most optimal rotation plan for your group.
 
 {{< youtube 5XM3oBaFCkg >}}
+
+
+
+- - -
 
 ### Gearing - 2.10 v 2.12
 
@@ -26,27 +32,20 @@ Viper performs well in FRU at the three standard GCD speeds: 2.10, 2.11, and 2.1
 
 2.12 and 2.11 offer slightly more average damage in the first four phases, while evening out - or falling behind depending on rotation choices - in Phase 5. **These two skill speeds perform a different rotation than the 2.10 skill speed in order to do its optimal damage.** The main selling point of this speed is that it offers complete compatibility with the NIN gearset, allowing you to play both jobs without sacrificing melds. 
 
-* For 2.11, just take the 2.12 set and replace the 2x DH melds with 2x SKS melds on the savage weapon. If using the FRU weapon, replace 1x DET and 1x DH for 2x SKS.
+
 
 ### Links
 
-2.10 Sets
+Patch 7.2 brought new food, which did end up changing some of the sets due to additional tiering.
 
-[2.10 no FRU weapon](https://xivgear.app/?page=sl%7C2dbffdad-3f01-4bd2-80db-c0d63277b2a0)*
+You can find each different set in the master link below:\
+[7.2 FRU Master Gearset Link](https://xivgear.app/?page=sl%7Ccf8fa6d6-93d5-424d-89fb-cb2dc1bb4623)
 
-[2.10 with FRU weapon](https://xivgear.app/?page=sl%7Ccad55a51-6dbf-4a50-a65a-810a6917d177)
 
-[2.10 with FRU & CAR](https://xivgear.app/?page=sl%7C74402165-f185-49f3-9618-c44213b2264f)*
 
-2.12 Sets
+Note: 2.10 will remain the most comfy + consistent GCD speed, while 2.12 gains a bit more average damage while being much harder to pull off correctly.
 
-[2.12 no FRU weapon](https://xivgear.app/?page=sl%7Ca116afa9-49db-4c6e-878d-b33653561965)
 
-[2.12 with FRU weapon](https://xivgear.app/?page=sl%7C44c2ebd7-96cf-4a45-b47e-6825f4c6acff)
-
-\*incompatible with NIN.
-
-Note: Excluding the 2.10 set with CAR pieces, it is possible to substitute the gloves and boots with CAR alternatives. However, BOTH the gloves and the boots must be substituted, it cannot be just the boots or just the gloves. This is because the CAR gloves have identical stats as the raid boots, and the CAR boots have identical stats as the augmented tome gloves.
 
 ## Limit Break Priority
 
