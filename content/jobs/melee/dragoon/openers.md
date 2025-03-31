@@ -2,8 +2,8 @@
 title: Dragoon Openers
 authors:
   - Balance-DRG-Staff
-patch: "7.1"
-lastmod: 2024-12-09T10:34:44.827Z
+patch: "7.2"
+lastmod: 2025-03-30T10:47:38.749Z
 changelog:
   - date: 2021-10-29T02:55:52.808Z
     message: Created page
@@ -19,6 +19,8 @@ changelog:
     message: General 7.0 overhaul
   - date: 2024-12-09T10:34:47.634Z
     message: Revision with 7.1 changes
+  - date: 2025-03-30T10:47:39.936Z
+    message: Bump to 7.2000000000
 ---
 # Dragoon Opener and Rotation
 
