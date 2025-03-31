@@ -3,7 +3,7 @@ title: White Mage Skills Overview
 authors:
   - shy
   - pyre
-patch: "7.0"
+patch: "7.2"
 lastmod: 2024-07-29T19:38:52.942Z
 changelog:
   - date: 2021-10-27T01:09:43.442Z
