@@ -1,7 +1,7 @@
 ---
 title: Black Mage Changes
 layout: changes
-lastmod: 2024-12-21T04:12:25.702Z
+lastmod: 2025-03-30T20:19:57.177Z
 changes:
   - patch: "6.0"
     description: "[Click here to view all Endwalker changes on the Official
@@ -49,6 +49,10 @@ changes:
       | Flare     |     | Cast time reduced from 4s to 3s.     |
       | Enochian  |     | Damage bonus lowered from 33% to 32% |
       | Ley Lines |     | Now has two charges by default       |
+  - description: BLM has undergone a significant number of changes for Patch
+      7.2--view the latest changes at the Official Site, located
+      [here](https://na.finalfantasyxiv.com/jobguide/blackmage/)!
+    patch: "7.2"
 authors:
   - Balance-BLM-Staff
 ---
