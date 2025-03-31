@@ -1,8 +1,8 @@
 ---
 title: White Mage Best in Slot (BiS)
 layout: bis
-patch: "7.11"
-lastmod: 2024-08-07T06:18:50.396Z
+patch: "7.2"
+lastmod: 2025-03-31T11:28:25.313Z
 changelog:
   - date: 2023-06-13T07:42:00.016Z
     message: updated for 6.4
@@ -14,33 +14,16 @@ changelog:
     message: Fixed the display of the embeds.
   - date: 2025-01-06T12:40:41.694Z
     message: Updated for 7.1 + Chaotic Gear
+  - date: 2025-03-31T11:28:33.713Z
+    message: Updated for 7.2
 bis:
   - type: genericlink
-    name: Chaotic Gear Sets
-    link: https://xivgear.app/?page=sl%7Ce72af770-24b4-4fbc-8b36-a8fd339e1463
-    description: "These are the current highest damage sets. They have the minimum
-      possible piety and utilize gear from Chaotic Cloud of Darkness.
-      Alternative minimum piety sets without chaotic gear and using lower item
-      level gear can be found in the comprehensive set list below. "
-  - type: genericlink
-    link: https://xivgear.app/?page=sl%7Cbfe800de-d7b6-4b35-a1c8-c6cb2bda2bfa&onlySetIndex=0
-    name: More Piety Gear Sets
-    description: >-
-      Descriptions for both sets can be found in the sheet. These are sets that
-      are utilizing all 730 gear. While sacrificing a very small amount of
-      damage compared to the other sets, they are still extremely useful for
-      both reclears and should be used for ultimate prog. These are also the
-      best sets for max item level without using Chaotic gear. **PLEASE DO NOT
-      GO INTO ULTIMATE PROG WITHOUT MAX ITEM LEVEL, ESPECIALLY NOW THAT IF YOURE
-      GOING FOR MAX DPS CHAOTIC GETS YOU MAX ITEM LEVEL AS WELL
-
-      **
-  - type: genericlink
-    name: " Full Comprehensive Set List"
-    description: These sets have no descriptions, and most people should never worry
-      about them. They only exist if someone wants to know every absolute
-      gearing option.
-    link: https://xivgear.app/?page=sl%7C17639ca4-c5ce-44be-ad4b-925adbd6db50
+    name: Best in Slot as well as Week 1 Prog sets for 7.2
+    description: >
+      Compared to other healers WHM is fairly impartial to GCD, if you
+      frequently play other healers I would recommend using their sets in place
+      of WHM-specific sets.
+    link: https://xivgear.app/?page=sl%7C39b0aeb3-e2b6-499c-81e1-232a56863543
 authors:
   - Balance-WHM-Staff
 ---
