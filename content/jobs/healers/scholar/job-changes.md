@@ -1,7 +1,7 @@
 ---
 title: Scholar Changes
 layout: changes
-lastmod: 2024-07-28T03:45:31.698Z
+lastmod: 2025-03-31T23:31:00.474Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -18,6 +18,9 @@ changes:
     description: Chain Stratagem duration extended to 20s. 91-100 new actions and
       traits added. View the full changes and additions for 7.0 at the Official
       Site, located [here](https://na.finalfantasyxiv.com/jobguide/scholar/)!
+  - patch: "7.2"
+    description: |
+      Biolysis Damage over time potency has been increased from 75 to 80. 
 authors:
   - Balance-SCH-Staff
 ---
