@@ -3,8 +3,8 @@ title: Ninja Leveling Guide
 card_header_image: /img/jobs/nin/leveling.png
 authors:
   - akashi
-patch: "6.4"
-lastmod: 2023-05-30T23:47:57.084Z
+patch: "7.2"
+lastmod: 2025-04-01T02:16:45.497Z
 changelog:
   - date: 2021-10-29T03:07:56.596Z
     message: Added page
@@ -168,10 +168,14 @@ And at level 100 the oGCD Tenri Jindo will be unlocked, which is weaved with the
 
 ### More Than Three Targets
 
-* Death Blossom > Hakke Mujinsatsu combo.
+* Death Blossom > Hakke Mujinsatsu combo (Only if Doton and Bunshin are active).
 * Doton if the enemies will live longer than 12 seconds (Otherwise use Katon).
 * Katon.
 * Multi-Target TCJ (Fuma > Katon > Doton).
 * Hellfrog Medium/Deathfrog Medium
 * Goka Mekkyaku.
 * Meisui-enhanced Bhavacakra
+
+### More Than Four Targets
+
+* Death Blossom > Hakke Mujinsatsu combo.
