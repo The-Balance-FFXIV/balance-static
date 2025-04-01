@@ -7,7 +7,7 @@ changes:
     description: |-
       Windmill was buffed to 120p.
 
-      Bladeshower was buffed to 160p after a Windmill combo.
+      Bladeshower was buffed to 160p.
 
       Rising Windmill was buffed to 160p.
 
