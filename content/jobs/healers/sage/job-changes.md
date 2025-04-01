@@ -1,7 +1,7 @@
 ---
 title: Sage Job Changes
 layout: changes
-lastmod: 2024-07-26T08:52:40.780Z
+lastmod: 2025-04-01T00:08:23.026Z
 changes:
   - patch: "6.0"
     description: Job added to game.
@@ -27,6 +27,8 @@ changes:
 
 
       Swiftcast's cooldown has been reduced from 60s to 40s.
+  - patch: "7.2"
+    description: Eukrasian Dosis III Potency has been increased from 75 to 80.
 authors:
   - Balance-SGE-Staff
 ---
