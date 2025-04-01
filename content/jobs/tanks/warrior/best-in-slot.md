@@ -2,7 +2,7 @@
 title: Warrior Best in Slot (BiS)
 layout: bis
 patch: "7.2"
-lastmod: 2025-03-30T20:36:04.292Z
+lastmod: 2025-04-01T03:38:33.838Z
 changelog:
   - date: 2025-03-30T20:47:44.879Z
     message: Added 7.2 sets
@@ -22,16 +22,16 @@ bis:
     name: Patch 7.2 All Prog and BIS sets
     link: https://xivgear.app/?page=sl%7C4cdd4b0d-0b1b-4c7c-a5bc-2957bb83618b&
     description: A list of all Savage Progression and BIS sets
+  - type: gsheets
+    description: Compilation of BIS sets for various Ultimate raids.
+    name: Ultimate Raids
+    link: https://bit.ly/XIV-EW-Warrior-Ulti
   - type: sleepyshiba
     description: |-
       Archive of old BIS sets.
       https://pastebin.com/EJbcGFXq
     name: Archive of Old BIS
     link: https://pastebin.com/ibK79n1M
-  - type: gsheets
-    description: Compilation of BIS sets for various Ultimate raids.
-    name: Ultimate Raids
-    link: https://bit.ly/XIV-EW-Warrior-Ulti
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
