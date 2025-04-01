@@ -1,7 +1,7 @@
 ---
 title: Paladin Changes
 layout: changes
-lastmod: 2024-07-10T05:19:01.651Z
+lastmod: 2025-03-31T23:37:34.766Z
 changes:
   - patch: "6.0"
     description: "[Click here to view the full list of changes on the Official
@@ -35,6 +35,15 @@ changes:
     description: "Atonement now has two follow-up actions: Supplication and
       Sepulchre. Sentinel, Rampart, and Reprisal upgraded. Imperator upgraded
       and Blade of Honor, Blade of Valor follow-up, added."
+  - patch: "7.2"
+    description: >-
+      Total Eclipse 100p -> 120p
+
+      Prominence  170p -> 220p
+
+      Holy Circle 200p -> 250p (with Divine Might ), 300 -> 350 (with Requiescat buff)
+
+      Imperator and Confiteor combo deals 50% less damage on additional targets -> 60% less on additional targets
 authors:
   - Balance-PLD-Staff
   - nikroulah
