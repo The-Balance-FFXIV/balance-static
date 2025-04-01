@@ -1,23 +1,16 @@
 ---
 title: Dancer FAQ
 layout: qna
-patch: "6.2"
-lastmod: 2022-09-20T12:59:51.750Z
-changelog:
-  - date: 2021-10-26T02:08:20.163Z
-    message: Created page
-  - date: 2022-02-02T23:20:54.057Z
-    message: Updated for Endwalker.
-  - date: 2022-06-11T02:19:30.810Z
-    message: Small Update
+patch: "7.20"
+lastmod: 2025-04-01T04:00:56.823Z
 qna:
   - question: Who do I Dance Partner?
     answer: >-
-      The tentative dance partner priority for patch 6.21 is:\
+      The tentative dance partner priority for patch 7.20 is:\
 
       \
 
-      SAM > NIN > MNK > RPR > DRG > BLM > SMN > RDM > MCH > BRD > DNC
+      SAM > MNK/PCT/NIN/RPR/VPR > DRG/BLM > RDM > SMN > MCH > BRD > DNC
 
 
       There is still not a large enough sample size of good logs to fully determine the exact differences between some of the jobs. More updates may come with Week 8+ of savage when more BiS logs are expected to be available.
@@ -26,9 +19,8 @@ qna:
       For more accurate results for your group and needs, plug your logs into [partnercalc](https://partnercalc.app/).
   - question: How should I approach gearing up the class?
     answer: You can review Ringabel's guide on how to best approach gearing DNC in
-      6.2 by clicking
-      [](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)[https://bit.ly/DNCGearingGuide6-30](https://bit.ly/DNCGearingGuide6-30
-      "https\://bit.ly/DNCGearingGuide6-30")
+      7.2 by clicking
+      [](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)<https://bit.ly/DNCGearingGuide-7-2>
   - question: What is BiS for old Ultimate fights?
     answer: >-
       With iLvl sync, you can max out on both secondary stats on a gear piece as
@@ -45,10 +37,14 @@ qna:
 
       **UWU**: 500
 
-      **TEA**: 600
+      **TEA**: 600\
+
+      **DSR**: 725\
+
+      **TOP**: 755
 
 
-      The best weapon for all of these iLvl synced fights is the iLvl 535 Save the Queen relic weapon "Blade's Euphoria" with specific stat allocation that maximizes how many secondary stats you can get for the fight:
+      The best weapon UCoB, UWU, and TEA as iLvl synced fights is the iLvl 535 Save the Queen relic weapon "Blade's Euphoria" with specific stat allocation that maximizes how many secondary stats you can get for the fight:
 
 
       **UCoB**: 127 Crit, 127 Det, 123 DH, 90 SkS (four points from DH moved to SkS to match with a 2.46 GCD tier)
@@ -56,6 +52,9 @@ qna:
       **UWU**: 136 Crit, 136 Det, 132 DH, 63 SkS (four points from DH moved to SkS to match with a 2.47 GCD tier)
 
       **TEA**:  184 Crit, 184 Det, 99 DH, 0 SkS
+
+
+      For DSR and TOP the best weapon is the iLvl 665 Manderville Relic weapon "Mandervillous Chakrams" with Crit and Det capped and DH as the smaller stat.
 
 
       **BiS Food**: Use current BiS Food
@@ -67,7 +66,14 @@ qna:
       fT6Lx1t54Ba0/edit)"
 authors:
   - Balance-DNC-Staff
-  - Ringabel-Dim
+  - Tomcat1408
+changelog:
+  - date: 2021-10-26T02:08:20.163Z
+    message: Created page
+  - date: 2022-02-02T23:20:54.057Z
+    message: Updated for Endwalker.
+  - date: 2022-06-11T02:19:30.810Z
+    message: Small Update
 tags:
   - Dancer
   - FAQ
