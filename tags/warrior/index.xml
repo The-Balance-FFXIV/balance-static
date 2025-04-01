@@ -17,7 +17,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[196 338 302 397 238 364]" src="https://xivapi.com/i/000000/000260_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[132 128 113 422 392 399]" src="https://xivapi.com/i/000000/000260_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heavy Swing&lt;/td>
@@ -30,7 +30,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[188 102 468 56 59 51]" src="https://xivapi.com/i/000000/000255_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[325 500 57 394 11 310]" src="https://xivapi.com/i/000000/000255_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Maim&lt;/td>
@@ -43,7 +43,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[437 367 152 60 286 39]" src="https://xivapi.com/i/002000/002551_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[201 469 409 230 231 47]" src="https://xivapi.com/i/002000/002551_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Defiance&lt;/td>
@@ -56,7 +56,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[373 256 59 470 232 156]" src="https://xivapi.com/i/000000/000261_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[159 119 95 249 346 275]" src="https://xivapi.com/i/000000/000261_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tomahawk&lt;/td>
@@ -69,7 +69,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[45 403 60 168 267 334]" src="https://xivapi.com/i/000000/000258_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[497 176 183 253 66 175]" src="https://xivapi.com/i/000000/000258_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Storm&amp;rsquo;s Path&lt;/td>
@@ -82,7 +82,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[180 242 157 255 107 238]" src="https://xivapi.com/i/000000/000264_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[285 282 231 246 489 485]" src="https://xivapi.com/i/000000/000264_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Storm&amp;rsquo;s Eye&lt;/td>
@@ -95,7 +95,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[492 216 30 2 136 427]" src="https://xivapi.com/i/002000/002555_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[16 183 400 249 14 129]" src="https://xivapi.com/i/002000/002555_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Infuriate&lt;/td>
@@ -108,7 +108,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[151 133 412 317 321 286]" src="https://xivapi.com/i/002000/002557_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[52 273 292 282 430 476]" src="https://xivapi.com/i/002000/002557_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fell Cleave&lt;/td>
@@ -121,7 +121,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[275 496 389 248 41 323]" src="https://xivapi.com/i/002000/002561_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[460 88 465 390 218 293]" src="https://xivapi.com/i/002000/002561_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Onslaught&lt;/td>
@@ -134,7 +134,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[170 82 285 51 477 160]" src="https://xivapi.com/i/002000/002562_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[160 154 474 334 257 117]" src="https://xivapi.com/i/002000/002562_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Upheaval&lt;/td>
@@ -147,7 +147,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[319 93 158 291 368 447]" src="https://xivapi.com/i/002000/002564_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[262 168 320 18 271 11]" src="https://xivapi.com/i/002000/002564_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Inner Release&lt;/td>
@@ -160,7 +160,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[107 386 62 84 459 389]" src="https://xivapi.com/i/002000/002568_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[471 345 71 134 77 119]" src="https://xivapi.com/i/002000/002568_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Inner Chaos&lt;/td>
@@ -173,7 +173,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[366 368 99 231 427 29]" src="https://xivapi.com/i/002000/002571_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[135 20 70 276 17 122]" src="https://xivapi.com/i/002000/002571_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Primal Rend&lt;/td>
@@ -186,7 +186,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[410 412 444 334 404 29]" src="https://xivapi.com/i/002000/002574_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[341 86 231 177 167 188]" src="https://xivapi.com/i/002000/002574_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Primal Wrath&lt;/td>
@@ -199,7 +199,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[95 107 490 218 153 348]" src="https://xivapi.com/i/002000/002050_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[483 160 46 418 143 216]" src="https://xivapi.com/i/002000/002050_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Primal Ruination&lt;/td>
@@ -228,7 +228,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[486 338 436 219 89 307]" src="https://xivapi.com/i/000000/000254_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[180 262 423 132 259 461]" src="https://xivapi.com/i/000000/000254_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Overpower&lt;/td>
@@ -241,7 +241,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[165 255 271 223 240 245]" src="https://xivapi.com/i/002000/002565_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[267 350 461 80 465 244]" src="https://xivapi.com/i/002000/002565_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Mythril Tempest&lt;/td>
@@ -254,7 +254,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[76 233 171 367 413 336]" src="https://xivapi.com/i/002000/002558_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[408 153 463 161 473 49]" src="https://xivapi.com/i/002000/002558_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Decimate&lt;/td>
@@ -267,7 +267,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[158 491 134 329 204 278]" src="https://xivapi.com/i/002000/002566_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[106 384 388 2 130 280]" src="https://xivapi.com/i/002000/002566_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chaotic Cyclone&lt;/td>
@@ -280,7 +280,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[195 334 368 466 44 212]" src="https://xivapi.com/i/002000/002570_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[241 392 222 405 243 179]" src="https://xivapi.com/i/002000/002570_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Orogeny&lt;/td>
@@ -309,7 +309,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[481 257 384 421 20 270]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[45 133 418 94 108 148]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Rampart&lt;/td>
@@ -322,7 +322,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[96 131 215 428 66 226]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[287 327 4 438 288 1]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reprisal&lt;/td>
@@ -335,7 +335,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[249 149 45 115 108 377]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[415 426 166 318 54 93]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -348,7 +348,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[398 187 117 2 146 320]" src="https://xivapi.com/i/000000/000263_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[155 318 228 420 260 19]" src="https://xivapi.com/i/000000/000263_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Thrill of Battle&lt;/td>
@@ -361,7 +361,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[468 37 397 70 350 318]" src="https://xivapi.com/i/000000/000267_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[496 222 338 180 208 235]" src="https://xivapi.com/i/000000/000267_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Vengeance&lt;/td>
@@ -374,7 +374,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[135 207 189 193 411 251]" src="https://xivapi.com/i/000000/000266_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[285 150 6 152 187 380]" src="https://xivapi.com/i/000000/000266_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Holmgang&lt;/td>
@@ -387,7 +387,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[439 84 26 284 302 50]" src="https://xivapi.com/i/002000/002560_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[160 90 406 228 96 89]" src="https://xivapi.com/i/002000/002560_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Equilibrium&lt;/td>
@@ -400,7 +400,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[3 103 133 469 85 352]" src="https://xivapi.com/i/002000/002563_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[468 320 247 213 477 351]" src="https://xivapi.com/i/002000/002563_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shake It Off&lt;/td>
@@ -413,7 +413,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[450 13 310 436 136 210]" src="https://xivapi.com/i/002000/002567_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[241 76 6 74 448 108]" src="https://xivapi.com/i/002000/002567_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Nascent Flash&lt;/td>
@@ -426,7 +426,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[391 487 335 421 415 16]" src="https://xivapi.com/i/002000/002569_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[34 421 129 58 335 490]" src="https://xivapi.com/i/002000/002569_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodwhetting&lt;/td>
@@ -439,7 +439,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[446 354 243 356 383 485]" src="https://xivapi.com/i/002000/002573_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[461 5 455 178 195 95]" src="https://xivapi.com/i/002000/002573_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Damnation&lt;/td>
@@ -468,7 +468,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[156 222 100 498 223 233]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[42 59 136 266 208 461]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Low Blow&lt;/td>
@@ -481,7 +481,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[462 19 470 402 321 110]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[340 389 273 337 191 56]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Provoke&lt;/td>
@@ -494,7 +494,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[176 150 158 125 301 57]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[270 192 126 423 157 71]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Interject&lt;/td>
@@ -507,7 +507,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[17 145 372 474 294 396]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[265 27 251 431 21 418]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shirk&lt;/td>
