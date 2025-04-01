@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Summoner on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/</link><description>Recent content in Summoner on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 31 Mar 2025 22:45:32 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/casters/summoner/index.xml" rel="self" type="application/rss+xml"/><item><title>Summoner FAQ</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/faq/</link><pubDate>Mon, 31 Mar 2025 22:45:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/faq/</guid><description/></item><item><title>Summoner Job Changes</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/job-changes/</link><pubDate>Mon, 31 Mar 2025 22:39:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/job-changes/</guid><description/></item><item><title>Summoner Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/best-in-slot/</link><pubDate>Wed, 26 Mar 2025 21:54:05 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/best-in-slot/</guid><description/></item><item><title>Summoner Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/skills-overview/</link><pubDate>Fri, 02 Aug 2024 00:08:17 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/skills-overview/</guid><description>&lt;h1 id="actions">Actions&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Summoner on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/</link><description>Recent content in Summoner on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 31 Mar 2025 22:56:44 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/casters/summoner/index.xml" rel="self" type="application/rss+xml"/><item><title>Summoner Openers</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/openers/</link><pubDate>Mon, 31 Mar 2025 22:56:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/openers/</guid><description>&lt;h2 id="openers">Openers&lt;/h2>
+&lt;h3 id="lv-100-general-opener">Lv. 100 General Opener&lt;/h3>
+&lt;p>The below opener is the general go to opener for summoner and uses Titan as the first primal. Since the 6.1 changes, we can now use Searing Light in Bahamut, and choose to do so after the Bahamut GCD to avoid using a &amp;ldquo;dead&amp;rdquo; GCD in our buff. You can choose to omit the precast Ruin III and use Bahamut at 0s as well. This may be an optimization strategy for particular fight timelines or encounters where the gained one second on cycle progression may matter.&lt;/p></description></item><item><title>Summoner FAQ</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/faq/</link><pubDate>Mon, 31 Mar 2025 22:45:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/faq/</guid><description/></item><item><title>Summoner Job Changes</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/job-changes/</link><pubDate>Mon, 31 Mar 2025 22:39:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/job-changes/</guid><description/></item><item><title>Summoner Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/best-in-slot/</link><pubDate>Wed, 26 Mar 2025 21:54:05 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/best-in-slot/</guid><description/></item><item><title>Summoner Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/skills-overview/</link><pubDate>Fri, 02 Aug 2024 00:08:17 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/skills-overview/</guid><description>&lt;h1 id="actions">Actions&lt;/h1>
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -15,7 +17,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[318 216 452 9 225 198]" src="https://img.finalfantasyxiv.com/lds/d/14a64b174c103f36179809458245dc5e4f4fe0a6.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[112 191 443 339 376 242]" src="https://img.finalfantasyxiv.com/lds/d/14a64b174c103f36179809458245dc5e4f4fe0a6.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Summon Carbuncle&lt;/td>
@@ -28,7 +30,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[175 349 326 218 80 479]" src="https://img.finalfantasyxiv.com/lds/d/a116b861109158ee5db8e36cf922fae8f923e7d5.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[231 93 175 100 75 223]" src="https://img.finalfantasyxiv.com/lds/d/a116b861109158ee5db8e36cf922fae8f923e7d5.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Radient Aegis&lt;/td>
@@ -41,7 +43,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[137 348 332 138 129 123]" src="https://img.finalfantasyxiv.com/lds/d/e51f309947cde0c36f3a0cd815ca01e268928eb6.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[414 431 60 99 125 187]" src="https://img.finalfantasyxiv.com/lds/d/e51f309947cde0c36f3a0cd815ca01e268928eb6.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Physick&lt;/td>
@@ -54,7 +56,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[352 231 17 408 266 148]" src="https://img.finalfantasyxiv.com/lds/d/b1b0a655e18e0c446a0774ef264f010a8766db7f.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[165 492 367 177 495 107]" src="https://img.finalfantasyxiv.com/lds/d/b1b0a655e18e0c446a0774ef264f010a8766db7f.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Gemshine&lt;/td>
@@ -67,7 +69,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[348 55 43 124 405 335]" src="https://img.finalfantasyxiv.com/lds/d/b2df31cca5d00be7bba89943c76b799ae82aba8d.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[422 82 89 463 4 57]" src="https://img.finalfantasyxiv.com/lds/d/b2df31cca5d00be7bba89943c76b799ae82aba8d.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fester&lt;/td>
@@ -80,7 +82,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[44 57 439 15 26 328]" src="https://img.finalfantasyxiv.com/lds/d/92ea9227a8a09c62eb53852e2c26c0d6763a35c2.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[79 126 65 129 187 278]" src="https://img.finalfantasyxiv.com/lds/d/92ea9227a8a09c62eb53852e2c26c0d6763a35c2.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Energy Drain&lt;/td>
@@ -93,7 +95,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[116 323 278 416 149 71]" src="https://img.finalfantasyxiv.com/lds/d/9e61ea15caf1f7c0e4b44943dcbee0178e61a9fd.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[147 366 361 302 133 76]" src="https://img.finalfantasyxiv.com/lds/d/9e61ea15caf1f7c0e4b44943dcbee0178e61a9fd.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Resurrection&lt;/td>
@@ -106,7 +108,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[448 384 486 108 204 56]" src="https://img.finalfantasyxiv.com/lds/d/aa5a6e6d676d222c70ac9c001132276cd401a140.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[371 241 434 271 472 252]" src="https://img.finalfantasyxiv.com/lds/d/aa5a6e6d676d222c70ac9c001132276cd401a140.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Outburst&lt;/td>
@@ -119,7 +121,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[177 271 196 379 103 427]" src="https://img.finalfantasyxiv.com/lds/d/1fa3119e51a423fedea3e3a238497548d0c64960.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[308 457 20 438 228 341]" src="https://img.finalfantasyxiv.com/lds/d/1fa3119e51a423fedea3e3a238497548d0c64960.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Precious Brilliance&lt;/td>
@@ -132,7 +134,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[346 483 213 58 294 258]" src="https://img.finalfantasyxiv.com/lds/d/0d06f6fcf4a18fc6dcf2e084098a5acecf958f28.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[207 268 287 341 500 312]" src="https://img.finalfantasyxiv.com/lds/d/0d06f6fcf4a18fc6dcf2e084098a5acecf958f28.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Painflare&lt;/td>
@@ -145,7 +147,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[239 303 101 314 41 307]" src="https://img.finalfantasyxiv.com/lds/d/9a6ba0bc2e8f682c23f8c2d9241a2ed4bf6a637c.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[203 212 135 57 242 148]" src="https://img.finalfantasyxiv.com/lds/d/9a6ba0bc2e8f682c23f8c2d9241a2ed4bf6a637c.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Energy Siphon&lt;/td>
@@ -158,7 +160,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[144 204 355 198 64 161]" src="https://img.finalfantasyxiv.com/lds/d/5d2d65267abd378e60f7f9e832ee92be084ff6d7.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[470 458 112 4 181 496]" src="https://img.finalfantasyxiv.com/lds/d/5d2d65267abd378e60f7f9e832ee92be084ff6d7.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Ruin III&lt;/td>
@@ -171,7 +173,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[72 449 106 278 496 166]" src="https://img.finalfantasyxiv.com/lds/d/3fd44c9091d6888f7b3b3ee449d3f71d94d9b05a.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[48 479 463 373 105 89]" src="https://img.finalfantasyxiv.com/lds/d/3fd44c9091d6888f7b3b3ee449d3f71d94d9b05a.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Astral Flow&lt;/td>
@@ -184,7 +186,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[409 304 418 482 13 55]" src="https://img.finalfantasyxiv.com/lds/d/84226db4cce94d2c2c686af2c6fca01dfc6a63f9.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[498 419 171 53 152 351]" src="https://img.finalfantasyxiv.com/lds/d/84226db4cce94d2c2c686af2c6fca01dfc6a63f9.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Ruin IV&lt;/td>
@@ -197,7 +199,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[201 210 181 458 496 197]" src="https://img.finalfantasyxiv.com/lds/d/6c4b1ae3c69201feb415963f374cd3449a4ad7db.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[354 54 11 26 484 6]" src="https://img.finalfantasyxiv.com/lds/d/6c4b1ae3c69201feb415963f374cd3449a4ad7db.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Searing Light&lt;/td>
@@ -210,7 +212,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[383 236 279 241 270 86]" src="https://img.finalfantasyxiv.com/lds/d/2e961ffd2e67115c99ad1b4863fc29d5064c4fe9.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[397 362 180 445 80 287]" src="https://img.finalfantasyxiv.com/lds/d/2e961ffd2e67115c99ad1b4863fc29d5064c4fe9.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Summon Bahamut&lt;/td>
@@ -223,7 +225,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[2 465 125 186 441 179]" src="https://img.finalfantasyxiv.com/lds/d/cbf72c7579e45d4a64a7232be3fa7d38a34b703f.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[379 394 54 331 60 177]" src="https://img.finalfantasyxiv.com/lds/d/cbf72c7579e45d4a64a7232be3fa7d38a34b703f.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enkindle Bahamut&lt;/td>
@@ -236,7 +238,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[203 467 98 314 244 183]" src="https://img.finalfantasyxiv.com/lds/d/20e1e40922c159401231154ab0cc94c789b1f58f.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[71 226 405 351 316 70]" src="https://img.finalfantasyxiv.com/lds/d/20e1e40922c159401231154ab0cc94c789b1f58f.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tri-disaster&lt;/td>
@@ -249,7 +251,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[355 76 467 25 155 241]" src="https://img.finalfantasyxiv.com/lds/d/e38e769e9f268f4dcc345b25d310cd53d10d4795.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[187 153 428 258 355 346]" src="https://img.finalfantasyxiv.com/lds/d/e38e769e9f268f4dcc345b25d310cd53d10d4795.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Summon Phoenix&lt;/td>
@@ -262,7 +264,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[148 260 173 94 404 87]" src="https://img.finalfantasyxiv.com/lds/d/e49b3a55b75a637cb0e6e794d588b2ba4886c742.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[112 422 489 279 493 314]" src="https://img.finalfantasyxiv.com/lds/d/e49b3a55b75a637cb0e6e794d588b2ba4886c742.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Summon Ifrit II&lt;/td>
@@ -275,7 +277,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[284 167 241 476 362 195]" src="https://img.finalfantasyxiv.com/lds/d/d5e3edcb915673621b1ccb51774abf494eba6b5e.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[431 500 45 25 247 343]" src="https://img.finalfantasyxiv.com/lds/d/d5e3edcb915673621b1ccb51774abf494eba6b5e.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Summon Titan II&lt;/td>
@@ -288,7 +290,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[269 256 345 75 107 17]" src="https://img.finalfantasyxiv.com/lds/d/f25f4c81570c889872295e4ba99496ee6bf3fc89.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[37 304 405 179 309 359]" src="https://img.finalfantasyxiv.com/lds/d/f25f4c81570c889872295e4ba99496ee6bf3fc89.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Summon Garuda II&lt;/td>
@@ -301,7 +303,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[12 137 394 121 81 476]" src="https://lds-img.finalfantasyxiv.com/d/f224b169e6f0f4b35b361e5c6666293e09a1f0ac.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[229 184 231 244 8 248]" src="https://lds-img.finalfantasyxiv.com/d/f224b169e6f0f4b35b361e5c6666293e09a1f0ac.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Necrotize&lt;/td>
@@ -314,7 +316,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[258 142 315 323 355 197]" src="https://lds-img.finalfantasyxiv.com/d/b1edfc3a4d1b47e1df840e26e0969529070fed58.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[356 240 321 101 423 405]" src="https://lds-img.finalfantasyxiv.com/d/b1edfc3a4d1b47e1df840e26e0969529070fed58.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Searing Flash&lt;/td>
@@ -327,7 +329,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[338 286 498 46 113 225]" src="https://lds-img.finalfantasyxiv.com/d/38e51b1e903bd0b7bc685ec95c2ac105779bbc8c.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[437 404 478 242 183 276]" src="https://lds-img.finalfantasyxiv.com/d/38e51b1e903bd0b7bc685ec95c2ac105779bbc8c.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lux Solaris&lt;/td>
@@ -356,7 +358,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[404 35 325 141 380 164]" src="https://img.finalfantasyxiv.com/lds/d/926e42e9a30e357e4214c95427cd1dd1592974c5.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[292 107 250 366 143 403]" src="https://img.finalfantasyxiv.com/lds/d/926e42e9a30e357e4214c95427cd1dd1592974c5.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Radiant Aegis&lt;/td>
@@ -369,7 +371,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[157 393 470 151 284 436]" src="https://img.finalfantasyxiv.com/lds/d/aa5a6e6d676d222c70ac9c001132276cd401a140.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[470 65 26 41 409 497]" src="https://img.finalfantasyxiv.com/lds/d/aa5a6e6d676d222c70ac9c001132276cd401a140.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Ruby Outburst&lt;/td>
@@ -382,7 +384,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[430 25 83 463 454 46]" src="https://img.finalfantasyxiv.com/lds/d/aa5a6e6d676d222c70ac9c001132276cd401a140.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[203 254 352 122 63 232]" src="https://img.finalfantasyxiv.com/lds/d/aa5a6e6d676d222c70ac9c001132276cd401a140.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Topaz Outburst&lt;/td>
@@ -395,7 +397,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[129 126 473 212 371 377]" src="https://img.finalfantasyxiv.com/lds/d/aa5a6e6d676d222c70ac9c001132276cd401a140.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[106 250 254 494 188 88]" src="https://img.finalfantasyxiv.com/lds/d/aa5a6e6d676d222c70ac9c001132276cd401a140.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Emerald Outburst&lt;/td>
@@ -408,7 +410,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[257 427 253 238 174 43]" src="https://img.finalfantasyxiv.com/lds/d/2ba7ab41cd2f8dac96ba0c89426eebff963d6be0.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[205 45 82 259 11 112]" src="https://img.finalfantasyxiv.com/lds/d/2ba7ab41cd2f8dac96ba0c89426eebff963d6be0.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Astral Impulse&lt;/td>
@@ -421,7 +423,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[487 459 324 64 98 377]" src="https://img.finalfantasyxiv.com/lds/d/41380367e3ff56dfc723ac049dbcacd00ac5c6f8.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[381 58 49 93 373 117]" src="https://img.finalfantasyxiv.com/lds/d/41380367e3ff56dfc723ac049dbcacd00ac5c6f8.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Astral Flare&lt;/td>
@@ -434,7 +436,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[98 204 327 464 453 448]" src="https://img.finalfantasyxiv.com/lds/d/710d60dfcdf5a59cb192084786c7c37bff62fb99.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[117 168 33 139 95 276]" src="https://img.finalfantasyxiv.com/lds/d/710d60dfcdf5a59cb192084786c7c37bff62fb99.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Deathflare&lt;/td>
@@ -447,7 +449,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[359 418 184 210 43 473]" src="https://img.finalfantasyxiv.com/lds/d/bdea704b3466837dbf634ca8fa4b21e80cddf833.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[177 259 411 160 91 476]" src="https://img.finalfantasyxiv.com/lds/d/bdea704b3466837dbf634ca8fa4b21e80cddf833.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Akh Morn&lt;/td>
@@ -460,7 +462,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[113 30 309 43 19 411]" src="https://img.finalfantasyxiv.com/lds/d/3c739e3604ba2d045b691a46c0dbef1a658951f3.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[378 500 179 115 286 163]" src="https://img.finalfantasyxiv.com/lds/d/3c739e3604ba2d045b691a46c0dbef1a658951f3.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Ruby Rite&lt;/td>
@@ -473,7 +475,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[98 279 101 280 81 423]" src="https://img.finalfantasyxiv.com/lds/d/4c4900529cf628e2f3fda4134c996741f8b465c3.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[329 45 336 349 214 343]" src="https://img.finalfantasyxiv.com/lds/d/4c4900529cf628e2f3fda4134c996741f8b465c3.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Topaz Rite&lt;/td>
@@ -486,7 +488,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[320 423 59 198 26 409]" src="https://img.finalfantasyxiv.com/lds/d/87c16672ddea00204d4c0489b5417166cdb2546a.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[297 128 237 181 112 63]" src="https://img.finalfantasyxiv.com/lds/d/87c16672ddea00204d4c0489b5417166cdb2546a.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Emerald Rite&lt;/td>
@@ -499,7 +501,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[310 71 196 489 493 230]" src="https://img.finalfantasyxiv.com/lds/d/20e1e40922c159401231154ab0cc94c789b1f58f.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[236 114 152 344 330 323]" src="https://img.finalfantasyxiv.com/lds/d/20e1e40922c159401231154ab0cc94c789b1f58f.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Ruby Disaster&lt;/td>
@@ -512,7 +514,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[348 476 133 157 130 135]" src="https://img.finalfantasyxiv.com/lds/d/20e1e40922c159401231154ab0cc94c789b1f58f.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[409 155 412 126 32 470]" src="https://img.finalfantasyxiv.com/lds/d/20e1e40922c159401231154ab0cc94c789b1f58f.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Topaz Disaster&lt;/td>
@@ -525,7 +527,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[419 273 339 359 403 251]" src="https://img.finalfantasyxiv.com/lds/d/20e1e40922c159401231154ab0cc94c789b1f58f.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[145 488 285 497 359 33]" src="https://img.finalfantasyxiv.com/lds/d/20e1e40922c159401231154ab0cc94c789b1f58f.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Emerald Disaster&lt;/td>
@@ -538,7 +540,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[446 286 26 263 445 68]" src="https://img.finalfantasyxiv.com/lds/d/1b50beab981774f701d16ac61674bfc01747f38b.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[249 234 50 387 17 376]" src="https://img.finalfantasyxiv.com/lds/d/1b50beab981774f701d16ac61674bfc01747f38b.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fountain of Fire&lt;/td>
@@ -551,7 +553,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[303 72 404 172 34 102]" src="https://img.finalfantasyxiv.com/lds/d/daebb0133d31dbdcc989ecf9fd04ef3acf040cba.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[141 260 231 480 242 151]" src="https://img.finalfantasyxiv.com/lds/d/daebb0133d31dbdcc989ecf9fd04ef3acf040cba.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Brand of Purgatory&lt;/td>
@@ -564,7 +566,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[319 135 301 296 8 62]" src="https://img.finalfantasyxiv.com/lds/d/47555a1b908cba86b377560667afa40e8471b69a.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[360 258 184 400 411 403]" src="https://img.finalfantasyxiv.com/lds/d/47555a1b908cba86b377560667afa40e8471b69a.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Everlasting Flight&lt;/td>
@@ -577,7 +579,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[263 13 404 267 185 53]" src="https://img.finalfantasyxiv.com/lds/d/6b2befa4d39ad77fa8992d934bd796e836eed13f.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[118 88 13 184 110 104]" src="https://img.finalfantasyxiv.com/lds/d/6b2befa4d39ad77fa8992d934bd796e836eed13f.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Rekindle&lt;/td>
@@ -590,7 +592,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[498 147 193 420 298 231]" src="https://img.finalfantasyxiv.com/lds/d/865ff61841e27dc0ede5742b0109c45b672c2ef2.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[71 162 459 28 48 186]" src="https://img.finalfantasyxiv.com/lds/d/865ff61841e27dc0ede5742b0109c45b672c2ef2.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Scarlet Flame&lt;/td>
@@ -603,7 +605,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[305 317 180 167 390 394]" src="https://img.finalfantasyxiv.com/lds/d/596917791c140eef84754e4488df04bfb7aabf87.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[149 374 31 45 322 327]" src="https://img.finalfantasyxiv.com/lds/d/596917791c140eef84754e4488df04bfb7aabf87.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enkindle Phoenix&lt;/td>
@@ -616,7 +618,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[450 115 169 122 15 395]" src="https://img.finalfantasyxiv.com/lds/d/9358e80cfda84c41bef60f05c6f66218842a6f74.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[339 473 17 415 486 240]" src="https://img.finalfantasyxiv.com/lds/d/9358e80cfda84c41bef60f05c6f66218842a6f74.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Revelation&lt;/td>
@@ -629,7 +631,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[247 356 460 472 416 214]" src="https://img.finalfantasyxiv.com/lds/d/aff103d032034722b3a4063ad749eb2bb85793aa.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[81 444 295 469 438 175]" src="https://img.finalfantasyxiv.com/lds/d/aff103d032034722b3a4063ad749eb2bb85793aa.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Ruby Catastrophe&lt;/td>
@@ -642,7 +644,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[159 305 141 329 363 246]" src="https://img.finalfantasyxiv.com/lds/d/8f6bc648e6b39fcdfdb5d747cc28ea98dd65b441.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[475 96 284 365 312 379]" src="https://img.finalfantasyxiv.com/lds/d/8f6bc648e6b39fcdfdb5d747cc28ea98dd65b441.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Topaz Catastrophe&lt;/td>
@@ -655,7 +657,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[345 484 428 394 308 55]" src="https://img.finalfantasyxiv.com/lds/d/876d6589f594c3f74d7d2834d297f18da7809199.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[147 142 412 204 258 283]" src="https://img.finalfantasyxiv.com/lds/d/876d6589f594c3f74d7d2834d297f18da7809199.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Emerald Catastrophe&lt;/td>
@@ -668,7 +670,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[332 51 356 212 177 433]" src="https://img.finalfantasyxiv.com/lds/d/7ec3b0243e57959d38e7bcbfaaab4fe0bbf8972b.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[60 313 62 129 230 167]" src="https://img.finalfantasyxiv.com/lds/d/7ec3b0243e57959d38e7bcbfaaab4fe0bbf8972b.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Crimson Cyclone&lt;/td>
@@ -681,7 +683,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[161 368 260 388 31 86]" src="https://img.finalfantasyxiv.com/lds/d/a63bb4e29d20c938e1b68ea0dc0ab64c3a8a9fdf.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[386 294 4 355 85 328]" src="https://img.finalfantasyxiv.com/lds/d/a63bb4e29d20c938e1b68ea0dc0ab64c3a8a9fdf.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Crismon Strike&lt;/td>
@@ -694,7 +696,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[300 500 40 187 389 4]" src="https://img.finalfantasyxiv.com/lds/d/735d3aabed75539866193ca97b356367f818821f.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[25 382 15 149 146 443]" src="https://img.finalfantasyxiv.com/lds/d/735d3aabed75539866193ca97b356367f818821f.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Mountain Buster&lt;/td>
@@ -707,7 +709,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[203 26 351 373 161 370]" src="https://img.finalfantasyxiv.com/lds/d/6a54b05a1f6bd144d28149045f1f9cc61f86daf3.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[234 65 250 433 270 401]" src="https://img.finalfantasyxiv.com/lds/d/6a54b05a1f6bd144d28149045f1f9cc61f86daf3.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Slipstream&lt;/td>
@@ -720,7 +722,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[324 57 62 2 459 316]" src="https://lds-img.finalfantasyxiv.com/d/8b65e3df95387470664286d1e2a0f71dd29b8f77.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[390 383 3 319 387 225]" src="https://lds-img.finalfantasyxiv.com/d/8b65e3df95387470664286d1e2a0f71dd29b8f77.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Summon Solar Bahamut&lt;/td>
@@ -733,7 +735,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[261 263 44 307 334 305]" src="https://lds-img.finalfantasyxiv.com/d/097755a6dc321ca146451fbb0e5c42dca4d9dd02.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[179 313 376 117 148 335]" src="https://lds-img.finalfantasyxiv.com/d/097755a6dc321ca146451fbb0e5c42dca4d9dd02.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Umbral Impulse&lt;/td>
@@ -746,7 +748,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[278 233 232 66 312 127]" src="https://lds-img.finalfantasyxiv.com/d/e20b0b341a670598c6af9548925d4da35c2e4365.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[126 85 296 378 212 90]" src="https://lds-img.finalfantasyxiv.com/d/e20b0b341a670598c6af9548925d4da35c2e4365.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Umbral Flare&lt;/td>
@@ -759,7 +761,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[398 145 458 344 197 383]" src="https://lds-img.finalfantasyxiv.com/d/ea98821592c274277d2472f4eb33e014c66a751f.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[285 296 275 166 341 488]" src="https://lds-img.finalfantasyxiv.com/d/ea98821592c274277d2472f4eb33e014c66a751f.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Sunflare&lt;/td>
@@ -772,7 +774,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[153 354 66 196 280 90]" src="https://lds-img.finalfantasyxiv.com/d/4deaaa9815c4b1bd5fc52e76019d9192342568b9.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[93 260 287 322 423 429]" src="https://lds-img.finalfantasyxiv.com/d/4deaaa9815c4b1bd5fc52e76019d9192342568b9.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enkindle Solar Bahamut&lt;/td>
@@ -785,7 +787,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[223 324 104 275 367 377]" src="https://lds-img.finalfantasyxiv.com/d/7ea77f0af91e55be0b619e4dc72e20c5ba56f516.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[164 239 287 489 429 477]" src="https://lds-img.finalfantasyxiv.com/d/7ea77f0af91e55be0b619e4dc72e20c5ba56f516.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Luxwave&lt;/td>
@@ -798,7 +800,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[146 412 374 71 450 206]" src="https://lds-img.finalfantasyxiv.com/d/97f91c1009d19698ee6e2e3272b974a4c0dd62ff.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[315 165 236 208 305 338]" src="https://lds-img.finalfantasyxiv.com/d/97f91c1009d19698ee6e2e3272b974a4c0dd62ff.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Exodus&lt;/td>
@@ -827,7 +829,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[309 449 264 440 236 235]" src="https://img.finalfantasyxiv.com/lds/d/b45e688d81b5607246600f904aac008364db0d1e.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[309 240 394 275 142 334]" src="https://img.finalfantasyxiv.com/lds/d/b45e688d81b5607246600f904aac008364db0d1e.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Addle&lt;/td>
@@ -840,7 +842,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[289 239 454 192 261 202]" src="https://img.finalfantasyxiv.com/lds/d/10e9fb5302668c923b8237ffbd4841ccc6c2edb4.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[349 426 105 400 160 282]" src="https://img.finalfantasyxiv.com/lds/d/10e9fb5302668c923b8237ffbd4841ccc6c2edb4.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Sleep&lt;/td>
@@ -853,7 +855,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[468 430 459 195 458 263]" src="https://img.finalfantasyxiv.com/lds/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[83 405 162 438 358 337]" src="https://img.finalfantasyxiv.com/lds/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Swiftcast&lt;/td>
@@ -866,7 +868,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[248 54 140 40 232 114]" src="https://img.finalfantasyxiv.com/lds/d/3629c6854aa559656623925e2489b60c2fa91e18.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[302 291 353 276 106 16]" src="https://img.finalfantasyxiv.com/lds/d/3629c6854aa559656623925e2489b60c2fa91e18.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lucid Dreaming&lt;/td>
@@ -879,7 +881,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[482 57 494 208 168 97]" src="https://img.finalfantasyxiv.com/lds/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[35 228 265 99 462 330]" src="https://img.finalfantasyxiv.com/lds/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Surecast&lt;/td>
@@ -904,8 +906,6 @@ Contact us if you would like to contribute to this guide.&lt;/p></description></
 &lt;/ul>
 &lt;p>Within that framework, there is additional nuance such as optimizing damage into raid buffs, moving certain spells around based on movement requirements, and making effective use of Summoner&amp;rsquo;s various utility tools. These will be covered more extensively in below sections.&lt;/p></description></item><item><title>Summoner Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/stat-priority/</link><pubDate>Sun, 07 Jul 2024 17:53:22 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/stat-priority/</guid><description>&lt;p>As a general rule we recommend:&lt;/p>
 &lt;p>SpS to 2.46-2.48 &amp;gt; Crit &amp;gt; Det &amp;gt;= DH &amp;gt; More SpS&lt;/p>
-&lt;p>Previously, SpS was more viable due to the the general potencies being a negligible gain or loss whether the demi phase drifted outside of buffs, but with the addition of Solar Bahamut at Lv. 100, it&amp;rsquo;s now more important to align with with raid buffs. SpS is also weaker at the beginning of the expansion, as a suitable amount of SpS to make the build remotely viable isn&amp;rsquo;t possible to get natively. Because of this, SpS builds are not recommended, and generally won&amp;rsquo;t be recommended throughout the expansion.&lt;/p></description></item><item><title>Summoner Openers</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/openers/</link><pubDate>Sun, 18 Sep 2022 07:52:22 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/openers/</guid><description>&lt;h2 id="openers">Openers&lt;/h2>
-&lt;h3 id="lv-100-general-opener">Lv. 100 General Opener&lt;/h3>
-&lt;p>The below opener is the general go to opener for summoner and uses Titan as the first primal. Since the 6.1 changes, we can now use Searing Light in Bahamut, and choose to do so after the Bahamut GCD to avoid using a &amp;ldquo;dead&amp;rdquo; GCD in our buff. You can choose to omit the precast Ruin III and use Bahamut at 0s as well. This may be an optimization strategy for particular fight timelines or encounters where the gained one second on cycle progression may matter.&lt;/p></description></item><item><title>Summoner Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/leveling-guide/</link><pubDate>Tue, 05 Jul 2022 03:04:47 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/leveling-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>Previously, SpS was more viable due to the the general potencies being a negligible gain or loss whether the demi phase drifted outside of buffs, but with the addition of Solar Bahamut at Lv. 100, it&amp;rsquo;s now more important to align with with raid buffs. SpS is also weaker at the beginning of the expansion, as a suitable amount of SpS to make the build remotely viable isn&amp;rsquo;t possible to get natively. Because of this, SpS builds are not recommended, and generally won&amp;rsquo;t be recommended throughout the expansion.&lt;/p></description></item><item><title>Summoner Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/leveling-guide/</link><pubDate>Tue, 05 Jul 2022 03:04:47 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/leveling-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
 &lt;p>Welcome! This page is written to assist you throughout your leveling journey and provide insight on how the Summoner job will evolve from level one to level 100.  Summoner may appear as a bit of a “unique” job with a lot of moving parts and multiple avenues of attacking enemies.  &lt;/p>
 &lt;p>Throughout this leveling guide, we will provide you with a basic fundamental understanding of each spell that you will unlock, as well as provide some quick rotation priorities and visualization examples. Our goal is to break things down into simple and easy-to-understand concepts to help you piece together the various moving parts that Summoner’s kit is built from.  &lt;/p></description></item></channel></rss>
