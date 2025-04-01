@@ -5,11 +5,11 @@ lastmod: 2023-05-25T03:49:56.213Z
 changes:
   - patch: "7.2"
     description: >-
-      Ladonsbite potency raised from 130 to 140
+      * Ladonsbite potency raised from 130 to 140
 
-      Shadowbite potency raised from 170 to 180 (now 280 under Barrage)
+      * Shadowbite potency raised from 170 to 180 (now 280 under Barrage)
 
-      Pitch Perfect, Resonant Arrow and Radiant Encore now have a 55% damage fall-off on additional targets (was 50%)
+      * Pitch Perfect, Resonant Arrow and Radiant Encore now have a 55% damage fall-off on additional targets (was 50%)
 authors:
   - Balance-BRD-Staff
 ---
