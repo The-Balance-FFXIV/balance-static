@@ -21,7 +21,10 @@ bis:
   - type: gsheets
     name: Patch 7.2 All Prog and BIS sets
     link: https://xivgear.app/?page=sl%7C4cdd4b0d-0b1b-4c7c-a5bc-2957bb83618b&
-    description: A list of all Savage Progression and BIS sets
+    description: |-
+      A list of all Savage Progression and BIS sets
+
+      Link: https://xivgear.app/?page=sl%7C4cdd4b0d-0b1b-4c7c-a5bc-2957bb83618b&
   - type: sleepyshiba
     description: |-
       Archive of old BIS sets.
