@@ -40,10 +40,24 @@ The following are openers you can follow at the beginning of the fight to set up
 
 The following are examples of burst setups for your two-minute windows. Please note that oGCDs used may vary depending on which portraits are available for each window. 
 
+## H2 + H3 Burst
+
+![H2 H3 Burst](/img/jobs/pct/pictomancer_h2h3_burst.png "H2 H3 Burst")
+
+This is an alternative window worth considering due to the 7.2 changes that places H1 before the burst window and replaces the Hammer GCD with a subtractive GCD at the end of the burst window. This is generally our default burst window recommendation as of patch 7.2.
+
+
+
+## H3 Burst
+
+![H3 Burst](/img/jobs/pct/pictomancer_h3_burst.png "H3 Burst")
+
+This is an alternative that is *significantly* tighter to execute. You *can* do this option without hammers, by replacing H3 with a Holy in White or RGB GCD. **DO NOT** meld spell speed to accomplish this window if you're unable to without -- use the H2 + H3 Burst instead.
+
 ## 9 Spell Single Muse Burst
 
 ![9 GCD Single Muse Burst](/img/jobs/pct/pictomancer_9_gcd_single_muse_burst.png "9 GCD Single Muse Burst")
 
-* This is the standard burst window that you want to achieve every Starry Muse window, but the overall spell order can be swapped as needed.
+* This is the "old" standard burst window. It is now a 2-3% loss to use this instead of the above, but can be helpful when learning new fights if you are more comfortable with it.
 * This window requires your Starry Muse to be weaved after a hardcast spell, or weaved late after an instant-cast spell in order to reliably fit all 9 spells under Starry, and is naturally tight to execute.
 * Due to buff propagation, you want to enter each Starry window with a hardcast Subtractive spell to reliably fit all of your spells in other party member's buffs as well, assuming their buffs aren't being drifted heavily. If you have an AST in the party, make sure the third GCD is a hardcast Subtractive spell as well, to catch their normal Spear timing.
