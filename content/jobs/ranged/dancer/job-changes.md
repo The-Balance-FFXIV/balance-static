@@ -1,8 +1,33 @@
 ---
 title: Dancer Changes
 layout: changes
-lastmod: 2024-08-05T13:31:09.535Z
+lastmod: 2025-04-01T01:31:29.107Z
 changes:
+  - patch: "7.2"
+    description: |-
+      Windmill was buffed to 120p.
+
+      Bladeshower was buffed to 160p after a Windmill combo.
+
+      Rising Windmill was buffed to 160p.
+
+      Bloodshower was buffed to 200p.
+
+      Standard Finish now deals 60% less damage for targets after the first.
+
+      Fan Dance III now deals 60% less damage for targets after the first.
+
+      Technical Finish now deals 60% less damage for targets after the first.
+
+      Saber Dance now deals 60% less damage for targets after the first.
+
+      Tillana now deals 60% less damage for targets after the first.
+
+      Last Dance now deals 60% less damage for targets after the first.
+
+      Finishing Move now deals 60% less damage for targets after the first.
+
+      Dance of the Dawn now deals 60% less damage for targets after the first.
   - patch: "7.05"
     description: Fan Dance IV was buffed to 420p.
   - patch: "7.0"
