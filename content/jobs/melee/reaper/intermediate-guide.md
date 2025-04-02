@@ -27,7 +27,7 @@ Welcome to Reaper Intermediate Guide! The objective of this guide is to tackle s
 
 Optimizing your two minute burst window to better play into buffs is what really set you apart as a Reaper. An optimized Double Enshroud Window is putting around 2000 more potency into raid buffs than an optimized Single Enshroud one. Reaper has a lot of options for burst windows that are better discussed in the Advanced Guide. Below is the safest option for your two minute burst window, that will work best in most situations. 
 
-![](/img/jobs/rpr/standardouble.png "Reaper Standard Burst")
+![](/img/jobs/rpr/reaper_burst_standard_double-shroud.png "Reaper Standard Burst")
 
 The ending is a bit complicated in wording but simple in nature. We have two major goals:
 
@@ -59,8 +59,6 @@ In a full uptime scenario, the 10 minute burst will not function anymore due to 
 
 In Endwalker, Single Enshroud was significantly weaker than our Double Enshroud burst. In Dawntrail, it is now a lot closer. With Gluttony being a much stronger GCD with its two 820p follow up attacks, we now need to take more consideration of losing a use. The best way to prevent losing that use is to utilize a Single Enshroud windows. 
 
-Placeholder for Image
-
 Single Enshrouds are somewhat more complicated than Doubles because of the Enshroud that could or could not precede them. General rule of thumb is to not enter Enshroud if Gluttony <13s on its cooldown. At the 6th minute mark in a full uptime fight we actually run into an interesting situation where the above window will need to have the Soul Slice after the AC. It is better to view the whole single enshroud phases by clicking [here](https://docs.google.com/spreadsheets/d/1qIE7mfMSVKtAUxAHEbG0llNawygWcujYwUR8wKIkE5M/edit?usp=sharing). 
 
 ### Uptime Optimization
@@ -77,7 +75,3 @@ Reaper received a major change in Dawntrail, that being that Harvest Moon and Ha
 Perfectio's availability can be stretched out to nearly a minute after Plentiful Harvests or almost 90s after Arcane Circle has been used. This does require some planning to utilize, but we do have the ability to utilizing windows such as the one in the spreadsheet below to not sacrifice too much damage in our burst window and also allowing us uptime pretty far into the future. This may be a non-standard optimization or it could be a niche tool for certain encounters, but I believe understanding how good Perfectio as a ranged tool is will be a differential when it comes to skill expression. You can view an example of this theory here.
 
 <https://docs.google.com/spreadsheets/d/16zo0BorEt3UMv2hXjTFNcyKQjooRW1jwXp7eGAc7BiY/edit?usp=sharing>
-
-#### Executioner's Gallows
-
-Executioner's Gallows has a damage delay of 2.12s! This is a massive delay in damage and can potentially cause ghosting. If you ever end up using Gluttony before a boss jumps and you get both GCDs, it will always be safe to finish with Executioner's Gibbet instead of Gallows. Keep in mind that, if you discover this is a problem, then you will most likely have to re-organize your whole Gibbet/Gallows rotation. While we are unsure if this will impact any fights in Dawntrail, I recommend checking the Encounter sections for each fight to figure out the best Gibbet/Gallows rotation for each fight.
