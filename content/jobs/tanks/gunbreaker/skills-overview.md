@@ -2,8 +2,8 @@
 title: Gunbreaker Skills Overview
 authors:
   - Balance-GNB-Staff
-patch: "7.16"
-lastmod: 2025-02-12T01:14:48.084Z
+patch: "7.2"
+lastmod: 2025-04-02T08:27:37.625Z
 changelog:
   - date: 2021-10-25T21:30:58.365Z
     message: Added Superbolide w/ EW buff
