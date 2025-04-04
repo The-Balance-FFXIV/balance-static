@@ -192,7 +192,7 @@ If you need to move out of your **Ley Lines** for a longer duration, such as a p
 
 ## **Triplecast/Swiftcast**
 
-With Patch 7.2, most BLM spell cast times have been reduced below their recast time. This means that **Triplecast** and **Swiftcast** are no longer save us time when used with most spells, and should be primarily used for movement/weaving. Note that these abilities are not used up on instant cast spells like **Xenoglossy**, **Paradox**, and **High Thunder**.
+With Patch 7.2, most BLM spell cast times have been reduced below their recast time. This means that **Triplecast** and **Swiftcast** no longer save us time when used with most spells, and should be primarily used for movement/weaving. Note that these abilities are not used up on instant cast spells like **Xenoglossy**, **Paradox**, and **High Thunder**.
 
 ### Movement/Weaving
 
@@ -216,7 +216,7 @@ Due to the specific placement in the rotation, **Manafont** will rarely line up 
 
 **Manaward**: solid personal shield which can be used proactively to help with mitigation, or reactively if needed to survive a mechanic.
 
-**Transpose**: used primarily when bosses become untargetable/die while in Astral Fire, in order to swap to Umbral Ice to allow use of Umbral Soul . Can also be used in the case of larger mistakes where Astral Fire will drop otherwise, to swap to Umbral Ice and maintain Enochian. Can also be used for some small optimizations for both single target and for AoE.
+**Transpose**: used primarily when bosses become untargetable/die while in Astral Fire, in order to swap to Umbral Ice to allow use of Umbral Soul. Can also be used for some optimizations for both single target and for AoE.
 
 **Addle**: used to lower damage dealt by the target, more effective on magic-based damage. Consider planning uses in a static environment, otherwise use when available to help mitigate raidwide damage.
 
