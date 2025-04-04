@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guide on Balance Guides</title><link>https://www.thebalanceffxiv.com/tags/guide/</link><description>Recent content in Guide on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 21:31:44 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/tags/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Reaper Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</link><pubDate>Mon, 24 Mar 2025 21:31:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</guid><description>&lt;h1 id="basic-reaper-guide">Basic Reaper Guide&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guide on Balance Guides</title><link>https://www.thebalanceffxiv.com/tags/guide/</link><description>Recent content in Guide on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 04:00:56 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/tags/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Dancer FAQ</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 01 Apr 2025 04:00:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>&lt;h1 id="dance-partner-priority">DANCE PARTNER PRIORITY&lt;/h1>
+&lt;p>This list is made in a gear/skill vacuum. This is the recommended partner priority list.&lt;br>
+Special Note: some fights may favor certain Dance Partners over others based on phases/mechanics or ability to hit multiple targets.&lt;/p>
+&lt;p>&lt;em>Updated: January 19, 2021 to account for balance changes in patch 5.4.&lt;/em>&lt;/p>
+&lt;ol>
+&lt;li>SAM&lt;/li>
+&lt;li>NIN&lt;/li>
+&lt;li>MNK / BLM (crit build)*&lt;/li>
+&lt;li>DRG / SMN&lt;/li>
+&lt;li>RDM&lt;/li>
+&lt;li>MCH&lt;/li>
+&lt;li>BRD&lt;/li>
+&lt;li>DNC&lt;/li>
+&lt;/ol>
+&lt;p>*Data on BLM SpS build as a dance partner is not available due to length in time to reach BiS with this build as of this update, but value as a dance partner is believed to drop significantly between the two builds due to under utilization of Devilment.&lt;/p></description></item><item><title>Reaper Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</link><pubDate>Mon, 24 Mar 2025 21:31:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</guid><description>&lt;h1 id="basic-reaper-guide">Basic Reaper Guide&lt;/h1>
 &lt;p>Welcome to the Basic Guide for Reaper, which will cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.&lt;/p>
 &lt;p>Whether you’re a fresh level 100, a returning player, or just need a refresh, this guide will give you the tools you need to feel comfortable playing Reaper.&lt;/p>
 &lt;p>This guide is intended to be relatively basic and doesn’t go into huge explanations of specific situations or small nuances. If you’re looking for something specific, check out the more detailed guides below:&lt;/p></description></item><item><title>Reaper Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</link><pubDate>Mon, 24 Mar 2025 21:30:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</guid><description>&lt;p>This guide is targeted at players looking to play and understand Reaper as they level up. It will cover some basic priorities for each level tier and will also serve as a priority list for playing Reaper at lower levels (for ultimates and such). If you are level 100 and looking to explore other guides please visit the following links:&lt;/p>
@@ -23,7 +37,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[135 200 213 159 436 365]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[143 476 346 328 312 285]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Split Shot&lt;/td>
@@ -36,7 +50,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[302 405 464 77 422 360]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[467 262 260 181 167 236]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Slug Shot&lt;/td>
@@ -49,7 +63,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[240 1 463 37 460 471]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[369 307 235 399 226 19]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Clean Shot&lt;/td>
@@ -62,7 +76,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[379 214 83 16 398 317]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[437 19 117 168 145 46]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Drill&lt;/td>
@@ -75,7 +89,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[97 166 228 257 61 243]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[445 314 228 222 277 448]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Air Anchor&lt;/td>
@@ -88,7 +102,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[186 236 78 402 121 328]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[338 200 403 418 499 10]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chain Saw&lt;/td>
@@ -101,7 +115,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[320 272 253 142 264 127]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[298 172 167 421 62 240]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reassemble&lt;/td>
@@ -114,7 +128,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[132 275 49 461 133 488]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[412 122 257 126 265 110]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hypercharge&lt;/td>
@@ -127,7 +141,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[446 93 399 17 411 332]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[362 312 353 95 479 321]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Blazing Shot&lt;/td>
@@ -140,7 +154,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[71 126 461 389 210 458]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[456 480 190 112 242 392]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Checkmate&lt;/td>
@@ -153,7 +167,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[113 181 198 492 403 479]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[50 28 253 160 337 166]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Double Check&lt;/td>
@@ -166,7 +180,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[295 132 72 346 254 158]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[402 34 359 392 388 116]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Wildfire&lt;/td>
@@ -179,7 +193,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[31 26 489 436 22 185]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[417 61 185 285 472 29]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Barrel Stabilizer&lt;/td>
@@ -192,7 +206,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[133 220 73 250 462 235]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[150 336 5 64 229 115]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Excavator&lt;/td>
@@ -205,7 +219,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[422 417 342 293 490 153]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[432 412 174 449 188 165]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Full Metal Field&lt;/td>
@@ -234,7 +248,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[500 339 169 140 405 349]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[396 330 41 87 179 193]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bioblaster&lt;/td>
@@ -247,7 +261,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[402 185 331 24 304 48]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[174 69 92 63 190 256]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Scattergun&lt;/td>
@@ -260,7 +274,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[279 253 290 110 112 359]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[17 5 470 322 69 31]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Auto-Crossbow&lt;/td>
@@ -273,7 +287,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[30 15 164 270 11 139]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[95 127 139 237 178 83]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flamethrower&lt;/td>
@@ -302,7 +316,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[305 434 198 152 137 183]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[151 259 240 148 44 22]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Automaton Queen&lt;/td>
@@ -315,7 +329,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[77 256 259 159 360 307]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[197 21 241 238 312 87]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Queen Overdrive&lt;/td>
@@ -328,7 +342,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[104 427 45 417 37 192]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[321 368 233 331 18 38]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm Punch&lt;/td>
@@ -341,7 +355,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[200 485 33 161 176 286]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[85 472 63 56 189 21]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Roller Dash&lt;/td>
@@ -354,7 +368,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[194 204 367 426 277 206]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[457 71 445 195 422 69]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Pile Bunker&lt;/td>
@@ -367,7 +381,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[442 438 144 242 132 363]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[296 354 18 231 223 438]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Crowned Collider&lt;/td>
@@ -396,7 +410,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[69 401 444 343 469 446]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[214 299 89 428 181 352]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tactician&lt;/td>
@@ -409,7 +423,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[155 480 239 6 246 140]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[53 2 65 212 311 313]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dismantle&lt;/td>
@@ -422,7 +436,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[297 48 492 246 352 396]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[80 213 88 327 133 385]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Graze&lt;/td>
@@ -435,7 +449,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[294 172 69 454 140 493]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[443 354 265 374 437 319]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Foot Graze&lt;/td>
@@ -448,7 +462,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[376 184 404 494 45 350]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[349 175 451 54 211 110]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Head Graze&lt;/td>
@@ -461,7 +475,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[94 366 311 143 352 103]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[334 234 397 116 483 160]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -474,7 +488,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[372 13 368 297 273 302]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[2 392 176 144 258 108]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -487,7 +501,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[371 316 135 480 435 126]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[473 368 81 73 133 187]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Peloton&lt;/td>
@@ -509,18 +523,4 @@
 &lt;p>Some of the content here will cover concepts that are obvious to people who have experience playing other jobs at a high level. Other aspects will be unique to Red Mage.&lt;/p></description></item><item><title>Dancer Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</link><pubDate>Fri, 20 Jan 2023 15:16:38 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</guid><description>&lt;p>by Io Whitespirit (Faerie)&lt;/p>
 &lt;h1 id="foreword">FOREWORD&lt;/h1>
 &lt;p>One of the biggest requests I have had is a more concise document on what people “need to know” before jumping into more difficult content. This is not meant to be a replacement for a general guide to Dancer; please see Ringabel’s extensive write-up instead, which will be linked at the end of the document in the appendix.&lt;/p>
-&lt;p>This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.&lt;/p></description></item><item><title>Dancer FAQ</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 20 Sep 2022 12:59:51 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>&lt;h1 id="dance-partner-priority">DANCE PARTNER PRIORITY&lt;/h1>
-&lt;p>This list is made in a gear/skill vacuum. This is the recommended partner priority list.&lt;br>
-Special Note: some fights may favor certain Dance Partners over others based on phases/mechanics or ability to hit multiple targets.&lt;/p>
-&lt;p>&lt;em>Updated: January 19, 2021 to account for balance changes in patch 5.4.&lt;/em>&lt;/p>
-&lt;ol>
-&lt;li>SAM&lt;/li>
-&lt;li>NIN&lt;/li>
-&lt;li>MNK / BLM (crit build)*&lt;/li>
-&lt;li>DRG / SMN&lt;/li>
-&lt;li>RDM&lt;/li>
-&lt;li>MCH&lt;/li>
-&lt;li>BRD&lt;/li>
-&lt;li>DNC&lt;/li>
-&lt;/ol>
-&lt;p>*Data on BLM SpS build as a dance partner is not available due to length in time to reach BiS with this build as of this update, but value as a dance partner is believed to drop significantly between the two builds due to under utilization of Devilment.&lt;/p></description></item></channel></rss>
+&lt;p>This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.&lt;/p></description></item></channel></rss>
