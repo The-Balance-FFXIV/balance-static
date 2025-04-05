@@ -1,7 +1,7 @@
 ---
 title: Warrior Changes
 layout: changes
-lastmod: 2024-12-02T21:36:08.585Z
+lastmod: 2025-04-03T22:25:56.983Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -71,6 +71,15 @@ changes:
       - Added enmity multiplier to various AoE skills
   - patch: "7.1"
     description: Thrill of Battle now affects healing from Bloodwhetting.
+  - patch: "7.2"
+    description: >-
+      20 potency increase to combo actions after Melee Mastery II\
+
+      20 potency increase to Upheaval\
+
+      100 potency reduction on Chaotic Cyclone\
+
+      Falloff AoE lowered from 70% to 50% for Primal Rend, Primal Wrath and Primal Ruination
 authors:
   - Balance-WAR-Staff
 ---
