@@ -2,7 +2,7 @@
 title: Scholar Best in Slot (BiS)
 layout: bis
 patch: "7.2"
-lastmod: 2025-03-31T23:33:45.295Z
+lastmod: 2025-04-05T05:18:03.233Z
 changelog:
   - date: 2024-08-06T21:59:04.647Z
     message: updated once again for DT
@@ -12,6 +12,8 @@ changelog:
     message: aug crafted general recommendation updated
   - date: 2025-03-30T20:19:43.416Z
     message: added 7.2 savage sets
+  - date: 2025-04-05T05:18:05.876Z
+    message: updated link
 bis:
   - type: etro
     name: You can find full sheet with more sets in the scholar resources on The
@@ -43,9 +45,9 @@ bis:
     description: "* This is the generally recommended set. It has great alignment
       for both Aetherflow and Chain Stratagem, and its slower GCD ensures that
       you will have more MP for raises and GCD healing."
-    link: https://xivgear.app/?page=sl%7C92a4ba85-80e2-4699-86d2-ded23625daf1
+    link: https://xivgear.app/?page=embed%7Csl%7Cf00576e2-bd5c-49e1-9ffd-b97b9168f085
   - type: genericiframe
-    link: https://xivgear.app/?page=sl%7C9b0013fc-a19d-474d-967e-4e054a041113
+    link: https://xivgear.app/?page=embed%7Csl%7C7e77f1a7-935a-4617-831d-c6cf1d6e07da
     name: 2.32 GCD
     description: >-
       This set provides the highest simulated DPS. Despite its simulated DPS,
@@ -63,7 +65,7 @@ bis:
 
       If the encounter is short enough (less than 8 or 10 minutes), or if your group ever delays raid buffs because of mechanics or downtime, the slight Chain Stratagem drift should not be significant.
   - type: genericiframe
-    link: https://xivgear.app/?page=sl%7Cc675f00c-195f-4600-9103-801dcba50dfc
+    link: https://xivgear.app/?page=embed%7Csl%7C9b4afcde-25a5-4611-b2fc-04658205e171
     name: 2.31 GCD
     description: >-
       This is a suitable alternative for players who prefer a faster GCD without
