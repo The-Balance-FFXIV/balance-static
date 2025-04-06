@@ -4,13 +4,13 @@
 &lt;h2 id="opener">Opener&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[267 319 256 62 135 243]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
+ &lt;img id="[201 226 380 36 462 147]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
 &lt;/div>
 &lt;/p>
 &lt;h2 id="burst">Burst&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[418 374 196 307 77 148]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
+ &lt;img id="[284 199 7 422 288 193]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
 &lt;/div>
 &lt;/p>
 &lt;ul>
@@ -53,7 +53,7 @@
 &lt;p>&lt;strong>Iron Will&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[312 372 8 187 407 60]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[141 38 9 15 137 178]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>Toggle | 3s cooldown after toggling on. | 1s cooldown after toggling off.&lt;/p>
@@ -62,7 +62,7 @@
 &lt;p>&lt;strong>Fight or Flight&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[58 177 189 97 316 312]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[63 488 44 403 375 57]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>60s cooldown.&lt;/p>
@@ -70,7 +70,7 @@
 &lt;p>&lt;strong>Imperator&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[15 291 363 23 27 354]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[415 39 436 106 174 446]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p></description></item><item><title>Paladin Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</link><pubDate>Sun, 14 Jul 2024 01:05:24 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</guid><description>&lt;p>Post-6.3 rework, there is very little to optimize outside of rolling your GCD, keeping oGCDs on cooldown, and not dropping resources (Divine Might, Sword Oath stacks).&lt;/p>
 &lt;p>Encounter-specific optimizations can be discussed in the PLD Encounter forum in the Balance Discord.&lt;/p></description></item><item><title>Paladin FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 10 Jul 2024 05:01:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>&lt;blockquote>
