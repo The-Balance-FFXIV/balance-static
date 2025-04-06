@@ -79,7 +79,7 @@ changes:
 
       100 potency reduction on Chaotic Cyclone\
 
-      Falloff AoE lowered from 70% to 50% for Primal Rend, Primal Wrath and Primal Ruination
+      Falloff AoE lowered from 70% to 50% (deals 20% more potency to additional enemies compared to pre-7.2) for Primal Rend, Primal Wrath and Primal Ruination
 authors:
   - Balance-WAR-Staff
 ---
