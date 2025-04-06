@@ -23,19 +23,19 @@ changelog:
 bis:
   - type: genericiframe
     name: 7.2 RDM BiS - 2.5 GCD
-    link: https://xivgear.app/?page=sl%7Cd60e0218-af30-42b7-8125-332c57fc39fa
+    link: https://xivgear.app/?page=embed%7Csl%7C367624f7-989b-439b-aa04-daf7bdab2379
     description: Highest crit tiering, but might cause drifting issues with Embolden.
   - type: genericiframe
     name: 7.2 RDM BiS - 2.49 GCD
-    link: https://xivgear.app/?page=sl%7C0a12d7ee-e895-4ee6-be36-12e2367f857d
+    link: https://xivgear.app/?page=embed%7Csl%7Cdf75b524-2628-443e-b95d-18363f2a5e3d
     description: Better oGCD alignment with Fleche and Contre Sixte.
   - type: genericiframe
     name: 7.2 RDM BiS - 2.48 GCD
-    link: https://xivgear.app/?page=sl%7C92b93165-3f8e-47c8-a052-66cdc13d563e
+    link: https://xivgear.app/?page=embed%7Csl%7C06962c3f-362b-45f6-b7cf-10a02a4a24ec
     description: Easier two-minute burst window.
   - type: genericlink
     name: 7.2 RDM Week 1 Savage Set
-    link: https://xivgear.app/?page=sl%7Ce5c204da-9654-4957-80d1-4d3b0902d5f0
+    link: https://xivgear.app/?page=embed%7Csl%7C5b0601d2-46f6-45e3-9e22-303d2fecd6a3
   - type: genericiframe
     name: 7.2 RDM FRU BiS
     link: https://xivgear.app/?page=embed%7Csl%7C08dd91db-2932-4c14-bcab-e50936b7d407&onlySetIndex=3
