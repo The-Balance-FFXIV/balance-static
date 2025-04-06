@@ -16,13 +16,15 @@ changelog:
     message: Updated for patch 7.05
   - date: 2025-03-31T16:56:29.566Z
     message: Updated for patch 7.2
+  - date: 2025-04-06T01:55:45.232Z
+    message: Fixed XIVGear Embeds
 bis:
   - type: xivgearset
     name: 7.2 ilvl 760 BiS 2.5 GCD
-    link: https://xivgear.app/?page=sl|163d0df4-39fe-4036-b5f9-fdd7ba0e2a22
+    link: https://xivgear.app/?page=embed%7Csl%7Cf0c36ece-774f-493c-9f0c-92c29a364fde&onlySetIndex=2
   - type: xivgearset
     name: 7.2 ilvl 740 Baseline Set
-    link: https://xivgear.app/?page=sl|a3d38c6f-02c7-4756-828a-2cae476fdfe5
+    link: https://xivgear.app/?page=embed%7Csl%7Cf0c36ece-774f-493c-9f0c-92c29a364fde&onlySetIndex=0
     description: Set for starting savage progression without any gear from weekly
       capped tomestones or savage raids
   - type: etro
