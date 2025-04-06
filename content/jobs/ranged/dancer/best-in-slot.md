@@ -19,10 +19,10 @@ changelog:
   - date: 2025-04-06T01:55:45.232Z
     message: Fixed XIVGear Embeds
 bis:
-  - type: xivgearset
+  - type: genericiframe
     name: 7.2 ilvl 760 BiS 2.5 GCD
     link: https://xivgear.app/?page=embed%7Csl%7Cf0c36ece-774f-493c-9f0c-92c29a364fde&onlySetIndex=2
-  - type: xivgearset
+  - type: genericiframe
     name: 7.2 ilvl 740 Baseline Set
     link: https://xivgear.app/?page=embed%7Csl%7Cf0c36ece-774f-493c-9f0c-92c29a364fde&onlySetIndex=0
     description: Set for starting savage progression without any gear from weekly
