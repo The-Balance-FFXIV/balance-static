@@ -32,7 +32,7 @@ bis:
       In the game, your global cooldown (GCD) timing is determined by when the game code aligns with your frame updates. This happens once per frame. If your next action doesn't sync perfectly with these frames, there can be slight delays in your GCD. This is especially noticeable on lower FPS. Fluctuating frame rates can also make your GCD more unpredictable. Over the course of a battle, these delays could mean that a gear set with a supposed 2.5 GCD might actually function more like a 2.505 GCD. Players with higher FPS will suffer the effects of this issue less but will never be able to fully eliminate them.
 
 
-      Third-party tools like ReAction help to mitigate this effect by syncing your frames with when your GCD is ready. To better understand how this works for your specific character, you can make comparisons using a GCD calculator. By inputting fflogs into the calculator, you can see the actual duration of your GCDs during gameplay. It's advisable to use multiple logs for accuracy and disregard any anomalous data. For a practical tool to calculate GCDs, you can visit https://gcdcalc.fly.dev/\
+      Third-party tools like ReAction help to mitigate this effect by syncing your frames with when your GCD is ready. To better understand how this works for your specific character, you can make comparisons using a GCD calculator. By inputting fflogs into the calculator, you can see the actual duration of your GCDs during gameplay. It's advisable to use multiple logs for accuracy and disregard any anomalous data. For a practical tool to calculate GCDs, you can visit https://gcdcalc.fly.dev/
 
 
 
@@ -77,25 +77,25 @@ bis:
       Even with the faster GCD, this set's MP should still be perfectly sustainable in a somewhat organized environment where you do not expect to cast multiple raises or do a lot of GCD healing.
   - type: null
     name: Ultimate/criterion sets below
-  - type: genericiframe
+  - type: genericlink
     name: DSR
     link: https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45
     description: DSR The piety requirements vary depending on your p7 strat for akh
       morns. 332 requires more GCD healing while 611 is laxer. Choose a GCD
       based on the gear you're willing to farm. 2.5 provids mainly sync gear
       while 2.45/2.40 has p1s-p4s raid gear
-  - type: genericiframe
+  - type: genericlink
     name: TOP/Sil'dihn
     link: https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650
-  - type: genericiframe
+  - type: genericlink
     name: Rokkon Aloalo
     link: https://xivgear.app/?page=bis%7Csch%7Cendwalker%7Canabaseios
   - type: genericiframe
     name: FRU 2.50
-    link: https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=0
-  - type: genericiframe
+    link: https://xivgear.app/?page=embed%7Csl%7C95d87ba8-b251-4257-bc2b-c227abb7d321
+  - type: xivgearset
     name: FRU 2.31
-    link: https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=3
+    link: https://xivgear.app/?page=embed%7Csl%7Cc36de212-1ede-466f-a0e0-e80d838fbf49
 authors:
   - Balance-SCH-Staff
 tags:
