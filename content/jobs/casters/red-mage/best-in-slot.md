@@ -33,7 +33,7 @@ bis:
     name: 7.2 RDM BiS - 2.48 GCD
     link: https://xivgear.app/?page=embed%7Csl%7C06962c3f-362b-45f6-b7cf-10a02a4a24ec
     description: Easier two-minute burst window.
-  - type: genericlink
+  - type: genericiframe
     name: 7.2 RDM Week 1 Savage Set
     link: https://xivgear.app/?page=embed%7Csl%7C5b0601d2-46f6-45e3-9e22-303d2fecd6a3
   - type: genericiframe
