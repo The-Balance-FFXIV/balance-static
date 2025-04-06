@@ -21,21 +21,21 @@ changelog:
   - date: 2025-03-25T00:49:52.401Z
     message: Updated with 7.2 prog and BiS sets including FRU and legacy Ultimates
 bis:
-  - type: xivgearset
+  - type: genericiframe
     name: 7.2 RDM BiS - 2.5 GCD
-    link: 7Cd60e0218-af30-42b7-8125-332c57fc39fa
+    link: https://xivgear.app/?page=sl%7Cd60e0218-af30-42b7-8125-332c57fc39fa
     description: Highest crit tiering, but might cause drifting issues with Embolden.
-  - type: xivgearset
+  - type: genericiframe
     name: 7.2 RDM BiS - 2.49 GCD
-    link: 7C0a12d7ee-e895-4ee6-be36-12e2367f857d
+    link: https://xivgear.app/?page=sl%7C0a12d7ee-e895-4ee6-be36-12e2367f857d
     description: Better oGCD alignment with Fleche and Contre Sixte.
-  - type: xivgearset
+  - type: genericiframe
     name: 7.2 RDM BiS - 2.48 GCD
-    link: 7C92b93165-3f8e-47c8-a052-66cdc13d563e
+    link: https://xivgear.app/?page=sl%7C92b93165-3f8e-47c8-a052-66cdc13d563e
     description: Easier two-minute burst window.
-  - type: xivgearset
+  - type: genericlink
     name: 7.2 RDM Week 1 Savage Set
-    link: 7Ce5c204da-9654-4957-80d1-4d3b0902d5f0
+    link: https://xivgear.app/?page=sl%7Ce5c204da-9654-4957-80d1-4d3b0902d5f0
   - type: genericiframe
     name: 7.2 RDM FRU BiS
     link: https://xivgear.app/?page=embed%7Csl%7C08dd91db-2932-4c14-bcab-e50936b7d407&onlySetIndex=3
