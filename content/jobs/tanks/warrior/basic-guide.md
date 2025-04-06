@@ -4,8 +4,8 @@ card_header_image: /img/jobs/war/basic.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "7.1"
-lastmod: 2024-12-02T21:33:15.364Z
+patch: "7.2"
+lastmod: 2025-04-03T22:32:02.144Z
 changelog:
   - date: 2022-02-26T14:53:27.569Z
     message: Uploaded the new GDoc guide for EW WAR
@@ -289,7 +289,7 @@ For Dawntrail Warriors, the options are pretty clear cut. At level 100, the AoE 
 Here is a nice table comparing various skills and combos and their effective potency at different situations.
 Do note that Fell Cleave wins in potency when fighting 3 targets or less.
 
-![AoE effectiveness](https://github.com/Moxfi/XIV/blob/main/Dawntrail/Resources/AoE/AoE_effectiveness.png?raw=true "AoE effectiveness")
+![AoE effectiveness](/img/jobs/war/waraoe72.png "AoE effectiveness")
 
 That is a bunch of numbers, and Warriors are known to be bad at reading, so let us summarize:
 
@@ -302,7 +302,7 @@ Target count: 4
 Target count: 3
 
 * Overpower + Mythril Tempest
-* Fell Cleave or Chaotic Cyclone
+* Fell Cleave
 * Orogeny
 
 Target count: 2 or less
