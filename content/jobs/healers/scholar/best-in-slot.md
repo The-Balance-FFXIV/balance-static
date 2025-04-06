@@ -75,7 +75,7 @@ bis:
 
 
       Even with the faster GCD, this set's MP should still be perfectly sustainable in a somewhat organized environment where you do not expect to cast multiple raises or do a lot of GCD healing.
-  - type: etro
+  - type: null
     name: Ultimate/criterion sets below
   - type: genericiframe
     name: DSR
