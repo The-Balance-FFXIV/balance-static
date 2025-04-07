@@ -26,9 +26,7 @@ bis:
 
       Link: https://xivgear.app/?page=sl%7C4cdd4b0d-0b1b-4c7c-a5bc-2957bb83618b&
   - type: sleepyshiba
-    description: |-
-      Archive of old BIS sets.
-      https://pastebin.com/EJbcGFXq
+    description: Archive of old BIS sets.
     name: Archive of Old BIS
     link: https://pastebin.com/ibK79n1M
   - type: gsheets
