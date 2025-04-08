@@ -2,7 +2,7 @@
 title: Scholar Best in Slot (BiS)
 layout: bis
 patch: "7.2"
-lastmod: 2025-04-05T05:18:03.233Z
+lastmod: 2025-04-08T20:29:57.680Z
 changelog:
   - date: 2024-08-06T21:59:04.647Z
     message: updated once again for DT
@@ -14,6 +14,8 @@ changelog:
     message: added 7.2 savage sets
   - date: 2025-04-05T05:18:05.876Z
     message: updated link
+  - date: 2025-04-08T20:29:54.019Z
+    message: updated sets to include tome order
 bis:
   - type: etro
     name: You can find full sheet with more sets in the scholar resources on The
@@ -42,12 +44,19 @@ bis:
       If using the Early Refresh(DoT clip) opener: The 2.50 GCD and 2.49 GCD sets will NOT land Biolysis under Chain Stratagem if you use Biolysis AFTER your 6th Energy Drain in the opener (the breakpoint is 2.47 GCD and requires low ping). To fix this, use Biolysis on the same GCD as your 6th Energy Drain.
   - type: genericiframe
     name: 2.40 GCD
-    description: "* This is the generally recommended set. It has great alignment
-      for both Aetherflow and Chain Stratagem, and its slower GCD ensures that
-      you will have more MP for raises and GCD healing."
-    link: https://xivgear.app/?page=embed%7Csl%7Cf00576e2-bd5c-49e1-9ffd-b97b9168f085
+    description: >-
+      This is the generally recommended set. It has great alignment for both
+      Aetherflow and Chain Stratagem, and its slower GCD ensures that you will
+      have more MP for raises and GCD healing.
+
+
+      Tome:
+
+
+      week 1 gloves > week 2 earring > week 3 wrist > week 4 head > week 6 pants > week 7 ring
+    link: https://xivgear.app/?page=embed%7Csl%7C8b33d0eb-52e2-427c-959b-66fd705e94ed
   - type: genericiframe
-    link: https://xivgear.app/?page=embed%7Csl%7C7e77f1a7-935a-4617-831d-c6cf1d6e07da
+    link: https://xivgear.app/?page=embed%7Csl%7Cbed6521e-f2e6-484f-9af5-3e6fd4fddf39
     name: 2.32 GCD
     description: >-
       This set provides the highest simulated DPS. Despite its simulated DPS,
@@ -64,8 +73,14 @@ bis:
 
 
       If the encounter is short enough (less than 8 or 10 minutes), or if your group ever delays raid buffs because of mechanics or downtime, the slight Chain Stratagem drift should not be significant.
+
+
+      Tome:
+
+
+      week 1 gloves > week 2 earring > week 4 head > week 5 pants > week 6 ring
   - type: genericiframe
-    link: https://xivgear.app/?page=embed%7Csl%7C9b4afcde-25a5-4611-b2fc-04658205e171
+    link: https://xivgear.app/?page=embed%7Csl%7C1ad308d7-6dd6-44bf-b81d-54dba3e85121
     name: 2.31 GCD
     description: >-
       This is a suitable alternative for players who prefer a faster GCD without
@@ -75,6 +90,12 @@ bis:
 
 
       Even with the faster GCD, this set's MP should still be perfectly sustainable in a somewhat organized environment where you do not expect to cast multiple raises or do a lot of GCD healing.
+
+
+      Tome:
+
+
+      week 1 gloves > week 2 earring > week 4 head > week 5 pants > week 6 ring
   - type: null
     name: Ultimate/criterion sets below
   - type: genericlink
