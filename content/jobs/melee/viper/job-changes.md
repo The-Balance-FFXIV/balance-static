@@ -28,5 +28,5 @@ changes:
       increased from 280 to 320. This equates to about ~1.15% DPS increase for
       VPR compared to 7.1.
 authors:
-  - Balance-VPR-Staff
+  - balance-vpr-staff
 ---
