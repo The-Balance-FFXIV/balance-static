@@ -17,7 +17,7 @@ changelog:
   - date: 2025-04-08T20:29:54.019Z
     message: updated sets to include tome order
 bis:
-  - type: etro
+  - type: null
     name: You can find full sheet with more sets in the scholar resources on The
       Balance discord
     description: ""
@@ -114,7 +114,7 @@ bis:
   - type: genericiframe
     name: FRU 2.50
     link: https://xivgear.app/?page=embed%7Csl%7C95d87ba8-b251-4257-bc2b-c227abb7d321
-  - type: xivgearset
+  - type: genericiframe
     name: FRU 2.31
     link: https://xivgear.app/?page=embed%7Csl%7Cc36de212-1ede-466f-a0e0-e80d838fbf49
 authors:
