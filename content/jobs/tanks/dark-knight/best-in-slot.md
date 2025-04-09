@@ -38,38 +38,38 @@ changelog:
 bis:
   - type: genericiframe
     name: 7.2 Bis (2.50)
-    link: https://xivgear.app/?page=sl%7C0ab7650e-e569-4d09-8893-e081b2465c42&onlySetIndex=0
+    link: https://xivgear.app/?page=embed%7Csl%7C0ab7650e-e569-4d09-8893-e081b2465c42&onlySetIndex=0
     description: Speed should be chosen according to comfort, but this set is
       generally recommended.
   - type: genericiframe
     name: 7.2 BiS (2.46)
-    link: https://xivgear.app/?page=sl%7C0ab7650e-e569-4d09-8893-e081b2465c42&onlySetIndex=1
+    link: https://xivgear.app/?page=embed%7Csl%7C0ab7650e-e569-4d09-8893-e081b2465c42&onlySetIndex=1
   - type: genericlink
     name: 7.2 BiS Gearsets
     link: https://xivgear.app/?page=sl%7C0ab7650e-e569-4d09-8893-e081b2465c42
   - type: genericiframe
-    link: https://xivgear.app/?page=sl%7Cc39185c8-6896-41db-a352-a504018ee598&onlySetIndex=0
+    link: https://xivgear.app/?page=embed%7Csl%7Cc39185c8-6896-41db-a352-a504018ee598&onlySetIndex=0
     name: 7.2 Prog Gear (2.50, Tome chest)
   - type: genericlink
     name: 7.2 Prog Gearsets
     link: https://xivgear.app/?page=sl%7Cc39185c8-6896-41db-a352-a504018ee598
   - type: genericlink
     name: 7.2 FRU Gearsets
-    link: https://xivgear.app/?page=sl%7C35c65de5-16e5-4837-bd04-55520eb9d33a
+    link: https://xivgear.app/#/bis/drk/ultimate/fru
   - type: genericlink
     name: 7.2 TOP Gearsets
-    link: https://xivgear.app/?page=sl%7C6a297a89-8ba7-4e98-8c0d-05c9b0106c84
+    link: https://xivgear.app/#/bis/drk/ultimate/top
   - type: genericlink
     name: 7.2 DSR Gearsets
-    link: https://xivgear.app/?page=sl%7C17be86e9-0a34-4a36-a108-d3949735908c
+    link: https://xivgear.app/#/bis/drk/ultimate/dsr
   - type: genericlink
     name: 7.2 TEA Gearsets
-    link: https://xivgear.app/?page=sl%7C2ee9bfdc-1062-4dd3-ae12-04730c065569
+    link: https://xivgear.app/#/bis/drk/ultimate/tea
   - type: genericlink
-    link: https://xivgear.app/?page=sl%7Cf66276df-ce6e-4143-b9fa-cd2599647bdf
+    link: https://xivgear.app/#/bis/drk/ultimate/uwu
     name: 7.2 UWU Gearsets
   - type: genericlink
-    link: https://xivgear.app/?page=sl%7Cb52aa990-15c7-47bb-835c-6f5101ff6e18
+    link: https://xivgear.app/#/bis/drk/ultimate/ucob
     name: 7.2 UCoB Gearsets
   - type: genericlink
     name: 7.15 BiS Gearsets
