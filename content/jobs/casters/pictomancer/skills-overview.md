@@ -2,7 +2,7 @@
 title: Pictomancer Skills Overview
 authors:
   - Laille-Ormesaing
-  - Balance-PCT-Staff
+  - balance-pct-staff
 patch: "7.2"
 lastmod: 2025-03-25T02:34:32.272Z
 changelog:
