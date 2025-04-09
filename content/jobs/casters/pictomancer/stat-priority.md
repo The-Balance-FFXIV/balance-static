@@ -7,5 +7,5 @@ changelog:
     message: Added page
 priority: Weapon Damage > Intelligence > Crit > Det ≥ DH > Spell Speed
 authors:
-  - Balance-PCT-Staff
+  - balance-pct-staff
 ---
