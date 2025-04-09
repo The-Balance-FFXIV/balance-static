@@ -2,7 +2,7 @@
 title: Warrior Best in Slot (BiS)
 layout: bis
 patch: "7.2"
-lastmod: 2025-03-30T20:36:04.292Z
+lastmod: 2025-04-09T00:07:38.243Z
 changelog:
   - date: 2025-03-30T20:47:44.879Z
     message: Added 7.2 sets
