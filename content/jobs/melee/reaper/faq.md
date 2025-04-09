@@ -66,8 +66,7 @@ qna:
   - question: Why don't we fit three Communios in potion instead of only two?
     answer: Triple Enshroud windows do exist, but they are non-stndard gameplay, due
       to their inconsistent nature and the fact that they require heavy planning
-      to be performed. You can find a full explanation for Triple Enshrouds and
-      their possible forms in the Advanced Guide.
+      to be performed.
   - question: Does it matter if we start Enshroud with Void Reaping or Cross Reaping?
     answer: No. They don't have positionals and the first hit is always unbuffed by
       Enhanced Void/Cross Reaping, so you are free to use whichever. The
@@ -91,8 +90,7 @@ qna:
     answer: The short answer is that RPR wants a 2.49 GCD speed for standard play.
       It minimizes our drift from Arcane Circle due to alignment while keeping
       Skill Speed investment low. There is a much longer, more in depth answer,
-      but it requires non-standard knowledge from the Advanced Guide. Please see
-      that if you want to know more.
+      but it requires non-standard knowledge.
   - question: What is gauge-negativity and how does it affect us?
     answer: '"Gauge-negativity" refers to the fact that we *usually* have less gauge
       in an even minute burst than the last. Right now, RPR "loses" 20 Soul
@@ -143,8 +141,17 @@ qna:
     answer: The nomenclature system you might be seeing around is called
       "non-standard notation". When out of the standard rotation bubble, RPR has
       an enormous variety of possible bursts and the nomenclature help us to
-      track some characteristics for each window. The classification system can
-      be found in the Advanced Guide.
+      track some characteristics for each window. The classification system will
+      be found in the Advanced Guide when it is finished.
+  - answer: "A full non-standard guide, the Advanced Guide, is currently a work in
+      progress. Writing this guide requires a significant amount of time and the
+      author is very limited in time due to real-life university commitments.
+      Please be patient as the guide is being written. In the interim if you
+      want to know more about non-standard, get in touch with @caron.tt in ⁠the
+      #rpr_questions channel of our [Discord
+      server](https://discord.gg/thebalanceffxiv)﻿."
+    question: Several FAQs mention "non-standard gameplay." Where can I learn more
+      about this?
 authors:
   - ToraelValdis
   - Balance-RPR-Staff
