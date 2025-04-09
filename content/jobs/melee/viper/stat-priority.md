@@ -12,7 +12,7 @@ changelog:
 priority: Highest item level is always most important. Within the same item
   level, prioritize Critical Hit > Determination = Direct Hit > Skill Speed.
 authors:
-  - Balance-VPR-Staff
+  - balance-vpr-staff
 ---
 Viper follows the stat priority of: Critical Hit > Determination = Direct Hit > Skill Speed. However, it is recommended to use the highest item level gear available to you, as it will give you more of your primary stat which will always result in a higher DPS gain than lower item level counterparts.
 
