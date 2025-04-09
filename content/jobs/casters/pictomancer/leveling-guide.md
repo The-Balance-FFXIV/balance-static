@@ -2,7 +2,7 @@
 title: Pictomancer Leveling Guide
 card_header_image: /img/jobs/pct/pictomancer-8.png
 authors:
-  - Balance-PCT-Staff
+  - balance-pct-staff
 patch: "7.1"
 lastmod: 2024-06-27T05:57:14.430Z
 changelog:
