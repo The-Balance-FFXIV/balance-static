@@ -2,7 +2,7 @@
 title: Futures Rewritten (Ultimate) Viper Fight Guide
 card_header_image: /img/fruguide-thumbnail.png
 authors:
-  - Verra
+  - verra
 patch: "7.2"
 lastmod: 2025-03-30T18:47:45.971Z
 changelog:
