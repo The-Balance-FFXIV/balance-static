@@ -48,5 +48,5 @@ qna:
 
       Twinblade combo is broken by any non-twinblade GCD with the exception of Writhing Snap and Uncoiled Fury. This means you cannot Reawaken during twinblade! Twinblade combos are also broken by starting the AoE version while in single target combo, and vice versa.
 authors:
-  - Balance-VPR-Staff
+  - balance-vpr-staff
 ---
