@@ -15,7 +15,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[247 472 496 379 478 36]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[331 478 323 75 6 385]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Split Shot&lt;/td>
@@ -28,7 +28,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[446 382 182 156 419 265]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[281 17 229 342 189 383]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Slug Shot&lt;/td>
@@ -41,7 +41,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[125 387 189 424 71 76]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[126 49 413 421 343 318]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Clean Shot&lt;/td>
@@ -54,7 +54,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[128 388 224 394 437 193]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[495 436 59 58 371 37]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Drill&lt;/td>
@@ -67,7 +67,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[242 13 135 118 373 364]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[70 329 464 473 238 467]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Air Anchor&lt;/td>
@@ -80,7 +80,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[116 121 282 497 75 159]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[194 446 308 349 178 130]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chain Saw&lt;/td>
@@ -93,7 +93,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[6 173 475 296 92 237]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[139 93 290 38 417 5]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reassemble&lt;/td>
@@ -106,7 +106,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[14 366 407 25 215 220]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[295 43 225 402 370 488]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hypercharge&lt;/td>
@@ -119,7 +119,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[89 416 83 252 245 382]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[142 334 257 53 461 207]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Blazing Shot&lt;/td>
@@ -132,7 +132,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[18 62 166 403 91 437]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[200 407 487 188 386 156]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Checkmate&lt;/td>
@@ -145,7 +145,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[69 36 483 134 460 82]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[479 81 209 244 253 354]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Double Check&lt;/td>
@@ -158,7 +158,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[16 108 57 251 362 364]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[328 495 134 64 484 14]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Wildfire&lt;/td>
@@ -171,7 +171,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[400 488 68 7 178 406]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[156 94 482 51 201 236]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Barrel Stabilizer&lt;/td>
@@ -184,7 +184,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[378 446 186 194 272 274]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[481 227 423 15 99 388]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Excavator&lt;/td>
@@ -197,7 +197,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[347 232 339 360 299 33]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[232 457 23 387 140 151]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Full Metal Field&lt;/td>
@@ -226,7 +226,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[163 411 315 450 66 100]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[463 295 471 165 465 173]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bioblaster&lt;/td>
@@ -239,7 +239,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[364 324 345 250 103 492]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[74 346 98 311 54 463]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Scattergun&lt;/td>
@@ -252,7 +252,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[78 422 370 139 18 432]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[472 23 309 280 290 427]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Auto-Crossbow&lt;/td>
@@ -265,7 +265,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[271 217 169 459 247 132]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[89 291 271 118 337 48]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flamethrower&lt;/td>
@@ -294,7 +294,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[98 121 187 489 297 151]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[8 402 95 385 421 237]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Automaton Queen&lt;/td>
@@ -307,7 +307,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[240 186 223 96 422 460]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[323 131 177 236 478 490]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Queen Overdrive&lt;/td>
@@ -320,7 +320,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[168 376 164 358 442 118]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[19 219 62 458 36 111]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm Punch&lt;/td>
@@ -333,7 +333,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[109 46 47 218 270 458]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[255 389 402 254 353 456]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Roller Dash&lt;/td>
@@ -346,7 +346,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[497 228 115 319 359 138]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[323 110 48 403 115 465]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Pile Bunker&lt;/td>
@@ -359,7 +359,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[331 374 438 76 290 491]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[477 39 45 63 230 350]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Crowned Collider&lt;/td>
@@ -388,7 +388,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[479 228 487 363 399 27]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[322 188 484 448 152 124]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tactician&lt;/td>
@@ -401,7 +401,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[82 476 279 104 388 162]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[389 406 347 475 63 154]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dismantle&lt;/td>
@@ -414,7 +414,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[47 296 96 225 392 298]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[44 274 76 410 168 323]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Graze&lt;/td>
@@ -427,7 +427,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[18 271 369 160 317 216]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[192 229 441 147 423 250]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Foot Graze&lt;/td>
@@ -440,7 +440,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[447 279 444 34 253 21]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[300 206 372 394 23 497]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Head Graze&lt;/td>
@@ -453,7 +453,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[170 175 165 449 408 176]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[444 118 483 114 55 382]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -466,7 +466,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[91 42 241 76 47 106]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[447 324 30 302 201 319]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -479,7 +479,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[191 53 352 175 139 186]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[186 482 308 249 310 168]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Peloton&lt;/td>

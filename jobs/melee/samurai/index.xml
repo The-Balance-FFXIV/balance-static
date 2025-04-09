@@ -12,7 +12,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[304 313 308 11 56 338]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003191_hr1.tex?format=png" onclick="openModal(this.id)" alt="Gyofu" />
+ &lt;img id="[427 431 475 146 401 399]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003191_hr1.tex?format=png" onclick="openModal(this.id)" alt="Gyofu" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Gyofu&lt;/td>
@@ -21,7 +21,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[487 306 242 353 251 116]" src="https://xivapi.com/i/003000/003152_hr1.png" onclick="openModal(this.id)" alt="Jinpu" />
+ &lt;img id="[273 223 187 161 272 109]" src="https://xivapi.com/i/003000/003152_hr1.png" onclick="openModal(this.id)" alt="Jinpu" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Jinpu&lt;/td>
@@ -30,7 +30,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[497 300 459 57 153 288]" src="https://xivapi.com/i/003000/003156_hr1.png" onclick="openModal(this.id)" alt="Shifu" />
+ &lt;img id="[495 194 148 299 441 86]" src="https://xivapi.com/i/003000/003156_hr1.png" onclick="openModal(this.id)" alt="Shifu" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shifu&lt;/td>
@@ -39,7 +39,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[131 33 181 137 352 5]" src="https://xivapi.com/i/003000/003158_hr1.png" onclick="openModal(this.id)" alt="Gekko" />
+ &lt;img id="[166 352 483 69 111 231]" src="https://xivapi.com/i/003000/003158_hr1.png" onclick="openModal(this.id)" alt="Gekko" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Gekko&lt;/td>
@@ -48,7 +48,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[174 126 259 279 287 63]" src="https://xivapi.com/i/003000/003164_hr1.png" onclick="openModal(this.id)" alt="Kasha" />
+ &lt;img id="[436 437 341 312 187 182]" src="https://xivapi.com/i/003000/003164_hr1.png" onclick="openModal(this.id)" alt="Kasha" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Kasha&lt;/td>
@@ -57,7 +57,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[175 280 258 261 271 476]" src="https://xivapi.com/i/003000/003166_hr1.png" onclick="openModal(this.id)" alt="Yukikaze" />
+ &lt;img id="[426 211 201 500 261 167]" src="https://xivapi.com/i/003000/003166_hr1.png" onclick="openModal(this.id)" alt="Yukikaze" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Yukikaze&lt;/td>
@@ -66,7 +66,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[292 180 355 210 497 270]" src="https://xivapi.com/i/003000/003155_hr1.png" onclick="openModal(this.id)" alt="Enpi" />
+ &lt;img id="[5 29 338 441 331 311]" src="https://xivapi.com/i/003000/003155_hr1.png" onclick="openModal(this.id)" alt="Enpi" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enpi&lt;/td>
@@ -87,7 +87,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[300 379 454 483 151 267]" src="https://xivapi.com/i/003000/003157_hr1.png" onclick="openModal(this.id)" alt="Fuga" />
+ &lt;img id="[378 20 3 201 127 145]" src="https://xivapi.com/i/003000/003157_hr1.png" onclick="openModal(this.id)" alt="Fuga" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fuga&lt;/td>
@@ -96,7 +96,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[182 349 93 127 91 51]" src="https://xivapi.com/i/003000/003189_hr1.png" onclick="openModal(this.id)" alt="Fuko" />
+ &lt;img id="[318 482 343 329 316 217]" src="https://xivapi.com/i/003000/003189_hr1.png" onclick="openModal(this.id)" alt="Fuko" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fuko&lt;/td>
@@ -105,7 +105,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[56 366 482 96 181 4]" src="https://xivapi.com/i/003000/003163_hr1.png" onclick="openModal(this.id)" alt="Mangetsu" />
+ &lt;img id="[331 320 131 264 499 254]" src="https://xivapi.com/i/003000/003163_hr1.png" onclick="openModal(this.id)" alt="Mangetsu" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Mangetsu&lt;/td>
@@ -114,7 +114,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[141 493 202 475 60 182]" src="https://xivapi.com/i/003000/003165_hr1.png" onclick="openModal(this.id)" alt="Oka" />
+ &lt;img id="[377 81 102 99 274 294]" src="https://xivapi.com/i/003000/003165_hr1.png" onclick="openModal(this.id)" alt="Oka" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Oka&lt;/td>
@@ -135,7 +135,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[319 487 393 414 155 42]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003190_hr1.tex?format=png" onclick="openModal(this.id)" alt="Tengentsu" />
+ &lt;img id="[261 302 99 238 221 484]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003190_hr1.tex?format=png" onclick="openModal(this.id)" alt="Tengentsu" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tengentsu&lt;/td>
@@ -144,7 +144,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[189 488 368 306 317 228]" src="https://xivapi.com/i/003000/003167_hr1.png" onclick="openModal(this.id)" alt="Meikyo Shisui" />
+ &lt;img id="[291 319 383 471 9 412]" src="https://xivapi.com/i/003000/003167_hr1.png" onclick="openModal(this.id)" alt="Meikyo Shisui" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Meikyo Shisui&lt;/td>
@@ -153,7 +153,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[302 352 202 360 139 179]" src="https://xivapi.com/i/003000/003172_hr1.png" onclick="openModal(this.id)" alt="Meditate" />
+ &lt;img id="[109 226 25 389 360 59]" src="https://xivapi.com/i/003000/003172_hr1.png" onclick="openModal(this.id)" alt="Meditate" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Meditate&lt;/td>
@@ -162,7 +162,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[161 132 51 395 376 11]" src="https://xivapi.com/i/003000/003176_hr1.png" onclick="openModal(this.id)" alt="Hagakure" />
+ &lt;img id="[367 475 369 470 5 277]" src="https://xivapi.com/i/003000/003176_hr1.png" onclick="openModal(this.id)" alt="Hagakure" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hagakure&lt;/td>
@@ -171,7 +171,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[350 123 163 442 475 73]" src="https://xivapi.com/i/003000/003179_hr1.png" onclick="openModal(this.id)" alt="Ikishoten" />
+ &lt;img id="[454 499 450 266 363 73]" src="https://xivapi.com/i/003000/003179_hr1.png" onclick="openModal(this.id)" alt="Ikishoten" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Ikishoten&lt;/td>
@@ -180,7 +180,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[326 149 255 89 263 294]" src="https://xivapi.com/i/003000/003169_hr1.png" onclick="openModal(this.id)" alt="Hissatsu: Gyoten" />
+ &lt;img id="[137 444 314 239 306 495]" src="https://xivapi.com/i/003000/003169_hr1.png" onclick="openModal(this.id)" alt="Hissatsu: Gyoten" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hissatsu: Gyoten&lt;/td>
@@ -189,7 +189,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[409 160 46 365 388 267]" src="https://xivapi.com/i/003000/003170_hr1.png" onclick="openModal(this.id)" alt="Hissatsu: Yaten" />
+ &lt;img id="[291 381 483 76 183 84]" src="https://xivapi.com/i/003000/003170_hr1.png" onclick="openModal(this.id)" alt="Hissatsu: Yaten" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hissatsu: Yaten&lt;/td>
@@ -198,7 +198,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[99 476 399 126 147 323]" src="https://xivapi.com/i/003000/003173_hr1.png" onclick="openModal(this.id)" alt="Hissatsu: Shinten" />
+ &lt;img id="[393 269 23 363 463 366]" src="https://xivapi.com/i/003000/003173_hr1.png" onclick="openModal(this.id)" alt="Hissatsu: Shinten" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hissatsu: Shinten&lt;/td>
@@ -207,7 +207,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[46 313 187 457 66 125]" src="https://xivapi.com/i/003000/003174_hr1.png" onclick="openModal(this.id)" alt="Hissatsu: Kyuten" />
+ &lt;img id="[274 295 71 219 162 385]" src="https://xivapi.com/i/003000/003174_hr1.png" onclick="openModal(this.id)" alt="Hissatsu: Kyuten" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hissatsu: Kyuten&lt;/td>
@@ -216,7 +216,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[8 196 482 46 412 153]" src="https://xivapi.com/i/003000/003177_hr1.png" onclick="openModal(this.id)" alt="Hissatsu: Guren" />
+ &lt;img id="[45 30 95 380 234 493]" src="https://xivapi.com/i/003000/003177_hr1.png" onclick="openModal(this.id)" alt="Hissatsu: Guren" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hissatsu: Guren&lt;/td>
@@ -225,7 +225,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[264 319 370 429 109 90]" src="https://xivapi.com/i/003000/003178_hr1.png" onclick="openModal(this.id)" alt="Hissatsu: Senei" />
+ &lt;img id="[348 328 18 131 54 496]" src="https://xivapi.com/i/003000/003178_hr1.png" onclick="openModal(this.id)" alt="Hissatsu: Senei" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hissatsu: Senei&lt;/td>
@@ -234,7 +234,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[48 7 237 463 87 426]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003184_hr1.tex?format=png" onclick="openModal(this.id)" alt="Shoha" />
+ &lt;img id="[282 20 180 221 323 437]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003184_hr1.tex?format=png" onclick="openModal(this.id)" alt="Shoha" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shoha&lt;/td>
@@ -243,7 +243,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[17 454 419 62 189 192]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003192_hr1.tex?format=png" onclick="openModal(this.id)" alt="Zanshin" />
+ &lt;img id="[441 450 110 84 314 424]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003192_hr1.tex?format=png" onclick="openModal(this.id)" alt="Zanshin" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Zanshin&lt;/td>
@@ -265,7 +265,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[486 462 148 454 413 331]" src="https://xivapi.com/i/003000/003159_hr1.png" onclick="openModal(this.id)" alt="Iaijutsu" />
+ &lt;img id="[221 392 145 159 317 282]" src="https://xivapi.com/i/003000/003159_hr1.png" onclick="openModal(this.id)" alt="Iaijutsu" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Iaijutsu&lt;/td>
@@ -275,7 +275,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[328 261 140 138 468 430]" src="https://xivapi.com/i/003000/003160_hr1.png" onclick="openModal(this.id)" alt="Higanbana" />
+ &lt;img id="[382 1 384 346 272 48]" src="https://xivapi.com/i/003000/003160_hr1.png" onclick="openModal(this.id)" alt="Higanbana" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Higanbana&lt;/td>
@@ -285,7 +285,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[51 487 165 340 158 381]" src="https://xivapi.com/i/003000/003161_hr1.png" onclick="openModal(this.id)" alt="Tenka Goken" />
+ &lt;img id="[336 495 40 111 31 236]" src="https://xivapi.com/i/003000/003161_hr1.png" onclick="openModal(this.id)" alt="Tenka Goken" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tenka Goken&lt;/td>
@@ -295,7 +295,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[124 478 7 415 121 424]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003193_hr1.tex?format=png" onclick="openModal(this.id)" alt="Tendo Goken" />
+ &lt;img id="[435 359 53 496 157 274]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003193_hr1.tex?format=png" onclick="openModal(this.id)" alt="Tendo Goken" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tendo Goken&lt;/td>
@@ -305,7 +305,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[347 337 367 249 264 40]" src="https://xivapi.com/i/003000/003162_hr1.png" onclick="openModal(this.id)" alt="Midare Setsugekka" />
+ &lt;img id="[399 313 221 472 91 277]" src="https://xivapi.com/i/003000/003162_hr1.png" onclick="openModal(this.id)" alt="Midare Setsugekka" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Midare Setsugekka&lt;/td>
@@ -315,7 +315,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[136 235 298 66 406 250]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003194_hr1.tex?format=png" onclick="openModal(this.id)" alt="Tendo Setsugekka" />
+ &lt;img id="[450 2 58 253 141 226]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003194_hr1.tex?format=png" onclick="openModal(this.id)" alt="Tendo Setsugekka" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tendo Setsugekka&lt;/td>
@@ -325,7 +325,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[276 292 500 177 19 383]" src="https://xivapi.com/i/003000/003180_hr1.png" onclick="openModal(this.id)" alt="Tsubame-gaeshi" />
+ &lt;img id="[406 250 281 333 463 214]" src="https://xivapi.com/i/003000/003180_hr1.png" onclick="openModal(this.id)" alt="Tsubame-gaeshi" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tsubame-gaeshi&lt;/td>
@@ -335,7 +335,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[25 306 409 103 20 339]" src="https://xivapi.com/i/003000/003182_hr1.png" onclick="openModal(this.id)" alt="Kaeshi: Goken" />
+ &lt;img id="[212 323 61 496 377 190]" src="https://xivapi.com/i/003000/003182_hr1.png" onclick="openModal(this.id)" alt="Kaeshi: Goken" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Kaeshi: Goken&lt;/td>
@@ -345,7 +345,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[229 452 392 23 492 450]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003195_hr1.tex?format=png" onclick="openModal(this.id)" alt="Tendo Kaeshi Goken" />
+ &lt;img id="[313 362 181 418 73 340]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003195_hr1.tex?format=png" onclick="openModal(this.id)" alt="Tendo Kaeshi Goken" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tendo Kaeshi Goken&lt;/td>
@@ -355,7 +355,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[158 455 85 138 328 206]" src="https://xivapi.com/i/003000/003183_hr1.png" onclick="openModal(this.id)" alt="Kaeshi: Setsugekka" />
+ &lt;img id="[190 193 365 256 319 71]" src="https://xivapi.com/i/003000/003183_hr1.png" onclick="openModal(this.id)" alt="Kaeshi: Setsugekka" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Kaeshi: Setsugekka&lt;/td>
@@ -365,7 +365,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[259 327 348 148 323 419]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003196_hr1.tex?format=png" onclick="openModal(this.id)" alt="Tendo Kaeshi Setsugekka" />
+ &lt;img id="[442 484 299 435 489 34]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003196_hr1.tex?format=png" onclick="openModal(this.id)" alt="Tendo Kaeshi Setsugekka" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tendo Kaeshi Setsugekka&lt;/td>
@@ -375,7 +375,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[88 305 262 97 128 409]" src="https://xivapi.com/i/003000/003187_hr1.png" onclick="openModal(this.id)" alt="Ogi Namikiri" />
+ &lt;img id="[398 106 234 418 195 61]" src="https://xivapi.com/i/003000/003187_hr1.png" onclick="openModal(this.id)" alt="Ogi Namikiri" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Ogi Namikiri&lt;/td>
@@ -385,7 +385,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[291 162 215 320 302 22]" src="https://xivapi.com/i/003000/003188_hr1.png" onclick="openModal(this.id)" alt="Kaeshi: Namikiri" />
+ &lt;img id="[47 187 256 38 448 102]" src="https://xivapi.com/i/003000/003188_hr1.png" onclick="openModal(this.id)" alt="Kaeshi: Namikiri" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Kaeshi: Namikiri&lt;/td>
@@ -407,7 +407,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[462 276 408 3 12 109]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" />
+ &lt;img id="[490 229 122 6 13 354]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -416,7 +416,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[213 177 239 318 7 322]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="Leg Sweep" />
+ &lt;img id="[281 449 412 99 155 426]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="Leg Sweep" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Sweep&lt;/td>
@@ -425,7 +425,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[357 442 482 471 110 157]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="Bloodbath" />
+ &lt;img id="[303 203 58 470 431 430]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="Bloodbath" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodbath&lt;/td>
@@ -434,7 +434,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[288 181 170 159 268 303]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="Feint" />
+ &lt;img id="[149 295 474 297 81 116]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="Feint" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Feint&lt;/td>
@@ -443,7 +443,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[87 202 378 408 317 22]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" />
+ &lt;img id="[119 205 289 487 218 388]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -452,7 +452,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[422 19 131 370 55 225]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="True North" />
+ &lt;img id="[247 478 338 369 59 318]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="True North" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">True North&lt;/td>
@@ -474,7 +474,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[116 92 8 467 376 271]" src="https://xivapi.com/i/006000/006152_hr1.png" onclick="openModal(this.id)" alt="Kenki Mastery" />
+ &lt;img id="[331 278 279 354 7 133]" src="https://xivapi.com/i/006000/006152_hr1.png" onclick="openModal(this.id)" alt="Kenki Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Kenki Mastery&lt;/td>
@@ -484,7 +484,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[432 124 271 424 387 490]" src="https://xivapi.com/i/006000/006151_hr1.png" onclick="openModal(this.id)" alt="Kenki Mastery II" />
+ &lt;img id="[427 190 500 269 250 15]" src="https://xivapi.com/i/006000/006151_hr1.png" onclick="openModal(this.id)" alt="Kenki Mastery II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Kenki Mastery II&lt;/td>
@@ -494,7 +494,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[385 417 353 284 44 205]" src="https://xivapi.com/i/006000/006153_hr1.png" onclick="openModal(this.id)" alt="Enhanced Iaijutsu" />
+ &lt;img id="[6 320 54 62 89 92]" src="https://xivapi.com/i/006000/006153_hr1.png" onclick="openModal(this.id)" alt="Enhanced Iaijutsu" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Iaijutsu&lt;/td>
@@ -504,7 +504,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[117 257 322 57 78 160]" src="https://xivapi.com/i/006000/006154_hr1.png" onclick="openModal(this.id)" alt="Enhanced Fugetsu and Fuka" />
+ &lt;img id="[128 347 133 353 361 32]" src="https://xivapi.com/i/006000/006154_hr1.png" onclick="openModal(this.id)" alt="Enhanced Fugetsu and Fuka" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Fugetsu and Fuka&lt;/td>
@@ -514,7 +514,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[480 351 208 332 438 409]" src="https://xivapi.com/i/006000/006158_hr1.png" onclick="openModal(this.id)" alt="Fuga Mastery" />
+ &lt;img id="[314 110 488 98 13 283]" src="https://xivapi.com/i/006000/006158_hr1.png" onclick="openModal(this.id)" alt="Fuga Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fuga Mastery&lt;/td>
@@ -524,7 +524,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[122 180 110 462 486 8]" src="https://xivapi.com/i/006000/006156_hr1.png" onclick="openModal(this.id)" alt="Enhanced Meikyo Shisui" />
+ &lt;img id="[118 94 9 264 89 252]" src="https://xivapi.com/i/006000/006156_hr1.png" onclick="openModal(this.id)" alt="Enhanced Meikyo Shisui" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Meikyo Shisui&lt;/td>
@@ -534,7 +534,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[97 11 148 199 280 76]" src="https://xivapi.com/i/006000/006157_hr1.png" onclick="openModal(this.id)" alt="Enhanced Ikishoten" />
+ &lt;img id="[438 94 163 136 119 145]" src="https://xivapi.com/i/006000/006157_hr1.png" onclick="openModal(this.id)" alt="Enhanced Ikishoten" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Ikishoten&lt;/td>
@@ -544,7 +544,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[135 368 452 29 67 449]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006159_hr1.tex?format=png" onclick="openModal(this.id)" alt="Third Eye Mastery" />
+ &lt;img id="[322 41 304 134 472 188]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006159_hr1.tex?format=png" onclick="openModal(this.id)" alt="Third Eye Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Third Eye Mastery&lt;/td>
@@ -554,7 +554,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[182 331 474 71 234 175]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006160_hr1.tex?format=png" onclick="openModal(this.id)" alt="Hakaze Mastery" />
+ &lt;img id="[180 342 255 373 202 87]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006160_hr1.tex?format=png" onclick="openModal(this.id)" alt="Hakaze Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hakaze Mastery&lt;/td>
@@ -564,7 +564,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[29 215 224 11 269 58]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006161_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Hissatsu" />
+ &lt;img id="[21 108 405 423 463 13]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006161_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Hissatsu" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Hissatsu&lt;/td>
@@ -574,7 +574,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[106 169 193 324 407 109]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006162_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Ikishoten II" />
+ &lt;img id="[498 71 459 305 34 335]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006162_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Ikishoten II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Ikishoten II&lt;/td>
@@ -584,7 +584,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[383 445 427 94 68 356]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006163_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Meikyo Shisui II" />
+ &lt;img id="[380 250 86 339 33 161]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006163_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Meikyo Shisui II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Meikyo Shisui II&lt;/td>
@@ -601,7 +601,7 @@
 &lt;p>If Iai weaves are easier than double weaves for you, feel free to move Senei forward before Kaeshi: Setsugekka.&lt;/p>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[108 269 64 82 175 407]" src="https://www.thebalanceffxiv.com/img/jobs/sam/sam_dt_opener.png" onclick="openModal(this.id)" alt="" title="Samurai Standard Opener" />
+ &lt;img id="[191 443 413 242 220 103]" src="https://www.thebalanceffxiv.com/img/jobs/sam/sam_dt_opener.png" onclick="openModal(this.id)" alt="" title="Samurai Standard Opener" />
 &lt;/div>
 &lt;/p>
 &lt;h1 id="rotation">Rotation&lt;/h1>
