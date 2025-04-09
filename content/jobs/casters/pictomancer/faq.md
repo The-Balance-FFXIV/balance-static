@@ -49,5 +49,5 @@ qna:
       all in the buff window.
 authors:
   - Laille-Ormesaing
-  - Balance-PCT-Staff
+  - balance-pct-staff
 ---
