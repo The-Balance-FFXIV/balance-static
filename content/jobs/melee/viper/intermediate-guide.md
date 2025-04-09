@@ -3,7 +3,6 @@ title: Viper Intermediate Guide
 card_header_image: /img/jobs/vpr/large-file-viper-1.png
 authors:
   - ToraelValdis
-  - Balance-VPR-Staff
 patch: "7.2"
 lastmod: 2025-03-24T21:28:43.104Z
 changelog:
