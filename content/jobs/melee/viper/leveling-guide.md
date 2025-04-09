@@ -3,7 +3,7 @@ title: Viper Leveling Guide
 card_header_image: /img/jobs/vpr/image_2024-11-10_193647496.png
 authors:
   - akashi
-  - Balance-VPR-Staff
+  - balance-vpr-staff
 patch: "7.2"
 lastmod: 2025-03-24T21:25:57.028Z
 changelog:
