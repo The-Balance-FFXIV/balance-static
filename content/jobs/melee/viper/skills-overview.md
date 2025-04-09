@@ -2,7 +2,7 @@
 title: Viper Skills Overview
 authors:
   - ToraelValdis
-  - Balance-VPR-Staff
+  - balance-vpr-staff
 patch: "7.2"
 lastmod: 2025-03-25T01:01:55.018Z
 changelog:
