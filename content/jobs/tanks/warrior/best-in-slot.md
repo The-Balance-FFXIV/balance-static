@@ -2,7 +2,7 @@
 title: Warrior Best in Slot (BiS)
 layout: bis
 patch: "7.2"
-lastmod: 2025-03-30T20:36:04.292Z
+lastmod: 2025-04-09T00:07:38.243Z
 changelog:
   - date: 2025-03-30T20:47:44.879Z
     message: Added 7.2 sets
@@ -25,10 +25,8 @@ bis:
       A list of all Savage Progression and BIS sets
 
       Link: https://xivgear.app/?page=sl%7C4cdd4b0d-0b1b-4c7c-a5bc-2957bb83618b&
-  - type: sleepyshiba
-    description: |-
-      Archive of old BIS sets.
-      https://pastebin.com/EJbcGFXq
+  - type: genericlink
+    description: Archive of old BIS sets.
     name: Archive of Old BIS
     link: https://pastebin.com/ibK79n1M
   - type: gsheets
