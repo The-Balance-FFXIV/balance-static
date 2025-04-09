@@ -2,7 +2,7 @@
 title: Reaper FAQ
 layout: qna
 patch: "7.2"
-lastmod: 2025-03-24T21:32:29.778Z
+lastmod: 2025-04-09T00:05:48.974Z
 changelog:
   - date: 2021-12-04T04:55:35.452Z
     message: Page created
