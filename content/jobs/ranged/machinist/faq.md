@@ -19,7 +19,7 @@ qna:
 
       1. Drill, Air Anchor and Chainsaw have more than eight to ten seconds left on cooldown.
 
-      2. You have 0-1 Gauss Round and Ricochet charges stored.
+      2. You have 0-1 Double Check and Checkmate charges stored.
 
       3. You are using Wildfire or will have enough heat for it later when you need it.
   - question: Do I use Blazing Shot during Hypercharge? How many should it fit?
