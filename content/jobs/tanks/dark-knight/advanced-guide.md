@@ -67,7 +67,13 @@ Another ability where the application delay is worth knowing is Carve and Spit, 
 
 This can come up in practical situations if you are about to enter burst window with an especially high amount of MP. In these situations, you want to save Disesteem for the GCD where you would normally overcap. If you have, for example, 9000 MP and a Dark Arts proc, then with Blood Weapon and Delirium up, using Disesteem -> Edge of Shadow -> Scarlet Delirium -> Edge of Shadow would overcap MP, whereas Scarlet Delirium -> Edge of Shadow -> Disesteem -> Edge of Shadow would not.
 
-While the most salient application delays are highlighted in this section, if you're curious about the application delay of every Dark Knight ability, refer to [this spreadsheet](https://docs.google.com/spreadsheets/d/1Emevsz5_oJdmkXy23hZQUXimirZQaoo5BejSzL3hZ9I/edit?gid=0#gid=0). 
+While the most salient application delays are highlighted in this section, if you're curious about the application delay of every Dark Knight ability, refer to [this spreadsheet](https://docs.google.com/spreadsheets/d/1Emevsz5_oJdmkXy23hZQUXimirZQaoo5BejSzL3hZ9I/edit?gid=0#gid=0).
+
+## Downtime and Application Delay
+
+One other notable situation where application delay is relevant is during periods of downtime when a boss phases out, to potentially reappear later. For example, if you use a Bloodspiller (application delay of 0.8s) 0.7s before a boss disappears, then you will have essentially wasted your GCD and 50 Blood, whereas if you were to have used Hard Slash (application delay of 0.58s) it would have applied properly, and the GCD would not have been 'wasted'.
+
+Some players refer to using an ability and not having it applied to the boss due to the boss disappearing as having that ability be 'ghosted'. To prevent this 'ghosting', you should be conscious about how you plan a rotation for fights with this kind of downtime, and especially wary not to use high application delay abilities (most notably Bloodspiller, Carve and Spit, and Disesteem) before bosses disappearing.
 
 # Salted Earth and Buff Windows
 
@@ -92,7 +98,35 @@ Because it is a ground effect ability, Salted Earth also gains a free tick on al
 
 Salt and Darkness, Salted Earth's follow-up ability, snapshots buffs independently of Salted Earth, and snapshots both buffs on the player and damage modifying debuffs when it is used, separately from Salted Earth.
 
-# Breaking TBN Pre-pull If Possible
+# Opener Variations
+
+While the standard opener is discussed in the [openers guide](/jobs/tanks/dark-knight/openers), there are a lot of variations that are possible and beneficial in some situations and fights with known timelines. While we would recommend the standard opener for an unknown fight, and while it will be more than functional for almost every encounter, this section aims to give you the tools to understand when and how to vary your opener.
+
+## Why is the Opener The Way That It Is?
+
+Before thinking about changing the opener for a specific fight, it is beneficial to consider why the opener is the way that it is to begin with.
+
+Ultimately, the opener has four main goals, that are also discussed in the [opener guide](/jobs/tanks/dark-knight/openers#opener-design-goals):
+- Uncap MP and apply Darkside as soon as possible
+- Make sure we get as much damage as we can in buffs
+- Put the highest potency oGCDs on cooldown as soon as possible
+- Making it possible to use your cooldowns as soon as they are off-cooldown and for them to automatically align with future buffs
+
+It's for this reason why, for example, Salted Earth (total potency 800, 500 from Salt and Darkness) is ahead of the first charge of Shadowbringer (600 potency). 
+
+Carve and Spit is kind of an exception, as, while it deals 540 potency itself, it also kind of counts for 1/5th of an Edge of Shadow (92 potency) — however, it's still behind Shadowbringer in the opener. The reason for this is because the 5th Edge of the opener is always going to be after Carve and Spit applies, so the Edge of Shadow you may potentially gain will always be after this point in the opener irrespective of where you put Carve and Spit, which is why the 92 potency of 1/5th of an Edge doesn't 'count' in this analysis. Lastly, putting Carve and Spit here makes it easier to press Carve and Spit off cooldown at any GCD speed without worrying about MP overcap. Moving it earlier might not cause you to overcap on MP during the opener, but could if pressed off cooldown during a future burst.
+
+It may seem strange that the opener uses Unmend, given that, [in a previous section](/jobs/tanks/dark-knight/advanced-guide#unmend-and-gcd-downtime), we discussed how much Unmend is not a great ability to press if we can avoid it. However, much like how in that section we discussed how Unmend is worth just over a basic combo GCD, that same logic applies here, too. Since this standard opener is inherently designed for fights with unknown timelines, you may 'gain' or 'lose' a GCD based on where the boss dies or phases using Unmend versus opening with other abilities, since, due to the long application delay of about one second, you can start your GCD one second before the start of the fight, which is why it is worth it. Unmend has a nice added bonus of giving us a huge buffer of enmity at the start. 
+
+Unmend also has the important property of making our MP align much better during later bursts. Without it, the 6m burst can come extremely close to overcapping on MP without extreme care taken. It does this while also making sure our our big cooldowns align perfectly with when buffs come up from other jobs. If you're changing your opener to something that doesn't start with Unmend, and especially at faster speeds, you need to be a lot more wary about overcapping MP in future bursts.
+
+## Shadowstride
+
+Starting your opener with Shadowstride is one option. Shadowstride's application delay of the enmity it grants is 0.22s, so you need to press it roughly between 0.2 and 0.3 seconds prepull to not pull early. As a result, this shifts your GCD 'ahead' of the Unmend opener. Due to the 0.6s animation lock, this would result in your GCD starting ~1.4s ahead of the Unmend opener (~0.4s after pull). This can be beneficial in situations where phasing or forced downtime means that you would otherwise clip your GCD or lose a GCD with the Unmend opener. In other words, this delay could be beneficial to make your GCD better align with a fight's mechanics.
+
+Another thing this opener changes is the points available to weave oGCDs. If you're opening with Shadowstride, you should delay Living Shadow until after Syphon Strike to make sure its first attack is still in any buffs, and it also means that your ideal oGCDs after Hard Slash are a potion followed by Edge of Shadow. You can use Delirium after Souleater and then proceed with the rest of the opener as normal. An astute reader may notice that this will, on average, push these abilities slightly ahead of where they normally would be, accounting for the shift in GCD start time.
+
+## Breaking TBN Pre-pull If Possible
 
 There are some encounters, such as Dawntrail's second Extreme, M3N, and P10S, where it's possible to use environmental hazards to safely break TBN pre-pull and grant a Dark Arts stack before the fight begins. This is very beneficial to do where possible as it regularly results in an extra Edge you wouldn't have otherwise gotten.
 
