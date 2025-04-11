@@ -19,15 +19,15 @@ changelog:
   - date: 2023-10-04T10:36:00.506Z
     message: top bis updated for 6.5
 bis:
-  - type: xivgearset
+  - type: etro
     name: 7.2 Best-in-Slot 2.5 GCD
-    link: https://xivgear.app/?page=sl%7C2db494ce-6804-4b11-81c4-5945b3bdb305
-  - type: xivgearset
+    link: https://etro.gg/gearset/77e7913d-3fab-47af-b1ad-e148ca4da205
+  - type: etro
     name: "7.2 (Week 1: 900 Tomes) 2.5 GCD"
-    link: https://xivgear.app/?page=sl%7Cc612c6d5-3ea3-48d7-8026-adba7b2a4c22
-  - type: xivgearset
+    link: https://etro.gg/gearset/857a4c20-1d70-4420-b182-2de512214dd9
+  - type: etro
     name: 7.2 (Week 1) 2.5 GCD
-    link: https://xivgear.app/?page=sl%7Cc0ba8709-ad23-4fd6-ac94-5374ee103e9a
+    link: https://etro.gg/gearset/7b6376a5-5383-4260-96d5-6a0359837891
   - type: etro
     name: Chaotic + Ultimate Weapon Best-in-Slot 2.5 GCD
     link: https://etro.gg/gearset/821040d4-fea5-46ef-8aa9-2a9de0ac2eeb
