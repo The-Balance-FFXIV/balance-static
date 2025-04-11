@@ -104,7 +104,7 @@ While the standard opener is discussed in the [openers guide](/jobs/tanks/dark-k
 
 ## Why is the Opener The Way That It Is?
 
-Before thinking about changing the opener for a specific fight, it is beneficial to consider why the opener is the way that it is to begin with.
+Before thinking about changing the opener for a specific fight, it is important to understand why the opener is the way that it is to begin with.
 
 Ultimately, the opener has four main goals, that are also discussed in the [opener guide](/jobs/tanks/dark-knight/openers#opener-design-goals):
 - Uncap MP and apply Darkside as soon as possible
