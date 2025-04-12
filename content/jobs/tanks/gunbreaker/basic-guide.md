@@ -4,7 +4,7 @@ card_header_image: /img/jobs/gnb/basic.png
 authors:
   - Balance-GNB-Staff
 patch: "7.2"
-lastmod: 2025-03-24T21:59:23.112Z
+lastmod: 2025-04-12T21:06:47.412Z
 changelog:
   - date: 2022-04-05T18:01:38.826Z
     message: Updated for Endwalker
@@ -166,8 +166,12 @@ GCD cooldowns within **No Mercy** should be used in the following priority:
 **Sonic Break** should be used in the following priority:
 
 * Use **Sonic Break** anywhere necessary to allow better cooldown usage.
-* Use **Sonic Break** as the 9th GCD on 2.4X GCDs to stop **Hypervelocity** from falling out of **No Mercy**.
+* Use **Sonic Break** as the 9th GCD on 2.4X GCDs to stop **Hypervelocity** from falling out of **No Mercy**.*
 * Use **Sonic Break** earlier if any DOT uptime is lost from downtime or fight killtime.
+
+\* Note that the usage of **Sonic Break** as the 9th GCD is purely due to the fact that it has no cooldown and is the lowest potency option to place at the 9th GCD in order to keep **Hypervelocity** within **No Mercy** without inducing loss, however you **may not need to do this at all, depending on your GCD and FPS/ping**.
+* From 2.40 - 2.42, you can use **Burst Strike** last and still use **Hypervelocity** before **No Mercy** ends (with very proper timing of **No Mercy**).
+* **Lionheart** can also take the place of the 9th GCD instead of **Sonic Break**, but it is a higher potency GCD and therefore the chance of it falling out of **No Mercy** makes it a slightly riskier option.
 
 OGCD cooldowns within **No Mercy** should be used in the following priority:
 
@@ -180,11 +184,13 @@ OGCD cooldowns within **No Mercy** should be used in the following priority:
 
 - - -
 
-#### Forced 1-Cartridge No Mercy
+#### Forced 1-Cartridge No Mercy (2.50 Only)
 
-A situation can occur where a **Solid Barrel** would be next action before **No Mercy when Bloodfest is also coming off cooldown, pushing you to 3 cartridges.** Since we'd prefer not to drift **Bloodfest**, what do we do?\
+A situation can occur where a **Solid Barrel** would be next action before **No Mercy when Bloodfest is also coming off cooldown, pushing you to 3 cartridges.** Since we'd prefer not to drift **Bloodfest** or enter **No Mercy** with 3 cartridges, what do we do?\
 \
-\*\*This graphic is being updated, but the solution is to cast a **Burst Strike** in place of that **Solid Barrel**. This will drive you down to 1 cartridge, where then you can cast **Sonic Break** earlier in your burst window to fill the gap that forms at the first GCD of **No Mercy**. **Gnashing Fang** or **Double Down** (or both) will drift by 1 GCD in the process, but Bloodfest will not.\*\*
+This graphic is being updated, but the solution is to cast a **Burst Strike** in place of that **Solid Barrel**. This will drive you down to 1 cartridge, where then you can cast **Sonic Break** earlier in your burst window to fill the gap that forms at the first GCD of **No Mercy**. **Gnashing Fang** or **Double Down** (or both) will drift by 1 GCD in the process, but Bloodfest will not.
+
+This will be your new burst window until you are forced into two-carting again, and when that happens, you will delay **Bloodfest** by one GCD.
 
 - - -
 
@@ -258,13 +264,19 @@ Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.4
 
 - - -
 
-#### LEVEL 100
+### Level 100
+- Use the **Demon Slaughter** combo on 3 targets or more.
+- Use **Fated Circle** on 2 targets or more.
+- Use **Double Down** on any number of targets, preferably positioning yourself to strike as many targets as possible.
+- Use **Reign of Beasts**' combo on any number of targets, but always try to target the enemy that is closest to as many other enemies as possible, as the damage effect is centered on your current target.
+- Use **Gnashing Fang** on up to 2-3* targets.
+  - **Gnashing Fang** is technically a gain on up to 2 targets when running an AOE-only rotation to a purely infinite duration, but there are a high number of dynamic AOE scenarios that can exist (uneven add health reducing target count on death, thrown off cooldown alignment by moving this action around resulting in future loss, etc.) that would show this action being a gain when used off cooldown on up to 3 targets, so this is what we feel should be the *average* recommendation for most short encounters around 30 seconds in length or anytime one of the 3 targets is nearly dead. 
+  - A good time to consider using **Fated Circle(s)** in place of **Gnashing Fang** at 3 targets is whenever the 3-target AOE encounter will last for more than 30 seconds, or at minimum, whenever skipping or holding a usage would not negatively impact **Gnashing Fang's** alignment throughout the rest of the fight and cause lost usages (or some form of loss within **No Mercy**).
+- Use﻿ **Sonic Break** on up to 4 targets.
+  - At 4 targets, do not use **Sonic Break** if you suspect that it will not use it's **entire** damage-over-time duration.
+  - At 3 targets, do not use **Sonic Break** if you suspect that it will not use at least **half** of it's damage-over-time duration.
+  - At 3+ targets, it is a gain to hold **Sonic Break** out of **No Mercy** if it will let you use another **Fated Circle** in it's place.
 
-Use the Demon Slaughter combo at 3 or more targets.
-
-Use Fated Circle over Burst Strike at 2 or more targets.
-
-Use Gnashing Fang at up to 3 targets.
 
 - - -
 
