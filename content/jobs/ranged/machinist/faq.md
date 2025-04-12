@@ -1,8 +1,8 @@
 ---
 title: Machinist FAQ
 layout: qna
-patch: "6.3"
-lastmod: 2023-01-10T20:33:15.016Z
+patch: "7.2"
+lastmod: 2025-04-11T06:31:28.013Z
 changelog:
   - date: 2021-10-25T22:06:08.013Z
     message: Created page
@@ -19,7 +19,7 @@ qna:
 
       1. Drill, Air Anchor and Chainsaw have more than eight to ten seconds left on cooldown.
 
-      2. You have 0-1 Gauss Round and Ricochet charges stored.
+      2. You have 0-1 Double Check and Checkmate charges stored.
 
       3. You are using Wildfire or will have enough heat for it later when you need it.
   - question: Do I use Blazing Shot during Hypercharge? How many should it fit?
