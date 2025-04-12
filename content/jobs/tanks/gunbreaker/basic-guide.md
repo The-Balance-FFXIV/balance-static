@@ -171,7 +171,7 @@ GCD cooldowns within **No Mercy** should be used in the following priority:
 
 \* Note that the usage of **Sonic Break** as the 9th GCD is purely due to the fact that it has no cooldown and is the lowest potency option to place at the 9th GCD in order to keep **Hypervelocity** within **No Mercy** without inducing loss, however you **may not need to do this at all, depending on your GCD and FPS/ping**.
 * From 2.40 - 2.42, you can use **Burst Strike** last and still use **Hypervelocity** before **No Mercy** ends (with very proper timing of **No Mercy**).
-* **Lionheart** can also take the place of the 9th GCD instead of **Sonic Break**, but it is a higher potency GCD so it falling out of **No Mercy** is a slightly riskier option.
+* **Lionheart** can also take the place of the 9th GCD instead of **Sonic Break**, but it is a higher potency GCD and therefore the chance of it falling out of **No Mercy** makes it a slightly riskier option.
 
 OGCD cooldowns within **No Mercy** should be used in the following priority:
 
