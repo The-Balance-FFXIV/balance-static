@@ -3,8 +3,8 @@ title: Machinist Basic Guide
 card_header_image: /img/jobs/mch/basic.png
 authors:
   - Balance-MCH-Staff
-patch: "7.1"
-lastmod: 2024-07-02T21:52:02.178Z
+patch: "7.2"
+lastmod: 2025-04-12T05:49:30.242Z
 changelog:
   - date: 2021-10-25T21:57:19.219Z
     message: Created page
@@ -227,13 +227,13 @@ The basic AoE priority is as follows:
 ### Filler GCD
 
 * **Heated Combo GCD** on 1-2
-* **Scattergun** on 3+
+* **Scattergun** on 4+
+* Note that **Scattergun** is a gain on 3+ if you won't be using/needing the battery generated from **Heated Combo GCDs**.
 
 ### Hypercharge GCD
 
 * **Blazing Shot** on 1-3
-* **Auto Crossbow** on 5+
-* Note that **Blazing Shot** and **Auto Crossbow** are potency neutral on 4 targets if all targets are tightly stacked for the oGCDs from **Blazing Shot** to cleave.
+* **Auto Crossbow** on 4+
 
 ### Flamethrower
 
