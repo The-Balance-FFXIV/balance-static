@@ -77,7 +77,7 @@ For clarity purposes:
 
 ## Levels 83 - 90
 
-* Level 84 we get a second charge of Reassemble, one should almost always be used prepull, to keep it rolling on cooldown. Level 86, we get our final Automaton Queen finisher, Crowned Collider, which will always follow Pile Bunker and be used automatically. Level 88 our Tactician is lower from a 120 second cooldown to a 90 second cooldown. Finally, for level 90, we get access to an additional tool, Chainsaw, which is same potency as the rest but with the added benefit of 20 battery gauge.
+* Level 84 we get a second charge of Reassemble, one should almost always be used prepull, to keep it rolling on cooldown. Level 86, we get our final Automaton Queen finisher, Crowned Collider, which will always follow Pile Bunker and be used automatically. Level 88 our Tactician cooldown is lowered from 120 seconds cooldown to a 90 seconds cooldown. Finally, for level 90, we get access to an additional tool, Chainsaw, which is same potency as Drill/Air Anchor and also with the added benefit of granting 20 battery gauge.
 
 ## Levels 90 - 94
 
@@ -85,8 +85,7 @@ For clarity purposes:
 
 ## Levels 94 - 100
 
-* Level 96 we obtain Excavator, which is a follow up to Chainsaw, sharing the exact same potency and battery generated. The only difference is when attempting to hit multiple targets, Chainsaw is a line aoe while Excavator is a circle. Level 98 our Tactican is enhanced to reduce damage by 15% instead of 10. Finally, level 100 we get access to Full Metal Field, a Barrel Stabilizer follow up and an auto crit/direct hit GCD, which is NOT affected by Reassemble. 
-
+* Level 96 we obtain Excavator, which is a follow up to Chainsaw, sharing the exact same potency and battery generated. The only difference is when attempting to hit multiple targets, Chainsaw is a line AoE while Excavator is a circle. At level 98, our Tactican is enhanced to reduce damage by 15% instead of 10%. Finally, at level 100 we get access to Full Metal Field, a Barrel Stabilizer follow up and an auto crit/direct hit GCD, which is NOT affected by Reassemble. 
 
 ![](/img/jobs/mch/2022-01-03_15-49-14-995_okamiprism.png)
 
@@ -128,13 +127,17 @@ Below is the standard opener you’ll want to use at level 80.
 
 # Level 90 Rotation Differences
 
-This section will mostly be used if you’re attempting Dragonsongs Reprise / The Omega Protocol or synced Pandemonium Savage fights. The differences between Dawntrail (Level 100) and Endwalker are not too complex, the general idea is that we have less buttons so more filler (Heated Combo GCD) is needed but this also means we have less battery generated.
+This section will mostly be used if you’re attempting Dragonsongs Reprise / The Omega Protocol or synced Pandemonium Savage fights. The differences between Dawntrail (Level 100) and Endwalker are not very complex. The general idea is that we have fewer buttons so more filler (Heated Combo GCD) is needed but this also means we have less battery generated.
 
-* Since we are missing Excavator, it is impossible for us to send an Automaton Queen in the opener with including a Heated Clean Shot somewhere, to combat this we recommend the Delayed Tools Opener.
-* However, for specific fights, such as the two level 90 ultimates, they require different openers due to heavy downtime and the risk of losing usages if tools are not sent immediately in the opener.
+* Since we are missing Excavator, it is impossible for us to send an Automaton Queen in the opener without including a Heated Clean Shot somewhere, to combat this we recommend the Delayed Tools Opener.
+* However, specific fights, such as the two level 90 ultimates, require different openers due to heavy downtime and the risk of losing usages if tools are not sent immediately in the opener.
 * Excavator, Full Metal Field, and our Second Drill have been removed from the rotation. Due to this we generate less Battery, but more Heat. Since our oGCDs are back to Gauss Round/Ricochet, its important to remember that without its upgrade, Gauss Round does not cleave and is only single target, while Ricochet does cleave.
-* With the less Battery generated, we stick to only one Automaton Queen per odd minute, since we don't gain more than 100, splitting them into two separate queens are not needed.
+* With less Battery generated, we stick to only one Automaton Queen per odd minute. Since we don't gain more than 100 gauge per minute, splitting them into two separate queens are not needed.
 
 Below is the standard opener you’ll want to use at level 90.
 
 ![](/img/jobs/mch/hgjl3f8.png)
+
+# Level 100 Rotation
+
+The level 100 rotation can be found in the [Basic Guide](https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/). Please check it out for level 100 information.
