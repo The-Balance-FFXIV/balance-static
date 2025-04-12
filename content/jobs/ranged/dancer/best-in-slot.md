@@ -2,7 +2,7 @@
 title: Dancer Best in Slot (BiS)
 layout: bis
 patch: "7.2"
-lastmod: 2025-03-31T16:56:26.693Z
+lastmod: 2025-04-12T04:19:17.340Z
 changelog:
   - date: 2021-10-26T02:11:25.028Z
     message: Created page
@@ -27,9 +27,11 @@ bis:
     link: https://xivgear.app/?page=embed%7Csl%7Cf0c36ece-774f-493c-9f0c-92c29a364fde&onlySetIndex=0
     description: Set for starting savage progression without any gear from weekly
       capped tomestones or savage raids
-  - type: etro
-    name: 7.05 ilvl 730 BiS 2.5 GCD
-    link: https://etro.gg/gearset/f0504326-4983-4baa-aa9c-06a495129910
+  - type: genericlink
+    name: 7.05 - FRU BiS 2.50 GCD
+    link: https://xivgear.app/?page=sl%7C5702d876-bd80-4212-a91d-feed7bfb8c22
+    description: BiS for FRU including options with and without Chaotic Alliance
+      Raid Pieces.
   - type: etro
     description: ""
     name: 6.50 - TOP / ASS / ASS (Savage) BiS 2.47 GCD
