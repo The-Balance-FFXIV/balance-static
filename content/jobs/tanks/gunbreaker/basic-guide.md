@@ -4,7 +4,7 @@ card_header_image: /img/jobs/gnb/basic.png
 authors:
   - Balance-GNB-Staff
 patch: "7.2"
-lastmod: 2025-03-24T21:59:23.112Z
+lastmod: 2025-04-12T21:06:47.412Z
 changelog:
   - date: 2022-04-05T18:01:38.826Z
     message: Updated for Endwalker
