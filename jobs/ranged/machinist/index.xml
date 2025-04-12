@@ -1,7 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machinist on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/</link><description>Recent content in Machinist on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 11 Apr 2025 06:32:55 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/index.xml" rel="self" type="application/rss+xml"/><item><title>Machinist Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</link><pubDate>Fri, 11 Apr 2025 06:32:55 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</guid><description/></item><item><title>Machinist Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/stat-priority/</link><pubDate>Fri, 11 Apr 2025 06:32:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/stat-priority/</guid><description/></item><item><title>Machinist Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</link><pubDate>Fri, 11 Apr 2025 06:32:18 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</guid><description>&lt;h1 id="openers">Openers &lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machinist on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/</link><description>Recent content in Machinist on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 12 Apr 2025 01:34:19 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/index.xml" rel="self" type="application/rss+xml"/><item><title>Machinist Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/leveling-guide/</link><pubDate>Sat, 12 Apr 2025 01:34:19 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/leveling-guide/</guid><description>&lt;h1 id="simple-pointers-for-new-machinists">Simple Pointers for New Machinists&lt;/h1>
+&lt;p>Unlocking new jobs can be daunting, so to alleviate some of the stress of all of the new actions, here’s some tips to help the new Machinists understand their rotation while leveling and gain some insight into how everything comes together!  Reference the weaponskills and abilities in the &lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/">beginner&amp;rsquo;s guide&lt;/a> if you forget exactly what things do. &lt;/p>
+&lt;p>For clarity purposes:&lt;/p>
+&lt;ul>
+&lt;li>GCDs are your weaponskills. They are tied to a timer related to your skill speed. Without skill speed, your GCD recast timer is 2.5 seconds.&lt;/li>
+&lt;li>oGCDs are either tied to a longer cooldown specified in the tooltip or limited by something called animation lock, which is about 0.6s. At most, you can use two oGCDs between GCDs. Sometimes you are limited to only using one oGCD because of faster recast times. For Machinist specifically, this will be during Hypercharge, between your Heat Blasts. This is referred to as weaving.&lt;/li>
+&lt;/ul>
+&lt;h2 id="level-30">Level 30&lt;/h2>
+&lt;ul>
+&lt;li>Your highest potency skill is Clean Shot until level 58. Reassemble should always be paired with this in a single target situation.&lt;/li>
+&lt;li>Hypercharge is a flat 20 potency boost to every weapon skill (GCD) used in the next 7.5s. This translates to your next three GCDs if you are actively fighting something.&lt;/li>
+&lt;li>You only have heat right now, but Hot Shot is still 300 potency and a gain over both Split Shot and Slug Shot and should still be used in single target situations.&lt;/li>
+&lt;li>Spread Shot should be used for any encounter where you have two or more mobs. It’s also the priority for using Reassemble if you’re fighting multiple enemies.&lt;/li>
+&lt;li>Gauss Round is an expendable oGCD that should be used as much as possible for extra damage.&lt;/li>
+&lt;/ul>
+&lt;h2 id="level-35">Level 35&lt;/h2>
+&lt;ul>
+&lt;li>You will gain access to Heat Blast. This weaponskill is super important. The only time you can use it is during your Hypercharge windows, but the recast time on it is exceptionally low, at only 1.5 seconds. You should never be double weaving between Heat Blast; there’s not enough time to do so. Each Heat Blast reduces the cooldown on Gauss Round, so you should be single weaving a Gauss Round in between your Heat Blast’s when you’re able to. This skill changes what you have been doing for the past five levels; from here on out, you’ll never use other GCDs inside of Hypercharge. Every Hypercharge window you should be getting five Heat Blasts.&lt;/li>
+&lt;/ul>
+&lt;h2 id="level-40">Level 40&lt;/h2>
+&lt;ul>
+&lt;li>You will gain access to Rook Auto-Turret. This unlocks a new gauge, Battery. Every time you use Hot Shot or finish a full combo segment with Clean Shot, you will gain Battery which can then be used to summon Rook. If you are preventing the Battery gauge from overcapping, you’re using it correctly. Rook Overdrive does not need to be pressed; it will happen at the end of the summons timer.&lt;/li>
+&lt;/ul>
+&lt;h2 id="level-45">Level 45&lt;/h2>
+&lt;ul>
+&lt;li>Unlocking Wildfire is effectively just a DPS gain on what you already have in your kit. Wildfire should always be paired with Hypercharge, but you will need to manually build your heat up to use it rather than being able to open properly. Wildfire can be used on trash packs, but you are better off holding it slightly for boss encounters.&lt;/li>
+&lt;/ul>
+&lt;h2 id="level-50">Level 50&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Nothing crazy. You will learn Ricochet which should be treated nearly the same as Gauss Round. Use as much as you can, and use it inside of Hypercharge windows, alternating use with Gauss Round.&lt;/p></description></item><item><title>Machinist Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</link><pubDate>Fri, 11 Apr 2025 06:32:55 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</guid><description/></item><item><title>Machinist Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/stat-priority/</link><pubDate>Fri, 11 Apr 2025 06:32:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/stat-priority/</guid><description/></item><item><title>Machinist Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</link><pubDate>Fri, 11 Apr 2025 06:32:18 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</guid><description>&lt;h1 id="openers">Openers &lt;/h1>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[157 363 248 57 72 321]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-standard-opener-aa-6-.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[36 410 364 442 200 379]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-standard-opener-aa-6-.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;br>
@@ -13,7 +43,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
 &lt;br>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[48 433 221 44 151 180]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-alternative-opener-static-to-even-minute-bursts-.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[49 224 60 184 196 163]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-alternative-opener-static-to-even-minute-bursts-.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p></description></item><item><title>Machinist FAQ</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/</link><pubDate>Fri, 11 Apr 2025 06:31:28 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/</guid><description>&lt;h1 id="frequently-asked-questions">Frequently Asked Questions&lt;/h1>
 &lt;blockquote>
@@ -44,7 +74,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[46 393 491 151 114 343]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[9 5 98 320 401 80]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Split Shot&lt;/td>
@@ -57,7 +87,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[213 70 51 92 155 336]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[439 21 318 354 102 403]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Slug Shot&lt;/td>
@@ -70,7 +100,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[106 484 237 170 202 444]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[397 395 167 89 309 496]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Clean Shot&lt;/td>
@@ -83,7 +113,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[326 413 250 213 19 289]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[418 438 110 135 417 320]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Drill&lt;/td>
@@ -96,7 +126,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[343 468 76 346 363 134]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[404 396 449 5 420 337]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Air Anchor&lt;/td>
@@ -109,7 +139,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[492 337 273 139 201 349]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[417 187 266 96 371 23]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chain Saw&lt;/td>
@@ -122,7 +152,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[397 372 59 246 39 159]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[367 477 88 178 269 196]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reassemble&lt;/td>
@@ -135,7 +165,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[345 218 50 244 270 440]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[139 312 99 191 174 212]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hypercharge&lt;/td>
@@ -148,7 +178,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[25 69 240 12 403 143]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[302 273 237 189 163 250]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Blazing Shot&lt;/td>
@@ -161,7 +191,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[73 42 456 379 143 481]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[429 33 57 35 488 38]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Checkmate&lt;/td>
@@ -174,7 +204,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[202 125 158 17 262 331]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[147 199 113 368 3 416]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Double Check&lt;/td>
@@ -187,7 +217,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[305 268 376 123 291 270]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[329 301 253 420 3 120]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Wildfire&lt;/td>
@@ -200,7 +230,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[226 318 493 432 165 435]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[401 77 156 72 53 369]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Barrel Stabilizer&lt;/td>
@@ -213,7 +243,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[423 496 393 446 418 207]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[269 449 333 459 13 71]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Excavator&lt;/td>
@@ -226,7 +256,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[489 376 477 380 350 15]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[26 211 326 14 352 183]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Full Metal Field&lt;/td>
@@ -255,7 +285,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[203 272 376 464 258 332]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[404 468 3 280 281 360]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bioblaster&lt;/td>
@@ -268,7 +298,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[312 115 74 49 289 27]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[309 3 235 220 121 151]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Scattergun&lt;/td>
@@ -281,7 +311,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[113 283 19 160 338 302]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[366 67 151 320 51 289]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Auto-Crossbow&lt;/td>
@@ -294,7 +324,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[398 353 432 415 436 416]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[429 249 115 349 171 90]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flamethrower&lt;/td>
@@ -323,7 +353,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[418 443 267 182 270 285]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[481 275 98 278 234 201]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Automaton Queen&lt;/td>
@@ -336,7 +366,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[485 200 293 341 332 326]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[453 87 57 85 460 26]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Queen Overdrive&lt;/td>
@@ -349,7 +379,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[495 14 29 137 500 50]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[143 34 345 395 368 383]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm Punch&lt;/td>
@@ -362,7 +392,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[338 247 320 407 402 177]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[146 108 458 68 415 103]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Roller Dash&lt;/td>
@@ -375,7 +405,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[326 190 6 415 401 389]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[10 142 114 112 416 18]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Pile Bunker&lt;/td>
@@ -388,7 +418,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[6 67 83 443 31 112]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[435 130 278 153 390 475]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Crowned Collider&lt;/td>
@@ -417,7 +447,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[496 386 377 260 81 157]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[417 108 232 338 295 228]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tactician&lt;/td>
@@ -430,7 +460,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[146 366 139 482 154 318]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[37 299 472 375 174 456]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dismantle&lt;/td>
@@ -443,7 +473,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[264 74 223 410 484 214]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[101 484 181 268 228 333]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Graze&lt;/td>
@@ -456,7 +486,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[312 284 91 487 38 383]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[488 19 196 315 417 263]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Foot Graze&lt;/td>
@@ -469,7 +499,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[436 468 265 36 28 295]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[76 148 295 137 178 462]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Head Graze&lt;/td>
@@ -482,7 +512,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[418 380 135 200 401 2]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[145 243 124 459 342 136]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -495,7 +525,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[80 427 203 316 415 82]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[41 457 111 283 115 241]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -508,7 +538,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[209 19 188 93 81 80]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[73 445 58 128 253 389]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Peloton&lt;/td>
@@ -531,34 +561,4 @@ It assumes you are already familiar with the fundamentals of the job – if you 
 read the &lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/">Basic Guide&lt;/a> and come back when you&amp;rsquo;re done.&lt;/em>&lt;/p>
 &lt;h1 id="introduction-to-optimization">Introduction to Optimization&lt;/h1>
 &lt;p>This section will introduce some core concepts for optimizing encounters in FFXIV.
-If you are already familiar with optimization on other jobs, you can feel free to skip ahead!&lt;/p></description></item><item><title>Machinist Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/leveling-guide/</link><pubDate>Wed, 11 Jan 2023 02:34:19 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/leveling-guide/</guid><description>&lt;h1 id="simple-pointers-for-new-machinists">Simple Pointers for New Machinists&lt;/h1>
-&lt;p>Unlocking new jobs can be daunting, so to alleviate some of the stress of all of the new actions, here’s some tips to help the new Machinists understand their rotation while leveling and gain some insight into how everything comes together!  Reference the weaponskills and abilities in the &lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/">beginner&amp;rsquo;s guide&lt;/a> if you forget exactly what things do. &lt;/p>
-&lt;p>For clarity purposes:&lt;/p>
-&lt;ul>
-&lt;li>GCDs are your weaponskills. They are tied to a timer related to your skill speed. Without skill speed, your GCD recast timer is 2.5 seconds.&lt;/li>
-&lt;li>oGCDs are either tied to a longer cooldown specified in the tooltip or limited by something called animation lock, which is about 0.6s. At most, you can use two oGCDs between GCDs. Sometimes you are limited to only using one oGCD because of faster recast times. For Machinist specifically, this will be during Hypercharge, between your Heat Blasts. This is referred to as weaving.&lt;/li>
-&lt;/ul>
-&lt;h2 id="level-30">Level 30&lt;/h2>
-&lt;ul>
-&lt;li>Your highest potency skill is Clean Shot until level 58. Reassemble should always be paired with this in a single target situation.&lt;/li>
-&lt;li>Hypercharge is a flat 20 potency boost to every weapon skill (GCD) used in the next 7.5s. This translates to your next three GCDs if you are actively fighting something.&lt;/li>
-&lt;li>You only have heat right now, but Hot Shot is still 300 potency and a gain over both Split Shot and Slug Shot and should still be used in single target situations.&lt;/li>
-&lt;li>Spread Shot should be used for any encounter where you have two or more mobs. It’s also the priority for using Reassemble if you’re fighting multiple enemies.&lt;/li>
-&lt;li>Gauss Round is an expendable oGCD that should be used as much as possible for extra damage.&lt;/li>
-&lt;/ul>
-&lt;h2 id="level-35">Level 35&lt;/h2>
-&lt;ul>
-&lt;li>You will gain access to Heat Blast. This weaponskill is super important. The only time you can use it is during your Hypercharge windows, but the recast time on it is exceptionally low, at only 1.5 seconds. You should never be double weaving between Heat Blast; there’s not enough time to do so. Each Heat Blast reduces the cooldown on Gauss Round, so you should be single weaving a Gauss Round in between your Heat Blast’s when you’re able to. This skill changes what you have been doing for the past five levels; from here on out, you’ll never use other GCDs inside of Hypercharge. Every Hypercharge window you should be getting five Heat Blasts.&lt;/li>
-&lt;/ul>
-&lt;h2 id="level-40">Level 40&lt;/h2>
-&lt;ul>
-&lt;li>You will gain access to Rook Auto-Turret. This unlocks a new gauge, Battery. Every time you use Hot Shot or finish a full combo segment with Clean Shot, you will gain Battery which can then be used to summon Rook. If you are preventing the Battery gauge from overcapping, you’re using it correctly. Rook Overdrive does not need to be pressed; it will happen at the end of the summons timer.&lt;/li>
-&lt;/ul>
-&lt;h2 id="level-45">Level 45&lt;/h2>
-&lt;ul>
-&lt;li>Unlocking Wildfire is effectively just a DPS gain on what you already have in your kit. Wildfire should always be paired with Hypercharge, but you will need to manually build your heat up to use it rather than being able to open properly. Wildfire can be used on trash packs, but you are better off holding it slightly for boss encounters.&lt;/li>
-&lt;/ul>
-&lt;h2 id="level-50">Level 50&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>Nothing crazy. You will learn Ricochet which should be treated nearly the same as Gauss Round. Use as much as you can, and use it inside of Hypercharge windows, alternating use with Gauss Round.&lt;/p></description></item><item><title>Machinist Changes</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/job-changes/</link><pubDate>Tue, 10 Jan 2023 20:23:33 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/job-changes/</guid><description/></item></channel></rss>
+If you are already familiar with optimization on other jobs, you can feel free to skip ahead!&lt;/p></description></item><item><title>Machinist Changes</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/job-changes/</link><pubDate>Tue, 10 Jan 2023 20:23:33 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/job-changes/</guid><description/></item></channel></rss>
