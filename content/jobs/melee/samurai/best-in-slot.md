@@ -2,7 +2,7 @@
 title: Samurai Best in Slot (BiS)
 layout: bis
 patch: "7.2"
-lastmod: 2025-03-30T20:20:19.218Z
+lastmod: 2025-04-12T18:33:35.437Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -46,7 +46,7 @@ bis:
       Niche, Lars and Boxer for helping with making these.
 
 
-      [UCoB](https://xivgear.app/?page=sl%7C63158492-857f-4656-a067-c9294c341606) | [UWU](https://xivgear.app/?page=sl%7C41ebbdad-484c-4a6e-a146-4e187a322ea9) | [TEA](https://xivgear.app/?page=sl%7Cd28b5387-785e-4b7f-a85c-ebe3bcd8a0c3) | [DSR](https://xivgear.app/?page=sl%7Ccb381b61-8e61-4744-a646-5f9499bbbe1a) | [TOP](https://xivgear.app/?page=sl%7C87b0e17b-692e-4f5d-a732-8fdc1b577f9a)
+      [UCoB](https://xivgear.app/?page=sl%7C63158492-857f-4656-a067-c9294c341606) | [UWU](https://xivgear.app/?page=sl%7C41ebbdad-484c-4a6e-a146-4e187a322ea9) | [TEA](https://xivgear.app/?page=sl%7Cd28b5387-785e-4b7f-a85c-ebe3bcd8a0c3) | [DSR](https://xivgear.app/?page=sl%7Ccb381b61-8e61-4744-a646-5f9499bbbe1a) | [TOP](https://xivgear.app/?page=sl%7C87b0e17b-692e-4f5d-a732-8fdc1b577f9a) | [FRU](https://xivgear.app/?page=sl%7C082cdddf-ff50-4f3c-aefd-c25292c562f3)
     name: 'Ultimate/Unreal Sync "BiS" Sets:'
     link: ""
 authors:
