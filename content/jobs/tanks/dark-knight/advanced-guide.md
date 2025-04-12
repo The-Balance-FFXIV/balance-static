@@ -73,7 +73,7 @@ While the most salient application delays are highlighted in this section, if yo
 
 One other notable situation where application delay is relevant is during periods of downtime when a boss phases out, to potentially reappear later. For example, if you use a Bloodspiller (application delay of 0.8s) 0.7s before a boss disappears, then you will have essentially wasted your GCD and 50 Blood, whereas if you were to have used Hard Slash (application delay of 0.58s) it would have applied properly, and the GCD would not have been 'wasted'.
 
-Some players refer to using an ability and not having it applied to the boss due to the boss disappearing as having that ability be 'ghosted'. To prevent this 'ghosting', you should be conscious about how you plan a rotation for fights with this kind of downtime, and especially wary not to use high application delay abilities (most notably Bloodspiller, Carve and Spit, and Disesteem) before bosses disappearing.
+Some players refer to using an ability and not having it applied to the boss due to the boss disappearing as having that ability be 'ghosted'. To prevent this 'ghosting', you should be conscious about how you plan a rotation for fights with this kind of downtime, and especially wary not to use high application delay abilities (most notably Bloodspiller, Carve and Spit, and Disesteem) before bosses disappear or phases end.
 
 # Salted Earth and Buff Windows
 
