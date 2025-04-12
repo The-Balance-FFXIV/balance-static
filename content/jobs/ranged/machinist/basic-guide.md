@@ -232,8 +232,8 @@ The basic AoE priority is as follows:
 
 ### Hypercharge GCD
 
-* **Blazing Shot** on 1-3
-* **Auto Crossbow** on 4+
+* **Blazing Shot** on 1-5
+* **Auto Crossbow** on 6+
 
 ### Flamethrower
 
