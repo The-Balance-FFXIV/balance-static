@@ -69,7 +69,7 @@ This can come up in practical situations if you are about to enter burst window 
 
 While the most salient application delays are highlighted in this section, if you're curious about the application delay of every Dark Knight ability, refer to [this spreadsheet](https://docs.google.com/spreadsheets/d/1Emevsz5_oJdmkXy23hZQUXimirZQaoo5BejSzL3hZ9I/edit?gid=0#gid=0).
 
-## Downtime and Application Delay
+## Application Delay and Ghosting
 
 One other notable situation where application delay is relevant is during periods of downtime when a boss phases out, to potentially reappear later. For example, if you use a Bloodspiller (application delay of 0.8s) 0.7s before a boss disappears, then you will have essentially wasted your GCD and 50 Blood, whereas if you were to have used Hard Slash (application delay of 0.58s) it would have applied properly, and the GCD would not have been 'wasted'.
 
