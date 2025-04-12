@@ -227,13 +227,13 @@ The basic AoE priority is as follows:
 ### Filler GCD
 
 * **Heated Combo GCD** on 1-2
-* **Scattergun** on 3+
+* **Scattergun** on 4+
+* Note that **Scattergun** is a gain on 3+ if you won't be using/needing the battery generated from **Heated Combo GCD**.
 
 ### Hypercharge GCD
 
 * **Blazing Shot** on 1-3
-* **Auto Crossbow** on 5+
-* Note that **Blazing Shot** and **Auto Crossbow** are potency neutral on 4 targets if all targets are tightly stacked for the oGCDs from **Blazing Shot** to cleave.
+* **Auto Crossbow** on 4+
 
 ### Flamethrower
 
