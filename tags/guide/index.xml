@@ -1,29 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guide on Balance Guides</title><link>https://www.thebalanceffxiv.com/tags/guide/</link><description>Recent content in Guide on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 04:57:15 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/tags/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Dancer Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</link><pubDate>Tue, 01 Apr 2025 04:57:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</guid><description>&lt;p>by Tomcat Frost (Faerie)&lt;/p>
-&lt;h1 id="foreword">FOREWORD&lt;/h1>
-&lt;p>One of the biggest requests I have had is a more concise document on what people “need to know” before jumping into more difficult content. This is not meant to be a replacement for a general guide to Dancer; please see Ringabel’s extensive write-up instead, which will be linked at the end of the document in the appendix.&lt;/p>
-&lt;p>This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.&lt;/p></description></item><item><title>Dancer FAQ</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 01 Apr 2025 04:00:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>&lt;h1 id="dance-partner-priority">DANCE PARTNER PRIORITY&lt;/h1>
-&lt;p>This list is made in a gear/skill vacuum. This is the recommended partner priority list.&lt;br>
-Special Note: some fights may favor certain Dance Partners over others based on phases/mechanics or ability to hit multiple targets.&lt;/p>
-&lt;p>&lt;em>Updated: January 19, 2021 to account for balance changes in patch 5.4.&lt;/em>&lt;/p>
-&lt;ol>
-&lt;li>SAM&lt;/li>
-&lt;li>NIN&lt;/li>
-&lt;li>MNK / BLM (crit build)*&lt;/li>
-&lt;li>DRG / SMN&lt;/li>
-&lt;li>RDM&lt;/li>
-&lt;li>MCH&lt;/li>
-&lt;li>BRD&lt;/li>
-&lt;li>DNC&lt;/li>
-&lt;/ol>
-&lt;p>*Data on BLM SpS build as a dance partner is not available due to length in time to reach BiS with this build as of this update, but value as a dance partner is believed to drop significantly between the two builds due to under utilization of Devilment.&lt;/p></description></item><item><title>Reaper Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</link><pubDate>Mon, 24 Mar 2025 21:31:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</guid><description>&lt;h1 id="basic-reaper-guide">Basic Reaper Guide&lt;/h1>
-&lt;p>Welcome to the Basic Guide for Reaper, which will cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.&lt;/p>
-&lt;p>Whether you’re a fresh level 100, a returning player, or just need a refresh, this guide will give you the tools you need to feel comfortable playing Reaper.&lt;/p>
-&lt;p>This guide is intended to be relatively basic and doesn’t go into huge explanations of specific situations or small nuances. If you’re looking for something specific, check out the more detailed guides below:&lt;/p></description></item><item><title>Reaper Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</link><pubDate>Mon, 24 Mar 2025 21:30:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</guid><description>&lt;p>This guide is targeted at players looking to play and understand Reaper as they level up. It will cover some basic priorities for each level tier and will also serve as a priority list for playing Reaper at lower levels (for ultimates and such). If you are level 100 and looking to explore other guides please visit the following links:&lt;/p>
-&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/">Basic Guide&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/">Advanced Guide&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/reaper/skills-overview/">Skill Details&lt;/a>&lt;/p>
-&lt;h2 id="how-to-unlock">How to Unlock&lt;/h2>
-&lt;p>To unlock Reaper, you must first have these prerequisites met:&lt;/p></description></item><item><title>Machinist Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</link><pubDate>Sun, 28 Jul 2024 03:28:14 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</guid><description>&lt;h1 id="single-target-actions">Single-Target Actions&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guide on Balance Guides</title><link>https://www.thebalanceffxiv.com/tags/guide/</link><description>Recent content in Guide on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 11 Apr 2025 06:31:09 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/tags/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Machinist Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</link><pubDate>Fri, 11 Apr 2025 06:31:09 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</guid><description>&lt;h1 id="single-target-actions">Single-Target Actions&lt;/h1>
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -40,7 +15,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[453 123 397 424 349 441]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[494 11 432 166 50 258]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Split Shot&lt;/td>
@@ -53,7 +28,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[45 24 199 489 18 362]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[341 272 411 488 269 94]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Slug Shot&lt;/td>
@@ -66,7 +41,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[341 500 178 318 80 479]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[99 297 386 97 418 72]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Clean Shot&lt;/td>
@@ -79,7 +54,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[195 446 307 60 89 257]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[466 7 166 189 294 67]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Drill&lt;/td>
@@ -92,7 +67,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[290 264 239 131 30 104]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[404 13 269 415 437 421]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Air Anchor&lt;/td>
@@ -105,7 +80,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[192 300 351 376 334 278]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[107 141 47 31 307 179]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chain Saw&lt;/td>
@@ -118,7 +93,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[442 101 133 86 57 140]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[394 238 383 242 457 156]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reassemble&lt;/td>
@@ -131,7 +106,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[392 117 124 189 399 232]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[451 264 480 379 397 72]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hypercharge&lt;/td>
@@ -144,7 +119,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[327 300 59 304 462 440]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[67 333 103 296 14 291]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Blazing Shot&lt;/td>
@@ -157,7 +132,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[193 269 45 388 251 180]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[113 412 491 455 433 150]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Checkmate&lt;/td>
@@ -170,7 +145,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[479 348 457 168 8 460]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[288 437 259 385 333 87]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Double Check&lt;/td>
@@ -183,7 +158,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[261 71 109 125 276 8]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[152 105 97 110 49 443]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Wildfire&lt;/td>
@@ -196,7 +171,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[401 94 484 362 289 187]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[466 36 110 395 464 88]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Barrel Stabilizer&lt;/td>
@@ -209,7 +184,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[132 269 274 171 309 317]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[399 471 428 140 158 198]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Excavator&lt;/td>
@@ -222,7 +197,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[22 450 369 423 391 412]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[339 96 487 244 486 192]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Full Metal Field&lt;/td>
@@ -251,7 +226,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[479 36 415 73 182 11]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[361 290 324 496 247 423]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bioblaster&lt;/td>
@@ -264,7 +239,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[78 28 355 127 467 487]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[486 465 79 251 485 244]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Scattergun&lt;/td>
@@ -277,7 +252,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[475 49 318 45 359 322]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[63 310 154 174 377 232]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Auto-Crossbow&lt;/td>
@@ -290,7 +265,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[124 234 382 403 60 8]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[166 42 465 49 112 176]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flamethrower&lt;/td>
@@ -319,7 +294,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[67 166 497 471 332 171]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[213 216 50 475 132 212]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Automaton Queen&lt;/td>
@@ -332,7 +307,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[305 165 249 284 91 75]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[308 435 38 128 389 3]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Queen Overdrive&lt;/td>
@@ -345,7 +320,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[364 267 179 80 382 373]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[201 281 299 456 121 185]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm Punch&lt;/td>
@@ -358,7 +333,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[190 43 340 273 183 400]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[365 310 21 173 11 322]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Roller Dash&lt;/td>
@@ -371,7 +346,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[499 8 251 320 26 350]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[229 489 425 255 83 141]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Pile Bunker&lt;/td>
@@ -384,7 +359,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[154 335 53 94 474 368]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[360 361 185 254 93 255]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Crowned Collider&lt;/td>
@@ -413,7 +388,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[92 57 228 17 257 235]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[498 196 217 77 252 39]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tactician&lt;/td>
@@ -426,7 +401,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[331 422 25 246 494 440]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[447 158 441 51 265 437]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dismantle&lt;/td>
@@ -439,7 +414,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[299 123 189 25 363 426]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[70 338 76 256 101 269]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Graze&lt;/td>
@@ -452,7 +427,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[188 408 20 196 370 363]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[474 147 37 225 469 54]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Foot Graze&lt;/td>
@@ -465,7 +440,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[133 26 20 189 377 31]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[75 287 419 89 60 410]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Head Graze&lt;/td>
@@ -478,7 +453,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[151 155 34 468 421 388]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[414 150 240 337 16 78]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -491,7 +466,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[64 316 461 199 210 460]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[174 124 439 384 455 446]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -504,7 +479,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[471 424 74 497 188 213]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[255 351 123 232 378 160]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Peloton&lt;/td>
@@ -515,7 +490,32 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;td style="text-align: left">Increases movement speed for self and nearby party members.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Reaper Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/</link><pubDate>Thu, 04 Jul 2024 02:44:58 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/</guid><description>&lt;h2 id="this-guide-will-be-updated-for-dawntrail-at-a-later-date">This guide will be updated for Dawntrail at a later date.&lt;/h2></description></item><item><title>Reaper Non-Standard Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/non-standard/</link><pubDate>Mon, 10 Jul 2023 22:45:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/non-standard/</guid><description>&lt;h2 id="placeholder">Placeholder&lt;/h2>
+&lt;/table></description></item><item><title>Dancer Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</link><pubDate>Tue, 01 Apr 2025 04:57:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</guid><description>&lt;p>by Tomcat Frost (Faerie)&lt;/p>
+&lt;h1 id="foreword">FOREWORD&lt;/h1>
+&lt;p>One of the biggest requests I have had is a more concise document on what people “need to know” before jumping into more difficult content. This is not meant to be a replacement for a general guide to Dancer; please see Ringabel’s extensive write-up instead, which will be linked at the end of the document in the appendix.&lt;/p>
+&lt;p>This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.&lt;/p></description></item><item><title>Dancer FAQ</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 01 Apr 2025 04:00:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>&lt;h1 id="dance-partner-priority">DANCE PARTNER PRIORITY&lt;/h1>
+&lt;p>This list is made in a gear/skill vacuum. This is the recommended partner priority list.&lt;br>
+Special Note: some fights may favor certain Dance Partners over others based on phases/mechanics or ability to hit multiple targets.&lt;/p>
+&lt;p>&lt;em>Updated: January 19, 2021 to account for balance changes in patch 5.4.&lt;/em>&lt;/p>
+&lt;ol>
+&lt;li>SAM&lt;/li>
+&lt;li>NIN&lt;/li>
+&lt;li>MNK / BLM (crit build)*&lt;/li>
+&lt;li>DRG / SMN&lt;/li>
+&lt;li>RDM&lt;/li>
+&lt;li>MCH&lt;/li>
+&lt;li>BRD&lt;/li>
+&lt;li>DNC&lt;/li>
+&lt;/ol>
+&lt;p>*Data on BLM SpS build as a dance partner is not available due to length in time to reach BiS with this build as of this update, but value as a dance partner is believed to drop significantly between the two builds due to under utilization of Devilment.&lt;/p></description></item><item><title>Reaper Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</link><pubDate>Mon, 24 Mar 2025 21:31:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</guid><description>&lt;h1 id="basic-reaper-guide">Basic Reaper Guide&lt;/h1>
+&lt;p>Welcome to the Basic Guide for Reaper, which will cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.&lt;/p>
+&lt;p>Whether you’re a fresh level 100, a returning player, or just need a refresh, this guide will give you the tools you need to feel comfortable playing Reaper.&lt;/p>
+&lt;p>This guide is intended to be relatively basic and doesn’t go into huge explanations of specific situations or small nuances. If you’re looking for something specific, check out the more detailed guides below:&lt;/p></description></item><item><title>Reaper Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</link><pubDate>Mon, 24 Mar 2025 21:30:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</guid><description>&lt;p>This guide is targeted at players looking to play and understand Reaper as they level up. It will cover some basic priorities for each level tier and will also serve as a priority list for playing Reaper at lower levels (for ultimates and such). If you are level 100 and looking to explore other guides please visit the following links:&lt;/p>
+&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/">Basic Guide&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/">Advanced Guide&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/reaper/skills-overview/">Skill Details&lt;/a>&lt;/p>
+&lt;h2 id="how-to-unlock">How to Unlock&lt;/h2>
+&lt;p>To unlock Reaper, you must first have these prerequisites met:&lt;/p></description></item><item><title>Reaper Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/</link><pubDate>Thu, 04 Jul 2024 02:44:58 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/</guid><description>&lt;h2 id="this-guide-will-be-updated-for-dawntrail-at-a-later-date">This guide will be updated for Dawntrail at a later date.&lt;/h2></description></item><item><title>Reaper Non-Standard Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/non-standard/</link><pubDate>Mon, 10 Jul 2023 22:45:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/non-standard/</guid><description>&lt;h2 id="placeholder">Placeholder&lt;/h2>
 &lt;p>Test page.&lt;/p></description></item><item><title>Red Mage Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/advanced-guide/</link><pubDate>Sat, 10 Jun 2023 03:36:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/advanced-guide/</guid><description>&lt;h1 id="6x-red-mage-advanced-optimization-guide">6.X Red Mage Advanced Optimization Guide&lt;/h1>
 &lt;p>This guide will cover some Endwalker Red Mage optimization concepts and principles that aren’t fully covered in the basic job guide. The intended audience includes:&lt;/p>
 &lt;ul>
