@@ -190,7 +190,7 @@ A situation can occur where a **Solid Barrel** would be next action before **No 
 \
 This graphic is being updated, but the solution is to cast a **Burst Strike** in place of that **Solid Barrel**. This will drive you down to 1 cartridge, where then you can cast **Sonic Break** earlier in your burst window to fill the gap that forms at the first GCD of **No Mercy**. **Gnashing Fang** or **Double Down** (or both) will drift by 1 GCD in the process, but Bloodfest will not.
 
-This will be your new burst window until you are pushed back into two-carting, and when that happens, you will delay **Bloodfest** by one GCD.
+This will be your new burst window until you are forced into two-carting again, and when that happens, you will delay **Bloodfest** by one GCD.
 
 - - -
 
