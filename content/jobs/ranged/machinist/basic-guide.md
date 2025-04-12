@@ -228,7 +228,7 @@ The basic AoE priority is as follows:
 
 * **Heated Combo GCD** on 1-2
 * **Scattergun** on 4+
-* Note that **Scattergun** is a gain on 3+ if you won't be using/needing the battery generated from **Heated Combo GCD**.
+* Note that **Scattergun** is a gain on 3+ if you won't be using/needing the battery generated from **Heated Combo GCDs**.
 
 ### Hypercharge GCD
 
