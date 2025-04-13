@@ -61,7 +61,7 @@ The actions that will spend cartridges from the gauge are as follows:
 
 * Damage calculations occur as soon as you press an action, not when it hits a target.
 * This results in it being possible to get extra GCDs into your buff by casting it later at certain GCD speeds.
-* Yo should use **No Mercy** off cooldown in accordance with the usage guidelines at the end of this section.
+* You should use **No Mercy** off cooldown in accordance with the usage guidelines at the end of this section.
 * Do not attempt to clip the GCD to cast **No Mercy** off cooldown.
 
 - - -
@@ -101,17 +101,17 @@ Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to 
 
 ## ![2.50 GNB Opener](/img/jobs/gbn/2.5opener_7.1_1.2.png)
 
-
 ## ![2.4N GNB Opener](/img/jobs/gbn/2.4opener_7.1_1.1.png)
-
 
 #### OPENER NOTES
 
-- The **Lightning Shot** cast is suggested for pull consistency and raid buff alignment.
-  - It does not matter if you are MT or ST, this is always fundamentally true.
-  - **Trajectory** can be used at -0.22s to replace **Lightning Shot**.
-  - **Provoke** can be used at -0.6s to replace **Lightning Shot**, but this is not advised without knowing the fight timeline. You may need to swap within the first 30 seconds of the fight.
-- **Sonic Break** being moved to the 9th GCD in the 2.4n Opener is not a new technique, but for those unfamiliar:
+* The **Lightning Shot** cast is suggested for pull consistency and raid buff alignment.
+
+  * It does not matter if you are MT or ST, this is always fundamentally true.
+  * **Trajectory** can be used at -0.22s to replace **Lightning Shot**.
+  * **Provoke** can be used at -0.6s to replace **Lightning Shot**, but this is not advised without knowing the fight timeline. You may need to swap within the first 30 seconds of the fight.
+* **Sonic Break** being moved to the 9th GCD in the 2.4n Opener is not a new technique, but for those unfamiliar:
+
   * It is the least risky choice to keep **Hypervelocity** inside of **No Mercy**. (40p gain)
   * If **Sonic Break** falls out of **No Mercy** when trying this, move **Burst Strike** back to the 9th GCD.
   * If **Sonic Break** falls out of raid buffs worth more than 12.1% overall, move﻿﻿ **Burst Strike** back to the 9th GCD.
@@ -124,21 +124,26 @@ Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to 
 </br>
 
 - - -
+
 ## FILLER PRIORITY SYSTEM
+
 - - -
 
 The goal of this is to prepare the appropriate cartridges for **No Mercy**.
 
-- Complete the **Solid Barrel** combo continuously to fill the gauge.
-- Use **Gnashing Fang** and **Blasting Zone** off cooldown ONCE.
-- Use **Burst Strike** only when the cartridge gauge is about to overcap.
+* Complete the **Solid Barrel** combo continuously to fill the gauge.
+* Use **Gnashing Fang** and **Blasting Zone** off cooldown ONCE.
+* Use **Burst Strike** only when the cartridge gauge is about to overcap.
+
   * This occurs anytime the gauge is full and **Solid Barrel** is the next action to use.
   * You should **Burst Strike** into **No Mercy** when you will also have **Bloodfest** to avoid drifting the usage for any speed, and to also optimize damage on 2.50.
 
 Once **No Mercy** comes back off cooldown, weave it in accordance with the usage guideline above this section.
 
 - - -
+
 ## BURST PHASE
+
 - - -
 
 The goal of this phase is to fit the maximum amount of potency into **No Mercy**.
@@ -266,7 +271,6 @@ Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.4
   * At 4 targets, do not use **Sonic Break** if you suspect that it will not use it's **entire** damage-over-time duration.
   * At 3 targets, do not use **Sonic Break** if you suspect that it will not use at least **half** of it's damage-over-time duration.
   * At 3+ targets, it is a gain to hold **Sonic Break** out of **No Mercy** if it will let you use another **Fated Circle** in it's place.
-
 
 # Mitigation
 
