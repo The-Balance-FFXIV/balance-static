@@ -165,7 +165,7 @@ We can spend our Chakra on either of the following two oGCDs:
 |                                                 |                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002535_hr1.png) | **The Forbidden Chakra** is a single target attack with a potency of 400. |
-| ![](https://xivapi.com/i/002000/002545_hr1.png) | **Enlightenment** is a line AoE with a potency of 200.                    |
+| ![](https://xivapi.com/i/002000/002545_hr1.png) | **Enlightenment** is a line AoE with a potency of 160.                    |
 
 &nbsp;
 
