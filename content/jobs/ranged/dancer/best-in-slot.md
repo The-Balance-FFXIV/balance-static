@@ -19,10 +19,10 @@ changelog:
   - date: 2025-04-06T01:55:45.232Z
     message: Fixed XIVGear Embeds
 bis:
-  - type: genericiframe
+  - type: xivgear
     name: 7.2 ilvl 760 BiS 2.5 GCD
     link: https://xivgear.app/?page=embed%7Csl%7Cf0c36ece-774f-493c-9f0c-92c29a364fde&onlySetIndex=2
-  - type: genericiframe
+  - type: xivgear
     name: 7.2 ilvl 740 Baseline Set
     link: https://xivgear.app/?page=embed%7Csl%7Cf0c36ece-774f-493c-9f0c-92c29a364fde&onlySetIndex=0
     description: Set for starting savage progression without any gear from weekly
@@ -52,9 +52,9 @@ bis:
     description: ""
     name: 6.50 - DSR BiS 2.49 GCD (with P4S weapon)
     link: fae08d67-fdaf-4494-9920-062524c4b583
-  - type: xivgearset
+  - type: xivgear
     name: 7.2 ilvl 740 niche Week 1 Set
-    link: https://xivgear.app/?page=sl|c0eafba8-dca1-4aee-b09a-6dd09f3bc949
+    link: https://xivgear.app/?page=embed|sl|c0eafba8-dca1-4aee-b09a-6dd09f3bc949
     description: This set maximizes damage for week 1 savage progression with 2
       weeks worth of weekly capped tomestones. Do NOT consider this set if you
       are starting progression later, have already gotten more tomestone gear or
