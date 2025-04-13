@@ -24,11 +24,8 @@ changelog:
 # Gunbreaker Rotation Guide
 
 #### Authors
-
 **Krom Ulus** | discord: krom.ulus\
 **Azazel Raine** | discord: azazelraine
-
-# Intro
 
 **Gunbreaker** is a tank job with a focus on continuously building and spending cartridges to deal very high damage inside of strict burst windows. As a basic overview, the rotation is a builder-spender rotation focused on optimizing damage dealt every minute inside **No Mercy**, which is a 20% damage buff that lasts for 20 seconds after its use.
 
