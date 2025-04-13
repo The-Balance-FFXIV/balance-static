@@ -4,7 +4,7 @@ card_header_image: /img/jobs/gnb/basic.png
 authors:
   - Balance-GNB-Staff
 patch: "7.2"
-lastmod: 2025-04-12T21:06:47.412Z
+lastmod: 2025-04-13T18:59:50.926Z
 changelog:
   - date: 2022-04-05T18:01:38.826Z
     message: Updated for Endwalker
@@ -28,11 +28,7 @@ changelog:
 **Krom Ulus** | discord: krom.ulus\
 **Azazel Raine** | discord: azazelraine
 
-- - -
-
-## Intro
-
-- - -
+# Intro
 
 **Gunbreaker** is a tank job with a focus on continuously building and spending cartridges to deal very high damage inside of strict burst windows. As a basic overview, the rotation is a builder-spender rotation focused on optimizing damage dealt every minute inside **No Mercy**, which is a 20% damage buff that lasts for 20 seconds after its use.
 
@@ -40,7 +36,7 @@ In this guide we will discuss a number of subjects, beginning with a simple intr
 
 - - -
 
-### CARTRIDGE GAUGE
+## CARTRIDGE GAUGE
 
 - - -
 
@@ -57,11 +53,11 @@ The actions that will spend cartridges from the gauge are as follows:
 
 - - -
 
-### NO MERCY AND BUFF PRINCIPLES
+## NO MERCY AND BUFF PRINCIPLES
 
 - - -
 
-#### Section TLDR:
+### Section TLDR:
 
 * All damage is calculated on the frame that an action is cast, not when damage hits a target.
 * Use **No Mercy** off cooldown in accordance with the usage guidelines at the end of this section.
@@ -73,19 +69,19 @@ We need to establish a couple of concepts first regarding both how damage is cal
 
 #### Damage Snapshotting
 
-Damage is calculated by snapshotting all buffs and debuffs at the exact moment the server receives the request to use any action. This means that the damage actually applying to and hitting a target is already calculated before it applies to the target, and that actions are still buffed so long as they are used before the buff falls off, not as the damage lands. Debuff-based damage over time effects work the same way, such as **Sonic Break**.
+Damage is calculated by snapshotting all buffs and debuffs at the exact moment the server receives the request to use any action. This means that the damage actually applying to and hitting a target has already been calculated before it strikes the target. Debuff-based damage over time effects such as **Sonic Break** work the same way, meaning the only thing that matters is what buffs *were* active when it was cast, not what remains active through it's effect duration.
 
-As a result, when playing fast enough GCD speeds this allows us to buff additional GCDs while **No Mercy** is still active without needing **No Mercy** to remain active as that damage lands. It also means that as long as damage-over-time effects fully tick and expire without being wasted, they can go anywhere within **No Mercy**.
+As a result, this allows us to buff a ninth GCD within No Mercy at faster speeds than 2.50. It also means that as long as damage-over-time effects fully tick and expire without being wasted, they can go anywhere within **No Mercy**.
 
 #### 9 GCD No Mercy
 
-An additional 9th GCD into **No Mercy** is typically possible on GCD speeds faster than or equal to 2.47. Thanks to damage snapshotting, we only have to care that the action is pressed while **No Mercy** is active, meaning so as long as the total time to press 9 GCDs is less than 20 seconds, 9 GCDs are possible. Buffing the 9th GCD is very dependent on when **No Mercy** is used relative to the GCD roll and it requires a specific usage timing.
+An additional 9th GCD inside **No Mercy** is typically possible on GCD speeds faster than or equal to 2.47 (albeit theoretically possible anywhere faster than 2.50). Buffing the 9th GCD is very dependent on when **No Mercy** is used relative to the GCD roll and it requires a specific usage timing.
 
-In order to buff a 9th GCD inside **No Mercy**, we must use **No Mercy** as a “late weave”, or cast it in between the bottom left and top left corner of our GCD icon. This makes it so that **No Mercy** will activate right as we press the next GCD, letting us maximize our active usage time of the possible 20 seconds.
+In order to buff a 9th GCD inside **No Mercy**, we must use **No Mercy** as a “late weave”, or cast it in between the bottom left and top left corner of our GCD icon, at the "nine-o-clock" position within the GCD roll. This makes it so that **No Mercy** will activate right as we press the next GCD, letting us maximize our active usage time of the possible 20 seconds.
 
 #### No Mercy Usage Guidelines
 
-Certain GCD speeds are poorly aligned to **No Mercy** and will cause **No Mercy** to drift rather excessively when attempting to cast it, which can drift **No Mercy** away from party buffs. To minimize this as much as possible, there are basic usage guidelines for how and when to cast **No Mercy**.
+Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to drift when attempting to cast it, which can drift **No Mercy** away from party buffs. To minimize this as much as possible, there are basic usage guidelines for how and when to cast **No Mercy** based on GCD speed ranges.
 
 **2.50 GCD**
 
@@ -100,58 +96,49 @@ Certain GCD speeds are poorly aligned to **No Mercy** and will cause **No Mercy*
 
 * Use **No Mercy** as a late weave off cooldown.
 
-- - -
+# **OPENERS**
 
-### **OPENERS**
+## ![2.50 GNB Opener](/img/jobs/gbn/2.5opener_7.1_1.2.png)
 
-- - -
 
-![Gunbreaker Rotation Graphic](/img/jobs/gbn/2.4opener_7.1_1.1.png)
+## ![2.4N GNB Opener](/img/jobs/gbn/2.4opener_7.1_1.1.png)
 
-</br>
-
-![Gunbreaker Rotation Graphic](/img/jobs/gbn/2.5opener_7.1_1.2.png)
-
-</br>
 
 #### OPENER NOTES
 
-* The **Lightning Shot** cast is suggested for pull consistency and raid buff alignment.
-
-  * It does not matter if you are MT or ST, this is always fundamentally true.
-* **Sonic Break** being moved to the 9th GCD in the 2.4n Opener is not a new technique, but for those unfamiliar:
-
+- The **Lightning Shot** cast is suggested for pull consistency and raid buff alignment.
+  - It does not matter if you are MT or ST, this is always fundamentally true.
+  - **Trajectory** can be used at -0.22s to replace **Lightning Shot**.
+  - **Provoke** can be used at -0.6s to replace **Lightning Shot**, but this is not advised without knowing the fight timeline. You may need to swap within the first 30 seconds of the fight.
+- **Sonic Break** being moved to the 9th GCD in the 2.4n Opener is not a new technique, but for those unfamiliar:
   * It is the least risky choice to keep **Hypervelocity** inside of **No Mercy**. (40p gain)
-  * If **Sonic Break** falls out of **No Mercy**, move **Burst Strike** back to the 9th GCD.
+  * If **Sonic Break** falls out of **No Mercy** when trying this, move **Burst Strike** back to the 9th GCD.
   * If **Sonic Break** falls out of raid buffs worth more than 12.1% overall, move﻿﻿ **Burst Strike** back to the 9th GCD.
   * If **Sonic Break** is cut off by downtime, move﻿﻿ **Burst Strike** back to the 9th GCD.
 
-- - -
-
-### **Rotation Fundamentals**
-
-- - -
-
-The simplest explanation of the rotation revolves around a filler and burst phase concept. Review the graphic with the text explanation below it.
+# **Rotation Fundamentals**
 
 ![Gunbreaker Rotation Graphic](/img/jobs/gbn/gnbfundamental_7.1_1.1_experimental.png)
 
 </br>
 
-#### FILLER PHASE
+- - -
+## FILLER PRIORITY SYSTEM
+- - -
 
-The goal of this phase is to prepare the appropriate cartridges for **No Mercy**.
+The goal of this is to prepare the appropriate cartridges for **No Mercy**.
 
-* Complete the **Solid Barrel** combo continuously to fill the gauge.
-* Use **Gnashing Fang** and **Blasting Zone** off cooldown ONCE.
-* Use **Burst Strike** only when the cartridge gauge is about to overcap.
-
+- Complete the **Solid Barrel** combo continuously to fill the gauge.
+- Use **Gnashing Fang** and **Blasting Zone** off cooldown ONCE.
+- Use **Burst Strike** only when the cartridge gauge is about to overcap.
   * This occurs anytime the gauge is full and **Solid Barrel** is the next action to use.
   * You should **Burst Strike** into **No Mercy** when you will also have **Bloodfest** to avoid drifting the usage for any speed, and to also optimize damage on 2.50.
 
 Once **No Mercy** comes back off cooldown, weave it in accordance with the usage guideline above this section.
 
-#### BURST PHASE
+- - -
+## BURST PHASE
+- - -
 
 The goal of this phase is to fit the maximum amount of potency into **No Mercy**.
 
@@ -169,7 +156,8 @@ GCD cooldowns within **No Mercy** should be used in the following priority:
 * Use **Sonic Break** as the 9th GCD on 2.4X GCDs to stop **Hypervelocity** from falling out of **No Mercy**.*
 * Use **Sonic Break** earlier if any DOT uptime is lost from downtime or fight killtime.
 
-\* Note that the usage of **Sonic Break** as the 9th GCD is purely due to the fact that it has no cooldown and is the lowest potency option to place at the 9th GCD in order to keep **Hypervelocity** within **No Mercy** without inducing loss, however you **may not need to do this at all, depending on your GCD and FPS/ping**.
+\* Note that the usage of **Sonic Break** as the 9th GCD is solely due to the fact that it has no cooldown, and is the lowest potency option to place at the 9th GCD in order to keep **Hypervelocity** within **No Mercy** without inducing loss. Other options exist that can remove the threat of wasting DoT time, such as:
+
 * From 2.40 - 2.42, you can use **Burst Strike** last and still use **Hypervelocity** before **No Mercy** ends (with very proper timing of **No Mercy**).
 * **Lionheart** can also take the place of the 9th GCD instead of **Sonic Break**, but it is a higher potency GCD and therefore the chance of it falling out of **No Mercy** makes it a slightly riskier option.
 
@@ -180,21 +168,21 @@ OGCD cooldowns within **No Mercy** should be used in the following priority:
 
 - - -
 
-### UNIQUE BURST PHASES
+## UNIQUE BURST PHASES
 
 - - -
 
 #### Forced 1-Cartridge No Mercy (2.50 Only)
 
-A situation can occur where a **Solid Barrel** would be next action before **No Mercy when Bloodfest is also coming off cooldown, pushing you to 3 cartridges.** Since we'd prefer not to drift **Bloodfest** or enter **No Mercy** with 3 cartridges, what do we do?\
+A situation can occur where a **Solid Barrel** is cast on the same GCD you have **No Mercy with Bloodfest** come off cooldown. Since we'd prefer not to drift **Bloodfest within No Mercy** or enter **No Mercy** with 3 cartridges, what do we do?\
 \
-This graphic is being updated, but the solution is to cast a **Burst Strike** in place of that **Solid Barrel**. This will drive you down to 1 cartridge, where then you can cast **Sonic Break** earlier in your burst window to fill the gap that forms at the first GCD of **No Mercy**. **Gnashing Fang** or **Double Down** (or both) will drift by 1 GCD in the process, but Bloodfest will not.
+The solution is to cast a **Burst Strike** in place of that **Solid Barrel**. This will bring you to 1 cartridge, which will force you to use **Sonic Break** as either the first or second GCD of **No Mercy**. **Gnashing Fang** or **Double Down** (or both) will drift by 1 GCD in the process, but **Bloodfest** and **No Mercy** will not at no loss.
 
 This will be your new burst window until you are forced into two-carting again, and when that happens, you will delay **Bloodfest** by one GCD.
 
 - - -
 
-### COMBO CONSIDERATIONS
+## COMBO CONSIDERATIONS
 
 - - -
 
@@ -202,7 +190,7 @@ This will be your new burst window until you are forced into two-carting again, 
 
 </br>
 
-Certain combo chains cannot be used during other combo chains without breaking one or the other. It is important to understand what you can or cannot press during a combo chain to avoid losing out on significant potency by mistake.
+Certain actions cannot be cast while certain combo chains are active without breaking the presently active combo chain. It is important to understand what you can or cannot press during a combo chain to avoid losing out on significant potency by mistake.
 
 * Your standard **Solid Barrel** combo cannot be broken by anything but itself or its AOE counterpart. 
 * **Gnashing Fang** and **Lionheart** are both broken by the Solid Barrel combo, as well as its AOE counterpart. 
@@ -210,21 +198,21 @@ Certain combo chains cannot be used during other combo chains without breaking o
 
 - - -
 
-### SKILL SPEED CONSIDERATIONS
+## SKILL SPEED CONSIDERATIONS
 
 - - -
 
-#### Section TLDR:
+### Section TLDR:
 
 * GCD cooldowns come off cooldown before **No Mercy** with faster GCDs. Hold them back into **No Mercy**.
 * 2.40, 2.45, and 2.50 are driftless for party raid buffs and **No Mercy**.
-* 2.45 requires less than or equal to 25ms ping (or plugins) to not clip/drift **No Mercy**.
+* 2.45 requires less than or equal to ~50ms ping (or plugins) to not clip/drift **No Mercy**.
 * Other GCDs cause some amount of buff drift, potentially drifting **No Mercy** from raid buffs.
 * This does not mean that other speeds are unplayable or bad, but it does add the risk of losing bonus raid buff damage.
 
 - - -
 
-#### Reverse Drift
+### Reverse Drift
 
 Skill Speed (SKS) modifies GCD cooldowns by reducing their cooldowns by 0.1% per SKS tier. This is done to help GCD cooldowns remain aligned to your GCD and not clip them.
 
@@ -232,7 +220,7 @@ This benefit is not extended to oGCD cooldowns. This is done intentionally to ke
 
 The solution to reverse drift is simple - pretend the cooldown reduction does not exist and hold the GCD cooldowns back into **No Mercy**.
 
-#### Cooldown Drift
+### Cooldown Drift
 
 Similarly to how GCD cooldowns do not align to **No Mercy** with SKS, certain GCDs themselves do not align to oGCD cooldowns either. This causes oGCD cooldowns to occasionally drift into the next GCD because they would otherwise clip the GCD if were you to attempt to use them.
 
@@ -253,36 +241,33 @@ What this means for the rotation is that some GCD speeds are just uniquely worse
 The speeds that do NOT drift **No Mercy** by any significant amount are as follows:
 
 * 2.50 GCD (0.00s drift per use)
-* 2.45 GCD (0.05s drift per every other use) **(PING DEPENDENT - ≤25MS TO NOT CLIP OR DRIFT)**
+* 2.45 GCD (0.05s drift per every other use) **(PING DEPENDENT - ≤50MS TO NOT CLIP OR DRIFT)**
 * 2.40 GCD (0.00s drift per use)
 
 Those three speeds in particular are the most favorable for staying aligned with party buffs. Going from 2.40 to 2.42 would increase the drift rate because it would take longer for **No Mercy** to return to the same ideal usage point, and you can only use the cooldown off cooldown once per drift. In specific, it would cause **2.42 * (1 - (60 / 2.42 - 24) = 0.5s** of drift per **No Mercy**. This drift linearly increases or decreases within the respective speed range of 2.40 - 2.44 as you go slower or faster respectively, and the same holds true of 2.45 - 2.47 which can use **No Mercy** twice off cooldown in between drifts.
 
 Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.42 or something slower, it just means that the *risk* of losing raid buff damage over extended periods of time where raid buffs never realign to you is increased when running other speeds, which can potentially be a damage loss depending on the fight you’re in.
 
-## **AOE Priority**
-
-- - -
+# AOE Priority
 
 ### Level 100
-- Use the **Demon Slaughter** combo on 3 targets or more.
-- Use **Fated Circle** on 2 targets or more.
-- Use **Double Down** on any number of targets, preferably positioning yourself to strike as many targets as possible.
-- Use **Reign of Beasts**' combo on any number of targets, but always try to target the enemy that is closest to as many other enemies as possible, as the damage effect is centered on your current target.
-- Use **Gnashing Fang** on up to 2-3* targets.
-  - **Gnashing Fang** is technically a gain on up to 2 targets when running an AOE-only rotation to a purely infinite duration, but there are a high number of dynamic AOE scenarios that can exist (uneven add health reducing target count on death, thrown off cooldown alignment by moving this action around resulting in future loss, etc.) that would show this action being a gain when used off cooldown on up to 3 targets, so this is what we feel should be the *average* recommendation for most short encounters around 30 seconds in length or anytime one of the 3 targets is nearly dead. 
-  - A good time to consider using **Fated Circle(s)** in place of **Gnashing Fang** at 3 targets is whenever the 3-target AOE encounter will last for more than 30 seconds, or at minimum, whenever skipping or holding a usage would not negatively impact **Gnashing Fang's** alignment throughout the rest of the fight and cause lost usages (or some form of loss within **No Mercy**).
-- Use﻿ **Sonic Break** on up to 4 targets.
-  - At 4 targets, do not use **Sonic Break** if you suspect that it will not use it's **entire** damage-over-time duration.
-  - At 3 targets, do not use **Sonic Break** if you suspect that it will not use at least **half** of it's damage-over-time duration.
-  - At 3+ targets, it is a gain to hold **Sonic Break** out of **No Mercy** if it will let you use another **Fated Circle** in it's place.
+
+* Use the **Demon Slaughter** combo on 3 targets or more.
+* Use **Fated Circle** on 2 targets or more.
+* Use **Double Down** on any number of targets, preferably positioning yourself to strike as many targets as possible.
+* Use **Reign of Beasts**' combo on any number of targets, but always try to target the enemy that is closest to as many other enemies as possible, as the damage effect is centered on your current target.
+* Use **Gnashing Fang** on up to 2-3* targets.
+
+  * **Gnashing Fang** is technically a gain on up to 2 targets when running an AOE-only rotation to a purely infinite duration, but there are a high number of dynamic AOE scenarios that can exist (uneven add health reducing target count on death, thrown off cooldown alignment by moving this action around resulting in future loss, etc.) that would show this action being a gain when used off cooldown on up to 3 targets, so this is what we feel should be the *average* recommendation for most short encounters around 30 seconds in length or anytime one of the 3 targets is nearly dead. 
+  * A good time to consider using **Fated Circle(s)** in place of **Gnashing Fang** at 3 targets is whenever the 3-target AOE encounter will last for more than 30 seconds, or at minimum, whenever skipping or holding a usage would not negatively impact **Gnashing Fang's** alignment throughout the rest of the fight and cause lost usages (or some form of loss within **No Mercy**).
+* Use﻿ **Sonic Break** on up to 4 targets.
+
+  * At 4 targets, do not use **Sonic Break** if you suspect that it will not use it's **entire** damage-over-time duration.
+  * At 3 targets, do not use **Sonic Break** if you suspect that it will not use at least **half** of it's damage-over-time duration.
+  * At 3+ targets, it is a gain to hold **Sonic Break** out of **No Mercy** if it will let you use another **Fated Circle** in it's place.
 
 
-- - -
-
-## Personal Mitigation
-
-- - -
+# Mitigation
 
 #### **Great Nebula**
 
