@@ -292,12 +292,12 @@ Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.4
 
 #### **Aurora**
 
-* Targeted 18 second heal over time effect that heals yourself or your target for 200 potency every 3 seconds (1200 total). 
+* Targeted 18 second heal over time effect that heals yourself or your target for 300 potency every 3 seconds (1800 total). 
 * It has two stacks, which makes it an effective regen effect to apply to any player that requires extra healing over a certain duration.
 
 #### **Superbolide**
 
-* Reduces HP to 1 and renders you impervious to most attacks for 10 seconds.
+* Reduces HP to 50% of your maximum HP and renders you impervious to most attacks for 10 seconds.
 
 #### **Arm’s Length**
 
