@@ -24,11 +24,8 @@ changelog:
 # Gunbreaker Rotation Guide
 
 #### Authors
-
 **Krom Ulus** | discord: krom.ulus\
 **Azazel Raine** | discord: azazelraine
-
-# Intro
 
 **Gunbreaker** is a tank job with a focus on continuously building and spending cartridges to deal very high damage inside of strict burst windows. As a basic overview, the rotation is a builder-spender rotation focused on optimizing damage dealt every minute inside **No Mercy**, which is a 20% damage buff that lasts for 20 seconds after its use.
 
@@ -36,11 +33,11 @@ In this guide we will discuss a number of subjects, beginning with a simple intr
 
 - - -
 
-## CARTRIDGE GAUGE
+## Powder Gauge
 
 - - -
 
-The cartridge gauge carries a maximum of 3 cartridges, and is the resource gauge that we manage in order to carry enough cartridges to cast all of our cooldowns within **No Mercy**.
+The powder gauge (or cartridge gauge) carries a maximum of 3 charges (or cartridges), and is the resource gauge that we manage in order to carry enough cartridges to cast all of our cooldowns within **No Mercy**.
 
 The actions that will fill the cartridge gauge are as follows:
 
@@ -53,7 +50,7 @@ The actions that will spend cartridges from the gauge are as follows:
 
 - - -
 
-## NO MERCY AND BUFF PRINCIPLES
+## Buff Principles & Using No Mercy
 
 - - -
 
@@ -61,7 +58,7 @@ The actions that will spend cartridges from the gauge are as follows:
 
 * Damage calculations occur as soon as you press an action, not when it hits a target.
 * This results in it being possible to get extra GCDs into your buff by casting it later at certain GCD speeds.
-* You should use **No Mercy** off cooldown in accordance with the usage guidelines at the end of this section.
+* Yo should use **No Mercy** off cooldown in accordance with the usage guidelines at the end of this section.
 * Do not attempt to clip the GCD to cast **No Mercy** off cooldown.
 
 - - -
@@ -97,21 +94,22 @@ Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to 
 
 * Use **No Mercy** as a late weave off cooldown.
 
-# **OPENERS**
+# Openers
 
-## ![2.50 GNB Opener](/img/jobs/gbn/2.5opener_7.1_1.2.png)
+![2.50 GNB Opener](/img/jobs/gbn/2.5opener_7.1_1.2.png)
 
-## ![2.4N GNB Opener](/img/jobs/gbn/2.4opener_7.1_1.1.png)
+</br>
 
-#### OPENER NOTES
+![2.4N GNB Opener](/img/jobs/gbn/2.4opener_7.1_1.1.png)
+</br>
 
-* The **Lightning Shot** cast is suggested for pull consistency and raid buff alignment.
+#### Opener Notes
 
-  * It does not matter if you are MT or ST, this is always fundamentally true.
-  * **Trajectory** can be used at -0.22s to replace **Lightning Shot**.
-  * **Provoke** can be used at -0.6s to replace **Lightning Shot**, but this is not advised without knowing the fight timeline. You may need to swap within the first 30 seconds of the fight.
-* **Sonic Break** being moved to the 9th GCD in the 2.4n Opener is not a new technique, but for those unfamiliar:
-
+- The **Lightning Shot** cast is suggested for pull consistency and raid buff alignment.
+  - It does not matter if you are MT or ST, this is always fundamentally true.
+  - **Trajectory** can be used at -0.22s to replace **Lightning Shot**.
+  - **Provoke** can be used at -0.6s to replace **Lightning Shot**, but this is not advised without knowing the fight timeline. You may need to swap within the first 30 seconds of the fight.
+- **Sonic Break** being moved to the 9th GCD in the 2.4n Opener is not a new technique, but for those unfamiliar:
   * It is the least risky choice to keep **Hypervelocity** inside of **No Mercy**. (40p gain)
   * If **Sonic Break** falls out of **No Mercy** when trying this, move **Burst Strike** back to the 9th GCD.
   * If **Sonic Break** falls out of raid buffs worth more than 12.1% overall, move﻿﻿ **Burst Strike** back to the 9th GCD.
@@ -124,26 +122,21 @@ Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to 
 </br>
 
 - - -
-
-## FILLER PRIORITY SYSTEM
-
+## Filler Priority
 - - -
 
 The goal of this is to prepare the appropriate cartridges for **No Mercy**.
 
-* Complete the **Solid Barrel** combo continuously to fill the gauge.
-* Use **Gnashing Fang** and **Blasting Zone** off cooldown ONCE.
-* Use **Burst Strike** only when the cartridge gauge is about to overcap.
-
+- Complete the **Solid Barrel** combo continuously to fill the gauge.
+- Use **Gnashing Fang** and **Blasting Zone** off cooldown ONCE.
+- Use **Burst Strike** only when the cartridge gauge is about to overcap.
   * This occurs anytime the gauge is full and **Solid Barrel** is the next action to use.
   * You should **Burst Strike** into **No Mercy** when you will also have **Bloodfest** to avoid drifting the usage for any speed, and to also optimize damage on 2.50.
 
 Once **No Mercy** comes back off cooldown, weave it in accordance with the usage guideline above this section.
 
 - - -
-
-## BURST PHASE
-
+## Burst Phase
 - - -
 
 The goal of this phase is to fit the maximum amount of potency into **No Mercy**.
@@ -174,7 +167,7 @@ OGCD cooldowns within **No Mercy** should be used in the following priority:
 
 - - -
 
-## UNIQUE BURST PHASES
+## Unique Burst Phases
 
 - - -
 
@@ -188,7 +181,7 @@ This will be your new burst window until you are forced into two-carting again, 
 
 - - -
 
-## COMBO CONSIDERATIONS
+## Combo Considerations
 
 - - -
 
@@ -204,7 +197,7 @@ Certain actions cannot be cast while certain combo chains are active without bre
 
 - - -
 
-## SKILL SPEED CONSIDERATIONS
+## Skill Speed Considerations
 
 - - -
 
@@ -271,6 +264,7 @@ Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.4
   * At 4 targets, do not use **Sonic Break** if you suspect that it will not use it's **entire** damage-over-time duration.
   * At 3 targets, do not use **Sonic Break** if you suspect that it will not use at least **half** of it's damage-over-time duration.
   * At 3+ targets, it is a gain to hold **Sonic Break** out of **No Mercy** if it will let you use another **Fated Circle** in it's place.
+
 
 # Mitigation
 
@@ -371,6 +365,8 @@ Use your cooldowns as follows:
 * Prepull Heart of Corundum early to proc free healing as you are running.
 * Apply Aurora to help buffer into any required healing.
 * Apply Superbolide as needed if healer help is required.
+* Lightly space mitigations out over a couple of GCDs, but ensure most of it is active while the majority of the dungeon targets are alive.
+* If you're playing with a WHM, let them cast Holy on the mobs before mitting.
 
 #### First Wall to Wall:
 
@@ -378,6 +374,7 @@ Use your cooldowns as follows:
 * Heart of Corundum (off cooldown)
 * Reprisal
 * Low Blow (off cooldown)
+* Consider Heart of Light (5% physical)
 
 #### Second Wall to Wall:
 
@@ -385,5 +382,7 @@ Use your cooldowns as follows:
 * Heart of Corundum (off cooldown)
 * Reprisal
 * Low Blow (off cooldown)
+
+After Great Nebula expires, Rampart/Camoflauge/Heart of Light should be coming off cooldown again.
 
 This plan works for the majority of dungeon encounters. However, this may not work out due to poor party DPS and you may have to alter cooldown usage. There’s nothing wrong with taking the next few pulls slow if more cooldowns had to be used than normal.
