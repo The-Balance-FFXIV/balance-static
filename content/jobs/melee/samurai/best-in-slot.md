@@ -29,16 +29,16 @@ changelog:
   - date: 2025-03-30T20:20:25.263Z
     message: Updated for 7.2
 bis:
-  - type: genericiframe
+  - type: xivgear
     description: Classic "Slow SAM". Highest DPS, easiest weaving.
     link: https://xivgear.app/?page=embed%7Csl%7Cf7ebd9ed-ba02-4a45-bd9f-e73a945f22ef
     name: 2.14 Savage BiS
-  - type: genericiframe
+  - type: xivgear
     description: The 2.08 set has a small hit in DPS in exchange for an easier
       looping rotation in full uptime.
     name: 2.08 Savage BiS
     link: https://xivgear.app/?page=embed%7Csl%7Ceb5a0c32-362b-401a-a2a7-cd3ea1178184
-  - type: null
+  - type: plain-text
     description: >-
       Sets for these fights are community-sourced through use of XIVGear. In the
       case of UCOB, UWU, TEA and DSR, you do not NEED those sets to clear -
