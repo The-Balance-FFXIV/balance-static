@@ -59,8 +59,9 @@ The actions that will spend cartridges from the gauge are as follows:
 
 ### Section TLDR:
 
-* All damage is calculated on the frame that an action is cast, not when damage hits a target.
-* Use **No Mercy** off cooldown in accordance with the usage guidelines at the end of this section.
+* Damage calculations occur as soon as you press an action, not when it hits a target.
+* This results in it being possible to get extra GCDs into your buff by casting it later at certain GCD speeds.
+* Yo should use **No Mercy** off cooldown in accordance with the usage guidelines at the end of this section.
 * Do not attempt to clip the GCD to cast **No Mercy** off cooldown.
 
 - - -
