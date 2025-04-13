@@ -312,7 +312,7 @@ Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.4
 
 #### **Heart of Light**
 
-* Reduces **magic damage** taken by 10% for self and party members in a 30y radius around you for 15 seconds.
+* Reduces **magic damage** taken by 10% and **physical damage** taken by 5% for self and party members in a 30y radius around you for 15 seconds.
 
 #### **Reprisal**
 
