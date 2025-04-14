@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dark Knight on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/</link><description>Recent content in Dark Knight on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 26 Mar 2025 15:39:43 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/index.xml" rel="self" type="application/rss+xml"/><item><title>Dark Knight FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/faq/</link><pubDate>Wed, 26 Mar 2025 15:39:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/faq/</guid><description>&lt;h1 id="frequently-asked-questions">Frequently Asked Questions&lt;/h1>
-&lt;h1 id="why-cant-i-fit-five-gcds-in-blood-weapon-or-delirium">Why can’t I fit five GCDs in Blood Weapon (or Delirium)?&lt;/h1>
-&lt;p>The single most likely reason is that you aren’t weaving Blood Weapon late into the GCD. As long as you are weaving Blood Weapon late and keeping the GCD rolling during it, five GCDs in Blood Weapon should be very consistent. With high latency (100+ ms), double weaves can cause the last GCD to fall out of Blood Weapon. It is possible to mitigate some latency by using a gaming VPN (for example, Mudfish or PingZapper).&lt;/p></description></item><item><title>Dark Knight Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/best-in-slot/</link><pubDate>Tue, 25 Mar 2025 19:49:35 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/best-in-slot/</guid><description/></item><item><title>Dark Knight Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/stat-priority/</link><pubDate>Mon, 24 Mar 2025 21:59:58 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/stat-priority/</guid><description/></item><item><title>Dark Knight Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide/</link><pubDate>Mon, 24 Mar 2025 21:58:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide/</guid><description>&lt;h1 id="introduction-to-dark-knight">Introduction to Dark Knight&lt;/h1>
-&lt;h2 id="the-useless-pre-endwalker-guide-by-nikroulah1605-now-updated-for-6x-and-7x">The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x and 7.x).&lt;/h2>
-&lt;hr>
-&lt;h1 id="introduction">Introduction&lt;/h1>
-&lt;p>Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawntrail. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).&lt;/p></description></item><item><title>Dark Knight Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</link><pubDate>Mon, 24 Mar 2025 21:53:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</guid><description>&lt;h1 id="dark-knight-openers-and-rotation">Dark Knight Openers and Rotation&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dark Knight on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/</link><description>Recent content in Dark Knight on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 14 Apr 2025 21:53:32 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/index.xml" rel="self" type="application/rss+xml"/><item><title>Dark Knight Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</link><pubDate>Mon, 14 Apr 2025 21:53:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</guid><description>&lt;h1 id="dark-knight-openers-and-rotation">Dark Knight Openers and Rotation&lt;/h1>
 &lt;h1 id="dark-knight-openers">Dark Knight Openers&lt;/h1>
 &lt;p>DRK is a flexible class, and so specific encounters may benefit from alternate openers.
 Encounter-specific opener information may be found in the drk_encounter channel of the Balance discord, or on fight-specific guides, where applicable.
@@ -17,7 +11,13 @@ This section will list general-purpose DRK openers, which work well for most sit
 &lt;li>Avoid overcapping on MP.&lt;/li>
 &lt;/ul>
 &lt;p>Tanks currently use &lt;strong>Grade 3 Gemdraughts of Strength&lt;/strong>.
-&lt;br>Note that Strength affects both physical and magical skills for tanks.&lt;/p></description></item><item><title>Dark Knight Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/job-changes/</link><pubDate>Mon, 24 Mar 2025 21:46:04 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/job-changes/</guid><description/></item><item><title>Dark Knight Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</link><pubDate>Mon, 24 Mar 2025 21:44:35 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</guid><description>&lt;h1 id="dark-knight-skills-overview">Dark Knight Skills Overview&lt;/h1>
+&lt;br>Note that Strength affects both physical and magical skills for tanks.&lt;/p></description></item><item><title>Dark Knight FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/faq/</link><pubDate>Wed, 26 Mar 2025 15:39:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/faq/</guid><description>&lt;h1 id="frequently-asked-questions">Frequently Asked Questions&lt;/h1>
+&lt;h1 id="why-cant-i-fit-five-gcds-in-blood-weapon-or-delirium">Why can’t I fit five GCDs in Blood Weapon (or Delirium)?&lt;/h1>
+&lt;p>The single most likely reason is that you aren’t weaving Blood Weapon late into the GCD. As long as you are weaving Blood Weapon late and keeping the GCD rolling during it, five GCDs in Blood Weapon should be very consistent. With high latency (100+ ms), double weaves can cause the last GCD to fall out of Blood Weapon. It is possible to mitigate some latency by using a gaming VPN (for example, Mudfish or PingZapper).&lt;/p></description></item><item><title>Dark Knight Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/best-in-slot/</link><pubDate>Tue, 25 Mar 2025 19:49:35 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/best-in-slot/</guid><description/></item><item><title>Dark Knight Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/stat-priority/</link><pubDate>Mon, 24 Mar 2025 21:59:58 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/stat-priority/</guid><description/></item><item><title>Dark Knight Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide/</link><pubDate>Mon, 24 Mar 2025 21:58:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide/</guid><description>&lt;h1 id="introduction-to-dark-knight">Introduction to Dark Knight&lt;/h1>
+&lt;h2 id="the-useless-pre-endwalker-guide-by-nikroulah1605-now-updated-for-6x-and-7x">The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x and 7.x).&lt;/h2>
+&lt;hr>
+&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawntrail. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).&lt;/p></description></item><item><title>Dark Knight Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/job-changes/</link><pubDate>Mon, 24 Mar 2025 21:46:04 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/job-changes/</guid><description/></item><item><title>Dark Knight Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</link><pubDate>Mon, 24 Mar 2025 21:44:35 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</guid><description>&lt;h1 id="dark-knight-skills-overview">Dark Knight Skills Overview&lt;/h1>
 &lt;p>Abilities will be presented in a tabular format for easy reading.&lt;/p>
 &lt;h2 id="actions-used-in-single-target-rotation">Actions used in Single Target Rotation&lt;/h2>
 &lt;table>
@@ -36,7 +36,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[112 367 366 40 80 202]" src="https://xivapi.com/i/003000/003051_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[299 489 258 294 497 164]" src="https://xivapi.com/i/003000/003051_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hard Slash&lt;/td>
@@ -49,7 +49,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[321 268 130 371 327 469]" src="https://xivapi.com/i/003000/003054_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[177 390 251 290 364 267]" src="https://xivapi.com/i/003000/003054_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Syphon Strike&lt;/td>
@@ -62,7 +62,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[106 135 173 330 289 113]" src="https://xivapi.com/i/003000/003055_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[363 274 459 481 221 284]" src="https://xivapi.com/i/003000/003055_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Souleater&lt;/td>
@@ -75,7 +75,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[210 70 123 47 133 13]" src="https://xivapi.com/i/003000/003062_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[459 37 68 244 174 156]" src="https://xivapi.com/i/003000/003062_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Unmend&lt;/td>
@@ -88,7 +88,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[38 18 253 340 9 318]" src="https://xivapi.com/i/003000/003080_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[258 345 417 404 241 127]" src="https://xivapi.com/i/003000/003080_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodspiller&lt;/td>
@@ -101,7 +101,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[214 297 408 441 244 243]" src="https://xivapi.com/i/003000/003086_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[90 263 413 344 348 488]" src="https://xivapi.com/i/003000/003086_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Edge of Shadow&lt;/td>
@@ -114,7 +114,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[403 171 475 240 255 273]" src="https://xivapi.com/i/003000/003078_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[351 41 225 269 468 139]" src="https://xivapi.com/i/003000/003078_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Delirium&lt;/td>
@@ -127,7 +127,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[362 42 165 114 76 30]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003095_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[491 172 407 490 391 173]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003095_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Scarlet Delirium&lt;/td>
@@ -140,7 +140,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[431 69 343 115 275 494]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003096_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[224 181 150 438 213 47]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003096_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Comeuppance&lt;/td>
@@ -153,7 +153,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[78 188 408 275 284 373]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[253 231 255 310 374 305]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Torcleaver&lt;/td>
@@ -166,7 +166,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[199 73 328 64 239 429]" src="https://xivapi.com/i/003000/003058_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[83 426 286 220 294 208]" src="https://xivapi.com/i/003000/003058_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Carve and Spit&lt;/td>
@@ -179,7 +179,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[264 90 31 433 281 461]" src="https://xivapi.com/i/003000/003088_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[459 395 161 235 206 33]" src="https://xivapi.com/i/003000/003088_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Living Shadow&lt;/td>
@@ -192,7 +192,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[207 319 469 41 293 215]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003099_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[113 391 285 403 424 44]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003099_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Disesteem&lt;/td>
@@ -205,7 +205,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[383 344 308 446 86 252]" src="https://xivapi.com/i/003000/003066_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[392 180 46 429 481 355]" src="https://xivapi.com/i/003000/003066_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Salted Earth&lt;/td>
@@ -218,7 +218,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[443 352 157 497 364 40]" src="https://xivapi.com/i/003000/003090_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[123 112 388 184 39 217]" src="https://xivapi.com/i/003000/003090_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Salt and Darkness&lt;/td>
@@ -231,7 +231,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[137 118 180 129 19 364]" src="https://xivapi.com/i/003000/003091_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[28 407 385 497 425 128]" src="https://xivapi.com/i/003000/003091_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadowbringer&lt;/td>
@@ -260,7 +260,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[238 250 139 345 441 77]" src="https://xivapi.com/i/003000/003063_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[449 152 216 28 378 225]" src="https://xivapi.com/i/003000/003063_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Unleash&lt;/td>
@@ -273,7 +273,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[171 152 286 454 66 151]" src="https://xivapi.com/i/003000/003084_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[161 13 358 155 441 293]" src="https://xivapi.com/i/003000/003084_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Stalwart Soul&lt;/td>
@@ -286,7 +286,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[135 10 375 445 5 213]" src="https://xivapi.com/i/003000/003079_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[270 377 326 231 359 33]" src="https://xivapi.com/i/003000/003079_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Quietus&lt;/td>
@@ -299,7 +299,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[88 55 191 7 345 359]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[64 180 403 160 10 323]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Impalement&lt;/td>
@@ -312,7 +312,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[150 460 413 344 500 376]" src="https://xivapi.com/i/003000/003085_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[263 247 55 162 427 440]" src="https://xivapi.com/i/003000/003085_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flood of Shadow&lt;/td>
@@ -325,7 +325,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[353 317 495 224 90 323]" src="https://xivapi.com/i/003000/003064_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[203 359 177 233 455 210]" src="https://xivapi.com/i/003000/003064_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Abyssal Drain&lt;/td>
@@ -354,7 +354,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[86 418 280 190 395 378]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[106 450 138 448 263 132]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Rampart&lt;/td>
@@ -367,7 +367,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[364 390 440 65 63 246]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[315 309 441 443 97 419]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reprisal&lt;/td>
@@ -380,7 +380,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[344 29 296 209 80 268]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[195 299 155 186 375 25]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -393,7 +393,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[13 474 115 221 54 301]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003094_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[217 92 204 231 4 41]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003094_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadowed Vigil&lt;/td>
@@ -406,7 +406,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[325 474 312 458 369 465]" src="https://xivapi.com/i/003000/003076_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[5 219 423 157 355 377]" src="https://xivapi.com/i/003000/003076_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dark Mind&lt;/td>
@@ -419,7 +419,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[50 468 456 154 107 15]" src="https://xivapi.com/i/003000/003077_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[407 131 486 197 360 456]" src="https://xivapi.com/i/003000/003077_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Living Dead&lt;/td>
@@ -432,7 +432,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[143 111 290 211 45 5]" src="https://xivapi.com/i/003000/003087_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[449 126 486 60 135 159]" src="https://xivapi.com/i/003000/003087_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dark Missionary&lt;/td>
@@ -445,7 +445,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[347 489 90 44 404 361]" src="https://xivapi.com/i/003000/003081_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[188 178 351 203 405 201]" src="https://xivapi.com/i/003000/003081_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">The Blackest Night&lt;/td>
@@ -458,7 +458,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[218 266 137 60 115 351]" src="https://xivapi.com/i/003000/003089_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[48 86 355 401 29 273]" src="https://xivapi.com/i/003000/003089_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Oblation&lt;/td>
@@ -487,7 +487,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[36 156 466 57 372 287]" src="https://xivapi.com/i/003000/003070_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[356 86 378 416 101 14]" src="https://xivapi.com/i/003000/003070_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Grit&lt;/td>
@@ -500,7 +500,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[26 140 72 50 59 473]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[78 208 173 485 30 93]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Low Blow&lt;/td>
@@ -513,7 +513,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[262 305 76 88 453 464]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[405 445 208 441 398 37]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Provoke&lt;/td>
@@ -526,7 +526,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[192 343 392 94 346 485]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[395 294 480 184 222 45]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Interject&lt;/td>
@@ -539,7 +539,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[284 199 208 274 437 212]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[469 406 423 284 122 157]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shirk&lt;/td>
@@ -552,7 +552,7 @@ This section will list general-purpose DRK openers, which work well for most sit
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[9 80 409 235 262 18]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003093_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[190 249 412 322 242 83]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003093_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadowstride&lt;/td>
