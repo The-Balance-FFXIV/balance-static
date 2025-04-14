@@ -17,7 +17,6 @@ changelog:
       targeting behavior.
 description: ""
 ---
-
 # Introduction
 
 This guide focuses on advanced level 100 Dark Knight gameplay, and assumes that you are comfortable with the entirety of the Dark Knight kit as well as its opener and rotation. If you are still leveling, you should start with the [leveling guide](/jobs/tanks/dark-knight/leveling-guide), and if you're still learning, you should start with the the [basic guide](/jobs/tanks/dark-knight/basic-guide), and build familiarity with Dark Knight's kit first.
@@ -26,26 +25,26 @@ Trying to apply these techniques before you are fully comfortable with the rotat
 
 # Unmend and GCD Downtime
 
-Some of the best advice you can receive while learning is to Always Be Casting, i.e. making sure your GCD is rolling at all times. However, if you are forced out of melee range of the enemy (we may also say that you _have melee downtime_ or _have GCD downtime_), your options for this are limited.
+Some of the best advice you can receive while learning is to Always Be Casting, i.e. making sure your GCD is rolling at all times. However, if you are forced out of melee range of the enemy (we may also say that you *have melee downtime* or *have GCD downtime*), your options for this are limited.
 Unmend is a pretty bad ability. It has only 150 potency, and, since it is a Spell, it does not benefit from any Skill Speed you may have.
 However, it is often your only option for a GCD that can be used outside of melee range, and especially when getting used to a fight, it is better to use Unmend than to do nothing at all.
 
 In more advanced settings, we can be more nuanced --- for small amounts of GCD downtime, it may not always be correct to keep the GCD rolling with Unmend.
 DRK's Souleater combo has an average potency per GCD of 387, even before counting the resource gain from Syphon Strike and Souleater.
-If we have a downtime of \(x\) seconds (where \(x\) is smaller than 2.50 --- at 2.50 seconds or longer of downtime, Unmend can be freely used without delaying your next melee GCD), using Unmend gives 150 potency, but delays the next GCD by \(2.50 - x\) seconds, relative to if it had not been used.
-On average, this means that using Unmend costs \(\frac{2.50 - x}{\rm{GCD Speed}}\) of an average filler GCD, or \(378 \times \frac{2.50 - x}{\rm{GCD Speed}}\).
-The average potency gain/loss from using Unmend when there are \(x\) seconds remaining of downtime can then be written as \(150 - (378 \times \frac{2.50 - x}{\rm{GCD Speed}})\).
+If we have a downtime of (x) seconds (where (x) is smaller than 2.50 --- at 2.50 seconds or longer of downtime, Unmend can be freely used without delaying your next melee GCD), using Unmend gives 150 potency, but delays the next GCD by (2.50 - x) seconds, relative to if it had not been used.
+On average, this means that using Unmend costs (\frac{2.50 - x}{\rm{GCD Speed}}) of an average filler GCD, or (378 \times \frac{2.50 - x}{\rm{GCD Speed}}).
+The average potency gain/loss from using Unmend when there are (x) seconds remaining of downtime can then be written as (150 - (378 \times \frac{2.50 - x}{\rm{GCD Speed}})).
 When this quantity is positive, you gain damage from using Unmend, and when it is negative, you lose damage from using Unmend.
 
-Setting this equal to zero and solving for \(x\) in terms of GCD speed, we see that the break-even point for using Unmend is when downtime (in seconds) is the result of the following expression:
+Setting this equal to zero and solving for (x) in terms of GCD speed, we see that the break-even point for using Unmend is when downtime (in seconds) is the result of the following expression:
 
 \[
 \begin{aligned}
 2.5 - \left(\frac{150}{378} \times \rm{GCD Speed} \right)
 \end{aligned}
-\]
+]
 
-At a 2.50 GCD, this value is just over \(1.5\), and so using Unmend is a gain (on average) for downtime longer than 1.5 seconds, and a loss for downtime shorter than 1.5 seconds.
+At a 2.50 GCD, this value is just over (1.5), and so using Unmend is a gain (on average) for downtime longer than 1.5 seconds, and a loss for downtime shorter than 1.5 seconds.
 
 Of course, if you know exactly what GCD (if any) will be lost by using Unmend during a short downtime, there is no need to work with averages, and you can calculate for each individual case whether Unmend is a gain or not, but in general, using Unmend only when forced into downtime for more than 1.5 seconds at a time is a safe rule of thumb.
 
@@ -107,14 +106,15 @@ While the standard opener is discussed in the [openers guide](/jobs/tanks/dark-k
 Before thinking about changing the opener for a specific fight, it is important to understand why the opener is the way that it is to begin with.
 
 Ultimately, the opener has four main goals, that are also discussed in the [opener guide](/jobs/tanks/dark-knight/openers#opener-design-goals):
-- Uncap MP and apply Darkside as soon as possible
-- Make sure we get as much damage as we can in buffs
-- Put the highest potency oGCDs on cooldown as soon as possible
-- Making it possible to use your cooldowns as soon as they are off-cooldown and for them to automatically align with future buffs
+
+* Uncap MP and apply Darkside as soon as possible
+* Make sure we get as much damage as we can in buffs
+* Put the highest potency oGCDs on cooldown as soon as possible
+* Make it possible to use your cooldowns as soon as they are off-cooldown and for them to automatically align with future buffs
 
 It's for this reason why, for example, Salted Earth (total potency 800, 500 from Salt and Darkness) is ahead of the first charge of Shadowbringer (600 potency). 
 
-Carve and Spit might seem like an exception, as, while it deals 540 potency itself, it also kind of counts for \(\frac{1}{5}\)th of an Edge of Shadow (92 potency) — however, it's still behind Shadowbringer in the opener. The reason for this is because the 5th Edge of the opener is always going to be after Carve and Spit applies, so the Edge of Shadow you may potentially gain will always be after this point in the opener irrespective of where you put Carve and Spit, which is why the 92 potency of \(\frac{1}{5}\)th of an Edge doesn't 'count' in this analysis. Lastly, putting Carve and Spit here makes it easier to press Carve and Spit off cooldown at any GCD speed without worrying about MP overcap. Moving it earlier might not cause you to overcap on MP during the opener, but could if pressed off cooldown during a future burst.
+Carve and Spit might seem like an exception, as, while it deals 540 potency itself, it also kind of counts for (\frac{1}{5})th of an Edge of Shadow (92 potency) — however, it's still behind Shadowbringer in the opener. The reason for this is because the 5th Edge of the opener is always going to be after Carve and Spit applies, so the Edge of Shadow you may potentially gain will always be after this point in the opener irrespective of where you put Carve and Spit, which is why the 92 potency of (\frac{1}{5})th of an Edge doesn't 'count' in this analysis. Lastly, putting Carve and Spit here makes it easier to press Carve and Spit off cooldown at any GCD speed without worrying about MP overcap. Moving it earlier might not cause you to overcap on MP during the opener, but could if pressed off cooldown during a future burst.
 
 It may seem strange that the opener uses Unmend, given that, [in a previous section](/jobs/tanks/dark-knight/advanced-guide#unmend-and-gcd-downtime), we discussed how much Unmend is not a great ability to press if we can avoid it. However, much like how in that section we discussed how Unmend is worth just over a basic combo GCD, that same logic applies here, too. Since this standard opener is inherently designed for fights with unknown timelines, you may 'gain' or 'lose' a GCD based on where the boss dies or phases using Unmend versus opening with other abilities, since, due to the long application delay of about one second, you can start your GCD one second before the start of the fight. This delay allowing us to start our GCD earlier is what makes Unmend better or roughly equivalent DPS to alternate openers on average. Unmend also has a nice added bonus of giving us a huge buffer of enmity at the start. 
 
@@ -122,7 +122,7 @@ Unmend also has the important property of making our MP align much better during
 
 ## Opening With Shadowstride
 
-Starting your opener with Shadowstride is one option. Shadowstride's application delay of the enmity it grants is 0.22s, so you need to press it roughly between 0.2 and 0.3 seconds prepull to not pull early. As a result, this shifts your GCD 'ahead' of the Unmend opener. Due to the 0.6s animation lock, this would result in your first combo GCD (Hard Slash) starting ~1.5s ahead of the Unmend opener (~0.4s after pull). This can be beneficial in situations where phasing or forced downtime means that you would otherwise clip your GCD or lose a GCD with the Unmend opener. In other words, this shift in GCD start time could be beneficial to make your GCD better align with a fight's mechanics.
+Starting your opener with Shadowstride is one option. Shadowstride's application delay of the enmity it grants is 0.22s, so you need to press it roughly between 0.2 and 0.3 seconds prepull to not pull early. As a result, this shifts your GCD 'ahead' of the Unmend opener. Due to the 0.6s animation lock, this would result in your first combo GCD (Hard Slash) starting \~1.5s ahead of the Unmend opener (\~0.4s after pull). This can be beneficial in situations where phasing or forced downtime means that you would otherwise clip your GCD or lose a GCD with the Unmend opener. In other words, this shift in GCD start time could be beneficial to make your GCD better align with a fight's mechanics.
 
 An astute reader may notice that the amount of GCD that you gain is similar to the identified amount of GCD that [we previously discussed](/jobs/tanks/dark-knight/advanced-guide#unmend-and-gcd-downtime) would make Unmend worth it.
 
@@ -154,7 +154,7 @@ This section provides details on exactly how it works, and the formulae that dif
 
 ## Living Shadow's Abilities, Targeting, and 'Rotation'
 
-Living Shadow spawns Esteem, which, after a ~6.8 second spawn delay, will perform six abilities, with a ~2.18 second delay between each. 
+Living Shadow spawns Esteem, which, after a \~6.8 second spawn delay, will perform six abilities, with a \~2.18 second delay between each. 
 
 Esteem begins searching for a target ~1s after Living Shadow is used, at which point it will lock onto the first enemy you attack. After being 'locked on' to an enemy, it will attempt to execute all of its abilities in sequence on that target until that enemy dies or runs out of abilities. If that enemy dies, Esteem retargets with the same logic but without the delay. In both cases, you must attack an enemy for Esteem to begin or continue its attack sequence.
 
@@ -164,17 +164,12 @@ The abilities Esteem uses share animations, damage types, and areas of effect wi
 
 At level 100, Living Shadow performs the following abilities, in sequence, totaling 2450 potency. Esteem will always stop after executing six abilities:
 
-- Abyssal Drain (AoE, 420 Potency, 0% less to additional targets)
-
-- Shadowstride (Single Target, No Damage)
-
-- Shadowbringer (AoE, 570 Potency, 25% less to additional targets)
-
-- Edge of Shadow (Single Target, 420 Potency)
-
-- Bloodspiller (Single Target, 420 Potency)
-
-- Disesteem (AoE, 620 Potency, 25% less to additional targets)
+* Abyssal Drain (AoE, 420 Potency, 0% less to additional targets)
+* Shadowstride (Single Target, No Damage)
+* Shadowbringer (AoE, 570 Potency, 25% less to additional targets)
+* Edge of Shadow (Single Target, 420 Potency)
+* Bloodspiller (Single Target, 420 Potency)
+* Disesteem (AoE, 620 Potency, 25% less to additional targets)
 
 If the target leaves Esteem's range, Esteem will replace the next ability with Abyssal Drain, and then continue where it was in its sequence. If the target is still out of range after Abyssal Drain, it will replace its next ability with Shadowstride. The only exception to this is if Esteem is out of range for its fifth attack (Bloodspiller), in which case it will replace Bloodspiller with Shadowstride, instead of Abyssal Drain. One quirk of Esteem is that Disesteem is a melee range ability for Esteem, so if Esteem is out of range for Disesteem, it will Abyssal Drain instead.
 
@@ -182,31 +177,28 @@ If the target leaves Esteem's range, Esteem will replace the next ability with A
 
 You may notice that Living Shadow's abilities have higher damage than an ability with equivalent potency from the player. This is due to Living Shadow having a variety of alternate scalings to the player, that, combined, result in higher damage overall. Living Shadow updates buffs and debuffs in real-time, meaning you can use Living Shadow before buffs and have them applied to its abilities if they are applied before it uses that ability. It is not affected by Darkside, but is affected by every other buff (including potions). Unlike some abilities with alternate scalings, its listed potencies are accurate, and using the formulae listed below with the listed potencies, you get accurate damage numbers.
 
-To use an example, in 7.05 2.50 BiS, a 620 potency attack (e.g. Scarlet Delirium) from the player with Darkside active would do on average ~37069 damage, whereas a 620 potency attack from Living Shadow (e.g. Living Shadow's Disesteem) would do on average ~38958 damage (about 5% more). Due to the multitude of formulae involved, there is no simple rule for how different they will be at a given gear level, but in general, the higher your strength, the more damage Living Shadow's abilities will do compared to an equivalent potency ability on the player.
+To use an example, in 7.05 2.50 BiS, a 620 potency attack (e.g. Scarlet Delirium) from the player with Darkside active would do on average \~37069 damage, whereas a 620 potency attack from Living Shadow (e.g. Living Shadow's Disesteem) would do on average \~38958 damage (about 5% more). Due to the multitude of formulae involved, there is no simple rule for how different they will be at a given gear level, but in general, the higher your strength, the more damage Living Shadow's abilities will do compared to an equivalent potency ability on the player.
 
 ### Living Shadow's Scaling: The Specifics
 
 Living Shadow's base strength is calculated differently to the player. In particular:
 
-- Living Shadow's strength does not include the party strength bonus for having different roles in your party (with all roles, this is a usually a 5% boost for the player)
+* Living Shadow's strength does not include the party strength bonus for having different roles in your party (with all roles, this is a usually a 5% boost for the player)
+* Living Shadow does not use your base stats (e.g. 23 base strength that races like The Lost have), and instead uses a base strength of 2. Effectively, this means strength is lowered by around 20, depending on your race (21 for max strength races like Xaela and The Lost)
+* Living Shadow's strength includes all strength bonuses from gear, as normal
 
-- Living Shadow does not use your base stats (e.g. 23 base strength that races like The Lost have), and instead uses a base strength of 2. Effectively, this means strength is lowered by around 20, depending on your race (21 for max strength races like Xaela and The Lost)
-
-- Living Shadow's strength includes all strength bonuses from gear, as normal
-
-To be more specific, Living Shadow's base strength (before strength buffs like potions) is calculated by the following formula (where \(\rm{baseStrength}\) is \(440\) at level 100):
+To be more specific, Living Shadow's base strength (before strength buffs like potions) is calculated by the following formula (where (\rm{baseStrength}) is (440) at level 100):
 
 \[
 \begin{aligned}
 \rm{baseStrength} + \rm{strengthProvidedByGear} + 2
 \end{aligned}
-\]
+]
 
 Living Shadow's weapon damage multiplier is calculated differently to the player. In particular:
 
-- While players would use a weapon damage multiplier of \(115\), Living Shadow uses a slightly lower weapon damage multiplier of \(100\)
-
-- This is typical for all 'pet actions', and generally true for any damage that does not come 'from' the player
+* While players would use a weapon damage multiplier of (115), Living Shadow uses a slightly lower weapon damage multiplier of (100)
+* This is typical for all 'pet actions', and generally true for any damage that does not come 'from' the player
 
 This changes the weapon damage multiplier formula from the following:
 
@@ -214,36 +206,33 @@ This changes the weapon damage multiplier formula from the following:
 \begin{aligned}
 \frac{\left \lfloor{\frac{115 \times \rm{baseStrength}}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
 \end{aligned}
-\]
+]
 
-To the following (where \(\rm{baseStrength}\) is \(440\) at level 100):
+To the following (where (\rm{baseStrength}) is (440) at level 100):
 
 \[
 \begin{aligned}
 \frac{\left \lfloor{\frac{100 \times \rm{baseStrength}}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
 \end{aligned}
-\]
-
+]
 
 Living Shadow's main stat multiplier is calculated differently to the player. In particular:
 
-- The Tank Mastery trait means that tanks have a lower main stat power modifier than other jobs. The modifier varies by level, but at level 100, it is \(190\) for tanks, and \(237\) for all other roles (meaning tanks have ~20% lower main stat scaling than other roles). Living Shadow uses the 'other' scaling
+* The Tank Mastery trait means that tanks have a lower main stat power modifier than other jobs. The modifier varies by level, but at level 100, it is (190) for tanks, and (237) for all other roles (meaning tanks have ~20% lower main stat scaling than other roles). Living Shadow uses the 'other' scaling
+* This means that Living Shadow gains more damage scaling (about 25% higher) from strength than other abilities on Dark Knight
 
-- This means that Living Shadow gains more damage scaling (about 25% higher) from strength than other abilities on Dark Knight
-
-At level 100 (where the main stat multiplier for tanks is \(190\), and other jobs is \(237\)), this changes the main stat multiplier formula from the following (where \(\rm{baseStrength}\) is \(440\) at level 100):
-
+At level 100 (where the main stat multiplier for tanks is (190), and other jobs is (237)), this changes the main stat multiplier formula from the following (where (\rm{baseStrength}) is (440) at level 100):
 
 \[
 \begin{aligned}
 \frac{\left \lfloor{\frac{190 \times \left(\rm{totalStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
 \end{aligned}
-\]
+]
 
-To the following (where \(\rm{livingShadowStrength}\) is calculated via the formula defined above):
+To the following (where (\rm{livingShadowStrength}) is calculated via the formula defined above):
 
 \[
 \begin{aligned}
 \frac{\left \lfloor{\frac{237 \times \left(\rm{livingShadowStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
 \end{aligned}
-\]
+]
