@@ -6,10 +6,13 @@ authors:
   - athunin
   - violet-stardust
 patch: "7.2"
-lastmod: 2025-03-24T21:53:29.839Z
+lastmod: 2025-04-14T21:53:32.621Z
 changelog:
   - date: 2024-07-28T09:27:40.592Z
     message: Updates for 7.0
+  - date: 2025-04-14T21:53:34.790Z
+    message: Minor modification to standard opener, pushing first Edge of Shadow
+      earlier.
 ---
 # Dark Knight Openers and Rotation
 
@@ -31,11 +34,12 @@ Tanks currently use **Grade 3 Gemdraughts of Strength**.
 
 ## Standard Opener
 
-![7.0 Standard Dark Knight Opener](/img/jobs/drk/drk_7.0_standard_opener.png "Standard")
+![7.2 Standard Dark Knight Opener](/img/drk_opener_7_2.png "Standard")
 
 > Text version: <br/>
-> Prepull The Blackest Night (-3), Unmend (-1) + Potion, <br/>
-> Hard Slash + Edge of Shadow + Living Shadow, <br/>
+> Prepull The Blackest Night (-3) <br/> 
+> Unmend (-1), Potion, Edge of Shadow, <br/> 
+> Hard Slash + Living Shadow, <br/>
 > Syphon Strike, <br/>
 > Souleater + Delirium, <br/>
 > Disesteem + Salted Earth + Edge of Shadow, <br/>
@@ -47,13 +51,11 @@ Tanks currently use **Grade 3 Gemdraughts of Strength**.
 ### Opener notes
 * Unmend is used to delay the opener slightly to account for raid buff application time. Use it whether or not you are pulling.
 * Early use of Disesteem (before the Torcleaver combo) avoids some minor MP overcap.
-* At faster speeds (2.47 and faster), weaving the potion late can get an extra Syphon Strike in its window.
-At slower speeds or higher pings, this may cause clipping or be entirely impossible, and the potion can be used at any point after Unmend (or the equiavalent GCD for later burst windows).
 
 ### Optional Modifications
 * If the prepull TBN will not break, it can be left out for a small MP loss. This does not change the rest of the opener substantially, although the last Edge of Shadow may get pushed one GCD further back.
 * Provoke or Shadowstride can be used to pull instead of Unmend, and pulling with Hard Slash is also viable, but each of these options requires adding an extra Hard Slash before Disesteem to ensure that the burst fits into late-applied buffs.
-* Using Hard Slash + Potion + Edge of Shadow, Syphon Strike + Living Shadow for the first two GCDs of the opener can be a tiny gain if you can reliably double weave with a potion.
+* If you cannot fit the Edge of Shadow before Hard Slash without clipping due to, for example, the boss being far away, move it to after Hard Slash. I.e., Unmend -> Potion -> Hard Slash -> Edge of Shadow -> Living Shadow.
 
 - - -
 
