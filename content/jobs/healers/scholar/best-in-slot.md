@@ -95,7 +95,7 @@ bis:
       Tome:
 
 
-      week 1 gloves > week 2 earring week 4 pants > week 5 ring
+      week 1 gloves > week 2 earring > week 4 pants > week 5 ring
   - type: null
     name: Ultimate/criterion sets below
   - type: genericlink
