@@ -56,7 +56,7 @@ bis:
       week 1 gloves > week 2 earring > week 3 wrist > week 4 head > week 6 pants > week 7 ring
     link: https://xivgear.app/?page=embed%7Csl%7Ce5716a38-b081-471b-8cf5-caaa22103d5c
   - type: genericiframe
-    link: https://xivgear.app/?page=embed%7Csl%7C13640f19-e146-47b7-be7a-da32fe8b95ad
+    link: https://xivgear.app/?page=embed%7Csl%7C0e64c435-babe-48aa-be5a-f8bcfe3c06c1
     name: 2.32 GCD
     description: >-
       This set provides the highest simulated DPS. Despite its simulated DPS,
@@ -78,9 +78,9 @@ bis:
       Tome:
 
 
-      week 1 gloves > week 2 earring > week 4 head > week 5 pants > week 6 ring
+      week 1 gloves > week 2 earring > week 4 pants > week 5 head > week 6 ring
   - type: genericiframe
-    link: https://xivgear.app/?page=embed%7Csl%7Cf65731b3-b71e-4686-833a-662e01824612
+    link: https://xivgear.app/?page=embed%7Csl%7C64eeb715-cf59-49c8-a84d-90dc970034b3
     name: 2.31 GCD
     description: >-
       This is a suitable alternative for players who prefer a faster GCD without
@@ -95,7 +95,7 @@ bis:
       Tome:
 
 
-      week 1 gloves > week 2 earring > week 4 head > week 5 pants > week 6 ring
+      week 1 gloves > week 2 earring > week 4 pants > week 5 ring
   - type: null
     name: Ultimate/criterion sets below
   - type: genericlink
