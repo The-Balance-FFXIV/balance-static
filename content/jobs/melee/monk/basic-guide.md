@@ -131,13 +131,13 @@ Our AoE rotation is quite simple. As opposed to other jobs that will have an ent
 
 \**Always crits.*
 
-While the AOE GCDs are very simple in Dawntrail, when to use them at Level 100 is not as obvious. Shadow of the Destroyer is always a gain on 3 targets, Four-Point Fury is only a gain on 4 targets. For Rockbreaker it depends on the amount of Critical Hit one has. We need at minimum 2797 Critical Hit for Rockbreaker to be worth it on 3 targets, otherwise it is only worth it on 4. If a AOE of some form is not worth using on a certain number of targets, we use the regular single target versions of that form.
+While the AOE GCDs are very simple in Dawntrail, when to use them at Level 100 is not as obvious. Shadow of the Destroyer is always a gain on 3 targets, Four-Point Fury is only a gain on 4 targets. For Rockbreaker it depends on the amount of Critical Hit one has. We need at minimum 5035 Critical Hit for Rockbreaker to be worth it on 3 targets, otherwise it is only worth it on 4, this absurd number is probably not attainable in Dawntrail. If a AOE of some form is not worth using on a certain number of targets, we use the regular single target versions of that form.
 
 | **Icon:**          | ![](https://xivapi.com/i/002000/002979_hr1.png) | ![](https://xivapi.com/i/002000/002544_hr1.png) | ![](https://xivapi.com/i/002000/002529_hr1.png) |
 | ------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | **Critical Hit**   | **Shadow of the Destroyer**                     | **Four-Point Fury**                             | **Rockbreaker**                                 |
-| Below 2797         | 3 targets                                       | 4 targets                                       | 4 targets                                       |
-| Above 2797 (incl.) | 3 targets                                       | 4 targets                                       | 3 targets                                       |
+| Below 5035         | 3 targets                                       | 4 targets                                       | 4 targets                                       |
+| Above 5035 (incl.) | 3 targets                                       | 4 targets                                       | 3 targets                                       |
 
 - - -
 
@@ -165,7 +165,7 @@ We can spend our Chakra on either of the following two oGCDs:
 |                                                 |                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002535_hr1.png) | **The Forbidden Chakra** is a single target attack with a potency of 400. |
-| ![](https://xivapi.com/i/002000/002545_hr1.png) | **Enlightenment** is a line AoE with a potency of 200.                    |
+| ![](https://xivapi.com/i/002000/002545_hr1.png) | **Enlightenment** is a line AoE with a potency of 160.                    |
 
 &nbsp;
 

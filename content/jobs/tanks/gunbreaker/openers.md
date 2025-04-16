@@ -3,7 +3,7 @@ title: Gunbreaker Openers
 authors:
   - Balance-GNB-Staff
 patch: "7.2"
-lastmod: 2025-03-24T22:16:28.549Z
+lastmod: 2025-04-16T06:09:52.075Z
 changelog:
   - date: 2021-10-25T21:38:35.164Z
     message: Created article
@@ -27,12 +27,12 @@ Your opener is flexible and **No Mercy** can be used earlier or later than what 
 
 #### OPENERS
 
-![2.50 Opener](/img/jobs/gbn/2.4opener_7.1_1.1.png "2.50 Opener")
+![2.50 Opener](https://u.cubeupload.com/krom/PKVD4O.png "2.50 Opener")
 
 </br>
 
-![2.50 Opener](/img/jobs/gbn/2.5opener_7.1_1.2.png "2.50 Opener")
+![2.40 Opener](https://u.cubeupload.com/krom/sjDxEW.png "2.40 - 2.47 Opener")
 
 </br>
 
-![2.50 Opener](/img/jobs/gbn/gnbfundamental_7.1_1.1_experimental.png "2.50 Opener")
+![Rotation](https://u.cubeupload.com/krom/otFy8D.png "2.50 Opener")
