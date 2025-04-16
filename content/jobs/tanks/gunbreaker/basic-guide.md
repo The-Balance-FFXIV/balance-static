@@ -96,11 +96,11 @@ Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to 
 
 # Openers
 
-![2.50 GNB Opener](/img/jobs/gbn/2.5opener_7.1_1.2.png)
+![2.50 GNB Opener](https://u.cubeupload.com/krom/PKVD4O.png)
 
 </br>
 
-![2.4N GNB Opener](/img/jobs/gbn/2.4opener_7.1_1.1.png)
+![2.4N GNB Opener](https://u.cubeupload.com/krom/sjDxEW.png)
 </br>
 
 #### Opener Notes
@@ -117,7 +117,7 @@ Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to 
 
 # **Rotation Fundamentals**
 
-![Gunbreaker Rotation Graphic](/img/jobs/gbn/gnbfundamental_7.1_1.1_experimental.png)
+![Gunbreaker Rotation Graphic](https://u.cubeupload.com/krom/otFy8D.png)
 
 </br>
 
