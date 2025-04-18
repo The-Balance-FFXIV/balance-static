@@ -234,6 +234,7 @@ The basic AoE priority is as follows:
 
 * **Blazing Shot** on 1-5
 * **Auto Crossbow** on 6+
+* Note that this is with the assumption that you are able to cleave all targets with the oGCDs generated from **Blazing Shot**, since their radius are small (5 yalms), it's important to keep this in mind.
 
 ### Flamethrower
 
