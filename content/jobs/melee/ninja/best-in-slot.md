@@ -27,28 +27,28 @@ changelog:
   - date: 2025-03-30T20:23:23.765Z
     message: Updated for 7.2
 bis:
-  - type: xivgearset
+  - type: xivgear
     name: 7.2 Savage BiS
-    link: 6df7a6e2-c631-4b1d-a955-4db8cdd2a8e5
+    link: https://xivgear.app/?page=embed|sl|6df7a6e2-c631-4b1d-a955-4db8cdd2a8e5&onlySetIndex=0
     description: |-
       Link shows VPR weapon, but NIN weapon has identical stats.\
       \
       Compatible with VPR as long as VPR doesn't want to run any skill speed.
-  - type: xivgearset
+  - type: xivgear
     name: 7.2 Savage Prog Set (Pentamelded)
-    link: 209f0d9c-7d95-4f82-99c4-2457a5e63260
+    link: https://xivgear.app/?page=embed|sl|209f0d9c-7d95-4f82-99c4-2457a5e63260&onlySetIndex=0
     description: Click
       [here](https://xivgear.app/?page=sl%7C059ae508-8767-4efd-b792-93ae0d161415)
       for the full list of prog set options.
-  - type: xivgearset
+  - type: xivgear
     name: 7.2 Savage Prog Set (Budget)
-    link: b6cf0919-5aaf-4816-9ccb-a31a4b16ec57
+    link: https://xivgear.app/?page=embed|sl|b6cf0919-5aaf-4816-9ccb-a31a4b16ec57&onlySetIndex=0
     description: Click
       [here](https://xivgear.app/?page=sl%7C04b2cf0b-aec0-4e75-b0dd-4f8e843ccef4)
       for the full set of prog set options.
-  - type: xivgearset
+  - type: xivgear
     name: 7.2 FRU BiS
-    link: 5cdf3514-c371-4a7f-a661-833d886f8fda
+    link: https://xivgear.app/?page=embed|sl|5cdf3514-c371-4a7f-a661-833d886f8fda&onlySetIndex=0
     description: You can replace the CAR gloves with Darkhorse gloves but only if
       you also replace the Darkhorse boots with CAR boots.
   - type: etro

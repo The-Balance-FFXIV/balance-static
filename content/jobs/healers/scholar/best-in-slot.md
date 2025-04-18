@@ -17,16 +17,11 @@ changelog:
   - date: 2025-04-08T20:29:54.019Z
     message: updated sets to include tome order
 bis:
-  - type: null
-    name: You can find full sheet with more sets in the scholar resources on The
-      Balance discord
-    description: ""
-  - type: null
+  - type: plain-text
     name: Information
     link: ""
     description: >-
-      # information
-
+      You can find full sheets with more sets in the scholar resources on The Balance discord
 
       ## **2.5GCD and 2.49 GCD info:**
 
@@ -42,7 +37,7 @@ bis:
 
 
       If using the Early Refresh(DoT clip) opener: The 2.50 GCD and 2.49 GCD sets will NOT land Biolysis under Chain Stratagem if you use Biolysis AFTER your 6th Energy Drain in the opener (the breakpoint is 2.47 GCD and requires low ping). To fix this, use Biolysis on the same GCD as your 6th Energy Drain.
-  - type: genericiframe
+  - type: xivgear
     name: 2.40 GCD
     description: >-
       This is the generally recommended set. It has great alignment for both
@@ -55,7 +50,7 @@ bis:
 
       week 1 gloves > week 2 earring > week 3 wrist > week 4 head > week 6 pants > week 7 ring
     link: https://xivgear.app/?page=embed%7Csl%7Ce5716a38-b081-471b-8cf5-caaa22103d5c
-  - type: genericiframe
+  - type: xivgear
     link: https://xivgear.app/?page=embed%7Csl%7C0e64c435-babe-48aa-be5a-f8bcfe3c06c1
     name: 2.32 GCD
     description: >-
@@ -79,7 +74,7 @@ bis:
 
 
       week 1 gloves > week 2 earring > week 4 pants > week 5 head > week 6 ring
-  - type: genericiframe
+  - type: xivgear
     link: https://xivgear.app/?page=embed%7Csl%7C64eeb715-cf59-49c8-a84d-90dc970034b3
     name: 2.31 GCD
     description: >-
@@ -96,7 +91,7 @@ bis:
 
 
       week 1 gloves > week 2 earring > week 4 pants > week 5 ring
-  - type: null
+  - type: plain-text
     name: Ultimate/criterion sets below
   - type: genericlink
     name: DSR
@@ -110,11 +105,11 @@ bis:
     link: https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650
   - type: genericlink
     name: Rokkon Aloalo
-    link: https://xivgear.app/?page=bis%7Csch%7Cendwalker%7Canabaseios
-  - type: genericiframe
+    link: https://xivgear.app/?page=bis|sch|endwalker|anabaseios
+  - type: xivgear
     name: FRU 2.50
     link: https://xivgear.app/?page=embed%7Csl%7C95d87ba8-b251-4257-bc2b-c227abb7d321
-  - type: genericiframe
+  - type: xivgear
     name: FRU 2.31
     link: https://xivgear.app/?page=embed%7Csl%7Cc36de212-1ede-466f-a0e0-e80d838fbf49
 authors:
