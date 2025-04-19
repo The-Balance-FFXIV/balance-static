@@ -36,23 +36,23 @@ changelog:
   - date: 2025-03-25T19:49:37.685Z
     message: Added sets for 7.2
 bis:
-  - type: genericiframe
+  - type: xivgear
     name: 7.2 Bis (2.50)
-    link: https://xivgear.app/?page=embed%7Csl%7C0ab7650e-e569-4d09-8893-e081b2465c42&onlySetIndex=0
+    link: https://xivgear.app/?page=embed|sl|0ab7650e-e569-4d09-8893-e081b2465c42&onlySetIndex=0
     description: Speed should be chosen according to comfort, but this set is
       generally recommended.
-  - type: genericiframe
+  - type: xivgear
     name: 7.2 BiS (2.46)
-    link: https://xivgear.app/?page=embed%7Csl%7C0ab7650e-e569-4d09-8893-e081b2465c42&onlySetIndex=1
+    link: https://xivgear.app/?page=embed|sl|0ab7650e-e569-4d09-8893-e081b2465c42&onlySetIndex=1
   - type: genericlink
     name: 7.2 BiS Gearsets
-    link: https://xivgear.app/?page=sl%7C0ab7650e-e569-4d09-8893-e081b2465c42
+    link: https://xivgear.app/#/bis/drk/current
   - type: genericiframe
-    link: https://xivgear.app/?page=embed%7Csl%7Cc39185c8-6896-41db-a352-a504018ee598&onlySetIndex=0
+    link: https://xivgear.app/?page=embed|sl|c39185c8-6896-41db-a352-a504018ee598&onlySetIndex=0
     name: 7.2 Prog Gear (2.50, Tome chest)
   - type: genericlink
     name: 7.2 Prog Gearsets
-    link: https://xivgear.app/?page=sl%7Cc39185c8-6896-41db-a352-a504018ee598
+    link: https://xivgear.app/#/bis/drk/prog
   - type: genericlink
     name: 7.2 FRU Gearsets
     link: https://xivgear.app/#/bis/drk/ultimate/fru
