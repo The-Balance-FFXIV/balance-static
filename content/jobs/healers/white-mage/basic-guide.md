@@ -427,11 +427,6 @@ These macros will drop the ground effect wherever your cursor is. However, given
 
 This option requires setting up your Character Configuration as shown, but will allow you to confirm ground effect placement using the same keybind for the skill itself, which means that using that keybind twice in succession will drop the ground effect on wherever your cursor is. Unlike the macro options, double tap placement does queue like a normal oGCD and can feel smoother to execute for some.
 
-**What if I’m just a casual roulette player?** 
-
-Unless you are specifically aiming to drop every shred of Piety from your gear set, WHM’s MP issues will not affect you in any significant manner.
-
-**In conclusion, WHM’s MP is perfectly fine for progression and casual play,** provided you are not going out of your way to get rid of Piety completely with your gear choices**. In optimization, it becomes more restrictive than other healers in terms of gear choice due to its lack of lossless MP sustain tools.** 
 
 # Gearing and Stats
 
