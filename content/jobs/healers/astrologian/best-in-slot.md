@@ -1,50 +1,50 @@
 ---
 title: Astrologian Best in Slot (BiS)
 layout: bis
-patch: "7.05"
+patch: "7.2"
 lastmod: 2024-01-29T22:59:38.682Z
 changelog:
   - date: 2023-06-13T07:33:46.627Z
     message: Updated for 6.4
   - date: 2024-01-29T22:59:32.336Z
     message: Updated TOP/DSR sets for 6.55
+  - date: 2025-04-18T22:19:49.660Z
+    message: Updated BiS sets for 7.2 Cruiserweight
 bis:
-  - type: genericlink
-    name: Max ilvl Sets
-    link: https://xivgear.app/?page=sl%7Ca5c31c4d-274b-4aa7-af4d-4bd0352aa412
+  - type: xivgear
+    name: (2.32) Kevin harlan
+    link: https://xivgear.app/?page=sl%7Ce53632cc-15a2-4533-84ca-7c8517fd457c
     description: >-
-      Use these sets for GENERAL PURPOSE, such as PF and reclears. The super
-      small damage loss is negligible in these situations, and the much higher
-      survivability matters a lot more. Get your clears. 
+      This set is ideal for players who prefer a faster GCD. It is expected to
+      provide very slightly less DPS than the 2.46 set, but the difference is
+      negligible.
 
 
-      These will also be our sets for ultimate. Prep a set for yourself for the upcoming 7.1 FRU.
-  - type: genericlink
-    name: Lower ilvl, Max Damage sets
-    link: https://xivgear.app/?page=sl%7C2d3f5173-bac8-43e4-be8a-a1d6b1fa66af
+      This set will burn through MP considerably faster than the 2.46 set, so it may not be ideal if you expect to cast multiple raises or do a lot of GCD healing.
+  - type: xivgear
+    name: (2.46) Spero Dedes
+    link: https://xivgear.app/?page=sl%7Cc2b52e7c-c585-46e0-b548-bf488c6c19fd
     description: >-
-      Use these sets for SPEEDRUNNING, and OPTIMIZED ENVIRONMENTS. There is
-      objectively a damage gain to using these, and will be the better choice
-      generally for parse parties and speedrun environments. 
+      This is the generally recommended set. It provides the highest expected
+      DPS, and the relatively slow GCD ensures that you will have plenty of MP
+      for raises and GCD healing. This set should also be identical to the
+      highest DPS sets for both WHM and SGE.
 
 
-      Do NOT use these for ultimate. If I catch any one of you running i710 left side for FRU, I'm cursing you with 0% Oracle crit rate for the rest of eternity.
-  - type: etro
-    description: ""
-    name: SpS Relic - 2.31 TOP
-    link: efd447cd-58db-4469-aa5c-3b84c2033678
-  - type: etro
-    description: ""
-    name: DET Relic - 2.37 TOP
-    link: 1a1ec6b6-7959-4641-bc87-db3ecfb4f139
-  - type: etro
-    description: ""
-    name: SpS Relic - 2.34 DSR
-    link: 94febc10-6779-486b-b57f-7993b766f41e
-  - type: etro
-    description: ""
-    name: DET Relic - 2.39 DSR
-    link: 577e9cb6-3b19-4fe2-b20e-f0a6dac6a241
+      Recommended tomestone buy order: gloves > earrings > wrist > hat > pants > ring
+  - type: xivgear
+    name: FRU - (7.32) Orb
+    link: https://xivgear.app/?page=sl%7Cc2264200-aa9f-4c1f-a467-07dbb25d290b
+    description: With the FRU weapon, you can move melds around to fit in an extra
+      Crit meld on the Tome Ring where you would normally put a SpS.
+  - type: xivgear
+    name: FRU - (2.48) Kaijuu
+    link: https://xivgear.app/?page=sl%7C3ddfd0c8-c6e0-4856-9e5f-e064687fc88a
+    description: With the FRU weapon, you can slot in another DH in the weapon.
+  - type: xivgear
+    name: TOP sets
+    link: https://xivgear.app/?page=sl%7Cf4ac5879-3fac-4886-abf9-560f3b05b5e3
+    description: This is a full sheet of both relic and non-relic options for TOP
 authors:
   - Balance-AST-Staff
   - zyrk
