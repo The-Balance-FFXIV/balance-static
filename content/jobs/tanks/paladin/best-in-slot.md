@@ -29,15 +29,15 @@ bis:
     description: Useful to put in your own gear options.
     name: Gear Planner
     link: https://xivgear.app/
-  - type: genericiframe
+  - type: xivgear
     name: 7.2 BiS
-    link: https://xivgear.app/?page=embed%7Csl%7C4c77ea69-f2d9-4e3e-9f8b-4fc1b054b9ce&onlySetIndex=0
+    link: https://xivgear.app/?page=embed|sl|4c77ea69-f2d9-4e3e-9f8b-4fc1b054b9ce&onlySetIndex=0
   - type: genericlink
     name: 7.2 Prog Sets
-    link: https://xivgear.app/?page=sl%7C3a2bb769-52df-4122-84cc-14044a855b2a
+    link: https://xivgear.app/?page=sl|3a2bb769-52df-4122-84cc-14044a855b2a
   - type: genericlink
     name: 7.15 BiS Sets (applicable for FRU)
-    link: https://xivgear.app/?page=sl%7Cae72faca-c3e9-42a1-a82e-1e2bbf934251
+    link: https://xivgear.app/?page=sl|ae72faca-c3e9-42a1-a82e-1e2bbf934251
     description: This sheet contains the different variations of 7.15 BiS gear, with
       and without the ultimate edenmorn weapon.
   - type: etro
