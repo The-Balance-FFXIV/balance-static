@@ -43,7 +43,7 @@ bis:
     description: With the FRU weapon, you can slot in another DH in the weapon.
   - type: genericlink
     name: TOP sets
-    link: https://xivgear.app/?page=sl%7Cf4ac5879-3fac-4886-abf9-560f3b05b5e3
+    link: https://xivgear.app/?page=sl|f4ac5879-3fac-4886-abf9-560f3b05b5e3
     description: This is a full sheet of both relic and non-relic options for TOP
 authors:
   - Balance-AST-Staff
