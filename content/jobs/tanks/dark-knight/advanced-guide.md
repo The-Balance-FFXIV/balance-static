@@ -5,7 +5,7 @@ authors:
   - Balance-DRK-Staff
   - violet-stardust
 patch: "7.2"
-lastmod: 2025-02-20T04:05:49.586Z
+lastmod: 2025-04-23T23:05:05.331Z
 changelog:
   - date: 2024-11-16T15:17:46.131Z
     message: Updated for 7.1
@@ -15,6 +15,8 @@ changelog:
   - date: 2025-02-20T04:05:51.782Z
     message: Added some minor clarifications and improvements, including Esteem
       targeting behavior.
+  - date: 2025-04-23T23:05:07.665Z
+    message: Added a section on opener variations and application delay ghosting.
 description: ""
 ---
 # Introduction
@@ -33,7 +35,7 @@ In more advanced settings, we can be more nuanced --- for small amounts of GCD d
 DRK's **Souleater** combo has an average potency per GCD of 387, even before counting the resource gain from **Syphon Strike** and **Souleater**.
 If we have a downtime of \(x\) seconds (where \(x\) is smaller than 2.50 --- at 2.50 seconds or longer of downtime, Unmend can be freely used without delaying your next melee GCD), using **Unmend** gives 150 potency, but delays the next GCD by \(2.50 - x\) seconds, relative to if it had not been used.
 On average, this means that using Unmend costs \(\frac{2.50 - x}{\rm{GCD Speed}}\) of an average filler GCD, or \(378 \times \frac{2.50 - x}{\rm{GCD Speed}}\).
-The average potency gain/loss from using Unmend when there are (x) seconds remaining of downtime can then be written as \(150 - (378 \times \frac{2.50 - x}{\rm{GCD Speed}})\).
+The average potency gain/loss from using Unmend when there are \(x\) seconds remaining of downtime can then be written as \(150 - (378 \times \frac{2.50 - x}{\rm{GCD Speed}})\).
 When this quantity is positive, you gain damage from using **Unmend**, and when it is negative, you lose damage from using **Unmend**.
 
 Setting this equal to zero and solving for \(x\) in terms of GCD speed, we see that the break-even point for using **Unmend** is when downtime (in seconds) is the result of the following expression:
@@ -114,7 +116,7 @@ Ultimately, the opener has four main goals, that are also discussed in the [open
 
 It's for this reason why, for example, **Salted Earth** (total potency 800, 500 from Salt and Darkness) is ahead of the first charge of **Shadowbringer** (600 potency). 
 
-**Carve and Spit** might seem like an exception, as, while it deals 540 potency itself, it also kind of counts for (\frac{1}{5}\)th of an **Edge of Shadow** (92 potency) — however, it's still behind **Shadowbringer** in the opener. The reason for this is because the 5th **Edge** of the opener is always going to be after **Carve and Spit** applies, so the **Edge of Shadow** you may potentially gain will always be after this point in the opener irrespective of where you put **Carve and Spit**, which is why the 92 potency of (\frac{1}{5}\)th of an **Edge** doesn't 'count' in this analysis. Lastly, putting **Carve and Spit** here makes it easier to press **Carve and Spit** off cooldown at any GCD speed without worrying about MP overcap. Moving it earlier might not cause you to overcap on MP during the opener, but could if pressed off cooldown during a future burst.
+**Carve and Spit** might seem like an exception, as, while it deals 540 potency itself, it also kind of counts for \(\frac{1}{5}\)th of an **Edge of Shadow** (92 potency) — however, it's still behind **Shadowbringer** in the opener. The reason for this is because the 5th **Edge** of the opener is always going to be after **Carve and Spit** applies, so the **Edge of Shadow** you may potentially gain will always be after this point in the opener irrespective of where you put **Carve and Spit**, which is why the 92 potency of \(\frac{1}{5}\)th of an **Edge** doesn't 'count' in this analysis. Lastly, putting **Carve and Spit** here makes it easier to press **Carve and Spit** off cooldown at any GCD speed without worrying about MP overcap. Moving it earlier might not cause you to overcap on MP during the opener, but could if pressed off cooldown during a future burst.
 
 It may seem strange that the opener uses **Unmend**, given that, [in a previous section](/jobs/tanks/dark-knight/advanced-guide#unmend-and-gcd-downtime), we discussed how much **Unmend** is not a great ability to press if we can avoid it. However, much like how in that section we discussed how **Unmend** is worth just over a basic combo GCD, that same logic applies here, too. Since this standard opener is inherently designed for fights with unknown timelines, you may 'gain' or 'lose' a GCD based on where the boss dies or phases using **Unmend** versus opening with other abilities, since, due to the long application delay of about one second, you can start your GCD one second before the start of the fight. This delay allowing us to start our GCD earlier is what makes **Unmend** better or roughly equivalent DPS to alternate openers on average. **Unmend** also has a nice added bonus of giving us a huge buffer of enmity at the start. 
 
@@ -122,7 +124,7 @@ It may seem strange that the opener uses **Unmend**, given that, [in a previous 
 
 ## Opening With Shadowstride
 
-Starting your opener with **Shadowstride** is one option. **Shadowstride**'s application delay of the enmity it grants is 0.22s, so you need to press it roughly between 0.2 and 0.3 seconds prepull to not pull early. As a result, this shifts your GCD 'ahead' of the Unmend opener. Due to the 0.6s animation lock, this would result in your first combo GCD (Hard Slash) starting \~1.5s ahead of the **Unmend** opener (\~0.4s after pull). This can be beneficial in situations where phasing or forced downtime means that you would otherwise clip your GCD or lose a GCD with the **Unmend** opener. In other words, this shift in GCD start time could be beneficial to make your GCD better align with a fight's mechanics.
+Starting your opener with **Shadowstride** is one option. **Shadowstride**'s application delay of the enmity it grants is 0.22s, so you need to press it roughly between 0.2 and 0.3 seconds prepull to not pull early. As a result, this shifts your GCD 'ahead' of the **Unmend** opener. Due to the 0.6s animation lock, this would result in your first combo GCD (**Hard Slash**) starting \~1.5s ahead of the **Unmend** opener (\~0.4s after pull). This can be beneficial in situations where phasing or forced downtime means that you would otherwise clip your GCD or lose a GCD with the **Unmend** opener. In other words, this shift in GCD start time could be beneficial to make your GCD better align with a fight's mechanics.
 
 An astute reader may notice that the amount of GCD that you gain is similar to the identified amount of GCD that [we previously discussed](/jobs/tanks/dark-knight/advanced-guide#unmend-and-gcd-downtime) would make Unmend worth it.
 
