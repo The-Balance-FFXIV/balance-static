@@ -26,25 +26,25 @@ Trying to apply these techniques before you are fully comfortable with the rotat
 # Unmend and GCD Downtime
 
 Some of the best advice you can receive while learning is to Always Be Casting, i.e. making sure your GCD is rolling at all times. However, if you are forced out of melee range of the enemy (we may also say that you *have melee downtime* or *have GCD downtime*), your options for this are limited.
-Unmend is a pretty bad ability. It has only 150 potency, and, since it is a Spell, it does not benefit from any Skill Speed you may have.
-However, it is often your only option for a GCD that can be used outside of melee range, and especially when getting used to a fight, it is better to use Unmend than to do nothing at all.
+**Unmend** is a pretty bad ability. It has only 150 potency, and, since it is a Spell, it does not benefit from any Skill Speed you may have.
+However, it is often your only option for a GCD that can be used outside of melee range, and especially when getting used to a fight, it is better to use **Unmend** than to do nothing at all.
 
 In more advanced settings, we can be more nuanced --- for small amounts of GCD downtime, it may not always be correct to keep the GCD rolling with **Unmend**.
 DRK's **Souleater** combo has an average potency per GCD of 387, even before counting the resource gain from **Syphon Strike** and **Souleater**.
-If we have a downtime of (x) seconds (where (x) is smaller than 2.50 --- at 2.50 seconds or longer of downtime, Unmend can be freely used without delaying your next melee GCD), using **Unmend** gives 150 potency, but delays the next GCD by (2.50 - x) seconds, relative to if it had not been used.
-On average, this means that using Unmend costs (\frac{2.50 - x}{\rm{GCD Speed}}) of an average filler GCD, or (378 \times \frac{2.50 - x}{\rm{GCD Speed}}).
-The average potency gain/loss from using Unmend when there are (x) seconds remaining of downtime can then be written as (150 - (378 \times \frac{2.50 - x}{\rm{GCD Speed}})).
-When this quantity is positive, you gain damage from using Unmend, and when it is negative, you lose damage from using Unmend.
+If we have a downtime of \(x\) seconds (where \(x\) is smaller than 2.50 --- at 2.50 seconds or longer of downtime, Unmend can be freely used without delaying your next melee GCD), using **Unmend** gives 150 potency, but delays the next GCD by \(2.50 - x\) seconds, relative to if it had not been used.
+On average, this means that using Unmend costs \(\frac{2.50 - x}{\rm{GCD Speed}}\) of an average filler GCD, or \(378 \times \frac{2.50 - x}{\rm{GCD Speed}}\).
+The average potency gain/loss from using Unmend when there are (x) seconds remaining of downtime can then be written as \(150 - (378 \times \frac{2.50 - x}{\rm{GCD Speed}})\).
+When this quantity is positive, you gain damage from using **Unmend**, and when it is negative, you lose damage from using **Unmend**.
 
-Setting this equal to zero and solving for (x) in terms of GCD speed, we see that the break-even point for using **Unmend** is when downtime (in seconds) is the result of the following expression:
+Setting this equal to zero and solving for \(x\) in terms of GCD speed, we see that the break-even point for using **Unmend** is when downtime (in seconds) is the result of the following expression:
 
 \[
 \begin{aligned}
 2.5 - \left(\frac{150}{378} \times \rm{GCD Speed} \right)
 \end{aligned}
-]
+\]
 
-At a 2.50 GCD, this value is just over (1.5), and so using **Unmend** is a gain (on average) for downtime longer than 1.5 seconds, and a loss for downtime shorter than 1.5 seconds.
+At a 2.50 GCD, this value is just over \(1.5\), and so using **Unmend** is a gain (on average) for downtime longer than 1.5 seconds, and a loss for downtime shorter than 1.5 seconds.
 
 Of course, if you know exactly what GCD (if any) will be lost by using **Unmend** during a short downtime, there is no need to work with averages, and you can calculate for each individual case whether **Unmend** is a gain or not, but in general, using **Unmend** only when forced into downtime for more than 1.5 seconds at a time is a safe rule of thumb.
 
@@ -208,7 +208,7 @@ This changes the weapon damage multiplier formula from the following:
 \end{aligned}
 \]
 
-To the following (where \(\rm{baseStrength}\) is (440) at level 100):
+To the following (where \(\rm{baseStrength}\) is \(440\) at level 100):
 
 \[
 \begin{aligned}
