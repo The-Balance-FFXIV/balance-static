@@ -24,7 +24,7 @@ This section will list general-purpose DRK openers, which work well for most sit
 
 ## Opener Design Goals
 * Use as many big hits and spend as much MP as possible inside potion and raid buff windows (which typically come up around the third or fourth GCD). This means that most skills will be delayed until this point.
-* Get Living Shadow out early enough that its attacks fully fit into buffs. Its long spawn animation and the fact that it updates with buffs in real time means that it is best used before buffs come out, unlike skills that apply damage immediately.
+* Get **Living Shadow** out early enough that its attacks fully fit into buffs. Its long spawn animation and the fact that it updates with buffs in real time means that it is best used before buffs come out, unlike skills that apply damage immediately.
 * Use an Edge of Shadow to apply Darkside as early as possible.
 * Avoid overcapping on MP.
 
@@ -95,13 +95,13 @@ For oGCDs:
 
 **Edge of Shadow** and **Bloodspiller** can be delayed without loss, as long as MP and Blood Gauge do not overcap. Dark Knight is thus uniquely able to pool a massive amount of potency for use during party raid buff windows, which typically come every 2 minutes.
 
-Dark Knight generates around 10800 MP per minute, from a combination of **Syphon Strike**, **Carve and Spit**, **Delirium**, and natural MP regen ticks.
+Dark Knight generates around 10800 MP per minute, from a combination of **Syphon Strike**, **Carve and Spit**, **Delirium**, and natural MP regen ticks (which grant 200 MP every three seconds in combat, or 600 MP every three seconds if out of combat).
 This translates to 3.6 MP spenders per minute, or 7.2 spenders per 2 minutes.
 Since at least 2 **Edge/Flood of Shadow** are needed in the odd minutes to maintain Darkside, this leaves at most 5.2 spenders for every even minute, when buffs come out.
-Even going into burst at full MP and using the MP generated from Carve and Spit and Delirium, however, we do not reach 15000 MP.
+Even going into burst at full MP and using the MP generated from **Carve and Spit** and Delirium, however, we do not reach 15000 MP.
 
-To reach 5 **Edge/Flood of Shadow** in buffs, we use The Blackest Night (TBN) earlier, outside of buffs, in order to store a Dark Arts, essentially banking 3000 MP for later.
-With a stored Dark Arts from the previous minute, 9000+ MP, and the MP from **Delirium** and **Carve and Spit**, 5 **Edge/Flood of Shadow** within buffs are possible.
+To reach 5 **Edge/Flood of Shadow** in buffs, we use **The Blackest Night (TBN)** earlier, outside of buffs, in order to store a Dark Arts, essentially banking 3000 MP for later.
+With a stored Dark Arts from the previous minute, 9000+ MP, and the MP from Delirium and **Carve and Spit**, 5 **Edge/Flood of Shadow** within buffs are possible.
 
 This means that damage-optimal MP spending is as follows:
 * 5 **Edge of Shadow** in each buff window (except the opener, where one Edge of Shadow is used outside of buffs to get Darkside).
