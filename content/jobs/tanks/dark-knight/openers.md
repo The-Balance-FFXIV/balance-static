@@ -37,25 +37,25 @@ Tanks currently use **Grade 3 Gemdraughts of Strength**.
 ![7.2 Standard Dark Knight Opener](/img/drk_opener_7_2.png "Standard")
 
 > Text version: <br/>
-> Prepull The Blackest Night (-3) <br/> 
-> Unmend (-1), Potion, Edge of Shadow, <br/> 
-> Hard Slash + Living Shadow, <br/>
-> Syphon Strike, <br/>
-> Souleater + Delirium, <br/>
-> Disesteem + Salted Earth + Edge of Shadow, <br/>
-> Scarlet Delirium + Shadowbringer + Edge of Shadow, <br/>
-> Comeuppance + Carve and Spit + Edge of Shadow, <br/>
-> Torcleaver + Shadowbringer + Edge of Shadow, <br/>
-> Bloodspiller + Salt and Darkness
+> Prepull **The Blackest Night** (-3) <br/> 
+> **Unmend** (-1), Potion, **Edge of Shadow**, <br/> 
+> **Hard Slash** + **Living Shadow**, <br/>
+> **Syphon Strike**, <br/>
+> **Souleater** + **Delirium**, <br/>
+> **Disesteem** + **Salted Earth** + **Edge of Shadow**, <br/>
+> Scarlet Delirium + Shadowbringer + **Edge of Shadow**, <br/>
+> **Comeuppance** + **Carve and Spit** + **Edge of Shadow**, <br/>
+> **Torcleaver** + **Shadowbringer** + **Edge of Shadow**, <br/>
+> **Bloodspiller** + **Salt and Darkness**
 
 ### Opener notes
-* Unmend is used to delay the opener slightly to account for raid buff application time. Use it whether or not you are pulling.
-* Early use of Disesteem (before the Torcleaver combo) avoids some minor MP overcap.
+* **Unmend** is used to delay the opener slightly to account for raid buff application time. Use it whether or not you are pulling.
+* Early use of **Disesteem** (before the **Torcleaver** combo) avoids some minor MP overcap.
 
 ### Optional Modifications
 * If the prepull TBN will not break, it can be left out for a small MP loss. This does not change the rest of the opener substantially, although the last Edge of Shadow may get pushed one GCD further back.
-* Provoke or Shadowstride can be used to pull instead of Unmend, and pulling with Hard Slash is also viable, but each of these options requires adding an extra Hard Slash before Disesteem to ensure that the burst fits into late-applied buffs.
-* If you cannot fit the Edge of Shadow before Hard Slash without clipping due to, for example, the boss being far away, move it to after Hard Slash. I.e., Unmend -> Potion -> Hard Slash -> Edge of Shadow -> Living Shadow.
+* **Provoke** or **Shadowstride** can be used to pull instead of **Unmend**, and pulling with **Hard Slash** is also viable, but each of these options requires adding an extra **Hard Slash** before **Disesteem** to ensure that the burst fits into late-applied buffs.
+* If you cannot fit the **Edge of Shadow** before **Hard Slash** without clipping due to, for example, the boss being far away, move it to after **Hard Slash**. I.e., **Unmend** -> Potion -> **Hard Slash** -> **Edge of Shadow** -> **Living Shadow**.
 
 - - -
 
@@ -67,14 +67,14 @@ Dark Knight’s rotation follows a simple priority system after the opener.
 Burst windows after the opener will look much the same as the opener, except that not all bursts will have Salted Earth.
 
 For GCDs:
-* Use Disesteem and the Torcleaver combo (Scarlet Delirium, Comeuppance, Torcleaver) when under buffs.
-* Use Bloodspiller under raid buffs, or to prevent overcapping on blood.
-* Use the Souleater Combo (Hard Slash, Syphon Strike, Souleater) otherwise.
+* Use **Disesteem** and the **Torcleaver** combo (**Scarlet Delirium**, **Comeuppance**, **Torcleaver**) when under buffs.
+* Use **Bloodspiller** under raid buffs, or to prevent overcapping on blood.
+* Use the **Souleater** Combo (**Hard Slash**, **Syphon Strike**, Souleater) otherwise.
 
 For oGCDs:
 * Use Edge of Shadow under raid buffs, or to prevent overcapping on MP.
 * Hold both charges of Shadowbringer for 2-minute buffs.
-* Use all other damaging/damage-buffing oGCDs (Salted Earth, Delirium, Carve and Spit, etc) on cooldown.
+* Use all other damaging/damage-buffing oGCDs (**Salted Earth**, **Delirium**, **Carve and Spit**, etc) on cooldown.
 
 ## AoE (Multi-Target Rotation)
 
