@@ -33,7 +33,7 @@ In more advanced settings, we can be more nuanced --- for small amounts of GCD d
 DRK's **Souleater** combo has an average potency per GCD of 387, even before counting the resource gain from **Syphon Strike** and **Souleater**.
 If we have a downtime of \(x\) seconds (where \(x\) is smaller than 2.50 --- at 2.50 seconds or longer of downtime, Unmend can be freely used without delaying your next melee GCD), using **Unmend** gives 150 potency, but delays the next GCD by \(2.50 - x\) seconds, relative to if it had not been used.
 On average, this means that using Unmend costs \(\frac{2.50 - x}{\rm{GCD Speed}}\) of an average filler GCD, or \(378 \times \frac{2.50 - x}{\rm{GCD Speed}}\).
-The average potency gain/loss from using Unmend when there are (x) seconds remaining of downtime can then be written as \(150 - (378 \times \frac{2.50 - x}{\rm{GCD Speed}})\).
+The average potency gain/loss from using Unmend when there are \(x\) seconds remaining of downtime can then be written as \(150 - (378 \times \frac{2.50 - x}{\rm{GCD Speed}})\).
 When this quantity is positive, you gain damage from using **Unmend**, and when it is negative, you lose damage from using **Unmend**.
 
 Setting this equal to zero and solving for \(x\) in terms of GCD speed, we see that the break-even point for using **Unmend** is when downtime (in seconds) is the result of the following expression:
