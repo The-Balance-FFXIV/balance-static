@@ -20,8 +20,8 @@ qna:
       Ideally, you should use 5 Edge of Shadow in each 2-minute raid buff window
       (except for the opener, where the first edge is used early to get the
       Darkside buff started). To do this, you use 3 MP spenders in odd minutes,
-      with the last one being The Blackest Night (TBN), and hold the Dark Arts
-      from this TBN breaking until the buff window.
+      with the last one being **The Blackest Night** (TBN), and hold the Dark
+      Arts from this TBN breaking until the buff window.
   - question: Can I use all my MP on The Blackest Night (TBN)?
     answer: >-
       Up to 3 (4 with careful timing, by using TBN during a buff window) MP
@@ -34,17 +34,18 @@ qna:
       It is always better to lose damage in buffs in order to stay alive, and sometimes even to reduce the amount of healing needed.
   - question: Why don't we use Living Shadow prepull/Should I use Living Shadow
       during phase transitions?
-    answer: Using Living Shadow prepull can result in some of its damage coming out
-      before raid buffs. For some phase transitions, you may nevertheless find
-      it useful to use Living Shadow early (up to 6.8s before the enemy becomes
-      targetable), either because buffs are being used immediately when the
-      enemy returns, or because a tight phase timing means that you would lose a
-      usage of Living Shadow by delaying it.
+    answer: Using **Living Shadow** prepull can result in some of its damage coming
+      out before raid buffs. For some phase transitions, you may nevertheless
+      find it useful to use Living Shadow early (up to 6.8s before the enemy
+      becomes targetable), either because buffs are being used immediately when
+      the enemy returns, or because a tight phase timing means that you would
+      lose a usage of Living Shadow by delaying it.
   - question: Why don't we use Delirium earlier/prepull?
-    answer: Using Delirium prepull leads to MP being generated too early, forcing an
-      Edge of Shadow outside of buffs (at the 2 minute and subsequent buff
-      windows). Some fight circumstances may lead to this still being
-      worthwhile, but in general, the later placement of Delirium is better.
+    answer: Using **Delirium** prepull leads to MP being generated too early,
+      forcing an **Edge of Shadow** outside of buffs (at the 2 minute and
+      subsequent buff windows). Some fight circumstances may lead to this still
+      being worthwhile, but in general, the later placement of **Delirium** is
+      better.
   - question: " Why are the oGCDs in the opener ordered the way that they are?"
     answer: The opener is laid out to avoid overcapping on MP both in the opener and
       in future burst windows, and secondarily to maximize the damage you do if
