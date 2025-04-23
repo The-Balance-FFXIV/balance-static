@@ -5,7 +5,7 @@ authors:
   - Balance-DRK-Staff
   - violet-stardust
 patch: "7.2"
-lastmod: 2025-02-20T04:05:49.586Z
+lastmod: 2025-04-23T23:05:05.331Z
 changelog:
   - date: 2024-11-16T15:17:46.131Z
     message: Updated for 7.1
@@ -15,6 +15,8 @@ changelog:
   - date: 2025-02-20T04:05:51.782Z
     message: Added some minor clarifications and improvements, including Esteem
       targeting behavior.
+  - date: 2025-04-23T23:05:07.665Z
+    message: Added a section on opener variations and application delay ghosting.
 description: ""
 ---
 # Introduction
