@@ -29,14 +29,14 @@ Some of the best advice you can receive while learning is to Always Be Casting, 
 Unmend is a pretty bad ability. It has only 150 potency, and, since it is a Spell, it does not benefit from any Skill Speed you may have.
 However, it is often your only option for a GCD that can be used outside of melee range, and especially when getting used to a fight, it is better to use Unmend than to do nothing at all.
 
-In more advanced settings, we can be more nuanced --- for small amounts of GCD downtime, it may not always be correct to keep the GCD rolling with Unmend.
-DRK's Souleater combo has an average potency per GCD of 387, even before counting the resource gain from Syphon Strike and Souleater.
-If we have a downtime of (x) seconds (where (x) is smaller than 2.50 --- at 2.50 seconds or longer of downtime, Unmend can be freely used without delaying your next melee GCD), using Unmend gives 150 potency, but delays the next GCD by (2.50 - x) seconds, relative to if it had not been used.
+In more advanced settings, we can be more nuanced --- for small amounts of GCD downtime, it may not always be correct to keep the GCD rolling with **Unmend**.
+DRK's **Souleater** combo has an average potency per GCD of 387, even before counting the resource gain from **Syphon Strike** and **Souleater**.
+If we have a downtime of (x) seconds (where (x) is smaller than 2.50 --- at 2.50 seconds or longer of downtime, Unmend can be freely used without delaying your next melee GCD), using **Unmend** gives 150 potency, but delays the next GCD by (2.50 - x) seconds, relative to if it had not been used.
 On average, this means that using Unmend costs (\frac{2.50 - x}{\rm{GCD Speed}}) of an average filler GCD, or (378 \times \frac{2.50 - x}{\rm{GCD Speed}}).
 The average potency gain/loss from using Unmend when there are (x) seconds remaining of downtime can then be written as (150 - (378 \times \frac{2.50 - x}{\rm{GCD Speed}})).
 When this quantity is positive, you gain damage from using Unmend, and when it is negative, you lose damage from using Unmend.
 
-Setting this equal to zero and solving for (x) in terms of GCD speed, we see that the break-even point for using Unmend is when downtime (in seconds) is the result of the following expression:
+Setting this equal to zero and solving for (x) in terms of GCD speed, we see that the break-even point for using **Unmend** is when downtime (in seconds) is the result of the following expression:
 
 \[
 \begin{aligned}
@@ -44,58 +44,58 @@ Setting this equal to zero and solving for (x) in terms of GCD speed, we see tha
 \end{aligned}
 ]
 
-At a 2.50 GCD, this value is just over (1.5), and so using Unmend is a gain (on average) for downtime longer than 1.5 seconds, and a loss for downtime shorter than 1.5 seconds.
+At a 2.50 GCD, this value is just over (1.5), and so using **Unmend** is a gain (on average) for downtime longer than 1.5 seconds, and a loss for downtime shorter than 1.5 seconds.
 
-Of course, if you know exactly what GCD (if any) will be lost by using Unmend during a short downtime, there is no need to work with averages, and you can calculate for each individual case whether Unmend is a gain or not, but in general, using Unmend only when forced into downtime for more than 1.5 seconds at a time is a safe rule of thumb.
+Of course, if you know exactly what GCD (if any) will be lost by using **Unmend** during a short downtime, there is no need to work with averages, and you can calculate for each individual case whether **Unmend** is a gain or not, but in general, using **Unmend** only when forced into downtime for more than 1.5 seconds at a time is a safe rule of thumb.
 
-If you do opt to take GCD downtime instead of using Unmend, you should be aware that the clip might mean your GCD won't align as perfectly with oGCDs as it would normally on GCD speeds like 2.50. This isn't inherently an issue, but is something to be aware of.
+If you do opt to take GCD downtime instead of using **Unmend**, you should be aware that the clip might mean your GCD won't align as perfectly with oGCDs as it would normally on GCD speeds like 2.50. This isn't inherently an issue, but is something to be aware of.
 
-It is also worth noting that Disesteem has a range of 10 yalms, meaning that if Disesteem is available, then you should use it over Unmend to deal with melee downtime.
+It is also worth noting that **Disesteem** has a range of 10 yalms, meaning that if Disesteem is available, then you should use it over **Unmend** to deal with melee downtime.
 
 # Application Delay, Resources, and How to Be a Time Criminal
 
 In FFXIV, abilities first consume any resources that they cost, and then apply their effects. The time between the cooldown starting and the ability's effects happening (both *applying* its damage and *applying* its other effects) is called the *application delay* of the ability. This primarily matters for Dark Knight because of Blood Weapon's 600 MP gain on GCDs. This 600 MP is gained upon ability application, which means you can do something that would overcap MP, but spend it by using Edge of Shadow before the ability application. 
 
-For most abilities, the application delay is low enough that we cannot realistically weave an Edge of Shadow before the ability (and MP gain, which could be granted by Blood Weapon) applies. Due to the animation lock being 0.6s, while it is theoretically possible, you cannot use Syphon Strike (which has the 'standard' application delay of 0.62s) and use an Edge of Shadow before you gain the 600 MP from the Syphon Strike in realistic scenarios due to requiring sub-0.02s precision and unrealistically low ping. Comeuppance has a 0.67s application delay, making it slightly more practically possible, but realistically requiring a combination of very low ping and/or plugins to be consistent.
+For most abilities, the application delay is low enough that we cannot realistically weave an **Edge of Shadow** before the ability (and MP gain, which could be granted by **Blood Weapon**) applies. Due to the animation lock being 0.6s, while it is theoretically possible, you cannot use **Syphon Strike** (which has the 'standard' application delay of 0.62s) and use an **Edge of Shadow** before you gain the 600 MP from the **Syphon Strike** in realistic scenarios due to requiring sub-0.02s precision and unrealistically low ping. **Comeuppance** has a 0.67s application delay, making it slightly more practically possible, but realistically requiring a combination of very low ping and/or plugins to be consistent.
 
-However, Disesteem is an exception. Disesteem has a 1.65s application delay, meaning it is not only possible, but very comfortable to perform these 'time crimes' with it at any ping and under any circumstance.
+However, **Disesteem** is an exception. **Disesteem** has a 1.65s application delay, meaning it is not only possible, but very comfortable to perform these 'time crimes' with it at any ping and under any circumstance.
 
-For example, if you have 9600 MP and Blood Weapon active, you can use Disesteem, immediately weave Edge of Shadow, and not overcap MP, as the Edge of Shadow will spend MP before Disesteem (and the Blood Weapon buff that modified it to give you +600 MP) applies. If you were to use Hard Slash in the same situation, you would overcap MP.
+For example, if you have 9600 MP and **Blood Weapon** active, you can use **Disesteem**, immediately weave **Edge of Shadow**, and not overcap MP, as the **Edge of Shadow** will spend MP before **Disesteem** (and the **Blood Weapon** buff that modified it to give you +600 MP) applies. If you were to use **Hard Slash** in the same situation, you would overcap MP.
 
-Another ability where the application delay is worth knowing is Carve and Spit, which has an application delay of 1.47s, similarly allowing an Edge of Shadow weave before the MP gain applies.
+Another ability where the application delay is worth knowing is **Carve and Spit**, which has an application delay of 1.47s, similarly allowing an Edge of Shadow weave before the MP gain applies.
 
-This can come up in practical situations if you are about to enter burst window with an especially high amount of MP. In these situations, you want to save Disesteem for the GCD where you would normally overcap. If you have, for example, 9000 MP and a Dark Arts proc, then with Blood Weapon and Delirium up, using Disesteem -> Edge of Shadow -> Scarlet Delirium -> Edge of Shadow would overcap MP, whereas Scarlet Delirium -> Edge of Shadow -> Disesteem -> Edge of Shadow would not.
+This can come up in practical situations if you are about to enter burst window with an especially high amount of MP. In these situations, you want to save Disesteem for the GCD where you would normally overcap. If you have, for example, 9000 MP and a Dark Arts proc, then with **Blood Weapon** and **Delirium** up, using **Disesteem** -> **Edge of Shadow** -> **Scarlet Delirium** -> **Edge of Shadow** would overcap MP, whereas **Scarlet Delirium** -> **Edge of Shadow** -> **Disesteem** -> **Edge of Shadow** would not.
 
 While the most salient application delays are highlighted in this section, if you're curious about the application delay of every Dark Knight ability, refer to [this spreadsheet](https://docs.google.com/spreadsheets/d/1Emevsz5_oJdmkXy23hZQUXimirZQaoo5BejSzL3hZ9I/edit?gid=0#gid=0).
 
 ## Application Delay and Ghosting
 
-One other notable situation where application delay is relevant is during periods of downtime when a boss phases out, to potentially reappear later. For example, if you use a Bloodspiller (application delay of 0.8s) 0.7s before a boss disappears, then you will have essentially wasted your GCD and 50 Blood, whereas if you were to have used Hard Slash (application delay of 0.58s) it would have applied properly, and the GCD would not have been 'wasted'.
+One other notable situation where application delay is relevant is during periods of downtime when a boss phases out, to potentially reappear later. For example, if you use a **Bloodspiller** (application delay of 0.8s) 0.7s before a boss disappears, then you will have essentially wasted your GCD and 50 Blood, whereas if you were to have used **Hard Slash** (application delay of 0.58s) it would have applied properly, and the GCD would not have been 'wasted'.
 
-Some players refer to using an ability and not having it applied to the boss due to the boss disappearing as having that ability be 'ghosted'. To prevent this 'ghosting', you should be conscious about how you plan a rotation for fights with this kind of downtime, and especially wary not to use high application delay abilities (most notably Bloodspiller, Carve and Spit, and Disesteem) before bosses disappear or phases end.
+Some players refer to using an ability and not having it applied to the boss due to the boss disappearing as having that ability be 'ghosted'. To prevent this 'ghosting', you should be conscious about how you plan a rotation for fights with this kind of downtime, and especially wary not to use high application delay abilities (most notably **Bloodspiller**, **Carve and Spit**, and **Disesteem**) before bosses disappear or phases end.
 
 # Salted Earth and Buff Windows
 
-Salted Earth is unusual in that it has a 90 second cooldown, unlike most other damaging cooldowns in the game, and so it does not always line up with buff windows, which generally happen every 120 seconds.
-Regardless, it is usually best to use Salted Earth off cooldown rather than to save it for buffs, since more uses of any ability will almost always be better than fewer uses in buff windows.
+**Salted Earth** is unusual in that it has a 90 second cooldown, unlike most other damaging cooldowns in the game, and so it does not always line up with buff windows, which generally happen every 120 seconds.
+Regardless, it is usually best to use **Salted Earth** off cooldown rather than to save it for buffs, since more uses of any ability will almost always be better than fewer uses in buff windows.
 
-For a simple example, in a fight that lasts 6:30, using Salted Earth on cooldown gives 5 full usages at (approximately) 0:00, 1:30, 3:00, 4:30, and 6:00.
-Delaying Salted Earth to fit in buffs gives 4 usages, at 0:00, 2:00, 4:00, and 6:00.
+For a simple example, in a fight that lasts 6:30, using **Salted Earth** on cooldown gives 5 full usages at (approximately) 0:00, 1:30, 3:00, 4:30, and 6:00.
+Delaying **Salted Earth** to fit in buffs gives 4 usages, at 0:00, 2:00, 4:00, and 6:00.
 The usages at 0:00 and 6:00 are the same in both cases, and so can be ignored for a comparison.
-With the delay, you trade three unbuffed usages (1:30, 3:00, 4:30) of Salted Earth for two buffed usages (2:00, 4:00).
+With the delay, you trade three unbuffed usages (1:30, 3:00, 4:30) of **Salted Earth** for two buffed usages (2:00, 4:00).
 As such, for this delay to be a gain, a buffed usage needs to be at least 1.5 times as strong as an unbuffed usage, which is not possible with a normal group composition, though could occur due to a special boss debuff or similar.
 
 If you know your killtime (when the boss will die) or a phase timing (when the boss will disappear for a long time, essentially resetting your cooldowns), you may be able to delay Salted Earth to gain more buffed usages without losing overall usages, for an overall damage gain.
 For example, with an 8:30 killtime, delaying your 7:30 Salted Earth to 8:00 exchanges the unbuffed 7:30 usage for a buffed 8:00 usage.
-Alternately, delaying the 1:30 Salted Earth (and all subsequent ones) by 30 seconds moves the 1:30 and 7:30 usages into buffs at 2:00 and 8:00, respectively, in exchange for moving the 6:00 usage (in buffs) to 6:30 (out of buffs).
-Both of these shifts have the same effect on the number of Salted Earth in buff windows, but the second option lets you have Salted Earth in 2:00 and 8:00 potions, rather than the standard 0:00 and 6:00 potion timing.
+Alternately, delaying the 1:30 **Salted Earth** (and all subsequent ones) by 30 seconds moves the 1:30 and 7:30 usages into buffs at 2:00 and 8:00, respectively, in exchange for moving the 6:00 usage (in buffs) to 6:30 (out of buffs).
+Both of these shifts have the same effect on the number of **Salted Earth** in buff windows, but the second option lets you have **Salted Earth** in 2:00 and 8:00 potions, rather than the standard 0:00 and 6:00 potion timing.
 
 ## Salted Earth Buff Snapshotting
 
-Salted Earth snapshots all buffs on the player when cast, but checks damage modifying debuffs (e.g., Chain Stratagem, Dokumori, etc.) on targets every time it ticks for damage.
-Because it is a ground effect ability, Salted Earth also gains a free tick on all targets in range immediately when cast, giving it 300 total potential potency (which is slightly increased by the skill speed DoT scalar).
+**Salted Earth** snapshots all buffs on the player when cast, but checks damage modifying debuffs (e.g., **Chain Stratagem**, **Dokumori**, etc.) on targets every time it ticks for damage.
+Because it is a ground effect ability, **Salted Earth** also gains a free tick on all targets in range immediately when cast, giving it 300 total potential potency (which is slightly increased by the skill speed DoT scalar).
 
-Salt and Darkness, Salted Earth's follow-up ability, snapshots buffs independently of Salted Earth, and snapshots both buffs on the player and damage modifying debuffs when it is used, separately from Salted Earth.
+**Salt and Darkness**, **Salted Earth**'s follow-up ability, snapshots buffs independently of **Salted Earth**, and snapshots both buffs on the player and damage modifying debuffs when it is used, separately from **Salted Earth**.
 
 # Opener Variations
 
@@ -112,21 +112,21 @@ Ultimately, the opener has four main goals, that are also discussed in the [open
 * Put the highest potency oGCDs on cooldown as soon as possible
 * Make it possible to use your cooldowns as soon as they are off-cooldown and for them to automatically align with future buffs
 
-It's for this reason why, for example, Salted Earth (total potency 800, 500 from Salt and Darkness) is ahead of the first charge of Shadowbringer (600 potency). 
+It's for this reason why, for example, **Salted Earth** (total potency 800, 500 from Salt and Darkness) is ahead of the first charge of **Shadowbringer** (600 potency). 
 
-Carve and Spit might seem like an exception, as, while it deals 540 potency itself, it also kind of counts for (\frac{1}{5})th of an Edge of Shadow (92 potency) — however, it's still behind Shadowbringer in the opener. The reason for this is because the 5th Edge of the opener is always going to be after Carve and Spit applies, so the Edge of Shadow you may potentially gain will always be after this point in the opener irrespective of where you put Carve and Spit, which is why the 92 potency of (\frac{1}{5})th of an Edge doesn't 'count' in this analysis. Lastly, putting Carve and Spit here makes it easier to press Carve and Spit off cooldown at any GCD speed without worrying about MP overcap. Moving it earlier might not cause you to overcap on MP during the opener, but could if pressed off cooldown during a future burst.
+**Carve and Spit** might seem like an exception, as, while it deals 540 potency itself, it also kind of counts for (\frac{1}{5}\)th of an **Edge of Shadow** (92 potency) — however, it's still behind **Shadowbringer** in the opener. The reason for this is because the 5th **Edge** of the opener is always going to be after **Carve and Spit** applies, so the **Edge of Shadow** you may potentially gain will always be after this point in the opener irrespective of where you put **Carve and Spit**, which is why the 92 potency of (\frac{1}{5}\)th of an **Edge** doesn't 'count' in this analysis. Lastly, putting **Carve and Spit** here makes it easier to press **Carve and Spit** off cooldown at any GCD speed without worrying about MP overcap. Moving it earlier might not cause you to overcap on MP during the opener, but could if pressed off cooldown during a future burst.
 
-It may seem strange that the opener uses Unmend, given that, [in a previous section](/jobs/tanks/dark-knight/advanced-guide#unmend-and-gcd-downtime), we discussed how much Unmend is not a great ability to press if we can avoid it. However, much like how in that section we discussed how Unmend is worth just over a basic combo GCD, that same logic applies here, too. Since this standard opener is inherently designed for fights with unknown timelines, you may 'gain' or 'lose' a GCD based on where the boss dies or phases using Unmend versus opening with other abilities, since, due to the long application delay of about one second, you can start your GCD one second before the start of the fight. This delay allowing us to start our GCD earlier is what makes Unmend better or roughly equivalent DPS to alternate openers on average. Unmend also has a nice added bonus of giving us a huge buffer of enmity at the start. 
+It may seem strange that the opener uses **Unmend**, given that, [in a previous section](/jobs/tanks/dark-knight/advanced-guide#unmend-and-gcd-downtime), we discussed how much **Unmend** is not a great ability to press if we can avoid it. However, much like how in that section we discussed how **Unmend** is worth just over a basic combo GCD, that same logic applies here, too. Since this standard opener is inherently designed for fights with unknown timelines, you may 'gain' or 'lose' a GCD based on where the boss dies or phases using **Unmend** versus opening with other abilities, since, due to the long application delay of about one second, you can start your GCD one second before the start of the fight. This delay allowing us to start our GCD earlier is what makes **Unmend** better or roughly equivalent DPS to alternate openers on average. **Unmend** also has a nice added bonus of giving us a huge buffer of enmity at the start. 
 
-Unmend also has the important property of making our MP align much better during later bursts. Without it, the 6m burst can come extremely close to overcapping on MP without extreme care taken. It does this while also making sure our our big cooldowns align perfectly with when buffs come up from other jobs. If you're changing your opener to something that doesn't start with Unmend, and especially at faster speeds, you need to be a lot more wary about overcapping MP in future bursts.
+**Unmend** also has the important property of making our MP align much better during later bursts. Without it, the 6m burst can come extremely close to overcapping on MP without extreme care taken. It does this while also making sure our our big cooldowns align perfectly with when buffs come up from other jobs. If you're changing your opener to something that doesn't start with Unmend, and especially at faster speeds, you need to be a lot more wary about overcapping MP in future bursts.
 
 ## Opening With Shadowstride
 
-Starting your opener with Shadowstride is one option. Shadowstride's application delay of the enmity it grants is 0.22s, so you need to press it roughly between 0.2 and 0.3 seconds prepull to not pull early. As a result, this shifts your GCD 'ahead' of the Unmend opener. Due to the 0.6s animation lock, this would result in your first combo GCD (Hard Slash) starting \~1.5s ahead of the Unmend opener (\~0.4s after pull). This can be beneficial in situations where phasing or forced downtime means that you would otherwise clip your GCD or lose a GCD with the Unmend opener. In other words, this shift in GCD start time could be beneficial to make your GCD better align with a fight's mechanics.
+Starting your opener with **Shadowstride** is one option. **Shadowstride**'s application delay of the enmity it grants is 0.22s, so you need to press it roughly between 0.2 and 0.3 seconds prepull to not pull early. As a result, this shifts your GCD 'ahead' of the Unmend opener. Due to the 0.6s animation lock, this would result in your first combo GCD (Hard Slash) starting \~1.5s ahead of the **Unmend** opener (\~0.4s after pull). This can be beneficial in situations where phasing or forced downtime means that you would otherwise clip your GCD or lose a GCD with the **Unmend** opener. In other words, this shift in GCD start time could be beneficial to make your GCD better align with a fight's mechanics.
 
 An astute reader may notice that the amount of GCD that you gain is similar to the identified amount of GCD that [we previously discussed](/jobs/tanks/dark-knight/advanced-guide#unmend-and-gcd-downtime) would make Unmend worth it.
 
-Another thing this opener changes is the points available to weave oGCDs. If you're opening with Shadowstride, you should delay Living Shadow until after Syphon Strike to make sure its first attack is still in any buffs, and it also means that your ideal oGCDs after Hard Slash are a potion followed by Edge of Shadow. You can use Delirium after Souleater and then proceed with the rest of the opener as normal. This will push these abilities slightly earlier compared to where they normally would be (by about one second), accounting for the shift in GCD start time.
+Another thing this opener changes is the points available to weave oGCDs. If you're opening with **Shadowstride**, you should delay **Living Shadow** until after **Syphon Strike** to make sure its first attack is still in any buffs, and it also means that your ideal oGCDs after **Hard Slash** are a potion followed by **Edge of Shadow**. You can use Delirium after **Souleater** and then proceed with the rest of the opener as normal. This will push these abilities slightly earlier compared to where they normally would be (by about one second), accounting for the shift in GCD start time.
 
 ## Breaking TBN Pre-pull If Possible
 
@@ -134,7 +134,7 @@ There are some encounters, such as Dawntrail's second Extreme, M3N, and P10S, wh
 
 For some encounters (like P10S), while this is possible, it can take some time to stabilize the Dark Knight, so if you do want to do this trick, it's recommended to save this only for fights where this is a simple break, or for organized groups if doing this trick would inconvenience the party.
 
-If starting the fight with 10k MP and a Dark Arts proc, try to open with Unmend -> Edge -> Hard Slash -> Edge -> Living Shadow (and then continue as normal) when possible, to result in the lowest amount of wasted MP gain.
+If starting the fight with 10k MP and a Dark Arts proc, try to open with **Unmend** -> **Edge** -> **Hard Slash** -> **Edge** -> **Living Shadow** (and then continue as normal) when possible, to result in the lowest amount of wasted MP gain.
 
 # How Does Passive MP Gain Work Exactly?
 
@@ -148,56 +148,56 @@ For the most part, in unorganized settings where the party isn't trying to align
 
 # How Does Living Shadow Work Exactly?
 
-Living Shadow is a very unique ability.
+**Living Shadow** is a very unique ability.
 Esteem abilities work uniquely, and each of them has unique strength scaling and an alternate weapon damage scaling.
-This section provides details on exactly how it works, and the formulae that differ between Living Shadow's abilities and Dark Knight's normal abilities.
+This section provides details on exactly how it works, and the formulae that differ between **Living Shadow**'s abilities and Dark Knight's normal abilities.
 
 ## Living Shadow's Abilities, Targeting, and 'Rotation'
 
-Living Shadow spawns Esteem, which, after a \~6.8 second spawn delay, will perform six abilities, with a \~2.18 second delay between each. 
+**Living Shadow** spawns Esteem, which, after a \~6.8 second spawn delay, will perform six abilities, with a \~2.18 second delay between each. 
 
-Esteem begins searching for a target ~1s after Living Shadow is used, at which point it will lock onto the first enemy you attack. After being 'locked on' to an enemy, it will attempt to execute all of its abilities in sequence on that target until that enemy dies or runs out of abilities. If that enemy dies, Esteem retargets with the same logic but without the delay. In both cases, you must attack an enemy for Esteem to begin or continue its attack sequence.
+Esteem begins searching for a target ~1s after **Living Shadow** is used, at which point it will lock onto the first enemy you attack. After being 'locked on' to an enemy, it will attempt to execute all of its abilities in sequence on that target until that enemy dies or runs out of abilities. If that enemy dies, Esteem retargets with the same logic but without the delay. In both cases, you must attack an enemy for Esteem to begin or continue its attack sequence.
 
 Target selection is based off of cast event rather than damage application. Using a skill with a long application delay immediately after summoning will not lock Esteem's target despite dealing damage after the ~1s wait is over. Conversely, using a long-delay skill on one enemy followed by a short-delay skill on another will lock Esteem onto the first target even if the second enemy takes damage first.
 
-The abilities Esteem uses share animations, damage types, and areas of effect with the player's abilities, but have their own potencies independent of the skills they mimic. For example, if Bloodspiller gets a potency buff, then Living Shadow's Bloodspiller does not gain the same potency buff.
+The abilities Esteem uses share animations, damage types, and areas of effect with the player's abilities, but have their own potencies independent of the skills they mimic. For example, if **Bloodspiller** gets a potency buff, then **Living Shadow**'s **Bloodspiller** does not gain the same potency buff.
 
-At level 100, Living Shadow performs the following abilities, in sequence, totaling 2450 potency. Esteem will always stop after executing six abilities:
+At level 100, **Living Shadow** performs the following abilities, in sequence, totaling 2450 potency. **Esteem** will always stop after executing six abilities:
 
-* Abyssal Drain (AoE, 420 Potency, 0% less to additional targets)
-* Shadowstride (Single Target, No Damage)
-* Shadowbringer (AoE, 570 Potency, 25% less to additional targets)
-* Edge of Shadow (Single Target, 420 Potency)
-* Bloodspiller (Single Target, 420 Potency)
-* Disesteem (AoE, 620 Potency, 25% less to additional targets)
+* **Abyssal Drain** (AoE, 420 Potency, 0% less to additional targets)
+* **Shadowstride** (Single Target, No Damage)
+* **Shadowbringer** (AoE, 570 Potency, 25% less to additional targets)
+* **Edge of Shadow** (Single Target, 420 Potency)
+* **Bloodspiller** (Single Target, 420 Potency)
+* **Disesteem** (AoE, 620 Potency, 25% less to additional targets)
 
-If the target leaves Esteem's range, Esteem will replace the next ability with Abyssal Drain, and then continue where it was in its sequence. If the target is still out of range after Abyssal Drain, it will replace its next ability with Shadowstride. The only exception to this is if Esteem is out of range for its fifth attack (Bloodspiller), in which case it will replace Bloodspiller with Shadowstride, instead of Abyssal Drain. One quirk of Esteem is that Disesteem is a melee range ability for Esteem, so if Esteem is out of range for Disesteem, it will Abyssal Drain instead.
+If the target leaves Esteem's range, Esteem will replace the next ability with **Abyssal Drain**, and then continue where it was in its sequence. If the target is still out of range after **Abyssal Drain**, it will replace its next ability with **Shadowstride**. The only exception to this is if Esteem is out of range for its fifth attack (**Bloodspiller**), in which case it will replace **Bloodspiller** with **Shadowstride**, instead of **Abyssal Drain**. One quirk of Esteem is that **Disesteem** is a melee range ability for **Esteem**, so if Esteem is out of range for **Disesteem**, it will **Abyssal Drain** instead.
 
 ## Living Shadow's Scaling
 
 You may notice that Living Shadow's abilities have higher damage than an ability with equivalent potency from the player. This is due to Living Shadow having a variety of alternate scalings to the player, that, combined, result in higher damage overall. Living Shadow updates buffs and debuffs in real-time, meaning you can use Living Shadow before buffs and have them applied to its abilities if they are applied before it uses that ability. It is not affected by Darkside, but is affected by every other buff (including potions). Unlike some abilities with alternate scalings, its listed potencies are accurate, and using the formulae listed below with the listed potencies, you get accurate damage numbers.
 
-To use an example, in 7.05 2.50 BiS, a 620 potency attack (e.g. Scarlet Delirium) from the player with Darkside active would do on average \~37069 damage, whereas a 620 potency attack from Living Shadow (e.g. Living Shadow's Disesteem) would do on average \~38958 damage (about 5% more). Due to the multitude of formulae involved, there is no simple rule for how different they will be at a given gear level, but in general, the higher your strength, the more damage Living Shadow's abilities will do compared to an equivalent potency ability on the player.
+To use an example, in 7.05 2.50 BiS, a 620 potency attack (e.g. **Scarlet Delirium**) from the player with Darkside active would do on average \~37069 damage, whereas a 620 potency attack from **Living Shadow** (e.g. **Living Shadow**'s **Disesteem**) would do on average \~38958 damage (about 5% more). Due to the multitude of formulae involved, there is no simple rule for how different they will be at a given gear level, but in general, the higher your strength, the more damage **Living Shadow**'s abilities will do compared to an equivalent potency ability on the player.
 
 ### Living Shadow's Scaling: The Specifics
 
-Living Shadow's base strength is calculated differently to the player. In particular:
+**Living Shadow**'s base strength is calculated differently to the player. In particular:
 
-* Living Shadow's strength does not include the party strength bonus for having different roles in your party (with all roles, this is a usually a 5% boost for the player)
-* Living Shadow does not use your base stats (e.g. 23 base strength that races like The Lost have), and instead uses a base strength of 2. Effectively, this means strength is lowered by around 20, depending on your race (21 for max strength races like Xaela and The Lost)
-* Living Shadow's strength includes all strength bonuses from gear, as normal
+* **Living Shadow**'s strength does not include the party strength bonus for having different roles in your party (with all roles, this is a usually a 5% boost for the player)
+* **Living Shadow** does not use your base stats (e.g. 23 base strength that races like The Lost have), and instead uses a base strength of 2. Effectively, this means strength is lowered by around 20, depending on your race (21 for max strength races like Xaela and The Lost)
+* **Living Shadow**'s strength includes all strength bonuses from gear, as normal
 
-To be more specific, Living Shadow's base strength (before strength buffs like potions) is calculated by the following formula (where (\rm{baseStrength}) is (440) at level 100):
+To be more specific, **Living Shadow**'s base strength (before strength buffs like potions) is calculated by the following formula (where \(\rm{baseStrength}\) is (440) at level 100):
 
 \[
 \begin{aligned}
 \rm{baseStrength} + \rm{strengthProvidedByGear} + 2
 \end{aligned}
-]
+\]
 
-Living Shadow's weapon damage multiplier is calculated differently to the player. In particular:
+**Living Shadow**'s weapon damage multiplier is calculated differently to the player. In particular:
 
-* While players would use a weapon damage multiplier of (115), Living Shadow uses a slightly lower weapon damage multiplier of (100)
+* While players would use a weapon damage multiplier of \(115\), **Living Shadow** uses a slightly lower weapon damage multiplier of \(100\)
 * This is typical for all 'pet actions', and generally true for any damage that does not come 'from' the player
 
 This changes the weapon damage multiplier formula from the following:
@@ -206,33 +206,33 @@ This changes the weapon damage multiplier formula from the following:
 \begin{aligned}
 \frac{\left \lfloor{\frac{115 \times \rm{baseStrength}}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
 \end{aligned}
-]
+\]
 
-To the following (where (\rm{baseStrength}) is (440) at level 100):
+To the following (where \(\rm{baseStrength}\) is (440) at level 100):
 
 \[
 \begin{aligned}
 \frac{\left \lfloor{\frac{100 \times \rm{baseStrength}}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
 \end{aligned}
-]
+\]
 
 Living Shadow's main stat multiplier is calculated differently to the player. In particular:
 
-* The Tank Mastery trait means that tanks have a lower main stat power modifier than other jobs. The modifier varies by level, but at level 100, it is (190) for tanks, and (237) for all other roles (meaning tanks have ~20% lower main stat scaling than other roles). Living Shadow uses the 'other' scaling
-* This means that Living Shadow gains more damage scaling (about 25% higher) from strength than other abilities on Dark Knight
+* The Tank Mastery trait means that tanks have a lower main stat power modifier than other jobs. The modifier varies by level, but at level 100, it is \(190\) for tanks, and \(237\) for all other roles (meaning tanks have ~20% lower main stat scaling than other roles). **Living Shadow** uses the 'other' scaling
+* This means that **Living Shadow** gains more damage scaling (about 25% higher) from strength than other abilities on Dark Knight
 
-At level 100 (where the main stat multiplier for tanks is (190), and other jobs is (237)), this changes the main stat multiplier formula from the following (where (\rm{baseStrength}) is (440) at level 100):
+At level 100 (where the main stat multiplier for tanks is \(190\), and other jobs is \(237\)), this changes the main stat multiplier formula from the following (where \(\rm{baseStrength}\) is \(440\) at level 100):
 
 \[
 \begin{aligned}
 \frac{\left \lfloor{\frac{190 \times \left(\rm{totalStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
 \end{aligned}
-]
+\]
 
-To the following (where (\rm{livingShadowStrength}) is calculated via the formula defined above):
+To the following (where \(\rm{livingShadowStrength}\) is calculated via the formula defined above):
 
 \[
 \begin{aligned}
 \frac{\left \lfloor{\frac{237 \times \left(\rm{livingShadowStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
 \end{aligned}
-]
+\]
