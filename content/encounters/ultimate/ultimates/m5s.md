@@ -7,12 +7,59 @@ series_name: Arcadion
 weight: 4
 tier_weight: 0
 lastmod: 2025-04-24T18:11:13.711Z
+patch: "7.2"
 ---
 Dancing Green is the first boss of Dawntrail's second raid tier, the AAC Cruiserweight Division. 
 
-<details>
-<summary>Order of Mechanics</summary>
+## Mechanic Order
 
+<details>
+<summary>Click to Expand</summary>
+
+```
+Deep Cut [Tankbuster]
+Flip to A-Side/B-Side
+X-Snap Twist & Drop the Needle
+Flip to A-Side/B-Side
+X-Snap Twist & Drop the Needle
+Celebrate Good Times [Raidwide]
+Disco Infernal 1 [Raidwide]
+Funky Floors 1
+Inside Out/Outside In
+Flip to A-Side/B-Side
+X-Snap Twist & Drop the Needle
+Celebrate Good Times [Raidwide]
+Deep Cut [Tankbuster]
+Ensemble Assemble
+Arcadey Night Fever 1
+Let's Dance
+Let's Pose!
+Flip to A-Side/B-Side
+Ride the Waves
+Quarter/Eighth Beat
+Quarter/Eighth Beat
+X-Snap Twist & Drop the Needle
+Celebrate Good Times [Raidwide]
+Frogtourage 1
+Quarter/Eighth Beat
+Disco Infernal 2 [Raidwide]
+Flip to A-Side/B-Side
+X-Snap Twist & Drop the Needle
+Celebrate Good Times [Raidwide]
+Ensemble Assemble
+Arcadey Night Fever 2
+Let's Dance
+Let's Pose!
+Frogtourage 2
+Deep Cut [Tankbuster]
+Funky Floors 2
+Quarter/Eighth Beat
+Inside Out/Outside In
+Quarter/Eighth Beat
+Celebrate Good Times [Raidwide]
+Celebrate Good Times [Raidwide]
+HI-NRG Fever [ENRAGE]
+```
 </details>
 
 ## Mechanic Details
