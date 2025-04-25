@@ -11,6 +11,8 @@ patch: "7.2"
 ---
 Dancing Green is the first boss of Dawntrail's second raid tier, the AAC Cruiserweight Division. 
 
+<br>
+
 ## Mechanic Order
 
 <details>
@@ -60,7 +62,10 @@ Celebrate Good Times [Raidwide]
 Celebrate Good Times [Raidwide]
 HI-NRG Fever [ENRAGE]
 ```
+
 </details>
+
+<br>
 
 ## Mechanic Details
 
