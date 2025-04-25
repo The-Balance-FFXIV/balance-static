@@ -73,7 +73,7 @@ bis:
     name: 7.2 UCoB Gearsets
   - type: genericlink
     name: 7.15 BiS Gearsets
-    link: https://xivgear.app/?page=sl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f
+    link: https://xivgear.app/#/bis/drk/archive/7.15
 authors:
   - Balance-DRK-Staff
   - apileofcats
