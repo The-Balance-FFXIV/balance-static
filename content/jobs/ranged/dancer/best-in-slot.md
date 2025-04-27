@@ -2,7 +2,7 @@
 title: Dancer Best in Slot (BiS)
 layout: bis
 patch: "7.2"
-lastmod: 2025-04-12T04:19:17.340Z
+lastmod: 2025-04-27T16:59:25.165Z
 changelog:
   - date: 2021-10-26T02:11:25.028Z
     message: Created page
@@ -18,6 +18,8 @@ changelog:
     message: Updated for patch 7.2
   - date: 2025-04-06T01:55:45.232Z
     message: Fixed XIVGear Embeds
+  - date: 2025-04-27T16:59:31.371Z
+    message: Update FRU, UWU, UCOB sets
 bis:
   - type: xivgear
     name: 7.2 ilvl 760 BiS 2.5 GCD
@@ -27,11 +29,19 @@ bis:
     link: https://xivgear.app/?page=embed%7Csl%7Cf0c36ece-774f-493c-9f0c-92c29a364fde&onlySetIndex=0
     description: Set for starting savage progression without any gear from weekly
       capped tomestones or savage raids
-  - type: genericlink
-    name: 7.05 - FRU BiS 2.50 GCD
-    link: https://xivgear.app/?page=sl%7C5702d876-bd80-4212-a91d-feed7bfb8c22
-    description: BiS for FRU including options with and without Chaotic Alliance
-      Raid Pieces.
+  - type: xivgear
+    name: 7.2 - FRU BiS Savage Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C2af8238e-4b85-4308-b0ab-33df7bb255ea
+    description: ""
+  - type: xivgear
+    name: 7.2 - FRU BiS Ultimate Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C156545f7-e7bd-45c1-b67a-7586da8490a0
+  - type: xivgear
+    name: 7.2 - UCOB BiS 2.46 GCD
+    link: https://xivgear.app/?page=embed%7Csl%7C5a22a081-823c-4830-aebe-4932e755bf1e
+  - type: xivgear
+    name: 7.2 - UWU BiS 2.47 GCD
+    link: https://xivgear.app/?page=embed%7Csl%7Cd6c166f7-401f-4fa2-ad8f-aac5cec0a23b
   - type: etro
     description: ""
     name: 6.50 - TOP / ASS / ASS (Savage) BiS 2.47 GCD
@@ -52,13 +62,6 @@ bis:
     description: ""
     name: 6.50 - DSR BiS 2.49 GCD (with P4S weapon)
     link: fae08d67-fdaf-4494-9920-062524c4b583
-  - type: xivgear
-    name: 7.2 ilvl 740 niche Week 1 Set
-    link: https://xivgear.app/?page=embed|sl|c0eafba8-dca1-4aee-b09a-6dd09f3bc949
-    description: This set maximizes damage for week 1 savage progression with 2
-      weeks worth of weekly capped tomestones. Do NOT consider this set if you
-      are starting progression later, have already gotten more tomestone gear or
-      drops from savage floors.
 authors:
   - Balance-DNC-Staff
 tags:
