@@ -1,7 +1,7 @@
 ---
 title: Pictomancer Frequently-Asked Questions
 layout: qna
-patch: "7.1"
+patch: "7.2"
 lastmod: 2024-12-03T23:25:44.832Z
 qna:
   - question: "What is my rotation? "
