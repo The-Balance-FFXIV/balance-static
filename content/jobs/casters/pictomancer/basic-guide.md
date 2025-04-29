@@ -4,7 +4,7 @@ card_header_image: /img/jobs/pct/pictomancer-5.png
 authors:
   - Eydis-Darkbane
   - balance-pct-staff
-patch: "7.1"
+patch: "7.2"
 lastmod: 2024-06-24T00:51:55.634Z
 changelog:
   - date: 2024-06-26T05:44:32.570Z
