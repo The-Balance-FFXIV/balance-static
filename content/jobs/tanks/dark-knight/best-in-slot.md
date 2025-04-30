@@ -37,18 +37,18 @@ changelog:
     message: Added sets for 7.2
 bis:
   - type: xivgear
-    name: 7.2 Bis (2.50)
-    link: https://xivgear.app/?page=embed|sl|0ab7650e-e569-4d09-8893-e081b2465c42&onlySetIndex=0
+    name: 7.2 BiS (2.50)
+    link: https://xivgear.app/?page=embed%7Cbis%7Cdrk%7Ccurrent&onlySetIndex=0
     description: Speed should be chosen according to comfort, but this set is
       generally recommended.
   - type: xivgear
     name: 7.2 BiS (2.46)
-    link: https://xivgear.app/?page=embed|sl|0ab7650e-e569-4d09-8893-e081b2465c42&onlySetIndex=1
+    link: https://xivgear.app/?page=embed|bis|drk|current&onlySetIndex=1
   - type: genericlink
     name: 7.2 BiS Gearsets
     link: https://xivgear.app/#/bis/drk/current
-  - type: genericiframe
-    link: https://xivgear.app/?page=embed|sl|c39185c8-6896-41db-a352-a504018ee598&onlySetIndex=0
+  - type: xivgear
+    link: https://xivgear.app/?page=embed|bis|drk|prog&onlySetIndex=1
     name: 7.2 Prog Gear (2.50, Tome chest)
   - type: genericlink
     name: 7.2 Prog Gearsets
@@ -73,9 +73,10 @@ bis:
     name: 7.2 UCoB Gearsets
   - type: genericlink
     name: 7.15 BiS Gearsets
-    link: https://xivgear.app/?page=sl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f
+    link: https://xivgear.app/#/bis/drk/archive/7.15
 authors:
   - Balance-DRK-Staff
   - apileofcats
   - silaqui-amakiir
+  - violet-stardust
 ---
