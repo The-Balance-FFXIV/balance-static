@@ -51,7 +51,7 @@ bis:
       weapon. Relic weapon is the best available weapon for DSR. Alternatives
       are weapons from P4S, DSR, and the previous relic weapon steps from EW.
     name: Dragonsong's Reprise Best-in-Slot 2.5 GCD
-    link: 410f934d-d437-49a5-a77b-0e5666cfb4b7
+    link: https://etro.gg/gearset/b3849787-394d-4d3a-ad69-c795e5bfd320
 authors:
   - dook
   - Laille-Ormesaing
