@@ -2,7 +2,7 @@
 title: Paladin Best in Slot (BiS)
 layout: bis
 patch: "7.2"
-lastmod: 2025-03-25T19:50:47.669Z
+lastmod: 2025-05-04T18:35:23.785Z
 changelog:
   - date: 2021-10-28T03:10:04.413Z
     message: Created page
@@ -24,6 +24,8 @@ changelog:
     message: 7.05 BiS added
   - date: 2025-03-25T19:50:38.230Z
     message: Added 7.2 BiS
+  - date: 2025-05-04T18:35:24.765Z
+    message: Added UCoB and UWU sets, updated ultimate sets for 7.2
 bis:
   - type: genericlink
     description: Useful to put in your own gear options.
@@ -31,44 +33,32 @@ bis:
     link: https://xivgear.app/
   - type: xivgear
     name: 7.2 BiS
-    link: https://xivgear.app/?page=embed|sl|4c77ea69-f2d9-4e3e-9f8b-4fc1b054b9ce&onlySetIndex=0
+    link: https://xivgear.app/?page=embed|bis|pld|current&onlySetIndex=0
   - type: genericlink
     name: 7.2 Prog Sets
-    link: https://xivgear.app/?page=sl|3a2bb769-52df-4122-84cc-14044a855b2a
+    link: https://xivgear.app/?page=bis|pld|prog
   - type: genericlink
-    name: 7.15 BiS Sets (applicable for FRU)
-    link: https://xivgear.app/?page=sl|ae72faca-c3e9-42a1-a82e-1e2bbf934251
-    description: This sheet contains the different variations of 7.15 BiS gear, with
-      and without the ultimate edenmorn weapon.
-  - type: etro
-    description: >-
-      Note: 665 relic can be used in place of 645 relic (no stat change due to
-      sync)
-
-
-      If you do not have the Ultimate sword, use the 645 or 665 relic sword (with Crit + Det > Ten) and replace dungeon ring with 660 tome ring.
-    link: ed6dd991-8e70-472a-a729-3182f4b14554
-    name: 2.50 Omega Weapon (Oltimate)
-  - type: etro
-    description: >-
-      Note: 665 relic can be used in place of 645 relic (no stat change due to
-      sync)
-
-
-      If you do not have the Ultimate sword, use the 645 or 665 relic sword (with Crit + Det > Ten).
-    link: 8672b1bd-18db-4b80-8834-018be0a88952
-    name: 2.50 Dragonsong's Reprise (Ultimate)
-  - type: etro
-    name: 2.5 The Epic of Alexander (Ultimate)
-    link: aed822b2-1ac0-4105-b68c-d06878121552
-    description: >-
-      This gearset is a whopping ... 10 dps (less than 0.5%) better than just
-      using crit+det gear at i595 or higher — If you do not have the specific
-      gear pieces already, it is highly recommended to not bother with them at
-      all (the relic weapon itself is worth around 25 dps, but still not
-      recommended if you have to grind it from scratch)
-
-      Note: For the above set, you can use Aug. Deepshadow Necklace instead of Edengrace Earring if desired.
+    name: Futures Rewritten (Ultimate) [FRU] Sets
+    link: https://xivgear.app/?page=bis|pld|ultimate|fru
+    description: ""
+  - type: genericlink
+    description: ""
+    link: https://xivgear.app/?page=bis|pld|ultimate|top
+    name: The Omega Protocol (Ultimate) [TOP] Sets
+  - type: genericlink
+    description: ""
+    link: https://xivgear.app/?page=bis|pld|ultimate|dsr
+    name: Dragonsong's Reprise (Ultimate) [DSR] Sets
+  - type: genericlink
+    name: The Epic of Alexander (Ultimate) [TEA] Sets
+    link: https://xivgear.app/?page=bis|pld|ultimate|tea
+    description: ""
+  - type: genericlink
+    name: The Weapon's Refrain (Ultimate) [UWU] Sets
+    link: https://xivgear.app/?page=bis|pld|ultimate|uwu
+  - type: genericlink
+    name: The Unending Coil of Bahamut (Ultimate) [UCoB] Sets
+    link: https://xivgear.app/?page=bis|pld|ultimate|ucob
 authors:
   - Balance-PLD-Staff
   - nikroulah
