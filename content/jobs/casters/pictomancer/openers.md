@@ -50,7 +50,7 @@ This is an alternative window worth considering due to the 7.2 changes that plac
 
 ## H3 Burst
 
-![H3 Burst](/img/jobs/pct/image_2025-05-03_225347416.png "H3 Burst")
+![H3 Burst](/img/jobs/pct/1000048079.png "H3 Burst")
 
 This is an alternative that is *significantly* tighter to execute. You *can* do this option without hammers, by replacing H3 with a Holy in White or RGB GCD. **DO NOT** meld spell speed to accomplish this window if you're unable to without -- use the H2 + H3 Burst instead.
 
