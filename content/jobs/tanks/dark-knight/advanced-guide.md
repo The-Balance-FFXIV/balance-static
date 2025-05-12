@@ -64,7 +64,7 @@ However, **Disesteem** is an exception. **Disesteem** has a 1.65s application de
 
 For example, if you have 9600 MP and **Blood Weapon** active, you can use **Disesteem**, immediately weave **Edge of Shadow**, and not overcap MP, as the **Edge of Shadow** will spend MP before **Disesteem** (and the **Blood Weapon** buff that modified it to give you +600 MP) applies. If you were to use **Hard Slash** in the same situation, you would overcap MP.
 
-Another ability where the application delay is worth knowing is **Carve and Spit**, which has an application delay of 1.47s, similarly allowing an Edge of Shadow weave before the MP gain applies.
+Another ability where the application delay is worth knowing is **Carve and Spit**, which has an application delay of 1.47s, similarly allowing an **Edge of Shadow** weave before the MP gain applies.
 
 This can come up in practical situations if you are about to enter burst window with an especially high amount of MP. In these situations, you want to save Disesteem for the GCD where you would normally overcap. If you have, for example, 9000 MP and a Dark Arts proc, then with **Blood Weapon** and **Delirium** up, using **Disesteem** -> **Edge of Shadow** -> **Scarlet Delirium** -> **Edge of Shadow** would overcap MP, whereas **Scarlet Delirium** -> **Edge of Shadow** -> **Disesteem** -> **Edge of Shadow** would not.
 
@@ -120,7 +120,7 @@ It's for this reason why, for example, **Salted Earth** (total potency 800, 500 
 
 It may seem strange that the opener uses **Unmend**, given that, [in a previous section](/jobs/tanks/dark-knight/advanced-guide#unmend-and-gcd-downtime), we discussed how much **Unmend** is not a great ability to press if we can avoid it. However, much like how in that section we discussed how **Unmend** is worth just over a basic combo GCD, that same logic applies here, too. Since this standard opener is inherently designed for fights with unknown timelines, you may 'gain' or 'lose' a GCD based on where the boss dies or phases using **Unmend** versus opening with other abilities, since, due to the long application delay of about one second, you can start your GCD one second before the start of the fight. This delay allowing us to start our GCD earlier is what makes **Unmend** better or roughly equivalent DPS to alternate openers on average. **Unmend** also has a nice added bonus of giving us a huge buffer of enmity at the start. 
 
-**Unmend** also has the important property of making our MP align much better during later bursts. Without it, the 6m burst can come extremely close to overcapping on MP without extreme care taken. It does this while also making sure our our big cooldowns align perfectly with when buffs come up from other jobs. If you're changing your opener to something that doesn't start with Unmend, and especially at faster speeds, you need to be a lot more wary about overcapping MP in future bursts.
+**Unmend** also has the important property of making our MP align much better during later bursts. Without it, the 6m burst can come extremely close to overcapping on MP without extreme care taken. It does this while also making sure our our big cooldowns align perfectly with when buffs come up from other jobs. If you're changing your opener to something that doesn't start with **Unmend**, and especially at faster speeds, you need to be a lot more wary about overcapping MP in future bursts.
 
 ## Opening With Shadowstride
 
@@ -156,9 +156,9 @@ This section provides details on exactly how it works, and the formulae that dif
 
 ## Living Shadow's Abilities, Targeting, and 'Rotation'
 
-**Living Shadow** spawns Esteem, which, after a \~6.8 second spawn delay, will perform six abilities, with a \~2.18 second delay between each. 
+**Living Shadow** spawns Esteem, which, after a ~6.8 second spawn delay, will perform six abilities, with a ~2.18 second delay between each. The starting position of Esteem will be locked 560 milliseconds after the button is pressed.
 
-Esteem begins searching for a target ~1s after **Living Shadow** is used, at which point it will lock onto the first enemy you attack. After being 'locked on' to an enemy, it will attempt to execute all of its abilities in sequence on that target until that enemy dies or runs out of abilities. If that enemy dies, Esteem retargets with the same logic but without the delay. In both cases, you must attack an enemy for Esteem to begin or continue its attack sequence.
+Esteem begins searching for a target 750 milliseconds after **Living Shadow** is used, at which point it will lock onto the first enemy you attack. After being 'locked on' to an enemy, it will attempt to execute all of its abilities in sequence on that target until that enemy dies or runs out of abilities. If that enemy dies, Esteem retargets with the same logic but without the delay. In both cases, you must attack an enemy for Esteem to begin or continue its attack sequence.
 
 Target selection is based off of cast event rather than damage application. Using a skill with a long application delay immediately after summoning will not lock Esteem's target despite dealing damage after the ~1s wait is over. Conversely, using a long-delay skill on one enemy followed by a short-delay skill on another will lock Esteem onto the first target even if the second enemy takes damage first.
 
