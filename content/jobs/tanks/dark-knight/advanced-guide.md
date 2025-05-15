@@ -5,7 +5,7 @@ authors:
   - Balance-DRK-Staff
   - violet-stardust
 patch: "7.2"
-lastmod: 2025-04-23T23:05:05.331Z
+lastmod: 2025-05-15T14:59:56.358Z
 changelog:
   - date: 2024-11-16T15:17:46.131Z
     message: Updated for 7.1
@@ -17,6 +17,8 @@ changelog:
       targeting behavior.
   - date: 2025-04-23T23:05:07.665Z
     message: Added a section on opener variations and application delay ghosting.
+  - date: 2025-05-15T14:59:59.087Z
+    message: Minor Living Shadow scaling correction.
 description: ""
 ---
 # Introduction
@@ -185,15 +187,35 @@ To use an example, in 7.05 2.50 BiS, a 620 potency attack (e.g. **Scarlet Deliri
 
 **Living Shadow**'s base strength is calculated differently to the player. In particular:
 
-* **Living Shadow**'s strength does not include the party strength bonus for having different roles in your party (with all roles, this is a usually a 5% boost for the player)
-* **Living Shadow** does not use your base stats (e.g. 23 base strength that races like The Lost have), and instead uses a base strength of 2. Effectively, this means strength is lowered by around 20, depending on your race (21 for max strength races like Xaela and The Lost)
-* **Living Shadow**'s strength includes all strength bonuses from gear, as normal
+**Living Shadow**'s base strength is calculated differently to the player's. In particular, the player's base strength provided by level (\(440\) at level 100) is multiplied by a job-based modifier, which for Dark Knight is \(1.05\), whereas Living Shadow's is not.
 
-To be more specific, **Living Shadow**'s base strength (before strength buffs like potions) is calculated by the following formula (where \(\rm{baseStrength}\) is (440) at level 100):
+This changes the formula for base strength (before racial modifiers) from the following:
 
 \[
 \begin{aligned}
-\rm{baseStrength} + \rm{strengthProvidedByGear} + 2
+\rm{darkKnightBaseStrength} = \left \lfloor{{440 \times \frac{105}{100}}}\right\rfloor = 462
+\end{aligned}
+\]
+
+To the following:
+
+\[
+\begin{aligned}
+\rm{livingShadowBaseStrength} = \left \lfloor{{440 \times \frac{100}{100}}}\right\rfloor = 440
+\end{aligned}
+\]
+
+After the base strength is calculated, the following apply to get the final strength value: 
+
+* **Living Shadow** does not use your racial stats (e.g. +3 base strength that races like The Lost have), and instead uses a racial strength bonus of +2
+* **Living Shadow**'s strength does not include the party strength bonus for having different roles in your party (with all roles, this is a usually a 5% boost for the player)
+* **Living Shadow**'s strength includes all strength bonuses from gear, as normal
+
+To be more specific, **Living Shadow**'s strength (before strength buffs like potions) is calculated by the following formula (where \(\rm{livingShadowBaseStrength}\) is defined above):
+
+\[
+\begin{aligned}
+\rm{livingShadowBaseStrength} + \rm{strengthProvidedByGear} + 2
 \end{aligned}
 \]
 
@@ -202,19 +224,19 @@ To be more specific, **Living Shadow**'s base strength (before strength buffs li
 * While players would use a weapon damage multiplier of \(115\), **Living Shadow** uses a slightly lower weapon damage multiplier of \(100\)
 * This is typical for all 'pet actions', and generally true for any damage that does not come 'from' the player
 
-This changes the weapon damage multiplier formula from the following:
+This changes the weapon damage multiplier formula from the following (where \(\rm{baseMainStat}\) is \(440\) at level 100):
 
 \[
 \begin{aligned}
-\frac{\left \lfloor{\frac{115 \times \rm{baseStrength}}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
+\frac{\left \lfloor{\frac{115 \times \rm{baseMainStat}}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
 \end{aligned}
 \]
 
-To the following (where \(\rm{baseStrength}\) is \(440\) at level 100):
+To the following (where \(\rm{baseMainStat}\) is \(440\) at level 100):
 
 \[
 \begin{aligned}
-\frac{\left \lfloor{\frac{100 \times \rm{baseStrength}}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
+\frac{\left \lfloor{\frac{100 \times \rm{baseMainStat}}{1000} + \rm{weaponDamage}}\right \rfloor}{100}
 \end{aligned}
 \]
 
@@ -223,18 +245,18 @@ Living Shadow's main stat multiplier is calculated differently to the player. In
 * The Tank Mastery trait means that tanks have a lower main stat power modifier than other jobs. The modifier varies by level, but at level 100, it is \(190\) for tanks, and \(237\) for all other roles (meaning tanks have ~20% lower main stat scaling than other roles). **Living Shadow** uses the 'other' scaling
 * This means that **Living Shadow** gains more damage scaling (about 25% higher) from strength than other abilities on Dark Knight
 
-At level 100 (where the main stat multiplier for tanks is \(190\), and other jobs is \(237\)), this changes the main stat multiplier formula from the following (where \(\rm{baseStrength}\) is \(440\) at level 100):
+At level 100 (where the main stat multiplier for tanks is \(190\), and other jobs is \(237\)), this changes the main stat multiplier formula from the following (where \(\rm{baseMainStat}\) is \(440\) at level 100):
 
 \[
 \begin{aligned}
-\frac{\left \lfloor{\frac{190 \times \left(\rm{totalStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
+\frac{\left \lfloor{\frac{190 \times \left(\rm{totalStrength} - \rm{baseMainStat}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
 \end{aligned}
 \]
 
-To the following (where \(\rm{livingShadowStrength}\) is calculated via the formula defined above):
+To the following (where \(\rm{livingShadowStrength}\) is the total value, calculated via the formula defined above):
 
 \[
 \begin{aligned}
-\frac{\left \lfloor{\frac{237 \times \left(\rm{livingShadowStrength} - \rm{baseStrength}\right)}{\rm{baseStrength}}}\right \rfloor + 100}{100}
+\frac{\left \lfloor{\frac{237 \times \left(\rm{livingShadowStrength} - \rm{baseMainStat}\right)}{\rm{baseMainStat}}}\right \rfloor + 100}{100}
 \end{aligned}
 \]
