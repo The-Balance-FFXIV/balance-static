@@ -5,7 +5,7 @@ authors:
   - Balance-DRK-Staff
   - violet-stardust
 patch: "7.2"
-lastmod: 2025-05-15T14:59:56.358Z
+lastmod: 2025-05-18T19:55:36.045Z
 changelog:
   - date: 2024-11-16T15:17:46.131Z
     message: Updated for 7.1
@@ -19,6 +19,8 @@ changelog:
     message: Added a section on opener variations and application delay ghosting.
   - date: 2025-05-15T14:59:59.087Z
     message: Minor Living Shadow scaling correction.
+  - date: 2025-05-18T19:55:36.634Z
+    message: Minor updates to reflect hotfixed Shadowstride application delay.
 description: ""
 ---
 # Introduction
