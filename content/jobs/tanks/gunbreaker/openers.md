@@ -20,10 +20,11 @@ Your opener is flexible and **No Mercy** can be used earlier or later than what 
 
 #### PULLING TECHNIQUES
 
-* **Lightning Shot** is heavily suggested for raid buff alignment and pull consistency.
-* You may opt to use **Trajectory** at -0.22s on the pull timer for an accurate pull at 0.00s.
-* You may opt to use **Provoke** at -0.6s on the pull timer for an accurate pull at 0.00s. Exercise caution using this method - you may need this cooldown if the fight begins with a tankbuster.
-* Do not facepull unless the boss is already within melee range. It is a waste of GCD uptime in comparison to the other two options.
+* Do not facepull unless the boss is already within melee range. It is a waste of GCD uptime in comparison to the following options:
+  * **Lightning Shot** is heavily suggested for MT threat generation and buff alignment.
+  * You may opt to use **Trajectory** at -0.66s on the pull timer for an accurate pull at 0.00s.
+  * You may opt to use **Provoke** at -0.6s on the pull timer for an accurate pull at 0.00s. Exercise caution using this method - you may need **Provoke** if the fight begins with a tankbuster.
+
 
 #### OPENERS
 
