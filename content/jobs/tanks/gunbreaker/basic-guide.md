@@ -105,11 +105,10 @@ Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to 
 
 #### Opener Notes
 
-- The **Lightning Shot** cast is suggested for pull consistency and raid buff alignment.
-  - It does not matter if you are MT or ST, this is always fundamentally true.
-  - **Trajectory** can be used at -0.22s to replace **Lightning Shot**.
-  - **Provoke** can be used at -0.6s to replace **Lightning Shot**, but this is not advised without knowing the fight timeline. You may need to swap within the first 30 seconds of the fight.
-- **Sonic Break** being moved to the 9th GCD in the 2.4n Opener is not a new technique, but for those unfamiliar:
+- The **Lightning Shot** cast is suggested for threat generation and raid buff alignment.
+  - **Trajectory** can be used at -0.66s to replace **Lightning Shot** (1/10th threat generation).
+  - **Provoke** can be used at -0.6s to replace **Lightning Shot**, but this is not advised without knowing the fight timeline. You may need to use **Provoke** within the first 30 seconds of the fight for a tank swap.
+- **Sonic Break** being used on the 9th GCD in the 2.4n Opener has caveats:
   * It is the least risky choice to keep **Hypervelocity** inside of **No Mercy**. (40p gain)
   * If **Sonic Break** falls out of **No Mercy** when trying this, move **Burst Strike** back to the 9th GCD.
   * If **Sonic Break** falls out of raid buffs worth more than 12.1% overall, move﻿﻿ **Burst Strike** back to the 9th GCD.
@@ -153,17 +152,19 @@ GCD cooldowns within **No Mercy** should be used in the following priority:
 
 * Use **Sonic Break** anywhere necessary to allow better cooldown usage.
 * Use **Sonic Break** as the 9th GCD on 2.4X GCDs to stop **Hypervelocity** from falling out of **No Mercy**.*
-* Use **Sonic Break** earlier if any DOT uptime is lost from downtime or fight killtime.
+* Use **Sonic Break** earlier next pull if any DOT uptime is lost from downtime or fight killtime.
 
 \* Note that the usage of **Sonic Break** as the 9th GCD is solely due to the fact that it has no cooldown, and is the lowest potency option to place at the 9th GCD in order to keep **Hypervelocity** within **No Mercy** without inducing loss. Other options exist that can remove the threat of wasting DoT time, such as:
 
-* From 2.40 - 2.42, you can use **Burst Strike** last and still use **Hypervelocity** before **No Mercy** ends (with very proper timing of **No Mercy**).
-* **Lionheart** can also take the place of the 9th GCD instead of **Sonic Break**, but it is a higher potency GCD and therefore the chance of it falling out of **No Mercy** makes it a slightly riskier option.
+* From 2.40 - 2.41, you can use **Burst Strike** last and still use **Hypervelocity** before **No Mercy** ends (only by casting **No Mercy** at the latest possible point in the GCD roll without clipping your GCD).
+* **Lionheart** can also take the place of the 9th GCD instead of **Sonic Break**, but it is a higher potency GCD than **Sonic Break**, and therefore the chance of it falling out of **No Mercy** makes it a slightly riskier option.
 
 OGCD cooldowns within **No Mercy** should be used in the following priority:
 
 * Use **Blasting Zone** and **Bow Shock** in any order.
 * Use **Bloodfest** only upon reaching zero cartridges.
+  * **Bloodfest** is normally moved into the burst window for maximum resource flexibility. Doing so results in you automatically having the necessary powder gauge for your next burst.
+  * Using **Bloodfest** before your burst window can permit a more optimal killtime, as it will move your resource damage to an earlier point in time.
 
 - - -
 
@@ -246,6 +247,34 @@ The speeds that do NOT drift **No Mercy** by any significant amount are as follo
 Those three speeds in particular are the most favorable for staying aligned with party buffs. Going from 2.40 to 2.42 would increase the drift rate because it would take longer for **No Mercy** to return to the same ideal usage point, and you can only use the cooldown off cooldown once per drift. In specific, it would cause **2.42 * (1 - (60 / 2.42 - 24) = 0.5s** of drift per **No Mercy**. This drift linearly increases or decreases within the respective speed range of 2.40 - 2.44 as you go slower or faster respectively, and the same holds true of 2.45 - 2.47 which can use **No Mercy** twice off cooldown in between drifts.
 
 Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.42 or something slower, it just means that the *risk* of losing raid buff damage over extended periods of time where raid buffs never realign to you is increased when running other speeds, which can potentially be a damage loss depending on the fight you’re in.
+
+- - -
+
+## Recovery Considerations
+
+- - -
+### SECTION TLDR:
+- Recovery depends somewhat on GCD speed. Faster speeds are easier to recover because of cooldown reduction and extra **No Mercy** space.
+- The goal of recovery is to fit the desired cooldowns back into **No Mercy**, not necessarily keep them in their original order.
+- Use **Bloodfest** earlier or later to solve GCD cooldown usage issues or powder gauge issues respectively.
+- Use **Sonic Break** to fill in drifted cooldown space where **Gnashing Fang** or **Double Down** would normally be.
+- Consider the use of **Reign of Beasts** earlier to flip the place of the **Gnashing Fang** combo if **Gnashing Fang** has drifted excessively.
+- - -
+
+Recovery is always a situational problem that has specific answers for each scenario. It is a multifaceted problem that depends on fight time available, the nature of the recovery (between death, drift, or lack of resources), GCD speed, and previous cooldown position with specific cooldowns like **Bloodfest**.
+
+Recovery does not necessarily mean returning to a "normal" state of play that you are used to. You will have to adapt to cooldown shifts and learn to play with your cooldowns being out of order. The order of your cooldowns is irrelevant as long as nothing is pushed out of your buff, **No Mercy**.
+
+GCD speed with Gunbreaker results in differing requirements for recovery, because adding speed introduces cooldown reduction to **Gnashing Fang** and **Double Down**. This means that their cooldowns will become ready for use earlier than they were in your previous burst phase. This can be used to your advantage if either cooldown ever drifts, because it is unlikely that you will need to hold **No Mercy** or do anything special with **Bloodfest** to realign them or keep your burst phase (with **Bloodfest**) from developing an undesired space filled with suboptimal GCDs.
+
+Faster GCD speed also permits the ability to have a 9th GCD available within **No Mercy**, which allows for additional room to move cooldowns around without drifting them outside of your buff.
+
+**Sonic Break** can be moved anywhere necessary to fill in the space of a drifted GCD cooldown. If **Gnashing Fang** drifts, an undesired space will form within your burst phase (with **Bloodfest**) that, on slower speeds, would potentially necessitate the usage of a suboptimal filler GCD in it's place. Since **Sonic Break** does not have a cooldown, it can be placed in that undesired space to prevent the usage of suboptimal GCDs.
+
+Regarding suboptimal GCD space, if **Gnashing Fang** drifts excessively to the point that an undesired space during your burst phase (with **Bloodfest**) is unavoidable even after moving **Sonic Break** into the original place of **Gnashing Fang**, then you can opt to use the **Reign of Beasts** combo earlier and flip the usage order between **Reign of Beasts** and **Gnashing Fang**, which may drift **Gnashing Fang** further slightly into your burst phase, but will prevent the formation of undesired suboptimal GCD space that would push out important cooldowns.
+ - This may be necessary if you die and revive with the ability to press **Gnashing Fang** inbetween burst phases during filler. If **No Mercy** has >15 seconds left when you are able to press **Gnashing Fang**, you can do so without pushing the next **Gnashing Fang** out of **No Mercy**, but it will be pushed to the very end of your burst phase. 
+
+If none of these heuristics are available options, a small delay to **No Mercy** of a GCD or two will typically permit the ability to fit all of your cooldowns within **No Mercy** again.
 
 # AOE Priority
 
