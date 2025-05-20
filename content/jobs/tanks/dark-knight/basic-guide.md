@@ -6,7 +6,7 @@ authors:
   - silaqui-amakiir
   - violet-stardust
 patch: "7.2"
-lastmod: 2025-04-23T22:31:19.871Z
+lastmod: 2025-05-18T19:58:19.151Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
     message: Added
@@ -26,6 +26,8 @@ changelog:
     message: Updates for 7.2, and some minor corrections/fixes.
   - date: 2025-04-23T22:31:23.555Z
     message: Minor updates to the opener, and some small stylistic updates.
+  - date: 2025-05-18T19:58:20.463Z
+    message: Minor updates to reflect hotfixed Shadowstride application delay.
 tags: []
 ---
 # Introduction to Dark Knight
@@ -73,15 +75,15 @@ Goals for DRK openers include:
 > **Torcleaver** + **Shadowbringer** + **Edge of Shadow**, <br/>
 > **Bloodspiller** + **Salt and Darkness**
 
-The potion used is whatever the current tier’s Strength potion is (as of the time of writing, it is the Grade 3 Gemdraught of Strength HQ).
+The potion used is whatever the current tier's Strength potion is (as of the time of writing, it is the Grade 3 Gemdraught of Strength HQ).
 
 #### Opener notes
 * **Unmend** is used to delay the opener slightly to account for raid buff application time. Use it whether or not you are pulling.
 * Early use of **Disesteem** (before the **Torcleaver** combo) avoids some minor MP overcap.
 
-#### Optional Modifications
-* If the prepull TBN will not break, it can be left out for a small MP loss. This does not change the rest of the opener substantially, although the last Edge of Shadow may get pushed one GCD further back.
-* **Provoke** or **Shadowstride** can be used to pull instead of **Unmend**, and pulling with **Hard Slash** is also viable, but each of these options requires adding an extra **Hard Slash** before **Disesteem** to ensure that the burst fits into late-applied buffs.
+### Optional Modifications
+* If the prepull TBN will not break, it can be left out for a small MP loss. This does not change the rest of the opener substantially, although the last **Edge of Shadow** may get pushed further back.
+* **Shadowstride** can be used to pull instead of **Unmend**, and pulling with **Hard Slash** is also viable if the boss starts in melee range, but each of these options requires adding an extra **Hard Slash** before **Disesteem** to ensure that the burst fits into late-applied buffs. However, if you are the pulling tank, this can make positioning harder. There is more detail on this opener and its benefits and potential drawbacks in [a section in the advanced guide.](/jobs/tanks/dark-knight/advanced-guide/#opening-with-shadowstride)
 * If you cannot fit the **Edge of Shadow** before **Hard Slash** without clipping due to, for example, the boss being far away, move it to after **Hard Slash**. I.e., **Unmend** -> Potion -> **Hard Slash** -> **Edge of Shadow** -> **Living Shadow**.
 
 - - -
@@ -232,34 +234,25 @@ They will still generally give reliable results when used to compare gear with l
 
 **Highest priority**
 
-* Weapon damage (main-hand weapon only)
-
+* Item Level
+  * Affects Strength and Weapon Damage (for weapons), as well as total substat amount 
   * Significantly affects all damage dealt
-  * Proportional to item level
-* Strength
-
-  * Affects all damage dealt
-  * Proportional to item level
+  * Pprioritize over getting better substats
 * Critical Hit
-
   * Affects critical chance + critical damage
   * Often naturally capped on BiS gear pieces
   * Priority meld on all gear (unless number turns red when melding)
 * Skill Speed
-
   * Reduces weaponskill recast time
   * Meld only to reach preferred GCD speed (commonly anywhere from 2.40s to 2.50s)
-    (see https://www.akhmorning.com/allagan-studies/stats/speed/ for precise skill speed tiers)
+    (see [akhmorning](https://www.akhmorning.com/allagan-studies/stats/speed/) or [xivgear.app](https://xivgear.app/math/?page=math%7Csks) for precise skill speed tiers)
 * Direct Hit
-
   * Affects only direct hit chance
   * Meld remaining slots (filler stat)
 * Determination
-
   * Increases damage dealt
   * Sometimes used in one slot due to stat tiering
 * Tenacity
-
   * Increases damage dealt and reduces damage taken
   * Rarely melded due to weak scaling and minimal mitigation
 
@@ -296,7 +289,7 @@ Try to position the mobs so that they are in a tight clump: this lets you, your 
 
 Cycle through your mitigation on trash pulls (they hurt more than bosses). Rather than using it all at once, keeping something up at all times can help your healer keep you alive more easily. More powerful mitigation cooldowns like **Rampart**, **Shadowed Vigil**, and **Arm’s Length** can be paired with weaker ones like **Reprisal** or **Oblation**. **The Blackest Night** is one of your most powerful mitigation tools and can be used liberally (at least once per mob pack) once unlocked.
 
-**Living Dead** can be extremely strong in dungeons, as a single AoE GCD will often heal you to full after Walking Dead is activated. However, an inexperienced healer may heal too much during Living Dead, preventing Walking Dead from activating. It may help to let your healers know ahead of time where you plan to use **Living Dead**, to avoid this problem.
+**Living Dead** can be extremely strong in dungeons, as a single AoE GCD will often heal you to full after Walking Dead is activated. However, an inexperienced healer may heal too much during **Living Dead**, preventing Walking Dead from activating. It may help to let your healers know ahead of time where you plan to use **Living Dead**, to avoid this problem.
 
 - - -
 
@@ -313,6 +306,8 @@ It is always better to lose damage in buffs in order to stay alive, and sometime
 # Advanced Gameplay
 
 This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it.
+
+While this section will go over some optimizations for Dark Knight, for those looking for more, we also have an [advanced guide](/jobs/tanks/dark-knight/advanced-guide) with many other notes and discussions of nuance.
 
 ## Optimizing Raid Buffs Further
 
