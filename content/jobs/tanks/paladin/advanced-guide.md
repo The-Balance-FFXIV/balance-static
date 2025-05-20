@@ -35,7 +35,13 @@ Other circumstances where hardcasting a Holy Spirit exist, but are much less com
 
 (you can calculate by adding the potency of each hit in your combo sequence, and then dividing by the number of GCDs, to get the average potency per gcd, like so: 220+330+460+460+500+500+540 = 3010/7 = 430)
 
+
+
+
+
 I DO NOT KNOW HOW TO NATURALLY FIT THIS MATH INTO THE ABOVE SECTION YET. THIS IS STILL A WIP.
+
+I THINK THIS SEGMENT IS MOSTLY GOOD, THOUGH. NOT MUCH ELSE TO DISCUSS, BUT MAYBE IM FORGETTING SOMETHING.
 
 ## BLADE OF HONOR SMUGGLING
 
