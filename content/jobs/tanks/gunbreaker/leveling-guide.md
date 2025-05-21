@@ -21,18 +21,40 @@ This guide will teach you when to use your AOE skills while you are engaged in l
   - You can manipulate enemies into stacking closer together by walking a short distance away to cause them to follow you. This will help you and your team during dungeon pulls.
   - Consider pulling enemy mobs into your party member's negative effects, such as Ninja's **Doton**.
 
-## __Levels 1-25__
+## Acquiring Gear
+- - -
+As a tank, it is very important that you equip the highest item level gear you own, as it will scale **Vitality** and **Defense**, increasing your maximum HP and natural damage mitigation which will make you and your healer's life easier inside leveling content.
+
+The main scenario questline will often give you gear coffers that will be fairly decent for your current place in the story. There are a few other ways of obtaining gear that will be better, however.
+
+You can often source better gear from the market board or a friend for your current level, but make sure it is **high-quality**, as **normal-quality** crafted gear has overall stat values that are **lower** than normal for that item level. It is not necessary to upgrade your gear every time you level up or unlock a new dungeon, but you should avoid wearing gear that is several levels out of date if you can avoid doing so.
+
+You can source also **poetic tomestone** gear from vendors across the main cities in each expansion that will offer you maximum item level gear for every ten levels you reach (e.g. level 60 gear that is item level 270 in Foundation), which will serve you very well for at least halfway through the next level bracket.
+
+## Tank Responsibility
+- - -
+During dungeon encounters, it is generally preferred to pull as many of the mobs as possible that your group can handle. If you are properly geared, you should not have trouble pulling to the "wall", or forced stopping point typically before a boss room. Some following guidelines:
+- Keep **Royal Guard** active at all times during a dungeon encounter. This may be turned off or unnecessary in raids or trials if you are not main-tanking or required to tank a specific enemy.
+- Hold **enmity** on every enemy during dungeon pulls. If you lose **hate** (aggro) on mobs while pulling, it is fine to continue walking forward towards the wall, but attempt to **Lightning Shot** or **Provoke** the enemy that you lost hate on if possible. At minimum, make sure to collect the lost enemy mob when reaching the wall.
+- When all enemies in a dungeon pull have been gathered, keep them in the same general area, and attempt to position them within your party's beneficial and negative effects, like NIN's **Doton**, or AST's **Earthen Star**. Your party will often have beneficial effects or ground-based effects that damage enemies, and continuously or slowly dragging them away will often hinder your party's damage and healing.
+- Do not be afraid to use multiple mitigation tools together at once. Most of the damage that you will take in a dungeon is while you are fighting **trash** (non-boss) mobs, and you want to mitigate heavily while most of them are alive.
+- Your **party mitigation** such as **Heart of Light** and **Reprisal** are still valuable mitigation tools for **yourself** to mitigate incoming damage from dungeon trash mobs. **Arm's Length** also contains a secondary effect that applies **Slow** to enemy trash mobs, which reduces their attack rate by 20%.
+
+
+## Leveling Rotation
+- - -
+### __Levels 1-25__
 - Use **single-target** combo actions below 2 targets.
 - Use **Demon Slice** at 2 or more targets.
 
-## __Levels 26-39__
+### __Levels 26-39__
 Unlocks **Solid Barrel** and **Burst Strike**.</br>
 </br> Your **powder gauge** and full single-target combo will finally be usable here, and ideally you want to hold onto your resources for **No Mercy**. This means that you will typically not use **Burst Strike** unless the next combo action will overfill the **powder gauge**, or **No Mercy** is active.
 - Use **Solid Barrel** combo actions below 3 targets.
 - Use **Demon Slice** at 3 or more targets.
 - Stop using **Burst Strike** at 3 or more targets.
 
-## __Levels 40-59__
+### __Levels 40-59__
 Unlocks **Demon Slaughter** and **Sonic Break**.</br>
 </br> \* With **Sonic Break**, it is important to evaluate that this action becomes increasingly worse to use if a target dies before it's full value applies to a target. Keep this in mind when considering using it during a multi-target pull, as it may no longer be worth using. Some basic rules of thumb for it's usage that have been derived from uptime simulations in multi-target scenarios are located at the bottom of the page.
 - Use **Solid Barrel** combo actions below 2 targets.
@@ -40,14 +62,14 @@ Unlocks **Demon Slaughter** and **Sonic Break**.</br>
 - Stop using **Burst Strike** at 3 or more targets.
 - Stop using **Sonic Break*** at 7 or more targets when it unlocks.
 
-## __Levels 60-71__
+### __Levels 60-71__
 Unlocks **Gnashing Fang** and **Continuation**.</br>
 </br> **Gnashing Fang** is a powerful single-target combo that should be used off-cooldown and one usage per minute should always be inside **No Mercy**. Make sure to have gauge resources available for this whenever it becomes ready.
 - Stop using **Gnashing Fang** at 4 or more targets from level 60-69.
 - Stop using **Gnashing Fang** at 6 or more targets at level 70.
 - Same rules regarding **Demon Slaughter**, **Burst Strike**, and **Sonic Break**.
 
-## __Levels 72-83__
+### __Levels 72-83__
 Unlocks **Fated Circle** and **Bloodfest**.</br>
 </br> **Bloodfest** should only be used when the gauge is empty. **Bloodfest** is typically used inside **No Mercy**.
 - Use **Solid Barrel** combo actions below 2 targets.
@@ -56,7 +78,7 @@ Unlocks **Fated Circle** and **Bloodfest**.</br>
 - Stop using **Gnashing Fang** at 4 or more targets.
 - Stop using **Sonic Break*** at 5 or more targets.
 
-## __Levels 84-100__
+### __Levels 84-100__
 Unlocks multiple potency-modifying traits, **Hypervelocity**, **Double Down**, **Fated Brand**, and **Reign of Beasts**.</br>
 </br> **Double Down** and **Reign of Beasts** should always be used within **No Mercy** both as part of your single-target and multi-target rotation. This completes your single-target burst phase with **Gnashing Fang**, **Double Down**, **Reign of Beasts**, and **Sonic Break**, which leads to interesting optimization at level 100 due to **Fated Circle** becoming more powerful than **Gnashing Fang** and **Sonic Break** within **No Mercy** beyond 3 and 4 targets respectively.
 - Prioritize **Double Down** when it unlocks.
