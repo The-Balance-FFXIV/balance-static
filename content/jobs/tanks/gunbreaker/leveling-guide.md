@@ -23,13 +23,13 @@ This guide will teach you when to use your AOE skills while you are engaged in l
 
 ## Acquiring Gear
 - - -
-As a tank, it is very important that you equip the highest item level gear you own, as it will scale **Vitality** and **Defense**, increasing your maximum HP and natural damage mitigation which will make you and your healer's life easier inside leveling content.
+Always equip the highest item level gear you own as it will scale **Vitality** and **Defense**, increasing your maximum HP and natural damage mitigation which will make you and your healer's life easier inside leveling content.
 
 The main scenario questline will often give you gear coffers that will be fairly decent for your current place in the story. There are a few other ways of obtaining gear that will be better, however.
 
-You can often source better gear from the market board or a friend for your current level, but make sure it is **high-quality**, as **normal-quality** crafted gear has overall stat values that are **lower** than normal for that item level. It is not necessary to upgrade your gear every time you level up or unlock a new dungeon, but you should avoid wearing gear that is several levels out of date if you can avoid doing so.
+You can often source better gear from the market board or a friend for your current level, but ensure it is **high-quality**, as **normal-quality** crafted gear has overall stat values that are **lower** than normal for that item level. It is not necessary to upgrade your gear every time you level up or unlock a new dungeon, but you should avoid wearing gear that is several levels out of date when leveling.
 
-You can source also **poetic tomestone** gear from vendors across the main cities in each expansion that will offer you maximum item level gear for every ten levels you reach (e.g. level 60 gear that is item level 270 in Foundation), which will serve you very well for at least halfway through the next level bracket.
+The best source of gear at a level cap (e.g. level 60) is **poetic tomestone** gear from certain vendors across the main cities in each expansion. They will offer maximum item level gear for that level cap (e.g. level 60 gear that is item level 270 in Foundation), which will serve you very well for at least halfway through the next level bracket going towards level 70.
 
 ## Tank Responsibility
 - - -
@@ -42,7 +42,7 @@ During dungeon encounters, it is generally preferred to pull as many of the mobs
 
 
 ## Leveling Rotation
-- - -
+
 ### __Levels 1-25__
 - Use **Demon Slice** at 2+ targets.
 
