@@ -12,7 +12,7 @@ changelog:
   - date: 2022-04-12T00:13:48.783Z
     message: Updated for Endwalker.
 ---
-# Leveling AoE  Guide
+# Leveling Guide
 
 This guide will teach you when to use your AOE skills while you are engaged in leveling content. You should generally follow these rules:
 - You should be using **No Mercy** off cooldown while in combat, unless doing so would waste most of it's active duration (e.g. mobs during a dungeon pull have almost died.)
@@ -42,7 +42,7 @@ During dungeon encounters, it is generally preferred to pull as many of the mobs
 
 
 ## Leveling Rotation
-
+- - -
 ### __Levels 1-25__
 - Use **Demon Slice** at 2+ targets.
 
