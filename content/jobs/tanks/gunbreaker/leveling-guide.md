@@ -25,7 +25,8 @@ This guide will teach you when to use your AOE skills while you are engaged in l
 - Use **Demon Slice** at 2+ targets.
 
 ## __Levels 26-39__
-Unlocks **Solid Barrel** and **Burst Strike**.
+Unlocks **Solid Barrel** and **Burst Strike**.</br>
+</br> Your **powder gauge** will finally be usable here, and ideally you want to hold onto your resources for **No Mercy**. This means that you will typically not use **Burst Strike** unless the next combo action will overfill the **powder gauge**, or **No Mercy** is active.
 - Use **Demon Slice** at 3+ targets.
 - Stop using **Burst Strike** at 3+ targets.
 
@@ -37,20 +38,23 @@ Unlocks **Demon Slaughter** and **Sonic Break**.</br>
 - Stop using **Sonic Break*** at 7+ targets when it unlocks.
 
 ## __Levels 60-71__
-Unlocks **Gnashing Fang** and **Continuation**.
+Unlocks **Gnashing Fang** and **Continuation**.</br>
+</br> **Gnashing Fang** is a powerful single-target combo that should be used off-cooldown and one usage per minute should always be inside **No Mercy**. Make sure to have gauge resources available for this whenever it becomes ready.
 - Stop using **Gnashing Fang** at 4+ targets from level 60-69.
 - Stop using **Gnashing Fang** at 6+ targets at level 70.
 - Same rules regarding **Demon Slaughter**, **Burst Strike**, and **Sonic Break**.
 
 ## __Levels 72-83__
-Unlocks **Fated Circle**.
+Unlocks **Fated Circle** and **Bloodfest**.</br>
+</br> **Bloodfest** should only be used when the gauge is empty. **Bloodfest** is typically used inside **No Mercy**.
 - Use **Demon Slaughter** combo at 2+ targets.
 - Use **Fated Circle** at 2+ targets.
 - Stop using **Gnashing Fang** at 4+ targets.
 - Stop using **Sonic Break*** at 5+ targets.
 
 ## __Levels 84-100__
-Unlocks multiple potency-modifying traits, **Hypervelocity**, **Double Down**, **Fated Brand**, and **Reign of Beasts**.
+Unlocks multiple potency-modifying traits, **Hypervelocity**, **Double Down**, **Fated Brand**, and **Reign of Beasts**.</br>
+</br> **Double Down** and **Reign of Beasts** should always be used within **No Mercy** both as part of your single-target and multi-target rotation. This completes your single-target burst phase with **Gnashing Fang**, **Double Down**, **Reign of Beasts**, and **Sonic Break**.
 - Prioritize **Double Down** when it unlocks.
 - Prioritize **Reign of Beasts** when it unlocks.
 - Use **Demon Slaughter** combo at 3+ targets.
