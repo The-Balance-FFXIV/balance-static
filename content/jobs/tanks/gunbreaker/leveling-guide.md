@@ -44,20 +44,17 @@ During dungeon encounters, it is generally preferred to pull as many of the mobs
 ## Leveling Rotation
 - - -
 ### __Levels 1-25__
-- Use **single-target** combo actions below 2 targets.
 - Use **Demon Slice** at 2+ targets.
 
 ### __Levels 26-39__
 Unlocks **Solid Barrel** and **Burst Strike**.</br>
 </br> Your **powder gauge** and full single-target combo will finally be usable here, and ideally you want to hold onto your resources for **No Mercy**. This means that you will typically not use **Burst Strike** unless the next combo action will overfill the **powder gauge**, or **No Mercy** is active.
-- Use **Solid Barrel** combo actions below 3 targets.
 - Use **Demon Slice** at 3+ targets.
 - Stop using **Burst Strike** at 3 targets.
 
 ### __Levels 40-59__
 Unlocks **Demon Slaughter** and **Sonic Break**.</br>
 </br> \* With **Sonic Break**, it is important to evaluate that this action becomes increasingly worse to use if a target dies before it's full value applies to a target. Keep this in mind when considering using it during a multi-target pull, as it may no longer be worth using. Some basic rules of thumb for it's usage that have been derived from uptime simulations in multi-target scenarios are located at the bottom of the page.
-- Use **Solid Barrel** combo actions below 2 targets.
 - Use **Demon Slaughter** combo at 2+ targets.
 - Stop using **Burst Strike** at 3 targets.
 - Stop using **Sonic Break*** at 7 targets (when it unlocks).
@@ -72,7 +69,6 @@ Unlocks **Gnashing Fang** and **Continuation**.</br>
 ### __Levels 72-83__
 Unlocks **Fated Circle** and **Bloodfest**.</br>
 </br> **Bloodfest** should only be used when the gauge is empty. **Bloodfest** is typically used inside **No Mercy**.
-- Use **Solid Barrel** combo actions below 2 targets.
 - Use **Demon Slaughter** combo at 2+ targets.
 - Use **Fated Circle** at 2+ targets.
 - Stop using **Gnashing Fang** at 4 targets.
@@ -83,7 +79,6 @@ Unlocks multiple potency-modifying traits, **Hypervelocity**, **Double Down**, *
 </br> **Double Down** and **Reign of Beasts** should always be used within **No Mercy** both as part of your single-target and multi-target rotation. This completes your single-target burst phase with **Gnashing Fang**, **Double Down**, **Reign of Beasts**, and **Sonic Break**, which leads to interesting optimization at level 100 due to **Fated Circle** becoming more powerful than **Gnashing Fang** and **Sonic Break** within **No Mercy** beyond 3 and 4 targets respectively.
 - Prioritize **Double Down** when it unlocks.
 - Prioritize **Reign of Beasts** when it unlocks.
-- Use **Solid Barrel** combo actions below 3 targets.
 - Use **Demon Slaughter** combo at 3+ targets.
 - Use **Fated Circle** at 2+ targets.
 - Same rules regarding **Gnashing Fang** and **Sonic Break***.
