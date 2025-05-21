@@ -48,7 +48,7 @@ During dungeon encounters, it is generally preferred to pull as many of the mobs
 
 ### __Levels 26-39__
 Unlocks **Solid Barrel** and **Burst Strike**.</br>
-</br> Your **powder gauge** and full single-target combo will finally be usable here, and ideally you want to hold onto your resources in order to use **Burst Strike** within **No Mercy**. This means that you will typically not use **Burst Strike** unless the next combo action will overfill the **powder gauge**, or **No Mercy** is active.
+</br> Your **powder gauge** and full single-target combo will finally be usable here, and ideally you want to hold onto your resources in order to use **Burst Strike** within **No Mercy**. This means that you will typically not use **Burst Strike** unless your next combo action will overfill the **powder gauge**, or **No Mercy** is active.
 - Use **Demon Slice** at 3+ targets.
 - Stop using **Burst Strike** at 3 targets.
 
