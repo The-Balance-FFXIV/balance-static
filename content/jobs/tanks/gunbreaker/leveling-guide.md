@@ -76,7 +76,7 @@ Unlocks **Fated Circle** and **Bloodfest**.</br>
 
 ### __Levels 84-100__
 Unlocks multiple potency-modifying traits, **Hypervelocity**, **Double Down**, **Fated Brand**, and **Reign of Beasts**.</br>
-</br> **Double Down** and **Reign of Beasts** should always be used within **No Mercy** both as part of your single-target and multi-target rotation. This completes your single-target burst phase with **Gnashing Fang**, **Double Down**, **Reign of Beasts**, and **Sonic Break**, which leads to interesting optimization at level 100 due to **Fated Circle** becoming more powerful than **Gnashing Fang** and **Sonic Break** within **No Mercy** beyond 3 and 4 targets respectively.
+</br> **Double Down** and **Reign of Beasts** should always be used within **No Mercy** both as part of your single-target and multi-target rotation. This completes your single-target burst phase with **Gnashing Fang**, **Double Down**, **Reign of Beasts**, and **Sonic Break**, which leads to interesting optimization at level 100 due to **Fated Circle** becoming more powerful than **Gnashing Fang** and **Sonic Break** within **No Mercy** beyond 2 and 3 targets respectively.
 - Prioritize **Double Down** when it unlocks.
 - Prioritize **Reign of Beasts** when it unlocks.
 - Use **Demon Slaughter** combo at 3+ targets.
