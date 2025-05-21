@@ -5,102 +5,63 @@ authors:
   - azazael
   - Balance-GNB-Staff
 patch: "7.2"
-lastmod: 2025-03-24T21:57:43.641Z
+lastmod: 2025-05-21T22:15:30.748Z
 changelog:
   - date: 2021-10-25T21:25:48.261Z
     message: Created article
   - date: 2022-04-12T00:13:48.783Z
     message: Updated for Endwalker.
 ---
-# Leveling Guide
+# Leveling AoE  Guide
 
-Like any other class, you may have to do lower level content and of course will need to Level from level 60 to level 90 if forgoing a jump book. So, it’s important to keep on top of GNB, especially at Level 70 due to sync for **The Weapon’s Refrain (Ultimate)** and **The Unending Coil of Bahamut (Ultimate).**
+This guide will teach you when to use your AOE skills while you are engaged in leveling content. You should generally follow these rules:
+- You should be using **No Mercy** off cooldown while in combat, unless doing so would waste most of it's active duration (e.g. mobs during a dungeon pull have almost died.)
+- You should be using all of your damaging off-GCD cooldowns such as **Blasting Zone** and **Bow Shock** on any number of enemies.
+- You should be positioning yourself to strike as many targets as possible.
+  - You can manipulate enemies into stacking closer together by walking a short distance away to cause them to follow you. This will help you and your team during dungeon pulls.
+  - Consider pulling enemy mobs into your party member's negative effects, such as Ninja's **Doton**.
 
-**No Mercy** is unlocked at level 2, so it’s used in all forms of content from the beginning of A Realm Reborn up to current content in Endwalker. No Mercy is standard and should be used on cooldown, though the abilities and weaponskills available to you will expand as your level increases.
+## __Levels 1-25__
+- Use **Demon Slice** at 2+ targets.
 
-# Level 15-29
+## __Levels 26-39__
+Unlocks **Solid Barrel** and **Burst Strike**.
+- Use **Demon Slice** at 3+ targets.
+- Stop using **Burst Strike** at 3+ targets.
 
-1-2 Targets:
+## __Levels 40-59__
+Unlocks **Demon Slaughter** and **Sonic Break**.</br>
+</br> \* With **Sonic Break**, it is important to evaluate that this action becomes increasingly worse to use if a target dies before it's full value applies to a target. Keep this in mind when considering using it during a multi-target pull, as it may no longer be worth using. Some basic rules of thumb for it's usage that have been derived from uptime simulations in multi-target scenarios are located at the bottom of the page.
+- Use **Demon Slaughter** combo at 2+ targets.
+- Stop using **Burst Strike** at 3+ targets.
+- Stop using **Sonic Break*** at 7+ targets when it unlocks.
 
-* Cast the **Solid Barrel** combo.
+## __Levels 60-71__
+Unlocks **Gnashing Fang** and **Continuation**.
+- Stop using **Gnashing Fang** at 4+ targets from level 60-69.
+- Stop using **Gnashing Fang** at 6+ targets at level 70.
+- Same rules regarding **Demon Slaughter**, **Burst Strike**, and **Sonic Break**.
 
-3+ Targets:
+## __Levels 72-83__
+Unlocks **Fated Circle**.
+- Use **Demon Slaughter** combo at 2+ targets.
+- Use **Fated Circle** at 2+ targets.
+- Stop using **Gnashing Fang** at 4+ targets.
+- Stop using **Sonic Break*** at 5+ targets.
 
-* Cast **Demon Slice**
+## __Levels 84-100__
+Unlocks multiple potency-modifying traits, **Hypervelocity**, **Double Down**, **Fated Brand**, and **Reign of Beasts**.
+- Prioritize **Double Down** when it unlocks.
+- Prioritize **Reign of Beasts** when it unlocks.
+- Use **Demon Slaughter** combo at 3+ targets.
+- Use **Fated Circle** at 2+ targets.
+- Same rules regarding **Gnashing Fang** and **Sonic Break***.
 
-# Level 30-39
+At level 100, **Gnashing Fang** is technically a very small loss at 3+ targets when running an AOE-only rotation to a purely infinite duration, but there are a high number of dynamic AOE scenarios that can exist (uneven add health reducing target count on death, thrown off cooldown alignment by moving this action around resulting in future loss, etc.) that would show this action being a gain when used off cooldown on up to 3 targets, so this is what we feel should be the *average* recommendation for most short encounters around 30 seconds in length or anytime one of the 3 targets is nearly dead.
+  - A good time to consider using **Fated Circle(s)** in place of **Gnashing Fang** at 3 targets is whenever the 3-target AOE encounter will last for more than 30 seconds, or at minimum, whenever skipping or holding a usage would not negatively impact **Gnashing Fang's** alignment throughout the rest of the fight and cause lost usages (or some form of loss within﻿ **No Mercy**).
 
-1 Target:
 
-* Cast the **Solid Barrel** combo.
-* Cast **Burst Strike** when the gauge is full or **No Mercy** is active.
-* Enter **No Mercy** with two cartridges.
-
-2+ Targets:
-
-* **Demon Slaughter** combo
-* Continue to use the **Demon Slaughter** combo instead of **Burst Strike** at **three targets.**
-
-# Level 40-59
-
-* **Sonic Break** is unlocked at level 54 and procs when casting **No Mercy**.
-
-# Level 60-71
-
-As you gain access to the **Gnashing Fang** combo at level 60. you want to use one of your stored cartridges for the combo instead of a **Burst Strike**. **Gnashing Fang** is every 30s, so it will be available for **No Mercy** if used on cooldown.
-
-1 Target:
-
-* Cast the **Solid Barrel** combo.
-* Cast the **Gnashing Fang** combo + **Danger Zone** every 30s.
-* Cast **Bow Shock** + **Sonic Break** under **No Mercy.**
-* **Burst Strike** excess cartridges to avoid overcapping.
-
-2 Targets:
-
-* Cast the **Demon Slaughter** combo.
-* Cast the **Gnashing Fang** combo + **Danger Zone** every 30s.
-* Cast **Bow Shock** + **Sonic Break** under **No Mercy.**
-* **Burst Strike** excess cartridges to avoid overcapping.
-
-3 Targets:
-
-* Same as 2 targets, but stop using **Burst Strike**.
-
-4+ Targets:
-
-* Same as 3 targets, but stop using **Gnashing Fang**.
-
-**\*Fated Circle** is unlocked at level 72, as a result, it cannot be used in **UCoB** or **UWU**. Keep this in mind for phases where you do multi-target, including Garuda, Ifrit and UCoB Adds. In this case, Burst Strike to avoid overcapping on two targets, ignore cartridges on three or more targets.*
-
-# Level 72+
-
-1 Target:
-
-* Cast the **Solid Barrel** combo.
-* Cast the **Gnashing Fang** combo + **Danger Zone** every 30s.
-* Cast **Bow Shock** + **Sonic Break** under **No Mercy.**
-* **Burst Strike** excess cartridges to avoid overcapping.
-
-2-3 Targets:
-
-* Cast the **Demon Slaughter** combo.
-* Cast the **Gnashing Fang** combo + **Danger Zone** every 30s.
-* Cast **Bow Shock** + **Sonic Break** under **No Mercy.**
-* **Fated Circle** excess cartridges to avoid overcapping.
-
-4+ Targets:
-
-* Stop casting **Gnashing Fang**.
-
-*Bloodfest is unlocked at level 76. Use it on cooldown and ensure you have an empty gauge when using it.*
-
-# Level 80+
-
-The only differences between level 80 to level 100 are the lack of a third cartridge, no **Hypervelocity,** no **Double Down**, and no **Lionheart**, but the same rotational rules still apply. Since **Double Down** and **Lionheart** are AOE actions, you should naturally prioritize them as a part of your AOE rotation.
-
-# Level 94+
-
-* The **Solid Barrel** combo should now be used up to 2 targets.
-* Until unlocking **Fated Brand**, use **Burst Strike** on up to 2 targets again.
-* Begin using the **Demon Slaughter** combo at 3 or more targets.
+With **Sonic Break**, you should consider how close the target is to dying when deciding on how important it is to apply the action. At level 100, the following bullet list applies for multi-target scenarios, but it is going to depend at lower levels. This advice will still be a generally good rule of thumb for any level, however.
+- At 4 targets, do NOT use this if you suspect **Sonic Break** will not last for it's **entire duration**.
+- At 3 targets, do NOT use this if you suspect﻿ **Sonic Break** will not last for at least **half** of it's duration.
+- At 3+ targets, it is a gain to hold and then use﻿ **Sonic Break** out of **No Mercy** if it will let you use another﻿ **Fated Circle** in it's place, as long as no DoT time is lost.
