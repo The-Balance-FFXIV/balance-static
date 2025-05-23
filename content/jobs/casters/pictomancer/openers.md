@@ -56,7 +56,7 @@ This is an alternative that is *significantly* tighter to execute. You *can* do 
 
 ## 9 Spell Single Muse Burst
 
-![9 GCD Single Muse Burst](/img/jobs/pct/image_2025-05-03_225356921.png "9 GCD Single Muse Burst")
+![9 GCD Single Muse Burst](/img/jobs/pct/1000091140.png "9 GCD Single Muse Burst")
 
 * This is the "old" standard burst window. It is now a 2-3% loss to use this instead of the above, but can be helpful when learning new fights if you are more comfortable with it.
 * This window requires your Starry Muse to be weaved after a hardcast spell, or weaved late after an instant-cast spell in order to reliably fit all 9 spells under Starry, and is naturally tight to execute.
