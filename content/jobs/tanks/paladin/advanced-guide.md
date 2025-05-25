@@ -14,12 +14,11 @@ changelog:
   - date: 2024-07-14T01:05:12.292Z
     message: Reviewed and updated for 7.0
 ---
-## PALADIN IN DAWNTRAIL
+# PALADIN IN DAWNTRAIL
 
-For most of Paladin's lifetime, the job has been known for the players that spreadsheet and optimize each encounter. While the job has changed significantly since this reputation was gained, we can still live up to it. In this guide, I'll discuss smaller ways to improve your gameplay as Paladin, both for your damage, as well as the utility you bring to the raid. 
-(this intro sucks please fix it later lol, idk what's bad about it i just don't feel great abt it and can't come up with anything better rn.)
+Ever since Paladin was reworked in Endwalker Patch 6.3, it has become a job that boasts flexibility and utility to a degree that most other tanks cannot match. Due to Oath Gauge being entirely defensive focused, with the addition of a second party-wide mitigation tool, Paladin has a clear focus on being the shield of the party. Despite this, our offense does not suffer. Paladin offers high burst damage and a cooldown-focused rotation, allowing techniques to be both flexible and applicable to many scenarios. In this guide, I’ll go over general optimizations that exist, as well as how to apply them to real encounters.
 
-## HARDCASTED HOLY SPIRIT
+# HARDCASTED HOLY SPIRIT
 
 On paper, hardcasting a Holy Spirit is a strict potency loss. Our average filler combo GCD is 430 potency per GCD*, and each hardcast only deals 370 potency, due to the one second cast time costing us one second of auto-attacks. Despite this, there are still several applications in which hardcasting a Holy Spirit is worthwhile, ranging from fairly broad situations you may encounter frequently, to more niche applications that may only pop up occasionally.
 
@@ -35,19 +34,46 @@ For example, if you were to end a phase after using Royal Authority, and you are
 
 Other circumstances where hardcasting a Holy Spirit exist, but are much less common and are not worth mentioning in this guide due to how fight-specific and niche they are. For encounter-specific information, check The Balance Discord’s encounter channels.
 
-## BLADE OF HONOR SMUGGLING
+# BLADE OF HONOR SMUGGLING
 
-Discuss what Honor smuggling is, how to do it, its use within damage optimization, etc.
+Dawntrail has continued Endwalker’s trend of emphasizing the even-minute burst window. Normally, we would not have anything to save for even-minute windows, however by delaying Blade of Valor for as long as possible, and doing the same with Blade of Honor, we can contribute to party buffs more than we’d be able to normally. This is Blade of Honor smuggling.
 
-## FIXED TIMELINES
+It’s worth noting that this is worse for your own personal damage on FFLogs, or rDPS. This is because we are strictly lowering the potency of our odd-minute Fight or Flight windows, and whether or not we gain enough back by placing Valor within party buffs depends on our party composition. As tanks, our rDPS does not include damage we gain from placing skills within party buffs, so we strictly lose damage if attempting to optimize for rDPS. However, aDPS does include damage we gain from placing skills within party buffs, so this technique is best used when attempting to optimize your aDPS, or for speedruns.
+
+To smuggle a Blade of Honor, you must enter Fight or Flight with a very specific setup:
+
+* Imperator should be used a full GCD after Fight or Flight. While this isn’t strictly necessary, it gives the user a little bit of wiggle room, and tiny mistakes like clipping won’t cause you to entirely drop Honor.
+* Royal Authority must be used within Fight or Flight, but cannot be the first filler GCD used.
+* Four filler GCDs must be used before using Confiteor.
+* All resources (Atonement and its followup actions, Divine Might Holy Spirit) must be used after fight or flight is over to stall Blade of Valor as long as possible without breaking combo.
+
+There are two ways to go about smuggling Blade of Honor into party buffs. The first is to simply insert smuggled Blades of Honor into your standard rotation, when it’s possible you do it, and when it isn’t, you don’t. The second is to force a two-minute loop by inserting hardcasts into your standard rotation. 
+
+## Natural Loop
+
+As stated above, this is simply inserting smuggle windows into your standard rotation whenever possible. To determine when it is possible, I have created a spreadsheet of Paladin’s natural 7-minute loop, which due to being an odd number, brings it to a 14-minute loop when we consider smuggling Blade of Honor.
+
+![](/img/jobs/pld/smuggle14.png)
+
+(talk more in detail about this lmoa)
+
+## Forced two-minute loop
+
+When we look at all possible smuggle windows above, we can see that only the nine-minute window doesn’t use any weak filler GCDs at all, compared to both the one-minute and five-minute window forced to use one or both of Fast Blade and Riot Blade to make it work. If we insert hardcasted Holy Spirits into our rotation, we can force the 9-minute window into the 10-minute burst every single time.
+
+![](/img/jobs/pld/smuggle2.png)
+
+(more detail more detail)
+
+# FIXED TIMELINES
 
 Use this section to talk about squeezing the most out of a known timeline. Talk about application delay and flexible Fight or Flight timing (as the previous guide had sections for), with the focus on teaching the reader how to create their own optimized windows.
 
-## CLEMENCY
+# CLEMENCY
 
 (maybe merge this section with cover too)
 Discuss Clemency’s use in a prog setting as well as an optimized damage-focused environment. For prog, hammer home how damage does not matter for a while, and encourage readers to work with their healers to use Clemency to ease some burden early on. For an optimized damage-focused setting, discuss using it to allow healers more leeway during downtime mechanics. This section doesn’t have to be super in-depth, but I’d like to include it.
 
-## COVER
+# COVER
 
 Discuss Cover’s usage in both a progression setting and a more optimized setting, its relationship with other gauge cooldowns, and how you can and should be using the skill in multiple different examples. This section will probably include the most math to attempt to convince the reader that this skill is worth using more than most people would have you believe.
