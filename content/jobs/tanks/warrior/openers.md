@@ -4,7 +4,7 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
 patch: "7.2"
-lastmod: 2025-04-06T01:34:37.569Z
+lastmod: 2025-05-26T18:00:59.208Z
 changelog:
   - date: 2022-01-31T07:37:24.695Z
     message: Updated for Endwalker
