@@ -18,7 +18,7 @@ tags:
 # Warrior Openers and Rotation
 
 Warriors prepare their burst while waiting for the party buffs to appear.\
-After the buffs are up, the skills are used more or less in order of importance, as to gain potential re-uses towards the end of the fight.
+After the buffs are up, fell cleaves are used first for comfort, but the order of IR GCDs can be swapped around as desired.
 
 ## Opener Optimization
 
@@ -46,7 +46,7 @@ oGCDs
 
 ![All-Around Opener](/img/jobs/war/warrior_dawntrail_warrior_opener_resized.png "All-Around Opener")
 
-The IR stacks last right until the 3rd Fell Cleave at 2.50 GCD. There's nothing special about this. This is your usual opener, probably.
+There's nothing special about this. This is your usual opener, probably.
 
 ## More on various openers
 
