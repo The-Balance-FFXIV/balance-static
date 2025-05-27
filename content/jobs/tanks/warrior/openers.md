@@ -4,7 +4,7 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
 patch: "7.2"
-lastmod: 2025-04-06T01:34:37.569Z
+lastmod: 2025-05-26T18:00:59.208Z
 changelog:
   - date: 2022-01-31T07:37:24.695Z
     message: Updated for Endwalker
@@ -17,35 +17,36 @@ tags:
 ---
 # Warrior Openers and Rotation
 
-Warriors prepare their burst while waiting for the party buffs to appear.  
-After the buffs are up, the skills are used more or less in order of importance, as to gain potential re-uses towards the end of the fight.
+Warriors prepare their burst while waiting for the party buffs to appear.\
+After the buffs are up, fell cleaves are used first for comfort, but the order of IR GCDs can be swapped around as desired.
 
 ## Opener Optimization
 
 Assumed Timings:
+
 * Tomahawk starts at -0.70s and the pull starts at 0.00s
 * Party buffs are expected to be up at around 7.80s, right when the first Inner Chaos goes out.
 
 Skill Speed requirements
+
 * \>=2.47 or slower for skill-for-skill copy.
 * <=2.45 and faster may move oGCDs slightly.
 
 Potion
+
 * Potion is expected to cover 12 GCDs at these Skill Speeds, from the first Inner Chaos right until the last Inner Chaos.
 * Potion can cover 13 GCDs on a faster GCD speed. It is possible to use a Late Potion after Maim in these cases.
 
 oGCDs
+
 * Upheaval and Onslaughts are used late to catch Party buffs. 
 * The expected timing for all buffs to be up is approximately 7.80s after Tomahawk lands.
 
-
 #### All-Around Opener
 
-![All-Around Opener](https://raw.githubusercontent.com/Moxfi/XIV/main/Dawntrail/Resources/Openers/Warrior_Dawntrail_2.5_GCD_Warrior_Opener.png "All-Around Opener")
+![All-Around Opener](/img/jobs/war/warrior_dawntrail_warrior_opener_resized.png "All-Around Opener")
 
-
-The IR stacks last right until the 3rd Fell Cleave at 2.50 GCD. There's nothing special about this. This is your usual opener, probably.
-
+There's nothing special about this. This is your usual opener, probably.
 
 ## More on various openers
 
