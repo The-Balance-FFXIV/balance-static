@@ -33,6 +33,16 @@ changes:
       Deathfrog Medium potency reduced from 300 to 260.\
 
       Tenri Jindo damage reduction after first enemy reduced from 50% to 25%.
+  - patch: "7.25"
+    description: >-
+      Phantom Kamaitachi damage reduction after the first enemy has been
+      removed.\
+
+      Hollow Nozuchi potency has been increased from 50 to 70.\
+
+      Kunai's Bane damage reduction after the first enemy has been removed.\
+
+      Tenri Jindo damage reduction after the first enemy has been removed.
 authors:
   - Balance-NIN-Staff
 ---
