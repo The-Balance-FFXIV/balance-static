@@ -25,6 +25,10 @@ changelog:
   - date: 2023-05-28T14:37:23.677Z
     message: Added the math formula for DH / Crit buffs
 ---
+## Google Doc
+
+A lot of high-end optimization is covered in the advanced warrior gdoc, linked [HERE](https://docs.google.com/document/d/1c9Ck_Vz0jGmQT4XGgO5zNhkh0BOL_NHiPdccVgqnVxs). For a shorter guide, read on.
+
 ## The Optimization
 
 Warrior Optimization focuses on manipulating the Surging Tempest buff refreshes, and “Carrying buffs” such as Nascent Chaos, Primal Rend Ready and Primal Ruination Ready. 
@@ -97,12 +101,14 @@ Depending on the kill time and fight downtimes, Warriors aim for the following P
 If the fight lasts for well over nine minutes, we opt for a three potion fight. Note that the potion lasts for 30 seconds, and if the kill time is right on 09:05, the third potion was nearly useless.
 
 **Prepull Window:**
+
 * \-00:02 Potion
 * 00:00 Pull
 * 04:30 Potion
 * 09:00 Potion 
 
 **Standard Window:**
+
 * 00:00 Pull
 * 00:05 Potion
 * 04:35 Potion
@@ -114,11 +120,13 @@ What if the fight lasts for less than nine minutes plus some odd seconds? We go 
 With most of the party buffs being ready in six minute cycles, most parties aim to sync everything for that specific "6-min window". This means that we're deliberately delaying our second potion all the way until the six minute mark of the fight.
 
 **Prepull into Six Min:** 
+
 * \-00:02 Potion
 * 00:00 Pull
 * 06:00 Potion
 
 **Standard into Six Min:**
+
 * 00:00 Pull
 * 00:05 Potion
 * 06:00 Potion
