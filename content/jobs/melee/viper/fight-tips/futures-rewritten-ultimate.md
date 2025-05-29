@@ -19,8 +19,6 @@ This guide contains information on how to plan and use your cooldowns to gain th
 
 {{< youtube 5XM3oBaFCkg >}}
 
-
-
 - - -
 
 ### Gearing - 2.10 v 2.12
@@ -32,20 +30,15 @@ Viper performs well in FRU at the three standard GCD speeds: 2.10, 2.11, and 2.1
 
 2.12 and 2.11 offer slightly more average damage in the first four phases, while evening out - or falling behind depending on rotation choices - in Phase 5. **These two skill speeds perform a different rotation than the 2.10 skill speed in order to do its optimal damage.** The main selling point of this speed is that it offers complete compatibility with the NIN gearset, allowing you to play both jobs without sacrificing melds. 
 
-
-
 ### Links
 
-Patch 7.2 brought new food, which did end up changing some of the sets due to additional tiering.
+Patch 7.2 brought new food and introduced new stat tiering. Additionally, Patch 7.25 also brought the new i745 relic weapon, which is a viable and slightly better alternative to the savage weapon. It is not better than the FRU weapon.
 
-You can find each different set in the master link below:\
-[7.2 FRU Master Gearset Link](https://xivgear.app/?page=sl%7Ccf8fa6d6-93d5-424d-89fb-cb2dc1bb4623)
+You can find each different set in the master link below:
 
-
+**[7.25 FRU Master Gearset Link](https://xivgear.app/?page=sl%7Cab821e3e-64bc-4045-912b-2a1c27cfefb8)**
 
 Note: 2.10 will remain the most comfy + consistent GCD speed, while 2.12 gains a bit more average damage while being much harder to pull off correctly.
-
-
 
 ## Limit Break Priority
 
