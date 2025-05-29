@@ -3,8 +3,8 @@ title: Futures Rewritten (Ultimate) Viper Fight Guide
 card_header_image: /img/fruguide-thumbnail.png
 authors:
   - verra
-patch: "7.2"
-lastmod: 2025-03-30T18:47:45.971Z
+patch: "7.25"
+lastmod: 2025-05-29T18:47:45.971Z
 changelog:
   - date: 2025-02-24T06:17:28.033Z
     message: "Guide added to website. "
@@ -12,6 +12,8 @@ changelog:
     message: Fixed formatting issues and added video guide.
   - date: 2025-03-30T18:47:46.887Z
     message: Updated gear set links for Patch 7.2.
+  - date: 2025-05-29T23:07:32.798Z
+    message: Updated master gearset link with new relic weapon set options.
 ---
 # Introduction
 
