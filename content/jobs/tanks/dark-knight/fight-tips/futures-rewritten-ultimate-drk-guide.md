@@ -17,7 +17,9 @@ changelog:
 
 This guide contains suggestions on how to use your cooldowns effectively, and tips and tricks to play each phase as effectively as possible.
 
-Both 2.50 and 2.46 GCD speeds are comfortable during this fight, so we recommend choosing whichever speed you feel most comfortable on.
+Both 2.50 and 2.46 GCD speeds are comfortable during this fight, so we recommend choosing whichever speed you feel most comfortable on. 
+
+You will always be able to find the latest best-in-slot gear for FRU for Dark Knight at the following link: [https://xivgear.app/#/bis/drk/ultimate/fru](https://xivgear.app/#/bis/drk/ultimate/fru)
 
 # Phase One: Fatebreaker
 
@@ -101,4 +103,7 @@ Best of luck on your clear!
 
 # Clear Point of View Videos
 
-Kyo: https://www.youtube.com/watch?v=KsoCHJVplnc
+{{< youtube zL1QpCHJTII >}}
+
+
+{{< youtube KsoCHJVplnc >}}
