@@ -6,12 +6,14 @@ authors:
   - apileofcats
   - violet-stardust
 patch: "7.2"
-lastmod: 2024-12-06T15:51:16.691Z
+lastmod: 2025-05-30T00:41:26.399Z
 changelog:
   - date: 2024-12-30T20:25:23.364Z
     message: Added details for all five phases
   - date: 2024-12-30T23:22:39.334Z
     message: general editing pass
+  - date: 2025-05-30T00:41:27.645Z
+    message: Minor updates, better BiS link, improved PoVs
 ---
 # Introduction
 
