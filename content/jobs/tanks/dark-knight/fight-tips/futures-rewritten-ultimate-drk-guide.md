@@ -6,18 +6,26 @@ authors:
   - apileofcats
   - violet-stardust
 patch: "7.2"
-lastmod: 2024-12-06T15:51:16.691Z
+lastmod: 2025-05-30T00:41:26.399Z
 changelog:
   - date: 2024-12-30T20:25:23.364Z
     message: Added details for all five phases
   - date: 2024-12-30T23:22:39.334Z
     message: general editing pass
+  - date: 2025-05-30T00:41:27.645Z
+    message: Minor updates, better BiS link, improved PoVs
 ---
 # Introduction
 
 This guide contains suggestions on how to use your cooldowns effectively, and tips and tricks to play each phase as effectively as possible.
 
-Both 2.50 and 2.46 GCD speeds are comfortable during this fight, so we recommend choosing whichever speed you feel most comfortable on.
+Dark Knight is a very strong tank in FRU at both main and off-tank, and its ability to move gauge usage (and therefore damage) around for whichever phase you need the most damage is invaluable during progression.
+
+# Gear
+
+Dark Knight BiS for FRU can be found at the following link: [https://xivgear.app/#/bis/drk/ultimate/fru](https://xivgear.app/#/bis/drk/ultimate/fru), which will always be kept up to date and have a variety of options. 
+
+Both 2.50 and 2.46 GCD speeds are comfortable during this fight, so we recommend choosing whichever speed you feel most comfortable on. 
 
 # Phase One: Fatebreaker
 
@@ -101,4 +109,7 @@ Best of luck on your clear!
 
 # Clear Point of View Videos
 
-Kyo: https://www.youtube.com/watch?v=KsoCHJVplnc
+{{< youtube zL1QpCHJTII >}}
+
+
+{{< youtube KsoCHJVplnc >}}
