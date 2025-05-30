@@ -5,10 +5,12 @@ authors:
   - apileofcats
   - violet-stardust
 patch: "7.2"
-lastmod: 2025-01-14T23:55:40.718Z
+lastmod: 2025-05-30T00:41:03.628Z
 changelog:
   - date: 2025-01-14T23:57:19.217Z
     message: Initial guide added.
+  - date: 2025-05-30T00:41:04.733Z
+    message: Minor updates, better BiS link, added PoV
 ---
 # Introduction
 
