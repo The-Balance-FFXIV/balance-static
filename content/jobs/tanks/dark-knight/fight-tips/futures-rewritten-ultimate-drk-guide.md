@@ -19,7 +19,7 @@ changelog:
 
 This guide contains suggestions on how to use your cooldowns effectively, and tips and tricks to play each phase as effectively as possible.
 
-Dark Knight is a very strong tank in FRU at both main and off-tank, and its ability to move gauge around for whichever phase you need the most damage is invaluable during progression.
+Dark Knight is a very strong tank in FRU at both main and off-tank, and its ability to move gauge usage (and therefore damage) around for whichever phase you need the most damage is invaluable during progression.
 
 # Gear
 
