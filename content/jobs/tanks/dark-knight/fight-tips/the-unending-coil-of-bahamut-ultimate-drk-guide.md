@@ -16,9 +16,13 @@ changelog:
 
 This guide contains suggestions on how to use your cooldowns effectively, and tips and tricks to play each phase as effectively as possible.
 
-While most gearsets will work for UCOB, you can also check the [BiS sets here](https://xivgear.app/#/bis/drk/ultimate/ucob), which will always be kept up to date and have a variety of options. If you have the Shadowbringers relic, we recommend a GCD speed of 2.45 or 2.40 to take advantage of the free Skill Speed provided.
-
 While Dark Knight does the lowest damage of all of the tanks in UCoB, damage does not matter very much as the checks as very lax. Dark Knight does have an incredibly potent set of defensive cooldowns, especially since patch 7.1 where Dark Missionary is available for this ultimate. In particular, The Blackest Night (TBN) and Dark Mind overperform throughout this ultimate, and mitigating damage is incredibly comfortable.
+
+# Gear
+
+Dark Knight BiS for UCoB can be found at the following link: [https://xivgear.app/#/bis/drk/ultimate/ucob](https://xivgear.app/#/bis/drk/ultimate/ucob), which will always be kept up to date and have a variety of options. 
+
+If you have the Shadowbringers relic, we recommend a GCD speed of 2.45 or 2.40 to take advantage of the free Skill Speed provided.
 
 # Defensive Skill Usage
 
