@@ -10,9 +10,7 @@ changelog:
   - date: 2025-01-14T23:57:19.217Z
     message: Initial guide added.
 ---
-
-
-{{< youtube zL1QpCHJTII >}}# Introduction
+}# Introduction
 
 This guide contains suggestions on how to use your cooldowns effectively, and tips and tricks to play each phase as effectively as possible.
 
