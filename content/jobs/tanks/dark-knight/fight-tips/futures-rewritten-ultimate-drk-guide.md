@@ -19,9 +19,13 @@ changelog:
 
 This guide contains suggestions on how to use your cooldowns effectively, and tips and tricks to play each phase as effectively as possible.
 
-Both 2.50 and 2.46 GCD speeds are comfortable during this fight, so we recommend choosing whichever speed you feel most comfortable on. 
+Dark Knight is a very strong tank in FRU at both main and off-tank, and its ability to move gauge around for whichever phase you need the most damage is invaluable during progression.
 
-You will always be able to find the latest best-in-slot gear for FRU for Dark Knight at the following link: [https://xivgear.app/#/bis/drk/ultimate/fru](https://xivgear.app/#/bis/drk/ultimate/fru)
+# Gear
+
+Dark Knight BiS for FRU can be found at the following link: [https://xivgear.app/#/bis/drk/ultimate/fru](https://xivgear.app/#/bis/drk/ultimate/fru), which will always be kept up to date and have a variety of options. 
+
+Both 2.50 and 2.46 GCD speeds are comfortable during this fight, so we recommend choosing whichever speed you feel most comfortable on. 
 
 # Phase One: Fatebreaker
 
