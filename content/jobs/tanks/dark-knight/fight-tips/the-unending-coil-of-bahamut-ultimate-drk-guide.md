@@ -5,18 +5,24 @@ authors:
   - apileofcats
   - violet-stardust
 patch: "7.2"
-lastmod: 2025-01-14T23:55:40.718Z
+lastmod: 2025-05-30T00:41:03.628Z
 changelog:
   - date: 2025-01-14T23:57:19.217Z
     message: Initial guide added.
+  - date: 2025-05-30T00:41:04.733Z
+    message: Minor updates, better BiS link, added PoV
 ---
 # Introduction
 
 This guide contains suggestions on how to use your cooldowns effectively, and tips and tricks to play each phase as effectively as possible.
 
-While most gearsets will work for UCOB, check the [BiS sets](/jobs/tanks/dark-knight/best-in-slot) posted on the site or in The Balance Discord server if you want to optimize your damage. If you have the Shadowbringers relic, we recommend a GCD speed of 2.45 or 2.40 to take advantage of the free Skill Speed provided.
-
 While Dark Knight does the lowest damage of all of the tanks in UCoB, damage does not matter very much as the checks as very lax. Dark Knight does have an incredibly potent set of defensive cooldowns, especially since patch 7.1 where Dark Missionary is available for this ultimate. In particular, The Blackest Night (TBN) and Dark Mind overperform throughout this ultimate, and mitigating damage is incredibly comfortable.
+
+# Gear
+
+Dark Knight BiS for UCoB can be found at the following link: [https://xivgear.app/#/bis/drk/ultimate/ucob](https://xivgear.app/#/bis/drk/ultimate/ucob), which will always be kept up to date and have a variety of options. 
+
+If you have the Shadowbringers relic, we recommend a GCD speed of 2.45 or 2.40 to take advantage of the free Skill Speed provided.
 
 # Defensive Skill Usage
 
@@ -89,7 +95,7 @@ All abilities with cooldowns longer than 90 seconds should be held after Tenstri
 
 Most groups will want to use Tank LB3 for Grand Octet if it is available. Stand clear of Twintania's dive and cast LB as the towers appear and you will be able to move in time to dodge Twisters. If a tank gets targeted for the dive, they cannot be the one who uses LB. It's also encouraged for everybody to use Arm's Length/Surecast to prevent a wipe caused by a dive going awry.
 
-You will gain about 3600 mana between Bahamut going untargetable for the last time and Nael/Twin becoming targetable. Try to enter Phase Four with full or nearly-full mana for the first two-minute burst.
+You will gain about 3600 MP between Bahamut going untargetable for the last time and Nael/Twin becoming targetable. Try to enter Phase Four with full or nearly-full MP for the first two-minute burst.
 
 # Phase Four: Adds / Teraflare / Triple Threat
 
@@ -107,7 +113,7 @@ If damage is poor and you are seeing the third set of tankbusters, then each tan
 
 With proper coordination between both tanks, Reprisal can be used on the first, second, and third busters, and both Megaflares. You can use Dark Missionary for the first Megaflare and have it up for the first Morn Afah in Phase Five.
 
-Dump all of your resources before the end of the phase; the transition will kill you and you will start Phase 5 with full mana and zero blood.
+Dump all of your resources before the end of the phase; the transition will kill you and you will start Phase 5 with full MP and zero blood.
 
 # Phase Five: Golden Bahamut
 
@@ -123,6 +129,13 @@ Since the DPS requirement is quite low, it's recommended to use tank LB for safe
 
 Coordinate your burst windows with your group. Many groups will use all cooldowns at the start of the phase, and save their potion for the second two minute burst in the phase.
 
+
+# Closing Thoughts
+
 A final word: Don't get discouraged if the number on your FFLogs page after clearing isn't what you hoped. UCoB rankings in particular favor long, messy kills that spend as much time as possible on Phases Four and Five to take advantage of two-target cleave and the Phoenix Blessing buff. Excellent play can easily result in relatively unimpressive numbers, and often, playing for consistency of clears can run counter to getting a high parse.
 
 Best of luck with your clear!
+
+# Clear Point of View Videos
+
+{{< youtube vItzlrnxWmk >}}
