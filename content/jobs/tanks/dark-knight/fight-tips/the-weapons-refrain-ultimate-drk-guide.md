@@ -5,18 +5,24 @@ authors:
   - violet-stardust
   - apileofcats
 patch: "7.2"
-lastmod: 2025-03-24T21:34:12.065Z
+lastmod: 2025-05-30T00:44:13.798Z
 changelog:
   - date: 2025-02-14T00:17:24.943Z
     message: UWU DRK fight tips version 1 added.
+  - date: 2025-05-30T00:44:21.528Z
+    message: Minor tweaks, added PoV video
 ---
 # Introduction
 
-This guide contains suggestions on how to use your cooldowns effectively, and tips and tricks to play each phase as effectively as possible.
-
-While most gearsets will work for UWU, check the [BiS sets](/jobs/tanks/dark-knight/best-in-slot) posted on the site or in The Balance Discord server if you want to optimize your damage. If you have the Shadowbringers relic, we recommend a GCD speed of 2.45 or 2.40 to take advantage of the free Skill Speed provided.
+This guide contains suggestions on how to use your cooldowns effectively, and tips and tricks to play each phase as effectively as possible. 
 
 While Dark Knight does the lowest damage of all of the tanks in UWU, damage does not matter very much as the checks as very lax. Dark Knight does have an incredibly potent set of defensive cooldowns, especially since patch 7.1 where Dark Missionary is available for this ultimate. In particular, The Blackest Night (TBN) and Dark Mind overperform throughout this ultimate, and mitigating damage is incredibly comfortable.
+
+# Gear
+
+Dark Knight BiS for UWU can be found at the following link: [https://xivgear.app/#/bis/drk/ultimate/uwu](https://xivgear.app/#/bis/drk/ultimate/uwu), which will always be kept up to date and have a variety of options. 
+
+If you have the Shadowbringers relic, we recommend a GCD speed of 2.45 or 2.40 to take advantage of the free Skill Speed provided.
 
 # Defensive Skill Usage
 
@@ -112,6 +118,12 @@ The main tank cannot be targeted by an Eruption during primal roulette, so don't
 
 Watch Ultima's HP; regardless of when your final burst is planned, you should use your potion by the time the boss drops to around 15% HP to benefit from its full duration.
 
+# Closing Thoughts
+
 A final word: Don't get discouraged if the number on your FFLogs page after clearing isn't what you hoped. Excellent play can easily result in relatively unimpressive numbers, and often, playing for consistency of clears can run counter to getting a high parse.
 
 Best of luck with your clear!
+
+# Clear Point of View Videos
+
+{{< youtube tbBEUF3ffeI >}}
