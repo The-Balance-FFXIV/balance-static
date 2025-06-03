@@ -2,7 +2,7 @@
 title: Ninja Skills Overview
 authors:
   - zhotacton
-patch: "7.2"
+patch: "7.25"
 lastmod: 2025-03-24T12:20:01.615Z
 changelog:
   - date: 2021-10-28T04:09:39.139Z
@@ -15,6 +15,8 @@ changelog:
     message: Updated to 6.4 (no changes)
   - date: 2025-03-24T12:20:03.771Z
     message: Updated to 7.2
+  - date: 2025-05-27T10:33:27.515Z
+    message: Updated to 7.25
 ---
 # Weaponskills (Commonly referred to as GCDs)
 
@@ -49,14 +51,14 @@ Delivers an attack with a potency of 100 to all nearby enemies. If done as the s
 ![](https://xivapi.com/i/002000/002929_hr1.png)
 
 **Phantom Kamaitachi**\
-Orders your shadow to deliver an attack with a potency of 600 to the target, and 25% less to all remaining enemies. Increases Ninki gauge by 10. This GCD can only be used under the effect of Phantom Kamaitachi Ready, granted by Bunshin, and consumes the buff when used. Using this skill while Bunshin is still active neither consumes a stack nor gains extra damage or Ninki. This action cannot be assigned to the hotbar and replaces Bunshin while the Phantom Kamiatachi Ready buff is active. It has a range of 20 yalms.
+Orders your shadow to deliver an attack with a potency of 600 to the target and all nearby enemies. Increases Ninki gauge by 10. This GCD can only be used under the effect of Phantom Kamaitachi Ready, granted by Bunshin, and consumes the buff when used. Using this skill while Bunshin is still active neither consumes a stack nor gains extra damage or Ninki. This action cannot be assigned to the hotbar and replaces Bunshin while the Phantom Kamiatachi Ready buff is active. It has a range of 20 yalms.
 
 Damage from Phantom Kamaitachi counts as pet damage, so it is roughly 7% less potency than stated.
 
 ![](https://xivapi.com/i/002000/002930_hr1.png)
 
 **Hollow Nozuchi**\
-Upon the execution of Katon, Goka Mekkyaku, Phantom Kamaitachi—or Hakke Mujinsatsu as a combo action after Death Blossom—it automatically deals earth damage with a potency of 50 to all enemies within an active Doton. This action cannot be assigned to the hotbar.
+Upon the execution of Katon, Goka Mekkyaku, Phantom Kamaitachi—or Hakke Mujinsatsu as a combo action after Death Blossom—it automatically deals earth damage with a potency of 70 to all enemies within an active Doton. This action cannot be assigned to the hotbar.
 
 ![](https://xivapi.com/i/002000/002931_hr1.png)
 
@@ -156,7 +158,7 @@ Dispels the Shadow Walker buff and in return increases the Ninki gauge by 50. Ad
 
 ![](https://ffxiv.gamerescape.com/w/images/f/fe/Tenri_Jindo_Icon.png)\
 **Tenri Jindo**\
-Deals unaspected damage with a potency of 1100 to the target, and 25% less to all remaining enemies, within a five-yalm radius. Can only be executed while under the effect of Tenri Jindo Ready. This ability has a range of 20 yalms.
+Deals unaspected damage with a potency of 1100 to the target and all nearby enemies, within a five-yalm radius. Can only be executed while under the effect of Tenri Jindo Ready. This ability has a range of 20 yalms.
 
 # Ninki Abilities (oGCDs)
 
