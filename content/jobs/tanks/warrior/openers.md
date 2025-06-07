@@ -44,7 +44,7 @@ oGCDs
 
 #### All-Around Opener
 
-![All-Around Opener](/img/jobs/war/warrior_dawntrail_warrior_opener_resized.png "All-Around Opener")
+![All-Around Opener](/img/jobs/war/warrior-dawntrail-opener-updated-2.png "All-Around Opener")
 
 There's nothing special about this. This is your usual opener, probably.
 
