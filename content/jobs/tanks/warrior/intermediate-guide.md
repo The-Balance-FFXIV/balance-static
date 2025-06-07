@@ -1,6 +1,6 @@
 ---
 title: Warrior Intermediate Guide
-card_header_image: /img/jobs/war/advanced.png
+card_header_image: /img/jobs/war/war-intermediate-guide.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
