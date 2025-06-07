@@ -2,7 +2,7 @@
 title: Warrior Advanced Guide
 card_header_image: /img/jobs/war/advanced.png
 authors:
-  - Balance-WAR-Staff
+  - squall
 patch: "7.2"
 lastmod: 2025-04-03T22:37:53.796Z
 changelog:
