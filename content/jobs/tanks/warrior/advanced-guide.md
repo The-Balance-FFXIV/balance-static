@@ -23,6 +23,9 @@ changelog:
     message: Updated for 6.3
   - date: 2023-05-28T14:37:23.677Z
     message: Added the math formula for DH / Crit buffs
+  - date: 2025-06-07T08:19:45.146Z
+    message: Migrated old advanced guide to new intermediate guide, replaced
+      advanced guide with gdoc
 ---
 ## Google Doc
 
