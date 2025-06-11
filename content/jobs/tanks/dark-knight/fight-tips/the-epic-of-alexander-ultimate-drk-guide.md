@@ -18,7 +18,7 @@ Dark Knight is a very solid choice for TEA and can flexibly perform well in any 
 
 # Gear
 
-Dark Knight BiS for TEA can be found at the following link: [https://xivgear.app/#/bis/drk/ultimate/tea](https://xivgear.app/#/bis/drk/ultimate/tea), which will always be kept up to date and have a variety of options. 
+Dark Knight BiS for TEA can be found at the following link: <https://xivgear.app/#/bis/drk/ultimate/tea>, which will always be kept up to date and have a variety of options. 
 
 If you have the Shadowbringers relic, a GCD speed of 2.45 can make sense to take advantage of the free Skill Speed provided, and is recommended. However, be aware that Skill Speed does not affect **Unleash** or **Stalwart Soul** (your AoE combo), which can be relevant for phase two, as at this level, your **Stalwart Soul** combo is a gain on two. Despite this, we still recommend 2.45 even for groups utilizing AoE more heavily during Phase Two (BJCC), as you won't be AoEing all of the time, and it is not the phase where damage matters most.
 
@@ -100,7 +100,9 @@ You should gain a fair amount of MP during Inception Formation, though it will d
 
 **Reprisal** should be timed once the castbar hits the 'M' in Mega Holy after Wormhole Formation to cover both casts. It's recommended to avoid using **Dark Missionary** here, as the upcoming J-Waves are much more demanding for mitigation.
 
-**Salted Earth** can be used to hit both bosses in the enrage sequence after Wormhole Formation if positioned between the two. Common waymarks for this fight often include a marker in the middle of the arena that you can use to center the **Salted Earth**. In the middle of the marker will work perfectly.
+**Salted Earth** can be used to hit both bosses in the enrage sequence after Wormhole Formation if positioned between the two. Common waymarks for this fight often include a marker in the middle of the arena that you can use to center the **Salted Earth**. In the middle of the marker will work perfectly. For example, in this image, **Salted Earth** is hitting both bosses, and it's not particularly tight, so you should absolutely try to do this.
+
+![Salted Earth Positioning](/img/saltedearthjwaves.png)
 
 If you have a fast kill time, and especially if you send your 2m cooldowns during the J-Waves sequence, there may be a lot of time left on Alexander's enrage before you need to kill it. If so, it's recommended to wait until near the end to kill it, so that your cooldowns align for the next phase. Remember that you can use **Unleash** and **Stalwart Soul** here to build gauge faster than your **Souleater** combo, and without dealing as much damage as your **Souleater** combo.
 
@@ -133,4 +135,3 @@ Another example is that waiting for Alexander to almost finish casting Summon Al
 ### Dank Tank (6.5, Aether PF strats)
 
 {{< youtube MqZm9fJoN3g >}}
-
