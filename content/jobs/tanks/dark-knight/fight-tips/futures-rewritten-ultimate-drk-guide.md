@@ -109,7 +109,6 @@ Best of luck on your clear!
 
 # Clear Point of View Videos
 
-{{< youtube zL1QpCHJTII >}}
+### Dank Tank (7.1, Aether PF Strats)
 
-
-{{< youtube KsoCHJVplnc >}}
+{{< youtube 5YDWk0u81G8 >}}
