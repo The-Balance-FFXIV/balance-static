@@ -34,7 +34,7 @@ bis:
       you'd like to run 2.48.
   - type: genericiframe
     name: Futures Rewritten Best-in-Slot (2.49)
-    link: https://xivgear.app/?page=sl%7Caf85745a-604a-4c99-8d87-5fe8821c0ae9
+    link: https://xivgear.app/?page=embed%7Caf85745a-604a-4c99-8d87-5fe8821c0ae9
     description: You can swap the Skill Speed materia for a Direct Hit if you want
       to play at 2.50. Similarly, swap a second Direct Hit for a Skill Speed if
       you'd like to run 2.48.
