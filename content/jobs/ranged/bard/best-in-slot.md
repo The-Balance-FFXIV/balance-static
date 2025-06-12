@@ -32,14 +32,9 @@ bis:
     description: You can swap the Skill Speed materia for a Direct Hit if you want
       to play at 2.50. Similarly, swap a second Direct Hit for a Skill Speed if
       you'd like to run 2.48.
-  - type: genericlink
-    name: i74x Cruiserweight Savage week 1 prog sets
-    link: https://xivgear.app/?page=sl%7C967e8676-03ce-4f51-917e-d2128539c45c
-    description: Various options presented depending on tome farming plans and
-      ornate possession
-  - type: etro
-    name: Futures Rewritten prog Best-in-Slot (2.49)
-    link: e3a5efdc-adee-4985-b91a-bf28f56933d0
+  - type: genericiframe
+    name: Futures Rewritten Best-in-Slot (2.49)
+    link: https://xivgear.app/?page=sl%7Caf85745a-604a-4c99-8d87-5fe8821c0ae9
     description: You can swap the Skill Speed materia for a Direct Hit if you want
       to play at 2.50. Similarly, swap a second Direct Hit for a Skill Speed if
       you'd like to run 2.48.
