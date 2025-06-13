@@ -2,6 +2,7 @@
 title: Samurai Opener and Rotation
 authors:
   - Balance-SAM-Staff
+  - Flare
 patch: "7.05"
 lastmod: 2025-06-13T20:01:06.661Z
 changelog:
@@ -25,11 +26,7 @@ tags: []
 
 Used in the majority of encounters. Due to phasing, in some instances it may be best to begin with Kasha into Gekko instead.
 
-Use whatever is the most current grade Gemdraught of Strength.
-
-![](/img/jobs/sam/sam_dt_opener.png "Samurai Standard Opener")
-
-
+![](/img/jobs/sam/samurai-opener.jpeg "Samurai Standard Opener")
 
 # Rotation
 
