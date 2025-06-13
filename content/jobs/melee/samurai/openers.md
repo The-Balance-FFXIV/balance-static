@@ -3,7 +3,7 @@ title: Samurai Opener and Rotation
 authors:
   - Balance-SAM-Staff
 patch: "7.05"
-lastmod: 2024-08-22T21:02:32.607Z
+lastmod: 2025-06-13T20:01:06.661Z
 changelog:
   - date: 2021-10-28T03:26:44.525Z
     message: Created page
@@ -31,8 +31,8 @@ If Iai weaves are easier than double weaves for you, feel free to move Senei for
 
 # Rotation
 
-[2.14 Rotation Cheat Sheet](https://i.imgur.com/C0ryA5F.jpeg)
+[2.14 Rotation Cheat Sheet](https://imgur.com/cYL1orX)
 
-[2.08 Rotation Cheat Sheet](https://imgur.com/HMbcRnk)
+[2.08 Rotation Cheat Sheet](https://imgur.com/q8H12cx)
 
-[How to Realign Higanbana](https://i.imgur.com/zvLzrAm.jpeg)
+[How to Realign Higanbana](https://imgur.com/zvLzrAm)
