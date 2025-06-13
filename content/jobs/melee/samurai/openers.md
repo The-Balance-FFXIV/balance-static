@@ -17,13 +17,15 @@ changelog:
     message: Updated for 6.55
   - date: 2024-08-18T06:24:39.596Z
     message: Updated for 7.05
+  - date: 2025-06-13T20:04:04.409Z
+    message: Updated for better clarity
 tags: []
 ---
 # Standard Opener
 
 Used in the majority of encounters. Due to phasing, in some instances it may be best to begin with Kasha into Gekko instead.
 
-If Iai weaves are easier than double weaves for you, feel free to move Senei forward before Kaeshi: Setsugekka.
+Use whatever is the most current grade Gemdraught of Strength.
 
 ![](/img/jobs/sam/sam_dt_opener.png "Samurai Standard Opener")
 
