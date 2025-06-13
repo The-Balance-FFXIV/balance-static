@@ -2,8 +2,9 @@
 title: Samurai Opener and Rotation
 authors:
   - Balance-SAM-Staff
+  - Flare
 patch: "7.05"
-lastmod: 2024-08-22T21:02:32.607Z
+lastmod: 2025-06-13T20:01:06.661Z
 changelog:
   - date: 2021-10-28T03:26:44.525Z
     message: Created page
@@ -17,22 +18,20 @@ changelog:
     message: Updated for 6.55
   - date: 2024-08-18T06:24:39.596Z
     message: Updated for 7.05
+  - date: 2025-06-13T20:04:04.409Z
+    message: Updated for better clarity
 tags: []
 ---
 # Standard Opener
 
 Used in the majority of encounters. Due to phasing, in some instances it may be best to begin with Kasha into Gekko instead.
 
-If Iai weaves are easier than double weaves for you, feel free to move Senei forward before Kaeshi: Setsugekka.
-
-![](/img/jobs/sam/sam_dt_opener.png "Samurai Standard Opener")
-
-
+![](/img/jobs/sam/samurai-opener.jpeg "Samurai Standard Opener")
 
 # Rotation
 
-[2.14 Rotation Cheat Sheet](https://i.imgur.com/C0ryA5F.jpeg)
+[2.14 Rotation Cheat Sheet](https://imgur.com/cYL1orX)
 
-[2.08 Rotation Cheat Sheet](https://imgur.com/HMbcRnk)
+[2.08 Rotation Cheat Sheet](https://imgur.com/q8H12cx)
 
-[How to Realign Higanbana](https://i.imgur.com/zvLzrAm.jpeg)
+[How to Realign Higanbana](https://imgur.com/zvLzrAm)
