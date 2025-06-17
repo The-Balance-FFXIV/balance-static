@@ -218,7 +218,7 @@ At level 90, the Enhanced Living Shadow I trait replaces the 420 potency **Flood
 
 #### Level 100
 
-For completeness, at level 100, the Enhanced Living Shadow II trait replaces the 420 potency **Carve and Spit** with a 620 potency **Disesteem**. As a result, we get our final set of abilities, totaling 2450 potency:
+As listed above, but listed again for completeness, at level 100, the Enhanced Living Shadow II trait replaces the 420 potency **Carve and Spit** with a 620 potency **Disesteem**. As a result, we get our final set of abilities, totaling 2450 potency:
 
 * **Abyssal Drain** (AoE, 420 Potency, 0% less to additional targets)
 * **Shadowstride** (Single Target, No Damage)
