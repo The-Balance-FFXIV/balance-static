@@ -179,6 +179,54 @@ At level 100, **Living Shadow** performs the following abilities, in sequence, t
 
 If the target leaves Esteem's range, Esteem will replace the next ability with **Abyssal Drain**, and then continue where it was in its sequence. If the target is still out of range after **Abyssal Drain**, it will replace its next ability with **Shadowstride**. The only exception to this is if Esteem is out of range for its fifth attack (**Bloodspiller**), in which case it will replace **Bloodspiller** with **Shadowstride**, instead of **Abyssal Drain**. One quirk of Esteem is that **Disesteem** is a melee range ability for **Esteem**, so if Esteem is out of range for **Disesteem**, it will **Abyssal Drain** instead.
 
+### Living Shadow's Ability Usage at Earlier Levels
+
+While the properties and behaviour of Esteem stay the same between levels, the abilities it uses and their potencies differ. The following section outlines its ability usage at each unique set of levels.
+
+#### Level 80-87
+
+At level 80-87, **Living Shadow** performs the following abilities, in sequence, totaling 1700 potency:
+
+* **Abyssal Drain** (AoE, 340 Potency, 0% less to additional targets)
+* **Shadowstride** (Single Target, No Damage)
+* **Flood of Shadow** (AoE, 340 Potency, 0% less to additional targets)
+* **Edge of Shadow** (Single Target, 340 Potency)
+* **Bloodspiller** (Single Target, 340 Potency)
+* **Carve and Spit** (Single Target, 340 Potency)
+
+#### Level 88-89
+
+At level 88, the Enhanced Living Shadow trait increases the potency of its abilities to 420. As a result, at level 80-87, **Living Shadow** performs the following abilities, in sequence, totaling 2100 potency:
+
+* **Abyssal Drain** (AoE, 420 Potency, 0% less to additional targets)
+* **Shadowstride** (Single Target, No Damage)
+* **Flood of Shadow** (AoE, 420 Potency, 0% less to additional targets)
+* **Edge of Shadow** (Single Target, 420 Potency)
+* **Bloodspiller** (Single Target, 420 Potency)
+* **Carve and Spit** (Single Target, 420 Potency)
+
+#### Level 90-99
+
+At level 90, the Enhanced Living Shadow I trait replaces the 420 potency **Flood of Shadow** with a 570 potency **Shadowbringer**. As a result, at level 90-99, **Living Shadow** performs the following abilities, in sequence, totaling 2250 potency:
+
+* **Abyssal Drain** (AoE, 420 Potency, 0% less to additional targets)
+* **Shadowstride** (Single Target, No Damage)
+* **Shadowbringer** (AoE, 570 Potency, 25% less to additional targets)
+* **Edge of Shadow** (Single Target, 420 Potency)
+* **Bloodspiller** (Single Target, 420 Potency)
+* **Carve and Spit** (Single Target, 420 Potency)
+
+#### Level 100
+
+For completeness, at level 100, the Enhanced Living Shadow II trait replaces the 420 potency **Carve and Spit** with a 620 potency **Disesteem**. As a result, we get our final set of abilities, totaling 2450 potency:
+
+* **Abyssal Drain** (AoE, 420 Potency, 0% less to additional targets)
+* **Shadowstride** (Single Target, No Damage)
+* **Shadowbringer** (AoE, 570 Potency, 25% less to additional targets)
+* **Edge of Shadow** (Single Target, 420 Potency)
+* **Bloodspiller** (Single Target, 420 Potency)
+* **Disesteem** (AoE, 620 Potency, 25% less to additional targets)
+
 ## Living Shadow's Scaling
 
 You may notice that Living Shadow's abilities have higher damage than an ability with equivalent potency from the player. This is due to Living Shadow having a variety of alternate scalings to the player, that, combined, result in higher damage overall. Living Shadow updates buffs and debuffs in real-time, meaning you can use Living Shadow before buffs and have them applied to its abilities if they are applied before it uses that ability. It is not affected by Darkside, but is affected by every other buff (including potions). Unlike some abilities with alternate scalings, its listed potencies are accurate, and using the formulae listed below with the listed potencies, you get accurate damage numbers.
