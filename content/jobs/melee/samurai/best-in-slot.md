@@ -2,7 +2,7 @@
 title: Samurai Best in Slot (BiS)
 layout: bis
 patch: "7.2"
-lastmod: 2025-04-12T18:33:35.437Z
+lastmod: 2025-06-13T20:14:35.661Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -38,6 +38,9 @@ bis:
       looping rotation in full uptime.
     name: 2.08 Savage BiS
     link: https://xivgear.app/?page=embed%7Csl%7Ceb5a0c32-362b-401a-a2a7-cd3ea1178184
+  - type: genericlink
+    name: Occult Crescent BiS
+    link: https://xivgear.app/?page=sl%7Ceb4f1732-a191-4515-b0d9-0a032953551a
   - type: plain-text
     description: >-
       Sets for these fights are community-sourced through use of XIVGear. In the
