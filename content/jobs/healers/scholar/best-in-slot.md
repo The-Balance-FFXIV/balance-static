@@ -105,13 +105,13 @@ bis:
     link: https://xivgear.app/?page=bis|sch|endwalker|anabaseios
   - type: xivgear
     name: FRU 2.50
-    link: https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=0
+    link: https://xivgear.app/?page=embed%7Csl%7Cfbc223fa-3fc0-4644-a99c-97cfa90a3dc3
   - type: xivgear
     name: FRU 2.32
-    link: https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=1
+    link: https://xivgear.app/?page=embed%7Csl%7C2eb2f4f4-fd6a-429d-9b22-ee618852a8b9
   - type: etro
     name: FRU 2.50 no chaotic
-    link: https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=2
+    link: https://xivgear.app/?page=embed%7Csl%7C666d008f-fab1-465c-a389-3653437380ba
 authors:
   - Balance-SCH-Staff
 tags:
