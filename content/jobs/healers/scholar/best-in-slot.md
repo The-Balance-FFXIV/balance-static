@@ -2,26 +2,23 @@
 title: Scholar Best in Slot (BiS)
 layout: bis
 patch: "7.2"
-lastmod: 2025-04-08T20:29:57.680Z
+lastmod: 2025-06-24T20:52:42.324Z
 changelog:
-  - date: 2024-08-06T21:59:04.647Z
-    message: updated once again for DT
-  - date: 2024-08-22T06:34:47.580Z
-    message: Updated formatting
-  - date: 2024-11-18T18:23:55.634Z
-    message: aug crafted general recommendation updated
   - date: 2025-03-30T20:19:43.416Z
     message: added 7.2 savage sets
   - date: 2025-04-05T05:18:05.876Z
     message: updated link
   - date: 2025-04-08T20:29:54.019Z
     message: updated sets to include tome order
+  - date: 2025-06-24T20:52:25.677Z
+    message: updated sets
 bis:
   - type: plain-text
     name: Information
     link: ""
     description: >-
-      You can find full sheets with more sets in the scholar resources on The Balance discord
+      You can find full sheets with more sets in the scholar resources on The
+      Balance discord
 
       ## **2.5GCD and 2.49 GCD info:**
 
@@ -108,10 +105,13 @@ bis:
     link: https://xivgear.app/?page=bis|sch|endwalker|anabaseios
   - type: xivgear
     name: FRU 2.50
-    link: https://xivgear.app/?page=embed%7Csl%7C95d87ba8-b251-4257-bc2b-c227abb7d321
+    link: https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=0
   - type: xivgear
-    name: FRU 2.31
-    link: https://xivgear.app/?page=embed%7Csl%7Cc36de212-1ede-466f-a0e0-e80d838fbf49
+    name: FRU 2.32
+    link: https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=1
+  - type: etro
+    name: FRU 2.50 no chaotic
+    link: https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=2
 authors:
   - Balance-SCH-Staff
 tags:
