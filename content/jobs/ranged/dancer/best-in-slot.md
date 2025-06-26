@@ -20,6 +20,8 @@ changelog:
     message: Fixed XIVGear Embeds
   - date: 2025-04-27T16:59:31.371Z
     message: Update FRU, UWU, UCOB sets
+  - date: 2025-06-26T23:29:47.535Z
+    message: Update all sets to 7.2
 bis:
   - type: xivgear
     name: 7.2 ilvl 760 BiS 2.5 GCD
@@ -38,30 +40,26 @@ bis:
     link: https://xivgear.app/?page=embed%7Csl%7C156545f7-e7bd-45c1-b67a-7586da8490a0
   - type: xivgear
     name: 7.2 - UCOB BiS 2.46 GCD
-    link: https://xivgear.app/?page=embed%7Csl%7C5a22a081-823c-4830-aebe-4932e755bf1e
+    link: https://xivgear.app/?page=embed%7Csl%7Cbc5cd516-6bb1-4df7-9ac7-7f3bf7a0dcc3
   - type: xivgear
     name: 7.2 - UWU BiS 2.47 GCD
-    link: https://xivgear.app/?page=embed%7Csl%7Cd6c166f7-401f-4fa2-ad8f-aac5cec0a23b
-  - type: etro
+    link: https://xivgear.app/?page=embed%7Csl%7Cb2cad254-6c71-4b07-854a-ec30b6900cb8
+  - type: xivgear
     description: ""
-    name: 6.50 - TOP / ASS / ASS (Savage) BiS 2.47 GCD
-    link: 685ecbec-5fc5-4664-b5d5-31af8ded0995
-  - type: etro
+    name: "7.2 - TEA BiS 2.50 GCD "
+    link: https://xivgear.app/?page=embed%7Csl%7C5ede5536-29aa-4d84-a110-e5f86d3959b7
+  - type: xivgear
     description: ""
-    name: 6.50 - DSR BiS 2.49 GCD
-    link: 61a7cfc7-e873-43a2-aad3-5f3fd74c773f
-  - type: etro
+    name: 7.2 - DSR BiS 2.50 GCD
+    link: https://xivgear.app/?page=embed%7Csl%7Ca6916eab-1fac-4921-adb8-420b5bc66677
+  - type: xivgear
     description: ""
-    name: 6.50 - DSR BiS 2.49 GCD (with DSR weapon)
-    link: 14c76b56-7ace-45c6-8b73-5d7f515a9994
-  - type: etro
+    name: 7.2 - TOP / ASS / ASS (Savage) BiS 2.50 GCD
+    link: https://xivgear.app/?page=embed%7Csl%7C23d7dc27-198e-4de0-8493-5a59aa2d77ba
+  - type: xivgear
     description: ""
-    name: 6.50 - DSR BiS 2.49 GCD (with Manderville Relic Weapon i615 or i630)
-    link: c6f8d052-1a34-47e7-8d1f-9bdfeb2020fc
-  - type: etro
-    description: ""
-    name: 6.50 - DSR BiS 2.49 GCD (with P4S weapon)
-    link: fae08d67-fdaf-4494-9920-062524c4b583
+    name: 7.2 - i665 BiS for Mount Rokkon and Aloalo Island
+    link: https://xivgear.app/?page=embed%7Csl%7C904c5625-6534-4a11-881e-fc91c48da3e8
 authors:
   - Balance-DNC-Staff
 tags:
