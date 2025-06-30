@@ -41,7 +41,7 @@ bis:
     link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=11
   - type: gsheets
     description: ""
-    name: Ultimate/Unreal Sets
+    name: Ultimate/Unreal/Criterion Sets
     link: https://docs.google.com/document/d/1aXJLZCs0t2jxeGO56RXKamUc4QJV35WER6IOt96ckao/edit?usp=sharing
 authors:
   - Balance-MNK-Staff
