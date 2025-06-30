@@ -16,6 +16,8 @@ changelog:
     message: Updated for 6.5 BiS.
   - date: 2025-03-31T01:08:47.430Z
     message: Updated for 7.2
+  - date: 2025-06-30T15:10:47.538Z
+    message: Updated Ultimate and Other Content Doc
 bis:
   - type: genericiframe
     description: ""
@@ -39,8 +41,8 @@ bis:
     link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=11
   - type: gsheets
     description: ""
-    name: Ultimate/Unreal Sets
-    link: https://docs.google.com/document/d/1Qk1miOkniQ3szZJO0H4Si8TqBnoEDLhVuPPPH5z63kc/edit?usp=sharing
+    name: Ultimate/Unreal/Criterion Sets
+    link: https://docs.google.com/document/d/1aXJLZCs0t2jxeGO56RXKamUc4QJV35WER6IOt96ckao/edit?usp=sharing
 authors:
   - Balance-MNK-Staff
 ---
