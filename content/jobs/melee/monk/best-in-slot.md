@@ -40,7 +40,7 @@ bis:
   - type: gsheets
     description: ""
     name: Ultimate/Unreal Sets
-    link: https://docs.google.com/document/d/1Qk1miOkniQ3szZJO0H4Si8TqBnoEDLhVuPPPH5z63kc/edit?usp=sharing
+    link: https://docs.google.com/document/d/1aXJLZCs0t2jxeGO56RXKamUc4QJV35WER6IOt96ckao/edit?usp=sharing
 authors:
   - Balance-MNK-Staff
 ---
