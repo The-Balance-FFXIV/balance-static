@@ -46,7 +46,7 @@ The purpose of this guide is to give an overview of Dark Knight's abilities and 
 
 # Skills and Abilities Overview
 
-Skills and abilities can be found on the [this page.](/jobs/tanks/dark-knight/skills-overview/)
+Skills and abilities can be found on [this page.](/jobs/tanks/dark-knight/skills-overview/)
 
 - - -
 
@@ -150,7 +150,7 @@ This allows for using 1-2 **Bloodspillers** during every 2-minute raid buff wind
 
 # Helpful Macros
 
-## The Blackest Night (mouseover)
+## The Blackest Night (mouse-over)
 
 ```
 /merror off
@@ -170,7 +170,7 @@ This allows for using 1-2 **Bloodspillers** during every 2-minute raid buff wind
 /micon "The Blackest Night"
 ```
 
-## Oblation (mouseover)
+## Oblation (mouse-over)
 
 ```
 /merror off
@@ -212,13 +212,15 @@ This allows for using 1-2 **Bloodspillers** during every 2-minute raid buff wind
 
 ## Why are there so many repeated lines?
 
-FFXIV macros do not queue, so hitting a macro while in animation lock from another action will cause the macro to not go off. Since macros execute lines sequentially at around one line per frame, repeating the /action lines simulates mashing the ability every frame for ~15 frames and gives the macro a semblance of queuing.
+FFXIV macros do not queue, so hitting a macro while in animation lock from another action will cause the macro to not go off. Since macros execute lines sequentially at around one line per frame, repeating the `/action` lines simulates mashing the ability every frame for ~15 frames and gives the macro a semblance of queuing.
 
-## Mouseover? <2>?
+## Mouse-over? <2>?
 
-<mo> will attempt to target whatever your mouse cursor is currently hovering over when that macro line is reached, whether it be their physical model or a name on your party list.
+`<mo>` will attempt to target whatever your mouse cursor is currently hovering over when that macro line is reached, whether it be their physical model or a name on your party list.
 
-<2> targets the second player on your party list, which is the other tank by default in eight-player content.
+`<2>` targets the second player on your party list, which is the other tank by default in eight-player content.
+
+Note that for the mouse-over macros, if you opt to use them, we recommend having them *in addition to* the normal ability keybind. The normal ability keybind will be easier to use on yourself, as well as being more reliable than the macro, since macros do not properly queue, as discussed above.
 
 - - -
 
@@ -237,7 +239,7 @@ They will still generally give reliable results when used to compare gear with l
 * Item Level
   * Affects Strength and Weapon Damage (for weapons), as well as total substat amount 
   * Significantly affects all damage dealt
-  * Pprioritize over getting better substats
+  * Prioritize over getting better substats
 * Critical Hit
   * Affects critical chance + critical damage
   * Often naturally capped on BiS gear pieces
@@ -262,7 +264,7 @@ They will still generally give reliable results when used to compare gear with l
 
 The Dark Knight rotation is functional at almost all skill speeds, although certain speeds keep oGCD abilities better aligned with your GCD. In particular, 2.40 and 2.50 maintain perfect alignment for 60s cooldown oGCDs.
 
-Outside of high-end optimization, choice of skill speed has little impact on the Dark Knight rotation, and can be chosen for comfort. At certain speeds, 90-second cooldowns like Salted Earth must be drifted or clipped while the same is true of 60-second cooldowns at other speeds.
+Outside of high-end optimization, choice of skill speed has little impact on the Dark Knight rotation, and can be chosen for comfort. At certain speeds, 90-second cooldowns like **Salted Earth** must be drifted or clipped while the same is true of 60-second cooldowns at other speeds.
 
 In optimization, each encounter must be considered separately to determine what GCDs are gained or lost by different skill speeds, as well as lining up the GCD with any melee disengages. In general, the slowest speed that doesn’t lose any major GCDs within a phase will be the strongest choice, as much of Dark Knight's damage does not scale with speed.
 
@@ -373,4 +375,4 @@ You can use macros to make this gear swap easier. For example, this macro will a
 
 ## Fight-specific optimization
 
-For discussion around fight-specific optimization, please visit the #drk_encounter channel in the Balance discord and view the pins to see any up-to-date information on current encounters.
+For discussion around fight-specific optimization, please visit [the #drk_encounter channel](https://discord.com/channels/277897135515762698/1264618936297848926) in the Balance discord and view the pins to see any up-to-date information on current encounters.
