@@ -1,7 +1,7 @@
 ---
 title: Bard Best in Slot (BiS)
 layout: bis
-patch: "7.21"
+patch: "7.25"
 lastmod: 2025-03-30T01:03:22.246Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
