@@ -6,14 +6,33 @@ lastmod: 2025-04-01T04:00:56.823Z
 qna:
   - question: Who do I Dance Partner?
     answer: >-
-      The tentative dance partner priority for patch 7.20 is:\
+      *This list is made in a gear/skill vacuum. This is the recommended partner
+      priority list. (Note: Some fights may favor certain dance partners over
+      others based on phase timings, boss mechanics, or ability to hit multiple
+      targets. For the old level synced content, these priorities are rough
+      estimates based on FFLOGS data.)*
 
-      \
+       ***Level 100 Priority***
 
-      SAM > MNK/PCT/NIN/RPR/VPR > DRG/BLM > RDM > SMN > MCH > BRD > DNC
+      > SAM > PCT/RPR/VPR/MNK/NIN > DRG/BLM > RDM > SMN > MCH > BRD > DNC
 
 
-      There is still not a large enough sample size of good logs to fully determine the exact differences between some of the jobs. More updates may come with Week 8+ of savage when more BiS logs are expected to be available.
+      ***Level 90 Priority***﻿ (for DSR and TOP)
+
+
+      > SAM/PCT > BLM > MNK/VPR/DRG > MCH/RPR/NIN > SMN/RDM > BRD > DNC
+
+
+      ***Level 80 Priority*** (for TEA)
+
+
+      > SAM > BLM > DRG/MNK > PCT > MCH > NIN/RDM/RPR/VPR/SMN > BRD > DNC
+
+
+      ***Level 70 Priority*** (for UCOB and UWU)
+
+
+      > SMN > MNK > BLM > DRG/VPR/PCT/SAM/RPR/NIN/RDM/MCH > BRD > DNC
 
 
       For more accurate results for your group and needs, plug your logs into [partnercalc](https://partnercalc.app/).
