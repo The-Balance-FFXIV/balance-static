@@ -1,7 +1,7 @@
 ---
 title: Bard Best in Slot (BiS)
 layout: bis
-patch: "7.21"
+patch: "7.25"
 lastmod: 2025-03-30T01:03:22.246Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
@@ -35,9 +35,12 @@ bis:
   - type: genericiframe
     name: Futures Rewritten Best-in-Slot (2.49)
     link: https://xivgear.app/?page=embed%7Caf85745a-604a-4c99-8d87-5fe8821c0ae9
-    description: You can swap the Skill Speed materia for a Direct Hit if you want
-      to play at 2.50. Similarly, swap a second Direct Hit for a Skill Speed if
-      you'd like to run 2.48.
+    description: >-
+      Follow the link in the window for different weapon / non-chaotic variants\
+
+      \
+
+      You can swap the Skill Speed materia for a Direct Hit if you want to play at 2.50. Similarly, swap a second Direct Hit for a Skill Speed if you'd like to run 2.48.
 authors:
   - Balance-BRD-Staff
 ---
