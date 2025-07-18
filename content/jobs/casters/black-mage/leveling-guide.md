@@ -124,4 +124,4 @@ There can be value in weaving Transpose to skip the High Fire II and especially 
 
 Here also as little cheatsheet if you want to save it:
 
-![](/img/jobs/blm/dtblmleveling.png)
+![](/img/jobs/blm/blmleveling.png)
