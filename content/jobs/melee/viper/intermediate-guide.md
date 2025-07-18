@@ -191,13 +191,13 @@ This window is possible at 2.12, 2.11, and 2.10, but is extremely tight at 2.12.
 
 To perform this window:
 
-1. Ensure you have at most 2 Rattling Coils. Having 3 will result in an overcap. 
+1. Ensure you have at most 2 Rattling Coils. Having 3 will result in an overcap. If thiswindow will be used with Serpent's Ire, have at most 1 Rattling Coil stack. 2 or more will result in an overcap. 
 2. If performing this sequence at without Serpent's Ire, ensure you have 80 gauge before the first Vicewinder. 
 3. Perform the first two combo actions of the standard dual wield combo (i.e. Steel Fangs -> Hunter's Sting).
 4. Start a Vicewinder combo immediately after the second combo action of the dual wield combo. 
 5. Weave your potion as late as possible immediately following Vicewinder. 
 6. Finish the Vicewinder combo. If you are doing this sequence as part of the 2:00 window, Serpent's Ire will be triple weaved after the second Coil GCD. 
-7. Finish the dual wield combo and follow it up with death rattle. 
+7. Finish the dual wield combo and follow it up with Death Rattle. 
 8. Perform two full Reawaken sequences back to back.
 9. Use Uncoiled Fury after the second Ouroboros.
 
@@ -207,7 +207,7 @@ To visualize, the sequence looks like this:
 
 Please note that the combo finisher can be any of the four finishers, and Flanksbane Fang was only used here as an example. If this was being done at 2:00, Serpent's Ire would be triple weaved after the Swiftskin's Coil in the above visual. 
 
-## 5.3 Chosing Which Pot Window to Use
+## 5.3 Choosing Which Pot Window to Use
 
 Exactly which pot window will be used is strongly based on the context of the fight in which it is being considered for. A 2:00 pot is not possible or optimal in some fights because it would prevent a second pot usage, for example, which might make our most optimal pot window impossible to pull off correctly. The Triple UF Pot and most optimal pot window require strict combo states, meaning exactly what part of the dual wield combo you are on at a specific time, to be able to set up properly. This means that determining which pot window to use will come down to spreadsheeting the fight and comparing to see what comes out the best. There are non-standard techniques that can be used to force specific alignments for these pot windows, but they again strongly depend on fight specifics. The upcoming Advanced Guide will have more information about these non-standard techniques when it is finished. 
 
