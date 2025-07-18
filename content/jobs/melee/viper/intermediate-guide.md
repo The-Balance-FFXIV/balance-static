@@ -191,7 +191,7 @@ This window is possible at 2.12, 2.11, and 2.10, but is extremely tight at 2.12.
 
 To perform this window:
 
-1. Ensure you have at most 2 Rattling Coils. Having 3 will result in an overcap. If thiswindow will be used with Serpent's Ire, have at most 1 Rattling Coil stack. 2 or more will result in an overcap. 
+1. Ensure you have at most 2 Rattling Coils. Having 3 will result in an overcap. If this window will be used with Serpent's Ire, have at most 1 Rattling Coil stack. 2 or more will result in an overcap. 
 2. If performing this sequence at without Serpent's Ire, ensure you have 80 gauge before the first Vicewinder. 
 3. Perform the first two combo actions of the standard dual wield combo (i.e. Steel Fangs -> Hunter's Sting).
 4. Start a Vicewinder combo immediately after the second combo action of the dual wield combo. 
