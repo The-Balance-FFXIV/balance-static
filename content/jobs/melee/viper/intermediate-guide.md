@@ -4,7 +4,7 @@ card_header_image: /img/jobs/vpr/large-file-viper-1.png
 authors:
   - ToraelValdis
 patch: "7.2"
-lastmod: 2025-03-24T21:28:43.104Z
+lastmod: 2025-07-18T21:59:20.379Z
 changelog:
   - date: 2024-06-20T05:44:33.192Z
     message: Guide added to website
@@ -14,6 +14,9 @@ changelog:
     message: "Added optimal pot windows to Medicated section. "
   - date: 2024-08-18T18:50:12.444Z
     message: Added Triple Reawaken information
+  - date: 2025-07-18T21:59:28.393Z
+    message: "Edited medicated section to include a stronger pot window and a
+      description of when to use what. "
 ---
 # Introduction
 
@@ -120,6 +123,8 @@ Dead Zoning is a term that means pooling gauge outside of two minute party buffs
 
 # 5. Medicated (Potion/Gemdraught) Usage
 
+## 5.1 Potion Timings
+
 In Dawntrail, the new potions are called Gemdraught of Dexterity. Like all pots before them, Gemdraughts come with a grade number, with the higher the number equating to a stronger damage buff. I.e. Grade 2 Gemdraughts are stronger than Grade 1 Gemdraughts. For simplicity, Medicated will be referred to as “pot” or “pot buff.” Pot timings are another fight-by-fight specific optimization, but there are some fundamental rules for when to use a pot. 
 
 1. Kill time determines how many pots you will get, and therefore when you use the pot. 
@@ -141,6 +146,8 @@ There is some gray area where a partial pot use might still outweigh doing an ea
 
 Historically, there has never been a fight without downtime that is longer than about 12:00 minutes, so planning past that point is not necessary. This is a general overview, and does not take into account fight specific optimizations where the group shifts their party buffs instead of using them on cooldown. *Fight specific optimizations take precedence but need to be properly planned out to avoid losses.*
 
+## 5.2 Example and Optimal Potion Windows
+
 Exactly what should be put into the pot buff will also depend on when it is used. An even minute pot should at minimum contain two full Reawaken sequences, and should also contain one Uncoiled Fury and its follow up oGCDs if possible without dropping personal buffs. If potting at an even minute burst window, most often the pot will be used after the GCD before Reawaken is used. If this GCD is not a combo finisher, late weave the pot to potentially buff more potency at the end of the buff's duration. If this GCD is a combo finisher, pot in the first weave slot to get Death Rattle in the pot. An example of this would be: 
 
 ![](/img/jobs/vpr/vprevenpotexample.png)
@@ -153,9 +160,9 @@ The easier option requires combo neutrality going into it, meaning there is no a
 
 ![](/img/jobs/vpr/vprmoreoptimalpot.png)
 
-Note: Triple weaving after Swiftskin's Coil is possible without clipping on low ping. If triple weaving is not possible for you, you can delay the Serpent's Ire to after the first Reawaken. Do note that your Reawaken is now 1 GCD later if you do this, and it may be necessary to switch from Standard Double Reawaken to Immediate Double Reawaken to keep raid buff alignment for the rest of the fight. 
+Note: Triple weaving after Swiftskin's Coil is possible without clipping on low ping. If triple weaving is not possible for you, you can delay the Serpent's Ire to after the first Reawaken. Do note that your Serpent's Ire is now 1 GCD later if you do this, and it may be necessary to switch from Standard Double Reawaken to Immediate Double Reawaken to keep raid buff alignment for the rest of the fight. 
 
-The most optimal pot usage requires an extremely tight setup, and a single mistake will lose far more than the gain from the pot. This option should only be used if it lines up perfectly to do so. This option can only be performed if the GCD pressed at 11-12 seconds before Serpent's Ire is off cooldown is a combo starter. Furthermore, this sequence requires holding a Vicewinder charge so that two Vicewinders may be used during the sequence. Finally, you must have exactly one Rattling Coil stored going into this sequence. If a fight requires the usage of Uncoiled Fury for uptime, then this window becomes much less likely to be viable as the potency gain from using UF for uptime significantly outweighs the potency gain of putting it into pot buff. Any deviations from these conditions will automatically result in the sequence failing, and become a potency loss! 
+The second-most optimal pot usage requires an extremely tight setup, and a single mistake will lose far more than the gain from the pot. This option should only be used if it lines up perfectly to do so. This option can only be performed if the GCD pressed at 11-12 seconds before Serpent's Ire is off cooldown is a combo starter. Furthermore, this sequence requires holding a Vicewinder charge so that two Vicewinders may be used during the sequence. Finally, you must have exactly one Rattling Coil stored going into this sequence. If a fight requires the usage of Uncoiled Fury for uptime, then this window becomes much less likely to be viable as the potency gain from using UF for uptime significantly outweighs the potency gain of putting it into pot buff. Any deviations from these conditions will automatically result in the sequence failing, and become a potency loss! Do note that this sequence can also be performed outside of Serpent's Ire windows if you are able to fulfill the correct conditions while hitting 100 gauge before the first Reawaken.
 
 To perform this sequence: 
 
@@ -177,6 +184,32 @@ To visualize, the sequence looks like this:
 ![](/img/jobs/vpr/vpr3ufpot.png)
 
 Remember that the dual wield combo GCDs could be their opposite options as well, depending on where this window is and how it lines up (i.e. Steel Fangs could be Reaving Fangs instead, Hunter's Sting could be Swiftskin's Sting, and the Flank finisher could be a Rear finisher instead).
+
+Finally, the most optimal pot window we can perform puts 40 additional potency into our pot buff vs. the Triple UF Pot window. While the setup for this window is not as strict as the Triple UF Pot, there are still considerations for whether or not this pot window can be used. In full uptime. this window can happen naturally at the 2:00 mark, but requires a triple weave of Serpent's Ire plus the two follow up oGCDs from Hunter's/Swiftskin's Coil. This sequence can also be performed at ~7:00 using the extra odd Reawaken we naturally generate from gauge positivity, if the fight allows for a 7:00 pot. 
+
+This window is possible at 2.12, 2.11, and 2.10, but is extremely tight at 2.12. Any clipping at 2.12 will result in both dropping the final Uncoiled Fury from the potion, as well as pushing the final Ouroboros out of party buffs, resulting in losing potency compared to other potential pot windows. At 2.11 and 2.10, the timing is less strict and a small clip will not have the same consequences. It is also more likely to land the final Ouroboros in party buffs, even if some buffs are slightly early. 
+
+To perform this window:
+
+1. Ensure you have at most 2 Rattling Coils. Having 3 will result in an overcap. If this window will be used with Serpent's Ire, have at most 1 Rattling Coil stack. 2 or more will result in an overcap. 
+2. If performing this sequence at without Serpent's Ire, ensure you have 80 gauge before the first Vicewinder. 
+3. Perform the first two combo actions of the standard dual wield combo (i.e. Steel Fangs -> Hunter's Sting).
+4. Start a Vicewinder combo immediately after the second combo action of the dual wield combo. 
+5. Weave your potion as late as possible immediately following Vicewinder. 
+6. Finish the Vicewinder combo. If you are doing this sequence as part of the 2:00 window, Serpent's Ire will be triple weaved after the second Coil GCD. 
+7. Finish the dual wield combo and follow it up with Death Rattle. 
+8. Perform two full Reawaken sequences back to back.
+9. Use Uncoiled Fury after the second Ouroboros.
+
+To visualize, the sequence looks like this:
+
+![](/img/jobs/vpr/viper-strongest-pot-window.webp)
+
+Please note that the combo finisher can be any of the four finishers, and Flanksbane Fang was only used here as an example. If this was being done at 2:00, Serpent's Ire would be triple weaved after the Swiftskin's Coil in the above visual. 
+
+## 5.3 Choosing Which Pot Window to Use
+
+Exactly which pot window will be used is strongly based on the context of the fight in which it is being considered for. A 2:00 pot is not possible or optimal in some fights because it would prevent a second pot usage, for example, which might make our most optimal pot window impossible to pull off correctly. The Triple UF Pot and most optimal pot window require strict combo states, meaning exactly what part of the dual wield combo you are on at a specific time, to be able to set up properly. This means that determining which pot window to use will come down to spreadsheeting the fight and comparing to see what comes out the best. There are non-standard techniques that can be used to force specific alignments for these pot windows, but they again strongly depend on fight specifics. The upcoming Advanced Guide will have more information about these non-standard techniques when it is finished. 
 
 # 6. Triple Ouroboros in Pot Buff
 
