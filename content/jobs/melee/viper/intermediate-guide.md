@@ -264,7 +264,7 @@ We care very little for the specific placement of Reawakens, twinblade combos, R
 
 With the addition of VPR, it is now possible to have an eight-player party with no party buffs. This comp would consist of any two tanks, SGE, WHM, SAM, VPR, MCH, and BLM. With this comp, there is no need to optimize the rotation around feeding potency into party buffs. Instead, ensure that the basic rules of the job are followed. Put extra potency, if possible, into your own potion windows.
 
-# 9. The 2.48/2.10 GCD Rotation Adjustments
+# 9. 2.48/2.10 GCD Rotation Adjustments
 
 For ease, GCD speeds will be referred to by the speed of the dual wield combo at specific skill speeds. Listing the speed for all five different GCD speeds each time would be overkill. With that in mind, 2.5/2.12 means that we have no skill speed, and our dual wield combo GCDs are 2.5 without haste and 2.12 with. 
 
