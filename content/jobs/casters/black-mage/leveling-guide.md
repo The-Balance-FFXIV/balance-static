@@ -52,23 +52,27 @@ Foul should be used similarly as before, replaced by Xenoglossy in single-target
 
 ## Level 90-99
 
-**Blizzard III > Blizzard IV -> Paradox -> Fire III > Fire IV x3 > Paradox > Fire IV x3 > Despair > repeat**
+**Blizzard III > Blizzard IV > Paradox > Fire III > Fire IV x3 > Paradox > Fire IV x3 > Despair > repeat**
 
 Paradox automatically replaces Fire and Blizzard on your hotbars when entering Astral Fire from Umbral Ice III with three Umbral hearts, as well as entering Umbral Ice from Astral Fire III which will happen naturally with the rotation. Note that if opening a fight with Blizzard III, the initial listed Paradox in Umbral Ice will not be available.
 
 The exact placement of Paradox in Astral Fire is flexible and can be shifted as needed for movement/weaving considerations.
 
-Your Firestarter proc should be used in Astral Fire primarily for movement/weaving/refreshing the Astral Firer timer, but should be used even if not necessary for any of these. Consider saving the Firestarter proc through Umbral Ice, using Paradox to weave a Transpose back to Astral Fire, then using the proc for a stronger reentry into your Astral Fire phase.
+Your Firestarter proc should be used in Astral Fire, ideally saved through Umbral Ice to be used in Astral Fire I for a stronger reentry into your Astral Fire phase, i.e.:
+
+**Blizzard III > Blizzard IV > Paradox > Transpose > Firestarter proc**
 
 ## Level 100
 
-**Blizzard III > Blizzard IV -> Paradox -> Fire III > Fire IV x3 > Paradox > Fire IV x3 >Flare Star > Despair > repeat**
+**Blizzard III > Blizzard IV > Paradox > Fire III > Fire IV x3 > Paradox > Fire IV x3 >Flare Star > Despair > repeat**
 
 Upon execution of all six Fire IV casts in a single Astral Fire phase, the Astral Gauge fills up and allows for the use of Flare Star. Note that if opening a fight with Blizzard III, the initial listed Paradox in Umbral Ice will not be available.
 
 The exact placement of Paradox in Astral Fire is flexible and can be shifted as needed for movement/weaving considerations. Similarly, Flare Star and Despair can be swapped as needed for movement/weaving considerations as well.
 
-Your Firestarter proc should be used in Astral Fire primarily for movement/weaving/refreshing the Astral Firer timer, but should be used even if not necessary for any of these. Consider saving the Firestarter proc through Umbral Ice, using Paradox to weave a Transpose back to Astral Fire, then using the proc for a stronger reentry into your Astral Fire phase.
+Your Firestarter proc should be used in Astral Fire, ideally saved through Umbral Ice to be used in Astral Fire I for a stronger reentry into your Astral Fire phase, i.e.:
+
+**Blizzard III > Blizzard IV > Paradox > Transpose > Firestarter proc**
 
 See [the main guide](/jobs/casters/black-mage/basic-guide/#single-target-rotation) for further details and recommendations on playing the job at level 100.
 
@@ -78,7 +82,7 @@ See [the main guide](/jobs/casters/black-mage/basic-guide/#single-target-rotatio
 
 Always keep your AoE Thunder on the target and only refresh it when it is about to fall off (less than three seconds), unless the target will die soon. This means that while you get a new Thunderhead buff each transition between Astral Fire and Umbral Ice, you will often end up ignoring/overwriting the buff until it is time to refresh the DoT.
 
-## Levels 12-34
+## Levels 12-35
 
 **Blizzard II until full MP > Transpose > Fire II x3 > Transpose > repeat**
 
@@ -90,37 +94,35 @@ Fire II and Blizzard II give you maximum stacks of their respective elements and
 
 ## Levels 40-49
 
-**Blizzard II > Freeze > Fire II x 4 > repeat**
+**(From Umbral Ice) Spam Freeze**
+
+If Thunder II needs to be refreshed, use the following to generate a fresh Thunderhead proc:
+
+**Transpose -> Fire II x3 > Transpose**
 
 ## Levels 50-57
 
-**Blizzard II > Freeze > Fire II x 4 > Flare > repeat**
+**(From Umbral Ice) Freeze x2 > Transpose > Fire II > Flare > Transpose > repeat**
 
-## Levels 58-81
+## Levels 58-99
 
-At level 58, the Umbral Hearts attained from Freeze allow for casting two Flares in a single Astral Fire phase instead of just one.
+At level 58, the Umbral Hearts attained from Freeze allow for casting two Flares in a single Astral Fire phase instead of just one, which further lowers the value of Fire II/Blizzard II (and even High Fire II/High Blizzard II at 82+)
 
-**Blizzard II > Freeze > Fire II x 3 > Flare > Flare > repeat**
+**(From Umbral Ice) Freeze > Foul/Thunder II/Freeze > Transpose > Flare x2 > Transpose > repeat**
 
-At 70+, use Foul as needed, it is strong AoE damage and at 80+ can also be used for movement/weaving. Skip a Fire II cast if things die quickly or you want to use Triplecast, prioritizing getting the Flares off in time.
+Use one or more of Foul/Thunder II (or its upgraded versions at higher levels)/Freeze as needed in Umbral Ice to wait out the cooldown on Transpose. At 90, the Paradox in Umbral Ice can potentially be used as a filler spell if nothing else is available, but otherwise will generally be ignored for AoE.
 
-## Levels 82-99
-
-**High Blizzard II > Freeze > High Fire II x3 > Flare > Flare > repeat**
-
-Continue to use Foul as previously mentioned.
-
-High Blizzard II and High Fire II automatically replace Blizzard II and Fire II on your hotbars at level 82, and have the same exact use. Skip a High Fire II cast if things die quickly or you want to use Triplecast, prioritizing getting the Flares off in time.
-
-You will generally ignore the Paradox generated each cycle unless you have a higher HP target to kill in a pack of mobs.
+Foul is a strong spell for AoE so even outside of just filler considerations it should be utilized for damage, and at 80+ allows for movement/weaving as needed, particularly to weave Transpose.
 
 ## Level 100
 
-**High Blizzard II > Freeze > High Fire II > Flare > Flare > Flare Star > repeat**
+**(From Umbral Ice) Freeze > Foul/High Thunder II> Transpose > Flare x2 > Flare Star > Transpose > repeat**
 
-Continue to use Foul as previously mentioned. The introduction of Flare Star makes it far more valuable to rush Flares to get Flare Star off instead of using additional High Fire II casts.
+Use one or more of Foul/High Thunder II as needed in Umbral Ice to wait out the cooldown on Transpose. The Paradox in Umbral Ice can potentially be used as a filler spell if nothing else is available, but otherwise will generally be ignored for AoE.
 
-There can be value in weaving Transpose to skip the High Fire II and especially the High Blizzard II as well See [the AoE section of the main guide](/jobs/casters/black-mage/basic-guide/#aoe-rotation-3-targets) for a better explanation.
+Foul is a strong spell for AoE so even outside of just filler considerations it should be utilized for damage, and allows for movement/weaving as needed, particularly to weave Transpose.
+
+See [the AoE section of the main guide](/jobs/casters/black-mage/basic-guide/#aoe-rotation-3-targets) for further details and recommendations on playing the job at level 100.
 
 Here also as little cheatsheet if you want to save it:
 
