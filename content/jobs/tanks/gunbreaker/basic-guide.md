@@ -67,19 +67,19 @@ We need to establish a couple of concepts first regarding both how damage is cal
 
 #### Damage Snapshotting
 
-Damage is calculated by snapshotting all buffs and debuffs at the exact moment the server receives the request to use any action. This means that the damage actually applying to and hitting a target has already been calculated before it strikes the target. Debuff-based damage over time effects such as **Sonic Break** work the same way, meaning the only thing that matters is what buffs *were* active when it was cast, not what remains active through it's effect duration.
+Understanding damage "snapshotting" is important because of the way it impacts buff management. Action damage is calculated instantaneously when the server receives the request to use that action, not when the action applies to a target. Debuff-based damage over time effects such as **Sonic Break** function in the same way, allowing for more flexible usage of **Sonic Break**.
 
-As a result, this allows us to buff a ninth GCD within No Mercy at faster speeds than 2.50. It also means that as long as damage-over-time effects fully tick and expire without being wasted, they can go anywhere within **No Mercy**.
+This allows a ninth GCD to be buffed within **No Mercy** at faster speeds than 2.50, and allows **Sonic Break** to fill in certain rotational needs since the duration effect is fully buffed so long as it was initially cast at some point within **No Mercy**.
 
 #### 9 GCD No Mercy
 
-An additional 9th GCD inside **No Mercy** is typically possible on GCD speeds faster than or equal to 2.47 (albeit theoretically possible anywhere faster than 2.50). Buffing the 9th GCD is very dependent on when **No Mercy** is used relative to the GCD roll and it requires a specific usage timing.
+Acquiring the ninth GCD within **No Mercy** requires a specific usage time relative to the GCD roll. Using **No Mercy** very early in the GCD roll would result in the buff activating while your GCD is still on-cooldown, wasting active buff time.
 
-In order to buff a 9th GCD inside **No Mercy**, we must use **No Mercy** as a “late weave”, or cast it in between the bottom left and top left corner of our GCD icon, at the "nine-o-clock" position within the GCD roll. This makes it so that **No Mercy** will activate right as we press the next GCD, letting us maximize our active usage time of the possible 20 seconds.
+**No Mercy** must be cast as a "late weave", or when the rolling GCD indicator reaches a near-9-o-clock position when imagining the indicator as a clock. **No Mercy** takes slightly over half a second (600ms) to activate after pressing it, so using **No Mercy** as a late weave will result in the buff activating at the same time that the next GCD can be cast, wasting little to no active buff time and permitting the use of a ninth GCD within the final second of **No Mercy**.
 
 #### No Mercy Usage Guidelines
 
-Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to drift when attempting to cast it, which can drift **No Mercy** away from party buffs. To minimize this as much as possible, there are basic usage guidelines for how and when to cast **No Mercy** based on GCD speed ranges.
+Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to drift when attempting to cast it, which can drift **No Mercy** away from party buffs. To minimize this as much as possible, there are basic usage guidelines for how and when to cast **No Mercy** based on GCD speed ranges. As a rule of thumb, 2.50, 2.45, and 2.40 all have little to no innate drift of **No Mercy**. Deviating to a slower speed within the listed ranges below will introduce some drift to the cooldown regardless of how well you follow the guidelines below.
 
 **2.50 GCD**
 
@@ -154,17 +154,17 @@ GCD cooldowns within **No Mercy** should be used in the following priority:
 * Use **Sonic Break** as the 9th GCD on 2.4X GCDs to stop **Hypervelocity** from falling out of **No Mercy**.*
 * Use **Sonic Break** earlier next pull if any DOT uptime is lost from downtime or fight killtime.
 
-\* Note that the usage of **Sonic Break** as the 9th GCD is solely due to the fact that it has no cooldown, and is the lowest potency option to place at the 9th GCD in order to keep **Hypervelocity** within **No Mercy** without inducing loss. Other options exist that can remove the threat of wasting DoT time, such as:
+\* Note that considering the use of **Sonic Break** as the 9th GCD only exists due to the fact that it has no cooldown and is the lowest potency option to place at the 9th GCD in order to keep **Hypervelocity** within **No Mercy** without inducing loss. It contains the risk of wasting a portion of the damage-over-time effect in pulls where you do not know if the boss will become untargetable. Other options exist that can remove the threat of wasting DoT time, such as:
 
-* From 2.40 - 2.41, you can use **Burst Strike** last and still use **Hypervelocity** before **No Mercy** ends (only by casting **No Mercy** at the latest possible point in the GCD roll without clipping your GCD).
-* **Lionheart** can also take the place of the 9th GCD instead of **Sonic Break**, but it is a higher potency GCD than **Sonic Break**, and therefore the chance of it falling out of **No Mercy** makes it a slightly riskier option.
+* From 2.40 - 2.41, you can use **Burst Strike** as the 9th GCD and still have time to use **Hypervelocity** before **No Mercy** ends (only by casting **No Mercy** at the latest possible point in the GCD roll without interrupting the next GCD).
+* **Lionheart** can also take the place of the 9th GCD instead of **Sonic Break** but it is a higher potency GCD than **Sonic Break**, and therefore has the risk of losing additional potency if the 9th GCD is accidentally lost.
 
 OGCD cooldowns within **No Mercy** should be used in the following priority:
 
-* Use **Blasting Zone** and **Bow Shock** in any order.
+* Use **Blasting Zone** and **Bow Shock** in any order that fits the needs of a fight.
 * Use **Bloodfest** only upon reaching zero cartridges.
-  * **Bloodfest** is normally moved into the burst window for maximum resource flexibility. Doing so results in you automatically having the necessary powder gauge for your next burst.
-  * Using **Bloodfest** before your burst window can permit a more optimal killtime, as it will move your resource damage to an earlier point in time.
+  * **Bloodfest** is normally moved **into the burst window** for maximum resource flexibility. Doing so results in you automatically having the necessary powder gauge for your next burst.
+  * Using **Bloodfest** before your burst window can permit a more optimal killtime, as it will move your **Burst Strike** damage before **No Mercy**.
 
 - - -
 
@@ -174,11 +174,11 @@ OGCD cooldowns within **No Mercy** should be used in the following priority:
 
 #### Forced 1-Cartridge No Mercy (2.50 Only)
 
-A situation can occur where a **Solid Barrel** is cast on the same GCD you have **No Mercy with Bloodfest** come off cooldown. Since we'd prefer not to drift **Bloodfest within No Mercy** or enter **No Mercy** with 3 cartridges, what do we do?\
+Rotational upsets, GCD downtime, or the usage of **Lightning Shot** can create a scenario where a **Solid Barrel** is cast on the same GCD that **No Mercy with Bloodfest** comes off cooldown placing the cartridge gauge at 3 cartridges when casting **No Mercy**. Since **No Mercy** should ideally not drift to maintain alignment and **No Mercy** should not begin with 3 cartridges at 2.50, there is only one solution to that situation that avoids both problems:\
 \
-The solution is to cast a **Burst Strike** in place of that **Solid Barrel**. This will bring you to 1 cartridge, which will force you to use **Sonic Break** as either the first or second GCD of **No Mercy**. **Gnashing Fang** or **Double Down** (or both) will drift by 1 GCD in the process, but **Bloodfest** and **No Mercy** will not at no loss.
+Reduce to 1 cartridge by casting a **Burst Strike** in place of that **Solid Barrel**. This will force **Sonic Break** to be cast at either the first or second GCD of **No Mercy** to prevent a combo action from taking the place of **Gnashing Fang** or **Double Down**. Either **Gnashing Fang** or **Double Down** (or both, depending on where you place **Sonic Break**) will drift by 1 GCD in the process, but **Bloodfest** and **No Mercy** will not drift with no potency loss during the burst phase.
 
-This will be your new burst window until you are forced into two-carting again, and when that happens, you will delay **Bloodfest** by one GCD.
+All future usages of **No Mercy with Bloodfest** will begin with 1 cartridge. Encountering any additional rotational upsets can potentially force **No Mercy** to begin off cooldown again with two cartridges. If that happens, delay **Bloodfest** by one GCD.
 
 - - -
 
@@ -190,9 +190,9 @@ This will be your new burst window until you are forced into two-carting again, 
 
 </br>
 
-Certain actions cannot be cast while certain combo chains are active without breaking the presently active combo chain. It is important to understand what you can or cannot press during a combo chain to avoid losing out on significant potency by mistake.
+Certain actions cannot be cast while certain combo chains are active without breaking the presently active combo chain. It is important to understand what can or cannot be pressed during a combo chain to avoid losing out on significant potency by mistake.
 
-* Your standard **Solid Barrel** combo cannot be broken by anything but itself or its AOE counterpart. 
+* The standard **Solid Barrel** combo cannot be broken by anything but itself or its AOE counterpart. 
 * **Gnashing Fang** and **Lionheart** are both broken by the Solid Barrel combo, as well as its AOE counterpart. 
 * **Gnashing Fang** and **Lionheart** are also their own independent combo chains that cannot be used or mixed together, or they will break the other. 
 
@@ -214,29 +214,28 @@ Certain actions cannot be cast while certain combo chains are active without bre
 
 ### Reverse Drift
 
-Skill Speed (SKS) modifies GCD cooldowns by reducing their cooldowns by 0.1% per SKS tier. This is done to help GCD cooldowns remain aligned to your GCD and not clip them.
+Skill Speed (SKS) modifies GCD cooldowns by reducing their cooldowns by 0.1% per SKS tier. This is done to help GCD cooldowns remain aligned to the GCD and not clip them aggressively.
 
-This benefit is not extended to oGCD cooldowns. This is done intentionally to keep **No Mercy** aligned to party raid buffs, but it creates misalignment between your GCD cooldowns and **No Mercy**, as all GCD cooldowns begin coming off cooldown sooner than **No Mercy** does. This is referred to as “**reverse drift**”.
+This benefit is not extended to oGCD cooldowns. This is done intentionally to keep **No Mercy** aligned to party raid buffs, but it creates misalignment between GCD cooldowns like **Gnashing Fang** and oGCD cooldowns like **No Mercy**, because GCD cooldowns like **Gnashing Fang** begin coming off cooldown sooner than **No Mercy** does. This is referred to as “**reverse drift**", because cooldowns are readied for use too early relative to the buff they should be used in.
 
-The solution to reverse drift is simple - pretend the cooldown reduction does not exist and hold the GCD cooldowns back into **No Mercy**.
+The solution to "reverse drift" is simple - pretend the cooldown reduction does not exist and hold the GCD cooldowns back into **No Mercy**.
 
 ### Cooldown Drift
 
-Similarly to how GCD cooldowns do not align to **No Mercy** with SKS, certain GCDs themselves do not align to oGCD cooldowns either. This causes oGCD cooldowns to occasionally drift into the next GCD because they would otherwise clip the GCD if were you to attempt to use them.
+Similarly to how GCD cooldowns do not align to **No Mercy** with SKS, certain GCD speeds do not align themselves to oGCD cooldowns either. This causes oGCD cooldowns to occasionally drift into the next GCD, because they would interrupt the next GCD cast if they were cast upon becoming ready for use due to animation lock.
 
-Determining how much a cooldown will “move” from the last position it came off cooldown per use on any given speed is found by dividing the cooldown length by your GCD. 
-
-* As an example, 60s/2.50 GCD = 24 GCDs per **No Mercy** or **Bow Shock**, meaning they come off cooldown exactly every 24 GCD rolls from wherever you last used them. This means that the oGCD cooldown will never come off cooldown at a different place in relation to the GCD roll. 
-* On 2.46, it becomes 60/2.46 = 24.39 GCDs, meaning that **No Mercy** comes off cooldown +0.39 GCDs after the last time it was used. This appears in practice as if it comes off cooldown “later in the GCD roll” from its previous use. 
-
-This observed usage point shift eventually accumulates to the point that the cooldown will come back off cooldown at a point that it cannot be used without clipping the GCD, forcing the cooldown to drift to the next GCD and then be used at the earliest usable point.
-
-Animation lock plays a significant role in this, because after pressing any GCD action the animation lock must end before any oGCD may be cast. Casting oGCDs right before the next GCD is about to be pressed would also animation lock the GCD, causing a GCD clip. **This limits the room that you can weave oGCDs without clipping the GCD, and that room is both ping dependent and FPS dependent.**
-
+Animation lock plays a significant limiting role in whether or not you can press an action when it becomes ready for use, because animation lock from the previous action used (either GCD or oGCD) must end before any other action may be cast. This is why casting oGCDs right before the next GCD is about to be pressed can interrupt the next GCD and cause a GCD clip. **This limits the timing with the GCD roll that oGCDs can be cast without clipping the GCD, and that room is both ping dependent and FPS dependent.**
 * Higher ping results in longer animation lock, reducing the weaving room before GCD clipping occurs. 
 * In regards to FPS, a new GCD can only begin on a new frame, so a microscopic clip that you cannot visually see occurs while you wait for a new frame to generate showing the GCD as usable to the game client. Technically speaking, this increases the time you can weave because you would have clipped by that amount regardless.
 
-What this means for the rotation is that some GCD speeds are just uniquely worse at aligning to oGCDs, and they will cause more drift than other speeds will over the course of a fight. This can be very important for both raid buffs and usages, and due to how loaded the burst window is at level 100, it becomes very unfavorable to drift out of party buffs due to uncontrollable GCD speed-based drift.
+Determining how much a cooldown will “shift” from the last position it came off cooldown per use on any given speed is found by dividing the cooldown length by the GCD speed. 
+
+* As an example, 60s / 2.50s GCD = 24 GCDs per **No Mercy** or **Bow Shock**, meaning a 60 second cooldown will come off cooldown exactly every 24 GCD rolls from wherever the last usage occurred. Practically, this means that oGCD cooldown will never be ready for use at a different place in relation to the GCD roll as long as the GCD roll was never interrupted or stopped. This can be observed by playing 2.50 and using a 60 second cooldown, then repeatedly spamming one GCD action until the 60 second cooldown becomes ready for use again.
+* On 2.46, this becomes 60s / 2.46s GCD = 24.39 GCDs, meaning that **No Mercy** will become ready for use again +0.39 GCDs after the last time it was cast relative to the GCD roll, because 24 GCD rolls have completed and another 0.39 GCDs must occur before it will become ready for use again. Using a clock example, if the last cast was at 3 o'clock, the next time **No Mercy** will be available for use is approximately at 7 o'clock relative to the GCD indicator roll.
+
+This observed shift in where a cooldown becomes ready for use again will accumulate with every usage to the point that the cooldown will eventually become ready for use at a point that it cannot be used without interrupting the next GCD cast, forcing the cooldown to be held to the next GCD and then be used at the earliest usable point within the next GCD roll.
+
+What this means for the rotation is that some GCD speeds are just uniquely worse at aligning to oGCDs and will cause more drift than other speeds will over the course of a fight. This can be very important for both raid buffs and preventing loss of cooldown usages, and due to how loaded the burst window is at level 100, it becomes very unfavorable to drift out of party buffs due to uncontrollable GCD speed-based drift because high-potency actions such as **Lionheart** will leave party buffs first.
 
 The speeds that do NOT drift **No Mercy** by any significant amount are as follows:
 
@@ -244,9 +243,9 @@ The speeds that do NOT drift **No Mercy** by any significant amount are as follo
 * 2.45 GCD (0.05s drift per every other use) **(PING DEPENDENT - ≤50MS TO NOT CLIP OR DRIFT)**
 * 2.40 GCD (0.00s drift per use)
 
-Those three speeds in particular are the most favorable for staying aligned with party buffs. Going from 2.40 to 2.42 would increase the drift rate because it would take longer for **No Mercy** to return to the same ideal usage point, and you can only use the cooldown off cooldown once per drift. In specific, it would cause **2.42 * (1 - (60 / 2.42 - 24) = 0.5s** of drift per **No Mercy**. This drift linearly increases or decreases within the respective speed range of 2.40 - 2.44 as you go slower or faster respectively, and the same holds true of 2.45 - 2.47 which can use **No Mercy** twice off cooldown in between drifts.
+Those three speeds in particular are the most favorable for staying aligned with party buffs. Going from 2.40 to 2.42 would increase the drift rate because it would take longer for **No Mercy** to return to the same ideal usage point, and the cooldown can only be used one time per drift. In specific, it would cause **2.42 * (1 - (60 / 2.42 - 24) = 0.5s** of drift per **No Mercy** (excluding factors like innate clip rate from **Gnashing Fang** or framerate). This drift linearly increases or decreases within the respective speed range of 2.40 - 2.44 as the GCD is slowed or sped up respectively, and the same holds true of 2.45 - 2.47 which can use **No Mercy** twice off cooldown between drifts of **No Mercy**.
 
-Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.42 or something slower, it just means that the *risk* of losing raid buff damage over extended periods of time where raid buffs never realign to you is increased when running other speeds, which can potentially be a damage loss depending on the fight you’re in.
+Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.42 or something slower, it just means that the *risk* of losing raid buff damage over extended periods of time where raid buffs never realign to **No Mercy** is increased when running other speeds, which can potentially be a damage loss depending on the encounter.
 
 - - -
 
