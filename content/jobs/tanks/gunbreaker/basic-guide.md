@@ -67,7 +67,7 @@ A couple of concepts should first be established regarding both how damage is ca
 
 #### Damage Snapshotting
 
-Understanding damage "snapshotting" is important because it significantly impacts the correct approach to buff management. Action damage is calculated instantaneously when the server receives the request to use that action, not when the action applies to a target. This means the only important factor in buff management is using an action while the buff is still active, and when the action applies to a target is totally irrelevant in that consideration. Debuff-based damage over time effects such as **Sonic Break** function in the same way, allowing for more flexible usage of **Sonic Break**.
+Understanding damage "snapshotting" is important because it significantly impacts the correct approach to buff management. Action damage is calculated instantaneously when the server receives the request to use that action, not when the action applies to a target. This means the only important factor in buff management is ensuring that any desired action is cast while the buff is still active, and that when those actions apply to a target is completely irrelevant. Debuff-based damage over time effects such as **Sonic Break** function in the same way, allowing for more flexible usage of **Sonic Break**.
 
 This allows a ninth GCD to be buffed within **No Mercy** at faster speeds than 2.50, and allows **Sonic Break** to flexibly move as a gap filler for certain optimizations or mistakes within the burst phase since the effect duration is fully buffed so long as it was initially cast at some point while **No Mercy** was active.
 
