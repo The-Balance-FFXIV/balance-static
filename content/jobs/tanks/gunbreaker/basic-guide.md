@@ -3,7 +3,7 @@ title: Gunbreaker Basic Guide
 card_header_image: /img/jobs/gnb/basic.png
 authors:
   - Balance-GNB-Staff
-patch: "7.2"
+patch: "7.25"
 lastmod: 2025-07-24T20:28:49.480Z
 changelog:
   - date: 2022-04-05T18:01:38.826Z
