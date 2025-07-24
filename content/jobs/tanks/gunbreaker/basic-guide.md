@@ -37,7 +37,7 @@ In this guide we will discuss a number of subjects, beginning with a simple intr
 
 - - -
 
-The powder gauge (or cartridge gauge) carries a maximum of 3 charges (or cartridges), and is the resource gauge that we manage in order to carry enough cartridges to cast all of our cooldowns within **No Mercy**.
+The powder gauge (or cartridge gauge) carries a maximum of 3 charges (or cartridges), and is the resource gauge that is managed in order to carry enough cartridges to cast all of the desired cooldowns within **No Mercy**.
 
 The actions that will fill the cartridge gauge are as follows:
 
@@ -56,30 +56,30 @@ The actions that will spend cartridges from the gauge are as follows:
 
 ### Section TLDR:
 
-* Damage calculations occur as soon as you press an action, not when it hits a target.
-* This results in it being possible to get extra GCDs into your buff by casting it later at certain GCD speeds.
-* Yo should use **No Mercy** off cooldown in accordance with the usage guidelines at the end of this section.
+* Damage calculations occur as soon as an action is registered, not when it hits a target.
+* This results in it being possible to get extra GCDs into **No Mercy** when the GCD is faster than 2.50 by casting **No Mercy** later in the GCD roll.
+* Use **No Mercy** off cooldown in accordance with the usage guidelines at the end of this section.
 * Do not attempt to clip the GCD to cast **No Mercy** off cooldown.
 
 - - -
 
-We need to establish a couple of concepts first regarding both how damage is calculated and how cooldowns align from GCD speeds to understand how and when to use **No Mercy**.
+A couple of concepts should first be established regarding both how damage is calculated and how cooldowns align from GCD speeds in order to understand how and when to use **No Mercy**.
 
 #### Damage Snapshotting
 
-Understanding damage "snapshotting" is important because of the way it impacts buff management. Action damage is calculated instantaneously when the server receives the request to use that action, not when the action applies to a target. Debuff-based damage over time effects such as **Sonic Break** function in the same way, allowing for more flexible usage of **Sonic Break**.
+Understanding damage "snapshotting" is important because it significantly impacts the correct approach to buff management. Action damage is calculated instantaneously when the server receives the request to use that action, not when the action applies to a target. This means the only important factor in buff management is using an action while the buff is still active, and when the action applies to a target is totally irrelevant in that consideration. Debuff-based damage over time effects such as **Sonic Break** function in the same way, allowing for more flexible usage of **Sonic Break**.
 
-This allows a ninth GCD to be buffed within **No Mercy** at faster speeds than 2.50, and allows **Sonic Break** to fill in certain rotational needs since the duration effect is fully buffed so long as it was initially cast at some point within **No Mercy**.
+This allows a ninth GCD to be buffed within **No Mercy** at faster speeds than 2.50, and allows **Sonic Break** to flexibly move as a gap filler for certain optimizations or mistakes within the burst phase since the effect duration is fully buffed so long as it was initially cast at some point while **No Mercy** was active.
 
 #### 9 GCD No Mercy
 
 Acquiring the ninth GCD within **No Mercy** requires a specific usage time relative to the GCD roll. Using **No Mercy** very early in the GCD roll would result in the buff activating while your GCD is still on-cooldown, wasting active buff time.
 
-**No Mercy** must be cast as a "late weave", or when the rolling GCD indicator reaches a near-9-o-clock position when imagining the indicator as a clock. **No Mercy** takes slightly over half a second (600ms) to activate after pressing it, so using **No Mercy** as a late weave will result in the buff activating at the same time that the next GCD can be cast, wasting little to no active buff time and permitting the use of a ninth GCD within the final second of **No Mercy**.
+**No Mercy** must be cast as a "late weave", or when imagining the indicator as a clock, when the rolling GCD indicator reaches a nearly-9-o-clock position. **No Mercy** takes slightly over half a second (600ms) to activate after pressing it, so using **No Mercy** as a late weave results in the buff activating at the same time that the next GCD can be cast, wasting little to no active buff time and permitting the use of a ninth GCD within the final second of **No Mercy**.
 
 #### No Mercy Usage Guidelines
 
-Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to drift when attempting to cast it, which can drift **No Mercy** away from party buffs. To minimize this as much as possible, there are basic usage guidelines for how and when to cast **No Mercy** based on GCD speed ranges. As a rule of thumb, 2.50, 2.45, and 2.40 all have little to no innate drift of **No Mercy**. Deviating to a slower speed within the listed ranges below will introduce some drift to the cooldown regardless of how well you follow the guidelines below.
+Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to drift when attempting to cast it, which can drift **No Mercy** away from party buffs. To minimize this as much as possible, there are basic usage guidelines for how and when to cast **No Mercy** based on GCD speed ranges. As a rule of thumb, 2.50, 2.45, and 2.40 all have little to no innate drift of **No Mercy**. Deviating to a slower speed within the listed ranges below (e.g. 2.47 instead of 2.45) will introduce some drift to the cooldown regardless of how well the usage guidelines are followed.
 
 **2.50 GCD**
 
@@ -107,7 +107,10 @@ Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to 
 
 - The **Lightning Shot** cast is suggested for threat generation and raid buff alignment.
   - **Trajectory** can be used at -0.66s to replace **Lightning Shot** (1/10th threat generation).
-  - **Provoke** can be used at -0.6s to replace **Lightning Shot**, but this is not advised without knowing the fight timeline. You may need to use **Provoke** within the first 30 seconds of the fight for a tank swap.
+  - **Provoke** can be used at -0.6s to replace **Lightning Shot**, but this is not advised without knowing the fight timeline because **Provoke** may be necessary within the first 30 seconds of the fight for a tank swap and can waste a pull.
+- When opting out of using **Lightning Shot** in the case of an encounter that can begin within melee range or by using alternative pulling options listed above, it may be necessary to start **No Mercy** after a third GCD to ensure raid buff alignment remains mostly optimized.
+  - For 2.50, the opening GCDs would be **Keen Edge**, **Brutal Shell**, and **Burst Strike**.
+  - For 2.4n, the opening GCDs would be **Keen Edge**, **Brutal Shell**, and **Solid Barrel**. **Bloodfest** would be held to **Gnashing Fang**, and **Bow Shock** would be held to **Double Down**.
 - **Sonic Break** being used on the 9th GCD in the 2.4n Opener has caveats:
   * It is the least risky choice to keep **Hypervelocity** inside of **No Mercy**. (40p gain)
   * If **Sonic Break** falls out of **No Mercy** when trying this, move **Burst Strike** back to the 9th GCD.
