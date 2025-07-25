@@ -23,7 +23,7 @@ Dark Knight is a very strong tank in FRU at both main and off-tank, and its abil
 
 # Gear
 
-Dark Knight BiS for FRU can be found at the following link: <https://xivgear.app/#/bis/drk/ultimate/fru>, which will always be kept up to date and have a variety of options. 
+Dark Knight BiS for FRU can be found at the following link: [https://xivgear.app/#/bis/drk/ultimate/fru](https://xivgear.app/#/bis/drk/ultimate/fru), which will always be kept up to date and have a variety of options. 
 
 Both 2.50 and 2.46 GCD speeds are comfortable during this fight, so we recommend choosing whichever speed you feel most comfortable on. 
 
