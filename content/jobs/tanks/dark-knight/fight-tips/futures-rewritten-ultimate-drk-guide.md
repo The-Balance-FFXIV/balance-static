@@ -42,7 +42,7 @@ It may help to start the pull at an angle rather than directly south to avoid GC
 
 If choosing to use potions in this phase, you should use your pot before **Shadowstride** at 2.50 or after **Unmend** at 2.46. Remember that it has a 0.6s animation lock, so it should ideally be used 0.6s before your pulling skill.
 
-The **Salted Earth** allows an extra usage pre-Diamond Dust barring very fast P1 killtime.
+The **Salted Earth** allows an extra usage pre-Diamond Dust barring very fast Phase One killtime.
 
 You can turn **Grit** on wherever, but it's nice to pick a consistent weave slot so you don't forget it.
 
