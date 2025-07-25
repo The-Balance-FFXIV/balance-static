@@ -52,7 +52,7 @@ Wait a fraction of a second until the Powder Mark Trail castbar ends to press **
 
 ## The Rest of the Phase
 
-Powder Mark hits much harder on the first hit than the second. **Rampart** can last through both hits, but **Shadowed Vigil** cannot. Use **Rampart** on the first regardless of whether you're main tank (MT) or off tank (OT), and add **Dark Mind** + 2x **Oblatio**n after the boss starts his quote and use **The Blackest Night** (TBN) as you go to your spread spot.
+Powder Mark hits much harder on the first hit than the second. **Rampart** can last through both hits, but **Shadowed Vigil** cannot. Use **Rampart** on the first regardless of whether you're main tank (MT) or off tank (OT), and add **Dark Mind** + 2x **Oblation** after the boss starts his quote and use **The Blackest Night** (TBN) as you go to your spread spot.
 
 Pre-cast **Delirium** near the end of Utopian Sky. There are three indicators for this: the end of the Burnt Strike cast-bar, the start of the "B" in the Brightfire cast, or when debuffs hit 9 seconds.
 
