@@ -3,8 +3,8 @@ title: Summoner Openers
 authors:
   - elevation
   - Balance-SMN-Staff
-patch: "7.2"
-lastmod: 2025-03-31T22:56:44.844Z
+patch: "7.3"
+lastmod: 2025-08-05T04:46:55.440Z
 changelog:
   - date: 2021-11-29T21:13:18.048Z
     message: Created page
@@ -14,8 +14,6 @@ changelog:
     message: Updated with current openers
   - date: 2024-07-07T22:58:36.950Z
     message: Updated for Dawntrail
-  - date: 2025-03-31T22:56:48.365Z
-    message: Updated Patch Number
 ---
 ## Openers
 
