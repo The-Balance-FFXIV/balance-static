@@ -17,7 +17,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[333 453 346 36 423 68]" src="https://xivapi.com/i/003000/003241_hr1.png" onclick="openModal(this.id)" alt="Jolt III" />
+ &lt;img id="[466 45 427 497 343 164]" src="https://xivapi.com/i/003000/003241_hr1.png" onclick="openModal(this.id)" alt="Jolt III" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Jolt III&lt;/strong>&lt;/td>
@@ -26,7 +26,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[63 32 362 417 413 445]" src="https://xivapi.com/i/003000/003235_hr1.png" onclick="openModal(this.id)" alt="Verthunder III" />
+ &lt;img id="[227 402 73 490 142 456]" src="https://xivapi.com/i/003000/003235_hr1.png" onclick="openModal(this.id)" alt="Verthunder III" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Verthunder III&lt;/strong>&lt;/td>
@@ -35,7 +35,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[285 321 457 261 143 86]" src="https://xivapi.com/i/003000/003208_hr1.png" onclick="openModal(this.id)" alt="Verfire" />
+ &lt;img id="[154 19 283 396 445 421]" src="https://xivapi.com/i/003000/003208_hr1.png" onclick="openModal(this.id)" alt="Verfire" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Verfire&lt;/strong>&lt;/td>
@@ -44,7 +44,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[66 391 185 341 390 137]" src="https://xivapi.com/i/003000/003236_hr1.png" onclick="openModal(this.id)" alt="Veraero III" />
+ &lt;img id="[195 59 62 269 341 78]" src="https://xivapi.com/i/003000/003236_hr1.png" onclick="openModal(this.id)" alt="Veraero III" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Veraero III&lt;/strong>&lt;/td>
@@ -53,7 +53,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[172 316 230 65 489 228]" src="https://xivapi.com/i/003000/003209_hr1.png" onclick="openModal(this.id)" alt="Verstone" />
+ &lt;img id="[415 82 66 354 233 498]" src="https://xivapi.com/i/003000/003209_hr1.png" onclick="openModal(this.id)" alt="Verstone" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Verstone&lt;/strong>&lt;/td>
@@ -62,7 +62,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[440 438 428 163 326 248]" src="https://xivapi.com/i/003000/003232_hr1.png" onclick="openModal(this.id)" alt="Enchanted Reprise" />
+ &lt;img id="[304 204 413 146 190 98]" src="https://xivapi.com/i/003000/003232_hr1.png" onclick="openModal(this.id)" alt="Enchanted Reprise" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Enchanted Reprise&lt;/strong>&lt;/td>
@@ -71,7 +71,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[315 175 476 240 236 301]" src="https://xivapi.com/i/003000/003233_hr1.png" onclick="openModal(this.id)" alt="Reprise" />
+ &lt;img id="[341 484 358 24 379 58]" src="https://xivapi.com/i/003000/003233_hr1.png" onclick="openModal(this.id)" alt="Reprise" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Reprise&lt;/strong>&lt;/td>
@@ -80,7 +80,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[493 127 145 150 241 344]" src="https://xivapi.com/i/003000/003225_hr1.png" onclick="openModal(this.id)" alt="EnchantedRiposte" />
+ &lt;img id="[403 141 394 187 124 206]" src="https://xivapi.com/i/003000/003225_hr1.png" onclick="openModal(this.id)" alt="EnchantedRiposte" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Enchanted Riposte&lt;/strong>&lt;/td>
@@ -89,7 +89,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[219 221 391 178 279 45]" src="https://xivapi.com/i/003000/003226_hr1.png" onclick="openModal(this.id)" alt="EnchantedZwerchhau" />
+ &lt;img id="[339 211 387 366 91 242]" src="https://xivapi.com/i/003000/003226_hr1.png" onclick="openModal(this.id)" alt="EnchantedZwerchhau" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Enchanted Zwerchhau&lt;/strong>&lt;/td>
@@ -98,7 +98,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[130 45 214 293 27 416]" src="https://xivapi.com/i/003000/003227_hr1.png" onclick="openModal(this.id)" alt="EnchantedRedoublement" />
+ &lt;img id="[16 206 242 289 418 121]" src="https://xivapi.com/i/003000/003227_hr1.png" onclick="openModal(this.id)" alt="EnchantedRedoublement" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Enchanted Redoublement&lt;/strong>&lt;/td>
@@ -107,7 +107,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[218 199 337 83 88 356]" src="https://xivapi.com/i/003000/003224_hr1.png" onclick="openModal(this.id)" alt="Verholy" />
+ &lt;img id="[101 39 142 212 222 395]" src="https://xivapi.com/i/003000/003224_hr1.png" onclick="openModal(this.id)" alt="Verholy" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Verholy&lt;/strong>&lt;/td>
@@ -116,7 +116,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[450 333 161 118 123 202]" src="https://xivapi.com/i/003000/003223_hr1.png" onclick="openModal(this.id)" alt="Verflare" />
+ &lt;img id="[352 468 191 94 353 411]" src="https://xivapi.com/i/003000/003223_hr1.png" onclick="openModal(this.id)" alt="Verflare" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Verflare&lt;/strong>&lt;/td>
@@ -125,7 +125,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[356 81 495 469 333 319]" src="https://xivapi.com/i/003000/003234_hr1.png" onclick="openModal(this.id)" alt="Scorch" />
+ &lt;img id="[138 341 446 269 211 325]" src="https://xivapi.com/i/003000/003234_hr1.png" onclick="openModal(this.id)" alt="Scorch" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Scorch&lt;/strong>&lt;/td>
@@ -134,7 +134,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[463 451 86 435 460 326]" src="https://xivapi.com/i/003000/003238_hr1.png" onclick="openModal(this.id)" alt="Resolution" />
+ &lt;img id="[172 266 333 448 99 291]" src="https://xivapi.com/i/003000/003238_hr1.png" onclick="openModal(this.id)" alt="Resolution" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Resolution&lt;/strong>&lt;/td>
@@ -143,7 +143,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[232 37 300 345 122 39]" src="https://xivapi.com/i/003000/003201_hr1.png" onclick="openModal(this.id)" alt="Riposte" />
+ &lt;img id="[340 1 431 82 281 406]" src="https://xivapi.com/i/003000/003201_hr1.png" onclick="openModal(this.id)" alt="Riposte" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Riposte&lt;/strong>&lt;/td>
@@ -152,7 +152,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[499 224 447 285 377 82]" src="https://xivapi.com/i/003000/003210_hr1.png" onclick="openModal(this.id)" alt="Zwerchhau" />
+ &lt;img id="[307 88 475 185 196 285]" src="https://xivapi.com/i/003000/003210_hr1.png" onclick="openModal(this.id)" alt="Zwerchhau" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Zwerchhau&lt;/strong>&lt;/td>
@@ -161,7 +161,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[282 357 29 132 417 392]" src="https://xivapi.com/i/003000/003213_hr1.png" onclick="openModal(this.id)" alt="Redoublement" />
+ &lt;img id="[259 379 95 280 395 268]" src="https://xivapi.com/i/003000/003213_hr1.png" onclick="openModal(this.id)" alt="Redoublement" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Redoublement&lt;/strong>&lt;/td>
@@ -170,7 +170,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[83 342 486 327 392 468]" src="https://xivapi.com/i/003000/003229_hr1.png" onclick="openModal(this.id)" alt="VerthunderII" />
+ &lt;img id="[456 114 444 228 176 218]" src="https://xivapi.com/i/003000/003229_hr1.png" onclick="openModal(this.id)" alt="VerthunderII" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Verthunder II&lt;/strong>&lt;/td>
@@ -179,7 +179,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[193 349 300 448 103 77]" src="https://xivapi.com/i/003000/003230_hr1.png" onclick="openModal(this.id)" alt="VeraeroII" />
+ &lt;img id="[425 153 484 21 218 208]" src="https://xivapi.com/i/003000/003230_hr1.png" onclick="openModal(this.id)" alt="VeraeroII" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Veraero II&lt;/strong>&lt;/td>
@@ -188,7 +188,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[222 84 271 345 273 96]" src="https://xivapi.com/i/003000/003222_hr1.png" onclick="openModal(this.id)" alt="Impact" />
+ &lt;img id="[273 469 208 136 213 38]" src="https://xivapi.com/i/003000/003222_hr1.png" onclick="openModal(this.id)" alt="Impact" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Impact&lt;/strong>&lt;/td>
@@ -197,7 +197,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[345 169 178 247 23 39]" src="https://xivapi.com/i/003000/003243_hr1.png" onclick="openModal(this.id)" alt="Grand Impact" />
+ &lt;img id="[82 366 323 49 391 326]" src="https://xivapi.com/i/003000/003243_hr1.png" onclick="openModal(this.id)" alt="Grand Impact" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Grand Impact&lt;/strong>&lt;/td>
@@ -206,7 +206,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[187 144 415 11 386 272]" src="https://xivapi.com/i/003000/003228_hr1.png" onclick="openModal(this.id)" alt="EnchantedMoulinet" />
+ &lt;img id="[303 126 468 138 469 270]" src="https://xivapi.com/i/003000/003228_hr1.png" onclick="openModal(this.id)" alt="EnchantedMoulinet" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Enchanted Moulinet&lt;/strong>&lt;/td>
@@ -215,7 +215,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[17 443 493 11 352 13]" src="https://xivapi.com/i/003000/003239_hr1.png" onclick="openModal(this.id)" alt="EnchantedMoulinetDeux" />
+ &lt;img id="[471 83 459 322 336 188]" src="https://xivapi.com/i/003000/003239_hr1.png" onclick="openModal(this.id)" alt="EnchantedMoulinetDeux" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Enchanted Moulinet Deux&lt;/strong>&lt;/td>
@@ -224,7 +224,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[271 72 415 15 201 466]" src="https://xivapi.com/i/003000/003240_hr1.png" onclick="openModal(this.id)" alt="EnchantedMoulinetTrois" />
+ &lt;img id="[52 69 82 429 485 285]" src="https://xivapi.com/i/003000/003240_hr1.png" onclick="openModal(this.id)" alt="EnchantedMoulinetTrois" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Enchanted Moulinet Trois&lt;/strong>&lt;/td>
@@ -233,7 +233,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[406 75 258 242 211 58]" src="https://xivapi.com/i/003000/003215_hr1.png" onclick="openModal(this.id)" alt="Moulinet" />
+ &lt;img id="[97 195 377 138 222 329]" src="https://xivapi.com/i/003000/003215_hr1.png" onclick="openModal(this.id)" alt="Moulinet" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Moulinet&lt;/strong>&lt;/td>
@@ -242,7 +242,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[198 152 430 404 480 234]" src="https://xivapi.com/i/003000/003216_hr1.png" onclick="openModal(this.id)" alt="Vercure" />
+ &lt;img id="[65 377 27 355 4 412]" src="https://xivapi.com/i/003000/003216_hr1.png" onclick="openModal(this.id)" alt="Vercure" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Vercure&lt;/strong>&lt;/td>
@@ -251,7 +251,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[179 401 282 274 333 374]" src="https://xivapi.com/i/003000/003221_hr1.png" onclick="openModal(this.id)" alt="Verraise" />
+ &lt;img id="[463 25 407 469 201 426]" src="https://xivapi.com/i/003000/003221_hr1.png" onclick="openModal(this.id)" alt="Verraise" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Verraise&lt;/strong>&lt;/td>
@@ -272,7 +272,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[369 203 39 263 35 382]" src="https://xivapi.com/i/003000/003212_hr1.png" onclick="openModal(this.id)" alt="Fleche" />
+ &lt;img id="[230 384 125 132 203 66]" src="https://xivapi.com/i/003000/003212_hr1.png" onclick="openModal(this.id)" alt="Fleche" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Fleche&lt;/strong>&lt;/td>
@@ -281,7 +281,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[218 210 106 460 56 293]" src="https://xivapi.com/i/003000/003217_hr1.png" onclick="openModal(this.id)" alt="ContreSixte" />
+ &lt;img id="[14 177 414 52 181 229]" src="https://xivapi.com/i/003000/003217_hr1.png" onclick="openModal(this.id)" alt="ContreSixte" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Contre Sixte&lt;/strong>&lt;/td>
@@ -290,7 +290,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[413 108 109 184 166 439]" src="https://xivapi.com/i/003000/003204_hr1.png" onclick="openModal(this.id)" alt="CorpsACorps" />
+ &lt;img id="[28 127 215 60 281 339]" src="https://xivapi.com/i/003000/003204_hr1.png" onclick="openModal(this.id)" alt="CorpsACorps" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Corps-A-Corps&lt;/strong>&lt;/td>
@@ -299,7 +299,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[302 238 79 152 66 200]" src="https://xivapi.com/i/003000/003211_hr1.png" onclick="openModal(this.id)" alt="Displacement" />
+ &lt;img id="[54 151 308 88 463 390]" src="https://xivapi.com/i/003000/003211_hr1.png" onclick="openModal(this.id)" alt="Displacement" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Displacement&lt;/strong>&lt;/td>
@@ -308,7 +308,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[77 5 322 302 80 411]" src="https://xivapi.com/i/003000/003231_hr1.png" onclick="openModal(this.id)" alt="Engagement" />
+ &lt;img id="[441 155 358 230 334 129]" src="https://xivapi.com/i/003000/003231_hr1.png" onclick="openModal(this.id)" alt="Engagement" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Engagement&lt;/strong>&lt;/td>
@@ -317,7 +317,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[44 447 287 43 406 298]" src="https://xivapi.com/i/003000/003218_hr1.png" onclick="openModal(this.id)" alt="Embolden" />
+ &lt;img id="[206 23 413 96 187 356]" src="https://xivapi.com/i/003000/003218_hr1.png" onclick="openModal(this.id)" alt="Embolden" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Embolden&lt;/strong>&lt;/td>
@@ -326,7 +326,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[148 64 71 363 309 494]" src="https://xivapi.com/i/003000/003242_hr1.png" onclick="openModal(this.id)" alt="ViceOfThorns" />
+ &lt;img id="[13 34 461 416 462 335]" src="https://xivapi.com/i/003000/003242_hr1.png" onclick="openModal(this.id)" alt="ViceOfThorns" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Vice of Thorns&lt;/strong>&lt;/td>
@@ -335,7 +335,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[146 9 165 395 52 70]" src="https://xivapi.com/i/003000/003219_hr1.png" onclick="openModal(this.id)" alt="Manafication" />
+ &lt;img id="[42 312 460 488 26 455]" src="https://xivapi.com/i/003000/003219_hr1.png" onclick="openModal(this.id)" alt="Manafication" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Manafication&lt;/strong>&lt;/td>
@@ -344,7 +344,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[191 358 352 103 427 306]" src="https://xivapi.com/i/003000/003244_hr1.png" onclick="openModal(this.id)" alt="Prefulgence" />
+ &lt;img id="[187 197 486 143 300 414]" src="https://xivapi.com/i/003000/003244_hr1.png" onclick="openModal(this.id)" alt="Prefulgence" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Prefulgence&lt;/strong>&lt;/td>
@@ -353,7 +353,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[103 253 285 245 398 180]" src="https://xivapi.com/i/003000/003214_hr1.png" onclick="openModal(this.id)" alt="Acceleration" />
+ &lt;img id="[470 307 169 124 253 387]" src="https://xivapi.com/i/003000/003214_hr1.png" onclick="openModal(this.id)" alt="Acceleration" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Acceleration&lt;/strong>&lt;/td>
@@ -362,7 +362,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[108 87 418 486 158 382]" src="https://xivapi.com/i/000000/000866_hr1.png" onclick="openModal(this.id)" alt="Swiftcast" />
+ &lt;img id="[141 124 134 423 213 171]" src="https://xivapi.com/i/000000/000866_hr1.png" onclick="openModal(this.id)" alt="Swiftcast" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Swiftcast&lt;/strong>&lt;/td>
@@ -383,7 +383,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[61 151 64 14 284 348]" src="https://xivapi.com/i/000000/000861_hr1.png" onclick="openModal(this.id)" alt="Addle" />
+ &lt;img id="[424 397 187 70 230 470]" src="https://xivapi.com/i/000000/000861_hr1.png" onclick="openModal(this.id)" alt="Addle" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Addle&lt;/strong>&lt;/td>
@@ -392,7 +392,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[305 321 425 260 259 408]" src="https://xivapi.com/i/000000/000865_hr1.png" onclick="openModal(this.id)" alt="LucidDreaming" />
+ &lt;img id="[323 94 33 376 171 277]" src="https://xivapi.com/i/000000/000865_hr1.png" onclick="openModal(this.id)" alt="LucidDreaming" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Lucid Dreaming&lt;/strong>&lt;/td>
@@ -401,7 +401,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[493 256 125 239 260 470]" src="https://xivapi.com/i/000000/000869_hr1.png" onclick="openModal(this.id)" alt="Surecast" />
+ &lt;img id="[286 147 488 466 206 246]" src="https://xivapi.com/i/000000/000869_hr1.png" onclick="openModal(this.id)" alt="Surecast" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Surecast&lt;/strong>&lt;/td>
@@ -410,7 +410,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[162 448 221 168 344 35]" src="https://xivapi.com/i/003000/003237_hr1.png" onclick="openModal(this.id)" alt="Magick Barrier" />
+ &lt;img id="[144 16 165 86 68 215]" src="https://xivapi.com/i/003000/003237_hr1.png" onclick="openModal(this.id)" alt="Magick Barrier" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Magick Barrier&lt;/strong>&lt;/td>
@@ -419,7 +419,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[134 387 463 142 490 270]" src="https://xivapi.com/i/000000/000871_hr1.png" onclick="openModal(this.id)" alt="Sleep" />
+ &lt;img id="[77 194 293 145 264 497]" src="https://xivapi.com/i/000000/000871_hr1.png" onclick="openModal(this.id)" alt="Sleep" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Sleep&lt;/strong>&lt;/td>
