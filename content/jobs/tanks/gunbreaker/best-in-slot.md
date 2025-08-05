@@ -24,7 +24,7 @@ bis:
     description: >-
       Tome order: Chest -> Ring -> Neck\* -> Boots -> Wrist\*\
 
-      \
+      </br>
 
       * You may need to flip the wrist/neck acquisition depending on savage gear, if you care about being optimal on a week to week basis due to CRIT tiering.
   - type: etro
@@ -33,7 +33,7 @@ bis:
     description: >-
       Tome order: Chest -> Ring -> Neck\* -> Wrist\*\
 
-      \
+      </br>
 
       * You may need to flip the wrist/neck acquisition depending on savage gear, if you care about being optimal on a week to week basis due to CRIT tiering.
   - type: etro
