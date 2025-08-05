@@ -1,7 +1,7 @@
 ---
 title: Samurai Changes
 layout: changes
-lastmod: 2024-11-16T06:19:33.646Z
+lastmod: 2025-08-05T02:44:20.866Z
 changes:
   - patch: "7.2"
     description: >-
@@ -69,6 +69,20 @@ changes:
       Gyofu's potency has been increased from 230 to 240.
 
       Zanshin's potency has been increased from 820 to 900.
+  - patch: "7.3"
+    description: >-
+      | Hissatsu: Guren  | Potency is no longer reduced after the first
+      enemy.                           |
+
+      | ---------------- | ----------------------------------------------------------------------------- |
+
+      | Shoha            | Reduction in potency after the first target has been changed from 50% to 40%. |
+
+      | Ogi Namikiri     | Reduction in potency after the first target has been changed from 50% to 40%. |
+
+      | Kaeshi: Namikiri | Reduction in potency after the first target has been changed from 50% to 40%. |
+
+      | Zanshin          | Reduction in potency after the first target has been changed from 50% to 40%. |
 authors:
   - Balance-SAM-Staff
   - boxer
