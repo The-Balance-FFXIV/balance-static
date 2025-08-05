@@ -5,8 +5,8 @@ authors:
   - dook
   - silaqui-amakiir
   - violet-stardust
-patch: "7.2"
-lastmod: 2025-03-24T21:44:35.636Z
+patch: "7.3"
+lastmod: 2025-08-05T02:25:27.099Z
 changelog:
   - date: 2021-10-27T17:34:49.525Z
     message: Added
