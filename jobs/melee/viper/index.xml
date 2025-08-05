@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Viper on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/</link><description>Recent content in Viper on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 04:11:20 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/melee/viper/index.xml" rel="self" type="application/rss+xml"/><item><title>Viper Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/stat-priority/</link><pubDate>Tue, 05 Aug 2025 04:11:20 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/stat-priority/</guid><description>&lt;p>Viper follows the stat priority of: Critical Hit &amp;gt; Determination = Direct Hit &amp;gt; Skill Speed. However, it is recommended to use the highest item level gear available to you, as it will give you more of your primary stat which will always result in a higher DPS gain than lower item level counterparts.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Viper on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/</link><description>Recent content in Viper on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 04:11:48 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/melee/viper/index.xml" rel="self" type="application/rss+xml"/><item><title>Viper Job Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/job-changes/</link><pubDate>Tue, 05 Aug 2025 04:11:48 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/job-changes/</guid><description/></item><item><title>Viper Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/stat-priority/</link><pubDate>Tue, 05 Aug 2025 04:11:20 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/stat-priority/</guid><description>&lt;p>Viper follows the stat priority of: Critical Hit &amp;gt; Determination = Direct Hit &amp;gt; Skill Speed. However, it is recommended to use the highest item level gear available to you, as it will give you more of your primary stat which will always result in a higher DPS gain than lower item level counterparts.&lt;/p>
 &lt;p>When melding with materia, it is advised to follow the same stat priority.&lt;/p></description></item><item><title>Viper Intermediate Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/intermediate-guide/</link><pubDate>Tue, 05 Aug 2025 04:04:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/intermediate-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
 &lt;p>Special thanks to Akashi, Jackal, Azazel, Azrael, Stella, and Rhy whose work religiously theorycrafting this job made this guide possible.&lt;/p>
-&lt;p>&lt;em>&lt;strong>This guide assumes that the player has a firm grasp of the concepts presented in the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/">VPR Basic Guide&lt;/a>. If this doesn’t apply to you, give that guide a read before returning here.&lt;/strong>&lt;/em> This guide will be focused on more Intermediate level concepts of VPR, such as burst window optimization with party buffs, planning for downtime, and other rotation optimization.&lt;/p></description></item><item><title>Viper Best in Slot</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/best-in-slot/</link><pubDate>Sun, 30 Mar 2025 18:17:51 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/best-in-slot/</guid><description/></item><item><title>Viper Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/skills-overview/</link><pubDate>Tue, 25 Mar 2025 01:01:55 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/skills-overview/</guid><description>&lt;p>Please note that all of the following actions are based on Viper at level 100, and may not reflect their lower level version effects or potencies.&lt;/p>
+&lt;p>&lt;em>&lt;strong>This guide assumes that the player has a firm grasp of the concepts presented in the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/">VPR Basic Guide&lt;/a>. If this doesn’t apply to you, give that guide a read before returning here.&lt;/strong>&lt;/em> This guide will be focused on more Intermediate level concepts of VPR, such as burst window optimization with party buffs, planning for downtime, and other rotation optimization.&lt;/p></description></item><item><title>Viper Frequently Asked Questions</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/faq/</link><pubDate>Tue, 05 Aug 2025 04:04:03 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/faq/</guid><description/></item><item><title>Viper Best in Slot</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/best-in-slot/</link><pubDate>Sun, 30 Mar 2025 18:17:51 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/best-in-slot/</guid><description/></item><item><title>Viper Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/skills-overview/</link><pubDate>Tue, 25 Mar 2025 01:01:55 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/skills-overview/</guid><description>&lt;p>Please note that all of the following actions are based on Viper at level 100, and may not reflect their lower level version effects or potencies.&lt;/p>
 &lt;h1 id="1-dual-wield-actions">1. Dual Wield Actions&lt;/h1>
 &lt;h2 id="11-single-target">1.1 Single Target&lt;/h2>
 &lt;table>
@@ -18,7 +18,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[21 495 266 372 135 14]" src="https://xivapi.com/i/003000/003701_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[167 268 468 314 349 126]" src="https://xivapi.com/i/003000/003701_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Steel Fangs&lt;/td>
@@ -29,7 +29,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[270 311 291 120 152 89]" src="https://xivapi.com/i/003000/003702_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[440 332 70 161 68 116]" src="https://xivapi.com/i/003000/003702_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reaving Fangs&lt;/td>
@@ -40,7 +40,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[166 206 256 324 442 241]" src="https://xivapi.com/i/003000/003703_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[177 52 130 119 315 30]" src="https://xivapi.com/i/003000/003703_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hunter&amp;rsquo;s Sting&lt;/td>
@@ -51,7 +51,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[318 70 143 126 341 280]" src="https://xivapi.com/i/003000/003704_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[37 382 314 67 482 144]" src="https://xivapi.com/i/003000/003704_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Swiftkin&amp;rsquo;s Sting&lt;/td>
@@ -62,7 +62,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[199 356 105 143 236 382]" src="https://xivapi.com/i/003000/003705_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[494 403 475 80 198 83]" src="https://xivapi.com/i/003000/003705_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flanksting Strike&lt;/td>
@@ -73,7 +73,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[18 432 111 459 128 194]" src="https://xivapi.com/i/003000/003706_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[217 218 53 237 307 168]" src="https://xivapi.com/i/003000/003706_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flanksbane Fang&lt;/td>
@@ -84,7 +84,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[120 479 241 270 132 196]" src="https://xivapi.com/i/003000/003707_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[186 26 160 425 300 466]" src="https://xivapi.com/i/003000/003707_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hindsting Strike&lt;/td>
@@ -95,7 +95,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[275 322 66 433 478 361]" src="https://xivapi.com/i/003000/003708_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[241 359 445 247 57 112]" src="https://xivapi.com/i/003000/003708_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hindsbane Fang&lt;/td>
@@ -106,7 +106,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[329 139 259 169 385 211]" src="https://xivapi.com/i/003000/003729_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[13 320 83 488 388 281]" src="https://xivapi.com/i/003000/003729_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Death Rattle&lt;/td>
@@ -131,7 +131,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[87 348 146 435 305 462]" src="https://xivapi.com/i/003000/003709_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[457 483 62 433 332 475]" src="https://xivapi.com/i/003000/003709_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Steel Maw&lt;/td>
@@ -142,7 +142,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[302 306 6 169 257 45]" src="https://xivapi.com/i/003000/003710_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[201 46 36 85 264 87]" src="https://xivapi.com/i/003000/003710_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reaving Maw&lt;/td>
@@ -153,7 +153,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[450 130 33 191 322 346]" src="https://xivapi.com/i/003000/003711_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[51 412 173 133 406 489]" src="https://xivapi.com/i/003000/003711_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hunter&amp;rsquo;s Bite&lt;/td>
@@ -164,7 +164,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[111 388 202 248 113 235]" src="https://xivapi.com/i/003000/003712_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[309 204 107 443 339 207]" src="https://xivapi.com/i/003000/003712_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Swiftskin&amp;rsquo;s Bite&lt;/td>
@@ -175,7 +175,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[375 47 423 273 177 4]" src="https://xivapi.com/i/003000/003714_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[281 205 230 380 215 255]" src="https://xivapi.com/i/003000/003714_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodied Maw&lt;/td>
@@ -186,7 +186,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[87 298 143 320 416 482]" src="https://xivapi.com/i/003000/003713_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[31 234 104 441 217 403]" src="https://xivapi.com/i/003000/003713_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Jagged Maw&lt;/td>
@@ -197,7 +197,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[47 388 376 229 212 231]" src="https://xivapi.com/i/003000/003730_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[298 283 166 431 182 35]" src="https://xivapi.com/i/003000/003730_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Last Lash&lt;/td>
@@ -223,7 +223,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[483 169 452 86 12 419]" src="https://xivapi.com/i/003000/003715_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[453 487 210 251 183 285]" src="https://xivapi.com/i/003000/003715_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Vicewinder&lt;/td>
@@ -234,7 +234,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[166 282 379 113 318 406]" src="https://xivapi.com/i/003000/003716_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[339 364 270 64 321 154]" src="https://xivapi.com/i/003000/003716_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hunter&amp;rsquo;s Coil&lt;/td>
@@ -245,7 +245,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[334 178 47 310 431 77]" src="https://xivapi.com/i/003000/003717_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[422 306 47 335 307 403]" src="https://xivapi.com/i/003000/003717_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Swiftskin&amp;rsquo;s Coil&lt;/td>
@@ -256,7 +256,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[487 362 209 160 488 205]" src="https://xivapi.com/i/003000/003731_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[140 230 437 368 424 425]" src="https://xivapi.com/i/003000/003731_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Twinfang Bite&lt;/td>
@@ -267,7 +267,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[102 315 352 348 424 421]" src="https://xivapi.com/i/003000/003732_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[248 456 343 490 434 346]" src="https://xivapi.com/i/003000/003732_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Twinblood Bite&lt;/td>
@@ -292,7 +292,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[389 115 49 200 157 398]" src="https://xivapi.com/i/003000/003718_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[42 309 407 290 470 397]" src="https://xivapi.com/i/003000/003718_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Vicepit&lt;/td>
@@ -303,7 +303,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[465 172 442 330 353 135]" src="https://xivapi.com/i/003000/003719_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[288 187 450 195 351 50]" src="https://xivapi.com/i/003000/003719_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hunter&amp;rsquo;s Den&lt;/td>
@@ -314,7 +314,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[51 212 261 218 138 334]" src="https://xivapi.com/i/003000/003720_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[87 233 403 121 178 136]" src="https://xivapi.com/i/003000/003720_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Swiftskin&amp;rsquo;s Den&lt;/td>
@@ -325,7 +325,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[166 424 259 462 141 183]" src="https://xivapi.com/i/003000/003733_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[184 224 151 426 179 188]" src="https://xivapi.com/i/003000/003733_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Twinfang Thresh&lt;/td>
@@ -336,7 +336,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[185 154 333 246 294 117]" src="https://xivapi.com/i/003000/003734_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[352 371 225 40 423 337]" src="https://xivapi.com/i/003000/003734_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Twinblood Thresh&lt;/td>
@@ -361,7 +361,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[462 123 491 134 49 302]" src="https://xivapi.com/i/003000/003721_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[76 28 200 298 54 429]" src="https://xivapi.com/i/003000/003721_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reawaken&lt;/td>
@@ -372,7 +372,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[49 145 213 410 237 387]" src="https://xivapi.com/i/003000/003722_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[489 325 22 394 390 52]" src="https://xivapi.com/i/003000/003722_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">First Generation&lt;/td>
@@ -383,7 +383,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[429 352 485 270 363 482]" src="https://xivapi.com/i/003000/003735_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[122 367 268 85 291 301]" src="https://xivapi.com/i/003000/003735_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">First Legacy&lt;/td>
@@ -394,7 +394,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[67 34 270 111 246 388]" src="https://xivapi.com/i/003000/003723_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[241 148 60 177 201 376]" src="https://xivapi.com/i/003000/003723_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Generation&lt;/td>
@@ -405,7 +405,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[259 293 229 260 179 40]" src="https://xivapi.com/i/003000/003736_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[94 363 257 242 305 96]" src="https://xivapi.com/i/003000/003736_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Legacy&lt;/td>
@@ -416,7 +416,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[452 35 381 268 255 474]" src="https://xivapi.com/i/003000/003724_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[414 237 57 28 390 114]" src="https://xivapi.com/i/003000/003724_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Third Generation&lt;/td>
@@ -427,7 +427,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[444 173 74 105 455 287]" src="https://xivapi.com/i/003000/003737_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[458 455 222 28 483 143]" src="https://xivapi.com/i/003000/003737_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Third Legacy&lt;/td>
@@ -438,7 +438,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[295 368 36 182 451 264]" src="https://xivapi.com/i/003000/003725_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[133 458 161 337 49 274]" src="https://xivapi.com/i/003000/003725_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fourth Generation&lt;/td>
@@ -449,7 +449,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[361 140 244 324 269 203]" src="https://xivapi.com/i/003000/003738_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[340 126 228 143 178 356]" src="https://xivapi.com/i/003000/003738_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fourth Legacy&lt;/td>
@@ -460,7 +460,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[113 117 36 19 392 290]" src="https://xivapi.com/i/003000/003726_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[195 225 178 68 34 7]" src="https://xivapi.com/i/003000/003726_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Ouroboros&lt;/td>
@@ -485,7 +485,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[348 60 19 210 364 303]" src="https://xivapi.com/i/003000/003728_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[404 282 489 406 368 26]" src="https://xivapi.com/i/003000/003728_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Uncoiled Fury&lt;/td>
@@ -496,7 +496,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[430 445 112 207 467 27]" src="https://xivapi.com/i/003000/003739_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[495 292 289 76 226 268]" src="https://xivapi.com/i/003000/003739_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Uncoiled Twinfang&lt;/td>
@@ -507,7 +507,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[236 381 339 24 415 238]" src="https://xivapi.com/i/003000/003740_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[354 322 240 417 375 472]" src="https://xivapi.com/i/003000/003740_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Uncoiled Twinblood&lt;/td>
@@ -518,7 +518,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[45 70 217 227 246 78]" src="https://xivapi.com/i/003000/003727_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[195 123 187 476 22 330]" src="https://xivapi.com/i/003000/003727_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Writhing Snap&lt;/td>
@@ -529,7 +529,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[367 396 404 226 390 56]" src="https://xivapi.com/i/003000/003741_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[484 79 43 10 384 269]" src="https://xivapi.com/i/003000/003741_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Slither&lt;/td>
@@ -540,7 +540,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[87 71 6 298 293 129]" src="https://xivapi.com/i/003000/003742_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[231 2 247 466 206 471]" src="https://xivapi.com/i/003000/003742_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Serpent&amp;rsquo;s Ire&lt;/td>
@@ -551,7 +551,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[410 230 121 220 131 115]" src="https://xivapi.com/i/003000/003743_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[314 464 74 138 329 5]" src="https://xivapi.com/i/003000/003743_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Serpent&amp;rsquo;s Tail&lt;/td>
@@ -562,7 +562,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[15 322 356 47 424 156]" src="https://xivapi.com/i/003000/003744_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[132 314 294 62 129 401]" src="https://xivapi.com/i/003000/003744_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Twinfang&lt;/td>
@@ -573,7 +573,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[303 94 232 419 242 370]" src="https://xivapi.com/i/003000/003745_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[170 235 38 417 47 45]" src="https://xivapi.com/i/003000/003745_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Twinblood&lt;/td>
@@ -598,7 +598,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[293 449 115 496 141 403]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[176 1 9 20 106 432]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">True North&lt;/td>
@@ -609,7 +609,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[72 54 67 303 318 259]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[175 499 139 243 406 405]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Feint&lt;/td>
@@ -620,7 +620,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[320 239 14 403 434 106]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[94 470 257 281 169 332]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodbath&lt;/td>
@@ -631,7 +631,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[475 186 415 190 236 101]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[38 157 55 370 105 19]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -642,7 +642,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[401 80 120 17 403 228]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[95 22 161 171 471 264]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -653,7 +653,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[211 222 37 485 364 260]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[494 7 463 116 406 45]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Sweep&lt;/td>
@@ -662,9 +662,9 @@
  &lt;td style="text-align: left">Stuns target for 3 seconds. &lt;br>Stun duration becomes shorter and shorter until target is immune if target has been stunned recently.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Viper Frequently Asked Questions</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/faq/</link><pubDate>Mon, 24 Mar 2025 21:28:08 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/faq/</guid><description/></item><item><title>Viper Standard Opener</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/openers/</link><pubDate>Mon, 24 Mar 2025 21:27:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/openers/</guid><description>&lt;p>
+&lt;/table></description></item><item><title>Viper Standard Opener</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/openers/</link><pubDate>Mon, 24 Mar 2025 21:27:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/openers/</guid><description>&lt;p>
 &lt;div class="md__image">
- &lt;img id="[428 472 426 184 406 282]" src="https://www.thebalanceffxiv.com/img/jobs/vpr/vpr7-05standardop.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[441 287 409 495 327 10]" src="https://www.thebalanceffxiv.com/img/jobs/vpr/vpr7-05standardop.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>&lt;a href="https://www.thebalanceffxiv.com/img/jobs/vpr/vpr7-05standardop.png">Click here&lt;/a> for a larger image.&lt;/p>
@@ -675,4 +675,4 @@ This is our standard opener for Viper. For more information on what to do after 
 &lt;h2 id="11-overview">1﻿.1 Overview&lt;/h2>
 &lt;p>Viper (VPR) is a fast-paced melee DPS that alternates between fast dual wield attacks and heavy hitting twinblade attacks. Its core gameplay revolves around the classic builder-spender playstyle, building gauge with its dual wield and twinblade attacks and spending that gauge on a powerful burst window called Reawaken. VPR joins the Melee DPS roster as a Scouting class, and therefore shares gear with Ninja.&lt;/p></description></item><item><title>Viper Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/leveling-guide/</link><pubDate>Mon, 24 Mar 2025 21:25:57 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/leveling-guide/</guid><description>&lt;h1 id="viper-leveling-guide">Viper Leveling Guide&lt;/h1>
 &lt;hr>
-&lt;p>This guide was written to inform players who are seeking to, or are currently leveling Viper. The guide aims to inform players about how to initially play as Viper, what gear they should use while levelling and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 100 Viper and are looking for information pertaining to the job at level 100, please see the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/">Viper Basic Guide&lt;/a>.&lt;/p></description></item><item><title>Viper Job Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/job-changes/</link><pubDate>Mon, 24 Mar 2025 11:20:18 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/job-changes/</guid><description/></item></channel></rss>
+&lt;p>This guide was written to inform players who are seeking to, or are currently leveling Viper. The guide aims to inform players about how to initially play as Viper, what gear they should use while levelling and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 100 Viper and are looking for information pertaining to the job at level 100, please see the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/">Viper Basic Guide&lt;/a>.&lt;/p></description></item></channel></rss>
