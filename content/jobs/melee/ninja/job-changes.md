@@ -43,6 +43,17 @@ changes:
       Kunai's Bane damage reduction after the first enemy has been removed.\
 
       Tenri Jindo damage reduction after the first enemy has been removed.
+  - patch: "7.3"
+    description: |-
+      Hellfrog Medium potency increased from 160 to 250.
+
+      Dokumori potency increased from 300 to 400.
+
+      Phantom Kamaitachi potency increased from 600 to 700.
+
+      Kunai's Bane potency increased from 600 to 700.
+
+      Deathfrog Medium potency increased from 260 to 400.
 authors:
   - Balance-NIN-Staff
 ---
