@@ -1,8 +1,8 @@
 ---
 title: Gunbreaker FAQ
 layout: qna
-patch: "7.2"
-lastmod: 2025-03-24T22:18:50.910Z
+patch: "7.3"
+lastmod: 2025-08-05T20:52:18.543Z
 changelog:
   - date: 2021-11-15T03:49:47.299Z
     message: Created
@@ -22,10 +22,10 @@ qna:
       Superbolide no longer prevents your HP from dropping below 1, it now only grants the impervious effect that reduces damage taken to zero (similar to Hallowed Ground). It used to have an additional effect that prevented HP from going below 1, similar to Holmgang, which could be useful if a damage event was calculated on the player but had not yet hit them, as activating Superbolide would protect against that damage and promptly save them from dying.
   - question: What GCD does Gunbreaker want?
     answer: >-
-      Gunbreaker stands to gain the most from raw stats over speed bonuses, so
-      whenever the gear contains mostly good stat types for 2.50, 2.50 tends to
-      be the optimal speed unless a specific piece of content does not line up
-      well for that speed.
+      Gunbreaker stands to gain the most from stats that increase damage
+      directly over speed bonuses, so whenever the gear contains mostly good
+      stat types for 2.50, 2.50 tends to be the optimal speed unless a specific
+      piece of content does not line up well for that speed.
 
 
       Empirically, Gunbreaker has preferred 2.50 in the past three raid tiers and two out of three ultimates.
