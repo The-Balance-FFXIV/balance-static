@@ -2,8 +2,8 @@
 title: Machinist Skills Overview
 authors:
   - Balance-MCH-Staff
-patch: "7.2"
-lastmod: 2025-04-11T06:31:09.760Z
+patch: "7.3"
+lastmod: 2025-08-05T06:31:09.760Z
 changelog:
   - date: 2021-10-25T22:02:55.843Z
     message: Created page
