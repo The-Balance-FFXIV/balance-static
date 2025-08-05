@@ -3,8 +3,8 @@ title: White Mage Skills Overview
 authors:
   - shy
   - pyre
-patch: "7.2"
-lastmod: 2024-07-29T19:38:52.942Z
+patch: "7.3"
+lastmod: 2025-08-05T02:58:45.592Z
 changelog:
   - date: 2021-10-27T01:09:43.442Z
     message: Article Created.
@@ -14,6 +14,8 @@ changelog:
     message: Updated for patch 6.3
   - date: 2024-07-29T19:38:53.898Z
     message: upgraded for DT
+  - date: 2025-08-05T02:58:46.444Z
+    message: updated dia potency
 ---
 # **Notable Endwalker Changes**
 
@@ -55,7 +57,7 @@ changelog:
 
 ### **Dia**
 
-* Single target damage (80p) and DoT (10 ticks of 80p), instant cast. Total Potency: 880
+* Single target damage (85p) and DoT (10 ticks of 85p), instant cast. Total Potency: 935
 * At lower levels you'll have Aero, this is replaced by Dia at level 72
 * In dungeons, apply Dia while running and spam Holy when the tank stops
 * If Optimizing: 
