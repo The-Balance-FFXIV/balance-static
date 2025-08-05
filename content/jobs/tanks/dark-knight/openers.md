@@ -5,8 +5,8 @@ authors:
   - silaqui-amakiir
   - athunin
   - violet-stardust
-patch: "7.2"
-lastmod: 2025-05-18T20:04:57.560Z
+patch: "7.3"
+lastmod: 2025-08-05T02:25:46.158Z
 changelog:
   - date: 2024-07-28T09:27:40.592Z
     message: Updates for 7.0
