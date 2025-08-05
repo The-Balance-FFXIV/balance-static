@@ -2,7 +2,7 @@
 title: Viper Standard Opener
 authors:
   - balance-vpr-staff
-patch: "7.2"
+patch: "7.3"
 lastmod: 2025-08-05T05:41:46.468Z
 changelog:
   - date: 2024-06-23T19:46:14.169Z
