@@ -3,8 +3,8 @@ title: Gunbreaker Basic Guide
 card_header_image: /img/jobs/gnb/basic.png
 authors:
   - Balance-GNB-Staff
-patch: "7.25"
-lastmod: 2025-07-24T20:28:49.480Z
+patch: "7.3"
+lastmod: 2025-08-05T20:50:24.786Z
 changelog:
   - date: 2022-04-05T18:01:38.826Z
     message: Updated for Endwalker
