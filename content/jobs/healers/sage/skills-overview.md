@@ -3,8 +3,8 @@ title: Sage Skills
 authors:
   - Balance-SGE-Staff
   - wynn
-patch: "7.2"
-lastmod: 2025-03-31T23:34:05.729Z
+patch: "7.3"
+lastmod: 2025-08-05T03:02:20.457Z
 changelog:
   - date: 2022-01-24T08:39:05.371Z
     message: Added page
@@ -22,6 +22,8 @@ changelog:
     message: Update for 6.4
   - date: 2024-07-26T08:33:49.813Z
     message: 7.0 update
+  - date: 2025-08-05T03:02:16.283Z
+    message: updated for patch 7.3
 ---
 # Before you Start: Eukrasia
 
