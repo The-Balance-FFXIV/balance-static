@@ -1,7 +1,7 @@
 ---
 title: Viper Job Changes
 layout: changes
-lastmod: 2025-08-05T04:11:48.553Z
+lastmod: 2025-08-05T04:28:45.473Z
 changes:
   - patch: "7.0"
     description: Job added to the game with patch 7.0 -- Dawntrail. For a full
