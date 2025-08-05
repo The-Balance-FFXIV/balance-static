@@ -1,8 +1,8 @@
 ---
 title: Summoner FAQ
 layout: qna
-patch: "7.2"
-lastmod: 2025-03-31T22:45:32.349Z
+patch: "7.3"
+lastmod: 2025-08-05T04:47:32.444Z
 changelog:
   - date: 2021-11-28T01:53:18.458Z
     message: Created page
