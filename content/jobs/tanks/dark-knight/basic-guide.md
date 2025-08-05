@@ -5,8 +5,8 @@ authors:
   - nikroulah
   - silaqui-amakiir
   - violet-stardust
-patch: "7.2"
-lastmod: 2025-05-18T19:58:19.151Z
+patch: "7.3"
+lastmod: 2025-08-05T02:25:05.163Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
     message: Added
