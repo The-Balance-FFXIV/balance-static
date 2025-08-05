@@ -4,8 +4,8 @@ card_header_image: /img/jobs/drk/advanced.png
 authors:
   - Balance-DRK-Staff
   - violet-stardust
-patch: "7.2"
-lastmod: 2025-05-18T19:55:36.045Z
+patch: "7.3"
+lastmod: 2025-08-05T02:26:26.688Z
 changelog:
   - date: 2024-11-16T15:17:46.131Z
     message: Updated for 7.1
