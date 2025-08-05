@@ -1,7 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>White Mage on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/</link><description>Recent content in White Mage on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 31 Mar 2025 23:31:47 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/healers/white-mage/index.xml" rel="self" type="application/rss+xml"/><item><title>White Mage Changes</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/job-changes/</link><pubDate>Mon, 31 Mar 2025 23:31:47 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/job-changes/</guid><description/></item><item><title>White Mage Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/best-in-slot/</link><pubDate>Mon, 31 Mar 2025 11:28:25 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/best-in-slot/</guid><description/></item><item><title>White Mage Opener</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/openers/</link><pubDate>Tue, 30 Jul 2024 07:05:12 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/openers/</guid><description>&lt;h1 id="standard-opener">Standard Opener&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>White Mage on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/</link><description>Recent content in White Mage on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 02:58:45 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/healers/white-mage/index.xml" rel="self" type="application/rss+xml"/><item><title>White Mage Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/skills-overview/</link><pubDate>Tue, 05 Aug 2025 02:58:45 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/skills-overview/</guid><description>&lt;h1 id="notable-endwalker-changes">&lt;strong>Notable Endwalker Changes&lt;/strong>&lt;/h1>
+&lt;ul>
+&lt;li>Thin Air has two charges but only reduces mana cost on one spell per cast.&lt;/li>
+&lt;li>Glare cast time reduced to 1.5s.&lt;/li>
+&lt;li>Presence of Mind changes to a 120s cooldown.&lt;/li>
+&lt;/ul>
+&lt;h1 id="damage">&lt;strong>Damage&lt;/strong>&lt;/h1>
+&lt;h2 id="gcd">&lt;strong>GCD&lt;/strong>&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[90 419 144 404 186 25]" src="https://www.thebalanceffxiv.com/img/jobs/whm/white-mage-early-dot-refresh-opener-1-.png" onclick="openModal(this.id)" alt="-2.3s prepull/PULL/Current Tincture of Mind/Dia/Glare III/ Glare III: Weave: Presence of mind/ Glare IV Weave: Assize/Glare IV/ Glare III/ Glare III/ Glare III/ Glare III/ Glare III/ Glare III/ Glare IV/ Dia" title="WHM Standard Opener" />
+ &lt;img id="[232 145 106 22 379 174]" src="https://xivapi.com/i/002000/002646_hr1.png" onclick="openModal(this.id)" alt="Glare III" />
+&lt;/div>
+&lt;/p>
+&lt;h3 id="glare-iii">&lt;strong>Glare III&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Single target damage (330), 1.5 cast time&lt;/li>
+&lt;li>At lower levels you&amp;rsquo;ll have Stone, which gets replaced by Glare at level 72&lt;/li>
+&lt;li>Can weave one oGCD after it&lt;/li>
+&lt;li>Cast this when you don&amp;rsquo;t need to do anything else.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;div class="md__image">
+ &lt;img id="[346 231 230 83 379 145]" src="https://www.thebalanceffxiv.com/img/jobs/whm/002126_hr1.png" onclick="openModal(this.id)" alt="Glare IV " />
+&lt;/div>
+&lt;/p></description></item><item><title>White Mage Changes</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/job-changes/</link><pubDate>Mon, 31 Mar 2025 23:31:47 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/job-changes/</guid><description/></item><item><title>White Mage Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/best-in-slot/</link><pubDate>Mon, 31 Mar 2025 11:28:25 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/best-in-slot/</guid><description/></item><item><title>White Mage Opener</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/openers/</link><pubDate>Tue, 30 Jul 2024 07:05:12 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/openers/</guid><description>&lt;h1 id="standard-opener">Standard Opener&lt;/h1>
+&lt;p>
+&lt;div class="md__image">
+ &lt;img id="[190 438 33 117 1 415]" src="https://www.thebalanceffxiv.com/img/jobs/whm/white-mage-early-dot-refresh-opener-1-.png" onclick="openModal(this.id)" alt="-2.3s prepull/PULL/Current Tincture of Mind/Dia/Glare III/ Glare III: Weave: Presence of mind/ Glare IV Weave: Assize/Glare IV/ Glare III/ Glare III/ Glare III/ Glare III/ Glare III/ Glare III/ Glare IV/ Dia" title="WHM Standard Opener" />
 &lt;/div>
 &lt;/p>
 &lt;p>In most cases, use this&lt;br>
@@ -20,31 +44,7 @@ Glare III&lt;br>
 Glare III&lt;br>
 Glare III&lt;br>
 Glare IV&lt;br>
-Dia&lt;/p></description></item><item><title>White Mage Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/skills-overview/</link><pubDate>Mon, 29 Jul 2024 19:38:52 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/skills-overview/</guid><description>&lt;h1 id="notable-endwalker-changes">&lt;strong>Notable Endwalker Changes&lt;/strong>&lt;/h1>
-&lt;ul>
-&lt;li>Thin Air has two charges but only reduces mana cost on one spell per cast.&lt;/li>
-&lt;li>Glare cast time reduced to 1.5s.&lt;/li>
-&lt;li>Presence of Mind changes to a 120s cooldown.&lt;/li>
-&lt;/ul>
-&lt;h1 id="damage">&lt;strong>Damage&lt;/strong>&lt;/h1>
-&lt;h2 id="gcd">&lt;strong>GCD&lt;/strong>&lt;/h2>
-&lt;p>
-&lt;div class="md__image">
- &lt;img id="[388 167 70 78 89 31]" src="https://xivapi.com/i/002000/002646_hr1.png" onclick="openModal(this.id)" alt="Glare III" />
-&lt;/div>
-&lt;/p>
-&lt;h3 id="glare-iii">&lt;strong>Glare III&lt;/strong>&lt;/h3>
-&lt;ul>
-&lt;li>Single target damage (330), 1.5 cast time&lt;/li>
-&lt;li>At lower levels you&amp;rsquo;ll have Stone, which gets replaced by Glare at level 72&lt;/li>
-&lt;li>Can weave one oGCD after it&lt;/li>
-&lt;li>Cast this when you don&amp;rsquo;t need to do anything else.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;div class="md__image">
- &lt;img id="[467 278 397 125 492 13]" src="https://www.thebalanceffxiv.com/img/jobs/whm/002126_hr1.png" onclick="openModal(this.id)" alt="Glare IV " />
-&lt;/div>
-&lt;/p></description></item><item><title>White Mage Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/basic-guide/</link><pubDate>Mon, 29 Jul 2024 19:16:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/basic-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
+Dia&lt;/p></description></item><item><title>White Mage Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/basic-guide/</link><pubDate>Mon, 29 Jul 2024 19:16:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/basic-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
 &lt;p>This guide aims to provide a basic overview of White Mage and offer guidelines on how to use each skill in its toolkit effectively in any environment. As healers do not have a strict healing rotation, this guide will focus on highlighting what makes each skill unique and explain some common use cases.&lt;/p>
 &lt;p>White Mage is considered by many people to be the most beginner friendly healer, and rightfully so. It offers a very straightforward healing kit that meshes well with the ‘press button to make HP bars go up’ mindset, and a plethora of powerful tools to salvage almost any situation. It brings high personal damage with no convoluted job specific mechanics, making it a comfortable healer to start on and become proficient at in a short time.&lt;/p></description></item><item><title>White Mage Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/stat-priority/</link><pubDate>Mon, 29 Jul 2024 19:15:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/stat-priority/</guid><description>&lt;p>In general this will boil down to choosing max item level gear with sufficient Piety while maximizing Crit, then melding Crit &amp;gt; DH/DET where possible, though Piety melds can be useful in a pinch if you end up too low.&lt;/p>
 &lt;p>&lt;strong>Piety&lt;/strong> is a binary stat, as any more than you needed to not run out of mp was wasted stats. Because of this, when choosing our substats, avoiding excess Piety is the best way for us to increase our damage, and you&amp;rsquo;ll sometimes see our low piety sets use lower iLvl equipment to avoid Piety (this is still the exception rather than the rule, don&amp;rsquo;t actively use lower iLvl items to dodge Piety without calculating out the gain yourself). It&amp;rsquo;s hard to predict exactly how much Piety you might need in most settings, but you can take a look at how much the recommended sets take in each setting and decide which one fits you best.&lt;/p></description></item><item><title>White Mage Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/leveling-guide/</link><pubDate>Mon, 29 Jul 2024 19:12:05 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/leveling-guide/</guid><description>&lt;h1 id="gear-and-job-quests">Gear and Job Quests&lt;/h1>
