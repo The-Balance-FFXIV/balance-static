@@ -3,8 +3,8 @@ title: Samurai Basic Guide
 card_header_image: /img/jobs/sam/basic.png
 authors:
   - Balance-SAM-Staff
-patch: "7.05"
-lastmod: 2024-08-29T03:35:43.004Z
+patch: "7.3"
+lastmod: 2025-08-05T02:52:16.367Z
 changelog:
   - date: 2021-10-28T03:23:16.783Z
     message: Created page
@@ -22,6 +22,8 @@ changelog:
     message: Updated for 6.55
   - date: 2024-08-28T06:49:05.029Z
     message: Updated for Dawntrail 7.05
+  - date: 2025-08-05T02:52:18.813Z
+    message: Updated potencies for 7.3
 ---
 # Foreword
 
