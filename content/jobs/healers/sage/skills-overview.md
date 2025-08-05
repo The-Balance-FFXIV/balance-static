@@ -44,7 +44,7 @@ While Sage does not offer a raid buff, it makes up for it by having the highest 
 
 ![Dosis III](https://xivapi.com/i/003000/003680_hr1.png)
 
-This is your main filler offensive GCD. When you have nothing higher priority to cast, use this. At 360 potency, it is the most powerful of all the healer single target filler GCDs.
+This is your main filler offensive GCD. When you have nothing higher priority to cast, use this. At 380 potency, it is the most powerful of all the healer single target filler GCDs.
 
 ## Eukrasian Dosis
 
@@ -78,7 +78,7 @@ For dungeons, the priority would be to use them on packs once the tank has finis
 
 ![Pneuma](https://xivapi.com/i/003000/003686_hr1.png)
 
-Pneuma is a combination damage and healing ability. It is damage-neutral compared to Dosis, with the same 360 potency on the main target. For multiple targets, it is 216p on each target, making it fall behind only Phlegma for AoE. The 600p heal is already decent, but it is best used with Zoe for a 900p damage-neutral AoE heal.
+Pneuma is a combination damage and healing ability. It is damage-neutral compared to Dosis, with the same 380 potency on the main target. For multiple targets, it is 216p on each target, making it fall behind only Phlegma for AoE. The 600p heal is already decent, but it is best used with Zoe for a 900p damage-neutral AoE heal.
 
 Due to it being an AoE, it is also useful for dungeons and situations such as P3S where it might be possible to hit multiple targets.
 
@@ -86,7 +86,7 @@ Due to it being an AoE, it is also useful for dungeons and situations such as P3
 
 ![Toxikon II](https://xivapi.com/i/003000/003684_hr1.png)
 
-Toxikon is an instant cast 360 potency single target GCD. This makes it a damage neutral movement tool for single target encounters. However, it consumes Addersting charges (which are gained from your Eukrasian Diagnosis shield being consumed fully), meaning you will need to plan out your uses. For AoE scenarios, it behaves similarly to Dyskrasia, but has different scaling, giving it more overall damage in all practical scenarios.
+Toxikon is an instant cast 380 potency single target GCD. This makes it a damage neutral movement tool for single target encounters. However, it consumes Addersting charges (which are gained from your Eukrasian Diagnosis shield being consumed fully), meaning you will need to plan out your uses. For AoE scenarios, it behaves similarly to Dyskrasia, but has different scaling, giving it more overall damage in all practical scenarios.
 
 In order to use this, you will need to use Eukrasian Diagnosis, which unfortunately is a GCD heal. However, you start the instance with three charges. Apart from the three freebies, it is best charged during downtime so that it remains DPS-neutral.
 
