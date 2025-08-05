@@ -1,7 +1,7 @@
 ---
 title: Viper Stat Priority
-patch: "7.2"
-lastmod: 2025-03-24T21:29:02.218Z
+patch: "7.3"
+lastmod: 2025-08-05T04:11:20.479Z
 changelog:
   - date: 2024-06-25T23:52:23.313Z
     message: Added article.
@@ -9,6 +9,8 @@ changelog:
     message: No changes from 7.0 to now. Marked as still applicable for 7.05
   - date: 2025-03-24T21:29:03.557Z
     message: Updated to Patch 7.2.
+  - date: 2025-08-05T04:11:17.421Z
+    message: Bumped supported patch number to 7.3.
 priority: Highest item level is always most important. Within the same item
   level, prioritize Critical Hit > Determination = Direct Hit > Skill Speed.
 authors:
