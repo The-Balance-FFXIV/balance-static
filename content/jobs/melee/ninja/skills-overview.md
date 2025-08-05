@@ -17,6 +17,8 @@ changelog:
     message: Updated to 7.2
   - date: 2025-05-27T10:33:27.515Z
     message: Updated to 7.25
+  - date: 2025-08-05T15:22:41.862Z
+    message: Updated to 7.3
 ---
 # Weaponskills (Commonly referred to as GCDs)
 
@@ -51,7 +53,7 @@ Delivers an attack with a potency of 100 to all nearby enemies. If done as the s
 ![](https://xivapi.com/i/002000/002929_hr1.png)
 
 **Phantom Kamaitachi**\
-Orders your shadow to deliver an attack with a potency of 600 to the target and all nearby enemies. Increases Ninki gauge by 10. This GCD can only be used under the effect of Phantom Kamaitachi Ready, granted by Bunshin, and consumes the buff when used. Using this skill while Bunshin is still active neither consumes a stack nor gains extra damage or Ninki. This action cannot be assigned to the hotbar and replaces Bunshin while the Phantom Kamiatachi Ready buff is active. It has a range of 20 yalms.
+Orders your shadow to deliver an attack with a potency of 700 to the target and all nearby enemies. Increases Ninki gauge by 10. This GCD can only be used under the effect of Phantom Kamaitachi Ready, granted by Bunshin, and consumes the buff when used. Using this skill while Bunshin is still active neither consumes a stack nor gains extra damage or Ninki. This action cannot be assigned to the hotbar and replaces Bunshin while the Phantom Kamiatachi Ready buff is active. It has a range of 20 yalms.
 
 Damage from Phantom Kamaitachi counts as pet damage, so it is roughly 7% less potency than stated.
 
@@ -133,11 +135,11 @@ These are your regular abilities that can be used at any time when you are not i
 
 ![Thumbnail for version as of 01:18, 28 June 2024](https://ffxiv.gamerescape.com/w/images/1/1d/Dokumori_Icon.png)\
 **Dokumori**\
-Delivers an attack with a potency of 300 to all enemies in a eight-yalm cone before you. Grants 40 Ninki gauge on use. Grants Higi on use. In addition, it debuffs the enemy targets for 20 seconds with Dokumori, increasing the enemy’s damage taken by 5% from all sources during this time. It also increases the chance of additional items dropped by the target if Dokumori is dealt before or as the finishing blow. This extra effect is mostly irrelevant since it only works on basic drops that you don't end up caring about, such as Bat Fangs. This skill has a personal cooldown of 120 seconds. 
+Delivers an attack with a potency of 400 to all enemies in a eight-yalm cone before you. Grants 40 Ninki gauge on use. Grants Higi on use. In addition, it debuffs the enemy targets for 20 seconds with Dokumori, increasing the enemy’s damage taken by 5% from all sources during this time. It also increases the chance of additional items dropped by the target if Dokumori is dealt before or as the finishing blow. This extra effect is mostly irrelevant since it only works on basic drops that you don't end up caring about, such as Bat Fangs. This skill has a personal cooldown of 120 seconds. 
 
 ![Thumbnail for version as of 01:18, 28 June 2024](https://ffxiv.gamerescape.com/w/images/e/e4/Kunai%27s_Bane_Icon.png)\
 **Kunai's Bane**\
-Delivers an attack with a potency of 600 too all nearby enemies in a five-yalm radius around you. It also applies the Kunai's Bane debuff to all targets for 15 seconds, increasing the enemy’s damage taken from you alone by 10%. This can only be used under the effect Hidden. (See Suiton for how to use this in combat). This ability has a personal cooldown of 60 seconds.
+Delivers an attack with a potency of 700 too all nearby enemies in a five-yalm radius around you. It also applies the Kunai's Bane debuff to all targets for 15 seconds, increasing the enemy’s damage taken from you alone by 10%. This can only be used under the effect Hidden. (See Suiton for how to use this in combat). This ability has a personal cooldown of 60 seconds.
 
 ![Kassatsu](https://xivapi.com/i/002000/002906_hr1.png)\
 **Kassatsu**
@@ -166,11 +168,11 @@ Ninki abilities are like normal oGCDs except that they require 50 Ninki to use. 
 
 ![HellfrogMedium](https://xivapi.com/i/002000/002920_hr1.png)\
 **Hellfrog Medium** \
-Deals fire damage with a potency of 160 to the target and any other enemies near the target. Costs 50 Ninki to use. This ability has a range of 25 yalms and deals damage in a six-yalm radius around the target.
+Deals fire damage with a potency of 250 to the target and any other enemies near the target. Costs 50 Ninki to use. This ability has a range of 25 yalms and deals damage in a six-yalm radius around the target.
 
 ![Thumbnail for version as of 01:11, 28 June 2024](https://ffxiv.gamerescape.com/w/images/d/d2/Deathfrog_Medium_Icon.png)\
 **Deathfrog Medium** \
-Deals fire damage with a potency of 260 to the target and any other enemies near the target. Can only be executed under the effect of Higi. Costs 50 Ninki to use. This ability has a range of 25 yalms and deals damage in a six-yalm radius around the target.
+Deals fire damage with a potency of 400 to the target and any other enemies near the target. Can only be executed under the effect of Higi. Costs 50 Ninki to use. This ability has a range of 25 yalms and deals damage in a six-yalm radius around the target.
 
 ![Bhavacakra](https://xivapi.com/i/002000/002921_hr1.png)\
 **Bhavacakra**\
