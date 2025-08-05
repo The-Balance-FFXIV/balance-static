@@ -22,6 +22,8 @@ changelog:
     message: Updated to 7.1
   - date: 2025-05-27T10:35:37.381Z
     message: Updated to 7.25
+  - date: 2025-08-05T15:20:25.355Z
+    message: Updated to 7.3
 ---
 This guide was written by Akashi for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 100 Ninja and are looking for information pertaining to the job at level 100, please see the [Basic Ninja Guide](/jobs/melee/ninja/basic-guide/).
 
@@ -168,15 +170,24 @@ And at level 100 the oGCD Tenri Jindo will be unlocked, which is weaved with the
 * Bhavacakra/Zesho Meppo
 * Hyosho Ranryu.
 
+
+
+### Two or More Targets
+
+* Hellfrog Medium/Deathfrog Medium
+* Meisui-enhanced Bhavacakra/Zesho Meppo
+
+
+
 ### Three or More Targets
 
 * Death Blossom > Hakke Mujinsatsu combo (Only if Doton and/or Bunshin are active).
 * Doton if the enemies will live longer than 12 seconds (Otherwise use Katon).
 * Katon.
 * Multi-Target TCJ (Fuma > Katon > Doton).
-* Hellfrog Medium/Deathfrog Medium
 * Goka Mekkyaku.
-* Meisui-enhanced Bhavacakra
+
+
 
 ### More Than Four Targets
 
