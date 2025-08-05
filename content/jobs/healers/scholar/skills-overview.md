@@ -35,7 +35,7 @@ changelog:
 
 ### **Broil IV**
 
-* Single target damage (310 potency), 1.5s cast time
+* Single target damage (320 potency), 1.5s cast time
 * Can weave one oGCD after it without clipping
 * Cast this when you don’t need to do anything else.
 
