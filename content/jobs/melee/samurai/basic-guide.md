@@ -108,15 +108,15 @@ Lastly, Yukikaze would be the least significant combo out of the three in the op
 
 With the Sen system, Ogi Namikiri, and the new Tendo Setsugekka with its 1020 potency and auto-crit is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with 0 Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use potency/Kenki and use your most common Kenki skill (Shinten) as a baseline.
 
-| Ability            |  Potency         | Potency Per Kenki                     |
-| ------------------ | ---------------- | -------------------------------------------- |
-| Zanshin            | \= 820p/50k      | \= 16.4p/k for the first mob, 9.8 per mob    |                                
-| Senei              | \= 800p/25k      | \= 32p/k                                     |
-| Guren              | \= 500p/25k      | \= 20p/k for the first mob, 15 per mob after |
-| <mark> **Shinten** | <mark>= 250p/25k | \= <mark> **10p/k**                          |
-| Yaten              | \= 100p/10k      | \= 10p/k                                     |
-| Gyoten             | \= 100p/10k      | \= 10p/k                                     |
-| Kyuten             | \= 120p/25k      | \= 4.8p/k per mob                            |
+| Ability            | Potency          | Potency Per Kenki                       |
+| ------------------ | ---------------- | --------------------------------------- |
+| Zanshin            | \= 940p/50k      | \= 18.8p/k for the first mob, 9.4 after |
+| Senei              | \= 800p/25k      | \= 32p/k                                |
+| Guren              | \= 400p/25k      | \= 16p/k per mob                        |
+| <mark> **Shinten** | <mark>= 250p/25k | \= <mark> **10p/k**                     |
+| Yaten              | \= 100p/10k      | \= 10p/k                                |
+| Gyoten             | \= 100p/10k      | \= 10p/k                                |
+| Kyuten             | \= 120p/25k      | \= 4.8p/k per mob                       |
 
 From the numbers above, a few conclusions can be drawn:
 
