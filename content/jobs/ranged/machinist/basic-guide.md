@@ -234,20 +234,20 @@ The basic AoE priority is as follows:
 
 * **Blazing Shot** on 1-5
 * **Auto Crossbow** on 6+
-* Note that this is with the assumption that you are able to cleave all targets with the oGCDs generated from **Blazing Shot**, since their radius are small (5 yalms), it's important to keep this in mind.
+* Note that this is with the assumption that you are able to cleave all targets with the oGCDs generated from **Blazing Shot**, since their radius are small (5 yalms), it's important to keep this in mind. If 1 target is out of range, **Auto Crossbow** is a gain on 4+ targets, if 2+ are out of range, it is a gain on 2+ targets.
 
 ### Flamethrower
 
-* **Assuming gauge is usable**, beats filler on 3+
 * **If gauge is not usable**, beats filler on 2+
 * Beats **Air Anchor** (incl. battery) on 6+
 * Never beats **Hypercharge**, **Chain Saw/Excavator**, **Drill/Bio**
+* Ensure that none of your other major cooldowns (**Barrel Stabilizer**, **Wildfire**, **Chainsaw**, and **Air Anchor** ) will become available for the 11 seconds you plan to channel.
 
 ### Bioblaster
 
-* Beats **Drill** on 3+ (technically tied on 2)
+* Beats **Drill** on 3+ 
 * Beats **Air Anchor** (incl. battery) on 4+
-* Beats **Chain Saw/Excavator** (incl. battery) on 10+
+* Never beats **Chainsaw**/**Excavator**
 
 <!--EndFragment-->
 
