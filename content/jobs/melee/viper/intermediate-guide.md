@@ -3,8 +3,8 @@ title: Viper Intermediate Guide
 card_header_image: /img/jobs/vpr/large-file-viper-1.png
 authors:
   - ToraelValdis
-patch: "7.2"
-lastmod: 2025-07-18T21:59:20.379Z
+patch: "7.3"
+lastmod: 2025-08-05T04:04:32.373Z
 changelog:
   - date: 2024-06-20T05:44:33.192Z
     message: Guide added to website
@@ -17,6 +17,8 @@ changelog:
   - date: 2025-07-18T21:59:28.393Z
     message: "Edited medicated section to include a stronger pot window and a
       description of when to use what. "
+  - date: 2025-08-05T04:04:28.058Z
+    message: Bumped supported patch number to 7.3.
 ---
 # Introduction
 
