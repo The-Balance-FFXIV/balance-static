@@ -1,6 +1,6 @@
 ---
 title: Summoner Stat Priority
-patch: "7.2"
+patch: "7.3"
 lastmod: 2025-03-31T22:53:13.116Z
 changelog:
   - date: 2021-11-09T04:33:22.593Z
