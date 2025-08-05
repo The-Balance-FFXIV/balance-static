@@ -1,8 +1,8 @@
 ---
 title: Gunbreaker BIS
 layout: bis
-patch: "7.2"
-lastmod: 2025-03-26T20:02:05.079Z
+patch: "7.3"
+lastmod: 2025-08-05T20:49:16.033Z
 changelog:
   - date: 2024-12-18T18:41:01.674Z
     message: 7.15 Gear Update
@@ -52,6 +52,15 @@ bis:
   - type: etro
     name: 2.42 No Overmelding Prog
     link: https://etro.gg/gearset/74f97a8c-ba87-478f-bbac-14d8185d6afd
+  - type: plain-text
+    name: Ultimates
+    description: |
+      FRU: https://xivgear.app/#/bis/gnb/ultimates/fru
+      </br>TOP: https://xivgear.app/#/bis/gnb/ultimates/top
+      </br>DSR: https://xivgear.app/#/bis/gnb/ultimates/dsr
+      </br>TEA: https://xivgear.app/#/bis/gnb/ultimates/tea
+      </br>UWU: https://xivgear.app/#/bis/gnb/ultimates/uwu
+      </br>UCOB: https://xivgear.app/#/bis/gnb/ultimates/ucob
 authors:
   - Balance-GNB-Staff
 tags: []
