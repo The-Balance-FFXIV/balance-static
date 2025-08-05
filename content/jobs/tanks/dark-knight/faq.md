@@ -1,8 +1,8 @@
 ---
 title: Dark Knight FAQ
 layout: qna
-patch: "7.2"
-lastmod: 2025-03-26T15:39:43.451Z
+patch: "7.3"
+lastmod: 2025-08-05T02:26:01.426Z
 changelog:
   - date: 2021-10-27T17:50:54.106Z
     message: Added
