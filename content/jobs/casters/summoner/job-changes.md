@@ -1,7 +1,7 @@
 ---
 title: Summoner Job Changes
 layout: changes
-lastmod: 2025-03-31T22:39:32.468Z
+lastmod: 2025-08-05T04:50:20.740Z
 changes:
   - patch: "6.0"
     description: "[Click here to view the changes to SMN on the official site for
@@ -47,6 +47,10 @@ changes:
     description: "[Click here to view the changes to SMN on the official site for
       7.2!](https://na.finalfantasyxiv.com/lodestone/topics/detail/3c4910f373e4\
       97acd3428c37f6358e341e4cc06d)"
+  - patch: "7.3"
+    description: "[Click here to view the changes to SMN on the official site for
+      7.3!](https://na.finalfantasyxiv.com/lodestone/topics/detail/c04405c6cbe8\
+      519a0b6c8aa5e4d88a5d447419c9)"
 authors:
   - Balance-SMN-Staff
 ---
