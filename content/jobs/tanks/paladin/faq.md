@@ -1,8 +1,8 @@
 ---
 title: Paladin FAQ
 layout: qna
-patch: "7.2"
-lastmod: 2024-07-10T05:01:41.293Z
+patch: "7.3"
+lastmod: 2025-08-06T18:59:42.314Z
 changelog:
   - date: 2021-10-27T17:20:21.199Z
     message: Added
@@ -81,6 +81,15 @@ qna:
       and avoid double weaving if having trouble with clipping.
   - question: Spell Speed?
     answer: Spell Speed affects even less of the rotation than Skill Speed does—avoid.
+  - question: How long does Passage of Arms linger?
+    answer: >-
+      Once a party member is hit by Passage of Arms, they receive the Arms Up
+      buff. This buff has a hidden 5 second timer, and is refreshed every 3
+      seconds you channel Passage. If you use Passage and stop channeling it
+      shortly after, Arms Up will last 5 seconds on any party member hit.
+
+
+      While you channel Passage, your block rate is increased to 100%. Once you stop channeling it, your block rate goes back to normal. This effect does not linger.
 authors:
   - nikroulah
   - silaqui-amakiir
