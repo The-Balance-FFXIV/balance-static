@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machinist on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/</link><description>Recent content in Machinist on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 17:58:00 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/index.xml" rel="self" type="application/rss+xml"/><item><title>Machinist Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</link><pubDate>Tue, 05 Aug 2025 17:58:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</guid><description>&lt;h1 id="openers">Openers &lt;/h1>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[425 262 292 455 81 461]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-standard-opener-aa-6-.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[422 78 76 183 374 259]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-standard-opener-aa-6-.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;br>
@@ -13,7 +13,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
 &lt;br>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[15 214 169 14 221 17]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-alternative-opener-static-to-even-minute-bursts-.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[480 474 248 46 275 304]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-alternative-opener-static-to-even-minute-bursts-.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p></description></item><item><title>Machinist Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/</link><pubDate>Tue, 05 Aug 2025 17:57:45 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/</guid><description>&lt;h1 id="basic-machinist-guide">Basic Machinist Guide&lt;/h1>
 &lt;p>Welcome to the Basic Machinist Guide! Within this document, you&amp;rsquo;ll find all the information you&amp;rsquo;ll need to play the job well. The links below can be used as teleports to other pages if you need the information while learning the job. Any questions can be directed to the Machinist channels in our Discord.&lt;/p>
@@ -22,7 +22,499 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=-OPOskH-llQ">Video Guide&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/">Gearing and Meld Priority&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/">Skills Overview&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/">Frequently Asked Questions&lt;/a>&lt;/p></description></item><item><title>Machinist Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/leveling-guide/</link><pubDate>Sat, 12 Apr 2025 01:34:19 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/leveling-guide/</guid><description>&lt;h1 id="simple-pointers-for-new-machinists">Simple Pointers for New Machinists&lt;/h1>
+&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/">Frequently Asked Questions&lt;/a>&lt;/p></description></item><item><title>Machinist Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</link><pubDate>Tue, 05 Aug 2025 06:31:09 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</guid><description>&lt;h1 id="single-target-actions">Single-Target Actions&lt;/h1>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Action&lt;/th>
+ &lt;th style="text-align: left">Abbreviation&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Type&lt;/th>
+ &lt;th style="text-align: left">Recast&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[40 144 296 120 179 67]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Heated Split Shot&lt;/td>
+ &lt;td style="text-align: left">HS1&lt;/td>
+ &lt;td style="text-align: left">54&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">The first skill in your main combo. Delivers an attack with a potency of 220. Generates 5 Heat. Upgraded from Split Shot.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[149 52 104 485 260 133]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Heated Slug Shot&lt;/td>
+ &lt;td style="text-align: left">HS2&lt;/td>
+ &lt;td style="text-align: left">60&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">The second skill in your main combo. Delivers an attack with a combo potency of 320. Generates 5 Heat. Upgraded from Slug Shot.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[336 482 492 13 404 355]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Heated Clean Shot&lt;/td>
+ &lt;td style="text-align: left">HS3&lt;/td>
+ &lt;td style="text-align: left">64&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">The third skill in your main combo. Delivers an attack with a combo potency of 420. Generates 5 Heat and 10 Battery. Upgraded from Clean Shot.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[249 370 2 67 222 171]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Drill&lt;/td>
+ &lt;td style="text-align: left">DR&lt;/td>
+ &lt;td style="text-align: left">58&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">20 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack with a potency of 620. Maximum Charges: 2 (Gained at Level 94). Shares a recast timer with Bioblaster&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[141 110 330 169 90 252]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Air Anchor&lt;/td>
+ &lt;td style="text-align: left">AA&lt;/td>
+ &lt;td style="text-align: left">76&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">40 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack with a potency of 620. Generates 20 Battery.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[169 71 301 139 129 351]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Chain Saw&lt;/td>
+ &lt;td style="text-align: left">CS&lt;/td>
+ &lt;td style="text-align: left">90&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">60 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack with a potency of 620. Generates 20 Battery. Damage fall-off of 25% for all other enemies in a line to the target. Grants Excavator Ready.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[459 154 396 186 387 343]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Reassemble&lt;/td>
+ &lt;td style="text-align: left">REA&lt;/td>
+ &lt;td style="text-align: left">10&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">55 seconds&lt;/td>
+ &lt;td style="text-align: left">Guarantees the next weaponskill is a critical direct hit. Can hold up to 2 stacks.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[337 404 341 125 82 305]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Hypercharge&lt;/td>
+ &lt;td style="text-align: left">HC&lt;/td>
+ &lt;td style="text-align: left">30&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">10 seconds&lt;/td>
+ &lt;td style="text-align: left">Enables the usage of Blazing Shot. Grants five stacks of Overheat to buff single-target weaponskills for the next 10 seconds. Costs 50 Heat, free use under the effect of Hypercharged.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[236 362 35 500 199 438]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Blazing Shot&lt;/td>
+ &lt;td style="text-align: left">HB&lt;/td>
+ &lt;td style="text-align: left">68&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">1.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Only usable under the effect of Hypercharge. Delivers an attack with a potency of 240. Reduces the cooldown of Double Check and Checkmate by 15 seconds each. Upgraded from Heat Blast&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[242 382 428 185 258 350]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Checkmate&lt;/td>
+ &lt;td style="text-align: left">CM&lt;/td>
+ &lt;td style="text-align: left">92&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">30 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack to target and all enemies nearby it with a potency of 180 for the first enemy, and 30% less for all remaining enemies. Upgraded from Ricochet.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[329 315 325 395 229 428]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Double Check&lt;/td>
+ &lt;td style="text-align: left">DC&lt;/td>
+ &lt;td style="text-align: left">92&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">30 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack to target and all enemies nearby it with a potency of 180 for the first enemy, and 30% less for all remaining enemies. Upgraded from Gauss Round.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[260 495 244 59 211 346]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Wildfire&lt;/td>
+ &lt;td style="text-align: left">WF&lt;/td>
+ &lt;td style="text-align: left">45&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">120 seconds&lt;/td>
+ &lt;td style="text-align: left">Deals 240 potency for each weaponskill delivered over a duration of 10 seconds. Wildfire deals its damage when the timer ends. Can be manually detonated early by using Detonator.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[75 477 378 300 370 480]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Barrel Stabilizer&lt;/td>
+ &lt;td style="text-align: left">BS&lt;/td>
+ &lt;td style="text-align: left">66&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">120 seconds&lt;/td>
+ &lt;td style="text-align: left">Grants Hypercharged &amp;amp; Full Metal Machinist for 30 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[319 179 158 414 193 248]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Excavator&lt;/td>
+ &lt;td style="text-align: left">EXC&lt;/td>
+ &lt;td style="text-align: left">96&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack with a potency of 620. Generates 20 Battery. Damage fall-off of 25% for all other enemies in a line to the target. Can only be used under the effect of Excavator Ready.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[411 191 151 449 458 248]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Full Metal Field&lt;/td>
+ &lt;td style="text-align: left">FMF&lt;/td>
+ &lt;td style="text-align: left">100&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers a critical direct hit to target and all enemies nearby it with a potency of 900 for the first enemy, and 25% less for all remaining enemies. Damage dealt is increased when under an effect that raises critical/direct hit rate. This action is not affected by Reassemble. Can only be used under the effect of Full Metal Machinist.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h1 id="multi-target-actions">Multi-Target Actions&lt;/h1>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Action&lt;/th>
+ &lt;th style="text-align: left">Abbreviation&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Type&lt;/th>
+ &lt;th style="text-align: left">Recast&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[20 135 128 195 436 65]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Bioblaster&lt;/td>
+ &lt;td style="text-align: left">BB&lt;/td>
+ &lt;td style="text-align: left">72&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">20 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack with a potency of 50 to all enemies in a cone in front of the player. Also places a DoT on all enemies for 15 seconds which ticks for another 50 potency. Full duration of Bioblaster is 300 potency on all enemies. Maximum Charges: 2 (Gained at Level 94). Shares a recast with Drill.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[457 196 293 391 488 119]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Scattergun&lt;/td>
+ &lt;td style="text-align: left">SG&lt;/td>
+ &lt;td style="text-align: left">82&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">2.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Delivers an attack with a potency of 130 potency in a cone in front of the player. Generates 10 Heat.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[30 396 96 365 98 208]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Auto-Crossbow&lt;/td>
+ &lt;td style="text-align: left">ACB&lt;/td>
+ &lt;td style="text-align: left">52&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">1.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Only usable under the effect of Hypercharge. Delivers an attack with a potency of 180 in a cone in front of the player.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[266 94 278 228 220 251]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Flamethrower&lt;/td>
+ &lt;td style="text-align: left">FT&lt;/td>
+ &lt;td style="text-align: left">70&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">60 seconds&lt;/td>
+ &lt;td style="text-align: left">A channeled ability. Deals 120 potency once per second over 11 seconds. Effect ends upon using another action or moving.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h1 id="pet-actions">Pet Actions&lt;/h1>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Action&lt;/th>
+ &lt;th style="text-align: left">Abbreviation&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Type&lt;/th>
+ &lt;th style="text-align: left">Recast&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[40 8 317 45 218 241]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Automaton Queen&lt;/td>
+ &lt;td style="text-align: left">AQ&lt;/td>
+ &lt;td style="text-align: left">80&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">6 seconds&lt;/td>
+ &lt;td style="text-align: left">Summons your robot. While active, Queen will deal damage in the form of Arm Punches, Roller Dashes, Pile Bunker, and Crowned Collider. Duration is set to 12 seconds regardless of Battery at which she was summoned. Maximum potency is 2660 at 100 Battery gauge.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[357 121 443 102 497 94]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Queen Overdrive&lt;/td>
+ &lt;td style="text-align: left">QO&lt;/td>
+ &lt;td style="text-align: left">80&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">15 seconds&lt;/td>
+ &lt;td style="text-align: left">Commands Queen to perform Pile Bunker and Crowned Collider.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[329 402 495 479 9 291]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Arm Punch&lt;/td>
+ &lt;td style="text-align: left">AP&lt;/td>
+ &lt;td style="text-align: left">80&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">1.5 seconds&lt;/td>
+ &lt;td style="text-align: left">Melee distance attack dealing 240 potency at 100 maximum Battery gauge.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[443 61 7 256 442 33]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Roller Dash&lt;/td>
+ &lt;td style="text-align: left">RD&lt;/td>
+ &lt;td style="text-align: left">80&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">3 seconds&lt;/td>
+ &lt;td style="text-align: left">Gap closer dealing 480 potency at maximum Battery gauge.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[419 347 141 209 6 473]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Pile Bunker&lt;/td>
+ &lt;td style="text-align: left">PB&lt;/td>
+ &lt;td style="text-align: left">80&lt;/td>
+ &lt;td style="text-align: left">Weaponskill&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">Queen&amp;rsquo;s first finisher. Delivers an attack of 680 potency at maximum Battery gauge.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[134 257 195 47 353 436]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Crowned Collider&lt;/td>
+ &lt;td style="text-align: left">CC&lt;/td>
+ &lt;td style="text-align: left">90&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">Queen&amp;rsquo;s second finisher. Delivers an attack of 780 potency at maximum Battery Gauge.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h1 id="role-abilitiessupport">Role Abilities/Support&lt;/h1>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Icon&lt;/th>
+ &lt;th style="text-align: left">Action&lt;/th>
+ &lt;th style="text-align: left">Abbreviation&lt;/th>
+ &lt;th style="text-align: left">Level&lt;/th>
+ &lt;th style="text-align: left">Type&lt;/th>
+ &lt;th style="text-align: left">Recast&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[156 283 145 268 267 229]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Tactician&lt;/td>
+ &lt;td style="text-align: left">Tact&lt;/td>
+ &lt;td style="text-align: left">56&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">90 seconds&lt;/td>
+ &lt;td style="text-align: left">Reduces damage taken by self and nearby party members by 15% for 15 seconds. This can not be stacked with Troubadour or Shield Samba.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[243 294 82 316 354 267]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Dismantle&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">62&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">120 seconds&lt;/td>
+ &lt;td style="text-align: left">10% damage reduction on a single target for 10 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[81 368 284 269 259 188]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Leg Graze&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">6&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">30 seconds&lt;/td>
+ &lt;td style="text-align: left">Afflicts target with a 40% heavy.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[21 121 343 50 491 191]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Foot Graze&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">10&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">30 seconds&lt;/td>
+ &lt;td style="text-align: left">Binds target for 10 seconds.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[134 70 67 90 153 429]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Head Graze&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">24&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">30 seconds&lt;/td>
+ &lt;td style="text-align: left">Interrupt.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[214 133 403 129 398 102]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
+ &lt;td style="text-align: left">AL&lt;/td>
+ &lt;td style="text-align: left">32&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">120 seconds&lt;/td>
+ &lt;td style="text-align: left">Anti-knockback. Slows the target upon taking physical damage.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[323 425 275 331 146 120]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Second Wind&lt;/td>
+ &lt;td style="text-align: left">SW&lt;/td>
+ &lt;td style="text-align: left">8&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">120 seconds&lt;/td>
+ &lt;td style="text-align: left">Regenerates HP worth 500 potency.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">
+&lt;div class="md__image">
+ &lt;img id="[310 135 134 272 355 95]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/td>
+ &lt;td style="text-align: left">Peloton&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">20&lt;/td>
+ &lt;td style="text-align: left">Ability&lt;/td>
+ &lt;td style="text-align: left">5 seconds&lt;/td>
+ &lt;td style="text-align: left">Increases movement speed for self and nearby party members.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Machinist Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/leveling-guide/</link><pubDate>Sat, 12 Apr 2025 01:34:19 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/leveling-guide/</guid><description>&lt;h1 id="simple-pointers-for-new-machinists">Simple Pointers for New Machinists&lt;/h1>
 &lt;p>Unlocking new jobs can be daunting, so to alleviate some of the stress of all of the new actions, here’s some tips to help the new Machinists understand their rotation while leveling and gain some insight into how everything comes together!  Reference the weaponskills and abilities in the &lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/">beginner&amp;rsquo;s guide&lt;/a> if you forget exactly what things do. &lt;/p>
 &lt;p>For clarity purposes:&lt;/p>
 &lt;ul>
@@ -64,499 +556,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
 &lt;li>You are using Wildfire or will have enough heat for it later when you need it.&lt;/li>
 &lt;/ol>
 &lt;blockquote>
-&lt;p>&lt;em>Do I use Heat Blast during Hypercharge? How many should it fit?&lt;/em>&lt;/p></description></item><item><title>Machinist Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</link><pubDate>Fri, 11 Apr 2025 06:31:09 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</guid><description>&lt;h1 id="single-target-actions">Single-Target Actions&lt;/h1>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th style="text-align: left">Icon&lt;/th>
- &lt;th style="text-align: left">Action&lt;/th>
- &lt;th style="text-align: left">Abbreviation&lt;/th>
- &lt;th style="text-align: left">Level&lt;/th>
- &lt;th style="text-align: left">Type&lt;/th>
- &lt;th style="text-align: left">Recast&lt;/th>
- &lt;th style="text-align: left">Description&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[266 273 46 75 172 277]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Heated Split Shot&lt;/td>
- &lt;td style="text-align: left">HS1&lt;/td>
- &lt;td style="text-align: left">54&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">2.5 seconds&lt;/td>
- &lt;td style="text-align: left">The first skill in your main combo. Delivers an attack with a potency of 220. Generates 5 Heat. Upgraded from Split Shot.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[469 247 284 14 103 421]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Heated Slug Shot&lt;/td>
- &lt;td style="text-align: left">HS2&lt;/td>
- &lt;td style="text-align: left">60&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">2.5 seconds&lt;/td>
- &lt;td style="text-align: left">The second skill in your main combo. Delivers an attack with a combo potency of 320. Generates 5 Heat. Upgraded from Slug Shot.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[346 206 276 325 331 42]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Heated Clean Shot&lt;/td>
- &lt;td style="text-align: left">HS3&lt;/td>
- &lt;td style="text-align: left">64&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">2.5 seconds&lt;/td>
- &lt;td style="text-align: left">The third skill in your main combo. Delivers an attack with a combo potency of 420. Generates 5 Heat and 10 Battery. Upgraded from Clean Shot.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[31 361 113 245 443 308]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Drill&lt;/td>
- &lt;td style="text-align: left">DR&lt;/td>
- &lt;td style="text-align: left">58&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">20 seconds&lt;/td>
- &lt;td style="text-align: left">Delivers an attack with a potency of 600. Maximum Charges: 2 (Gained at Level 94). Shares a recast timer with Bioblaster&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[198 34 306 466 412 406]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Air Anchor&lt;/td>
- &lt;td style="text-align: left">AA&lt;/td>
- &lt;td style="text-align: left">76&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">40 seconds&lt;/td>
- &lt;td style="text-align: left">Delivers an attack with a potency of 600. Generates 20 Battery.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[118 34 70 40 128 53]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Chain Saw&lt;/td>
- &lt;td style="text-align: left">CS&lt;/td>
- &lt;td style="text-align: left">90&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">60 seconds&lt;/td>
- &lt;td style="text-align: left">Delivers an attack with a potency of 600. Generates 20 Battery. Damage fall-off of 50% for all other enemies in a line to the target. Grants Excavator Ready.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[463 457 90 1 99 66]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Reassemble&lt;/td>
- &lt;td style="text-align: left">REA&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">55 seconds&lt;/td>
- &lt;td style="text-align: left">Guarantees the next weaponskill is a critical direct hit. Can hold up to 2 stacks.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[363 113 186 118 101 24]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Hypercharge&lt;/td>
- &lt;td style="text-align: left">HC&lt;/td>
- &lt;td style="text-align: left">30&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">10 seconds&lt;/td>
- &lt;td style="text-align: left">Enables the usage of Blazing Shot. Grants five stacks of Overheat to buff single-target weaponskills for the next 10 seconds. Costs 50 Heat, free use under the effect of Hypercharged.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[313 408 25 212 164 291]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Blazing Shot&lt;/td>
- &lt;td style="text-align: left">HB&lt;/td>
- &lt;td style="text-align: left">68&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">1.5 seconds&lt;/td>
- &lt;td style="text-align: left">Only usable under the effect of Hypercharge. Delivers an attack with a potency of 240. Reduces the cooldown of Double Check and Checkmate by 15 seconds each. Upgraded from Heat Blast&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[44 95 277 19 222 265]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Checkmate&lt;/td>
- &lt;td style="text-align: left">CM&lt;/td>
- &lt;td style="text-align: left">92&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">30 seconds&lt;/td>
- &lt;td style="text-align: left">Delivers an attack to target and all enemies nearby it with a potency of 170 for the first enemy, and 40% less for all remaining enemies. Upgraded from Ricochet.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[360 438 167 466 161 424]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Double Check&lt;/td>
- &lt;td style="text-align: left">DC&lt;/td>
- &lt;td style="text-align: left">92&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">30 seconds&lt;/td>
- &lt;td style="text-align: left">Delivers an attack to target and all enemies nearby it with a potency of 170 for the first enemy, and 40% less for all remaining enemies. Upgraded from Gauss Round.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[23 278 329 293 158 296]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Wildfire&lt;/td>
- &lt;td style="text-align: left">WF&lt;/td>
- &lt;td style="text-align: left">45&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">120 seconds&lt;/td>
- &lt;td style="text-align: left">Deals 240 potency for each weaponskill delivered over a duration of 10 seconds. Wildfire deals its damage when the timer ends. Can be manually detonated early by using Detonator.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[203 348 324 431 87 470]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Barrel Stabilizer&lt;/td>
- &lt;td style="text-align: left">BS&lt;/td>
- &lt;td style="text-align: left">66&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">120 seconds&lt;/td>
- &lt;td style="text-align: left">Grants Hypercharged &amp;amp; Full Metal Machinist for 30 seconds.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[293 393 331 425 371 436]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Excavator&lt;/td>
- &lt;td style="text-align: left">EXC&lt;/td>
- &lt;td style="text-align: left">96&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">2.5 seconds&lt;/td>
- &lt;td style="text-align: left">Delivers an attack with a potency of 600. Generates 20 Battery. Damage fall-off of 50% for all other enemies in a line to the target. Can only be used under the effect of Excavator Ready.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[13 122 226 145 46 193]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Full Metal Field&lt;/td>
- &lt;td style="text-align: left">FMF&lt;/td>
- &lt;td style="text-align: left">100&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">2.5 seconds&lt;/td>
- &lt;td style="text-align: left">Delivers a critical direct hit to target and all enemies nearby it with a potency of 900 for the first enemy, and 40% less for all remaining enemies. Damage dealt is increased when under an effect that raises critical/direct hit rate. This action is not affected by Reassemble. Can only be used under the effect of Full Metal Machinist.&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h1 id="multi-target-actions">Multi-Target Actions&lt;/h1>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th style="text-align: left">Icon&lt;/th>
- &lt;th style="text-align: left">Action&lt;/th>
- &lt;th style="text-align: left">Abbreviation&lt;/th>
- &lt;th style="text-align: left">Level&lt;/th>
- &lt;th style="text-align: left">Type&lt;/th>
- &lt;th style="text-align: left">Recast&lt;/th>
- &lt;th style="text-align: left">Description&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[389 251 385 225 109 289]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Bioblaster&lt;/td>
- &lt;td style="text-align: left">BB&lt;/td>
- &lt;td style="text-align: left">72&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">20 seconds&lt;/td>
- &lt;td style="text-align: left">Delivers an attack with a potency of 50 to all enemies in a cone in front of the player. Also places a DoT on all enemies for 15 seconds which ticks for another 50 potency. Full duration of Bioblaster is 300 potency on all enemies. Maximum Charges: 2 (Gained at Level 94). Shares a recast with Drill.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[207 463 440 276 43 113]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Scattergun&lt;/td>
- &lt;td style="text-align: left">SG&lt;/td>
- &lt;td style="text-align: left">82&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">2.5 seconds&lt;/td>
- &lt;td style="text-align: left">Delivers an attack with a potency of 130 potency in a cone in front of the player. Generates 10 Heat.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[298 160 123 482 414 492]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Auto-Crossbow&lt;/td>
- &lt;td style="text-align: left">ACB&lt;/td>
- &lt;td style="text-align: left">52&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">1.5 seconds&lt;/td>
- &lt;td style="text-align: left">Only usable under the effect of Hypercharge. Delivers an attack with a potency of 160 in a cone in front of the player.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[459 471 383 299 26 414]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Flamethrower&lt;/td>
- &lt;td style="text-align: left">FT&lt;/td>
- &lt;td style="text-align: left">70&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">60 seconds&lt;/td>
- &lt;td style="text-align: left">A channeled ability. Deals 100 potency once per second over 11 seconds. Effect ends upon using another action or moving.&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h1 id="pet-actions">Pet Actions&lt;/h1>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th style="text-align: left">Icon&lt;/th>
- &lt;th style="text-align: left">Action&lt;/th>
- &lt;th style="text-align: left">Abbreviation&lt;/th>
- &lt;th style="text-align: left">Level&lt;/th>
- &lt;th style="text-align: left">Type&lt;/th>
- &lt;th style="text-align: left">Recast&lt;/th>
- &lt;th style="text-align: left">Description&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[229 298 445 77 81 342]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Automaton Queen&lt;/td>
- &lt;td style="text-align: left">AQ&lt;/td>
- &lt;td style="text-align: left">80&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">6 seconds&lt;/td>
- &lt;td style="text-align: left">Summons your robot. While active, Queen will deal damage in the form of Arm Punches, Roller Dashes, Pile Bunker, and Crowned Collider. Duration is set to 12 seconds regardless of Battery at which she was summoned. Maximum potency is 2660 at 100 Battery gauge.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[280 330 20 178 344 489]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Queen Overdrive&lt;/td>
- &lt;td style="text-align: left">QO&lt;/td>
- &lt;td style="text-align: left">80&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">15 seconds&lt;/td>
- &lt;td style="text-align: left">Commands Queen to perform Pile Bunker and Crowned Collider.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[261 209 384 329 228 485]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Arm Punch&lt;/td>
- &lt;td style="text-align: left">AP&lt;/td>
- &lt;td style="text-align: left">80&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">1.5 seconds&lt;/td>
- &lt;td style="text-align: left">Melee distance attack dealing 240 potency at 100 maximum Battery gauge.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[448 476 395 339 62 285]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Roller Dash&lt;/td>
- &lt;td style="text-align: left">RD&lt;/td>
- &lt;td style="text-align: left">80&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">3 seconds&lt;/td>
- &lt;td style="text-align: left">Gap closer dealing 480 potency at maximum Battery gauge.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[243 471 48 354 161 104]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Pile Bunker&lt;/td>
- &lt;td style="text-align: left">PB&lt;/td>
- &lt;td style="text-align: left">80&lt;/td>
- &lt;td style="text-align: left">Weaponskill&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">Queen&amp;rsquo;s first finisher. Delivers an attack of 680 potency at maximum Battery gauge.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[293 389 386 248 165 263]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Crowned Collider&lt;/td>
- &lt;td style="text-align: left">CC&lt;/td>
- &lt;td style="text-align: left">90&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">Queen&amp;rsquo;s second finisher. Delivers an attack of 780 potency at maximum Battery Gauge.&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h1 id="role-abilitiessupport">Role Abilities/Support&lt;/h1>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th style="text-align: left">Icon&lt;/th>
- &lt;th style="text-align: left">Action&lt;/th>
- &lt;th style="text-align: left">Abbreviation&lt;/th>
- &lt;th style="text-align: left">Level&lt;/th>
- &lt;th style="text-align: left">Type&lt;/th>
- &lt;th style="text-align: left">Recast&lt;/th>
- &lt;th style="text-align: left">Description&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[96 43 172 335 310 92]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Tactician&lt;/td>
- &lt;td style="text-align: left">Tact&lt;/td>
- &lt;td style="text-align: left">56&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">90 seconds&lt;/td>
- &lt;td style="text-align: left">Reduces damage taken by self and nearby party members by 15% for 15 seconds. This can not be stacked with Troubadour or Shield Samba.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[337 384 17 28 73 176]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Dismantle&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">62&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">120 seconds&lt;/td>
- &lt;td style="text-align: left">10% damage reduction on a single target for 10 seconds.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[161 180 357 65 479 375]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Leg Graze&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">30 seconds&lt;/td>
- &lt;td style="text-align: left">Afflicts target with a 40% heavy.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[9 228 321 475 70 357]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Foot Graze&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">30 seconds&lt;/td>
- &lt;td style="text-align: left">Binds target for 10 seconds.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[455 443 165 316 221 368]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Head Graze&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">24&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">30 seconds&lt;/td>
- &lt;td style="text-align: left">Interrupt.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[348 140 231 424 397 335]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
- &lt;td style="text-align: left">AL&lt;/td>
- &lt;td style="text-align: left">32&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">120 seconds&lt;/td>
- &lt;td style="text-align: left">Anti-knockback. Slows the target upon taking physical damage.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[263 129 200 281 296 285]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Second Wind&lt;/td>
- &lt;td style="text-align: left">SW&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">120 seconds&lt;/td>
- &lt;td style="text-align: left">Regenerates HP worth 500 potency.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">
-&lt;div class="md__image">
- &lt;img id="[31 282 392 355 148 424]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/td>
- &lt;td style="text-align: left">Peloton&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">20&lt;/td>
- &lt;td style="text-align: left">Ability&lt;/td>
- &lt;td style="text-align: left">5 seconds&lt;/td>
- &lt;td style="text-align: left">Increases movement speed for self and nearby party members.&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table></description></item><item><title>Machinist Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</link><pubDate>Thu, 14 Sep 2023 12:15:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</guid><description>&lt;p>&lt;em>This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
+&lt;p>&lt;em>Do I use Heat Blast during Hypercharge? How many should it fit?&lt;/em>&lt;/p></description></item><item><title>Machinist Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</link><pubDate>Thu, 14 Sep 2023 12:15:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</guid><description>&lt;p>&lt;em>This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
 It assumes you are already familiar with the fundamentals of the job – if you need a refresher, please
 read the &lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/">Basic Guide&lt;/a> and come back when you&amp;rsquo;re done.&lt;/em>&lt;/p>
 &lt;h1 id="introduction-to-optimization">Introduction to Optimization&lt;/h1>
