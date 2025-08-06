@@ -1,8 +1,8 @@
 ---
 title: Bard Best in Slot (BiS)
 layout: bis
-patch: "7.25"
-lastmod: 2025-03-30T01:03:22.246Z
+patch: "7.3"
+lastmod: 2025-08-06T04:20:28.499Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
     message: Created page
@@ -25,6 +25,8 @@ changelog:
   - date: 2024-09-06T05:17:50.403Z
     message: Changed BiS title to reflect the 2.49 default recommendation for GCD
       recast (etro link had already been changed)
+  - date: 2025-08-06T04:21:27.655Z
+    message: Updated FRU set with 7.3 dungeon gear
 bis:
   - type: genericiframe
     name: i760 Best-in-Slot
@@ -34,9 +36,9 @@ bis:
       you'd like to run 2.48.
   - type: genericiframe
     name: Futures Rewritten Best-in-Slot (2.49)
-    link: https://xivgear.app/?page=embed%7Caf85745a-604a-4c99-8d87-5fe8821c0ae9
+    link: https://xivgear.app/?page=embed%7Csl%7C3ad7746a-b612-4b34-9d24-a0f8ae20c857
     description: >-
-      Follow the link in the window for different weapon / non-chaotic variants\
+      If you have the FRU bow already, toss in a DH materia in the extra slot.\
 
       \
 
