@@ -25,6 +25,8 @@ changelog:
   - date: 2024-09-06T05:17:50.403Z
     message: Changed BiS title to reflect the 2.49 default recommendation for GCD
       recast (etro link had already been changed)
+  - date: 2025-08-06T04:21:27.655Z
+    message: Updated FRU set with 7.3 dungeon gear
 bis:
   - type: genericiframe
     name: i760 Best-in-Slot
