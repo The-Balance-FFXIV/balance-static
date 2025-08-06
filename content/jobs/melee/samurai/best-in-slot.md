@@ -1,8 +1,8 @@
 ---
 title: Samurai Best in Slot (BiS)
 layout: bis
-patch: "7.2"
-lastmod: 2025-06-13T20:14:35.661Z
+patch: "7.3"
+lastmod: 2025-08-06T01:39:28.594Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -28,6 +28,8 @@ changelog:
     message: Included all sets using Clouddark pieces and FRU weapon.
   - date: 2025-03-30T20:20:25.263Z
     message: Updated for 7.2
+  - date: 2025-08-05T15:50:42.641Z
+    message: Updated for 7.3
 bis:
   - type: xivgear
     description: Classic "Slow SAM". Highest DPS, easiest weaving.
@@ -49,7 +51,7 @@ bis:
       Niche, Lars and Boxer for helping with making these.
 
 
-      [UCoB](https://xivgear.app/?page=sl%7C63158492-857f-4656-a067-c9294c341606) | [UWU](https://xivgear.app/?page=sl%7C41ebbdad-484c-4a6e-a146-4e187a322ea9) | [TEA](https://xivgear.app/?page=sl%7Cd28b5387-785e-4b7f-a85c-ebe3bcd8a0c3) | [DSR](https://xivgear.app/?page=sl%7Ccb381b61-8e61-4744-a646-5f9499bbbe1a) | [TOP](https://xivgear.app/?page=sl%7C87b0e17b-692e-4f5d-a732-8fdc1b577f9a) | [FRU](https://xivgear.app/?page=sl%7C082cdddf-ff50-4f3c-aefd-c25292c562f3)
+      [UCoB](https://xivgear.app/?page=sl%7C63158492-857f-4656-a067-c9294c341606) | [UWU](https://xivgear.app/?page=sl%7C41ebbdad-484c-4a6e-a146-4e187a322ea9) | [TEA](https://xivgear.app/?page=sl%7Cd28b5387-785e-4b7f-a85c-ebe3bcd8a0c3) | [DSR](https://xivgear.app/?page=sl%7Ce1869fb8-be98-41da-baf5-f27d2b94472a) | [TOP](https://xivgear.app/?page=sl%7C3b86e3ce-871e-4f27-9354-ab98dba835dc) | [FRU](https://xivgear.app/?page=sl%7Cdf3e45d1-55d1-4bf9-a378-556f3685621e)
     name: 'Ultimate/Unreal Sync "BiS" Sets:'
     link: ""
 authors:
