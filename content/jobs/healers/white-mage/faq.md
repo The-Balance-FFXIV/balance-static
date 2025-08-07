@@ -1,7 +1,7 @@
 ---
 title: White Mage FAQ
 layout: qna
-patch: "6.0"
+patch: "7.3"
 lastmod: 2022-02-14T04:43:11.548Z
 changelog:
   - date: 2021-10-27T00:51:33.064Z
