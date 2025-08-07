@@ -3,8 +3,9 @@ title: Astrologian Skills Overview
 card_header_image: /img/jobs/ast/2022-03-11_15-30-57-810_okamipassion.jpg
 authors:
   - shy
-patch: "7.2"
-lastmod: 2022-09-13T04:58:09.233Z
+  - Ahriqi
+patch: "7.3"
+lastmod: 2025-08-08T04:58:09.233Z
 changelog:
   - date: 2021-10-26T20:48:51.241Z
     message: "Article created. "
@@ -84,15 +85,15 @@ changelog:
 
 **Helios**
 
-* AoE Healing in a 15y radius around you (400p), 1.5s cast time
+* AoE Healing in a 20y radius around you (400p), 1.5s cast time
 * Use in niche scenarios where you need extra AoE healing, can't wait for a tick of Aspected Helios and you have no oGCDs.
 * Can weave one oGCD after this.
 
-![](/img/jobs/ast/a.helios.png)
+![](/img/jobs/ast/003567_hr1.png)
 
-**Aspected Helios**
+**Helios Conjunction**
 
-* AoE Healing in a 15y radius around you  (250p) + regen (five ticks of 150p), 1.5s cast time. Total healing: 1000p
+* AoE Healing in a 20y radius around you  (250p) + regen (five ticks of 150p), 1.5s cast time. Total healing: 1000p
 * Use in scenarios where you need an AoE GCD heals, use this over Helios as it becomes neutral to Healios with one regen tick and a heal gain with at least two ticks.
 * Can weave one oGCD after this.
 
@@ -142,7 +143,7 @@ changelog:
 
 **Celestial Opposition 60s CD**
 
-* AoE heal (200p) + Regen (five ticks of 100p)
+* AoE heal (200p) + Regen (five ticks of 100p) in a radius of 20y around you
 * Total heal potency: 700p
 * Celestial Opposition has a strong heal on a short cooldown, make sure to utilize this ability often.
 
@@ -175,7 +176,7 @@ changelog:
 
 **Horoscope 60s CD**
 
-* Gives party members a buff in a 20y radius around you (10s duration).
+* Gives party members a buff in a 30y radius around you (10s duration).
 * Heals party members when activated (200p).
 * Aspected Helios or Helios upgrades Horoscope into Horoscope Helios refreshes the duration to 30, and heal (400p).
 * Uses a weave window manually activating it.
@@ -230,7 +231,7 @@ Oracle
 
 * Gain Suntouched when using Neutral Sect
 * Suntouched duration 30s
-* Aoe Mitigation(10%) in a 15y Radius around you
+* Aoe Mitigation(10%) in a 30y Radius around you
 * Can be used with neutral sect to power through a mechanic or used within 30s to help cover more damage
 
 ![](/img/jobs/ast/ascend.png)
