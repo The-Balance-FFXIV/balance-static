@@ -4,8 +4,8 @@ card_header_image: /img/jobs/ast/basic.png
 authors:
   - Balance-AST-Staff
   - Ahriqi
-patch: "7.05"
-lastmod: 2024-08-11T19:32:31.710Z
+patch: "7.3"
+lastmod: 2025-08-07T19:32:31.710Z
 changelog:
   - date: 2021-10-26T19:28:39.310Z
     message: Created article.
@@ -97,6 +97,8 @@ If you would like to see a general priority list for which jobs to card, there i
 Our rotation with cards has been significantly simplified, and is far more approachable than ever before.
 
 Divination should still be used off-CD the same after the opener, unless a fight's downtime means you are currently not hitting any enemies while it is up.
+
+Make sure to use Oracle while Divination is up! Do not let it expire!
 
 Keep in mind that in dungeons, the trash pulls are part of the content! They still have health bars that need to be completed to finish the dungeon, much the same as bosses! Please use your Divination during trash pulls as well, and not only during boss pulls.
 
