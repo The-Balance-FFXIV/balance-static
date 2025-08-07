@@ -1,11 +1,13 @@
 ---
 title: Viper Best in Slot
 layout: bis
-patch: "7.2"
-lastmod: 2025-03-30T18:17:51.591Z
+patch: "7.3"
+lastmod: 2025-08-07T03:09:03.838Z
 changelog:
   - date: 2025-03-30T18:17:38.405Z
     message: Updated for 7.2
+  - date: 2025-08-07T03:09:07.315Z
+    message: Added 7.3 FRU Options
 bis:
   - type: xivgear
     name: 7.2 Savage BiS
@@ -33,9 +35,10 @@ bis:
       [here](https://xivgear.app/?page=sl%7C3dac5bd1-80bf-45e9-9726-0e65722a5677)
       for more prog set options.
   - type: xivgear
-    name: VPR FRU Weapon BiS - 2.10 GCD
-    link: https://xivgear.app/?page=embed|sl|9bea2d32-8c72-4eed-9b01-acace7bbc23f
-    description: Updated for 7.2
+    name: VPR FRU BiS (See description for prog sets)
+    link: https://xivgear.app/?page=embed%7Csl%7C2434874a-40e8-4508-aa02-df5d609dac28
+    description: 7.3 Master Sheet for all FRU sets including prog sets can be found
+      [here.](https://xivgear.app/?page=sl%7C0467b8c4-5a7d-4c00-99fb-4e17907ea964)
   - type: xivgear
     link: https://xivgear.app/?page=embed|sl|56ae8077-eb7b-4b5d-a310-95cbd584f2a0
     name: Viper TOP BiS
@@ -58,4 +61,5 @@ bis:
 authors:
   - RhyTamok
   - akashi
+  - ToraelValdis
 ---
