@@ -1,7 +1,7 @@
 ---
 title: White Mage Stat Priority
-patch: "7.0"
-lastmod: 2024-07-29T19:15:31.659Z
+patch: "7.3"
+lastmod: 2025-08-07T04:14:00.634Z
 changelog:
   - date: 2021-10-27T00:54:56.938Z
     message: Article Created
