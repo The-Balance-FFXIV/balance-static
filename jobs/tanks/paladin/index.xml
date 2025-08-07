@@ -4,13 +4,13 @@
 &lt;h2 id="opener">Opener&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[314 62 274 136 121 7]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
+ &lt;img id="[189 199 221 279 53 76]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
 &lt;/div>
 &lt;/p>
 &lt;h2 id="burst">Burst&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[336 460 437 215 304 59]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
+ &lt;img id="[311 275 380 345 39 487]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
 &lt;/div>
 &lt;/p>
 &lt;ul>
@@ -53,7 +53,7 @@
 &lt;p>&lt;strong>Iron Will&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[434 58 331 211 433 459]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[346 209 156 122 19 388]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>Toggle | 3s cooldown after toggling on. | 1s cooldown after toggling off.&lt;/p>
@@ -62,7 +62,7 @@
 &lt;p>&lt;strong>Fight or Flight&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[107 394 391 225 52 492]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[280 33 172 316 497 204]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>60s cooldown.&lt;/p>
@@ -70,11 +70,10 @@
 &lt;p>&lt;strong>Imperator&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[386 52 459 336 491 353]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[238 207 364 376 37 261]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p></description></item><item><title>Paladin Basics Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</link><pubDate>Wed, 06 Aug 2025 19:00:13 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</guid><description>&lt;p>Welcome to the Basics Guide for Paladin! Whether you are a fresh level 100, a returning player, or just need a refresher, this guide will get you started and allow you to hit the ground running.&lt;/p>
-&lt;p>Since this is a basic introduction to level 100 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below, or in discussion channels on the Balance discord:&lt;/p></description></item><item><title>Paladin Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</link><pubDate>Sun, 14 Jul 2024 01:05:24 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</guid><description>&lt;p>Post-6.3 rework, there is very little to optimize outside of rolling your GCD, keeping oGCDs on cooldown, and not dropping resources (Divine Might, Sword Oath stacks).&lt;/p>
-&lt;p>Encounter-specific optimizations can be discussed in the PLD Encounter forum in the Balance Discord.&lt;/p></description></item><item><title>Paladin FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 10 Jul 2024 05:01:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>&lt;blockquote>
+&lt;p>Since this is a basic introduction to level 100 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below, or in discussion channels on the Balance discord:&lt;/p></description></item><item><title>Paladin FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 06 Aug 2025 18:59:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>&lt;blockquote>
 &lt;p>&lt;em>Why is Circle of Scorn used immediately in the opener?&lt;/em>&lt;/p>
 &lt;/blockquote>
 &lt;p>Circle of Scorn is used before Fight or Flight in most openers and kept on cooldown in most phases for two reasons:&lt;/p>
@@ -82,7 +81,8 @@
 &lt;li>Its short cooldown (25 seconds) is equal to the duration of Fight or Flight, meaning one CoS usage should always occur during FoF regardless of their respective timings, given full uptime.&lt;/li>
 &lt;li>Its high DoT uptime (~60%) means that any delays are likely to cost ticks at the end of the phase, resulting in a potency loss overall.&lt;/li>
 &lt;/ul>
-&lt;p>Circle of Scorn should only be delayed in an optimized setting to line up with buffs and/or for an extra usage in tinctures if it is guaranteed to not lose ticks.&lt;/p></description></item><item><title>Paladin Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/</link><pubDate>Wed, 10 Jul 2024 02:16:49 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/</guid><description>&lt;h1 id="paladin-leveling">Paladin Leveling&lt;/h1>
+&lt;p>Circle of Scorn should only be delayed in an optimized setting to line up with buffs and/or for an extra usage in tinctures if it is guaranteed to not lose ticks.&lt;/p></description></item><item><title>Paladin Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</link><pubDate>Sun, 14 Jul 2024 01:05:24 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</guid><description>&lt;p>Post-6.3 rework, there is very little to optimize outside of rolling your GCD, keeping oGCDs on cooldown, and not dropping resources (Divine Might, Sword Oath stacks).&lt;/p>
+&lt;p>Encounter-specific optimizations can be discussed in the PLD Encounter forum in the Balance Discord.&lt;/p></description></item><item><title>Paladin Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/</link><pubDate>Wed, 10 Jul 2024 02:16:49 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/</guid><description>&lt;h1 id="paladin-leveling">Paladin Leveling&lt;/h1>
 &lt;h2 id="dungeon-tips">Dungeon Tips&lt;/h2>
 &lt;h3 id="keeping-aggro">Keeping Aggro&lt;/h3>
 &lt;p>Turn on Iron Will and never turn it off. As long as you keep hitting the mobs, you will have aggro on them. In multi-target situations, use AoE so that you can keep aggro on all mobs.&lt;/p>
