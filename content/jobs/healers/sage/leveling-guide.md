@@ -4,8 +4,8 @@ card_header_image: /img/jobs/sge/sgeleveling.png
 authors:
   - meru
   - Balance-SGE-Staff
-patch: "7.0"
-lastmod: 2024-07-26T05:32:57.854Z
+patch: "7.3"
+lastmod: 2025-08-07T04:14:53.975Z
 changelog:
   - date: 2022-01-24T06:59:04.463Z
     message: Added page
