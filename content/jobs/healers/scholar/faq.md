@@ -1,7 +1,7 @@
 ---
 title: Scholar FAQ
 layout: qna
-patch: "7.3"
+patch: Dawntrail
 lastmod: 2025-08-07T03:52:55.047Z
 changelog:
   - date: 2021-10-26T23:57:58.555Z
