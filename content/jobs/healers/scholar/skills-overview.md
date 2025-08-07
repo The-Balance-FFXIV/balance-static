@@ -16,8 +16,8 @@ changelog:
     message: Patch Update 6.4
   - date: 2024-07-27T20:34:55.660Z
     message: Updated for Dawntrail
-  - date: 2025-08-05T02:59:22.133Z
-    message: updated for 7.4
+  - date: 2025-08-07T04:11:01.488Z
+    message: updated for 7.3
 ---
 # Notable Dawntrail Changes
 
