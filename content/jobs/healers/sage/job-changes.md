@@ -1,7 +1,7 @@
 ---
 title: Sage Job Changes
 layout: changes
-lastmod: 2025-04-01T00:08:23.026Z
+lastmod: 2025-08-07T04:18:44.076Z
 changes:
   - patch: "6.0"
     description: Job added to game.
