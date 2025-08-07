@@ -4,7 +4,7 @@ card_header_image: /img/jobs/sch/leveling.png
 authors:
   - potato
   - tealjaker
-patch: "7.3"
+patch: Dawntrail
 lastmod: 2025-08-07T03:51:58.290Z
 changelog:
   - date: 2021-10-26T03:06:25.151Z
