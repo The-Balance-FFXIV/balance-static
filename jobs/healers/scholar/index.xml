@@ -29,36 +29,9 @@
 &lt;h2 id="aetherflow-gauge">Aetherflow Gauge&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[239 382 102 336 101 473]" src="https://www.thebalanceffxiv.com/img/jobs/sch/afgauge.png" onclick="openModal(this.id)" alt="" title="Aetherflow Gauge" />
+ &lt;img id="[181 258 274 15 26 395]" src="https://www.thebalanceffxiv.com/img/jobs/sch/afgauge.png" onclick="openModal(this.id)" alt="" title="Aetherflow Gauge" />
 &lt;/div>
-&lt;/p></description></item><item><title>Scholar Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/healers/scholar/skills-overview/</link><pubDate>Tue, 05 Aug 2025 02:59:18 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/scholar/skills-overview/</guid><description>&lt;h1 id="notable-dawntrail-changes">Notable Dawntrail Changes&lt;/h1>
-&lt;ul>
-&lt;li>New skills: Baneful Impaction and Seraphism&lt;/li>
-&lt;li>Swiftcast cooldown reduced to 40s with a trait.&lt;/li>
-&lt;li>Potency increases for Broil IV and Biolysis with a trait.&lt;/li>
-&lt;li>Succor upgraded to Concitation with a trait. &lt;/li>
-&lt;li>Recitation cooldown reduced to 60s with a trait.&lt;/li>
-&lt;li>Chain Stratagem duration increased to 20s.&lt;/li>
-&lt;li>Summon Seraph and Consolation can be assigned to separate hotkeys if desired.&lt;/li>
-&lt;/ul>
-&lt;h1 id="damage">Damage&lt;/h1>
-&lt;h2 id="gcds">GCDs&lt;/h2>
-&lt;p>
-&lt;div class="md__image">
- &lt;img id="[482 187 428 167 96 242]" src="https://xivapi.com/i/002000/002875_hr1.png" onclick="openModal(this.id)" alt="Broil4" />
-&lt;/div>
-&lt;/p>
-&lt;h3 id="broil-iv">&lt;strong>Broil IV&lt;/strong>&lt;/h3>
-&lt;ul>
-&lt;li>Single target damage (320 potency), 1.5s cast time&lt;/li>
-&lt;li>Can weave one oGCD after it without clipping&lt;/li>
-&lt;li>Cast this when you don’t need to do anything else.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;div class="md__image">
- &lt;img id="[377 135 67 77 498 494]" src="https://xivapi.com/i/002000/002876_hr1.png" onclick="openModal(this.id)" alt="ArtOfWar2" />
-&lt;/div>
-&lt;/p></description></item><item><title>Scholar Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/healers/scholar/leveling-guide/</link><pubDate>Sat, 27 Jul 2024 21:29:38 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/scholar/leveling-guide/</guid><description>&lt;p>This guide is intended for the casual player looking for advice on how to play Scholar in leveling dungeons. Below, we’ll briefly describe all Scholar actions, grouped by level, and some general guidelines for when to use them. For more detailed ability descriptions, please consult the in-game tooltips or job guide, and if you’d like to learn more about playing and optimizing Scholar, check out our other guides.&lt;/p>
+&lt;/p></description></item><item><title>Scholar Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/healers/scholar/leveling-guide/</link><pubDate>Thu, 07 Aug 2025 03:51:58 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/scholar/leveling-guide/</guid><description>&lt;p>This guide is intended for the casual player looking for advice on how to play Scholar in leveling dungeons. Below, we’ll briefly describe all Scholar actions, grouped by level, and some general guidelines for when to use them. For more detailed ability descriptions, please consult the in-game tooltips or job guide, and if you’d like to learn more about playing and optimizing Scholar, check out our other guides.&lt;/p>
 &lt;h1 id="quick-glossary">Quick Glossary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>SCH:&lt;/strong> Scholar&lt;/li>
@@ -76,4 +49,31 @@
 &lt;li>&lt;strong>MP (Mana Points):&lt;/strong> The resource that allows you to cast spells. &lt;/li>
 &lt;/ul>
 &lt;h1 id="gear-and-job-quests">Gear and Job Quests&lt;/h1>
-&lt;p>Make sure to use level-appropriate gear and do job quests as you level. &lt;/p></description></item><item><title>Scholar Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/healers/scholar/advanced-guide/</link><pubDate>Thu, 19 Jan 2023 16:46:57 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/scholar/advanced-guide/</guid><description>&lt;p>Oops, we don&amp;rsquo;t have that guide yet! Interested in contributing? Feel free to join the &lt;a href="https://discord.gg/thebalanceffxiv">Balance Discord server&lt;/a> to contact a job mentor/admin and express your interest!&lt;/p></description></item></channel></rss>
+&lt;p>Make sure to use level-appropriate gear and do job quests as you level. &lt;/p></description></item><item><title>Scholar Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/healers/scholar/skills-overview/</link><pubDate>Tue, 05 Aug 2025 02:59:18 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/scholar/skills-overview/</guid><description>&lt;h1 id="notable-dawntrail-changes">Notable Dawntrail Changes&lt;/h1>
+&lt;ul>
+&lt;li>New skills: Baneful Impaction and Seraphism&lt;/li>
+&lt;li>Swiftcast cooldown reduced to 40s with a trait.&lt;/li>
+&lt;li>Potency increases for Broil IV and Biolysis with a trait.&lt;/li>
+&lt;li>Succor upgraded to Concitation with a trait. &lt;/li>
+&lt;li>Recitation cooldown reduced to 60s with a trait.&lt;/li>
+&lt;li>Chain Stratagem duration increased to 20s.&lt;/li>
+&lt;li>Summon Seraph and Consolation can be assigned to separate hotkeys if desired.&lt;/li>
+&lt;/ul>
+&lt;h1 id="damage">Damage&lt;/h1>
+&lt;h2 id="gcds">GCDs&lt;/h2>
+&lt;p>
+&lt;div class="md__image">
+ &lt;img id="[128 394 140 204 435 166]" src="https://xivapi.com/i/002000/002875_hr1.png" onclick="openModal(this.id)" alt="Broil4" />
+&lt;/div>
+&lt;/p>
+&lt;h3 id="broil-iv">&lt;strong>Broil IV&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Single target damage (320 potency), 1.5s cast time&lt;/li>
+&lt;li>Can weave one oGCD after it without clipping&lt;/li>
+&lt;li>Cast this when you don’t need to do anything else.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;div class="md__image">
+ &lt;img id="[177 137 267 399 65 446]" src="https://xivapi.com/i/002000/002876_hr1.png" onclick="openModal(this.id)" alt="ArtOfWar2" />
+&lt;/div>
+&lt;/p></description></item><item><title>Scholar Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/healers/scholar/advanced-guide/</link><pubDate>Thu, 19 Jan 2023 16:46:57 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/scholar/advanced-guide/</guid><description>&lt;p>Oops, we don&amp;rsquo;t have that guide yet! Interested in contributing? Feel free to join the &lt;a href="https://discord.gg/thebalanceffxiv">Balance Discord server&lt;/a> to contact a job mentor/admin and express your interest!&lt;/p></description></item></channel></rss>
