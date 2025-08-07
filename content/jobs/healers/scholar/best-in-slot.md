@@ -104,14 +104,14 @@ bis:
     name: Rokkon Aloalo
     link: https://xivgear.app/?page=bis|sch|endwalker|anabaseios
   - type: xivgear
-    name: FRU 2.50
-    link: https://xivgear.app/?page=embed%7Csl%7Cfbc223fa-3fc0-4644-a99c-97cfa90a3dc3
+    name: FRU 2.4
+    link: https://xivgear.app/?page=embed%7Csl%7C32a4ef4b-1169-438d-bcad-b01b3eb6fe4c
   - type: xivgear
-    name: FRU 2.32
-    link: https://xivgear.app/?page=embed%7Csl%7C2eb2f4f4-fd6a-429d-9b22-ee618852a8b9
+    name: FRU 2.31
+    link: https://xivgear.app/?page=embed%7Csl%7C0462c0f5-6874-4f9d-a426-c36103a267a3
   - type: etro
-    name: FRU 2.50 no chaotic
-    link: https://xivgear.app/?page=embed%7Csl%7C666d008f-fab1-465c-a389-3653437380ba
+    name: FRU 2.40 no chaotic
+    link: https://xivgear.app/?page=embed%7Csl%7Cf8928ad3-83c3-4287-8cf4-7e619f572cbf
 authors:
   - Balance-SCH-Staff
 tags:
