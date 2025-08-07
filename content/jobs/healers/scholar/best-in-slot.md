@@ -12,6 +12,8 @@ changelog:
     message: updated sets to include tome order
   - date: 2025-06-24T20:52:25.677Z
     message: updated sets
+  - date: 2025-08-07T04:10:29.350Z
+    message: updated fru set
 bis:
   - type: plain-text
     name: Information
