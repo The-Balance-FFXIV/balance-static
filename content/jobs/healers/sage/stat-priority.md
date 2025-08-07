@@ -1,7 +1,7 @@
 ---
 title: Sage Stat Priority
-patch: "7.0"
-lastmod: 2024-07-26T08:52:54.943Z
+patch: "7.3"
+lastmod: 2025-08-07T04:16:43.346Z
 changelog:
   - date: 2022-01-24T07:11:41.884Z
     message: Created page
