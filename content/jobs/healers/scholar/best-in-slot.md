@@ -1,8 +1,8 @@
 ---
 title: Scholar Best in Slot (BiS)
 layout: bis
-patch: "7.2"
-lastmod: 2025-06-24T20:52:42.324Z
+patch: "7.3"
+lastmod: 2025-08-07T03:53:20.938Z
 changelog:
   - date: 2025-03-30T20:19:43.416Z
     message: added 7.2 savage sets
