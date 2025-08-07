@@ -3,8 +3,8 @@ title: White Mage Basic Guide
 card_header_image: /img/jobs/whm/basic.png
 authors:
   - meru
-patch: "7.0"
-lastmod: 2024-07-29T19:16:29.739Z
+patch: "7.3"
+lastmod: 2025-08-07T04:12:02.126Z
 changelog:
   - date: 2021-10-29T03:52:37.749Z
     message: Created page
