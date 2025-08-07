@@ -1,7 +1,7 @@
 ---
 title: Sage Job Changes
 layout: changes
-lastmod: 2025-04-01T00:08:23.026Z
+lastmod: 2025-08-07T04:18:44.076Z
 changes:
   - patch: "6.0"
     description: Job added to game.
@@ -29,6 +29,26 @@ changes:
       Swiftcast's cooldown has been reduced from 60s to 40s.
   - patch: "7.2"
     description: Eukrasian Dosis III Potency has been increased from 75 to 80.
+  - patch: "7.3"
+    description: >-
+      Prognosis: Area of effect has been increased from 15 to 20 yalms.
+
+      Physis: Area of effect has been increased from 15 to 20 yalms.
+
+      Eukrasian Prognosis: Area of effect has been increased from 15 to 20 yalms.
+
+      Ixochole: Area of effect has been increased from 15 to 20 yalms.
+
+      Pepsis: Area of effect has been increased from 15 to 20 yalms.
+
+      Eukrasian Prognosis II: Area of effect has been increased from 15 to 20 yalms.
+
+
+      Dosis III: Potency increase from the trait Magick Mastery has been changed from 370 to 380.
+
+      Toxikon II: Potency increase from the trait Magick Mastery has been changed from 370 to 380.
+
+      Pneuma: Potency increase from the trait Magick Mastery has been changed from 370 to 380.
 authors:
   - Balance-SGE-Staff
 ---
