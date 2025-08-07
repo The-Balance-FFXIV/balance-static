@@ -4,34 +4,10 @@
 &lt;p>The most up to date Astrologian opener(s) can always be found in the #ast_resources channel on The Balance Discord. Keep in mind that Astrologian openers are somewhat flexible, and can be adjusted based on the context of a fight, or any given burst window.&lt;/p>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[292 65 353 178 200 371]" src="https://github.com/Ahriqi/astbalanceimages/blob/main/Astrologian_Dawntrail_Opener_9.png?raw=true" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[432 250 60 428 13 296]" src="https://github.com/Ahriqi/astbalanceimages/blob/main/Astrologian_Dawntrail_Opener_9.png?raw=true" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>For clarity, &lt;strong>The Balance and The Spear are not being used on you. They are to demonstrate their timings relative to our own buffs. Please do not card yourself in raids&lt;/strong> (Lightspeed can be used anywhere after that first combust to a late weave after the following Fall Malefic.&lt;/p></description></item><item><title>Astrologian Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/healers/astrologian/leveling-guide/</link><pubDate>Wed, 21 Sep 2022 23:34:17 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/astrologian/leveling-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
 &lt;p>This guide is intended to help you level Astrologian to level 90 from any given starting point, while also beginning to slowly suggest fundamental strategies and techniques. Habits develop early, and practice makes permanent.&lt;/p>
-&lt;p>This guide is not intended to be a complete guide on how to heal in dungeons, trials, or any other content. However, the following section is intended to give some strategies to the mindset of a healer in XIV, and I recommend you read it if you have never been a healer in specifically XIV-related max-level content before. If you feel confident in healing in XIV, please feel free to skip to the relevant level section for you.&lt;/p></description></item><item><title>Astrologian Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/healers/astrologian/skills-overview/</link><pubDate>Tue, 13 Sep 2022 04:58:09 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/astrologian/skills-overview/</guid><description>&lt;h1 id="notable-dawntrail-changes">&lt;em>&lt;strong>Notable Dawntrail Changes&lt;/strong>&lt;/em>&lt;/h1>
-&lt;ul>
-&lt;li>Complete card system revamp&lt;/li>
-&lt;li>Divination followup oGCD: Oracle&lt;/li>
-&lt;li>Aspected Helios got an animation upgrade to Helios Conjunction&lt;/li>
-&lt;li>Using Neutral Sect gains access to a new oGCD mitigation ability: Sun Sign&lt;/li>
-&lt;/ul>
-&lt;h1 id="damage">&lt;em>&lt;strong>Damage&lt;/strong>&lt;/em>&lt;/h1>
-&lt;h2 id="gcds">&lt;strong>GCDs&lt;/strong>&lt;/h2>
-&lt;p>
-&lt;div class="md__image">
- &lt;img id="[393 438 176 268 46 339]" src="https://www.thebalanceffxiv.com/img/jobs/ast/003559_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/p>
-&lt;p>&lt;strong>Fall Malefic&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Single target damage (250), 1.5 cast time.&lt;/li>
-&lt;li>Cast this when you don&amp;rsquo;t need to do anything else.&lt;/li>
-&lt;li>Can weave one oGCD after this.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;div class="md__image">
- &lt;img id="[213 437 449 220 448 168]" src="https://www.thebalanceffxiv.com/img/jobs/ast/003560_hr1.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/p></description></item><item><title>Astrologian FAQ</title><link>https://www.thebalanceffxiv.com/jobs/healers/astrologian/faq/</link><pubDate>Mon, 14 Feb 2022 05:39:07 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/astrologian/faq/</guid><description>&lt;h1 id="what-sect-should-i-use">What Sect Should I Use?&lt;/h1>
+&lt;p>This guide is not intended to be a complete guide on how to heal in dungeons, trials, or any other content. However, the following section is intended to give some strategies to the mindset of a healer in XIV, and I recommend you read it if you have never been a healer in specifically XIV-related max-level content before. If you feel confident in healing in XIV, please feel free to skip to the relevant level section for you.&lt;/p></description></item><item><title>Astrologian FAQ</title><link>https://www.thebalanceffxiv.com/jobs/healers/astrologian/faq/</link><pubDate>Mon, 14 Feb 2022 05:39:07 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/astrologian/faq/</guid><description>&lt;h1 id="what-sect-should-i-use">What Sect Should I Use?&lt;/h1>
 &lt;p>Diurnal remains generally very efficient, but buffs to Celestial Opposition and Celestial Intersection reduce the reliance on GCD healing (which is where Nocturnal Sect primarily falls short of Diurnal), and Nocturnal Intersection is very strong. The gap in overall efficiency between Diurnal and Nocturnal Sect is still quite significant, but that shouldn&amp;rsquo;t put you off of using Nocturnal Sect when the situation calls for it.&lt;/p></description></item><item><title>Astrologian Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/healers/astrologian/stat-priority/</link><pubDate>Tue, 26 Oct 2021 21:17:25 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/astrologian/stat-priority/</guid><description/></item></channel></rss>
