@@ -1,7 +1,7 @@
 ---
 title: Scholar Stat Priority
-patch: "6.5"
-lastmod: 2024-01-08T02:52:08.913Z
+patch: "7.3"
+lastmod: 2025-08-07T03:53:37.965Z
 changelog:
   - date: 2021-10-26T23:38:26.762Z
     message: Article Created
