@@ -1,8 +1,8 @@
 ---
 title: Scholar FAQ
 layout: qna
-patch: "6.5"
-lastmod: 2024-01-08T02:52:44.326Z
+patch: "7.3"
+lastmod: 2025-08-07T03:52:55.047Z
 changelog:
   - date: 2021-10-26T23:57:58.555Z
     message: "Article Created. "
