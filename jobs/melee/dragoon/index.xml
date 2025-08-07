@@ -9,7 +9,7 @@ The Role Action True North allows you to disregard positional requirements for t
 A continuous target ring will always count positionals as successful, regardless of your position.
 
 &lt;div class="md__image">
- &lt;img id="[180 183 159 367 64 259]" src="https://imgur.com/ANOqtwM.png" onclick="openModal(this.id)" alt="Positional zones" title="Positional zones" />
+ &lt;img id="[330 357 40 188 52 409]" src="https://imgur.com/ANOqtwM.png" onclick="openModal(this.id)" alt="Positional zones" title="Positional zones" />
 &lt;/div>
 &lt;/p></description></item><item><title>Dragoon Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/</link><pubDate>Sun, 30 Mar 2025 10:51:04 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/</guid><description>&lt;h1 id="jobsmeleedragoonopenerjobsmeleedragoonopenersaving-the-dragoon">&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/dragoon/opener/">/jobs/melee/dragoon/opener/&lt;/a>Saving The Dragoon&lt;/h1>
 &lt;h2 id="overview">Overview&lt;/h2>
@@ -30,7 +30,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[416 137 403 66 355 65]" src="https://xivapi.com/i/000000/000310_hr1.png" onclick="openModal(this.id)" alt="True Thrust" />
+ &lt;img id="[63 455 292 467 342 255]" src="https://xivapi.com/i/000000/000310_hr1.png" onclick="openModal(this.id)" alt="True Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">True Thrust&lt;/td>
@@ -41,7 +41,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[319 236 108 202 452 96]" src="https://xivapi.com/i/002000/002592_hr1.png" onclick="openModal(this.id)" alt="Raiden Thrust" />
+ &lt;img id="[298 290 432 161 387 438]" src="https://xivapi.com/i/002000/002592_hr1.png" onclick="openModal(this.id)" alt="Raiden Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Raiden Thrust&lt;/td>
@@ -52,7 +52,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[299 56 183 274 292 359]" src="https://xivapi.com/i/000000/000317_hr1.png" onclick="openModal(this.id)" alt="Disembowel" />
+ &lt;img id="[46 169 190 158 411 270]" src="https://xivapi.com/i/000000/000317_hr1.png" onclick="openModal(this.id)" alt="Disembowel" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Disembowel&lt;/td>
@@ -63,7 +63,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[487 463 252 149 275 491]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002077_hr1.tex?format=png" onclick="openModal(this.id)" alt="Spiral Blow" />
+ &lt;img id="[178 266 348 88 127 362]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002077_hr1.tex?format=png" onclick="openModal(this.id)" alt="Spiral Blow" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Sprial Blow&lt;/td>
@@ -74,7 +74,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[276 323 65 233 493 260]" src="https://xivapi.com/i/000000/000308_hr1.png" onclick="openModal(this.id)" alt="Chaos Thrust" />
+ &lt;img id="[140 122 382 214 203 412]" src="https://xivapi.com/i/000000/000308_hr1.png" onclick="openModal(this.id)" alt="Chaos Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chaos Thrust&lt;/td>
@@ -85,7 +85,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[263 32 295 408 224 355]" src="https://xivapi.com/i/002000/002596_hr1.png" onclick="openModal(this.id)" alt="Chaotic Spring" />
+ &lt;img id="[159 204 491 301 248 268]" src="https://xivapi.com/i/002000/002596_hr1.png" onclick="openModal(this.id)" alt="Chaotic Spring" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chaotic Spring&lt;/td>
@@ -96,7 +96,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[361 118 272 93 445 84]" src="https://xivapi.com/i/000000/000312_hr1.png" onclick="openModal(this.id)" alt="Vorpal Thrust" />
+ &lt;img id="[266 113 32 412 190 118]" src="https://xivapi.com/i/000000/000312_hr1.png" onclick="openModal(this.id)" alt="Vorpal Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Vorpal Thrust&lt;/td>
@@ -107,7 +107,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[393 372 179 32 180 264]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002076_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Barrage" />
+ &lt;img id="[85 88 249 21 174 361]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002076_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Barrage" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Barrage&lt;/td>
@@ -118,7 +118,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[335 119 211 498 332 463]" src="https://xivapi.com/i/000000/000314_hr1.png" onclick="openModal(this.id)" alt="Full Thrust" />
+ &lt;img id="[240 386 419 357 70 490]" src="https://xivapi.com/i/000000/000314_hr1.png" onclick="openModal(this.id)" alt="Full Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Full Thrust&lt;/td>
@@ -129,7 +129,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[60 99 203 109 105 481]" src="https://xivapi.com/i/002000/002595_hr1.png" onclick="openModal(this.id)" alt="Heavens&amp;rsquo; Thrust" />
+ &lt;img id="[111 208 349 424 499 304]" src="https://xivapi.com/i/002000/002595_hr1.png" onclick="openModal(this.id)" alt="Heavens&amp;rsquo; Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heavens&amp;rsquo; Thrust&lt;/td>
@@ -140,7 +140,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[213 424 495 177 486 438]" src="https://xivapi.com/i/002000/002582_hr1.png" onclick="openModal(this.id)" alt="Fang and Claw" />
+ &lt;img id="[476 338 417 409 456 400]" src="https://xivapi.com/i/002000/002582_hr1.png" onclick="openModal(this.id)" alt="Fang and Claw" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fang and Claw&lt;/td>
@@ -151,7 +151,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[378 74 299 144 104 388]" src="https://xivapi.com/i/002000/002584_hr1.png" onclick="openModal(this.id)" alt="Wheeling Thrust" />
+ &lt;img id="[37 290 486 455 219 324]" src="https://xivapi.com/i/002000/002584_hr1.png" onclick="openModal(this.id)" alt="Wheeling Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Wheeling Thrust&lt;/td>
@@ -162,7 +162,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[166 314 98 276 366 445]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png" onclick="openModal(this.id)" alt="Drakesbane" />
+ &lt;img id="[83 196 75 210 251 279]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png" onclick="openModal(this.id)" alt="Drakesbane" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Drakesbane&lt;/td>
@@ -173,7 +173,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[424 358 458 119 179 453]" src="https://xivapi.com/i/000000/000315_hr1.png" onclick="openModal(this.id)" alt="Piercing Talon" />
+ &lt;img id="[31 184 302 243 291 415]" src="https://xivapi.com/i/000000/000315_hr1.png" onclick="openModal(this.id)" alt="Piercing Talon" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Piercing Talon&lt;/td>
@@ -205,7 +205,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[51 168 278 44 96 337]" src="https://xivapi.com/i/000000/000306_hr1.png" onclick="openModal(this.id)" alt="Doom Spike" />
+ &lt;img id="[71 192 211 333 328 417]" src="https://xivapi.com/i/000000/000306_hr1.png" onclick="openModal(this.id)" alt="Doom Spike" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Doom Spike&lt;/td>
@@ -216,7 +216,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[204 312 286 493 16 263]" src="https://xivapi.com/i/002000/002594_hr1.png" onclick="openModal(this.id)" alt="Draconian Fury" />
+ &lt;img id="[7 481 191 24 405 233]" src="https://xivapi.com/i/002000/002594_hr1.png" onclick="openModal(this.id)" alt="Draconian Fury" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Draconian Fury&lt;/td>
@@ -227,7 +227,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[143 307 417 499 197 365]" src="https://xivapi.com/i/002000/002586_hr1.png" onclick="openModal(this.id)" alt="Sonic Thrust" />
+ &lt;img id="[220 359 463 116 243 154]" src="https://xivapi.com/i/002000/002586_hr1.png" onclick="openModal(this.id)" alt="Sonic Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Sonic Thrust&lt;/td>
@@ -238,7 +238,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[303 493 246 343 306 298]" src="https://xivapi.com/i/002000/002590_hr1.png" onclick="openModal(this.id)" alt="Coerthan Torment" />
+ &lt;img id="[32 488 111 147 124 91]" src="https://xivapi.com/i/002000/002590_hr1.png" onclick="openModal(this.id)" alt="Coerthan Torment" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Coerthan Torment&lt;/td>
@@ -263,7 +263,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[439 16 87 496 67 326]" src="https://xivapi.com/i/002000/002576_hr1.png" onclick="openModal(this.id)" alt="Jump" />
+ &lt;img id="[481 186 161 461 199 305]" src="https://xivapi.com/i/002000/002576_hr1.png" onclick="openModal(this.id)" alt="Jump" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Jump&lt;/td>
@@ -274,7 +274,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[208 171 64 125 397 375]" src="https://xivapi.com/i/002000/002591_hr1.png" onclick="openModal(this.id)" alt="High Jump" />
+ &lt;img id="[339 177 193 426 492 250]" src="https://xivapi.com/i/002000/002591_hr1.png" onclick="openModal(this.id)" alt="High Jump" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">High Jump&lt;/td>
@@ -285,7 +285,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[65 418 55 229 52 392]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002598_hr1.tex?format=png" onclick="openModal(this.id)" alt="Winged Glide" />
+ &lt;img id="[231 383 338 262 119 375]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002598_hr1.tex?format=png" onclick="openModal(this.id)" alt="Winged Glide" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Winged Glide&lt;/td>
@@ -296,7 +296,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[423 125 30 91 121 467]" src="https://xivapi.com/i/002000/002578_hr1.png" onclick="openModal(this.id)" alt="Dragonfire Dive" />
+ &lt;img id="[16 439 414 234 449 489]" src="https://xivapi.com/i/002000/002578_hr1.png" onclick="openModal(this.id)" alt="Dragonfire Dive" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dragonfire Dive&lt;/td>
@@ -307,7 +307,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[3 19 416 146 111 102]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002075_hr1.tex?format=png" onclick="openModal(this.id)" alt="Rise of the Dragon" />
+ &lt;img id="[357 466 386 469 19 28]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002075_hr1.tex?format=png" onclick="openModal(this.id)" alt="Rise of the Dragon" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Rise of the Dragon&lt;/td>
@@ -318,7 +318,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[215 201 33 298 184 385]" src="https://xivapi.com/i/002000/002588_hr1.png" onclick="openModal(this.id)" alt="Mirage Dive" />
+ &lt;img id="[235 93 228 163 209 313]" src="https://xivapi.com/i/002000/002588_hr1.png" onclick="openModal(this.id)" alt="Mirage Dive" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Mirage Dive&lt;/td>
@@ -329,7 +329,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[275 222 380 85 66 370]" src="https://xivapi.com/i/002000/002583_hr1.png" onclick="openModal(this.id)" alt="Geirskogul" />
+ &lt;img id="[138 1 472 408 17 85]" src="https://xivapi.com/i/002000/002583_hr1.png" onclick="openModal(this.id)" alt="Geirskogul" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Geirskogul&lt;/td>
@@ -340,7 +340,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[183 289 84 403 420 320]" src="https://xivapi.com/i/002000/002589_hr1.png" onclick="openModal(this.id)" alt="Nastrond" />
+ &lt;img id="[195 444 260 451 78 4]" src="https://xivapi.com/i/002000/002589_hr1.png" onclick="openModal(this.id)" alt="Nastrond" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Nastrond&lt;/td>
@@ -351,7 +351,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[283 348 217 169 23 364]" src="https://xivapi.com/i/002000/002593_hr1.png" onclick="openModal(this.id)" alt="Stardiver" />
+ &lt;img id="[305 51 326 128 291 251]" src="https://xivapi.com/i/002000/002593_hr1.png" onclick="openModal(this.id)" alt="Stardiver" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Stardiver&lt;/td>
@@ -362,7 +362,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[96 16 2 487 6 435]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002078_hr1.tex?format=png" onclick="openModal(this.id)" alt="Starcross" />
+ &lt;img id="[247 498 373 141 122 245]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002078_hr1.tex?format=png" onclick="openModal(this.id)" alt="Starcross" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Starcross&lt;/td>
@@ -373,7 +373,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[165 297 438 404 477 241]" src="https://xivapi.com/i/002000/002597_hr1.png" onclick="openModal(this.id)" alt="Wyrmwind Thrust" />
+ &lt;img id="[53 380 23 90 341 185]" src="https://xivapi.com/i/002000/002597_hr1.png" onclick="openModal(this.id)" alt="Wyrmwind Thrust" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Wyrmwind Thrust&lt;/td>
@@ -384,7 +384,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[146 338 407 313 381 447]" src="https://xivapi.com/i/002000/002577_hr1.png" onclick="openModal(this.id)" alt="Elusive Jump" />
+ &lt;img id="[340 444 162 411 292 156]" src="https://xivapi.com/i/002000/002577_hr1.png" onclick="openModal(this.id)" alt="Elusive Jump" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Elusive Jump&lt;/td>
@@ -409,7 +409,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[213 202 69 37 130 317]" src="https://xivapi.com/i/000000/000309_hr1.png" onclick="openModal(this.id)" alt="Lance Charge" />
+ &lt;img id="[72 31 140 131 486 410]" src="https://xivapi.com/i/000000/000309_hr1.png" onclick="openModal(this.id)" alt="Lance Charge" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Charge&lt;/td>
@@ -420,7 +420,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[54 296 195 486 498 286]" src="https://xivapi.com/i/002000/002585_hr1.png" onclick="openModal(this.id)" alt="Battle Litany" />
+ &lt;img id="[13 464 64 114 377 437]" src="https://xivapi.com/i/002000/002585_hr1.png" onclick="openModal(this.id)" alt="Battle Litany" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Battle Litany&lt;/td>
@@ -431,7 +431,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[91 477 245 447 168 225]" src="https://xivapi.com/i/000000/000304_hr1.png" onclick="openModal(this.id)" alt="Life Surge" />
+ &lt;img id="[264 389 310 482 233 254]" src="https://xivapi.com/i/000000/000304_hr1.png" onclick="openModal(this.id)" alt="Life Surge" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Life Surge&lt;/td>
@@ -442,7 +442,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[481 426 38 395 70 193]" src="https://beta.xivapi.com/api/1/asset/ui/icon/020000/020710_hr1.tex?format=png" onclick="openModal(this.id)" alt="Gemdraught of Strength" />
+ &lt;img id="[270 324 378 462 343 480]" src="https://beta.xivapi.com/api/1/asset/ui/icon/020000/020710_hr1.tex?format=png" onclick="openModal(this.id)" alt="Gemdraught of Strength" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Current Gemdraught of Strength&lt;/td>
@@ -467,7 +467,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[432 335 47 112 310 308]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" />
+ &lt;img id="[144 284 388 497 142 226]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -478,7 +478,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[395 352 43 248 436 81]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="Leg Sweep" />
+ &lt;img id="[494 307 27 121 128 339]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="Leg Sweep" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Sweep&lt;/td>
@@ -489,7 +489,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[207 169 328 166 362 47]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="Bloodbath" />
+ &lt;img id="[488 10 181 6 110 24]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="Bloodbath" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodbath&lt;/td>
@@ -500,7 +500,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[259 302 410 337 496 378]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="Feint" />
+ &lt;img id="[497 424 368 391 472 299]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="Feint" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Feint&lt;/td>
@@ -511,7 +511,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[256 491 223 280 64 313]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" />
+ &lt;img id="[43 300 26 299 387 191]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -522,7 +522,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[33 230 406 232 288 219]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="True North" />
+ &lt;img id="[54 268 14 404 418 364]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="True North" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">True North&lt;/td>
@@ -547,7 +547,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[329 339 343 196 89 367]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005294_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Jump" />
+ &lt;img id="[429 308 216 107 364 33]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005294_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Jump" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Jump&lt;/td>
@@ -558,7 +558,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[15 471 182 251 141 197]" src="https://xivapi.com/i/005000/005285_hr1.png" onclick="openModal(this.id)" alt="Life of the Dragon" />
+ &lt;img id="[253 297 108 75 68 229]" src="https://xivapi.com/i/005000/005285_hr1.png" onclick="openModal(this.id)" alt="Life of the Dragon" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Life of the Dragon&lt;/td>
@@ -569,7 +569,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[440 45 289 127 438 470]" src="https://xivapi.com/i/005000/005286_hr1.png" onclick="openModal(this.id)" alt="Jump Mastery" />
+ &lt;img id="[80 67 40 68 175 115]" src="https://xivapi.com/i/005000/005286_hr1.png" onclick="openModal(this.id)" alt="Jump Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Jump Mastery&lt;/td>
@@ -580,7 +580,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[85 166 132 337 455 41]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005284_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery" />
+ &lt;img id="[128 381 201 91 494 109]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005284_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Mastery&lt;/td>
@@ -591,7 +591,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[184 40 122 349 326 267]" src="https://xivapi.com/i/005000/005290_hr1.png" onclick="openModal(this.id)" alt="Enhanced Coerthan Torment" />
+ &lt;img id="[272 141 392 5 374 383]" src="https://xivapi.com/i/005000/005290_hr1.png" onclick="openModal(this.id)" alt="Enhanced Coerthan Torment" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Coerthan Torment&lt;/td>
@@ -602,7 +602,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[85 446 319 313 426 84]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005295_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Winged Glide" />
+ &lt;img id="[371 206 484 187 330 212]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005295_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Winged Glide" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Winged Glide&lt;/td>
@@ -613,7 +613,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[421 123 435 78 449 97]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005288_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery II" />
+ &lt;img id="[391 22 122 188 27 389]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005288_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Mastery II&lt;/td>
@@ -624,7 +624,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[19 109 310 34 158 379]" src="https://xivapi.com/i/005000/005277_hr1.png" onclick="openModal(this.id)" alt="Enhanced Life Surge" />
+ &lt;img id="[262 145 17 301 135 384]" src="https://xivapi.com/i/005000/005277_hr1.png" onclick="openModal(this.id)" alt="Enhanced Life Surge" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Life Surge&lt;/td>
@@ -635,7 +635,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[226 367 51 23 88 320]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005292_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery III" />
+ &lt;img id="[24 452 297 105 103 401]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005292_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery III" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Mastery III&lt;/td>
@@ -646,7 +646,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[364 107 116 194 183 457]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005296_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Dragonfire Dive" />
+ &lt;img id="[211 24 178 308 73 201]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005296_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Dragonfire Dive" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Dragonfire Dive&lt;/td>
@@ -657,7 +657,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[23 376 173 81 112 275]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006806_hr1.tex?format=png" onclick="openModal(this.id)" alt="Melee Mastery" />
+ &lt;img id="[175 65 366 172 164 327]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006806_hr1.tex?format=png" onclick="openModal(this.id)" alt="Melee Mastery" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Melee Mastery&lt;/td>
@@ -668,7 +668,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[141 99 498 183 115 89]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005293_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery IV" />
+ &lt;img id="[486 108 168 430 352 208]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005293_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery IV" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lance Mastery IV&lt;/td>
@@ -679,7 +679,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[258 49 430 419 207 341]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005298_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Stardiver" />
+ &lt;img id="[326 497 490 278 82 333]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005298_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Stardiver" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Stardiver&lt;/td>
@@ -704,7 +704,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[35 287 181 400 421 82]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006852_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Second Wind" />
+ &lt;img id="[438 351 128 301 265 164]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006852_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Second Wind" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Second Wind&lt;/td>
@@ -715,7 +715,7 @@ A continuous target ring will always count positionals as successful, regardless
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[109 277 419 14 229 44]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006851_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Feint" />
+ &lt;img id="[191 469 25 93 381 233]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006851_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Feint" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Feint&lt;/td>
@@ -729,7 +729,7 @@ A continuous target ring will always count positionals as successful, regardless
 &lt;h2 id="standard-opener---no-pt">Standard Opener - No PT&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[323 453 205 373 413 394]" src="https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_-_No_PT.png?raw=true" onclick="openModal(this.id)" alt="Standard Opener - No PT" />
+ &lt;img id="[266 262 404 493 494 444]" src="https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_-_No_PT.png?raw=true" onclick="openModal(this.id)" alt="Standard Opener - No PT" />
 &lt;/div>
 
 &lt;br>
