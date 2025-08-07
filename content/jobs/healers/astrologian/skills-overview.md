@@ -143,7 +143,7 @@ changelog:
 
 **Celestial Opposition 60s CD**
 
-* AoE heal (200p) + Regen (five ticks of 100p)
+* AoE heal (200p) + Regen (five ticks of 100p) in a radius of 20y around you
 * Total heal potency: 700p
 * Celestial Opposition has a strong heal on a short cooldown, make sure to utilize this ability often.
 
