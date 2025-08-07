@@ -4,7 +4,7 @@ card_header_image: /img/jobs/sch/basic.png
 authors:
   - tealjaker
   - potato
-patch: "7.3"
+patch: Dawntrail
 lastmod: 2025-08-07T03:52:09.154Z
 changelog:
   - date: 2021-10-26T21:53:11.912Z
