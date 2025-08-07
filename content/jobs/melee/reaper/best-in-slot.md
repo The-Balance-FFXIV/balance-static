@@ -1,8 +1,8 @@
 ---
 title: Reaper Best-in-Slot
 layout: bis
-patch: "7.2"
-lastmod: 2025-03-26T18:32:13.945Z
+patch: "7.3"
+lastmod: 2025-08-07T03:15:09.132Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
     message: Created page
@@ -30,6 +30,8 @@ changelog:
     message: Added 7.05 sets for DSR and TOP
   - date: 2025-03-26T18:32:18.900Z
     message: Updated sets for 7.2
+  - date: 2025-08-07T03:15:14.811Z
+    message: Added 7.3 FRU Options
 bis:
   - type: etro
     name: 7.2 2.49 Savage BiS
@@ -149,6 +151,11 @@ bis:
     description: Both of these criterion dungeons sync to the same level, and use
       the Anabaseios Savage BiS. This set is used for both the normal and savage
       versions.
+  - type: xivgear
+    name: 7.3 FRU Options
+    description: Master sheet with all options including prog sets can be found
+      [here.](https://xivgear.app/?page=sl%7C0467b8c4-5a7d-4c00-99fb-4e17907ea964)
+    link: https://xivgear.app/?page=embed%7Csl%7C54757f82-e836-411e-96d1-d543f6646288
 authors:
   - Balance-RPR-Staff
 ---
