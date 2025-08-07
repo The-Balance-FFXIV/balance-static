@@ -1,7 +1,7 @@
 ---
 title: Reaper Job Changes
 layout: changes
-lastmod: 2025-03-24T21:34:45.680Z
+lastmod: 2025-08-07T03:19:06.283Z
 changes:
   - patch: "6.0"
     description: Job added to game.
@@ -120,6 +120,12 @@ changes:
 
 
       Perfectio AoE falloff damage penalty reduced from 60% to 40% (20% more damage to additional targets).
+  - patch: "7.3"
+    description: >-
+      Enshroud cooldown reduced from 15s to 5s.
+
+
+      Plentiful Harvest, Sacrificium, Communio, and Perfectio potency reduction after the first target changed from 40% less to 20% less. (20% more damage per target after the first compared to previous patch.)
 authors:
   - Balance-RPR-Staff
 ---
