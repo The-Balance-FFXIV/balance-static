@@ -1,6 +1,6 @@
 ---
 title: Viper Stat Priority
-patch: Dawntrail
+patch: "7.3"
 lastmod: 2025-08-05T04:11:20.479Z
 changelog:
   - date: 2024-06-25T23:52:23.313Z
