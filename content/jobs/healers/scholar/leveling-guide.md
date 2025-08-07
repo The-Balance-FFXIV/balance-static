@@ -4,8 +4,8 @@ card_header_image: /img/jobs/sch/leveling.png
 authors:
   - potato
   - tealjaker
-patch: "7.0"
-lastmod: 2024-07-27T21:29:38.130Z
+patch: "7.3"
+lastmod: 2025-08-07T03:51:58.290Z
 changelog:
   - date: 2021-10-26T03:06:25.151Z
     message: Created page
