@@ -29,19 +29,8 @@ bis:
     name: 7.2 (Week 1) 2.5 GCD
     link: https://etro.gg/gearset/7b6376a5-5383-4260-96d5-6a0359837891
   - type: etro
-    name: Chaotic + Ultimate Weapon Best-in-Slot 2.5 GCD
-    link: https://etro.gg/gearset/821040d4-fea5-46ef-8aa9-2a9de0ac2eeb
-    description: >-
-      <!--StartFragment-->
-
-
-      ~5 DPS increase over previous BIS (w/ FRU Weapon). Swap out a DH meld for a DET meld on the Augmented Quetzalli Ring.
-
-
-      <!--EndFragment-->
-  - type: etro
-    name: Ultimate Weapon Best-in-Slot 2.5 GCD
-    link: https://etro.gg/gearset/9e444cba-9bb9-4590-ae16-a750067835eb
+    name: 7.3 Ultimate Weapon Best-in-Slot 2.5 GCD
+    link: https://etro.gg/gearset/1601305e-19ea-4037-911c-14eb7c11a18a
   - type: etro
     description: Highest DPS, abuses 6.5 dungeon gear and the 645 relic weapon.
     name: TOP Best-in-Slot 2.5 GCD
