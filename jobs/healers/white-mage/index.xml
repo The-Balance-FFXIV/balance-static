@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>White Mage on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/</link><description>Recent content in White Mage on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 02:58:45 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/healers/white-mage/index.xml" rel="self" type="application/rss+xml"/><item><title>White Mage Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/skills-overview/</link><pubDate>Tue, 05 Aug 2025 02:58:45 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/skills-overview/</guid><description>&lt;h1 id="notable-endwalker-changes">&lt;strong>Notable Endwalker Changes&lt;/strong>&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>White Mage on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/</link><description>Recent content in White Mage on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 07 Aug 2025 04:19:33 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/healers/white-mage/index.xml" rel="self" type="application/rss+xml"/><item><title>White Mage Changes</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/job-changes/</link><pubDate>Thu, 07 Aug 2025 04:19:33 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/job-changes/</guid><description/></item><item><title>White Mage Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/skills-overview/</link><pubDate>Tue, 05 Aug 2025 02:58:45 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/skills-overview/</guid><description>&lt;h1 id="notable-endwalker-changes">&lt;strong>Notable Endwalker Changes&lt;/strong>&lt;/h1>
 &lt;ul>
 &lt;li>Thin Air has two charges but only reduces mana cost on one spell per cast.&lt;/li>
 &lt;li>Glare cast time reduced to 1.5s.&lt;/li>
@@ -8,7 +8,7 @@
 &lt;h2 id="gcd">&lt;strong>GCD&lt;/strong>&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[317 482 275 31 90 494]" src="https://xivapi.com/i/002000/002646_hr1.png" onclick="openModal(this.id)" alt="Glare III" />
+ &lt;img id="[441 341 387 338 257 154]" src="https://xivapi.com/i/002000/002646_hr1.png" onclick="openModal(this.id)" alt="Glare III" />
 &lt;/div>
 &lt;/p>
 &lt;h3 id="glare-iii">&lt;strong>Glare III&lt;/strong>&lt;/h3>
@@ -20,12 +20,12 @@
 &lt;/ul>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[400 125 23 206 45 156]" src="https://www.thebalanceffxiv.com/img/jobs/whm/002126_hr1.png" onclick="openModal(this.id)" alt="Glare IV " />
+ &lt;img id="[283 59 80 196 39 325]" src="https://www.thebalanceffxiv.com/img/jobs/whm/002126_hr1.png" onclick="openModal(this.id)" alt="Glare IV " />
 &lt;/div>
-&lt;/p></description></item><item><title>White Mage Changes</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/job-changes/</link><pubDate>Mon, 31 Mar 2025 23:31:47 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/job-changes/</guid><description/></item><item><title>White Mage Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/best-in-slot/</link><pubDate>Mon, 31 Mar 2025 11:28:25 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/best-in-slot/</guid><description/></item><item><title>White Mage Opener</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/openers/</link><pubDate>Tue, 30 Jul 2024 07:05:12 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/openers/</guid><description>&lt;h1 id="standard-opener">Standard Opener&lt;/h1>
+&lt;/p></description></item><item><title>White Mage Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/best-in-slot/</link><pubDate>Mon, 31 Mar 2025 11:28:25 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/best-in-slot/</guid><description/></item><item><title>White Mage Opener</title><link>https://www.thebalanceffxiv.com/jobs/healers/white-mage/openers/</link><pubDate>Tue, 30 Jul 2024 07:05:12 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/healers/white-mage/openers/</guid><description>&lt;h1 id="standard-opener">Standard Opener&lt;/h1>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[468 446 211 296 269 352]" src="https://www.thebalanceffxiv.com/img/jobs/whm/white-mage-early-dot-refresh-opener-1-.png" onclick="openModal(this.id)" alt="-2.3s prepull/PULL/Current Tincture of Mind/Dia/Glare III/ Glare III: Weave: Presence of mind/ Glare IV Weave: Assize/Glare IV/ Glare III/ Glare III/ Glare III/ Glare III/ Glare III/ Glare III/ Glare IV/ Dia" title="WHM Standard Opener" />
+ &lt;img id="[489 208 162 364 452 311]" src="https://www.thebalanceffxiv.com/img/jobs/whm/white-mage-early-dot-refresh-opener-1-.png" onclick="openModal(this.id)" alt="-2.3s prepull/PULL/Current Tincture of Mind/Dia/Glare III/ Glare III: Weave: Presence of mind/ Glare IV Weave: Assize/Glare IV/ Glare III/ Glare III/ Glare III/ Glare III/ Glare III/ Glare III/ Glare IV/ Dia" title="WHM Standard Opener" />
 &lt;/div>
 &lt;/p>
 &lt;p>In most cases, use this&lt;br>
