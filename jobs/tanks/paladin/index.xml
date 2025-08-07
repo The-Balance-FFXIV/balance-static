@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paladin on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/</link><description>Recent content in Paladin on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 04 May 2025 18:35:23 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/paladin/index.xml" rel="self" type="application/rss+xml"/><item><title>Paladin Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</link><pubDate>Sun, 04 May 2025 18:35:23 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</guid><description/></item><item><title>Paladin Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</link><pubDate>Mon, 31 Mar 2025 23:37:34 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</guid><description/></item><item><title>Paladin Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/openers/</link><pubDate>Tue, 25 Mar 2025 20:00:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/openers/</guid><description>&lt;h1 id="paladin-openers">Paladin Openers&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paladin on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/</link><description>Recent content in Paladin on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 06 Aug 2025 19:02:13 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/paladin/index.xml" rel="self" type="application/rss+xml"/><item><title>Paladin Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</link><pubDate>Wed, 06 Aug 2025 19:02:13 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/job-changes/</guid><description/></item><item><title>Paladin Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</link><pubDate>Sun, 04 May 2025 18:35:23 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/best-in-slot/</guid><description/></item><item><title>Paladin Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/openers/</link><pubDate>Tue, 25 Mar 2025 20:00:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/openers/</guid><description>&lt;h1 id="paladin-openers">Paladin Openers&lt;/h1>
 &lt;p>Tanks currently use Grade 3 Gemdraught of Strength
 (Strength also affects tank magic potency, including healing).&lt;/p>
 &lt;h2 id="opener">Opener&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[259 214 114 231 376 85]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
+ &lt;img id="[134 267 486 232 308 191]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
 &lt;/div>
 &lt;/p>
 &lt;h2 id="burst">Burst&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[496 116 266 27 14 497]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
+ &lt;img id="[249 132 72 466 66 277]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
 &lt;/div>
 &lt;/p>
 &lt;ul>
@@ -53,7 +53,7 @@
 &lt;p>&lt;strong>Iron Will&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[390 300 454 269 327 339]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[358 71 107 31 360 30]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>Toggle | 3s cooldown after toggling on. | 1s cooldown after toggling off.&lt;/p>
@@ -62,7 +62,7 @@
 &lt;p>&lt;strong>Fight or Flight&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[278 441 22 438 398 363]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[56 179 278 467 185 149]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>60s cooldown.&lt;/p>
@@ -70,7 +70,7 @@
 &lt;p>&lt;strong>Imperator&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[214 448 169 302 116 380]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[292 387 331 428 61 63]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p></description></item><item><title>Paladin Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</link><pubDate>Sun, 14 Jul 2024 01:05:24 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/advanced-guide/</guid><description>&lt;p>Post-6.3 rework, there is very little to optimize outside of rolling your GCD, keeping oGCDs on cooldown, and not dropping resources (Divine Might, Sword Oath stacks).&lt;/p>
 &lt;p>Encounter-specific optimizations can be discussed in the PLD Encounter forum in the Balance Discord.&lt;/p></description></item><item><title>Paladin FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 10 Jul 2024 05:01:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>&lt;blockquote>
