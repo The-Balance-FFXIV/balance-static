@@ -1,7 +1,7 @@
 ---
 title: Pictomancer Job Changes
 layout: changes
-lastmod: 2025-03-25T22:26:10.672Z
+lastmod: 2025-08-08T17:22:51.455Z
 changes:
   - patch: "7.1"
     description: You now begin instanced content with all Motifs already painted. In
