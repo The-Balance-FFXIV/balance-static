@@ -21,6 +21,13 @@ changes:
 
       For a full list of updated potencies, please either reference the [official job guide](https://na.finalfantasyxiv.com/jobguide/pictomancer/) or [our actions page](https://www.thebalanceffxiv.com/jobs/casters/pictomancer/skills-overview/).
   - patch: "7.3"
+    description: >-
+      Many of the changes made in patch 7.2 have been reverted or lessened in
+      order to alleviate an unintended consequence of Hammers being not
+      worthwhile to use in odd-minute windows. 
+
+
+      For a full list of updated potencies, please either reference the [official job guide](https://na.finalfantasyxiv.com/jobguide/pictomancer/) or [our actions page](https://www.thebalanceffxiv.com/jobs/casters/pictomancer/skills-overview/).
 authors:
   - balance-pct-staff
 ---
