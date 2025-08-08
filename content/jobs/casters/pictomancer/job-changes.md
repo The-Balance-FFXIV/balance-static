@@ -20,6 +20,7 @@ changes:
       \
 
       For a full list of updated potencies, please either reference the [official job guide](https://na.finalfantasyxiv.com/jobguide/pictomancer/) or [our actions page](https://www.thebalanceffxiv.com/jobs/casters/pictomancer/skills-overview/).
+  - patch: "7.3"
 authors:
   - balance-pct-staff
 ---
