@@ -1,7 +1,7 @@
 ---
 title: Pictomancer Job Changes
 layout: changes
-lastmod: 2025-03-25T22:26:10.672Z
+lastmod: 2025-08-08T17:22:51.455Z
 changes:
   - patch: "7.1"
     description: You now begin instanced content with all Motifs already painted. In
@@ -18,6 +18,14 @@ changes:
       of skills seeing potency increases or decreases. \
 
       \
+
+      For a full list of updated potencies, please either reference the [official job guide](https://na.finalfantasyxiv.com/jobguide/pictomancer/) or [our actions page](https://www.thebalanceffxiv.com/jobs/casters/pictomancer/skills-overview/).
+  - patch: "7.3"
+    description: >-
+      Many of the changes made in patch 7.2 have been reverted or lessened in
+      order to alleviate an unintended consequence of Hammers being not
+      worthwhile to use in odd-minute windows. 
+
 
       For a full list of updated potencies, please either reference the [official job guide](https://na.finalfantasyxiv.com/jobguide/pictomancer/) or [our actions page](https://www.thebalanceffxiv.com/jobs/casters/pictomancer/skills-overview/).
 authors:
