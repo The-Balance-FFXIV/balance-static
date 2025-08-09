@@ -24,83 +24,59 @@ changelog:
     message: Updated for 7.2
 bis:
   - type: genericiframe
-    name: 7.2 Savage Best in Slot - 2.48
+    name: 7.3 Savage Best in Slot - 2.48
     link: https://xivgear.app/?page=embed%7Csl%7C51d613f6-3a8d-4e7d-b18a-28884d254d17&onlySetIndex=0
     description: This set preforms as a 2.50 GCD in level synced content as the
       spell speed is melded on.
   - type: genericiframe
-    name: 7.2 Savage Best in Slot - 2.48 (Level Sync Friendly)
+    name: 7.3 Savage Best in Slot - 2.48 (Level Sync Friendly)
     link: https://xivgear.app/?page=embed%7Csl%7C51d613f6-3a8d-4e7d-b18a-28884d254d17&onlySetIndex=1
     description: This set uses equipment to achieve the 2.48 GCD, so it will always
       play as a 2.48 GCD.
   - type: genericiframe
-    name: 7.2 Savage Best in Slot - 2.47
+    name: 7.3 Savage Best in Slot - 2.47
     link: https://xivgear.app/?page=embed%7Csl%7C51d613f6-3a8d-4e7d-b18a-28884d254d17&onlySetIndex=3
     description: This set preforms as a 2.48 GCD in level synced content as the
       spell speed is melded on.
   - type: genericiframe
-    name: 7.2 Savage Best in Slot - 2.47 (Level Sync Friendly)
+    name: 7.3 Savage Best in Slot - 2.47 (Level Sync Friendly)
     link: https://xivgear.app/?page=embed%7Csl%7C51d613f6-3a8d-4e7d-b18a-28884d254d17&onlySetIndex=4
     description: This set uses equipment to achieve the 2.47 GCD, so it will always
       play as a 2.48 GCD.
   - type: genericiframe
-    name: 7.2 Savage Best in Slot - 2.46
+    name: 7.3 Savage Best in Slot - 2.46
     link: https://xivgear.app/?page=embed%7Csl%7C51d613f6-3a8d-4e7d-b18a-28884d254d17&onlySetIndex=6
     description: This set preforms as a 2.49 GCD in level synced content as the
       spell speed is melded on.
   - type: genericiframe
-    name: 7.2 Savage Best in Slot - 2.46 (Level Sync Friendly)
+    name: 7.3 Savage Best in Slot - 2.46 (Level Sync Friendly)
     link: https://xivgear.app/?page=embed%7Csl%7C51d613f6-3a8d-4e7d-b18a-28884d254d17&onlySetIndex=7
     description: This set uses equipment to achieve the 2.46 GCD, so it will always
       play as a 2.48 GCD.
   - type: genericiframe
-    name: 7.2 Pre-Savage Extra Budget - 2.48
-    link: https://xivgear.app/?page=embed%7Csl%7C7c4d6aa1-9331-4ccf-a9ea-52a46b03b6c5&onlySetIndex=17
-  - type: genericiframe
-    name: 7.2 Pre-Savage Max VIT Budget - 2.48
-    link: https://xivgear.app/?page=embed%7Csl%7C7c4d6aa1-9331-4ccf-a9ea-52a46b03b6c5&onlySetIndex=18
-  - type: genericiframe
-    name: 7.2 Pre-Savage Crafted Budget - 2.48
-    link: https://xivgear.app/?page=embed%7Csl%7C7c4d6aa1-9331-4ccf-a9ea-52a46b03b6c5&onlySetIndex=19
-  - type: genericiframe
-    name: 7.2 Pre-Savage Crafted Pentameld - 2.48
-    link: https://xivgear.app/?page=embed%7Csl%7C7c4d6aa1-9331-4ccf-a9ea-52a46b03b6c5&onlySetIndex=20
-  - type: genericiframe
-    name: 7.2 Pre-Savage Extra Budget - 2.47
-    link: https://xivgear.app/?page=embed%7Csl%7C7c4d6aa1-9331-4ccf-a9ea-52a46b03b6c5&onlySetIndex=22
-  - type: genericiframe
-    name: 7.2 Pre-Savage Max VIT - 2.47
-    link: https://xivgear.app/?page=embed%7Csl%7C7c4d6aa1-9331-4ccf-a9ea-52a46b03b6c5&onlySetIndex=23
-  - type: genericiframe
-    name: 7.2 Pre-Savage Crafted Budget - 2.47
-    link: https://xivgear.app/?page=embed%7Csl%7C7c4d6aa1-9331-4ccf-a9ea-52a46b03b6c5&onlySetIndex=24
-  - type: genericiframe
-    name: 7.2 Pre-Savage Crafted Pentameld - 2.47
-    link: https://xivgear.app/?page=embed%7Csl%7C7c4d6aa1-9331-4ccf-a9ea-52a46b03b6c5&onlySetIndex=25
-  - type: genericiframe
-    name: 7.2 Pre-Savage Extra Budget - 2.46
-    link: https://xivgear.app/?page=embed%7Csl%7C7c4d6aa1-9331-4ccf-a9ea-52a46b03b6c5&onlySetIndex=27
-  - type: genericiframe
-    name: 7.2 Pre-Savage Crafted Budget - 2.46
-    link: https://xivgear.app/?page=embed%7Csl%7C7c4d6aa1-9331-4ccf-a9ea-52a46b03b6c5&onlySetIndex=28
-  - type: genericiframe
-    name: 7.2 Pre-Savage Crafted Pentameld - 2.46
-    link: https://xivgear.app/?page=embed%7Csl%7C7c4d6aa1-9331-4ccf-a9ea-52a46b03b6c5&onlySetIndex=29
-  - type: etro
     name: FRU 2.48 GCD
-    link: https://etro.gg/gearset/5caa2aa7-9a82-4fc9-8047-c4222390e891
-  - type: etro
+    link: https://xivgear.app/?page=sl%7Cd5fa9a30-2d4e-4e61-b015-25d237a616f5&onlySetIndex=1
+  - type: genericiframe
     description: ""
-    link: 5a1cd30d-5780-4319-9e07-b87a3c0727a7
-    name: TOP 2.48 GCD
+    link: https://xivgear.app/?page=sl%7Caea22869-8a2c-49bd-859a-ee3d50fa67c7&onlySetIndex=5
+    name: TOP 2.47 GCD
   - type: etro
     description: ""
     name: DSR 2.46 GCD
-    link: 5e22c7a6-03ee-411d-a2be-0023c4763bcb
+    link: 7788d3ad-ed32-4f75-8aae-13f342f13f98
   - type: etro
     description: ""
     name: DSR 2.48 GCD
-    link: https://etro.gg/gearset/310f7e40-b0c6-4ab7-924e-bce5b90aeef7
+    link: 83df1acc-0b7c-451a-9783-937da9b31e29
+  - type: xivgear
+    name: TEA 2.48 GCD
+    link: https://xivgear.app/?page=sl%7Cdb21bb1e-06c7-4d38-aa11-880e68ad168b&onlySetIndex=1
+  - type: genericiframe
+    name: UWU 2.13 GCD
+    link: https://xivgear.app/?page=sl%7C10f14646-1e57-42cb-9c2a-9e65b97a4cd0&onlySetIndex=0
+  - type: genericiframe
+    name: UCOB 2.13 GCD
+    link: https://xivgear.app/?page=sl%7C496d4c36-2628-4699-9562-380ef79b370b&onlySetIndex=0
 authors:
   - Balance-SMN-Staff
 ---
