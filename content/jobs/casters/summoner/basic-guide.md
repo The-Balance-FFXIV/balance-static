@@ -3,8 +3,8 @@ title: Summoner Basic Guide
 card_header_image: /img/jobs/smn/basic.png
 authors:
   - Balance-SMN-Staff
-patch: "7.0"
-lastmod: 2024-07-13T23:35:35.802Z
+patch: "7.3"
+lastmod: 2025-08-09T08:37:17.936Z
 changelog:
   - date: 2021-11-15T21:19:02.069Z
     message: Added page
@@ -182,6 +182,16 @@ Outside of the opener, we try to catch four Necrotizes, one demi-primal, and two
 ![](/img/jobs/smn/9.png)
 
 &nbsp;
+
+## Burst Phases
+
+Your burst is going to look nearly identical to the opener due to being on a fixed one minute loop. Ideally, Fester/Necrotize stacks have been saved during the odd-minute windows to be used under the effects of buffs in even-minute windows. Below is an example of the structure and timing of a burst window.
+
+![](https://github.com/cleonoudakis/SMN-Image-Repository/blob/main/Summoner_2-Minute_Burst.png?raw=true "summoner even minute")
+
+&nbsp;
+
+Titan first after the demi-primal phase should generally be prioritized, though other primal lines may be more optimal if conditions are known beforehand. If no potions are used, then only the first two primal abilities will be under buffs.
 
 ## Phase Transitions and Downtime
 
