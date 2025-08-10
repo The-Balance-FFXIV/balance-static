@@ -54,23 +54,23 @@ bis:
     name: 7.2 Prog Gearsets
     link: https://xivgear.app/#/bis/drk/prog
   - type: genericlink
-    name: 7.2 FRU Gearsets
+    name: FRU BiS Gearsets
     link: https://xivgear.app/#/bis/drk/ultimate/fru
   - type: genericlink
-    name: 7.2 TOP Gearsets
+    name: TOP BiS Gearsets
     link: https://xivgear.app/#/bis/drk/ultimate/top
   - type: genericlink
-    name: 7.2 DSR Gearsets
+    name: DSR BiS Gearsets
     link: https://xivgear.app/#/bis/drk/ultimate/dsr
   - type: genericlink
-    name: 7.2 TEA Gearsets
+    name: TEA BiS Gearsets
     link: https://xivgear.app/#/bis/drk/ultimate/tea
   - type: genericlink
     link: https://xivgear.app/#/bis/drk/ultimate/uwu
-    name: 7.2 UWU Gearsets
+    name: UWU BiS Gearsets
   - type: genericlink
     link: https://xivgear.app/#/bis/drk/ultimate/ucob
-    name: 7.2 UCoB Gearsets
+    name: UCoB BiS Gearsets
   - type: genericlink
     name: 7.15 BiS Gearsets
     link: https://xivgear.app/#/bis/drk/archive/7.15
