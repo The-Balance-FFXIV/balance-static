@@ -3,8 +3,8 @@ title: "Reaper Basic Guide "
 card_header_image: /img/jobs/rpr/rpr-basic.png
 authors:
   - ellunavi
-patch: "7.2"
-lastmod: 2025-03-24T21:31:44.234Z
+patch: "7.3"
+lastmod: 2025-08-10T08:25:29.009Z
 changelog:
   - date: 2022-01-02T21:17:24.172Z
     message: Created page
@@ -22,6 +22,8 @@ changelog:
     message: Updated Opener for better raid buff alignment.
   - date: 2025-03-24T21:31:23.183Z
     message: Updated to Patch 7.2.
+  - date: 2025-08-10T08:25:31.790Z
+    message: Updated to Patch 7.3.
 tags:
   - Reaper
   - guide
@@ -222,4 +224,4 @@ If you’re on a PC, and you’re okay with the morality issues of injection bas
 
 ## Next Level
 
-When you feel like you have mastered the basics of Reaper, you will want to start exploring our burst windows. I recommend heading over to the intermediate guide.
+When you feel like you have mastered the basics of Reaper, you will want to start exploring our burst windows. I recommend heading over to the I[ntermediate Guide.](https://www.thebalanceffxiv.com/jobs/melee/reaper/intermediate-guide/)
