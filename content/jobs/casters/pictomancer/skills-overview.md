@@ -3,13 +3,15 @@ title: Pictomancer Skills Overview
 authors:
   - Laille-Ormesaing
   - balance-pct-staff
-patch: "7.2"
-lastmod: 2025-03-25T02:34:32.272Z
+patch: "7.3"
+lastmod: 2025-08-10T04:47:36.904Z
 changelog:
   - date: 2024-06-21T06:39:58.289Z
     message: Added article
   - date: 2025-03-25T02:34:34.132Z
     message: Updated for patch 7.2.
+  - date: 2025-08-10T04:47:38.217Z
+    message: Updated for patch 7.3
 ---
 Please note that all values in this table are values for a level 100 Pictomancer.
 
