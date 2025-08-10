@@ -2,7 +2,7 @@
 title: White Mage Best in Slot (BiS)
 layout: bis
 patch: "7.3"
-lastmod: 2025-08-10T23:10:07.148Z
+lastmod: 2025-08-10T23:11:01.939Z
 changelog:
   - date: 2025-01-03T16:30:53.101Z
     message: Fixed the display of the embeds.
