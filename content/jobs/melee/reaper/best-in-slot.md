@@ -155,7 +155,7 @@ bis:
     name: 7.3 FRU Options
     description: Master sheet with all options including prog sets can be found
       [here.](https://xivgear.app/?page=sl%7C0467b8c4-5a7d-4c00-99fb-4e17907ea964)
-    link: https://xivgear.app/?page=embed%7Csl%7C54757f82-e836-411e-96d1-d543f6646288
+    link: https://xivgear.app/?page=embed%7Csl%7C1cf30cb3-3fb2-47b9-a500-d8b117791a8e
 authors:
   - Balance-RPR-Staff
 ---
