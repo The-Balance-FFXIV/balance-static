@@ -2,13 +2,15 @@
 title: Pictomancer Openers
 authors:
   - balance-pct-staff
-patch: "7.21"
-lastmod: 2025-05-04T03:54:01.952Z
+patch: "7.3"
+lastmod: 2025-08-10T04:39:46.725Z
 changelog:
   - date: 2024-06-23T05:35:29.142Z
     message: Added article
   - date: 2025-05-04T03:54:06.251Z
     message: Updated for patch 7.21 openers
+  - date: 2025-08-10T04:39:48.017Z
+    message: Updated for patch 7.3
 description: The Balance's openers page for Final Fantasy XIV (FF14) reviews the
   openers from our basic job guide, as well as burst setups for fights.
 ---
