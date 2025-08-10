@@ -2,7 +2,7 @@
 title: White Mage Best in Slot (BiS)
 layout: bis
 patch: "7.3"
-lastmod: 2025-08-10T23:01:19.656Z
+lastmod: 2025-08-10T23:10:07.148Z
 changelog:
   - date: 2025-01-03T16:30:53.101Z
     message: Fixed the display of the embeds.
@@ -20,12 +20,18 @@ bis:
       frequently play other healers I would recommend using their sets in place
       of WHM-specific sets.
     link: https://xivgear.app/?page=sl%7C39b0aeb3-e2b6-499c-81e1-232a56863543
-  - type: etro
-    name: FRU 2.45 with chaotic gear
-    link: https://discord.com/channels/277897135515762698/887081023370833990/1403686080972193884
-  - type: etro
-    name: fru 2.45 without chaotic gear
-    link: https://xivgear.app/?page=embed%7Csl%7C013dfc35-0844-4b67-b46e-591373e84f5a
+  - type: xivgear
+    name: FRU 2.43 with chaotic gear
+    link: https://xivgear.app/?page=embed%7Csl%7Ca1149754-8156-4dd0-abca-b89d27f5380c
+  - type: xivgear
+    name: fru 2.46 without chaotic gear
+    link: https://xivgear.app/?page=embed%7Csl%7Cb170c30d-ac07-43dd-afc7-fc87ec0195d8
+  - type: xivgear
+    name: fru 2.48 relic with chaotic
+    link: https://xivgear.app/?page=embed%7Csl%7C3ac6a52a-784a-4415-bace-d83715cd2f31
+  - type: xivgear
+    name: fru 2.46 relic without chaotic
+    link: https://xivgear.app/?page=embed%7Csl%7Cee2b1ca0-f226-4bb8-82c8-39d9fdad646a
 authors:
   - Balance-WHM-Staff
 ---
