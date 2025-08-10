@@ -37,10 +37,10 @@ bis:
       Gloves > Ear > Wrist > Head > Pants > Ring
 
       Swap from Mollete to Mate Cookie after getting the Tome Head.
-  - type: etro
+  - type: xivgear
     name: "fru 2.45 with chaotic "
     link: https://xivgear.app/?page=embed%7Csl%7C326bbcc1-6390-484e-91a7-c608eeba192e
-  - type: etro
+  - type: xivgear
     name: fru 2.45 without chaotic
     link: https://xivgear.app/?page=embed%7Csl%7Cf5d6235f-4517-4328-9cb5-370d9d3c931f
 authors:
