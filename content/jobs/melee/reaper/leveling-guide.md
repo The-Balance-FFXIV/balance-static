@@ -3,8 +3,8 @@ title: Reaper Leveling Guide
 card_header_image: /img/jobs/rpr/rpr-leveling.png
 authors:
   - Balance-RPR-Staff
-patch: "7.2"
-lastmod: 2025-03-24T21:30:44.092Z
+patch: "7.3"
+lastmod: 2025-08-10T08:23:29.973Z
 changelog:
   - date: 2022-09-13T13:43:48.819Z
     message: Updated patch number
@@ -18,6 +18,8 @@ changelog:
     message: Updated for Dawntrail.
   - date: 2025-03-24T21:30:55.670Z
     message: Updated to patch 7.2.
+  - date: 2025-08-10T08:23:19.084Z
+    message: Updated to Patch 7.3.
 tags:
   - Reaper
   - guide
@@ -307,7 +309,7 @@ That’s it! You made it to level 100. I hope this leveling guide helped you eas
 * Always ensure that at least one charge of Soul Slice is on cooldown. Remember that it gives 50 soul so make sure you use at or below 50 Soul gauge.
 * Enshroud when at 50 shroud gauge.
 * * Your Enshroud rotation should look like this:
-  * * Void Reaping → Cross Reaping → Lemure's Slice → Void Reaping → Cross Reaping → Lemure's Slice → Communio
+  * * Void Reaping → Cross Reaping → Lemure's Slice → Void Reaping → Sacrificium → Cross Reaping → Lemure's Slice → Communio
     * The ability you start on doesn’t matter just make sure you alternate.
 * Unveiled Action when at 50 or more Soul
 * Harvest Moon if boss is about die, become untargetable or is out of range of a normal attack.
