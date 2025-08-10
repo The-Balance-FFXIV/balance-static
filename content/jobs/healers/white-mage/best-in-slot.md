@@ -32,10 +32,10 @@ bis:
   - type: xivgear
     name: fru 2.46 relic without chaotic
     link: https://xivgear.app/?page=embed%7Csl%7Cee2b1ca0-f226-4bb8-82c8-39d9fdad646a
-  - type: plain-text
+  - type: genericlink
     name: fru extra sets
-    link: ""
-    description: https://xivgear.app/?page=embed%7Csl%7Cee2b1ca0-f226-4bb8-82c8-39d9fdad646a
+    link: https://xivgear.app/?page=sl%7Cfa2d771d-3d1a-4aa9-8194-974271c58105
+    description: ""
 authors:
   - Balance-WHM-Staff
 ---
