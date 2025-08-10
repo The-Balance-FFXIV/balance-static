@@ -34,7 +34,8 @@ bis:
     link: https://xivgear.app/?page=embed%7Csl%7Cee2b1ca0-f226-4bb8-82c8-39d9fdad646a
   - type: plain-text
     name: fru extra sets
-    link: https://xivgear.app/?page=embed%7Csl%7Cee2b1ca0-f226-4bb8-82c8-39d9fdad646a
+    link: ""
+    description: https://xivgear.app/?page=embed%7Csl%7Cee2b1ca0-f226-4bb8-82c8-39d9fdad646a
 authors:
   - Balance-WHM-Staff
 ---
