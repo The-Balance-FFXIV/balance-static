@@ -36,9 +36,9 @@ bis:
       for more prog set options.
   - type: xivgear
     name: VPR FRU BiS (See description for prog sets)
-    link: https://xivgear.app/?page=embed%7Csl%7C2434874a-40e8-4508-aa02-df5d609dac28
+    link: https://xivgear.app/?page=sl%7Cc7a61277-05b1-45bd-93a1-fc559f2b69fe
     description: 7.3 Master Sheet for all FRU sets including prog sets can be found
-      [here.](https://xivgear.app/?page=sl%7C0467b8c4-5a7d-4c00-99fb-4e17907ea964)
+      [here](https://xivgear.app/?page=sl%7Cce9f489d-413f-41c7-b6ee-72f9a20992fd).
   - type: xivgear
     link: https://xivgear.app/?page=embed|sl|56ae8077-eb7b-4b5d-a310-95cbd584f2a0
     name: Viper TOP BiS
