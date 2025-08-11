@@ -31,9 +31,13 @@ changelog:
 bis:
   - type: xivgear
     name: 7.3 FRU BiS
-    link: https://xivgear.app/?page=sl%7C5ff3583f-d784-4249-9e6d-2819e5e7b35f
-    description: Only the set with the FRU weapon and Clouddark chestpiece have
-      accessory melds compatible with the other aiming classes.
+    link: https://xivgear.app/?page=sl%7C5127f483-ab81-4073-a7b9-b84ee0109010
+    description: >-
+      Only the set with the FRU weapon and Clouddark chestpiece have accessory
+      melds compatible with the other aiming classes.
+
+
+      Master sheet containing all 7.3 FRU sets can be found [here](https://xivgear.app/?page=sl%7C5ff3583f-d784-4249-9e6d-2819e5e7b35f).
   - type: xivgear
     name: 7.2 Savage BiS
     link: https://xivgear.app/?page=embed|sl|6df7a6e2-c631-4b1d-a955-4db8cdd2a8e5&onlySetIndex=0
