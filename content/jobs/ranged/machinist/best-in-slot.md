@@ -31,6 +31,9 @@ bis:
 
 
       Ultimate Weapon > Relic > Savage
+
+
+      Master sheet with all options can be found [here](https://xivgear.app/?page=sl%7C29b58122-8c79-4c92-8569-2aac404fe861). 
   - type: etro
     description: Highest DPS, abuses 6.5 dungeon gear and the 645 relic weapon.
     name: TOP Best-in-Slot 2.5 GCD
