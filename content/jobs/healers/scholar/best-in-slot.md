@@ -2,7 +2,7 @@
 title: Scholar Best in Slot (BiS)
 layout: bis
 patch: "7.3"
-lastmod: 2025-08-07T03:53:20.938Z
+lastmod: 2025-08-12T00:30:15.396Z
 changelog:
   - date: 2025-03-30T20:19:43.416Z
     message: added 7.2 savage sets
@@ -14,6 +14,8 @@ changelog:
     message: updated sets
   - date: 2025-08-07T04:10:29.350Z
     message: updated fru set
+  - date: 2025-08-12T00:30:06.371Z
+    message: updated fru set to be slightly better
 bis:
   - type: plain-text
     name: Information
@@ -107,13 +109,16 @@ bis:
     link: https://xivgear.app/?page=bis|sch|endwalker|anabaseios
   - type: xivgear
     name: FRU 2.4
-    link: https://xivgear.app/?page=embed%7Csl%7C32a4ef4b-1169-438d-bcad-b01b3eb6fe4c
+    link: https://xivgear.app/?page=embed%7Csl%7Cacaa72cf-882b-4817-a211-267ce2268c1b
+    description: Add DH meld with FRU weapon
   - type: xivgear
     name: FRU 2.31
-    link: https://xivgear.app/?page=embed%7Csl%7C0462c0f5-6874-4f9d-a426-c36103a267a3
+    link: https://xivgear.app/?page=embed%7Csl%7Cf75bb841-703e-4ab3-a3df-5271ff54a8c8
+    description: Add Crit meld with FRU weapon
   - type: etro
     name: FRU 2.40 no chaotic
-    link: https://xivgear.app/?page=embed%7Csl%7Cf8928ad3-83c3-4287-8cf4-7e619f572cbf
+    link: https://xivgear.app/?page=embed%7Csl%7C1815c016-7d85-40dd-a860-6c3abfb12567
+    description: Add DH meld with FRU weapon
 authors:
   - Balance-SCH-Staff
 tags:
