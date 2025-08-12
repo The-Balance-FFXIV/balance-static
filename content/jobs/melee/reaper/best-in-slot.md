@@ -2,7 +2,7 @@
 title: Reaper Best-in-Slot
 layout: bis
 patch: "7.3"
-lastmod: 2025-08-07T03:15:09.132Z
+lastmod: 2025-08-12T22:40:13.423Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
     message: Created page
@@ -32,6 +32,8 @@ changelog:
     message: Updated sets for 7.2
   - date: 2025-08-07T03:15:14.811Z
     message: Added 7.3 FRU Options
+  - date: 2025-08-12T22:40:16.467Z
+    message: Fixed incorrect link to FRU gear master set.
 bis:
   - type: etro
     name: 7.2 2.49 Savage BiS
@@ -154,7 +156,7 @@ bis:
   - type: xivgear
     name: 7.3 FRU Options
     description: Master sheet with all options including prog sets can be found
-      [here.](https://xivgear.app/?page=sl%7C0467b8c4-5a7d-4c00-99fb-4e17907ea964)
+      [here.](https://xivgear.app/?page=sl%7Cdc68daa3-654d-4b00-9e48-d090237f1307)
     link: https://xivgear.app/?page=embed%7Csl%7C1cf30cb3-3fb2-47b9-a500-d8b117791a8e
 authors:
   - Balance-RPR-Staff
