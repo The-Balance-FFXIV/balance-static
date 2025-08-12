@@ -28,9 +28,15 @@ bis:
   - type: etro
     name: 7.2 (Week 1) 2.5 GCD
     link: https://etro.gg/gearset/7b6376a5-5383-4260-96d5-6a0359837891
-  - type: etro
-    name: 7.3 Ultimate Weapon Best-in-Slot 2.5 GCD
-    link: https://etro.gg/gearset/1601305e-19ea-4037-911c-14eb7c11a18a
+  - type: xivgear
+    name: 7.3 Best-in-Slot 2.5 GCD
+    link: https://xivgear.app/?page=sl%7C43efa18c-a85c-4bca-ada3-8c34ec4d305b
+    description: >-
+      Relic is better than Savage Weapon, dmg/100p is not an accurate stat for
+      machinist.
+
+
+      Ultimate Weapon > Relic > Savage
   - type: etro
     description: Highest DPS, abuses 6.5 dungeon gear and the 645 relic weapon.
     name: TOP Best-in-Slot 2.5 GCD
