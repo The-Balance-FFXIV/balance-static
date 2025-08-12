@@ -22,18 +22,12 @@ bis:
   - type: etro
     name: 7.2 Best-in-Slot 2.5 GCD
     link: https://etro.gg/gearset/77e7913d-3fab-47af-b1ad-e148ca4da205
-  - type: etro
-    name: "7.2 (Week 1: 900 Tomes) 2.5 GCD"
-    link: https://etro.gg/gearset/857a4c20-1d70-4420-b182-2de512214dd9
-  - type: etro
-    name: 7.2 (Week 1) 2.5 GCD
-    link: https://etro.gg/gearset/7b6376a5-5383-4260-96d5-6a0359837891
   - type: xivgear
-    name: 7.3 Best-in-Slot 2.5 GCD
-    link: https://xivgear.app/?page=sl%7C43efa18c-a85c-4bca-ada3-8c34ec4d305b
+    name: FRU Best-in-Slot 2.5 GCD
+    link: https://xivgear.app/?page=embed%7Csl%7C70a7b7f6-f09d-40f0-be34-ee7a27db22fa
     description: >-
       Relic is better than Savage Weapon, dmg/100p is not an accurate stat for
-      machinist.
+      machinist. 
 
 
       Ultimate Weapon > Relic > Savage
