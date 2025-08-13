@@ -66,7 +66,7 @@ Unlocks **Gnashing Fang** and **Continuation**.</br>
 - Stop using **Gnashing Fang** at 6 targets at level 70.
 - Same rules regarding **Demon Slaughter**, **Burst Strike**, and **Sonic Break**.
 
-### __Levels 72-83__
+### __Levels 72-93__
 Unlocks **Fated Circle** and **Bloodfest**.</br>
 </br> **Bloodfest** should only be used when the gauge is empty. **Bloodfest** is typically used inside **No Mercy**.
 - Use **Demon Slaughter** combo at 2+ targets.
@@ -74,13 +74,13 @@ Unlocks **Fated Circle** and **Bloodfest**.</br>
 - Stop using **Gnashing Fang** at 4 targets.
 - Stop using **Sonic Break*** at 5 targets.
 
-### __Levels 84-100__
+### __Levels 94-100__
 Unlocks multiple potency-modifying traits, **Hypervelocity**, **Double Down**, **Fated Brand**, and **Reign of Beasts**.</br>
 </br> **Double Down** and **Reign of Beasts** should always be used within **No Mercy** both as part of your single-target and multi-target rotation. This completes your single-target burst phase with **Gnashing Fang**, **Double Down**, **Reign of Beasts**, and **Sonic Break**, which leads to interesting optimization at level 100 due to **Fated Circle** becoming more powerful than **Gnashing Fang** and **Sonic Break** within **No Mercy** beyond 2 and 3 targets respectively.
 - Prioritize **Double Down** when it unlocks.
 - Prioritize **Reign of Beasts** when it unlocks.
 - Use **Demon Slaughter** combo at 3+ targets.
-- Use **Fated Circle** at 2+ targets.
+- Use **Fated Circle** at 2+ targets. (3+ until 96, due to **Fated Brand** and **Melee Mastery 2**).
 - Same rules regarding **Gnashing Fang** and **Sonic Break***.
   - At level 100 and 2 targets, it can potentially be a gain while **No Mercy** is active to hold **Gnashing Fang** and replace it with 3 **Fated Circle** casts if you will have **Bloodfest**.
   - At level 100 and 3 targets, the same is true for **Sonic Break**.
