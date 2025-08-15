@@ -1,7 +1,7 @@
 ---
 title: Ninja Best in Slot (BiS)
 layout: bis
-patch: "7.2"
+patch: "7.3"
 lastmod: 2025-03-30T20:23:39.945Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
@@ -26,7 +26,18 @@ changelog:
     message: Updated for Dawntrail
   - date: 2025-03-30T20:23:23.765Z
     message: Updated for 7.2
+  - date: 2025-08-11T00:52:01.985Z
+    message: Updated FRU BiS for 7.3
 bis:
+  - type: xivgear
+    name: 7.3 FRU BiS
+    link: https://xivgear.app/?page=embed%7Csl%7Cd3479b42-1d9f-4ed2-b003-f3b5f3059f01
+    description: >-
+      Only the set with the FRU weapon and Clouddark chestpiece have accessory
+      melds compatible with the other aiming classes.
+
+
+      Master sheet containing all 7.3 FRU sets can be found [here](https://xivgear.app/?page=sl%7C5ff3583f-d784-4249-9e6d-2819e5e7b35f).
   - type: xivgear
     name: 7.2 Savage BiS
     link: https://xivgear.app/?page=embed|sl|6df7a6e2-c631-4b1d-a955-4db8cdd2a8e5&onlySetIndex=0
@@ -46,11 +57,6 @@ bis:
     description: Click
       [here](https://xivgear.app/?page=sl%7C04b2cf0b-aec0-4e75-b0dd-4f8e843ccef4)
       for the full set of prog set options.
-  - type: xivgear
-    name: 7.2 FRU BiS
-    link: https://xivgear.app/?page=embed|sl|5cdf3514-c371-4a7f-a661-833d886f8fda&onlySetIndex=0
-    description: You can replace the CAR gloves with Darkhorse gloves but only if
-      you also replace the Darkhorse boots with CAR boots.
   - type: etro
     description: The i665 relic weapon can be substituted for the i645 relic.
     name: 6.55 TOP BIS
