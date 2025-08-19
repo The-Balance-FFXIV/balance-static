@@ -21,22 +21,22 @@ changelog:
   - date: 2025-03-25T00:49:52.401Z
     message: Updated with 7.2 prog and BiS sets including FRU and legacy Ultimates
 bis:
-  - type: genericiframe
+  - type: xivgear
     name: 7.2 RDM BiS - 2.5 GCD
     link: https://xivgear.app/?page=embed%7Csl%7C367624f7-989b-439b-aa04-daf7bdab2379
     description: Highest crit tiering, but might cause drifting issues with Embolden.
-  - type: genericiframe
+  - type: xivgear
     name: 7.2 RDM BiS - 2.49 GCD
     link: https://xivgear.app/?page=embed%7Csl%7Cdf75b524-2628-443e-b95d-18363f2a5e3d
     description: Better oGCD alignment with Fleche and Contre Sixte.
-  - type: genericiframe
+  - type: xivgear
     name: 7.2 RDM BiS - 2.48 GCD
     link: https://xivgear.app/?page=embed%7Csl%7C06962c3f-362b-45f6-b7cf-10a02a4a24ec
     description: Easier two-minute burst window.
-  - type: genericiframe
+  - type: xivgear
     name: 7.2 RDM Week 1 Savage Set
     link: https://xivgear.app/?page=embed%7Csl%7C5b0601d2-46f6-45e3-9e22-303d2fecd6a3
-  - type: genericiframe
+  - type: xivgear
     name: 7.2 RDM FRU BiS
     link: https://xivgear.app/?page=embed%7Csl%7C08dd91db-2932-4c14-bcab-e50936b7d407&onlySetIndex=3
       https://xivgear.app/?page=embed%7Csl%7C08dd91db-2932-4c14-bcab-e50936b7d407&onlySetIndex=4
@@ -46,7 +46,7 @@ bis:
       https://xivgear.app/?page=embed%7Csl%7C08dd91db-2932-4c14-bcab-e50936b7d407&onlySetIndex=10
     description: Click the hyperlink at the top of the set to view a full composite
       sheet containing 2.48, 2.49 and i730 Savage weapon options.
-  - type: genericiframe
+  - type: xivgear
     name: 7.2 RDM Legacy Ultimates BiS
     link: https://xivgear.app/?page=embed%7Csl%7C405899e6-a9dd-44d5-a355-0004dd1b5142&onlySetIndex=0
       https://xivgear.app/?page=embed%7Csl%7C405899e6-a9dd-44d5-a355-0004dd1b5142&onlySetIndex=1
