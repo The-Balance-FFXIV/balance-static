@@ -23,15 +23,15 @@ changelog:
   - date: 2025-03-30T20:25:39.239Z
     message: Adding BiS and Prog Sets
 bis:
-  - type: genericiframe
+  - type: xivgear
     name: 2.17 High SpS BiS
     link: https://xivgear.app/?page=embed%7Csl%7C6e09949e-19f2-47b4-b711-242cef40faaa&onlySetIndex=0
     description: Top simming set.
-  - type: genericiframe
+  - type: xivgear
     description: 99.08% of best.
     link: https://xivgear.app/?page=embed%7Csl%7C6e09949e-19f2-47b4-b711-242cef40faaa&onlySetIndex=3
     name: 2.36 High Crit BiS
-  - type: genericiframe
+  - type: xivgear
     link: https://xivgear.app/?page=embed%7Csl%7C6e09949e-19f2-47b4-b711-242cef40faaa&onlySetIndex=6
     name: 2.43 High Crit Omnicaster Compatible BiS
     description: >-
@@ -43,28 +43,28 @@ bis:
     name: Alternative BiS sets
     link: https://xivgear.app/?page=sl%7C1b0a12b5-b9b4-409d-83b4-a790f2f27f67
     description: Hosts alternative BiS sets at various other GCDs.
-  - type: genericiframe
+  - type: xivgear
     name: Prog, Pentamelded Crafted with EX Weapon
     link: https://xivgear.app/?page=embed%7Csl%7C2abbc24f-b704-41ff-8f73-fc3c61c9ece3&onlySetIndex=0
-  - type: genericiframe
+  - type: xivgear
     name: Prog, Pentamelded Crafted with Tome Chest and EX Weapon
     link: https://xivgear.app/?page=embed%7Csl%7Cb0e978a2-93d2-4ed7-a6a2-e007d04889fd&onlySetIndex=0
-  - type: genericlink
+  - type: xivgear
     name: Prog, Pentamelded Crafted with Tome Pants and EX Weapon
     link: https://xivgear.app/?page=embed%7Csl%7Ce5f06855-7826-456c-911c-3ba7a14f5443&onlySetIndex=0
-  - type: genericiframe
+  - type: xivgear
     name: Prog, Ornate Crafted with Tome Pants and EX Weapon
     link: https://xivgear.app/?page=embed%7Csl%7C22c7fb83-1d90-41f8-ab77-491731c728e1&onlySetIndex=0
-  - type: genericiframe
+  - type: xivgear
     name: Prog, Pentamelded Crafted with Tome Hands & Neck and EX Weapon
     link: https://xivgear.app/?page=embed%7Csl%7C03ce07df-7356-4e18-8722-35d5c6d99a54&onlySetIndex=0
-  - type: genericiframe
+  - type: xivgear
     name: Prog, Budget Crafted with Tome Chest and EX Weapon
     link: https://xivgear.app/?page=embed%7Csl%7C8282a91f-1435-4b32-abf9-713cf5ae08c2&onlySetIndex=0
-  - type: genericiframe
+  - type: xivgear
     name: Prog, Budget Crafted with Tome Legs and EX Weapon
     link: https://xivgear.app/?page=embed%7Csl%7C761b2f98-283c-4718-ae1a-5826611e8921&onlySetIndex=0
-  - type: genericiframe
+  - type: xivgear
     name: Prog, Budget Crafted with EX Weapon
     link: https://xivgear.app/?page=embed%7Csl%7Cb6b05def-4e7f-436a-9283-a70fb697702e&onlySetIndex=0
   - type: gsheets
