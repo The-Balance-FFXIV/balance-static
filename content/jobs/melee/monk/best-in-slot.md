@@ -19,23 +19,23 @@ changelog:
   - date: 2025-06-30T15:10:47.538Z
     message: Updated Ultimate and Other Content Doc
 bis:
-  - type: genericiframe
+  - type: xivgear
     description: ""
     name: 1.94 Savage BiS
     link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=1
-  - type: genericiframe
+  - type: xivgear
     description: ""
     name: 1.94 Week 1, Ornate + Pentameld + Tome Pants
     link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=3
-  - type: genericiframe
+  - type: xivgear
     description: ""
     name: 1.94 Week 1, Pentameld + Tome Pants
     link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=5
-  - type: genericiframe
+  - type: xivgear
     description: ""
     name: 1.94 Week 1, Pentameld + Ex Weapon
     link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=9
-  - type: genericiframe
+  - type: xivgear
     description: ""
     name: 1.94 Week 1, Pentameld Only
     link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=11
