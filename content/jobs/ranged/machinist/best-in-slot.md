@@ -38,17 +38,15 @@ bis:
     description: Highest DPS, abuses 6.5 dungeon gear and the 645 relic weapon.
     name: TOP Best-in-Slot 2.5 GCD
     link: https://etro.gg/gearset/179676c8-dbb8-4a8b-990e-5e7fbc3b6df6
-  - type: etro
-    description: The BiS for Dragonsong's Reprise in Patch 6.45 using the Relic
-      weapon. Relic weapon is the best available weapon for DSR. Alternatives
-      are weapons from P4S, DSR, and the previous relic weapon steps from EW.
+  - type: xivgear
+    description: Relic is 665/645 Manderville. Prio is CRIT + DET > DH. Left side
+      and ring can be used with any 725+ pieces, as long as they share the same
+      main stats as those listed (Chest + Legs are CRIT/DH and rest are
+      CRIT/DET).
     name: Dragonsong's Reprise Best-in-Slot 2.5 GCD
-    link: https://etro.gg/gearset/d1da395d-a29a-4bbc-9d5f-99042d6e99af
+    link: https://xivgear.app/?page=sl|ab4afc07-902b-4a60-90ac-9924cd74397e
 authors:
-  - dook
-  - Laille-Ormesaing
-  - hint
-  - juliacare
+  - Balance-MCH-Staff
 tags:
   - Machinist
   - MCH
