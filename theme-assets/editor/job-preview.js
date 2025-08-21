@@ -22,19 +22,13 @@ const renderBisList = function (bis) {
     "div", {}, bisList.map(function (bis, indexer) {
         const name = h("h2", {}, bis.name);
         const type = bis.type;
+        const link = bis.link;
         const description = h("p", {}, bis.description);
-        
-        let link = bis.link;
-        const etroLink = link.match(/etro.gg\/gearset\/([A-Za-z0-9-]+)(?:[?#]|$)/i);
-          if (type === "etro" && etroLink) {
-            link = etroLink[1];
-          }
-
         const bisFrame =
-          type != "plain-text"
+          type != "plaintext"
             ? h("div", { class: "h-96" }, h("iframe", {
-                src:
-                  type === "etro" ? `https://etro.gg/embed/gearset/${link}` :
+                src: 
+                  type === "etro" ? `https://etro.gg/embed/gearset/${link}` : 
                   link,
                 class: "w-full h-full",
               }))
