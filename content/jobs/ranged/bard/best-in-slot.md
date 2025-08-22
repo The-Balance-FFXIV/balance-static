@@ -28,13 +28,13 @@ changelog:
   - date: 2025-08-06T04:21:27.655Z
     message: Updated FRU set with 7.3 dungeon gear
 bis:
-  - type: genericiframe
+  - type: xivgear
     name: i760 Best-in-Slot
     link: https://xivgear.app/?page=embed%7Csl%7C1b4c166c-008f-4cb9-b919-8c77dead4805
     description: You can swap the Skill Speed materia for a Direct Hit if you want
       to play at 2.50. Similarly, swap a second Direct Hit for a Skill Speed if
       you'd like to run 2.48.
-  - type: genericiframe
+  - type: xivgear
     name: Futures Rewritten Best-in-Slot (2.49)
     link: https://xivgear.app/?page=embed%7Csl%7C3ad7746a-b612-4b34-9d24-a0f8ae20c857
     description: >-
