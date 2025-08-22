@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Warrior on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/</link><description>Recent content in Warrior on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 28 May 2025 12:10:03 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/warrior/index.xml" rel="self" type="application/rss+xml"/><item><title>Warrior Intermediate Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/intermediate-guide/</link><pubDate>Wed, 28 May 2025 12:10:03 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/intermediate-guide/</guid><description>&lt;h2 id="the-optimization">The Optimization&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Warrior on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/</link><description>Recent content in Warrior on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 22 Aug 2025 01:29:34 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/warrior/index.xml" rel="self" type="application/rss+xml"/><item><title>Warrior Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/best-in-slot/</link><pubDate>Fri, 22 Aug 2025 01:29:34 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/best-in-slot/</guid><description/></item><item><title>Warrior Intermediate Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/intermediate-guide/</link><pubDate>Wed, 28 May 2025 12:10:03 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/intermediate-guide/</guid><description>&lt;h2 id="the-optimization">The Optimization&lt;/h2>
 &lt;p>Warrior Optimization focuses on manipulating the Surging Tempest buff refreshes, and “Carrying buffs” such as Nascent Chaos, Primal Rend Ready and Primal Ruination Ready.&lt;/p>
 &lt;p>There’s the case of pushing out “3 IC Pot” and &amp;ldquo;2 Ruin Pot&amp;rdquo; windows and other rotational niches, but also disrespecting various mechanics by zeroing out the damage, or canceling a knockback with our Onslaught. Also, if you want a high percentile in FFLogs, you&amp;rsquo;re at the mercy of a good kill time and Crit RNG. Bosses dying right after an entire Inner Release + resource burn window? That&amp;rsquo;s a nice percentile.&lt;/p></description></item><item><title>Warrior Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/openers/</link><pubDate>Mon, 26 May 2025 18:00:59 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/openers/</guid><description>&lt;h1 id="warrior-openers-and-rotation">Warrior Openers and Rotation&lt;/h1>
 &lt;p>Warriors prepare their burst while waiting for the party buffs to appear.&lt;br>
@@ -9,7 +9,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
 &lt;li>Tomahawk starts at -0.70s and the pull starts at 0.00s&lt;/li>
 &lt;li>Party buffs are expected to be up at around 7.80s, right when the first Inner Chaos goes out.&lt;/li>
 &lt;/ul>
-&lt;p>Skill Speed requirements&lt;/p></description></item><item><title>Warrior Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/best-in-slot/</link><pubDate>Wed, 09 Apr 2025 00:07:38 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/best-in-slot/</guid><description/></item><item><title>Warrior Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/advanced-guide/</link><pubDate>Thu, 03 Apr 2025 22:37:53 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/advanced-guide/</guid><description>&lt;h2 id="google-doc">Google Doc&lt;/h2>
+&lt;p>Skill Speed requirements&lt;/p></description></item><item><title>Warrior Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/advanced-guide/</link><pubDate>Thu, 03 Apr 2025 22:37:53 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/advanced-guide/</guid><description>&lt;h2 id="google-doc">Google Doc&lt;/h2>
 &lt;p>The top end of Warrior Optimization is in the advanced gdoc, linked &lt;a href="https://docs.google.com/document/d/1c9Ck_Vz0jGmQT4XGgO5zNhkh0BOL_NHiPdccVgqnVxs">HERE&lt;/a>.&lt;/p></description></item><item><title>Warrior Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/leveling-guide/</link><pubDate>Thu, 03 Apr 2025 22:35:52 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/leveling-guide/</guid><description>&lt;p>Henlo team!&lt;/p>
 &lt;p>We heard you needed some pointers on how to play WAR while leveling. The splits below are done based on what skills you unlock, and what you should take into account.&lt;/p>
 &lt;ul>
@@ -66,7 +66,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[187 483 43 212 188 65]" src="https://xivapi.com/i/000000/000260_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[311 491 254 422 134 128]" src="https://xivapi.com/i/000000/000260_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heavy Swing&lt;/td>
@@ -79,7 +79,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[160 114 378 99 63 371]" src="https://xivapi.com/i/000000/000255_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[113 428 258 216 355 311]" src="https://xivapi.com/i/000000/000255_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Maim&lt;/td>
@@ -92,7 +92,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[72 245 390 371 61 497]" src="https://xivapi.com/i/002000/002551_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[497 311 48 129 389 44]" src="https://xivapi.com/i/002000/002551_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Defiance&lt;/td>
@@ -105,7 +105,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[224 97 303 401 476 375]" src="https://xivapi.com/i/000000/000261_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[26 315 411 492 410 415]" src="https://xivapi.com/i/000000/000261_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tomahawk&lt;/td>
@@ -118,7 +118,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[130 88 398 8 196 357]" src="https://xivapi.com/i/000000/000258_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[225 334 301 298 380 105]" src="https://xivapi.com/i/000000/000258_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Storm&amp;rsquo;s Path&lt;/td>
@@ -131,7 +131,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[191 89 499 469 294 498]" src="https://xivapi.com/i/000000/000264_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[374 221 185 343 255 57]" src="https://xivapi.com/i/000000/000264_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Storm&amp;rsquo;s Eye&lt;/td>
@@ -144,7 +144,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[420 184 473 484 353 441]" src="https://xivapi.com/i/002000/002555_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[218 186 178 202 54 302]" src="https://xivapi.com/i/002000/002555_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Infuriate&lt;/td>
@@ -157,7 +157,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[115 310 87 452 394 364]" src="https://xivapi.com/i/002000/002557_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[61 46 258 388 489 90]" src="https://xivapi.com/i/002000/002557_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fell Cleave&lt;/td>
@@ -170,7 +170,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[184 435 481 97 80 174]" src="https://xivapi.com/i/002000/002561_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[9 167 197 242 54 152]" src="https://xivapi.com/i/002000/002561_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Onslaught&lt;/td>
@@ -183,7 +183,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[110 298 473 384 421 321]" src="https://xivapi.com/i/002000/002562_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[382 114 57 435 243 395]" src="https://xivapi.com/i/002000/002562_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Upheaval&lt;/td>
@@ -196,7 +196,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[349 396 408 252 101 490]" src="https://xivapi.com/i/002000/002564_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[453 498 8 470 18 1]" src="https://xivapi.com/i/002000/002564_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Inner Release&lt;/td>
@@ -209,7 +209,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[152 265 323 43 376 171]" src="https://xivapi.com/i/002000/002568_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[185 462 13 11 80 411]" src="https://xivapi.com/i/002000/002568_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Inner Chaos&lt;/td>
@@ -222,7 +222,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[436 344 126 134 414 339]" src="https://xivapi.com/i/002000/002571_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[244 237 428 247 68 268]" src="https://xivapi.com/i/002000/002571_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Primal Rend&lt;/td>
@@ -235,7 +235,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[91 307 198 136 79 105]" src="https://xivapi.com/i/002000/002574_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[318 383 53 424 193 92]" src="https://xivapi.com/i/002000/002574_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Primal Wrath&lt;/td>
@@ -248,7 +248,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[283 221 451 18 482 296]" src="https://xivapi.com/i/002000/002050_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[91 354 358 102 464 292]" src="https://xivapi.com/i/002000/002050_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Primal Ruination&lt;/td>
@@ -277,7 +277,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[431 332 173 272 20 153]" src="https://xivapi.com/i/000000/000254_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[41 451 353 221 493 402]" src="https://xivapi.com/i/000000/000254_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Overpower&lt;/td>
@@ -290,7 +290,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[180 462 282 8 261 407]" src="https://xivapi.com/i/002000/002565_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[85 191 440 298 356 436]" src="https://xivapi.com/i/002000/002565_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Mythril Tempest&lt;/td>
@@ -303,7 +303,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[3 441 78 235 40 498]" src="https://xivapi.com/i/002000/002558_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[301 45 437 495 279 270]" src="https://xivapi.com/i/002000/002558_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Decimate&lt;/td>
@@ -316,7 +316,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[146 482 382 418 426 462]" src="https://xivapi.com/i/002000/002566_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[492 321 66 252 498 79]" src="https://xivapi.com/i/002000/002566_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chaotic Cyclone&lt;/td>
@@ -329,7 +329,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[285 355 152 31 185 146]" src="https://xivapi.com/i/002000/002570_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[284 119 313 32 232 84]" src="https://xivapi.com/i/002000/002570_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Orogeny&lt;/td>
@@ -358,7 +358,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[320 354 356 493 243 191]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[99 268 15 56 43 5]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Rampart&lt;/td>
@@ -371,7 +371,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[478 54 341 463 56 200]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[283 265 52 221 269 48]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reprisal&lt;/td>
@@ -384,7 +384,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[98 375 348 90 409 354]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[170 249 307 76 434 59]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -397,7 +397,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[448 184 254 380 478 347]" src="https://xivapi.com/i/000000/000263_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[354 96 10 355 396 369]" src="https://xivapi.com/i/000000/000263_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Thrill of Battle&lt;/td>
@@ -410,7 +410,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[282 323 151 330 449 170]" src="https://xivapi.com/i/000000/000267_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[59 104 164 313 195 263]" src="https://xivapi.com/i/000000/000267_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Vengeance&lt;/td>
@@ -423,7 +423,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[69 461 196 482 463 350]" src="https://xivapi.com/i/000000/000266_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[414 492 51 299 323 20]" src="https://xivapi.com/i/000000/000266_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Holmgang&lt;/td>
@@ -436,7 +436,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[301 119 15 37 55 269]" src="https://xivapi.com/i/002000/002560_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[50 103 291 104 306 106]" src="https://xivapi.com/i/002000/002560_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Equilibrium&lt;/td>
@@ -449,7 +449,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[386 71 285 309 139 253]" src="https://xivapi.com/i/002000/002563_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[199 288 193 34 48 448]" src="https://xivapi.com/i/002000/002563_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shake It Off&lt;/td>
@@ -462,7 +462,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[429 279 80 302 400 112]" src="https://xivapi.com/i/002000/002567_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[404 246 79 366 492 280]" src="https://xivapi.com/i/002000/002567_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Nascent Flash&lt;/td>
@@ -475,7 +475,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[413 494 36 338 25 64]" src="https://xivapi.com/i/002000/002569_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[271 289 9 97 254 54]" src="https://xivapi.com/i/002000/002569_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodwhetting&lt;/td>
@@ -488,7 +488,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[79 3 104 51 231 423]" src="https://xivapi.com/i/002000/002573_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[246 488 57 142 242 391]" src="https://xivapi.com/i/002000/002573_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Damnation&lt;/td>
@@ -517,7 +517,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[169 139 326 198 49 184]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[201 498 496 26 193 325]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Low Blow&lt;/td>
@@ -530,7 +530,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[95 350 191 22 81 426]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[32 35 449 457 287 295]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Provoke&lt;/td>
@@ -543,7 +543,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[183 9 294 12 498 391]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[456 450 460 353 233 7]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Interject&lt;/td>
@@ -556,7 +556,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[312 128 130 324 66 124]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[280 385 451 462 84 445]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shirk&lt;/td>
