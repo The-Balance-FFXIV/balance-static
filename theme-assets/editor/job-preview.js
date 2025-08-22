@@ -22,17 +22,36 @@ const renderBisList = function (bis) {
     "div", {}, bisList.map(function (bis, indexer) {
         const name = h("h2", {}, bis.name);
         const type = bis.type;
-        const link = bis.link;
         const description = h("p", {}, bis.description);
-        const bisFrame =
-          type != "plaintext"
-            ? h("div", { class: "h-96" }, h("iframe", {
-                src: 
-                  type === "etro" ? `https://etro.gg/embed/gearset/${link}` : 
-                  link,
-                class: "w-full h-full",
-              }))
-              : link;
+        let link = bis.link;
+        
+        // Normalize links where applicable
+        switch(type) {
+          case "etro":
+            const etroLink = link.match(/\/gearset\/([A-Za-z0-9-]+)(?:[?#]|$)/i);
+            if(etroLink) {
+              link = etroLink[1]
+            }
+            // Make etro links always become the embedded form
+            link = `https://etro.gg/embed/gearset/${link}`
+            break;
+          default:
+            break;
+        }
+
+        // Handle special cases of the BiS display
+        switch(type) {
+          case "plain-text":
+            // Plain text does not need an iframe, and can just be included as the given text (in the link field)
+            var bisFrame = link;
+            break;
+          default:
+            var bisFrame = h("div", { class: "etro-iframe-height" }, h("iframe", {
+              src: link,
+              class: "w-full h-full"
+            }));
+            break;
+        }
 
         return h(
           "div",
