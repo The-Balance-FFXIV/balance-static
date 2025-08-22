@@ -1,31 +1,31 @@
 ---
 title: Warrior Best in Slot (BiS)
 layout: bis
-patch: "7.2"
-lastmod: 2025-04-09T00:07:38.243Z
+patch: "7.3"
+lastmod: 2025-08-22T01:29:34.136Z
 changelog:
   - date: 2025-03-30T20:47:44.879Z
     message: Added 7.2 sets
 bis:
-  - type: gsheets
-    link: https://xivgear.app/?page=sl%7C95d20a0f-8d69-4123-abb4-187a79ffe7d1&onlySetIndex=6&
+  - type: xivgear
+    link: https://xivgear.app/?page=embed%7Csl%7Cc9dfee36-5f63-4de4-bcdc-55e18645ed23
     name: Patch 7.2 WAR 2.50 GCD BIS
     description: ""
-  - type: gsheets
+  - type: xivgear
     name: Patch 7.2 WAR 2.45 GCD BIS
-    link: https://xivgear.app/?page=sl%7C95d20a0f-8d69-4123-abb4-187a79ffe7d1&onlySetIndex=11&
-  - type: gsheets
+    link: https://xivgear.app/?page=embed%7Csl%7Cef7f94cd-bbbb-4674-952d-66664183b340
+  - type: xivgear
     name: Patch 7.2 WAR 2.40 GCD BIS
     link: https://xivgear.app/?page=embed%7Csl%7C07fa6926-f316-41f3-b797-31bba232d267&onlySetIndex=13&
     description: ""
-  - type: gsheets
+  - type: plain-text
     name: Patch 7.2 All Prog and BIS sets
-    link: https://xivgear.app/?page=sl%7C4cdd4b0d-0b1b-4c7c-a5bc-2957bb83618b&
+    link: ""
     description: |-
       A list of all Savage Progression and BIS sets
 
       Link: https://xivgear.app/?page=sl%7C4cdd4b0d-0b1b-4c7c-a5bc-2957bb83618b&
-  - type: genericlink
+  - type: plain-text
     description: Archive of old BIS sets.
     name: Archive of Old BIS
     link: https://pastebin.com/ibK79n1M
