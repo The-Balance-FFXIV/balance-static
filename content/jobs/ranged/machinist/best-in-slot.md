@@ -44,7 +44,7 @@ bis:
       main stats as those listed (Chest + Legs are CRIT/DH and rest are
       CRIT/DET).
     name: Dragonsong's Reprise Best-in-Slot 2.5 GCD
-    link: https://xivgear.app/?page=sl|ab4afc07-902b-4a60-90ac-9924cd74397e
+    link: https://xivgear.app/?page=embed%7Csl%7C45acbe2d-f4f5-4a5e-9814-33af55134f29
 authors:
   - Balance-MCH-Staff
 tags:
