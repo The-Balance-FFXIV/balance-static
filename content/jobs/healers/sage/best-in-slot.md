@@ -13,8 +13,8 @@ changelog:
   - date: 2025-08-10T23:02:48.701Z
     message: updated for 7.3; added fru gear
 bis:
-  - type: genericiframe
-    link: https://xivgear.app/?page=sl%7C3ecd31a7-9cf8-49fe-a24b-c4314b8d9deb
+  - type: xivgear
+    link: https://xivgear.app/?page=embed%7Csl%7Cc47fb8cb-683d-47c8-914b-6a3dc9a80869&onlySetIndex=0
     name: 2.46 BiS - Min Piety
     description: |-
       This set uses a combination of raid gear and augmented tome gear.
@@ -24,9 +24,9 @@ bis:
       Gloves > Ear > Wrist > Head > Pants > Ring
 
       Swap from Mollete to Mate Cookie after getting the Tome Head.
-  - type: genericiframe
+  - type: xivgear
     name: 2.50 BiS - High Piety
-    link: https://xivgear.app/?page=sl%7C3c7e55a6-9886-4285-8074-c92c099d1445
+    link: https://xivgear.app/?page=embed%7Csl%7C49ae343f-fa7e-4736-ba70-6b3f06230a02&onlySetIndex=0
     description: |-
       2.50 BiS - High Piety
 
