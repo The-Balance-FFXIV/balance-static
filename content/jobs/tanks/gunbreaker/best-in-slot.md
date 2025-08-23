@@ -18,9 +18,9 @@ bis:
   - type: etro
     name: "2.40"
     link: https://etro.gg/gearset/fbfeeab7-9aa2-472d-8bd5-31ec378145b5
-  - type: xivgear
-    name: test
-    link: https://xivgear.app/?page=sl%7C445f4cd4-c337-4e0d-9a07-c68028996908
+  - type: etro
+    name: ""
+    link: ""
   - type: plain-text
     name: Ultimates
     description: |
