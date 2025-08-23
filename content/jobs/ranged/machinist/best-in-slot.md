@@ -1,8 +1,8 @@
 ---
 title: Machinist Best in Slot (BiS)
 layout: bis
-patch: "7.2"
-lastmod: 2025-04-11T06:32:55.664Z
+patch: "7.3"
+lastmod: 2025-08-22T08:17:48.417Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
     message: Created page
@@ -20,7 +20,7 @@ changelog:
     message: top bis updated for 6.5
 bis:
   - type: etro
-    name: 7.2 Best-in-Slot 2.5 GCD
+    name: 7.3 Best-in-Slot 2.5 GCD
     link: https://etro.gg/gearset/77e7913d-3fab-47af-b1ad-e148ca4da205
   - type: xivgear
     name: FRU Best-in-Slot 2.5 GCD
@@ -34,10 +34,11 @@ bis:
 
 
       Master sheet with all options can be found [here](https://xivgear.app/?page=sl%7C29b58122-8c79-4c92-8569-2aac404fe861). 
-  - type: etro
-    description: Highest DPS, abuses 6.5 dungeon gear and the 645 relic weapon.
+  - type: xivgear
+    description: The relic is the Manderville 645/665 Relic with "CRIT + DET > DH".
+      Gloves/Boots can be obtained from the dungeon (Lunar Subterrane).
     name: TOP Best-in-Slot 2.5 GCD
-    link: https://etro.gg/gearset/179676c8-dbb8-4a8b-990e-5e7fbc3b6df6
+    link: https://xivgear.app/?page=embed%7Csl%7C09134793-0de2-45de-9743-270f076f3e16
   - type: xivgear
     description: Relic is 665/645 Manderville. Prio is CRIT + DET > DH. Left side
       and ring can be used with any 725+ pieces, as long as they share the same
