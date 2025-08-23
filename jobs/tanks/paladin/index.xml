@@ -4,13 +4,13 @@
 &lt;h2 id="opener">Opener&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[235 383 392 396 326 429]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
+ &lt;img id="[34 328 340 432 352 12]" src="https://xiv.sleepyshiba.com/pld/img/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" />
 &lt;/div>
 &lt;/p>
 &lt;h2 id="burst">Burst&lt;/h2>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[85 205 210 455 46 301]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
+ &lt;img id="[167 293 65 6 438 199]" src="https://xiv.sleepyshiba.com/pld/img/100burst.png" onclick="openModal(this.id)" alt="Paladin example burst window" />
 &lt;/div>
 &lt;/p>
 &lt;ul>
@@ -53,7 +53,7 @@
 &lt;p>&lt;strong>Iron Will&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[418 345 94 178 350 33]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[50 153 56 189 11 182]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>Toggle | 3s cooldown after toggling on. | 1s cooldown after toggling off.&lt;/p>
@@ -62,7 +62,7 @@
 &lt;p>&lt;strong>Fight or Flight&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[365 420 239 489 80 50]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[489 411 195 55 493 33]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p>
 &lt;p>60s cooldown.&lt;/p>
@@ -70,7 +70,7 @@
 &lt;p>&lt;strong>Imperator&lt;/strong>
 
 &lt;div class="md__image">
- &lt;img id="[346 349 233 280 315 365]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[182 412 169 74 143 146]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/p></description></item><item><title>Paladin Basics Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</link><pubDate>Wed, 06 Aug 2025 19:00:13 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</guid><description>&lt;p>Welcome to the Basics Guide for Paladin! Whether you are a fresh level 100, a returning player, or just need a refresher, this guide will get you started and allow you to hit the ground running.&lt;/p>
 &lt;p>Since this is a basic introduction to level 100 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below, or in discussion channels on the Balance discord:&lt;/p></description></item><item><title>Paladin FAQ</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 06 Aug 2025 18:59:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>&lt;blockquote>
