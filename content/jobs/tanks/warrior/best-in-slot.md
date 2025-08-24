@@ -40,7 +40,7 @@ bis:
     description: |-
       AAI + AMR: https://xivgear.app/#/bis/war/criterion/aai+amr\
       </br>\
-      TOP: https://xivgear.app/#/bis/war/criterion/ass
+      ASS: https://xivgear.app/#/bis/war/criterion/ass
   - type: genericlink
     description: ""
     name: Archive of Old BIS
