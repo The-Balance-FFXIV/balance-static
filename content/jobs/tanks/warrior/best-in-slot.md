@@ -7,7 +7,7 @@ changelog:
   - date: 2025-03-30T20:47:44.879Z
     message: Added 7.2 sets
   - date: 2025-08-24T03:59:21.231Z
-    message: Replaced all sets with auto-updating sets
+    message: Replaced all sets with auto-updating sets, added Criterion sets
 bis:
   - type: xivgear
     link: https://xivgear.app/?page=embed%7Cbis%7Cwar%7Ccurrent&onlySetIndex=0
@@ -35,6 +35,12 @@ bis:
       UCOB: https://xivgear.app/#/bis/war/ultimate/ucob
     name: Ultimate Raids
     link: ""
+  - type: plain-text
+    name: Criterion Dungeons
+    description: |-
+      AAI + AMR: https://xivgear.app/#/bis/war/criterion/aai+amr\
+      </br>\
+      TOP: https://xivgear.app/#/bis/war/criterion/ass
   - type: genericlink
     description: ""
     name: Archive of Old BIS
