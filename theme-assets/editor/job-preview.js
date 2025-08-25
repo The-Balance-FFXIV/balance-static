@@ -1,3 +1,19 @@
+function textStyling(content) {
+  const frontmatter = String(content ?? "")
+    .split(/\r?\n\s*\r?\n+/g) // split on one or more blank lines
+    .map(s => s.trim())
+    .filter(Boolean);
+
+  const hasMarked = typeof window !== "undefined" && window.marked && typeof window.marked.parse === "function";
+  const hasPurify = typeof window !== "undefined" && window.DOMPurify && typeof window.DOMPurify.sanitize === "function";
+
+  return frontmatter.map((p, index) => {
+    const html = hasMarked ? window.marked.parse(p) : text;
+    const safe = hasPurify ? window.DOMPurify.sanitize(html) : html;
+    return h("div", { key: index, class: "markdown", dangerouslySetInnerHTML: { __html: safe } });
+  });
+}
+
 const renderGuideContainer = function (body, ...children) {
   return h(
     "div",
@@ -20,16 +36,16 @@ const renderBisList = function (bis) {
 
   return h(
     "div", {}, bisEntries.map(function (bis, indexer) {
-      // Sort bis frontmatter fields into variables and prep for rendering
+      // sort bis frontmatter fields into variables and prep for rendering
       const name = h("h2", {}, bis.name);
       const type = bis.type;
       const linkString = typeof bis.link === "string" ? bis.link : "";
       const isLink = /^https?:\/\//i.test(linkString);
-      let description = h("p", {}, bis.description);
-      
-      // Create embed element and check for input errors based on type
+      let description = textStyling(bis.description);
+
+      // create embed element and check for input errors
       let bisFrame;
-      let errorDetection = false; // Hides description if link or link type validation fails
+      let errorDetection = false; // hides description if validation fails
 
       switch(type) {
         case "plain-text":
@@ -49,7 +65,7 @@ const renderBisList = function (bis) {
         case "etro": // extract ID from link to create embed link
           const etroId =
             linkString.match(/\/gearset\/([A-Za-z0-9-]+)(?:[?#]|$)/i)?.[1] ||
-            (isLink && linkString ? linkString : null);
+            (!isLink && linkString ? linkString : null);
           const etroLink = etroId ? `https://etro.gg/embed/gearset/${etroId}` : linkString;
           errorDetection = !etroLink;
           bisFrame = etroLink
@@ -71,12 +87,20 @@ const renderBisList = function (bis) {
           break;
         }
       }
-      return h(
+
+      description = errorDetection // append a line break to the description or hide it if link errors exist
+        ? null
+        : (description.length && type !== "plain-text" // ensures no break appears for empty descriptions
+            ? [h("br", {}), description]
+            : description);
+
+      return h( // render all bis entries
         "div",
         { key: indexer, id: `bis-preview-${indexer}`, },
         name,
         bisFrame,
-        description = errorDetection ? null : description,
+        description,
+        h("hr", {})
       );
     })
   )
@@ -101,12 +125,11 @@ const renderAuthorList = function (authors) {
 const renderFaq = function (qna) {
   let faqEntries = qna ?? [];
   return h(
-    "div",
-    { class: "job-guides-container markdown" },
-    faqEntries.map(function (qna, index) {
+    "div", {}, faqEntries.map(function (qna, index) {
+      const answerStyled = textStyling(qna.answer);
       return h("div", { key: index, class: "faq-entry" },
         h("h2", {}, qna.question),
-        h("p", {}, qna.answer)
+        ...answerStyled
       );
     })
   );
