@@ -4,10 +4,10 @@ layout: bis
 patch: "7.3"
 lastmod: 2025-08-24T01:29:34.136Z
 changelog:
-  - date: 2025-03-30T20:47:44.879Z
-    message: Added 7.2 sets
   - date: 2025-08-24T03:59:21.231Z
     message: Replaced all sets with auto-updating sets, added Criterion sets
+  - date: 2025-03-30T20:47:44.879Z
+    message: Added 7.2 sets
 bis:
   - type: xivgear
     link: https://xivgear.app/?page=embed%7Cbis%7Cwar%7Ccurrent&onlySetIndex=0
