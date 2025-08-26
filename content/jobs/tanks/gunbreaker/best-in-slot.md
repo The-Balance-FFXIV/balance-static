@@ -22,7 +22,16 @@ bis:
     name: 7.3 Entry Gear Example
     link: https://xivgear.app/?page=sl%7Ce4193434-5633-4e0d-899a-e8344229230a
     description: Previews two hypothetical options for players intending to start
-      Savage progression.
+      Savage progression. A reference set to the optimal entry-level set that
+      existed in week 1 of the tier is included for comparison.
+  - type: genericlink
+    name: 7.2 Budget Sets
+    link: https://xivgear.app/#/bis/gnb/prog/budget
+    description: These sets were generated during week 1 of the Cruiserweight Savage
+      tier. They were generated to preview what a player could bring as an
+      entry-level set while spending as little as possible on tomestones, and
+      assumes they were gated to only being able to acquire a limited number of
+      normalmode raid pieces per week.
   - type: plain-text
     name: Ultimates
     description: |
