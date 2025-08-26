@@ -18,9 +18,11 @@ bis:
   - type: etro
     name: "2.40"
     link: https://etro.gg/gearset/fbfeeab7-9aa2-472d-8bd5-31ec378145b5
-  - type: etro
-    name: ""
-    link: ""
+  - type: genericlink
+    name: 7.3 Entry Gear Example
+    link: https://xivgear.app/?page=sl%7Ce4193434-5633-4e0d-899a-e8344229230a
+    description: Previews two hypothetical options for players intending to start
+      Savage progression.
   - type: plain-text
     name: Ultimates
     description: |
