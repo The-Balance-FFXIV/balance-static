@@ -1,4 +1,4 @@
-function textStyling(content) {
+function textStyling(content, keyPrefix = "") {
   const frontmatter = String(content ?? "")
     .split(/\r?\n\s*\r?\n+/g) // split on one or more blank lines
     .map(s => s.trim())
@@ -8,9 +8,10 @@ function textStyling(content) {
   const hasPurify = typeof window !== "undefined" && window.DOMPurify && typeof window.DOMPurify.sanitize === "function";
 
   return frontmatter.map((p, index) => {
-    const html = hasMarked ? window.marked.parse(p) : text;
+    const html = hasMarked ? window.marked.parse(p) : p;
     const safe = hasPurify ? window.DOMPurify.sanitize(html) : html;
-    return h("div", { key: index, class: "markdown", dangerouslySetInnerHTML: { __html: safe } });
+    const key = keyPrefix ? `${keyPrefix}-${index}` : index;
+    return h("div", { key, class: "markdown", dangerouslySetInnerHTML: { __html: safe } });
   });
 }
 
@@ -31,26 +32,80 @@ const renderGuideContainer = function (body, ...children) {
   );
 };
 
+const renderAuthorList = function (authors) {
+  let authorList = authors ?? [];
+  return h(
+    "div",
+    { class: "job-guides-container markdown" },
+    h("h1", {}, "Authors"),
+    h(
+      "ul",
+      {},
+      authorList.map(function (author) {
+        return h("li", {}, author);
+      })
+    )
+  );
+};
+
+// renders frontmatter fields that contain one or more data subfields, such as FAQs or BIS entries
+const renderFrontmatter = function (parentField, hSubfield, hType, subfield = "", ...moreSubfields) {
+  // helper function to ensure that the parent frontmatter field is turned into a mutable array
+  const resolveToArray = (raw) => {
+    const field = raw?.toJS?.() ?? raw;
+    return Array.isArray(field) ? field : (field != null ? [field] : []);
+  };
+
+  let storeFrontmatter;
+  const subfieldsToRender = [subfield, ...moreSubfields].filter(Boolean);
+  if (typeof parentField === "string") {
+    const entry = this?.props?.entry;
+    const raw = typeof entry?.getIn === "function" ? entry.getIn(["data", parentField]) : undefined;
+    storeFrontmatter = resolveToArray(raw ?? []);
+  } else {
+    storeFrontmatter = resolveToArray(parentField);
+  }
+
+  return h( "div", {},
+    storeFrontmatter.map(function (parent, index) {
+      const list = subfieldsToRender.length ? subfieldsToRender : [subfield];
+      const entryStyled = list.reduce((acc, sfld) => {
+        if (typeof sfld === "string") {
+          return acc.concat(textStyling(parent?.[sfld], `rf-${index}-${sfld}`));
+        }
+        return Array.isArray(sfld) ? acc.concat(sfld) : acc.concat([sfld]);
+      }, []);
+
+      const entryHeader = String(parent?.[hSubfield]) && String([hType]) !== ""
+        ? h(String([hType]), {}, String(parent?.[hSubfield]))
+        : null;
+
+      return h("div", { key: index },
+        entryHeader,
+        ...entryStyled
+      );
+    })
+  );
+}
+
 const renderBisList = function (bis) {
   const bisEntries = bis;
 
   return h(
-    "div", {}, bisEntries.map(function (bis, indexer) {
-      // sort bis frontmatter fields into variables and prep for rendering
-      const name = h("h2", {}, bis.name);
+    "div", {}, bisEntries.map(function (bis, index) {
+      // variables to prep iframe and description generation
       const type = bis.type;
       const linkString = typeof bis.link === "string" ? bis.link : "";
       const isLink = /^https?:\/\//i.test(linkString);
       let description = textStyling(bis.description);
-
-      // create embed element and check for input errors
       let bisFrame;
       let errorDetection = false; // hides description if validation fails
 
+      // decide iframe creation based on type and validate input
       switch(type) {
         case "plain-text":
         case "genericlink":
-          bisFrame = linkString; // both of these types do not require an iframe
+          bisFrame = textStyling(linkString); // both of these types do not require an iframe
           break;
 
         case "xivgear": // check for embed link before creating iframe
@@ -88,52 +143,23 @@ const renderBisList = function (bis) {
         }
       }
 
-      description = errorDetection // append a line break to the description or hide it if link errors exist
+      // append a line break to the description or hide it if link errors exist
+      description = errorDetection
         ? null
-        : (description.length && type !== "plain-text" // ensures no break appears for empty descriptions
-            ? [h("br", {}), description]
+        : (description.length && !["genericlink", "plain-text"].includes(type) // ensures no break appears for empty descriptions
+            ? [h("br", { key: "frame-br" }), ...description]
             : description);
 
-      return h( // render all bis entries
+      // return an indexed list of <div> elements for each bis entry
+      return h(
         "div",
-        { key: indexer, id: `bis-preview-${indexer}`, },
-        name,
-        bisFrame,
-        description,
+        { key: index, id: `bis-preview-${index}`, },
+        renderFrontmatter(bis, "name", "h2", bisFrame, description), // render all bis entries
         h("hr", {})
       );
     })
   )
 };
-
-const renderAuthorList = function (authors) {
-  let authorList = authors ?? [];
-  return h(
-    "div",
-    { class: "job-guides-container markdown" },
-    h("h1", {}, "Authors"),
-    h(
-      "ul",
-      {},
-      authorList.map(function (author) {
-        return h("li", {}, author);
-      })
-    )
-  );
-};
-
-const renderFaq = function (qna) {
-  let faqEntries = qna ?? [];
-  return h(
-    "div", {}, faqEntries.map(function (qna, index) {
-      const answerStyled = textStyling(qna.answer);
-      return h("div", { key: index, class: "faq-entry" },
-        h("h2", {}, qna.question),
-        ...answerStyled
-      );
-    })
-  );
-}
 
 let GenericJobGuide = createClass({
   render: function () {
@@ -147,7 +173,7 @@ let GenericJobGuide = createClass({
   },
 });
 
-let bisSetTemplate = createClass({
+let bisTemplate = createClass({
   render: function () {
     const rawBis = this.props.entry.getIn(["data", "bis"]);
     const bis = rawBis?.toJS?.() ?? rawBis ?? [];
@@ -160,11 +186,41 @@ let bisSetTemplate = createClass({
 
 let faqTemplate = createClass({
   render: function () {
-    const rawFaq = this.props.entry.getIn(["data", "qna"]);
-    const faq = rawFaq?.toJS?.() ?? rawFaq ?? [];
+    return renderGuideContainer(
+      h("div", {},
+        renderFrontmatter.call(this, "qna", "question", "h2", "answer")
+      )
+    );
+  },
+});
+
+let changesTemplate = createClass({
+  render: function () {
+    return renderGuideContainer(
+      h("div", {},
+        renderFrontmatter.call(this, "changes", "patch", "h2", "description")
+      )
+    );
+  },
+});
+
+let statPriorityTemplate = createClass({
+  render: function () {
+    const statPriority = this.props.entry.getIn(["data", "priority"]) ?? [];
+    const optionalInfo = this.props.widgetFor("body");
 
     return renderGuideContainer(
-      renderFaq(faq)
+      h("div",
+       {},
+       h("div", {}, statPriority),
+       optionalInfo 
+        ? h("div", {},
+            h("br", {}),
+            h("hr", {}),
+            h("div", {}, optionalInfo)
+          ) 
+        : null,
+      ),
     );
   },
 });
