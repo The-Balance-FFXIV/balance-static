@@ -143,6 +143,16 @@ For some encounters (like P10S), while this is possible, it can take some time t
 
 If starting the fight with 10k MP and a Dark Arts proc, try to open with **Unmend** -> **Edge** -> **Hard Slash** -> **Edge** -> **Living Shadow** (and then continue as normal) when possible, to result in the lowest amount of wasted MP gain.
 
+# How Does Darkside Work Exactly?
+
+Darkside is applied (and starts ticking down) as soon as you use **Edge of Shadow** or **Flood of Shadow** (or their **Darkness** variants at earlier levels), and **not** on their application of damage. As a result, if you use another ability (or an auto-attack occurs) before the damage application for these abilities, it will be buffed by Darkside. 
+
+As in the tooltip, these abilities grant thirty seconds of Darkside, up to a maximum of sixty.
+
+If you didn't have any remaining Darkside duration when using it, an ability that is granting Darkside will not, itself, be buffed by Darkside.
+
+As [described below](/jobs/tanks/dark-knight/advanced-guide#how-does-living-shadow-work-exactly), none of Living Shadow's abilities are buffed by Darkside.
+
 # How Does Passive MP Gain Work Exactly?
 
 Passive MP/HP regeneration happens every three seconds on what's known as an 'actor tick'. This is what gives Dark Knight its passive MP gain, 600 if out of combat when the tick occurs, and 200 if in combat when the tick occurs. When these ticks happen is also when damage over time and healing over time effects trigger.
