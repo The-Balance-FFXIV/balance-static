@@ -158,7 +158,7 @@ Opener is:
 
 At level 72, we unlock the “Nascent Chaos” buff that triggers every time after using Infuriate. This turns our Gauge spenders into a more powerful version of themselves. We don’t get the upgraded Fell Cleave yet, though. We get the AoE upgrades first. Enter “Chaotic Cyclone”. Read the tooltip.
 
-For now, we’ll be using Chaotic Cyclone as a 50 Gauge spender, even on single-target situations. If Fell Cleave were to Direct Hit + Crit, it would win out. However, Chaotic Cyclone *always* does this, which leads to higher average damage results.
+For now, we’ll be using Chaotic Cyclone as a 50 Gauge spender on 2+ targets, but this will turn into 4+ targets when we unlock Inner Chaos at level 80.
 
 - - -
 
