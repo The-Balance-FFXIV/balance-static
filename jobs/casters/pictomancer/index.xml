@@ -17,7 +17,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[473 452 441 120 37 292]" src="https://ffxiv.gamerescape.com/w/images/6/6b/Fire_in_Red_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[491 373 77 365 183 460]" src="https://ffxiv.gamerescape.com/w/images/6/6b/Fire_in_Red_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fire in Red&lt;/td>
@@ -31,7 +31,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[51 374 293 451 246 138]" src="https://ffxiv.gamerescape.com/w/images/f/f0/Aero_in_Green_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[116 233 221 115 60 214]" src="https://ffxiv.gamerescape.com/w/images/f/f0/Aero_in_Green_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Aero in Green&lt;/td>
@@ -45,7 +45,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[286 242 23 68 308 471]" src="https://github.com/The-Balance-FFXIV/balance-static/blob/main/static/img/jobs/pct/PCTTemperaCoat.png?raw=true" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[216 332 480 361 148 287]" src="https://github.com/The-Balance-FFXIV/balance-static/blob/main/static/img/jobs/pct/PCTTemperaCoat.png?raw=true" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tempera Coat&lt;/td>
@@ -59,7 +59,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[344 253 460 473 119 67]" src="https://ffxiv.gamerescape.com/w/images/4/45/Water_in_Blue_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[297 304 40 296 254 237]" src="https://ffxiv.gamerescape.com/w/images/4/45/Water_in_Blue_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Water in Blue&lt;/td>
@@ -73,7 +73,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[293 481 84 500 210 317]" src="https://ffxiv.gamerescape.com/w/images/b/b0/Smudge_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[459 236 180 385 482 252]" src="https://ffxiv.gamerescape.com/w/images/b/b0/Smudge_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Smudge&lt;/td>
@@ -87,7 +87,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[110 292 394 51 362 289]" src="https://ffxiv.gamerescape.com/w/images/6/6b/Fire_II_in_Red_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[395 418 50 391 65 459]" src="https://ffxiv.gamerescape.com/w/images/6/6b/Fire_II_in_Red_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fire II in Red&lt;/td>
@@ -101,7 +101,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[299 297 202 439 104 484]" src="https://ffxiv.gamerescape.com/w/images/5/5a/Creature_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[137 38 390 60 386 160]" src="https://ffxiv.gamerescape.com/w/images/5/5a/Creature_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Creature Motif&lt;/td>
@@ -115,7 +115,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[133 474 378 284 268 445]" src="https://ffxiv.gamerescape.com/w/images/f/fc/Living_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[184 148 318 397 13 38]" src="https://ffxiv.gamerescape.com/w/images/f/fc/Living_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Living Muse&lt;/td>
@@ -129,7 +129,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[456 98 320 404 228 57]" src="https://ffxiv.gamerescape.com/w/images/5/58/Mog_of_the_Ages_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[453 211 421 129 244 376]" src="https://ffxiv.gamerescape.com/w/images/5/58/Mog_of_the_Ages_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Mog of the Ages&lt;/td>
@@ -143,7 +143,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[222 208 244 88 491 490]" src="https://ffxiv.gamerescape.com/w/images/0/0c/Pom_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[431 27 358 319 337 233]" src="https://ffxiv.gamerescape.com/w/images/0/0c/Pom_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Pom Motif&lt;/td>
@@ -157,7 +157,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[399 32 133 100 221 469]" src="https://ffxiv.gamerescape.com/w/images/8/8c/Wing_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[54 334 492 178 39 188]" src="https://ffxiv.gamerescape.com/w/images/8/8c/Wing_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Wing Motif&lt;/td>
@@ -171,7 +171,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[419 179 46 409 359 229]" src="https://ffxiv.gamerescape.com/w/images/2/24/Pom_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[270 174 388 130 264 377]" src="https://ffxiv.gamerescape.com/w/images/2/24/Pom_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Pom Muse&lt;/td>
@@ -185,7 +185,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[236 361 418 63 366 161]" src="https://ffxiv.gamerescape.com/w/images/5/5a/Winged_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[333 451 211 89 321 113]" src="https://ffxiv.gamerescape.com/w/images/5/5a/Winged_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Winged Muse&lt;/td>
@@ -199,7 +199,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[76 64 448 109 40 378]" src="https://ffxiv.gamerescape.com/w/images/e/ea/Aero_II_in_Green_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[149 386 348 133 73 75]" src="https://ffxiv.gamerescape.com/w/images/e/ea/Aero_II_in_Green_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Aero II in Green&lt;/td>
@@ -213,7 +213,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[147 388 66 461 447 28]" src="https://ffxiv.gamerescape.com/w/images/3/38/Water_II_in_Blue_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[323 235 307 447 327 217]" src="https://ffxiv.gamerescape.com/w/images/3/38/Water_II_in_Blue_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Water II in Blue&lt;/td>
@@ -227,7 +227,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[116 439 379 244 275 481]" src="https://ffxiv.gamerescape.com/w/images/5/57/Weapon_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[463 299 203 225 313 31]" src="https://ffxiv.gamerescape.com/w/images/5/57/Weapon_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Weapon Motif&lt;/td>
@@ -241,7 +241,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[15 125 30 256 414 13]" src="https://ffxiv.gamerescape.com/w/images/2/2e/Steel_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[335 86 109 211 372 265]" src="https://ffxiv.gamerescape.com/w/images/2/2e/Steel_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Steel Muse&lt;/td>
@@ -255,7 +255,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[498 72 137 332 100 483]" src="https://ffxiv.gamerescape.com/w/images/9/97/Hammer_Stamp_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[45 39 81 240 159 235]" src="https://ffxiv.gamerescape.com/w/images/9/97/Hammer_Stamp_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hammer Stamp&lt;/td>
@@ -269,7 +269,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[284 43 158 307 71 183]" src="https://ffxiv.gamerescape.com/w/images/7/73/Hammer_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[426 211 165 169 353 379]" src="https://ffxiv.gamerescape.com/w/images/7/73/Hammer_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hammer Motif&lt;/td>
@@ -283,7 +283,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[367 253 361 108 8 383]" src="https://ffxiv.gamerescape.com/w/images/5/56/Striking_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[169 153 355 272 478 63]" src="https://ffxiv.gamerescape.com/w/images/5/56/Striking_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Striking Muse&lt;/td>
@@ -297,7 +297,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[252 382 134 456 323 473]" src="https://ffxiv.gamerescape.com/w/images/5/5f/Blizzard_in_Cyan_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[44 171 410 330 230 163]" src="https://ffxiv.gamerescape.com/w/images/5/5f/Blizzard_in_Cyan_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Blizzard in Cyan&lt;/td>
@@ -311,7 +311,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[118 253 140 227 496 269]" src="https://github.com/The-Balance-FFXIV/balance-static/blob/main/static/img/jobs/pct/PCTBlizzardIIInCyan.png?raw=true" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[205 351 37 89 461 478]" src="https://github.com/The-Balance-FFXIV/balance-static/blob/main/static/img/jobs/pct/PCTBlizzardIIInCyan.png?raw=true" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Blizzard II in Cyan&lt;/td>
@@ -325,7 +325,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[160 184 338 231 183 9]" src="https://ffxiv.gamerescape.com/w/images/d/d0/Subtractive_Palette_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[295 358 395 264 386 135]" src="https://ffxiv.gamerescape.com/w/images/d/d0/Subtractive_Palette_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Subtractive Palette&lt;/td>
@@ -339,7 +339,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[361 304 123 192 74 254]" src="https://ffxiv.gamerescape.com/w/images/9/9d/Stone_in_Yellow_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[302 117 409 240 270 279]" src="https://ffxiv.gamerescape.com/w/images/9/9d/Stone_in_Yellow_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Stone in Yellow&lt;/td>
@@ -353,7 +353,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[368 48 22 105 84 485]" src="https://ffxiv.gamerescape.com/w/images/e/e3/Stone_II_in_Yellow_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[395 255 351 373 484 62]" src="https://ffxiv.gamerescape.com/w/images/e/e3/Stone_II_in_Yellow_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Stone II in Yellow&lt;/td>
@@ -367,7 +367,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[11 500 404 310 47 223]" src="https://ffxiv.gamerescape.com/w/images/3/37/Thunder_in_Magenta_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[129 230 328 290 391 463]" src="https://ffxiv.gamerescape.com/w/images/3/37/Thunder_in_Magenta_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Thunder in Magenta&lt;/td>
@@ -381,7 +381,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[346 316 297 196 323 287]" src="https://ffxiv.gamerescape.com/w/images/9/92/Thunder_II_in_Magenta_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[132 120 283 179 299 59]" src="https://ffxiv.gamerescape.com/w/images/9/92/Thunder_II_in_Magenta_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Thunder II in Magenta&lt;/td>
@@ -395,7 +395,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[453 311 344 220 411 391]" src="https://ffxiv.gamerescape.com/w/images/2/22/Landscape_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[479 76 413 276 240 78]" src="https://ffxiv.gamerescape.com/w/images/2/22/Landscape_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Landscape Motif&lt;/td>
@@ -409,7 +409,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[172 302 22 453 249 433]" src="https://ffxiv.gamerescape.com/w/images/e/eb/Scenic_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[415 221 69 187 116 484]" src="https://ffxiv.gamerescape.com/w/images/e/eb/Scenic_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Scenic Muse&lt;/td>
@@ -423,7 +423,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[174 234 388 366 374 180]" src="https://ffxiv.gamerescape.com/w/images/1/16/Starry_Sky_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[49 236 372 128 299 149]" src="https://ffxiv.gamerescape.com/w/images/1/16/Starry_Sky_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Starry Sky Motif&lt;/td>
@@ -437,7 +437,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[211 244 179 446 372 52]" src="https://ffxiv.gamerescape.com/w/images/d/d7/Starry_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[150 79 408 125 481 162]" src="https://ffxiv.gamerescape.com/w/images/d/d7/Starry_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Starry Muse&lt;/td>
@@ -451,7 +451,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[190 183 73 296 481 71]" src="https://ffxiv.gamerescape.com/w/images/e/e4/Holy_in_White_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[485 122 486 239 8 242]" src="https://ffxiv.gamerescape.com/w/images/e/e4/Holy_in_White_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Holy in White&lt;/td>
@@ -465,7 +465,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[262 246 455 434 352 394]" src="https://ffxiv.gamerescape.com/w/images/e/e5/Hammer_Brush_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[499 327 437 222 454 396]" src="https://ffxiv.gamerescape.com/w/images/e/e5/Hammer_Brush_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hammer Brush&lt;/td>
@@ -479,7 +479,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[302 410 50 392 107 330]" src="https://ffxiv.gamerescape.com/w/images/a/a0/Polishing_Hammer_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[72 397 262 213 202 48]" src="https://ffxiv.gamerescape.com/w/images/a/a0/Polishing_Hammer_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Polishing Hammer&lt;/td>
@@ -493,7 +493,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[285 423 416 484 197 181]" src="https://github.com/The-Balance-FFXIV/balance-static/blob/main/static/img/jobs/pct/PCTTemperaGrassa.png?raw=true" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[70 136 304 445 293 208]" src="https://github.com/The-Balance-FFXIV/balance-static/blob/main/static/img/jobs/pct/PCTTemperaGrassa.png?raw=true" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tempera Grassa&lt;/td>
@@ -507,7 +507,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[443 144 448 205 295 10]" src="https://ffxiv.gamerescape.com/w/images/e/eb/Comet_in_Black_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[305 280 306 159 403 311]" src="https://ffxiv.gamerescape.com/w/images/e/eb/Comet_in_Black_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Comet in Black&lt;/td>
@@ -521,7 +521,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[246 43 300 435 292 24]" src="https://ffxiv.gamerescape.com/w/images/2/23/Rainbow_Drip_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[190 117 268 475 316 401]" src="https://ffxiv.gamerescape.com/w/images/2/23/Rainbow_Drip_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Rainbow Drip&lt;/td>
@@ -535,7 +535,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[30 102 11 288 90 71]" src="https://ffxiv.gamerescape.com/w/images/9/9c/Claw_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[388 320 107 213 109 344]" src="https://ffxiv.gamerescape.com/w/images/9/9c/Claw_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Claw Motif&lt;/td>
@@ -549,7 +549,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[478 270 51 430 461 86]" src="https://ffxiv.gamerescape.com/w/images/0/00/Maw_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[377 283 35 20 161 402]" src="https://ffxiv.gamerescape.com/w/images/0/00/Maw_Motif_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Maw Motif&lt;/td>
@@ -563,7 +563,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[434 32 88 127 318 334]" src="https://ffxiv.gamerescape.com/w/images/4/4e/Clawed_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[297 292 54 413 170 78]" src="https://ffxiv.gamerescape.com/w/images/4/4e/Clawed_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Clawed Muse&lt;/td>
@@ -577,7 +577,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[269 381 152 406 397 373]" src="https://ffxiv.gamerescape.com/w/images/a/a2/Fanged_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[84 312 281 333 350 202]" src="https://ffxiv.gamerescape.com/w/images/a/a2/Fanged_Muse_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fanged Muse&lt;/td>
@@ -591,7 +591,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[347 423 81 297 408 13]" src="https://ffxiv.gamerescape.com/w/images/f/fc/Retribution_of_the_Madeen_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[16 476 9 358 300 59]" src="https://ffxiv.gamerescape.com/w/images/f/fc/Retribution_of_the_Madeen_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Retribution of the Madeen&lt;/td>
@@ -605,7 +605,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[189 456 257 75 495 339]" src="https://ffxiv.gamerescape.com/w/images/3/35/Star_Prism_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[449 295 85 78 223 76]" src="https://ffxiv.gamerescape.com/w/images/3/35/Star_Prism_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Star Prism&lt;/td>
@@ -632,7 +632,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[168 19 472 172 370 461]" src="https://ffxiv.gamerescape.com/w/images/thumb/b/b4/Maim_and_Mend_Icon.png/40px-Maim_and_Mend_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[173 366 99 61 237 223]" src="https://ffxiv.gamerescape.com/w/images/thumb/b/b4/Maim_and_Mend_Icon.png/40px-Maim_and_Mend_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Maim and Mend&lt;/td>
@@ -642,7 +642,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[151 420 183 483 237 121]" src="https://ffxiv.gamerescape.com/w/images/thumb/9/99/Maim_and_Mend_II_Icon.png/40px-Maim_and_Mend_II_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[452 14 19 441 121 185]" src="https://ffxiv.gamerescape.com/w/images/thumb/9/99/Maim_and_Mend_II_Icon.png/40px-Maim_and_Mend_II_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Maim and Mend II&lt;/td>
@@ -652,7 +652,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[474 44 18 2 441 408]" src="https://lds-img.finalfantasyxiv.com/d/ad0c61780693af7ce5d7331856d865fadc941cc9.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[35 68 456 438 463 14]" src="https://lds-img.finalfantasyxiv.com/d/ad0c61780693af7ce5d7331856d865fadc941cc9.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Pictomancy Mastery&lt;/td>
@@ -662,7 +662,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[125 129 263 275 373 59]" src="https://ffxiv.gamerescape.com/w/images/a/aa/Palette_Gauge_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[276 320 290 388 486 413]" src="https://ffxiv.gamerescape.com/w/images/a/aa/Palette_Gauge_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Palette Gauge&lt;/td>
@@ -672,7 +672,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[203 66 141 248 378 145]" src="https://lds-img.finalfantasyxiv.com/d/fa01c39aad1f63bab6834385d2857e782f73bef3.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[57 474 202 17 452 259]" src="https://lds-img.finalfantasyxiv.com/d/fa01c39aad1f63bab6834385d2857e782f73bef3.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Pictomancy Mastery II&lt;/td>
@@ -682,7 +682,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[51 457 132 276 133 253]" src="https://ffxiv.gamerescape.com/w/images/c/ca/Enhanced_Artistry_I_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[240 130 87 438 271 30]" src="https://ffxiv.gamerescape.com/w/images/c/ca/Enhanced_Artistry_I_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Artistry I&lt;/td>
@@ -692,7 +692,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[436 176 484 429 159 313]" src="https://ffxiv.gamerescape.com/w/images/7/76/Enhanced_Pictomancy_I_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[392 275 37 153 58 235]" src="https://ffxiv.gamerescape.com/w/images/7/76/Enhanced_Pictomancy_I_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Pictomancy I&lt;/td>
@@ -702,7 +702,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[321 211 485 4 257 82]" src="https://ffxiv.gamerescape.com/w/images/5/51/Enhanced_Smudge_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[231 122 229 213 256 12]" src="https://ffxiv.gamerescape.com/w/images/5/51/Enhanced_Smudge_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Smudge&lt;/td>
@@ -712,7 +712,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[74 240 228 266 322 441]" src="https://lds-img.finalfantasyxiv.com/d/d89bc4bb459ec42ad2c6ff8170ccbfffe7962a50.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[323 437 6 369 419 265]" src="https://lds-img.finalfantasyxiv.com/d/d89bc4bb459ec42ad2c6ff8170ccbfffe7962a50.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Pictomancy Mastery III&lt;/td>
@@ -722,7 +722,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[226 399 413 364 172 141]" src="https://ffxiv.gamerescape.com/w/images/1/1e/Enhanced_Pictomancy_II_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[203 110 437 496 386 276]" src="https://ffxiv.gamerescape.com/w/images/1/1e/Enhanced_Pictomancy_II_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Pictomancy II&lt;/td>
@@ -732,7 +732,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[73 217 146 399 19 125]" src="https://ffxiv.gamerescape.com/w/images/1/1c/Enhanced_Tempura_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[358 114 254 369 304 61]" src="https://ffxiv.gamerescape.com/w/images/1/1c/Enhanced_Tempura_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Tempera&lt;/td>
@@ -742,7 +742,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[362 104 322 59 92 84]" src="https://ffxiv.gamerescape.com/w/images/4/48/Enhanced_Palette_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[205 341 148 52 459 486]" src="https://ffxiv.gamerescape.com/w/images/4/48/Enhanced_Palette_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Palette&lt;/td>
@@ -752,7 +752,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[69 433 171 128 454 463]" src="https://ffxiv.gamerescape.com/w/images/0/05/Enhanced_Pictomancy_III_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[283 51 129 167 469 436]" src="https://ffxiv.gamerescape.com/w/images/0/05/Enhanced_Pictomancy_III_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Pictomancy III&lt;/td>
@@ -762,7 +762,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[258 191 392 283 154 254]" src="https://ffxiv.gamerescape.com/w/images/f/f2/Enhanced_Swiftcast_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[178 272 175 404 441 72]" src="https://ffxiv.gamerescape.com/w/images/f/f2/Enhanced_Swiftcast_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Swiftcast&lt;/td>
@@ -772,7 +772,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[240 222 331 205 192 306]" src="https://lds-img.finalfantasyxiv.com/d/a3e17894ca98f3065d9b76d83657385abf02e1cc.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[29 298 51 240 260 307]" src="https://lds-img.finalfantasyxiv.com/d/a3e17894ca98f3065d9b76d83657385abf02e1cc.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Pictomancy Mastery IV&lt;/td>
@@ -782,7 +782,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[225 486 4 316 426 56]" src="https://ffxiv.gamerescape.com/w/images/f/f7/Enhanced_Pictomancy_IV_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[498 129 17 317 448 223]" src="https://ffxiv.gamerescape.com/w/images/f/f7/Enhanced_Pictomancy_IV_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Pictomancy IV&lt;/td>
@@ -792,7 +792,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[155 44 182 434 127 496]" src="https://ffxiv.gamerescape.com/w/images/b/b6/Enhanced_Addle_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[31 408 100 4 299 361]" src="https://ffxiv.gamerescape.com/w/images/b/b6/Enhanced_Addle_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Addle&lt;/td>
@@ -802,7 +802,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[154 11 201 264 248 316]" src="https://ffxiv.gamerescape.com/w/images/8/83/Enhanced_Pictomancy_V_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[38 333 99 45 175 164]" src="https://ffxiv.gamerescape.com/w/images/8/83/Enhanced_Pictomancy_V_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Enhanced Pictomancy V&lt;/td>
