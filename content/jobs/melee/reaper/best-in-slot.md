@@ -65,7 +65,7 @@ bis:
 
 
       This set requires 2 Skill Speed to Direct Hit remelds to play DRG.
-  - type: genericiframe
+  - type: xivgear
     name: Savage Prog Recommended Set 450 Tomes Option
     link: https://xivgear.app/?page=embed%7Csl%7Cdfe23d32-0881-46c7-b019-fb7f9556635a&onlySetIndex=1
     description: >-
@@ -75,7 +75,7 @@ bis:
 
 
       Replace pieces with higher item level pieces as you get them.
-  - type: genericiframe
+  - type: xivgear
     name: Savage Prog Recommended Set 900 Tomes Option
     link: https://xivgear.app/?page=embed%7Csl%7Cdfe23d32-0881-46c7-b019-fb7f9556635a&onlySetIndex=2
     description: >-
@@ -85,7 +85,7 @@ bis:
 
 
       Replace pieces with higher item level pieces as you get them.
-  - type: genericiframe
+  - type: xivgear
     name: Savage Prog Budget Option
     link: https://xivgear.app/?page=embed%7Csl%7Cdfe23d32-0881-46c7-b019-fb7f9556635a&onlySetIndex=9
     description: >-
