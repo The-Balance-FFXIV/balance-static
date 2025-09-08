@@ -3,7 +3,7 @@ title: Reaper Advanced Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
   - ellunavi
-patch: ""
+patch:
 lastmod: 2024-07-04T02:44:58.224Z
 changelog:
   - date: 2021-11-27T12:55:28.038Z
