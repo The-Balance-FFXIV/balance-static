@@ -3,7 +3,7 @@ title: Summoner Advanced Guide
 card_header_image: /img/jobs/smn/advanced.png
 authors:
   - Balance-SMN-Staff
-patch: "7.01"
+patch: ""
 lastmod: 2024-07-23T03:49:45.489Z
 changelog:
   - date: 2021-11-15T21:19:35.756Z
