@@ -28,15 +28,15 @@ changelog:
   - date: 2025-03-30T10:24:34.672Z
     message: Added new sets for 7.2, removed old sets
 bis:
-  - type: genericiframe
+  - type: xivgear
     description: |-
       Compatibility with Reaper:
       99% compatible - unavoidable meld change in one ring to get their 2.49
-    link: https://xivgear.app/?page=sl%7C7dadec28-4402-471b-918b-796a6db7efa6&onlySetIndex=2
+    link: https://xivgear.app/?page=embed|sl|7dadec28-4402-471b-918b-796a6db7efa6&onlySetIndex=2
     name: Savage BiS - 2.50 GCD
-  - type: genericiframe
+  - type: xivgear
     name: Prog BiS - 2.50 (Pentamelded)
-    link: https://xivgear.app/?page=sl%7C7dadec28-4402-471b-918b-796a6db7efa6&onlySetIndex=0
+    link: https://xivgear.app/?page=embed|sl%7C7dadec28-4402-471b-918b-796a6db7efa6&onlySetIndex=0
     description: |-
       For a budget set just leave out the overmelds.
 
