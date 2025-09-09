@@ -2,23 +2,8 @@
 title: Dark Knight Best in Slot (BiS)
 layout: bis
 patch: "7.3"
-lastmod: 2025-08-05T02:26:48.811Z
+lastmod: 2025-09-09T03:07:45.760Z
 changelog:
-  - date: 2021-10-27T17:45:00.078Z
-    message: Added
-  - date: 2022-01-11T22:47:14.275Z
-    message: Updated for 6.05 --- removed old sets, added in new BiS.
-  - date: 2022-05-16T07:52:57.378Z
-    message: Updated for 6.10 --- removed old sets, added in new BiS.
-  - date: 2022-09-19T08:20:38.279Z
-    message: Updated for 6.20/6.21 --- added in new BiS, and marked 6.1 sets as for
-      ultimate.
-  - date: 2023-06-16T08:07:35.808Z
-    message: Updated for 6.4 --- added new BiS sets for 6.4 and for Dragonsong
-      Ultimate, marked 6.2 sets as old.
-  - date: 2024-01-18T09:20:14.908Z
-    message: Updates for 6.55 --- new BiS sets with relic, some small updates to
-      ultimate sets.
   - date: 2024-07-28T10:20:21.825Z
     message: Added 7.0 sets
   - date: 2024-09-08T15:59:40.220Z
@@ -35,45 +20,60 @@ changelog:
     message: Updated current BiS sheet link with chaotic gear.
   - date: 2025-03-25T19:49:37.685Z
     message: Added sets for 7.2
+  - date: 2025-09-09T03:07:46.969Z
+    message: Grouped up the ultimate sets to one header, some aesthetic changes.
 bis:
   - type: xivgear
-    name: 7.2 BiS (2.50)
+    name: Current BiS (2.50)
     link: https://xivgear.app/?page=embed%7Cbis%7Cdrk%7Ccurrent&onlySetIndex=0
     description: Speed should be chosen according to comfort, but this set is
       generally recommended.
   - type: xivgear
-    name: 7.2 BiS (2.46)
+    name: Current BiS (2.46)
     link: https://xivgear.app/?page=embed|bis|drk|current&onlySetIndex=1
   - type: genericlink
-    name: 7.2 BiS Gearsets
+    name: All Current BiS Gearsets
     link: https://xivgear.app/#/bis/drk/current
+    description: A 2.46 gearset compatible with 2.50 is also found within.
   - type: xivgear
-    link: https://xivgear.app/?page=embed|bis|drk|prog&onlySetIndex=1
-    name: 7.2 Prog Gear (2.50, Tome chest)
+    link: https://xivgear.app/?page=embed|bis|drk|starter-gear&onlySetIndex=0
+    name: 7.3 Starter Gear
   - type: genericlink
     name: 7.2 Prog Gearsets
     link: https://xivgear.app/#/bis/drk/prog
+    description: At time of writing (7.3) this set is not recommended to be built
+      directly now, but is left for posterity. Instead, aim for the starter
+      gearset provided above.
+  - type: plain-text
+    name: Ultimate Raid BiS Gearsets
+    link: ""
+    description: |-
+      **FRU (Futures Rewritten (Ultimate)):**
+      </br>
+      https://xivgear.app/#/bis/drk/ultimate/fru
+      </br></br>
+      **TOP (The Omega Protocol (Ultimate)):**
+      </br>
+      https://xivgear.app/#/bis/drk/ultimate/top
+      </br></br>
+      **DSR (Dragonsong's Reprise (Ultimate)):**
+      </br>
+      https://xivgear.app/#/bis/drk/ultimate/dsr
+      </br></br>
+      **TEA (The Epic of Alexander (Ultimate)):**
+      </br>
+      https://xivgear.app/#/bis/drk/ultimate/tea
+      </br></br>
+      **UWU (The Weapon's Refrain (Ultimate)):**
+      </br>
+      https://xivgear.app/#/bis/drk/ultimate/uwu
+      </br></br>
+      **UCOB (The Unending Coil of Bahamut (Ultimate)):**
+      </br>
+      https://xivgear.app/#/bis/drk/ultimate/ucob
   - type: genericlink
-    name: FRU BiS Gearsets
-    link: https://xivgear.app/#/bis/drk/ultimate/fru
-  - type: genericlink
-    name: TOP BiS Gearsets
-    link: https://xivgear.app/#/bis/drk/ultimate/top
-  - type: genericlink
-    name: DSR BiS Gearsets
-    link: https://xivgear.app/#/bis/drk/ultimate/dsr
-  - type: genericlink
-    name: TEA BiS Gearsets
-    link: https://xivgear.app/#/bis/drk/ultimate/tea
-  - type: genericlink
-    link: https://xivgear.app/#/bis/drk/ultimate/uwu
-    name: UWU BiS Gearsets
-  - type: genericlink
-    link: https://xivgear.app/#/bis/drk/ultimate/ucob
-    name: UCoB BiS Gearsets
-  - type: genericlink
-    name: 7.15 BiS Gearsets
-    link: https://xivgear.app/#/bis/drk/archive/7.15
+    name: Old Patch Archived Gearsets
+    link: https://xivgear.app/?page=bisbrowser|drk|archive
 authors:
   - Balance-DRK-Staff
   - apileofcats
