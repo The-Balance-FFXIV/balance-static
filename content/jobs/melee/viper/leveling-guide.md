@@ -1,6 +1,6 @@
 ---
 title: Viper Leveling Guide
-card_header_image: /img/jobs/vpr/image_2024-11-10_193647496.png
+card_header_image: /img/jobs/vpr/image_2024-11-10_1936474961.png
 authors:
   - akashi
   - balance-vpr-staff
@@ -15,8 +15,6 @@ changelog:
     message: Updated to Patch 7.3
 ---
 # Viper Leveling Guide
-
-- - -
 
 This guide was written to inform players who are seeking to, or are currently leveling Viper. The guide aims to inform players about how to initially play as Viper, what gear they should use while levelling and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 100 Viper and are looking for information pertaining to the job at level 100, please see the [Viper Basic Guide](https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/).
 
