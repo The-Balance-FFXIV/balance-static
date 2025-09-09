@@ -21,7 +21,8 @@ changelog:
   - date: 2025-03-25T19:49:37.685Z
     message: Added sets for 7.2
   - date: 2025-09-09T03:07:46.969Z
-    message: Grouped up the ultimate sets to one header, some aesthetic changes.
+    message: Grouped up the ultimate sets to one header, added 7.3 starter gear,
+      some aesthetic changes.
 bis:
   - type: xivgear
     name: Current BiS (2.50)
