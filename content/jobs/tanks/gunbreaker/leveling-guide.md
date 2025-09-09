@@ -3,7 +3,7 @@ title: Gunbreaker Leveling Guide
 card_header_image: /img/jobs/gbn/screenshot-2025-09-09-131147.png
 authors:
   - azazael
-  - Balance-GNB-Staff
+  - krom
 patch: "7.3"
 lastmod: 2025-08-05T20:49:45.800Z
 changelog:
