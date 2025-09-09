@@ -1,6 +1,6 @@
 ---
 title: Gunbreaker Leveling Guide
-card_header_image: /img/jobs/gbn/leveling.png
+card_header_image: /img/jobs/gbn/leveling-screenshot.png
 authors:
   - azazael
   - krom
