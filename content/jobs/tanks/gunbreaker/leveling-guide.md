@@ -51,7 +51,7 @@ During dungeon encounters, it is generally preferred to pull as many of the mobs
 
 - - -
 
-The single target rotation is simple through the leveling process - it is composed of using your **Solid Barrel** combo until unlocking **Burst Strike**, which unlocks one of the fundamental job principles: Learn to manage your gauge resources effectively for **No Mercy**. The best way to do that is to not spend your gauge until you **must** spend gauge to prevent the gauge from overfilling, which is done by using **Burst Strike** when **Solid Barrel** is your next combo action and the gauge is full.
+The single target rotation is simple while leveling - it is composed of using your **Solid Barrel** combo until unlocking **Burst Strike**, which unlocks one of the fundamental job principles: Learn to manage your gauge resources effectively for **No Mercy**. The best way to do that is to not spend your gauge until you **must** spend gauge to prevent the gauge from overfilling, which is done by using **Burst Strike** when **Solid Barrel** is your next combo action and the gauge is full.
 
 After unlocking **Gnashing Fang**, it will be used once inside **No Mercy** and once outside of **No Mercy** every minute. The remaining damage cooldowns you unlock are either granted by **No Mercy** itself or are one-time-use actions that are obviously designed to be placed within **No Mercy**, making the single-target levelling process a simple adjustment of how many cooldowns to place within **No Mercy**.
 
