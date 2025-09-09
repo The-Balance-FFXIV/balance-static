@@ -1,6 +1,6 @@
 ---
 title: Gunbreaker Basic Guide
-card_header_image: /img/jobs/gnb/basic.png
+card_header_image: /img/jobs/gbn/screenshot-2025-09-09-131147.png
 authors:
   - Balance-GNB-Staff
 patch: "7.3"
