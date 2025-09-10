@@ -61,9 +61,9 @@ enableRobotsTXT = true
   #   url = '#'
   #   weight = 50
   [[menu.header]]
-    identifier = 'news'
-    name = 'Newsfeed'
-    url = '#'
+    identifier = 'discord'
+    name = 'Discord'
+    url = 'https://discord.gg/thebalanceffxiv'
     weight = 60
   [[menu.footer]]
     identifier = 'info'
