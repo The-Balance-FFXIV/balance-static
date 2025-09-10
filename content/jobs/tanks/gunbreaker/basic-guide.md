@@ -1,5 +1,5 @@
 ---
-title: Gunbreaker Basic Guide
+title: Basic Rotation Guide
 card_header_image: /img/jobs/gbn/screenshot-2025-09-09-131147.png
 authors:
   - Balance-GNB-Staff
