@@ -357,7 +357,7 @@ Since at least 2 **Edge/Flood of Shadow** are needed in the odd minutes to maint
 Even going into burst at full MP and using the MP generated from **Carve and Spit** and Delirium, however, we do not reach 15000 MP.
 
 To reach 5 **Edge/Flood of Shadow** in buffs, we use **The Blackest Night (TBN)** earlier, outside of buffs, in order to store a Dark Arts, essentially banking 3000 MP for later.
-With a stored Dark Arts from the previous minute, 9000+ MP, and the MP from Delirium and **Carve and Spit**, 5 **Edge/Flood of Shadow** within buffs are possible.
+With a stored Dark Arts from the previous minute, 9000+ MP, and the MP from **Delirium** and **Carve and Spit**, 5 **Edge/Flood of Shadow** within buffs are possible.
 
 This means that damage-optimal MP spending is as follows:
 * 5 **Edge of Shadow** in each buff window (except the opener, where one **Edge of Shadow** is used outside of buffs to get Darkside).
