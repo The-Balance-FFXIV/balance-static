@@ -1,6 +1,7 @@
 ---
-title: Gunbreaker Openers
+title: Openers
 authors:
+  - krom
   - Balance-GNB-Staff
 patch: "7.3"
 lastmod: 2025-08-05T20:50:58.253Z
@@ -14,11 +15,9 @@ changelog:
   - date: 2023-05-25T02:16:24.450Z
     message: Updated for 6.4.
 ---
-# Openers
+# Pulling Techniques
 
 Your opener is flexible and **No Mercy** can be used earlier or later than what is listed in either of these openers if necessary to allow for additional uses to be used before phases or mechanics, or alignment to your party's buffs.
-
-#### PULLING TECHNIQUES
 
 * Do not facepull unless the boss is already within melee range. It is a waste of GCD uptime in comparison to the following options:
   * **Lightning Shot** is heavily suggested for MT threat generation and buff alignment.
@@ -26,14 +25,10 @@ Your opener is flexible and **No Mercy** can be used earlier or later than what 
   * You may opt to use **Provoke** at -0.6s on the pull timer for an accurate pull at 0.00s. Exercise caution using this method - you may need **Provoke** if the fight begins with a tankbuster.
 
 
-#### OPENERS
+# Graphics
 
 ![2.50 Opener](https://u.cubeupload.com/krom/PKVD4O.png "2.50 Opener")
-
 </br>
-
 ![2.40 Opener](https://u.cubeupload.com/krom/sjDxEW.png "2.40 - 2.47 Opener")
-
 </br>
-
 ![Rotation](https://u.cubeupload.com/krom/otFy8D.png "2.50 Opener")
