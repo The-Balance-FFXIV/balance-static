@@ -1,5 +1,5 @@
 ---
-title: Gunbreaker Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/gbn/screenshot-2025-09-09-131147.png
 authors:
   - Balance-GNB-Staff
@@ -21,7 +21,7 @@ changelog:
   - date: 2024-08-06T18:57:17.680Z
     message: Updated for Dawntrail
 ---
-# Gunbreaker Rotation Guide
+# Intro Concepts
 
 #### Authors
 **Krom Ulus** | discord: krom.ulus\
