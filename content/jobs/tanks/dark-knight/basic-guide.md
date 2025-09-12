@@ -110,14 +110,16 @@ For oGCDs:
 * Replace **Edge of Shadow** with **Flood of Shadow**
 * Replace **Carve and Spit** with **Abyssal Drain**
 
-## MP Usage
+## MP Usage and Darkside Management
 
-Over the course of a fight, you should generally only spend MP by using **Edge of Shadow** or **Flood of Shadow** in these three situations:
+Dark Knight also interacts with Magic Points (MP), which for Dark Knight acts as a second gauge alongside the Blood Gauge. MP can be spent on **Edge of Shadow**, *Flood of Shadow**, or **The Blackest Night**. **Edge of Shadow** and **Flood of Shadow** extend Darkside, which is a personal buff that gives us +10% damage. We want to make sure we keep Darkside up, not overcap on MP, and, where possible, save the remaining MP-spenders for damage-increasing party buffs.
+
+As a result, over the course of a fight, you should generally only spend MP by using **Edge of Shadow** or **Flood of Shadow** in these three situations:
 - You're about to overcap MP
 - You're about to run out of Darkside
 - You're in burst, and have damage-increasing buffs
 
-This allows us to maintain high personal damage, as well as making sure we have as many MP spending abilities as possible for buffs.
+This allows us to maintain high personal damage, always keep Darkside at all times, as well as making sure we have as many MP spending abilities as possible for buffs.
 
 You should also aim to use **The Blackest Night** before buffs to get a charge of Dark Arts. This can be on auto-attacks, tankbusters, a raidwide, or anything you can. Dark Arts will allow you to get an additional **Edge of Shadow** in buffs. This concept is elaborated on further in [the advanced gameplay section](/jobs/tanks/dark-knight/basic-guide/#optimizing-raid-buffs-further).
 
