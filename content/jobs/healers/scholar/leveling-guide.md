@@ -1,5 +1,5 @@
 ---
-title: Scholar Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/sch/leveling.png
 authors:
   - potato

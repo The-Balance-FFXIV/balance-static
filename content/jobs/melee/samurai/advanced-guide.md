@@ -1,5 +1,5 @@
 ---
-title: Samurai Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/sam/advanced.png
 authors:
   - Balance-SAM-Staff

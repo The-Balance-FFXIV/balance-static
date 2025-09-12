@@ -1,5 +1,5 @@
 ---
-title: Pictomancer Skills Overview
+title: Skills Overview
 authors:
   - Laille-Ormesaing
   - balance-pct-staff

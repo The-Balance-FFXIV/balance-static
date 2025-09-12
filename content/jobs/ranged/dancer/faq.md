@@ -1,5 +1,5 @@
 ---
-title: Dancer FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.20"
 lastmod: 2025-04-01T04:00:56.823Z

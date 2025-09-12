@@ -1,5 +1,5 @@
 ---
-title: Warrior Intermediate Guide
+title: Intermediate Guide
 card_header_image: /img/jobs/war/war-intermediate-guide.png
 authors:
   - Balance-WAR-Staff

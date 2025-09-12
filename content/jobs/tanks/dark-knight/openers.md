@@ -1,5 +1,5 @@
 ---
-title: Dark Knight Openers
+title: Openers
 authors:
   - Balance-DRK-Staff
   - silaqui-amakiir
@@ -16,9 +16,7 @@ changelog:
   - date: 2025-05-18T20:04:45.514Z
     message: Minor updates to reflect hotfixed Shadowstride application delay.
 ---
-# Dark Knight Openers and Rotation
-
-# Dark Knight Openers
+# Graphics
 
 DRK is a flexible class, and so specific encounters may benefit from alternate openers.
 Encounter-specific opener information may be found in the [drk_encounter channel of the Balance discord](https://discord.com/channels/277897135515762698/1264618936297848926), or on fight-specific guides, where applicable.
@@ -59,8 +57,6 @@ Tanks currently use **Grade 3 Gemdraughts of Strength**.
 * If the prepull TBN will not break, it can be left out for a small MP loss. This does not change the rest of the opener substantially, although the last **Edge of Shadow** may get pushed further back.
 * **Shadowstride** can be used to pull instead of **Unmend**, and pulling with **Hard Slash** is also viable if the boss starts in melee range, but each of these options requires adding an extra **Hard Slash** before **Disesteem** to ensure that the burst fits into late-applied buffs. However, if you are the pulling tank, this can make positioning harder. There is more detail on this opener and its benefits and potential drawbacks in [a section in the advanced guide.](/jobs/tanks/dark-knight/advanced-guide/#opening-with-shadowstride)
 * If you cannot fit the **Edge of Shadow** before **Hard Slash** without clipping due to, for example, the boss being far away, move it to after **Hard Slash**. I.e., **Unmend** -> Potion -> **Hard Slash** -> **Edge of Shadow** -> **Living Shadow**.
-
-- - -
 
 # Rotation
 

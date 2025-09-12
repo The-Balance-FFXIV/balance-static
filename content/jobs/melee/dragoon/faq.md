@@ -79,7 +79,7 @@ changelog:
     message: Updated Dragon Sight Priority graphic
   - date: 2023-05-29T14:00:30.558Z
     message: Updated patch - no changes
-title: Dragoon FAQ
+title: Frequent Questions
 tags:
   - Dragoon
   - faq

@@ -1,5 +1,5 @@
 ---
-title: Dancer Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/dnc/leveling.png
 authors:
   - Balance-DNC-Staff
@@ -18,7 +18,7 @@ changelog:
   - date: 2024-06-28T07:12:42.566Z
     message: Updated the guide for Dawntrail
 ---
-# Leveling Guide for Dancer (DNC)
+# Introduction
 
 Written by: Ringabel Dim
 

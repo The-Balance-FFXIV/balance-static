@@ -1,5 +1,5 @@
 ---
-title: Viper Frequently Asked Questions
+title: Frequent Questions
 layout: qna
 patch: "7.3"
 lastmod: 2025-08-05T04:04:03.022Z

@@ -1,5 +1,5 @@
 ---
-title: Dragoon Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/drg/leveling.png
 authors:
   - Balance-DRG-Staff
@@ -17,8 +17,6 @@ changelog:
   - date: 2025-03-30T10:51:38.303Z
     message: Bump to 7.2
 ---
-# Dragoon Leveling Guide
-
 ## Gear
 
 Always use the highest Item Level gear available to you. The increase of Strength and survivability outweighs potentially more favorable substats in lower Item Level gear. The total amount of substats is also higher.

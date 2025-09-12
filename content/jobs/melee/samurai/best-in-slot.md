@@ -1,5 +1,5 @@
 ---
-title: Samurai Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.3"
 lastmod: 2025-08-06T01:39:28.594Z

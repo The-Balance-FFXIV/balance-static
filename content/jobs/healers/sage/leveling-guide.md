@@ -1,5 +1,5 @@
 ---
-title: Sage Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/sge/sgeleveling.png
 authors:
   - meru

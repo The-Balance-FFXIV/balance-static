@@ -1,5 +1,5 @@
 ---
-title: Black Mage Stat Priority
+title: Stat Priority
 patch: "7.2"
 lastmod: 2025-03-30T20:23:16.225Z
 changelog:

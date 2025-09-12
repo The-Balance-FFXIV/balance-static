@@ -1,5 +1,5 @@
 ---
-title: Ninja Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/nin/basic.png
 authors:
   - jackal

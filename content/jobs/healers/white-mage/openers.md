@@ -1,5 +1,5 @@
 ---
-title: White Mage Opener
+title: Openers
 authors:
   - Balance-WHM-Staff
 patch: "7.3"

@@ -1,5 +1,5 @@
 ---
-title: Bard Openers
+title: Openers
 authors:
   - Balance-BRD-Staff
 patch: "7.2"
@@ -12,7 +12,7 @@ changelog:
   - date: 2024-08-12T02:09:45.016Z
     message: Changed to 7.05 openers
 ---
-# Bard Openers
+# Standard Openers
 
 There are a few other openers you will see around, but the two below are the main general-purpose intermediate options.
 

@@ -1,5 +1,5 @@
 ---
-title: Red Mage Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/rdm/rdmav.png
 authors:
   - argen

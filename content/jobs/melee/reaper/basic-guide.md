@@ -1,5 +1,5 @@
 ---
-title: "Reaper Basic Guide "
+title: "Basic Guide "
 card_header_image: /img/jobs/rpr/rpr-basic.png
 authors:
   - ellunavi
@@ -28,7 +28,7 @@ tags:
   - Reaper
   - guide
 ---
-# Basic Reaper Guide
+# Introduction
 
 Welcome to the Basic Guide for Reaper, which will cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.
 

@@ -1,5 +1,5 @@
 ---
-title: Dragoon Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/drg/basic.png
 authors:
   - Balance-DRG-Staff

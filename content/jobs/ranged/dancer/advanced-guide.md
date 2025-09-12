@@ -1,5 +1,5 @@
 ---
-title: Dancer Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/dnc/advanced.png
 authors:
   - Tomcat1408

@@ -1,5 +1,5 @@
 ---
-title: Bard FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.01"
 lastmod: 2024-07-28T21:34:15.799Z

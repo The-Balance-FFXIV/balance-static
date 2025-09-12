@@ -1,5 +1,5 @@
 ---
-title: Samurai Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/sam/leveling.png
 authors:
   - Balance-SAM-Staff

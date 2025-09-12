@@ -1,5 +1,5 @@
 ---
-title: Reaper Non-Standard Guide
+title: Non-Standard Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
   - Balance-RPR-Staff

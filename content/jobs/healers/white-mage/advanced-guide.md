@@ -1,5 +1,5 @@
 ---
-title: White Mage Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/whm/advanced.png
 authors:
   - Balance-WHM-Staff

@@ -1,5 +1,5 @@
 ---
-title: Dark Knight FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.3"
 lastmod: 2025-08-05T02:26:01.426Z

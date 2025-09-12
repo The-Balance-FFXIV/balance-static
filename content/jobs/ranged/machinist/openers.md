@@ -1,5 +1,5 @@
 ---
-title: Machinist Openers
+title: Openers
 authors: []
 patch: "7.3"
 lastmod: 2025-08-05T17:58:00.753Z
@@ -13,7 +13,7 @@ tags:
   - "6.2"
   - FFXIV
 ---
-# Openers 
+# Graphics and Notes
 
 ![](/img/jobs/mch/machinist-standard-opener-aa-6-.png)
 

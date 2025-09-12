@@ -1,5 +1,5 @@
 ---
-title: Ninja FAQ
+title: Frequent Questions
 layout: qna
 patch: "6.4"
 lastmod: 2023-05-29T18:05:41.123Z

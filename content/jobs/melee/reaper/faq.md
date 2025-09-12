@@ -1,5 +1,5 @@
 ---
-title: Reaper FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.3"
 lastmod: 2025-08-07T04:10:29.518Z

@@ -1,5 +1,5 @@
 ---
-title: Reaper Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/rpr/rpr-leveling.png
 authors:
   - Balance-RPR-Staff

@@ -1,5 +1,5 @@
 ---
-title: Bard Stat Priority
+title: Stat Priority
 patch: "7.0"
 lastmod: 2024-07-28T21:42:53.821Z
 changelog:

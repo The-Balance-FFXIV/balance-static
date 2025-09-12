@@ -1,5 +1,5 @@
 ---
-title: Red Mage FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.2"
 lastmod: 2024-08-02T04:26:31.977Z

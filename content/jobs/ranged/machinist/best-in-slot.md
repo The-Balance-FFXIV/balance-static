@@ -1,5 +1,5 @@
 ---
-title: Machinist Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.3"
 lastmod: 2025-08-22T08:17:48.417Z

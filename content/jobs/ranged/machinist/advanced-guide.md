@@ -1,5 +1,5 @@
 ---
-title: Machinist Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/mch/advanced.png
 authors:
   - hint

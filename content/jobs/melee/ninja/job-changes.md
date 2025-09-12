@@ -1,5 +1,5 @@
 ---
-title: Ninja Changes
+title: Recent Changes
 layout: changes
 lastmod: 2022-09-20T06:40:19.200Z
 changes:

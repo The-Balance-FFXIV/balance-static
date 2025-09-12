@@ -1,5 +1,5 @@
 ---
-title: Scholar Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.3"
 lastmod: 2025-08-12T00:30:15.396Z

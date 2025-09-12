@@ -1,5 +1,5 @@
 ---
-title: Monk Openers
+title: Openers
 authors:
   - Perfect-Balance
 patch: "7.05"
@@ -14,9 +14,7 @@ changelog:
   - date: 2024-07-29T00:14:36.177Z
     message: updated for DT
 ---
-# Openers
-
-## "Which opener do I pick?"
+# "Which opener do I pick?"
 
 It depends on when your group is bursting. 5/7s don't have any major implications one way or the other for us, so do what fits your party the best. 
 

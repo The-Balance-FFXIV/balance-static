@@ -1,5 +1,5 @@
 ---
-title: Scholar Changes
+title: Recent Changes
 layout: changes
 lastmod: 2025-08-07T03:54:16.518Z
 changes:

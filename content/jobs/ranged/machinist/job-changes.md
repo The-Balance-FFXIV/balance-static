@@ -1,5 +1,5 @@
 ---
-title: Machinist Changes
+title: Recent Changes
 layout: changes
 lastmod: 2023-01-10T20:23:33.571Z
 changes:

@@ -1,5 +1,5 @@
 ---
-title: Scholar Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/sch/basic.png
 authors:
   - tealjaker

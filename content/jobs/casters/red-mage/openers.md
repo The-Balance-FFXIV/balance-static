@@ -1,5 +1,5 @@
 ---
-title: Red Mage Openers
+title: Openers
 authors:
   - Balance-RDM-Staff
 patch: "7.01"
@@ -14,7 +14,7 @@ changelog:
   - date: 2024-07-28T17:23:04.488Z
     message: Updated for Dawntrail
 ---
-## **Openers**
+## **Opener Notes**
 
 At time of writing, there are three general purpose openers that are viable for their own reasons.
 

@@ -1,5 +1,5 @@
 ---
-title: Monk Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.2"
 lastmod: 2025-03-31T22:02:44.561Z

@@ -1,5 +1,5 @@
 ---
-title: Astrologian Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/ast/advanced.png
 authors:
   - Balance-AST-Staff

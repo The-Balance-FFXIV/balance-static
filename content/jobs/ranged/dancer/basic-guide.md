@@ -1,5 +1,5 @@
 ---
-title: Dancer Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/dnc/basic.png
 authors:
   - Tomcat1408

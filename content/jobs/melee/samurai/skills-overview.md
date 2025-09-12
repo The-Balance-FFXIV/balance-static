@@ -1,5 +1,5 @@
 ---
-title: Samurai Skills Overview
+title: Skills Overview
 authors:
   - Balance-SAM-Staff
   - Flare
@@ -25,9 +25,7 @@ changelog:
   - date: 2025-08-05T02:48:24.853Z
     message: Updated for 7.3
 ---
-# Samurai Skills Overview
-
-## Global Cooldown Actions (Single Target)
+# Global Cooldown Actions (Single Target)
 
 | Icon                                                                                   | Name     | Description                                                                                                                                                         |
 | -------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +37,7 @@ changelog:
 | ![Yukikaze](https://xivapi.com/i/003000/003166_hr1.png)                                | Yukikaze | Single target second step combo. 160 potency, 340 potency if combo from Hakaze. Combo Bonus: Setsu Sen, +15 Kenki.                                                  |
 | ![Enpi](https://xivapi.com/i/003000/003155_hr1.png)                                    | Enpi     | Single target ranged attack, 100 potency, 270 if combo (Yaten). +10 Kenki.                                                                                          |
 
-## Global Cooldown Actions (Area of Effect)
+# Global Cooldown Actions (Area of Effect)
 
 | Icon                                                    | Name     | Description                                                                                             |
 | ------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------- |
@@ -48,7 +46,7 @@ changelog:
 | ![Mangetsu](https://xivapi.com/i/003000/003163_hr1.png) | Mangetsu | AoE in a circle around you, 100 potency, 120 if combo. Combo Bonus: Getsu Sen, Fugetsu buff. +10 Kenki. |
 | ![Oka](https://xivapi.com/i/003000/003165_hr1.png)      | Oka      | AoE in a circle around you, 100 potency, 120 if combo. Combo Bonus: Ka Sen, Fuka buff. +10 Kenki.       |
 
-## off-Global Cooldown Actions
+# Off-Global Cooldown Actions
 
 | Icon                                                                                       | Name              | Description                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------ | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,7 +64,7 @@ changelog:
 | ![Shoha](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003184_hr1.tex?format=png)     | Shoha             | Line AOE, 640 potency with 40% damage falloff. -3 Meditation stacks. 15s CD.                                                                                                                                          |
 | ![Zanshin](https://beta.xivapi.com/api/1/asset/ui/icon/003000/003192_hr1.tex?format=png)   | Zanshin           | Cone AOE, 940 potency with 40% damage falloff. -50 Kenki.                                                                                                                                                             |
 
-## Iaijutsu
+# Iaijutsu
 
 | Icon                                                                                                     | Name                    | Description                                                                                                               |     |
 | -------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------- | --- |
@@ -84,7 +82,7 @@ changelog:
 | ![Ogi Namikiri](https://xivapi.com/i/003000/003187_hr1.png)                                              | Ogi Namikiri            | AoE frontal cone. 100 potency with 40% damage falloff. This attack will always critical hit. +1 Meditation stack (Max 3). |     |
 | ![Kaeshi: Namikiri](https://xivapi.com/i/003000/003188_hr1.png)                                          | Kaeshi: Namikiri        | AoE frontal cone. Repeat of Ogi Namikiri. 1000 potency with 40% damage falloff. This attack will always critical hit.     |     |
 
-## Role Actions
+# Role Actions
 
 | Icon                                                        | Name         | Description                                                                                                                                                                        |
 | ----------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -95,7 +93,7 @@ changelog:
 | ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png) | Arm's Length | Grants knockback immunity for 6s (note that some knockbacks cannot be mitigated with this) and inflicts 20% slow for 15s on attackers when struck during this time. 120s cooldown. |
 | ![True North](https://xivapi.com/i/000000/000830_hr1.png)   | True North   | Nullifies all positional requirements for 10s. 45s cooldown, can hold 2 charges.                                                                                                   |
 
-## Traits
+# Traits
 
 | Icon                                                                                                       | Name                      | Description                                                                                                                                                      |     |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |

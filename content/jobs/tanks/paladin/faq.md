@@ -1,5 +1,5 @@
 ---
-title: Paladin FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.3"
 lastmod: 2025-08-06T18:59:42.314Z

@@ -1,5 +1,5 @@
 ---
-title: Reaper Skill Overview
+title: Skills Overview
 authors:
   - Balance-RPR-Staff
 patch: "7.3"

@@ -1,5 +1,5 @@
 ---
-title: Warrior Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/war/leveling.png
 authors:
   - Balance-WAR-Staff

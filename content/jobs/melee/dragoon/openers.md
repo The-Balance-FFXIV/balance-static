@@ -1,5 +1,5 @@
 ---
-title: Dragoon Openers
+title: Openers
 authors:
   - Balance-DRG-Staff
 patch: "7.2"
@@ -22,7 +22,7 @@ changelog:
   - date: 2025-03-30T10:47:39.936Z
     message: Bump to 7.2000000000
 ---
-# Dragoon Opener and Rotation
+# Opener and Rotation Notes
 
 The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new job design, it’s possible that we’ll actually have fight-specific openers down the stretch.
 

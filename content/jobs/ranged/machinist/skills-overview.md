@@ -1,5 +1,5 @@
 ---
-title: Machinist Skills Overview
+title: Skills Overview
 authors:
   - Balance-MCH-Staff
 patch: "7.3"

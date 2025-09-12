@@ -1,5 +1,5 @@
 ---
-title: White Mage Stat Priority
+title: Stat Priority
 patch: "7.3"
 lastmod: 2025-08-07T04:14:00.634Z
 changelog:

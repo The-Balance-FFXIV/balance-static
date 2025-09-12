@@ -1,5 +1,5 @@
 ---
-title: Red Mage Stat Priority
+title: Stat Priority
 patch: "7.2"
 lastmod: 2025-03-24T00:00:00.000Z
 changelog:

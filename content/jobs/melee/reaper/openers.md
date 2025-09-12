@@ -1,5 +1,5 @@
 ---
-title: Reaper Openers
+title: Openers
 authors:
   - Balance-RPR-Staff
 patch: "7.3"

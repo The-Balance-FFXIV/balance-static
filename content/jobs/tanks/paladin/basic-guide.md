@@ -1,5 +1,5 @@
 ---
-title: Paladin Basics Guide
+title: Basics Guide
 card_header_image: /img/jobs/pld/basic.png
 authors:
   - nikroulah

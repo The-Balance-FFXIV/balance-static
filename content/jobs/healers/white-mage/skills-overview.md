@@ -1,5 +1,5 @@
 ---
-title: White Mage Skills Overview
+title: Skills Overview
 authors:
   - shy
   - pyre

@@ -1,5 +1,5 @@
 ---
-title: Machinist Stat Priority
+title: Stat Priority
 patch: "7.2"
 lastmod: 2025-04-11T06:32:44.807Z
 changelog:

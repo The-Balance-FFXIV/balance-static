@@ -1,5 +1,5 @@
 ---
-title: Astrologian Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.3"
 lastmod: 2025-04-19T07:15:57.965Z

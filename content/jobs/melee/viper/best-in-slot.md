@@ -1,5 +1,5 @@
 ---
-title: Viper Best in Slot
+title: Best in Slot
 layout: bis
 patch: "7.3"
 lastmod: 2025-08-07T03:09:03.838Z

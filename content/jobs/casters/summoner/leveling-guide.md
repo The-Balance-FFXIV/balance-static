@@ -1,5 +1,5 @@
 ---
-title: Summoner Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/smn/leveling.png
 authors:
   - elevation

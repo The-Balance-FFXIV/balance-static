@@ -1,5 +1,5 @@
 ---
-title: Summoner Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/smn/advanced.png
 authors:
   - Balance-SMN-Staff

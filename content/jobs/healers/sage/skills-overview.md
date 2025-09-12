@@ -1,5 +1,5 @@
 ---
-title: Sage Skills
+title: Skills Overview
 authors:
   - Balance-SGE-Staff
   - wynn

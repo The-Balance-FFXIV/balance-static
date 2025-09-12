@@ -1,5 +1,5 @@
 ---
-title: Scholar Openers
+title: Openers
 authors:
   - Balance-SCH-Staff
 patch: "7.31 "
@@ -16,6 +16,8 @@ changelog:
   - date: 2024-07-27T20:44:43.258Z
     message: Updated for Dawntrail
 ---
+## Opener Notes
+
 **Remember that the exact ability usage in these openers is not strict.** If you need to use a heal in the opener or hold an AF stack for later healing do so. This is the ability usage you'd do on a dummy, but not every fight allows for it.
 
 **Dissipation First Openers:** You can swap the place of Aetherflow and Dissipation in both of the above openers. This can have several advantages: the fairy comes back about 15s earlier due to an earlier Dissipation (giving you access to her healing again), the 2000mp from Aetherflow comes later (meaning it won't be wasted to overcapping), and it aligns Aetherflow correctly for a six ED buff window at two minutes. The last benefit is minor as you can simply delay the two minute Aetherflow instead if using an Aetherflow first opener. The main drawback of doing a Dissipation first opener is the risk of losing an Aetherflow use over the course of the fight or the phase, though this risk is shared by any rotation that does six ED buff windows every two minutes. It also changes the timings of when you get AF stacks back which make an impact on your healing plan. Consider the positives and negatives of Dissipation first when planning out the fight. 

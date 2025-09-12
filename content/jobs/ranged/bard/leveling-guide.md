@@ -1,5 +1,5 @@
 ---
-title: Bard Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/brd/leveling.png
 authors:
   - TKCetonis
@@ -15,7 +15,7 @@ changelog:
   - date: 2024-08-12T02:39:07.899Z
     message: Dawntrail update
 ---
-# Bard Leveling Guide
+# Getting Started
 
 ## Gear
 

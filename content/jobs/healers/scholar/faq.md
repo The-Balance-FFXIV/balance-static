@@ -1,5 +1,5 @@
 ---
-title: Scholar FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.31 "
 lastmod: 2025-09-04T16:26:02.277Z

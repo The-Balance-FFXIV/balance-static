@@ -1,5 +1,5 @@
 ---
-title: Ninja Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/nin/leveling.png
 authors:
   - akashi

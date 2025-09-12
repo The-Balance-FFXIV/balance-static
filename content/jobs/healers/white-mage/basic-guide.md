@@ -1,5 +1,5 @@
 ---
-title: White Mage Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/whm/basic.png
 authors:
   - meru

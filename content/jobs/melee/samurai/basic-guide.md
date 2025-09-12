@@ -1,5 +1,5 @@
 ---
-title: Samurai Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/sam/basic.png
 authors:
   - Balance-SAM-Staff

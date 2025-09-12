@@ -1,5 +1,5 @@
 ---
-title: Machinist Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/mch/basic.png
 authors:
   - Balance-MCH-Staff
@@ -21,7 +21,7 @@ tags:
   - MCH
   - FFXIV
 ---
-# Basic Machinist Guide
+# Introduction
 
 Welcome to the Basic Machinist Guide! Within this document, you'll find all the information you'll need to play the job well. The links below can be used as teleports to other pages if you need the information while learning the job. Any questions can be directed to the Machinist channels in our Discord.
 

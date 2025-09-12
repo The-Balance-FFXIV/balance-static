@@ -1,5 +1,5 @@
 ---
-title: Astrologian Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/ast/basic.png
 authors:
   - Balance-AST-Staff

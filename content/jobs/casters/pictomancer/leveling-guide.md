@@ -1,5 +1,5 @@
 ---
-title: Pictomancer Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/pct/pictomancer-8.png
 authors:
   - balance-pct-staff
@@ -74,7 +74,8 @@ Three Targets: Fire in Red -> Aero In Green -> Water In Blue/Water II In Blue
 ## Level 60 - 70
 
 
-The basic spells remain unchanged. For Subtractive Palette, follow this priority: 
+The basic spells remain unchanged. 
+For Subtractive Palette, follow this priority: 
 
 
 One/Two Targets: Blizzard In Cyan -> Stone in Yellow -> Thunder in Magenta
@@ -94,7 +95,8 @@ Use Comet in Black after Creature and Weapon muses if Subtractive Palette is ava
 
 ## Level 94 - 100
 
-Fire II In Red, Aero II in Green, Water II in Blue are all now gains at four or more targets. Blizzard In Cyan, Stone in Yellow, and Thunder in Magenta are also now gains at four or more targets. 
+Fire II In Red, Aero II in Green, Water II in Blue are all now gains at four or more targets.
+ Blizzard In Cyan, Stone in Yellow, and Thunder in Magenta are also now gains at four or more targets. 
 
 
 

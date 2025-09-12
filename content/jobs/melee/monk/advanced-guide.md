@@ -1,5 +1,5 @@
 ---
-title: Monk Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/mnk/advanced.png
 authors:
   - nyanpyon

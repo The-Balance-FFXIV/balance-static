@@ -1,5 +1,5 @@
 ---
-title: Ninja Stat Priority
+title: Stat Priority
 patch: "6.4"
 lastmod: 2023-05-29T18:07:41.941Z
 changelog:

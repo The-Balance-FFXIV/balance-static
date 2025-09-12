@@ -1,5 +1,5 @@
 ---
-title: Samurai Changes
+title: Recent Changes
 layout: changes
 lastmod: 2025-08-05T02:44:20.866Z
 changes:

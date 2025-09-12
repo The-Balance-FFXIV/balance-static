@@ -1,5 +1,5 @@
 ---
-title: Warrior Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/war/advanced.png
 authors:
   - squall

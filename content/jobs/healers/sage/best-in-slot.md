@@ -1,5 +1,5 @@
 ---
-title: Sage Best in Slot
+title: Best in Slot
 layout: bis
 patch: "7.3"
 lastmod: 2025-08-10T23:03:15.519Z

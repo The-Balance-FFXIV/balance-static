@@ -1,5 +1,5 @@
 ---
-title: Pictomancer Best in Slot
+title: Best in Slot
 layout: bis
 patch: "7.2"
 lastmod: 2025-03-30T03:24:29.844Z

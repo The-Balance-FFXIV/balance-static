@@ -1,5 +1,5 @@
 ---
-title: Dragoon Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.2"
 lastmod: 2025-03-30T10:24:31.355Z

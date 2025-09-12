@@ -1,5 +1,5 @@
 ---
-title: Paladin Skills Overview
+title: Skills Overview
 authors:
   - nikroulah
 patch: "7.3"

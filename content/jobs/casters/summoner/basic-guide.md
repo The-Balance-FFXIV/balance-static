@@ -1,5 +1,5 @@
 ---
-title: Summoner Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/smn/basic.png
 authors:
   - Balance-SMN-Staff

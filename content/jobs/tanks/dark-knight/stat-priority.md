@@ -1,5 +1,5 @@
 ---
-title: Dark Knight Stat Priority
+title: Stat Priority
 patch: "7.3"
 lastmod: 2025-08-05T02:27:11.018Z
 changelog:

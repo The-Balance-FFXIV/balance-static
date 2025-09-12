@@ -1,5 +1,5 @@
 ---
-title: Paladin Stat Priority
+title: Stat Priority
 patch: "7.3"
 lastmod: 2025-08-06T19:01:49.722Z
 changelog:

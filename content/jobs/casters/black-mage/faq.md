@@ -1,5 +1,5 @@
 ---
-title: Black Mage FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.2"
 lastmod: 2025-03-30T22:02:21.883Z

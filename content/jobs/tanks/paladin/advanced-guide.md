@@ -1,5 +1,5 @@
 ---
-title: Paladin Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/pld/advanced.png
 authors:
   - nikroulah

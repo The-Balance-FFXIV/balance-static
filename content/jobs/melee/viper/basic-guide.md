@@ -1,5 +1,5 @@
 ---
-title: Viper Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/vpr/image_2024-11-10_193623139.png
 authors:
   - ToraelValdis

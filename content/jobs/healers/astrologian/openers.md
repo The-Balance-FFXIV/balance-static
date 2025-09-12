@@ -1,5 +1,5 @@
 ---
-title: Astrologian Openers
+title: Openers
 authors:
   - Balance-AST-Staff
   - Ahriqi
@@ -13,7 +13,7 @@ changelog:
   - date: 2024-08-11T19:48:43.866Z
     message: Updated for Dawntrail
 ---
-# Opener
+# General Opener
 
 The most up to date Astrologian opener(s) can always be found in the #ast_resources channel on The Balance Discord. Keep in mind that Astrologian openers are somewhat flexible, and can be adjusted based on the context of a fight, or any given burst window.
 

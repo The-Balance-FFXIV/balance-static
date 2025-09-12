@@ -1,5 +1,5 @@
 ---
-title: Paladin Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/pld/leveling.png
 authors:
   - nikroulah
@@ -15,8 +15,6 @@ changelog:
   - date: 2024-07-10T02:16:51.074Z
     message: Updated for 7.0
 ---
-# Paladin Leveling
-
 ## Dungeon Tips
 
 ### Keeping Aggro

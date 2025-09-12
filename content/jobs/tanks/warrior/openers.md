@@ -1,5 +1,5 @@
 ---
-title: Warrior Openers
+title: Openers
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
@@ -15,7 +15,7 @@ changelog:
 tags:
   - warrior
 ---
-# Warrior Openers and Rotation
+# Opener Graphic and Notes
 
 Warriors prepare their burst while waiting for the party buffs to appear.\
 After the buffs are up, fell cleaves are used first for comfort, but the order of IR GCDs can be swapped around as desired.
@@ -52,7 +52,7 @@ There's nothing special about this. This is your usual opener, probably.
 
 There are more "Early IR" openers, and they all have various niche use cases. For a short documentation on these, please see this [Google doc](https://bit.ly/dt-war-openers)
 
-## Rotation Optimization
+# Rotation Optimization
 
 The basic rotation in a 100% uptime scenario is, generously put, a priority list:
 

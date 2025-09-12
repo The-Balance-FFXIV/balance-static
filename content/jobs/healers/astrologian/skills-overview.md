@@ -1,5 +1,5 @@
 ---
-title: Astrologian Skills Overview
+title: Skills Overview
 card_header_image: /img/jobs/ast/2022-03-11_15-30-57-810_okamipassion.jpg
 authors:
   - shy

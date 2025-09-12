@@ -1,5 +1,5 @@
 ---
-title: Black Mage Openers
+title: Openers
 authors:
   - Balance-BLM-Staff
 patch: "7.2"

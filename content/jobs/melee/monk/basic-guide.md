@@ -1,5 +1,5 @@
 ---
-title: Monk Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/mnk/basic.png
 authors:
   - Perfect-Balance
@@ -27,7 +27,7 @@ changelog:
 
 ![]()
 
-# **Basic Monk Guide**
+# Introduction
 
 Welcome to the basic guide for Monk, which will cover all of the information necessary to get you off your feet and onto your hands. Included is a look into the various systems that come together to define the Monk playstyle, suggested openers, and explanations on how to correctly form burst windows.
 

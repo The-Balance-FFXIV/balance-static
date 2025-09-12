@@ -1,5 +1,5 @@
 ---
-title: White Mage Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.3"
 lastmod: 2025-08-10T23:11:01.939Z

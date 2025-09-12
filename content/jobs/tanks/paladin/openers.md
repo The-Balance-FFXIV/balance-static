@@ -1,5 +1,5 @@
 ---
-title: Paladin Openers
+title: Openers
 authors:
   - Balance-PLD-Staff
   - nikroulah
@@ -21,7 +21,7 @@ changelog:
   - date: 2025-03-25T19:59:52.413Z
     message: Added AoE section, with 7.2 information.
 ---
-# Paladin Openers
+# Graphics and Notes
 
 Tanks currently use Grade 3 Gemdraught of Strength 
 (Strength also affects tank magic potency, including healing).

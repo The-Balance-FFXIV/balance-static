@@ -1,5 +1,5 @@
 ---
-title: Ninja Openers
+title: Openers
 authors:
   - Balance-NIN-Staff
   - jackal
