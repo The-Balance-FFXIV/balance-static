@@ -1,5 +1,5 @@
 ---
-title: Gunbreaker Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/gbn/leveling-screenshot.png
 authors:
   - azazael
@@ -12,7 +12,7 @@ changelog:
   - date: 2022-04-12T00:13:48.783Z
     message: Updated for Endwalker.
 ---
-# Leveling Guide
+# Intro
 
 This guide will teach you when to use your AOE skills while you are engaged in leveling content. You should generally follow these rules:
 
