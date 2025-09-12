@@ -1,5 +1,5 @@
 ---
-title: Gunbreaker BIS
+title: Best In Slot
 layout: bis
 patch: "7.3"
 lastmod: 2025-08-05T20:49:16.033Z
