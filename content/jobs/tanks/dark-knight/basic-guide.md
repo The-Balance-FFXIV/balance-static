@@ -6,7 +6,7 @@ authors:
   - silaqui-amakiir
   - violet-stardust
 patch: "7.3"
-lastmod: 2025-08-05T02:25:05.163Z
+lastmod: 2025-09-12T22:04:47.892Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
     message: Added
@@ -28,6 +28,8 @@ changelog:
     message: Minor updates to the opener, and some small stylistic updates.
   - date: 2025-05-18T19:58:20.463Z
     message: Minor updates to reflect hotfixed Shadowstride application delay.
+  - date: 2025-09-12T22:04:48.723Z
+    message: Added section about TBN, some minor restructuring.
 tags: []
 ---
 # Introduction
@@ -42,7 +44,7 @@ Skills and abilities can be found on [this page.](/jobs/tanks/dark-knight/skills
 
 # Dark Knight Opener
 
-Goals for DRK openers include:
+Goals for Dark Knight openers include:
 
 * Use as many big hits and spend as much MP as possible inside potion and raid buff windows (which typically come up around the third or fourth GCD). This means that most skills will be delayed until this point.
 * Get **Living Shadow** out early enough that its attacks fully fit into buffs. Its long spawn animation and the fact that it updates with buffs in real time means that it is best used before buffs come out, unlike skills that apply damage immediately.
@@ -107,7 +109,6 @@ For oGCDs:
 * Replace **Edge of Shadow** with **Flood of Shadow**
 * Replace **Carve and Spit** with **Abyssal Drain**
 
-
 ## Pooling Resources for Raid Buffs
 
 **Edge of Shadow** and **Bloodspiller** can be delayed without loss, as long as MP and Blood Gauge do not overcap. Dark Knight is thus uniquely able to pool a massive amount of potency for use during party raid buff windows, which typically come every 2 minutes.
@@ -121,13 +122,13 @@ To reach 5 **Edge/Flood of Shadow** in buffs, we use **The Blackest Night (TBN)*
 With a stored Dark Arts from the previous minute, 9000+ MP, and the MP from Delirium and **Carve and Spit**, 5 **Edge/Flood of Shadow** within buffs are possible.
 
 This means that damage-optimal MP spending is as follows:
-* 5 **Edge of Shadow** in each buff window (except the opener, where one Edge of Shadow is used outside of buffs to get Darkside).
+* 5 **Edge of Shadow** in each buff window (except the opener, where one **Edge of Shadow** is used outside of buffs to get Darkside).
 * Three MP spenders in odd minutes, where the last one is **The Blackest Night**, with the Dark Arts from this being held into the next buff window.
 
 Note that the first two MP spenders in odd minutes can freely be **The Blackest Night (TBN)** as well, with their Dark Arts then being used before the next TBN.
 Similarly, TBN can be used during buffs without losing damage as long as the Dark Arts it generates can be spent on **Edge/Flood of Shadow** before the buff window ends.
 
-Similarly, though more simply, entering buffs (when Delirium is pressed) with 70 or less Blood Gauge will ensure that you do not overcap on Blood Gauge.
+Similarly, though more simply, entering buffs (when **Delirium** is pressed) with 70 or less Blood Gauge will ensure that you do not overcap on Blood Gauge.
 This allows for using 1-2 **Bloodspillers** during every 2-minute raid buff window, and it is best to have the Blood Gauge as high as possible (up to 70) when entering Delirium.
 
 ## Rotation Video
