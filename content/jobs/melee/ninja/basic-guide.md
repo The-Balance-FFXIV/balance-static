@@ -53,7 +53,6 @@ th {
 
 
 table {
-  background: black;
     display: block;
     max-width: fit-content;
     margin: 0 auto;
