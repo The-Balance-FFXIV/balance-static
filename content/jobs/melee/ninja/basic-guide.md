@@ -62,8 +62,6 @@ table {
 }
 </style>
 <div>
-<div>
-  <div>
 
 # Introduction
 
