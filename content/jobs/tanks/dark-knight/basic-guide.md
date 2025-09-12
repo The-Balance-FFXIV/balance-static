@@ -283,7 +283,7 @@ Cycle through your mitigation on trash pulls (they hurt more than bosses). Rathe
 
 **The Blackest Night** (**TBN**) is one of Dark Knight's best abilities, but also probably its most misunderstood. It's also one of the best pieces of targeted or personal mitigation in the entire game, if not the best, and hopefully this section helps you understand why.
 
-It costs 3000 MP, which on the surface causes many people to worry about losing damage. If you use a **TBN** and it doesn't pop, you lose a whole **Edge of Shadow**'s worth of damage.
+It costs 3000 MP, which on the surface causes many new Dark Knights to worry about the potential of losing damage. Most obviously, if you use a **TBN** and it doesn't pop, you lose a whole **Edge of Shadow**'s worth of damage.
 
 However, practically speaking, in a large dungeon pull or facing down a tankbuster in a raid or trial, it's almost impossible for it not to break. On boss auto-attacks, it should be immediately obvious as to whether or not those auto-attacks break **TBN** during progression (they almost always will), meaning by the time damage starts mattering, in the rare case that they don't break **TBN**, you'll know.
 
