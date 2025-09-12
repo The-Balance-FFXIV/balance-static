@@ -21,89 +21,91 @@ changelog:
   - date: 2024-08-06T18:57:17.680Z
     message: Updated for Dawntrail
 ---
-# Intro Concepts
+# Introductory Concepts
+## Section TLDR
 
-#### Authors
-**Krom Ulus** | discord: krom.ulus\
-**Azazel Raine** | discord: azazelraine
-
-**Gunbreaker** is a tank job with a focus on continuously building and spending cartridges to deal very high damage inside of strict burst windows. As a basic overview, the rotation is a builder-spender rotation focused on optimizing damage dealt every minute inside **No Mercy**, which is a 20% damage buff that lasts for 20 seconds after its use.
-
-In this guide we will discuss a number of subjects, beginning with a simple introduction to the priority system for the rotation and then moving into more scenario specific subjects for particular things that alter the rotation in specific ways.
+* The gauge is what allows you to use your most important actions. Do not overcap or overspend it.
+* Damage or healing calculations occur when an action is cast, not when they apply to a target. This is important for buff optimization.
+* With GCD recast speeds faster than 2.50, you will occasionally (or always) use **No Mercy** at 9 o-clock relative to the GCD roll indicator.
 
 - - -
+
+**Gunbreaker** is a job with a focus on continuously building and spending cartridges to deal very high damage inside of strict burst windows. As a basic overview, the rotation is a builder-spender rotation focused on optimizing damage dealt every minute inside **No Mercy**, which is a 20% damage buff that lasts for 20 seconds after its use.
+
+We must establish some basic concepts about the gauge usage, buff management, and buff usage before explaining the rotation.
+
+</br>
 
 ## Powder Gauge
 
 - - -
 
-The powder gauge (or cartridge gauge) carries a maximum of 3 charges (or cartridges), and is the resource gauge that is managed in order to carry enough cartridges to cast all of the desired cooldowns within **No Mercy**.
+The powder gauge (or cartridge gauge) carries a maximum of 3 charges (cartridges), which is the resource required in order to cast all of the desired cooldowns within each usage of **No Mercy**.
 
 The actions that will fill the cartridge gauge are as follows:
 
 * **Solid Barrel** and **Demon Slaughter** both generate one cartridge upon finishing their combo.
+* These combo chains cannot be broken unless switching from one to the other or using the wrong action in sequence.
 * **Bloodfest** will completely refill the cartridge gauge.
 
 The actions that will spend cartridges from the gauge are as follows:
 
 * **Gnashing Fang, Double Down, Burst Strike,** and **Fated Circle** all spend one cartridge.
+* **Gnashing Fang** is broken by the cartridge-generating combos and **Reign of Beasts**.
+
+Familiarizing yourself with each combo and how they work is important. You should generally never break an active combo or finish a combo that will generate another charge while the powder gauge is full, as that would overwrite the charge.
+
+</br>
+
+## How Damage Works With Buffs
 
 - - -
 
-## Buff Principles & Using No Mercy
+### Damage Snapshotting
 
+Understanding damage "snapshotting" is important because it significantly impacts the correct approach to buff usage, which is relevant to us because of our buff, **No Mercy**. 
+- Action damage is calculated instantaneously when the server receives the request to use that action, not when the action applies to a target. 
+- In other words, if you use an action when a buff is active, the effects of that buff are saved permanently, regardless of how long it takes for that action to deal damage or heal a target.
+- Debuff-based damage over time effects such as **Sonic Break** function in the same way, allowing for more flexible usage of **Sonic Break** since the entire effect is buffed regardless of when **Sonic Break** is used.
+
+This allows a ninth GCD to be buffed by **No Mercy** at GCD recast speeds faster than 2.50, and allows **Sonic Break** to flexibly move as a gap filler for certain optimizations (or mistake recovery) within the burst phase since the effect duration is fully buffed so long as it was initially cast at some point while **No Mercy** was active.
+
+</br>
+
+## No Mercy
 - - -
+### 9 GCD No Mercy
 
-### Section TLDR:
+Acquiring the ninth GCD within **No Mercy** requires a specific usage time relative to the GCD indicator roll. Using **No Mercy** very early in the GCD roll would result in the buff activating while your GCD is still on-cooldown, wasting active buff time as you wait for the next GCD to be usable.
 
-* Damage calculations occur as soon as an action is registered, not when it hits a target.
-* This results in it being possible to get extra GCDs into **No Mercy** when the GCD is faster than 2.50 by casting **No Mercy** later in the GCD roll.
-* Use **No Mercy** off cooldown in accordance with the usage guidelines at the end of this section.
-* Do not attempt to clip the GCD to cast **No Mercy** off cooldown.
+For GCD recast speeds faster than 2.50, **No Mercy** must be cast as a "late weave" to attain the 9th GCD, or if imagining the indicator as a clock, when the rolling GCD indicator reaches a "nearly-9-o-clock" position. **No Mercy** takes slightly over half a second (600ms) to activate after pressing it, so using **No Mercy** as a late weave results in the buff activating at the same time that the next GCD can be cast, wasting little to no active buff time and permitting the use of a ninth GCD within the final second of **No Mercy**.
 
-- - -
+### Usage Timing By GCD Recast Speed
 
-A couple of concepts should first be established regarding both how damage is calculated and how cooldowns align from GCD speeds in order to understand how and when to use **No Mercy**.
+Not every GCD recast speed is a good fit for **No Mercy**. Some speeds within the range Gunbreaker typically plays at can and will cause inevitable drift because of how a 60 second cooldown aligns to the number of possible GCDs at that GCD speed within a 60 second period. This will drift you away from party buffs, potentially damaging your DPS.
 
-#### Damage Snapshotting
-
-Understanding damage "snapshotting" is important because it significantly impacts the correct approach to buff management. Action damage is calculated instantaneously when the server receives the request to use that action, not when the action applies to a target. This means the only important factor in buff management is ensuring that any desired action is cast while the buff is still active, and that when those actions apply to a target is completely irrelevant. Debuff-based damage over time effects such as **Sonic Break** function in the same way, allowing for more flexible usage of **Sonic Break**.
-
-This allows a ninth GCD to be buffed within **No Mercy** at faster speeds than 2.50, and allows **Sonic Break** to flexibly move as a gap filler for certain optimizations or mistakes within the burst phase since the effect duration is fully buffed so long as it was initially cast at some point while **No Mercy** was active.
-
-#### 9 GCD No Mercy
-
-Acquiring the ninth GCD within **No Mercy** requires a specific usage time relative to the GCD roll. Using **No Mercy** very early in the GCD roll would result in the buff activating while your GCD is still on-cooldown, wasting active buff time.
-
-**No Mercy** must be cast as a "late weave", or when imagining the indicator as a clock, when the rolling GCD indicator reaches a nearly-9-o-clock position. **No Mercy** takes slightly over half a second (600ms) to activate after pressing it, so using **No Mercy** as a late weave results in the buff activating at the same time that the next GCD can be cast, wasting little to no active buff time and permitting the use of a ninth GCD within the final second of **No Mercy**.
-
-#### No Mercy Usage Guidelines
-
-Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to drift when attempting to cast it, which can drift **No Mercy** away from party buffs. To minimize this as much as possible, there are basic usage guidelines for how and when to cast **No Mercy** based on GCD speed ranges. As a rule of thumb, 2.50, 2.45, and 2.40 all have little to no innate drift of **No Mercy**. Deviating to a slower speed within the listed ranges below (e.g. 2.47 instead of 2.45) will introduce some drift to the cooldown regardless of how well the usage guidelines are followed.
+To minimize this as much as possible, there are basic usage guidelines for when to cast **No Mercy** based on **GCD speed ranges**. The **fastest speed within each listed range** is the speed that has the **least drift**. Deviating to a slower speed will linearly increase the innate drift that occurs with every usage of **No Mercy**.
 
 **2.50 GCD**
 
-* Use **No Mercy** as an early weave off cooldown.
+* Use **No Mercy** off cooldown whenever it is usable, but preferably as an early weave (3 o'clock).
 
 **2.45 - 2.47 GCD**
 
-* Use **No Mercy** as an early weave without **Bloodfest**.
-* Use **No Mercy** as a late weave with **Bloodfest**.
+* Without **Bloodfest**, use **No Mercy** off cooldown as an early weave (3 o'clock).
+* With **Bloodfest**, use **No Mercy** off cooldown as a late weave (9 o'clock).
 
 **2.40 - 2.44 GCD**
 
-* Use **No Mercy** as a late weave off cooldown.
+* Use **No Mercy** off cooldown as a late weave (9 o'clock).
 
 # Openers
 
 ![2.50 GNB Opener](https://u.cubeupload.com/krom/PKVD4O.png)
 
-</br>
-
 ![2.4N GNB Opener](https://u.cubeupload.com/krom/sjDxEW.png)
-</br>
 
-#### Opener Notes
+### Opener Notes
 
 - The **Lightning Shot** cast is suggested for threat generation and raid buff alignment.
   - **Trajectory** can be used at -0.66s to replace **Lightning Shot** (1/10th threat generation).
@@ -121,9 +123,6 @@ Certain GCD speeds are poorly aligned to **No Mercy** and cause **No Mercy** to 
 
 ![Gunbreaker Rotation Graphic](https://u.cubeupload.com/krom/otFy8D.png)
 
-</br>
-
-- - -
 ## Filler Priority
 - - -
 
@@ -137,7 +136,8 @@ The goal of this is to prepare the appropriate cartridges for **No Mercy**.
 
 Once **No Mercy** comes back off cooldown, weave it in accordance with the usage guideline above this section.
 
-- - -
+</br>
+
 ## Burst Phase
 - - -
 
@@ -169,7 +169,7 @@ OGCD cooldowns within **No Mercy** should be used in the following priority:
   * **Bloodfest** is normally moved **into the burst window** for maximum resource flexibility. Doing so results in you automatically having the necessary powder gauge for your next burst.
   * Using **Bloodfest** before your burst window can permit a more optimal killtime, as it will move your **Burst Strike** damage before **No Mercy**.
 
-- - -
+</br>
 
 ## Unique Burst Phases
 
@@ -183,7 +183,7 @@ Reduce to 1 cartridge by casting a **Burst Strike** in place of that **Solid Bar
 
 All future usages of **No Mercy with Bloodfest** will begin with 1 cartridge. Encountering any additional rotational upsets can potentially force **No Mercy** to begin off cooldown again with two cartridges. If that happens, delay **Bloodfest** by one GCD.
 
-- - -
+</br>
 
 ## Combo Considerations
 
@@ -199,7 +199,7 @@ Certain actions cannot be cast while certain combo chains are active without bre
 * **Gnashing Fang** and **Lionheart** are both broken by the Solid Barrel combo, as well as its AOE counterpart. 
 * **Gnashing Fang** and **Lionheart** are also their own independent combo chains that cannot be used or mixed together, or they will break the other. 
 
-- - -
+</br>
 
 ## Skill Speed Considerations
 
@@ -250,7 +250,7 @@ Those three speeds in particular are the most favorable for staying aligned with
 
 Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.42 or something slower, it just means that the *risk* of losing raid buff damage over extended periods of time where raid buffs never realign to **No Mercy** is increased when running other speeds, which can potentially be a damage loss depending on the encounter.
 
-- - -
+</br>
 
 ## Recovery Considerations
 
@@ -280,7 +280,7 @@ If none of these heuristics are available options, a small delay to **No Mercy**
 
 # AOE Priority
 
-### Level 100
+## Level 100
 
 * Use the **Demon Slaughter** combo on 3 targets or more.
 * Use **Fated Circle** on 2 targets or more.
@@ -299,72 +299,72 @@ If none of these heuristics are available options, a small delay to **No Mercy**
 
 # Mitigation
 
-#### **Great Nebula**
+**Great Nebula**
 
 * Reduces damage taken by 40% for 15 seconds.
 * Increases maximum health by 20% and heals you for that amount.
 
-#### **Rampart**
+**Rampart**
 
 * Reduces damage taken by 20% for 20 seconds.
 * Increases healing received by self-healing actions by 15%.
 
-#### **Camouflage**
+**Camouflage**
 
 * Reduces damage taken by 10% for 20 seconds. 
 * Provides an additive +50% **parry rate** (for a total of 60% parry rate) for 20 seconds. **Parrying** applies a 15% damage reduction to **physical attacks only**.
 
-#### **Heart of Corundum**
+**Heart of Corundum**
 
 * Reduces their damage taken by 27.75% for the first 4 seconds it was applied, and 15% for the next 4 seconds after that. 
 * Applies a 900 potency heal that will proc upon a player's maximum HP reaching less than 50%, or when the buff expires 20 seconds later.
 
-#### **Aurora**
+**Aurora**
 
 * Targeted 18 second heal over time effect that heals yourself or your target for 300 potency every 3 seconds (1800 total). 
 * It has two stacks, which makes it an effective regen effect to apply to any player that requires extra healing over a certain duration.
 
-#### **Superbolide**
+**Superbolide**
 
 * Reduces HP to 50% of your maximum HP and renders you impervious to most attacks for 10 seconds.
 
-#### **Arm’s Length**
+**Arm’s Length**
 
 * Provides knockback or draw-in effect immunity for six seconds. 
 * Applies a 20% Slow effect to enemies that attack you while Arm’s Length is active (enemies will attack you 20% slower, very useful for dungeons).
 
-- - -
+</br>
 
 ## Party Utility
 
 - - -
 
-#### **Heart of Light**
+**Heart of Light**
 
 * Reduces **magic damage** taken by 10% and **physical damage** taken by 5% for self and party members in a 30y radius around you for 15 seconds.
 
-#### **Reprisal**
+**Reprisal**
 
 * Reduces damage dealt by all enemies in a 5y radius around you by 10% for 15 seconds. 
 
-#### **Low Blow**
+**Low Blow**
 
 * Stuns a target for five seconds. Interrupts any cast.
 * Enemies that get stunned repeatedly will slowly develop stun immunity.
 
-#### **Interject**
+**Interject**
 
 * Interrupts any cast (if it is an interruptible cast). 
 
-#### **Provoke**
+**Provoke**
 
 * Places you at the top of the enmity list and grants 5000 potency worth of additional enmity (50,000 if tank stance is active).
 
-#### **Shirk**
+**Shirk**
 
 * Transfers 25% of your current enmity to any targeted party member.
 
-- - -
+</br>
 
 ## Mitigation Planning
 
@@ -372,17 +372,17 @@ If none of these heuristics are available options, a small delay to **No Mercy**
 
 All mitigation is multiplicative. As an example with both Rampart and Great Nebula together, the total reduced damage amount is **1 - (1 - 0.2) * (1 - 0.4) = 52%** when put together.
 
-Despite the apparent loss in efficiency, it is optimal in many types of content to stack mitigation together to minimize damage taken during periods of heavy damage or high rates of damage, which typically apply to either tankbuster attacks or dungeon pulls. Efficiency loss is irrelevant in relation to fight-specific mitigation needs.
+Despite the apparent theoretical 8% loss in efficiency from stacking them, it is not only optimal but *necessary* in many types of content to stack mitigation together to minimize damage taken during instances of heavy damage or periods with a high rate of damage, which typically apply to either tankbuster attacks or dungeon pulls respectively, but can also apply to things like boss auto attack chains. **Efficiency loss is irrelevant in relation to fight-specific mitigation needs, especially when most cooldowns are sitting waiting to be used throughout a fight anyways.**
 
-Understanding the fight timeline is critical to effective mitigation. Every pull should be a live re-assessment of your usage timing on mitigation such as Reprisal and Heart of Light (or any personal mitigation) to evaluate if you can cover additional instances of damage with the same usage.
+Understanding the fight timeline is critical to effective mitigation. Every pull you make should be a live re-assessment of your usage timing on mitigation such as Reprisal and Heart of Light (or any personal mitigation) to evaluate if you can either cover additional instances of damage with the same usage, or gain additional usages of that cooldown later while still covering the same instance of damage with the current usage.
 
-Give yourself appropriate time to weave mitigation during your normal rotation. Utilize the long active timer of your heavy mitigation to your advantage and use it before the cast if necessary. It only needs to be active for the hit preparation.
+Give yourself appropriate time to weave mitigation during your normal rotation. Utilize the long active timer of your heavy mitigation to your advantage and use it before the cast if necessary to permit weaving needs. It only needs to be active for the hit preparation.
 
 The majority of tankbusters can be resolved through a basic strategy of employing either Rampart and Camoflauge tied with Heart of Corundum, or Nebula tied with Heart of Corundum. Some strategies may prefer that you use Superbolide as well.
 
-Heart of Corundum is also techable in the sense that you can use it and abuse the proc timer of Catharsis of Corundum, the 900 potency heal effect. The proc heal does not go off until 20 seconds expire, or a player drops below 50% HP. This allows niche strategies to be employed that allow you to very precisely time a heal to go off at the correct time long in advance.
+Heart of Corundum is also an extremely flexible action in the sense that you can use it and abuse the proc timer of Catharsis of Corundum, which is the 900 potency heal effect that it carries. The proc heal does not go off until 20 seconds expire, or a player drops below 50% HP. This allows niche strategies to be employed that allow you to very precisely time a heal to go off at the ideal time, where healing is necessary but mitigation is not.
 
-- - -
+</br>
 
 ## Dungeon Tips
 
@@ -391,7 +391,7 @@ Heart of Corundum is also techable in the sense that you can use it and abuse th
 Attempt to pull wall-to-wall if the healer is capable of handling it.\
 Use your cooldowns as follows:
 
-#### General Tips
+**General Tips**
 
 * Prepull Heart of Corundum early to proc free healing as you are running.
 * Apply Aurora to help buffer into any required healing.
@@ -399,7 +399,7 @@ Use your cooldowns as follows:
 * Lightly space mitigations out over a couple of GCDs, but ensure most of it is active while the majority of the dungeon targets are alive.
 * If you're playing with a WHM, let them cast Holy on the mobs before mitting.
 
-#### First Wall to Wall:
+**First Wall to Wall**:
 
 * Rampart and Camoflauge
 * Heart of Corundum (off cooldown)
@@ -407,7 +407,7 @@ Use your cooldowns as follows:
 * Low Blow (off cooldown)
 * Consider Heart of Light (5% physical)
 
-#### Second Wall to Wall:
+**Second Wall to Wall**:
 
 * Great Nebula and Arm's Length
 * Heart of Corundum (off cooldown)
