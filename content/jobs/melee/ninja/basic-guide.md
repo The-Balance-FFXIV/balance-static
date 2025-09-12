@@ -117,28 +117,9 @@ If you're looking for <b class="pb">Advanced Optimizations</b> such as Extended 
 
 ⦿ [XIVAnalysis](https://xivanalysis.com/) is good for checking general mistakes and viewing a timeline.
 
-⦿ [XIVGear](https://xivgear.app/) create BIS for any job
+⦿ [XIVGear](https://xivgear.app/) is useful for creating gearsets for any job
 
-# Table of Contents
-
-- [Core Concepts](#core-concepts)
-- [Standard Openers](#standard-openers)
-- [Standard Rotation](#standard-rotation)
-  - [Filler & Kazematoi](#filler--kazematoi)
-  - [Positionals](#positionals)
-  - [Ninki](#ninki)
-  - [Ninjutsus](#ninjutsus)
-  - [Multi-Target-Overview](#multi-target-overview)
-- [Standard Burst Windows](#standard-burst-windows)
-  - [Odd Window](#odd-window)
-  - [Even Window](#even-window)
-- [Miscellaneous](#miscellaneous)
-  - [Boss Disengagement](#boss-disengagement)
-  - [Downtime](#downtime)
-
-## Core Concepts
-
-<hr>
+# Core Concepts
 
 
 ⦿ <b class="pb">Ninki</b> is one of two gauges, and allows us to accumulate resources for use of <b>Bhavacakra</b>, <b >Hellfrog Medium</b> or <b>Bunshin</b>.
@@ -217,12 +198,8 @@ Pet potency is roughly x0.92 of their listed tooltip.
 - Single-Target bunshin hits are 147 potency.
 ```
 
-## Standard Openers
+# Standard Openers
 
-<hr>
-
-
-### Standard Openers
 
 <div style="text-align: center;">
 <img src="https://maplespyder.github.io/NIN-Guide/assets/images/standard4th.png" style="max-width:800px; border: 1px solid white;" />
@@ -234,7 +211,6 @@ Pet potency is roughly x0.92 of their listed tooltip.
 - Ideally drift Dokumori 1 GCD post opener, to allow for better alignment with all other raid buffs. We use it so early in the opener due to Bunshin.
 - Can catch the last Raiju (Extended Standard) with very late woven Kunai's Bane. More in the Advanced Guide.
 <br>
-<hr>
 
 
 <div style="text-align: center;">
@@ -246,7 +222,6 @@ Pet potency is roughly x0.92 of their listed tooltip.
 - This uses Kunai's Bane a GCD earlier, but is a slightly weaker opener.
 - This opener is preferable on 2.10 GCD due to inherit drift on that speed.
 <br>
-<hr>
 
 <div style="text-align: center;">
 <img src="https://maplespyder.github.io/NIN-Guide/assets/images/3rdGCDDoku.png" style="max-width:800px; border: 1px solid white;" />
@@ -255,25 +230,23 @@ Pet potency is roughly x0.92 of their listed tooltip.
 
 - Similar to 4th GCD Standard except Dokumori is much better aligned with other raid buffs in the party.
 - Main difference is Bunshin is 1GCD later throughout the fight and is a slightly weaker opener.
-<br>
-<hr>
+<br
 
-## Standard Rotation
-
-<hr>
+# Standard Rotation
 
 
-### Filler & Kazematoi
+
+## Filler & Kazematoi
 
 Outside of our Kunai's Bane & Dokumori burst windows, our filler is straight-forward. A majority of it will be using our combo route <b class="pb" >Spinning Edge</b> → <b class="pb">Gust Slash</b> → <b class="pb">Aeolian Edge</b> / <b class="pb">Armor Crush</b>, and allows us to continue doing damage until our next burst window.
 
 We should only use <b>Aeolian Edge</b> when our Kazematoi Gauge has at least 1 kazematoi. Otherwise, we ought to use <b>Armor Crush</b> to build. It is also important to build enough gauge so that we use <b>Aeolian Edge</b> in Kunai's Bane and Dokumori instead of <b>Armor Crush</b>.
 
-### Positionals
+## Positionals
 
 <b>Aeolian Edge</b> is a <b class="pb">rear</b> positional while <b>Armor Crush</b> is a <b class="pb">flank</b> positional. Since we have flexibility on how we build/spend kazematoi, we should line our usage up so it's convenient to hit a rear or flank positional.
 
-### Ninki
+## Ninki
 
 Throughout our rotation we will be building resources and spending <b class="pb">Ninki</b> as needed. Optimally, it is best if we pool our Ninki as high as possible without overcapping for our Kunai's Bane window, then dump as many spenders as weave space provides. Generally this will look to be between 1 to 3 Bhavacakras/Zesho Meppo per Kunai window.
 
@@ -320,7 +293,7 @@ Throughout our rotation we will be building resources and spending <b class="pb"
   </tbody>
 </table><br>
 
-### Ninjutsus
+## Ninjutsus
 
 [Cheat Sheet](https://imgur.com/a/veFvPGp): Easy to view guide for all Ninjutsu combinations. Remember, only the <b>last</b> mudra matters for what ninjutsu gets created.
 
@@ -386,7 +359,7 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
   </tbody>
 </table><br>
 
-### Multi-Target Overview
+## Multi-Target Overview
 
 <table>
   <thead>
@@ -432,16 +405,14 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
   </tbody>
 </table><br>
 
-## Standard Burst Windows
-
-<hr>
+# Standard Burst Windows
 
 
 Since Ninja's damage is primarily focused on our burst windows, and less on our filler, it is important to be confident with the execution of our Kunai's Bane and Dokumori burst windows.
 
 Our burst can be split into two types: <b class="pb">Odd Windows</b> (1m,3m,5m...) and <b class="pb">Even Windows</b> (0m,2m,4m...). Our even windows will have our 2-minute cooldowns while our odd windows will not.
 
-### Odd Window
+## Odd Window
 
 This is a window that happens every <b class="pb">odd minute</b> or is better identified by its absence of 2-minute cooldowns. This window is easier to execute than the Even Window, for there are a lot less abilities we will cram within the window.
 
@@ -484,7 +455,7 @@ If Bunshin was used 45s within an odd Kunai's Bane, and <b>Phantom Kamaitachi</b
 - Similar to the first example, but we used a GCD as the first thing in Kunai's Bane. This method could help alleviate Dream Within A Dream drift.
 
 
-### Even Window
+## Even Window
 
 This is a window that occurs every even minute or is a window that has all our 2-minute cooldowns available. The Even window is much like our Odd Trick, but is stronger for we will be also bursting within <b class="pb">Dokumori</b> and have all our other 2-minute cooldowns.
 
@@ -502,7 +473,7 @@ That means you should <b>always</b> fit in x3 Raijus into Dokumori. And 1-2 addi
 
 There is an <b class="pb">additional optimization</b> regarding 2-minute windows where Kunai's Bane is late woven to catch +1 GCD. It's a bit tight and therefore can be found here: [Further Optimization](https://maplespyder.github.io/NIN-Guide/2024/07/04/nin-advanced-optimization.html)
 
-#### Examples
+### Examples
 
 <div style="text-align: center;">
 <img src="https://maplespyder.github.io/NIN-Guide/assets/images/evenEx1.png" style="max-width:800px; border: 1px solid white;" />
@@ -516,12 +487,12 @@ There is an <b class="pb">additional optimization</b> regarding 2-minute windows
 
 - Similar to the first example but Dokumori is late weave and therefore catches 5 GCDs.
 
-## Miscellaneous
+# Miscellaneous
 
 <hr>
 
 
-### Boss Disengagement
+## Boss Disengagement
 
 Ninja is considered the most flexible melee in terms of disconnecting from the boss. As every Ninjutsu is ranged and Phantom Kamaitachi isn't necessary for our burst window. Below is a simple priority:
 
@@ -534,7 +505,7 @@ If the boss disengage is <b>during</b> burst, it's somewhat annoying due to our 
 
 Note that our auto attacks are melee, so try to stay on the boss whenever possible.
 
-### Downtime
+## Downtime
 
 Downtime == Boss untargetable.
 
