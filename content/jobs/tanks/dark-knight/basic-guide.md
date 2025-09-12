@@ -76,8 +76,6 @@ The potion used is whatever the current tier's Strength potion is (as of the tim
 * **Shadowstride** can be used to pull instead of **Unmend**, and pulling with **Hard Slash** is also viable if the boss starts in melee range, but each of these options requires adding an extra **Hard Slash** before **Disesteem** to ensure that the burst fits into late-applied buffs. However, if you are the pulling tank, this can make positioning harder. There is more detail on this opener and its benefits and potential drawbacks in [a section in the advanced guide.](/jobs/tanks/dark-knight/advanced-guide/#opening-with-shadowstride)
 * If you cannot fit the **Edge of Shadow** before **Hard Slash** without clipping due to, for example, the boss being far away, move it to after **Hard Slash**. I.e., **Unmend** -> Potion -> **Hard Slash** -> **Edge of Shadow** -> **Living Shadow**.
 
-- - -
-
 # Rotation
 
 ## Single-Target Rotation
@@ -135,8 +133,6 @@ This allows for using 1-2 **Bloodspillers** during every 2-minute raid buff wind
 ## Rotation Video
 
 {{< youtube -qDvEZQU9dQ >}}
-
-- - -
 
 # Helpful Macros
 
@@ -212,7 +208,7 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 Note that for the mouse-over macros, if you opt to use them, we recommend having them *in addition to* the normal ability keybind. The normal ability keybind will be easier to use on yourself, as well as being more reliable than the macro, since macros do not properly queue, as discussed above.
 
-- - -
+These same principles can be used to make your own macros, too! For example, if you wanted to make a macro for **The Blackest Night** for each party member, you'd make one macro where the inner lines of the macro are `/ac "The Blackest Night" <1>`, another where they are `/ac "The Blackest Night" <2>` and so forth.
 
 # Stats and Itemization
 
@@ -260,8 +256,6 @@ In optimization, each encounter must be considered separately to determine what 
 
 If in doubt, or you're not sure what any of this means, we recommend 2.50. It will likely be more forgiving if you're new to the job or have very high ping, as well as simming very slightly better. If you like Dark Knight a lot or want to branch out, then we recommend trying 2.46 too, which many find a very comfortable speed, and deciding for yourself what's comfiest for you.
 
-- - -
-
 # Dungeons
 
 ## Keeping Aggro
@@ -283,23 +277,80 @@ Cycle through your mitigation on trash pulls (they hurt more than bosses). Rathe
 
 **Living Dead** can be extremely strong in dungeons, as a single AoE GCD will often heal you to full after Walking Dead is activated. However, an inexperienced healer may heal too much during **Living Dead**, preventing Walking Dead from activating. It may help to let your healers know ahead of time where you plan to use **Living Dead**, to avoid this problem.
 
-- - -
+# Let's Talk About The Blackest Night (TBN)
 
-# Frequently Asked Questions
+## What is TBN?
 
-#### Can I use all my MP on The Blackest Night (TBN)?
+**The Blackest Night** (**TBN**) is one of Dark Knight's best abilities, but also probably its most misunderstood. It's also one of the best pieces of targeted or personal mitigation in the entire game, if not the best, and hopefully this section helps you understand why.
 
-Up to 3 (4 with careful timing, by using TBN during a buff window) MP spenders per 2 minutes can be TBN without losing any damage --- all three spenders in the odd-numbered minutes, plus one in the even-numbered minute.
-Note that the damage loss from using TBN more than this is smaller than the damage loss from dying!
-It is always better to lose damage in buffs in order to stay alive, and sometimes even to reduce the amount of healing needed.
+It costs 3000 MP, which on the surface causes many people to worry about losing damage. If you use a **TBN** and it doesn't pop, you lose a whole **Edge of Shadow**'s worth of damage.
 
-- - -
+However, practically speaking, in a large dungeon pull or facing down a tankbuster in a raid or trial, it's almost impossible for it not to break. On boss auto-attacks, it should be immediately obvious as to whether or not those auto-attacks break **TBN** during progression (they almost always will), meaning by the time damage starts mattering, in the rare case that they don't break **TBN**, you'll know.
+
+That means that, practically speaking, **TBN** is damage neutral to a damage gain. Since the shield always breaks, you're never losing damage, and you can **gain** damage by using the Dark Arts that its breakage grants can be used to 'move' your MP around, allowing for five **Edge of Shadow**s in a buff window as opposed to four. Indeed, the start of [advanced Dark Knight play](/jobs/tanks/dark-knight/basic-guide/#optimizing-raid-buffs-further) revolves around this concept. 
+
+Of course, if a second **TBN** pops before you've used the **Dark Arts** from the first one, you would lose damage, but that would obviously be user error, and this is very easy to avoid.
+
+So, to once and for all answer the question:
+> Is TBN a damage loss?
+
+No. **TBN** is either damage neutral, or a gain, allowing you to move extra damage into buffs.
+
+## Its Cooldown
+
+**TBN** is special compared to the other tank 'short mits' (**Bloodwhetting**, **Heart of Corundum**, and **Holy Sheltron**) in that it has a 15 second cooldown. The other tanks either have a 25 second cooldown (Warrior and Gunbreaker) or are limited by gauge to be roughly every 30 seconds (Paladin).
+
+Its cooldown allows it to mitigate more frequently than other tanks, allowing you to mitigate tankbusters that are fifteen seconds apart. There's a lot of times this comes up in more difficult fights like Savages and Ultimates, and the flexibility to be able to use your mitigation there isn't an option those tanks have.
+
+There **is** a downside of using it so frequently though, you'll move some of your MP spending out of buffs if you use too much. However, up to 4 (the last sometimes requires careful timing, by using TBN during a buff window) MP spenders per 2 minutes can be TBN without moving any damage out of buff windows --- all three spenders in the odd-numbered minutes, plus one in the even-numbered minute. An astute reader will note that four per 2 minutes is also the same amount of times that a 25 second cooldown will typically fit.
+
+To summarize, there's very few practical circumstances in which you need (or even want) so many TBNs you move damage out of buff windows, but if there's so much damage you need to TBN so often you lose damage, then **no other tank would have as much mit** as Dark Knight.
+
+A good way to think about it is this: unlike other tanks, Dark Knight has the option to move damage out of buff windows to mitigate more damage whenever it wants. If this is saving healers GCD heals, this is always better, and is another example of **TBN** being a DPS gain compared to other 'short mit'.
+
+## Shields (Like TBN) Are Really Really Good
+
+**TBN** provides a shield equal to 25% of the target's health upon application. Note that this, like other percentage-based barriers in the game, isn't increased by 'increased healing' effects, such as **Rampart** upon gaining the **Enhanced Rampart** trait.
+
+Shields work really well with mitigation, and, unless there are multiple big hits within the same period, often work out better than having 'more mitigation'. In particular, a 25% shield is absolutely massive, and works out to more than you might intuit. This is primarily because the shield applies after all other mitigation, so the mitigated hit will collide with your **TBN**, not the unmitigated hit.
+
+Let's look at a few example mitigation scenarios comparing **TBN** to the 15% mitigation offered by **Holy Sheltron** and **Heart of Corundum**, to illustrate just how good **TBN** is against competition.
+
+In a scenario where we have 100,000 health, and are taking a 25,000 damage (after all other reductions) tankbuster:
+
+- The Dark Knight with **TBN** and no other mitigation will take no damage at all.
+
+- The other tank with 15% mit will take 21,250 damage.
+
+In a scenario where we have 100,000 health, and are taking a 50,000 damage (after all other reductions) tankbuster:
+
+- The Dark Knight with **TBN** and no other mitigation will take 25,000 damage.
+
+- The other tank with 15% mit will take 42,500 damage.
+
+In a scenario where we have 100,000 health, and are taking a 100,000 damage (after all other reductions) tankbuster:
+
+- The Dark Knight with **TBN** and no other mitigation will take 75,000 damage
+
+- The other tank with 15% mit will take 85,000 damage
+
+In a scenario where we have 100,000 health, and are taking a 124,000 damage (after all other reductions) tankbuster:
+
+- The Dark Knight with **TBN** and no other mitigation will take 99,000 damage, and live
+
+- The other tank with 15% mit will die
+
+It should be obvious from these examples that **TBN**, unlike percentage based mitigation, mitigates more damage relative the smaller the hit is, since the amount it blocks is static.
+
+Of course, if some of the larger tankbusters in these scenarios hit twice within the eight second durations of the two abilities we're comparing against, then the other mitigation will win out. That being said, practically speaking, most of the way this game deals out damage fits very neatly with the circumstances that make **TBN** so darn good.
 
 # Advanced Gameplay
 
 This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it.
 
-While this section will go over some optimizations for Dark Knight, for those looking for more, we also have an [advanced guide](/jobs/tanks/dark-knight/advanced-guide) with many other notes and discussions of nuance.
+## Advanced Guide
+
+While this section will go over some optimizations for Dark Knight, for those looking for more, we also have an [advanced guide](/jobs/tanks/dark-knight/advanced-guide) with many other notes and discussions of nuance. If you're looking for more like this section, we'd recommend checking that out!
 
 ## Optimizing Raid Buffs Further
 
