@@ -24,22 +24,10 @@ changelog:
   - date: 2024-08-11T04:25:56.095Z
     message: Updated for Dawntrail.
 ---
-
-
-
-
 <style>
 
 .pb {
     color: #c92664;
-}
-
-.sb {
-    color: white;
-}
-
-h3 {
-  color: #d952b0;
 }
 
 a { 
@@ -50,30 +38,16 @@ code {
   background: black !important;
 }
 
-.highlight {
-  background: black !important;
-  color: white;
-}
-
-/* tr {
-  background: #161b22 !important;
-  color: white;
-} */
-
 tbody tr:nth-child(odd) {
     background-color: #0d1117;
-    color: white;
 }
 
 tbody tr:nth-child(even) {
     background-color: #161b22;
-    color: white;
-
 }
 
 th {
     background-color: #0e1114 !important;
-    color: white;
 }
 
 
