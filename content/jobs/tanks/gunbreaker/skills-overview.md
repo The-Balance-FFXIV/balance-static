@@ -1,5 +1,5 @@
 ---
-title: Gunbreaker Skills Overview
+title: Skills Overview
 authors:
   - Balance-GNB-Staff
 patch: "7.3"
@@ -18,9 +18,7 @@ changelog:
   - date: 2023-05-28T13:01:14.571Z
     message: Updated range value of Heart of Light.
 ---
-# Gunbreaker Skills Overview
-
-## Offensive On Global Cool Down Abilities
+# Offensive On Global Cool Down Abilities
 
 |                                                                                                  |                     |                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -41,7 +39,7 @@ changelog:
 | ![FatedCircle](/img/jobs/tanks/gunbreaker/Fated_Circle.png)                                      | **Fated Circle**    | Deals 300 potency to all targets in a 5y circle around you and grants **Ready to Raze** at level 96.                                                                                            |
 | ![Double Down](https://i.imgur.com/65HIKLr.png)                                                  | **Double Down**     | Deals 1200 potency to the first target hit and 15% less for all other targets within 5y. Requires one cartridge.                                                                                |
 
-## Offensive Off Global Cooldown Abilities
+# Offensive Off Global Cooldown Abilities
 
 |                                                                                              |                   |                                                                                                                                                                                                                                                            |     |
 | -------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
@@ -57,7 +55,7 @@ changelog:
 | ![BlastingZone](/img/jobs/tanks/gunbreaker/Blasting_Zone.png)                                | **Blasting Zone** | Deals 800 potency to a single target with a 30 second cooldown.                                                                                                                                                                                            |     |
 | ![BowShock](/img/jobs/tanks/gunbreaker/Bow_Shock.png)                                        | **Bow Shock**     | Deals 150 potency to all targets in a 5y circle around you, and applies a damage-over-time effect dealing 60 potency every 3 seconds for 15 seconds total to all targets hit by the initial attack (for a total of 450 potency per target).                |     |
 
-## Defensive Off Global Cool Down Abilities
+# Defensive Off Global Cool Down Abilities
 
 |                                                                |                       |                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -70,7 +68,7 @@ changelog:
 | ![ArmsLength](/img/jobs/tanks/gunbreaker/Arms_Length.png)      | **Arm’s Length**      | Role action. Makes you immune to most knockback or draw-in effects for 6 seconds. Applies a 20% slow to enemies that attack you while **Arm’s Length** is active (This means enemies will attack you 20% slower, very useful for dungeons!). 120s cooldown.                                                                                                                                                                                 |
 | ![Rampart](/img/jobs/tanks/gunbreaker/Rampart.png)             | **Rampart**           | Role action. Reduces damage taken by 20% for 20 seconds. Increases HP recovery via healing actions on self by 15%. 90 second cooldown.                                                                                                                                                                                                                                                                                                      |
 
-## Utility Off Global Cool Down Abilities
+# Utility Off Global Cool Down Abilities
 
 |                                                                |                    |                                                                                                                                                             |
 | -------------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
