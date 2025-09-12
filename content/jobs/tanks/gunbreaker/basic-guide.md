@@ -21,7 +21,7 @@ changelog:
   - date: 2024-08-06T18:57:17.680Z
     message: Updated for Dawntrail
 ---
-# Intro
+# Intro Concepts
 
 #### Authors
 **Krom Ulus** | discord: krom.ulus\
