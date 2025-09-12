@@ -1,5 +1,5 @@
 ---
-title: Dark Knight Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/drk/basic.png
 authors:
   - nikroulah
@@ -30,25 +30,15 @@ changelog:
     message: Minor updates to reflect hotfixed Shadowstride application delay.
 tags: []
 ---
-# Introduction to Dark Knight
-
-## The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x and 7.x).
-
-- - -
-
 # Introduction
 
 Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawntrail. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in **The Blackest Night** (TBN).
 
 The purpose of this guide is to give an overview of Dark Knight's abilities and to allow you to hit the ground running when picking up Dark Knight, as well as giving a peek into optimization in high-end content.
 
-- - -
-
-# Skills and Abilities Overview
+## Skills and Abilities Overview
 
 Skills and abilities can be found on [this page.](/jobs/tanks/dark-knight/skills-overview/)
-
-- - -
 
 # Dark Knight Opener
 

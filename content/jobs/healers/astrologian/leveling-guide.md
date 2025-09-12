@@ -1,5 +1,5 @@
 ---
-title: Astrologian Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/ast/leveling.png
 authors:
   - Balance-AST-Staff

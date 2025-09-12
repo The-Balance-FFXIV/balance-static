@@ -1,5 +1,5 @@
 ---
-title: Paladin Changes
+title: Recent Changes
 layout: changes
 lastmod: 2025-08-06T19:02:13.152Z
 changes:

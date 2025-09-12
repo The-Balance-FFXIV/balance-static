@@ -1,5 +1,5 @@
 ---
-title: Samurai FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.05"
 lastmod: 2024-08-18T06:27:15.418Z

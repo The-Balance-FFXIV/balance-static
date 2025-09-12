@@ -1,5 +1,5 @@
 ---
-title: Ninja Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.3"
 lastmod: 2025-03-30T20:23:39.945Z

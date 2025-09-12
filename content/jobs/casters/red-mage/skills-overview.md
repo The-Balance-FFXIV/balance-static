@@ -1,5 +1,5 @@
 ---
-title: Red Mage Skills Overview
+title: Skills Overview
 authors:
   - Balance-RDM-Staff
 patch: "7.2"
@@ -18,11 +18,8 @@ changelog:
   - date: 2025-03-24T16:26:11.501Z
     message: Updated potencies for patch 7.2
 ---
-# Red Mage Skill Overview
-
+# Offensive On Global Cool Down Abilities
 #### All skills are listed with their level 100 effects and potencies.
-
-## Offensive On Global Cool Down Abilities
 
 |                                                                       |                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -54,7 +51,7 @@ changelog:
 | ![Vercure](https://xivapi.com/i/003000/003216_hr1.png)                | **Vercure**                  | A 350 potency **healing** Spell with a cast time of two seconds.                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ![Verraise](https://xivapi.com/i/003000/003221_hr1.png)               | **Verraise**                 | A Spell with a cast time of ten seconds that resurrects the target to a weakened state.                                                                                                                                                                                                                                                                                                                                                                                    |
 
-## Offensive Off Global Cooldown Abilities
+# Offensive Off Global Cooldown Abilities
 
 |                                                             |                    |                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -70,7 +67,7 @@ changelog:
 | ![Acceleration](https://xivapi.com/i/003000/003214_hr1.png) | **Acceleration**   | An ability with a cooldown of 55 seconds that ensures the next use of Verthunder III or Veraero III will grant the respective **Verfire Ready** or **Verstone Ready** effects. Also ensures the next cast of Impact, Veraero III or Verthunder III are instant. Increases the potency of Impact by 50. Grants **Grand Impact Ready,** allowing the use of **Grand Impact**                            |
 | ![Swiftcast](https://xivapi.com/i/000000/000866_hr1.png)    | **Swiftcast**      | A role action with a cooldown of 40 seconds that makes the cast of the next spell instant.                                                                                                                                                                                                                                                                                                            |
 
-## Utility Off Global Cool Down Abilities
+# Utility Off Global Cool Down Abilities
 
 |                                                               |                    |                                                                                                                                                                                                    |
 | ------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

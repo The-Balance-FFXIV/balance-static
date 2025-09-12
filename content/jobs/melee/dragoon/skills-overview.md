@@ -1,5 +1,5 @@
 ---
-title: Dragoon Skills Overview
+title: Skills Overview
 authors:
   - Balance-DRG-Staff
 patch: "7.2"
@@ -26,9 +26,7 @@ changelog:
   - date: 2025-03-30T10:49:36.552Z
     message: Update with 7.2 changes
 ---
-# Dragoon Skills Overview
-
-## Global Cooldown Actions (Single Target)
+# Global Cooldown Actions (Single Target)
 
 All potencies assume level 100, meaning potency increases through traits are already included.   
 
@@ -50,7 +48,7 @@ All potencies assume level 100, meaning potency increases through traits are alr
 | ![Piercing Talon](https://xivapi.com/i/000000/000315_hr1.png)                                  | Piercing Talon  | PT      | 15    | Uncomboed ranged action with 200 potency. Will not terminate an active combo if used between combo skills.\
 350 potency while under the effect of "Enhanced Piercing Talon".                                                              |
 
-## Global Cooldown Actions (Area of Effect)
+# Global Cooldown Actions (Area of Effect)
 
 | Icon                                                            | Name             | Acronym | Level | Description                                                                                                                                                                                                    |
 | --------------------------------------------------------------- | ---------------- | ------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,7 +57,7 @@ All potencies assume level 100, meaning potency increases through traits are alr
 | ![Sonic Thrust](https://xivapi.com/i/002000/002586_hr1.png)     | Sonic Thrust     | SoT     | 62    | 120 potency action that combos off of Doom Spike. Deals damage to all enemies in a rectangular shape and grants the Power Surge buff for 30s, increasing damage dealt by 10%.                                  |
 | ![Coerthan Torment](https://xivapi.com/i/002000/002590_hr1.png) | Coerthan Torment | CoT     | 72    | 150 potency action that combos off of Sonic Thrust. Deals damage to all enemies in a rectangular shape and allows the execution of Draconian Fury.                                                             |
 
-## off-Global Cooldown Actions
+# Off-Global Cooldown Actions
 
 | Icon                                                                                                | Name               | Acronym   | Level | Description                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------------------- | ------------------ | --------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -76,7 +74,7 @@ All potencies assume level 100, meaning potency increases through traits are alr
 | ![Wyrmwind Thrust](https://xivapi.com/i/002000/002597_hr1.png)                                      | Wyrmwind Thrust    | WWT       | 90    | 440 potency action with a 10s cooldown that deals damage to all enemies in a rectangular shape. 50% reduced damage for all enemies hit after the first one. Can only be executed when you have two Stacks of Firstminds' Focus                               |
 | ![Elusive Jump](https://xivapi.com/i/002000/002577_hr1.png)                                         | Elusive Jump       | EJ        | 35    | Jumps 15y backwards. Used to travel long distances quickly. 30s cooldown. Now also grants the effect "Enhanced Piercing Talon" for 15s, considerably increasing its potency.                                                                                 |
 
-## Buffs
+# Buffs
 
 | Icon                                                                                                    | Name                           | Acronym | Level | Description                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------ | ------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -85,7 +83,7 @@ All potencies assume level 100, meaning potency increases through traits are alr
 | ![Life Surge](https://xivapi.com/i/000000/000304_hr1.png)                                               | Life Surge                     | LS      | 6     | Guarantees a Critical Hit on the next Global Cooldown Action within 5s. 40s cooldown. Also works on AoE actions. Absorbs 10% of the damage dealt from the buffed action as own HP. Gains a second charge at level 88. |
 | ![Gemdraught of Strength](https://beta.xivapi.com/api/1/asset/ui/icon/020000/020710_hr1.tex?format=png) | Current Gemdraught of Strength | Pot     | \-    | Increases Strength by 10% for 30s. 270s cooldown.                                                                                                                                                                     |
 
-## Role Actions
+# Role Actions
 
 | Icon                                                        | Name         | Acronym | Level | Description                                                                                                                                                                        |
 | ----------------------------------------------------------- | ------------ | ------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,7 +94,7 @@ All potencies assume level 100, meaning potency increases through traits are alr
 | ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png) | Arm's Length | AL      | 32    | Grants knockback immunity for 6s (note that some knockbacks cannot be mitigated with this) and inflicts 20% slow for 15s on attackers when struck during this time. 120s cooldown. |
 | ![True North](https://xivapi.com/i/000000/000830_hr1.png)   | True North   | TN      | 50    | Nullifies all positional requirements for 10s. 45s cooldown, can hold two charges.                                                                                                 |
 
-## Traits
+# Traits
 
 | Icon                                                                                                      | Name                      | Acronym | Level | Description                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------- | ------------------------- | ------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -114,7 +112,7 @@ All potencies assume level 100, meaning potency increases through traits are alr
 | ![Lance Mastery IV](https://beta.xivapi.com/api/1/asset/ui/icon/005000/005293_hr1.tex?format=png)         | Lance Mastery IV          | \-      | 96    | Upgrades Disembowel to Spiral Blow and Vorpal Thrust to Lance Barrage.                                                                                            |
 | ![Enhanced Stardiver](https://beta.xivapi.com/api/1/asset/ui/icon/005000/005298_hr1.tex?format=png)       | Enhanced Stardiver        | \-      | 100   | Enables the use of Starcross.                                                                                                                                     |
 
-## Role Traits
+# Role Traits
 
 | Icon                                                                                                  | Name                 | Acronym | Level | Description                                          |
 | ----------------------------------------------------------------------------------------------------- | -------------------- | ------- | ----- | ---------------------------------------------------- |

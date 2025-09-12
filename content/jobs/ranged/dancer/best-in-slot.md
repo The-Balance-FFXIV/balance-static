@@ -1,5 +1,5 @@
 ---
-title: Dancer Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.2"
 lastmod: 2025-04-27T16:59:25.165Z

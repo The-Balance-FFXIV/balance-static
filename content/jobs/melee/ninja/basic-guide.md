@@ -1,5 +1,5 @@
 ---
-title: Ninja Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/nin/basic.png
 authors:
   - jackal
@@ -29,11 +29,6 @@ changelog:
 
 
 <style>
-
-body {
-  background: #0d1117;
-  color: white;
-}
 
 .pb {
     color: #c92664;
@@ -125,9 +120,6 @@ If you're looking for <b class="pb">Advanced Optimizations</b> such as Extended 
 ⦿ [XIVGear](https://xivgear.app/) create BIS for any job
 
 # Table of Contents
-
-<hr>
-
 
 - [Core Concepts](#core-concepts)
 - [Standard Openers](#standard-openers)

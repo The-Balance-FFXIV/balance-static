@@ -1,5 +1,5 @@
 ---
-title: Machinist FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.2"
 lastmod: 2025-04-11T06:31:28.013Z

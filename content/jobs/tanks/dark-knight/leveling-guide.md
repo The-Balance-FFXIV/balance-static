@@ -1,5 +1,5 @@
 ---
-title: Dark Knight Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/drk/leveling.png
 authors:
   - apileofcats

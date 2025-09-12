@@ -1,5 +1,5 @@
 ---
-title: Monk Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/mnk/leveling.png
 authors:
   - Perfect-Balance

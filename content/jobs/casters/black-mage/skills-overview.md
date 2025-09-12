@@ -1,5 +1,5 @@
 ---
-title: Black Mage Skills Overview
+title: Skills Overview
 authors:
   - Balance-BLM-Staff
 patch: "7.2"

@@ -1,5 +1,5 @@
 ---
-title: Samurai Opener and Rotation
+title: Openers
 authors:
   - Balance-SAM-Staff
   - Flare

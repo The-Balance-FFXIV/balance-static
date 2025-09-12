@@ -1,5 +1,5 @@
 ---
-title: Red Mage Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/rdm/leveling.png
 authors:
   - Balance-RDM-Staff
@@ -18,10 +18,6 @@ changelog:
     message: No changes, updated patch number
 tags: []
 ---
-# Red Mage Leveling Guide
-
-## Updated for 7.2
-
 # Introduction
 
 The purpose of this guide is to help players understand the core mechanics of Red Mage. This guide will cover the basics of the job and its abilities as you progress through each set of levels. Once you hit level 100, it is strongly encouraged to check out the RDM guide to familiarize yourself with more advanced topics as you begin to enter endgame content. This guide was written as of patch 7.0. Unless anything major changes, you can expect this guide to remain relevant throughout Dawntrail.

@@ -1,5 +1,5 @@
 ---
-title: Red Mage Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.2"
 lastmod: 2025-03-25T00:00:00.000Z

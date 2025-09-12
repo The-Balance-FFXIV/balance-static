@@ -1,5 +1,5 @@
 ---
-title: Warrior FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.1"
 lastmod: 2024-12-02T21:34:12.006Z

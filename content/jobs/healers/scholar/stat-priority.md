@@ -1,5 +1,5 @@
 ---
-title: Scholar Stat Priority
+title: Stat Priority
 patch: "7.31  "
 lastmod: 2025-09-04T16:24:51.796Z
 changelog:

@@ -1,5 +1,5 @@
 ---
-title: Bard Skills Overview
+title: Skills Overview
 authors:
   - TKCetonis
 patch: "7.2"

@@ -1,5 +1,5 @@
 ---
-title: Bard Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/brd/advanced.png
 authors:
   - TKCetonis

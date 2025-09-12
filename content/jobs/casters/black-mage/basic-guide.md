@@ -1,5 +1,5 @@
 ---
-title: Black Mage Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/blm/basic.png
 authors:
   - Balance-BLM-Staff
@@ -22,11 +22,8 @@ changelog:
   - date: 2025-03-30T19:57:13.366Z
     message: 7.2 Updates
 ---
-# **7.x Black Mage Guide**
-
-By: Rika Vanih
-
 # **Job Overview**
+By: Rika Vanih
 
 Black Mage is a caster specializing in high, steady personal damage in place of providing party buffs. The job maintains a cyclical flow of expending MP via long, powerful casts in Astral Fire then swapping to refresh MP in Umbral Ice. While the rotation itself is somewhat simple, utilizing its movement tools and the flexibility built into its rotation to their fullest is key to maintaining uptime and maximizing damage as a Black Mage.
 

@@ -1,5 +1,5 @@
 ---
-title: Bard Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/brd/basic.png
 authors:
   - TKCetonis

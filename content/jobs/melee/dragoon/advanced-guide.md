@@ -1,5 +1,5 @@
 ---
-title: Dragoon Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/drg/advanced.png
 authors:
   - Balance-DRG-Staff

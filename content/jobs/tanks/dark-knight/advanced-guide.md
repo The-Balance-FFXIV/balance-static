@@ -1,5 +1,5 @@
 ---
-title: Dark Knight Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/drk/advanced.png
 authors:
   - Balance-DRK-Staff

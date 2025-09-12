@@ -1,5 +1,5 @@
 ---
-title: Black Mage Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/blm/advanced.png
 authors:
   - reina-kousaka-1

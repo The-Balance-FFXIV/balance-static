@@ -1,5 +1,5 @@
 ---
-title: White Mage Changes
+title: Recent Changes
 layout: changes
 lastmod: 2025-08-07T04:19:33.859Z
 changes:

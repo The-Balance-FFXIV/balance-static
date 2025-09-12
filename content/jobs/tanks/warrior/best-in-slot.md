@@ -1,5 +1,5 @@
 ---
-title: Warrior Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.3"
 lastmod: 2025-08-24T01:29:34.136Z

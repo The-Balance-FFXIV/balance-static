@@ -1,5 +1,5 @@
 ---
-title: Sage Openers
+title: Openers
 authors:
   - Balance-SGE-Staff
 patch: "7.3"

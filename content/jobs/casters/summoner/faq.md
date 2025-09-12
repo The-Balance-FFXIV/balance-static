@@ -1,5 +1,5 @@
 ---
-title: Summoner FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.3"
 lastmod: 2025-08-05T04:47:32.444Z

@@ -1,5 +1,5 @@
 ---
-title: Summoner Job Changes
+title: Recent Changes
 layout: changes
 lastmod: 2025-08-05T04:50:20.740Z
 changes:

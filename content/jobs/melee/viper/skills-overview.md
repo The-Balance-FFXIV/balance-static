@@ -1,5 +1,5 @@
 ---
-title: Viper Skills Overview
+title: Skills Overview
 authors:
   - ToraelValdis
   - balance-vpr-staff

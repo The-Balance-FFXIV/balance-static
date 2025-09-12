@@ -1,5 +1,5 @@
 ---
-title: Dancer Skills Overview
+title: Skills Overview
 authors:
   - Balance-DNC-Staff
   - Ringabel-Dim

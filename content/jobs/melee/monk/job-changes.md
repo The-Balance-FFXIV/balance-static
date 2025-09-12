@@ -1,5 +1,5 @@
 ---
-title: Monk Changes
+title: Recent Changes
 layout: changes
 lastmod: 2024-07-29T01:09:49.994Z
 changes:

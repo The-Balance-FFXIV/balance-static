@@ -1,5 +1,5 @@
 ---
-title: Gunbreaker Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/gnb/advanced.png
 authors:
   - Balance-GNB-Staff

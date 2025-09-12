@@ -1,5 +1,5 @@
 ---
-title: Pictomancer Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/pct/pictomancer-5.png
 authors:
   - Eydis-Darkbane

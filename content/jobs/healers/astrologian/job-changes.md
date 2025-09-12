@@ -1,5 +1,5 @@
 ---
-title: Astrologian Changes
+title: Recent Changes
 layout: changes
 lastmod: 2025-08-07T23:09:12.115Z
 changes:

@@ -1,5 +1,5 @@
 ---
-title: Machinist Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/mch/leveling.png
 authors:
   - Balance-MCH-Staff

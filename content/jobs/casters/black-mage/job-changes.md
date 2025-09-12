@@ -1,5 +1,5 @@
 ---
-title: Black Mage Changes
+title: Recent Changes
 layout: changes
 lastmod: 2025-03-30T20:19:57.177Z
 changes:

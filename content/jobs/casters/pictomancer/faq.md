@@ -1,5 +1,5 @@
 ---
-title: Pictomancer Frequently-Asked Questions
+title: Frequent Questions
 layout: qna
 patch: "7.3"
 lastmod: 2024-12-03T23:25:44.832Z

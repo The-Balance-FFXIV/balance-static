@@ -1,5 +1,5 @@
 ---
-title: Scholar Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/sch/advanced.png
 authors:
   - Balance-SCH-Staff

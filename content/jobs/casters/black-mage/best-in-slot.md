@@ -1,5 +1,5 @@
 ---
-title: Black Mage Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.2"
 lastmod: 2025-03-30T20:25:36.471Z

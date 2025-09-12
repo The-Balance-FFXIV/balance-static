@@ -1,5 +1,5 @@
 ---
-title: Monk Stat Priority
+title: Stat Priority
 patch: "7.01"
 lastmod: 2024-07-29T00:33:37.478Z
 changelog:

@@ -1,5 +1,5 @@
 ---
-title: Viper Intermediate Guide
+title: Intermediate Guide
 card_header_image: /img/jobs/vpr/large-file-viper-1.png
 authors:
   - ToraelValdis

@@ -1,5 +1,5 @@
 ---
-title: Warrior Changes
+title: Recent Changes
 layout: changes
 lastmod: 2025-04-03T22:25:56.983Z
 changes:

@@ -1,5 +1,5 @@
 ---
-title: White Mage FAQ
+title: Frequent Questions
 layout: qna
 patch: "7.3"
 lastmod: 2025-08-07T04:13:15.595Z

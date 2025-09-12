@@ -1,5 +1,5 @@
 ---
-title: Dark Knight Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.3"
 lastmod: 2025-09-09T03:07:45.760Z

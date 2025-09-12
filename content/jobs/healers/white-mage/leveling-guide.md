@@ -1,5 +1,5 @@
 ---
-title: White Mage Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/whm/leveling.png
 authors:
   - shy

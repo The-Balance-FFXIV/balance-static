@@ -1,5 +1,5 @@
 ---
-title: Summoner Skills Overview
+title: Skills Overview
 authors:
   - juliacare
   - Hauffen

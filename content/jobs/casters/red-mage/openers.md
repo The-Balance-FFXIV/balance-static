@@ -1,5 +1,5 @@
 ---
-title: Red Mage Openers
+title: Openers
 authors:
   - Balance-RDM-Staff
 patch: "7.01"
@@ -14,19 +14,21 @@ changelog:
   - date: 2024-07-28T17:23:04.488Z
     message: Updated for Dawntrail
 ---
-## **Openers**
+# Opener Notes
 
 At time of writing, there are three general purpose openers that are viable for their own reasons.
 
-Red Mage is somewhat flexible with its openers: Often, prioritizing one thing comes at the expense of another (i.e. buff damage potency vs Fleche/Contre Sixte usage vs movement flexibility for mechanics), and what is actually optimal or most practical will depend on encounter design. If further discoveries are made or job changes occur, these openers will be adjusted for future versions of the guide, and readers can also expect fight-specific Savage and/or Ultimate openers to be made for encounters with more unique timelines. 
+Red Mage is somewhat flexible with its openers: Often, prioritizing one thing comes at the expense of another (i.e. buff damage potency vs Fleche/Contre Sixte usage vs movement flexibility for mechanics), and what is actually optimal or most practical will depend on encounter design. If further discoveries are made or job changes occur, these openers will be adjusted for future versions of the guide, and readers can also expect fight-specific Savage and/or Ultimate openers to be made for encounters with more unique timelines.
 
-### Standard opener (highest damage, strictest rotation)
+# Graphics
+
+## Standard opener (highest damage, strictest rotation)
 
 ![](/img/jobs/rdm/rdm_dt_opener1.png)
 
 The standard opener puts the most damage under buffs with Contre Sixte and two Grand Impacts back-to-back, as well as optimized Swiftcast and proc usage. The drawback is that oGCD alignment from the opener until two minutes becomes very strict, with an Acceleration use required to double-weave Fleche and Contre Sixte at approximately the 78-second/1 minute 18 second mark, and an additional Swiftcast used to keep the Fleche cooldown rolling just before the triple combo for the 2-minute buff window (it will be back in time after the triple combo for oGCD alignment). This sequence and subsequent oGCD alignment is quite strict and may take some practice.
 
-### Early C6 opener (more flexibility)
+## Early C6 opener (more flexibility)
 
 ![](/img/jobs/rdm/rdm_dt_opener2.png)
 

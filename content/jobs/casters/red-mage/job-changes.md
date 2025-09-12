@@ -1,5 +1,5 @@
 ---
-title: Red Mage Changes
+title: Recent Changes
 layout: changes
 lastmod: 2025-03-24T00:00:00.000Z
 changes:

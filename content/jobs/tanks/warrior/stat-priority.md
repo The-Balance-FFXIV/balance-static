@@ -1,5 +1,5 @@
 ---
-title: Warrior Stat Priority
+title: Stat Priority
 patch: "7.1"
 lastmod: 2025-03-27T15:47:30.021Z
 changelog:

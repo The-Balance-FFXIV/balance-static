@@ -1,5 +1,5 @@
 ---
-title: Dancer Openers
+title: Openers
 authors:
   - Balance-DNC-Staff
 patch: "7.05"
@@ -16,7 +16,7 @@ changelog:
   - date: 2024-08-05T14:08:27.576Z
     message: Updated for Patch 7.05
 ---
-# OPENER INFOGRAPHIC
+# INFOGRAPHIC
 
 ![DNC Opener](/img/jobs/dnc/dt_dnc_opener_full.png "DNC Opener")
 

@@ -1,5 +1,5 @@
 ---
-title: Scholar Skills Overview
+title: Skills Overview
 authors:
   - tealjaker
   - potato

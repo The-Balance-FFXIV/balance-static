@@ -1,5 +1,5 @@
 ---
-title: Black Mage Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/blm/leveling.png
 authors:
   - Fürst-Blumier

@@ -1,5 +1,5 @@
 ---
-title: Ninja Skills Overview
+title: Skills Overview
 authors:
   - zhotacton
 patch: "7.25"

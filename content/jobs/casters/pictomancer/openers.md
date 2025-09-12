@@ -1,5 +1,5 @@
 ---
-title: Pictomancer Openers
+title: Openers
 authors:
   - balance-pct-staff
 patch: "7.3"
@@ -14,7 +14,7 @@ changelog:
 description: The Balance's openers page for Final Fantasy XIV (FF14) reviews the
   openers from our basic job guide, as well as burst setups for fights.
 ---
-# Openers
+# Graphics
 
 The following are openers you can follow at the beginning of the fight to set up the rest of your rotation and burst windows. For more details about the opener, as well as the skills used within, please read the [Basic Guide, by Eydis](https://www.thebalanceffxiv.com/jobs/casters/pictomancer/basic-guide/).
 

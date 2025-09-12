@@ -1,5 +1,5 @@
 ---
-title: Reaper Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
   - ellunavi

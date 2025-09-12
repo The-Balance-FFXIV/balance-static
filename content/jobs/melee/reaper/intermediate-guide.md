@@ -15,7 +15,7 @@ changelog:
   - date: 2025-03-24T21:33:40.298Z
     message: Updated to Patch 7.2.
 ---
-# Reaper Intermediate Guide
+# Introduction
 
 Welcome to Reaper Intermediate Guide! The objective of this guide is to tackle some of the more slightly complicated part of Reaper. This guide will cover the following topics:
 

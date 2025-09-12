@@ -1,5 +1,5 @@
 ---
-title: Dancer Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/dnc/basic.png
 authors:
   - Tomcat1408
@@ -26,7 +26,7 @@ changelog:
 
 Welcome to the basic Dancer guide. Within this document, you’ll find all the information you’ll need to learn to play the job. Other links will be included below for further references and resources. Any further questions can also be directed to the Dancer channels in the Balance’s Discord. 
 
-# Useful Resources
+## Useful Resources
 
 [Skill Overview](/jobs/ranged/dancer/skills-overview/)
 

@@ -1,5 +1,5 @@
 ---
-title: Pictomancer Job Changes
+title: Recent Changes
 layout: changes
 lastmod: 2025-08-08T17:22:51.455Z
 changes:

@@ -1,5 +1,5 @@
 ---
-title: Viper Standard Opener
+title: Openers
 authors:
   - balance-vpr-staff
 patch: "7.3"

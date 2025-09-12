@@ -1,5 +1,5 @@
 ---
-title: Bard Changes
+title: Recent Changes
 layout: changes
 lastmod: 2025-08-06T04:38:19.254Z
 changes:

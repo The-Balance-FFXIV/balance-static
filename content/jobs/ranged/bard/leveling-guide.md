@@ -1,5 +1,5 @@
 ---
-title: Bard Leveling Guide
+title: Leveling Guide
 card_header_image: /img/jobs/brd/leveling.png
 authors:
   - TKCetonis
@@ -15,7 +15,7 @@ changelog:
   - date: 2024-08-12T02:39:07.899Z
     message: Dawntrail update
 ---
-# Bard Leveling Guide
+# Getting Started
 
 ## Gear
 
@@ -37,8 +37,6 @@ And of course, never stop attacking. Your global cooldown - that is, the 2.5s co
 
 Lastly, the ranged role action Head Graze can interrupt enemy casts with a shaking red bar. Don't worry about the fast ones, but slower casts are generally meant to be interrupted. Keep an eye out for them!
 
-- - -
-
 # Terminology
 
 DoT - Damage over time. DoT skills add a debuff to the enemy that deals damage every three seconds. 
@@ -50,8 +48,6 @@ GCDs, oGCDs, and Weaving - As a physical job, Bard’s GCD skills (skills that s
 Normally, you have enough time between GCD skills to use two oGCD skills. If you aren’t already, get used to the pattern of (GCD - up to two oGCDs - GCD - up to two oGCDs - GCD - etc.).
 
 Also, note that you can press a GCD skill a little in advance, and it will fire as soon as possible. Use this fact to make sure your global cooldown never stops spinning.
-
-- - -
 
 # Skill usage by level
 

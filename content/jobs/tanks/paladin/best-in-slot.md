@@ -1,5 +1,5 @@
 ---
-title: Paladin Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.3"
 lastmod: 2025-08-06T19:01:33.340Z

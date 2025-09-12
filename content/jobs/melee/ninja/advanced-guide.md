@@ -1,5 +1,5 @@
 ---
-title: Ninja Advanced Guide
+title: Advanced Guide
 card_header_image: /img/jobs/nin/advanced.png
 authors:
   - jackal

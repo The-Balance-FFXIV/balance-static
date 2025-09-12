@@ -1,5 +1,5 @@
 ---
-title: Summoner Best in Slot (BiS)
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.3"
 lastmod: 2025-08-09T08:36:33.891Z

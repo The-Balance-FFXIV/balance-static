@@ -1,5 +1,5 @@
 ---
-title: Astrologian FAQ
+title: Frequent Questions
 layout: qna
 patch: "6.0"
 lastmod: 2022-02-14T05:39:07.774Z

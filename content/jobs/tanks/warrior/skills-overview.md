@@ -1,5 +1,5 @@
 ---
-title: Warrior Skills Overview
+title: Skills Overview
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
@@ -22,11 +22,7 @@ changelog:
 tags:
   - warrior
 ---
-# Warrior Skills Overview
-
-Abilities will be presented in a tabular format for easy reading.
-
-## Single Target Actions
+# Single Target Actions
 
 | Icon                                            | Action           | Abbreviation | Level | Type        | Recast      | Description                                                                                                                                                                                                                                                                                                                                    |
 | ----------------------------------------------- | ---------------- | ------------ | ----- | ----------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -46,7 +42,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![](https://xivapi.com/i/002000/002574_hr1.png) | Primal Wrath     | Wrath        | 96    | Ability     | 2.5 seconds | Delivers an attack to all nearby enemies with a potency of 700 for the first enemy, and 50% less for all remaining enemies. Can only be executed when Wrathful.                                                                                                                                                                                |
 | ![](https://xivapi.com/i/002000/002050_hr1.png) | Primal Ruination | Ruin         | 100   | Weaponskill | 2.5 seconds | Delivers a critical direct hit to target with a potency of 780.  Deals 50% less damage to all enemies near the initial target. Can only be executed while under the effect of Primal Ruination Ready.                                                                                                                                          |
 
-## Multi-Target Actions
+# Multi-Target Actions
 
 | Icon                                            | Action          | Abbreviation | Level | Type        | Recast      | Description                                                                                                                                                                                            |
 | ----------------------------------------------- | --------------- | ------------ | ----- | ----------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -56,7 +52,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![](https://xivapi.com/i/002000/002566_hr1.png) | Chaotic Cyclone | CCyc         | 72    | Weaponskill | 2.5 seconds | Delivers a critical direct hit with a potency of 200 to all nearby enemies. Reduces the timer on Infuriate by 5 seconds. Costs 50 Beast Gauge. Can only be executed under the effect of Nascent Chaos. |
 | ![](https://xivapi.com/i/002000/002570_hr1.png) | Orogeny         | Oro          | 86    | Ability     | 30 seconds  | Delievers an attack with a potency of 150 to all nearby enemies. Shares a recast timer with Upheaval.                                                                                                  |
 
-## Mitigative Actions
+# Mitigative Actions
 
 | Icon                                            | Action           | Abbreviation | Level | Type    | Recast      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ----------------------------------------------- | ---------------- | ------------ | ----- | ------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,5 +1,5 @@
 ---
-title: Sage Stat Priority
+title: Stat Priority
 patch: "7.3"
 lastmod: 2025-08-07T04:16:43.346Z
 changelog:

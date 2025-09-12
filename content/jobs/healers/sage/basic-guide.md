@@ -1,5 +1,5 @@
 ---
-title: Sage Basic Guide
+title: Basic Guide
 card_header_image: /img/jobs/sge/sgebasic.png
 authors:
   - Balance-SGE-Staff
@@ -14,7 +14,7 @@ changelog:
   - date: 2022-09-18T05:29:53.405Z
     message: Updated Holos section
 ---
-# Sage: The Basics
+# The Basics
 
 Welcome to the basic guide for Sage, which should give you everything you need to get started. This guide is meant to be fairly basic and does not cover every little detail. However, it should point you in the right general direction and give you a feel for the class.
 
