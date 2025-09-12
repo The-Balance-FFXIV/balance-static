@@ -1,5 +1,5 @@
 ---
-title: Gunbreaker Stat Priority
+title: Stat Priority
 patch: "7.3"
 lastmod: 2025-08-05T20:55:50.406Z
 changelog:
