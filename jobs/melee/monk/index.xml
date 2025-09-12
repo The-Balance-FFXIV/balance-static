@@ -1,28 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Monk on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/</link><description>Recent content in Monk on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 31 Mar 2025 22:34:29 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/melee/monk/index.xml" rel="self" type="application/rss+xml"/><item><title>Monk Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/leveling-guide/</link><pubDate>Mon, 31 Mar 2025 22:34:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/leveling-guide/</guid><description>&lt;h2 id="know-your-role">Know Your Role&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Monk on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/</link><description>Recent content in Monk on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 31 Mar 2025 22:34:29 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/melee/monk/index.xml" rel="self" type="application/rss+xml"/><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/leveling-guide/</link><pubDate>Mon, 31 Mar 2025 22:34:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/leveling-guide/</guid><description>&lt;h2 id="know-your-role">Know Your Role&lt;/h2>
 &lt;p>Melee DPS jobs have a unique mechanic in positionals. Certain actions will deal more damage when executed from the rear or flank of a target. Targets with continuous Target Rings will always take the increased damage from positional actions. &lt;br>
 The Role Action True North allows you to disregard positional requirements for ten seconds per use.&lt;/p>
 &lt;p>
 &lt;div class="md__image">
- &lt;img id="[453 145 446 318 419 439]" src="https://www.thebalanceffxiv.com/img/jobs/mnk/anoqtwm-1-.png" onclick="openModal(this.id)" alt="Positional Zone" title="Positional Zone" />
+ &lt;img id="[257 291 54 416 209 92]" src="https://www.thebalanceffxiv.com/img/jobs/mnk/anoqtwm-1-.png" onclick="openModal(this.id)" alt="Positional Zone" title="Positional Zone" />
 &lt;/div>
 &lt;/p>
-&lt;p>While it is a loss to miss your Positionals, landing them should be your last priority, after you have met all of the other combat priority requirements of a melee DPS job. These are listed in order from largest to smallest loss of damage if you fail that level.&lt;/p></description></item><item><title>Monk Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/basic-guide/</link><pubDate>Mon, 31 Mar 2025 22:27:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/basic-guide/</guid><description>&lt;p>
-&lt;div class="md__image">
- &lt;img id="[87 69 240 261 477 389]" src="" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/p>
-&lt;p>
-&lt;div class="md__image">
- &lt;img id="[29 344 122 460 58 243]" src="" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/p>
-&lt;p>
-&lt;div class="md__image">
- &lt;img id="[23 205 248 378 14 483]" src="" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/p>
-&lt;h1 id="basic-monk-guide">&lt;strong>Basic Monk Guide&lt;/strong>&lt;/h1>
-&lt;p>Welcome to the basic guide for Monk, which will cover all of the information necessary to get you off your feet and onto your hands. Included is a look into the various systems that come together to define the Monk playstyle, suggested openers, and explanations on how to correctly form burst windows.&lt;/p></description></item><item><title>Monk Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/skills-overview/</link><pubDate>Mon, 31 Mar 2025 22:15:12 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/skills-overview/</guid><description>&lt;h1 id="single-target-gcds">Single Target GCDs&lt;/h1>
+&lt;p>While it is a loss to miss your Positionals, landing them should be your last priority, after you have met all of the other combat priority requirements of a melee DPS job. These are listed in order from largest to smallest loss of damage if you fail that level.&lt;/p></description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/basic-guide/</link><pubDate>Mon, 31 Mar 2025 22:27:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/basic-guide/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>Welcome to the basic guide for Monk, which will cover all of the information necessary to get you off your feet and onto your hands. Included is a look into the various systems that come together to define the Monk playstyle, suggested openers, and explanations on how to correctly form burst windows.&lt;/p>
+&lt;p>Throughout this guide we will be referring to all skills as if you were level 100. This is significant if you are still leveling, as some skills start out with a different name and upgrade upon reaching a certain level. The skills affected by this are as follows:&lt;/p></description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/skills-overview/</link><pubDate>Mon, 31 Mar 2025 22:15:12 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/skills-overview/</guid><description>&lt;h1 id="single-target-gcds">Single Target GCDs&lt;/h1>
 &lt;p>Monk has six core single-target GCDs:&lt;/p>
 &lt;table>
  &lt;thead>
@@ -35,7 +21,7 @@ The Role Action True North allows you to disregard positional requirements for t
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[142 286 119 421 194 275]" src="https://xivapi.com/i/002000/002528_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[122 133 126 110 412 88]" src="https://xivapi.com/i/002000/002528_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Dragon Kick&lt;/strong> has a potency of 320. When in Opo-Opo form, it will grant &lt;em>Opo-opo&amp;rsquo;s Fury&lt;/em>.&lt;/td>
@@ -43,7 +29,7 @@ The Role Action True North allows you to disregard positional requirements for t
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[81 149 330 97 8 414]" src="https://xivapi.com/i/000000/000208_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[134 214 374 306 5 257]" src="https://xivapi.com/i/000000/000208_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Bootshine&lt;/strong> has a potency of 220, or 420 when you have &lt;em>Opo-opo&amp;rsquo;s Fury&lt;/em>. When in Opo-Opo form, Bootshine will always crit.&lt;/td>
@@ -51,7 +37,7 @@ The Role Action True North allows you to disregard positional requirements for t
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[54 222 300 214 169 494]" src="https://xivapi.com/i/002000/002982_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[405 73 234 37 396 402]" src="https://xivapi.com/i/002000/002982_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Leaping Opo&lt;/strong> is the upgraded version of &lt;strong>Bootshine&lt;/strong>, it has a potency of 260, or 460 when you have &lt;em>Opo-opo&amp;rsquo;s Fury&lt;/em>. When in Opo-Opo form, Leaping Opo will always crit.&lt;/td>
@@ -59,7 +45,7 @@ The Role Action True North allows you to disregard positional requirements for t
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[386 178 481 107 339 359]" src="https://xivapi.com/i/000000/000213_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[268 215 168 60 409 240]" src="https://xivapi.com/i/000000/000213_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Twin Snakes&lt;/strong> has a potency of 420. Twin Snakes can only be executed from Raptor form and will grant &lt;em>Raptor&amp;rsquo;s Fury&lt;/em>.&lt;/td>
@@ -67,7 +53,7 @@ The Role Action True North allows you to disregard positional requirements for t
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[69 424 91 262 441 317]" src="https://xivapi.com/i/000000/000209_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[40 245 60 488 253 345]" src="https://xivapi.com/i/000000/000209_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>True Strike&lt;/strong> has a potency of 300, or 500 when you have &lt;em>Raptor&amp;rsquo;s Fury&lt;/em>. It can only be executed from Raptor form.&lt;/td>
@@ -75,7 +61,7 @@ The Role Action True North allows you to disregard positional requirements for t
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[211 370 472 31 17 268]" src="https://xivapi.com/i/002000/002983_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[215 20 330 24 468 125]" src="https://xivapi.com/i/002000/002983_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Rising Raptor&lt;/strong> is the upgraded version of &lt;strong>True Strike&lt;/strong>, it has a potency of 340, or 540 when you have &lt;em>Raptor&amp;rsquo;s Fury&lt;/em>. It can only be executed from Raptor form.&lt;/td>
@@ -83,7 +69,7 @@ The Role Action True North allows you to disregard positional requirements for t
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[61 208 356 46 24 407]" src="https://xivapi.com/i/000000/000204_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[444 227 200 301 293 385]" src="https://xivapi.com/i/000000/000204_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Demolish&lt;/strong> has a potency of 360, or 420 when executed from the rear. It can only be executed from Coeurl form and will grant two &lt;em>Coeurl&amp;rsquo;s Fury&lt;/em>.&lt;/td>
@@ -91,7 +77,7 @@ The Role Action True North allows you to disregard positional requirements for t
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[189 294 417 469 45 23]" src="https://xivapi.com/i/000000/000210_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[194 331 61 12 55 344]" src="https://xivapi.com/i/000000/000210_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Snap Punch&lt;/strong> has a potency of 270, or 420 when you have &lt;em>Coeurl&amp;rsquo;s Fury&lt;/em>, increasing to 330 and 480 respectively when executed from the flank. It can only be executed from Coeurl form.&lt;/td>
@@ -99,7 +85,7 @@ The Role Action True North allows you to disregard positional requirements for t
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[244 339 143 342 108 395]" src="https://xivapi.com/i/002000/002984_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[396 238 431 272 104 439]" src="https://xivapi.com/i/002000/002984_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Pouncing Coeurl&lt;/strong> is the upgraded version of &lt;strong>Snap Punch&lt;/strong>, it has a potency of 310, or 460 when you have &lt;em>Coeurl&amp;rsquo;s Fury&lt;/em>, increasing to 370 and 520 respectively when executed from the flank. It can only be executed from Coeurl form.&lt;/td>
@@ -107,7 +93,7 @@ The Role Action True North allows you to disregard positional requirements for t
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[117 160 426 120 182 298]" src="https://xivapi.com/i/002000/002547_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[153 280 80 101 396 56]" src="https://xivapi.com/i/002000/002547_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Six Sided Star&lt;/strong> is a GCD with a potency of 780, but double the recast of every other GCD. A situational skill, you&amp;rsquo;ll either use it before running out of a big aoe, before a boss dies, or before a boss goes untargetable for whatever reason. It also applies a small movement speed buff for five seconds. In Dawntrail SSS also consumes all your Chakra with the same 80 potency per Chakra as The Forbidden Chakra, but shouldn&amp;rsquo;t be used to replace The Forbidden Chakra or Enlightenment. Overall a very useful utility GCD.&lt;/td>
@@ -115,7 +101,7 @@ The Role Action True North allows you to disregard positional requirements for t
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[358 4 31 394 57 446]" src="https://xivapi.com/i/002000/002536_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[24 97 401 200 454 98]" src="https://xivapi.com/i/002000/002536_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">&lt;strong>Form Shift&lt;/strong> is a unique GCD, as it&amp;rsquo;s not directly a part of our rotation, but it does enable our rotation. Form Shift grants the Formless Fist buff, which allows you to use any GCD and gain its additional form effects. Since this GCD does no damage, we only ever use it before pulling an enemy or during downtime.&lt;/td>
@@ -123,9 +109,9 @@ The Role Action True North allows you to disregard positional requirements for t
  &lt;/tbody>
 &lt;/table>
 &lt;h1 id="aoe-gcds">AoE GCDs&lt;/h1>
-&lt;p>Monk has three core AOE GCDs, one for each of its forms:&lt;/p></description></item><item><title>Monk Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/best-in-slot/</link><pubDate>Mon, 31 Mar 2025 22:02:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/best-in-slot/</guid><description/></item><item><title>Monk Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/advanced-guide/</link><pubDate>Thu, 16 Jan 2025 01:14:13 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/advanced-guide/</guid><description>&lt;h1 id="advanced-monk---out-of-the-ballpit">&lt;strong>Advanced Monk - Out of the Ballpit&lt;/strong>&lt;/h1>
+&lt;p>Monk has three core AOE GCDs, one for each of its forms:&lt;/p></description></item><item><title>Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/best-in-slot/</link><pubDate>Mon, 31 Mar 2025 22:02:44 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/best-in-slot/</guid><description/></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/advanced-guide/</link><pubDate>Thu, 16 Jan 2025 01:14:13 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/advanced-guide/</guid><description>&lt;h1 id="advanced-monk---out-of-the-ballpit">&lt;strong>Advanced Monk - Out of the Ballpit&lt;/strong>&lt;/h1>
 &lt;hr>
-&lt;p>You have made it out of the ballpit and you know about the standard Monk rotation, as well as its Openers and Burst Windows. In the following section we will introduce knowledge that will help answer some questions about why the standard rotation is standard, and in more advanced fashion, why other considerations are not standard. As well as basic understanding of game mechanics, spreadsheet territory targeting single digit gains and in traditional fashion, cursed knowledge.&lt;/p></description></item><item><title>Monk Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/job-changes/</link><pubDate>Mon, 29 Jul 2024 01:09:49 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/job-changes/</guid><description/></item><item><title>Monk Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/stat-priority/</link><pubDate>Mon, 29 Jul 2024 00:33:37 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/stat-priority/</guid><description/></item><item><title>Monk FAQ</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/faq/</link><pubDate>Mon, 29 Jul 2024 00:29:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/faq/</guid><description>&lt;blockquote>
+&lt;p>You have made it out of the ballpit and you know about the standard Monk rotation, as well as its Openers and Burst Windows. In the following section we will introduce knowledge that will help answer some questions about why the standard rotation is standard, and in more advanced fashion, why other considerations are not standard. As well as basic understanding of game mechanics, spreadsheet territory targeting single digit gains and in traditional fashion, cursed knowledge.&lt;/p></description></item><item><title>Recent Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/job-changes/</link><pubDate>Mon, 29 Jul 2024 01:09:49 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/job-changes/</guid><description/></item><item><title>Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/stat-priority/</link><pubDate>Mon, 29 Jul 2024 00:33:37 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/stat-priority/</guid><description/></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/faq/</link><pubDate>Mon, 29 Jul 2024 00:29:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/faq/</guid><description>&lt;blockquote>
 &lt;p>&lt;em>Is Double True Strike dead?&lt;/em>&lt;/p>
 &lt;/blockquote>
 &lt;p>As purely the best option, yup, go back to 1:1 Twin Snakes and True.&lt;/p>
@@ -134,8 +120,7 @@ The Role Action True North allows you to disregard positional requirements for t
 &lt;/blockquote>
 &lt;p>With Standard, you DK after Perfect Balance for DK&amp;rsquo;s higher potency and again later to gain Leaden finally. With Early Buff a stanceless Leaden Boot after PB is worse on average than using the DK to guarantee a crit one.&lt;/p>
 &lt;blockquote>
-&lt;p>&lt;em>What do non opener RoF windows look like?&lt;/em>&lt;/p></description></item><item><title>Monk Openers</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/openers/</link><pubDate>Mon, 29 Jul 2024 00:14:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/openers/</guid><description>&lt;h1 id="openers">Openers&lt;/h1>
-&lt;h2 id="which-opener-do-i-pick">&amp;ldquo;Which opener do I pick?&amp;rdquo;&lt;/h2>
+&lt;p>&lt;em>What do non opener RoF windows look like?&lt;/em>&lt;/p></description></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/melee/monk/openers/</link><pubDate>Mon, 29 Jul 2024 00:14:32 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/monk/openers/</guid><description>&lt;h1 id="which-opener-do-i-pick">&amp;ldquo;Which opener do I pick?&amp;rdquo;&lt;/h1>
 &lt;p>It depends on when your group is bursting. 5/7s don&amp;rsquo;t have any major implications one way or the other for us, so do what fits your party the best.&lt;/p>
 &lt;p>The choice between demo opener and dk opener will likely depend on your group’s buff timings or fight phasing: &lt;em>&lt;strong>choose dk opener as the default.&lt;/strong>&lt;/em>&lt;/p>
 &lt;p>As always, the choice between double lunar and solar lunar depends on your killtime. If using solar lunar gains you a PR (ending the fight on an odd rof window), use that.&lt;/p></description></item></channel></rss>
