@@ -304,7 +304,7 @@ Its cooldown allows it to mitigate more frequently than other tanks, allowing yo
 
 There **is** a downside of using it so frequently though, you'll move some of your MP spending out of buffs if you use too much. However, up to 4 (the last sometimes requires careful timing, by using TBN during a buff window) MP spenders per 2 minutes can be TBN without moving any damage out of buff windows --- all three spenders in the odd-numbered minutes, plus one in the even-numbered minute. An astute reader will note that four per 2 minutes is also the same amount of times that a 25 second cooldown will typically fit.
 
-To summarize, there's very few practical circumstances in which you need (or even want) so many TBNs you move damage out of buff windows, but if there's so much damage you need to TBN so often you lose damage, then **no other tank would have as much mit** as Dark Knight.
+To summarize, there's very few practical circumstances in which you need (or even want) so many TBNs you move damage out of buff windows, but if there's so much damage you need to TBN so often you move damage out of burst windows, then **no other tank would have as much mit** as Dark Knight.
 
 A good way to think about it is this: unlike other tanks, Dark Knight has the option to move damage out of buff windows to mitigate more damage whenever it wants. If this is saving healers GCD heals, this is always better, and is another example of **TBN** being a DPS gain compared to other 'short mit'.
 
