@@ -30,11 +30,6 @@ changelog:
 
 <style>
 
-body {
-  background: #0d1117;
-  color: white;
-}
-
 .pb {
     color: #c92664;
 }
