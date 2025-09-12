@@ -29,7 +29,8 @@ changelog:
   - date: 2025-05-18T19:58:20.463Z
     message: Minor updates to reflect hotfixed Shadowstride application delay.
   - date: 2025-09-12T22:04:48.723Z
-    message: Added section about TBN, some minor restructuring.
+    message: Restructured raid buff section, added a section about TBN, and added
+      section detailing MP usage.
 tags: []
 ---
 # Introduction
