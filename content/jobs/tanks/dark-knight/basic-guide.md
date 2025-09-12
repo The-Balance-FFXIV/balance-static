@@ -340,7 +340,7 @@ In a scenario where we have 100,000 health, and are taking a 124,000 damage (aft
 
 - The other tank with 15% mit will die
 
-It should be obvious from these examples that **TBN**, unlike percentage based mitigation, mitigates more damage relative the smaller the hit is, since the amount it blocks is static.
+It should be obvious from these examples that **TBN**, unlike percentage based mitigation, mitigates more damage relative to how small the hit is, since the amount it blocks is static.
 
 Of course, if some of the larger tankbusters in these scenarios hit twice within the eight second durations of the two abilities we're comparing against, then the other mitigation will win out. That being said, practically speaking, most of the way this game deals out damage fits very neatly with the circumstances that make **TBN** so darn good.
 
