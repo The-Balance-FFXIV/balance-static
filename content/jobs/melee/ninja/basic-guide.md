@@ -121,9 +121,6 @@ If you're looking for <b class="pb">Advanced Optimizations</b> such as Extended 
 
 # Table of Contents
 
-<hr>
-
-
 - [Core Concepts](#core-concepts)
 - [Standard Openers](#standard-openers)
 - [Standard Rotation](#standard-rotation)
