@@ -88,19 +88,12 @@ table {
     width: 100%;
 }
 </style>
-
-<hr>
-<br>
 <div>
-<div style="display: flex; align-items: flex-start;">
+<div>
   <div>
 Ninja is a fast-paced yet flexible job with a high focus on a powerful burst every one and two minutes. It is unique from other jobs with its utilization of Ninjutsus, a combo-like system allowing a Ninja to form a multitude of ranged attacks. We have a personal buff every minute (Kunai's Bane) where we emphasize landing all of our biggest attacks within 16.25s, and a raid buff (Dokumori) every 2-minutes that lasts 21s.<br><br>
 
 If you want a melee job with the most flexibility for disengagements and has a fast-paced burst phase and relaxing filler phase, then Ninja might just be the job for you!
-
-</div>
-<img src="https://xivapi.com/cj/1/ninja.png"/>
-</div>
 
 This guide assumes you are <b class="pb">level 100</b> and wish to learn the job for
 <b class="pb">savage</b> or <b class="pb">ultimate</b> raiding, even if completely fresh!
@@ -488,9 +481,6 @@ There is an <b class="pb">additional optimization</b> regarding 2-minute windows
 - Similar to the first example but Dokumori is late weave and therefore catches 5 GCDs.
 
 # Miscellaneous
-
-<hr>
-
 
 ## Boss Disengagement
 
