@@ -27,13 +27,11 @@ changelog:
   - date: 2025-03-30T10:51:06.547Z
     message: Bump to 7.2
 ---
-# [/jobs/melee/dragoon/opener/](/jobs/melee/dragoon/opener/)Saving The Dragoon
+# Saving The Dragoon
 
 ## Overview
 
 Dragoon is a relatively static melee DPS job with a high focus on weaving off-Global Cooldown (oGCD) actions between a rigid 10-hit sequence of Global Cooldown (GCD) actions. Burst windows can get hectic, and prioritizing the various skills you need to execute can become a rather significant hassle in some instances. Dawntrail has doubled down on this by introducing the ability to utilize even more oGCD actions at regular intervals, as if we didn’t have enough already.
-
-- - -
 
 # Weaponskills
 
@@ -109,8 +107,6 @@ Every time you land Raiden Thrust or Draconian Fury, you gain one charge of your
 
 ![](https://xivapi.com/i/002000/002597_hr1.png)
 
-- - -
-
 # Positionals
 
 Some actions in the kit deal more damage from the **side** of a boss and some deal more from the **rear**. You want to be sure to position yourself to hit these for extra damage whenever possible.
@@ -160,8 +156,6 @@ While it is a loss to miss your positionals, landing them should be your last pr
 **4. Land Positionals**\
    And then, once you have one through three down, worry about maintaining proper positionals. Missing *every single* positional is less than a 5% dps loss - much less than mistakes in the aforementioned points.
 
-- - -
-
 # Abilities
 
 Also more commonly known as your oGCD skills, these are the most important part of your rotation as a Dragoon. Once you have your GCD skeleton laid out, you overlay the oGCD rotation on top of it to form the full rotation.
@@ -191,8 +185,6 @@ In general, the buffs will be used together every two minutes, with Lance Charge
 ![Basic buff rotation](https://i.imgur.com/P23HkKR.png "Basic Buff Rotation")
 
 &nbsp;
-
-- - -
 
 # Attacks
 
@@ -272,8 +264,6 @@ The damage output from both openers are comparable, it is recommended to use Pie
 During fights or dungeons, you may find yourself encountering a situation where you are coming up against a boss with resources already in the tank. This shuffles your opener around and makes things harder to manage. \
 In general you want to use your buffs first, followed by high priority oGCDs (mainly High Jump & Dragonfire Dive).\
 Dawntrail changes have made reopeners significantly easier so they should look very similar to the regular opener in most cases.
-
-- - -
 
 # Multiple Target Situations
 

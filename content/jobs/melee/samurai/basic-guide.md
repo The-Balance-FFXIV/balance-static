@@ -26,16 +26,11 @@ changelog:
     message: Updated potencies for 7.3
 ---
 # Foreword
+\-Zheng
 
 As of Dawntrail, Samurai has been part of the game for seven years. As part of the team, I am updating this guide for Dawntrail as we have gotten a substantial amount of changes upon release, until 7.05 which marked a big shift in gameplay since Shadowbringers, and will be covered in this document. This guide is intended for newer and older players alike.
 
-\-Zheng
-
-- - -
-
 The following section summarizes Samurai’s abilities. You may also refer to [Square Enix’s Samurai Job Guide](https://na.finalfantasyxiv.com/jobguide/samurai/) for specific skill and trait text. Feel free to skip this section if you are familiar with Samurai’s skills.
-
-- - -
 
 # Actions
 

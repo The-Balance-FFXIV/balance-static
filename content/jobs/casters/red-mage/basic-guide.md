@@ -17,7 +17,7 @@ changelog:
   - date: 2025-03-24T20:09:08.609Z
     message: Updated for 7.2
 ---
-# Red Mage Level 100 Guide for 7.x
+# Introduction
 
 This guide aims to concisely cover a basic overview of the Red Mage changes brought with Dawntrail along with an introduction to new rotation and opener concepts. A new guide with deep dives into advanced concepts and applications of theory for Red Mage is being worked on as of patch 7.2 being released. If you have questions after reading the guide, feel free to ask in the **\#rdm_questions** channel on [The Balance server.](https://discord.gg/thebalanceffxiv)
 

@@ -51,6 +51,8 @@ While Reaper has a powerful and flexible burst window, it does come with a few d
 
 Reaper can be played fluidly as a priority system or rigidly with planned burst windows allowing the job to have a low barrier of entry but have a very high skill expression ceiling. 
 
+# Job Basics
+
 ## Resources and Job Gauges
 
 Reaper has access to a few resources that you will need to master to play the job:
@@ -67,7 +69,7 @@ Reaper has access to a few resources that you will need to master to play the jo
 
 ![](/img/jobs/rpr/2021-12-20_02-49-47-723_eg9-darklite.png)
 
-# Melee Positionals:
+## Melee Positionals:
 
 All melee DPS have skills that deal additional potency when used from the Rear of Flank of the target. This means you must be positioned correctly relative to the target's hitbox ring to meet the requirement. Positional zones are shown here on the left image under this section.
 

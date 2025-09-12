@@ -29,8 +29,6 @@ For all openers:
 
 ![Bard Level 100 3-6-9 Opener](/img/jobs/brd/369-opener-b.png "Bard Level 100 3-6-9 Opener")
 
-- - -
-
 # Opener FAQ
 
 > *Is it really okay to use Radiant Finale for only 2% in the opener?*

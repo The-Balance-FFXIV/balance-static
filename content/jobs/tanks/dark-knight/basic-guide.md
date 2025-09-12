@@ -36,13 +36,9 @@ Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawnt
 
 The purpose of this guide is to give an overview of Dark Knight's abilities and to allow you to hit the ground running when picking up Dark Knight, as well as giving a peek into optimization in high-end content.
 
-- - -
-
-# Skills and Abilities Overview
+## Skills and Abilities Overview
 
 Skills and abilities can be found on [this page.](/jobs/tanks/dark-knight/skills-overview/)
-
-- - -
 
 # Dark Knight Opener
 

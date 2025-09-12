@@ -1,5 +1,5 @@
 ---
-title: Best-in-Slot
+title: Best in Slot (BiS)
 layout: bis
 patch: "7.3"
 lastmod: 2025-08-12T22:40:13.423Z

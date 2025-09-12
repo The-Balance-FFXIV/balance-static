@@ -17,6 +17,9 @@ changelog:
   - date: 2025-03-30T10:51:38.303Z
     message: Bump to 7.2
 ---
+# Introductory Concepts
+Here are a couple of things to consider when starting your Dragoon journey.
+
 ## Gear
 
 Always use the highest Item Level gear available to you. The increase of Strength and survivability outweighs potentially more favorable substats in lower Item Level gear. The total amount of substats is also higher.
@@ -44,7 +47,7 @@ While it is a loss to miss your Positionals, landing them should be your last pr
 
 Defensive actions like Feint and Arms' Length as well as healing actions like Bloodbath and Second Wind help you stay alive in solo and group content
 
-## Leveling Rotations
+# Leveling Rotations
 
 The basic single target rotation changes as you progress through the levels.\
 The general idea is to keep the Power Surge buff up and using the Pure Damage combo as a filler.
@@ -53,14 +56,14 @@ The Area of Effect (AoE) rotation becomes worth it at three targets.
 
 Off-Global Cooldown actions such as Jump or Geirskogul, as well as buffs like Lance Charge, should be used on cooldown on all levels. 
 
-### Levels 1-17
+## Levels 1-17
 
 * Single Target combo \
   True Thrust -> Vorpal Thrust
 
 Use Life Surge with Vorpal Thrust up to level 26 as it is your strongest weaponskill at this point.
 
-### Levels 18-25
+## Levels 18-25
 
 New action: Disembowel. Using Disembowel will give you the Power Surge buff for 30 seconds which increases your damage dealt by 10%. This buff should be kept up at all times.
 
@@ -71,7 +74,7 @@ The general rotation idea from here on is to apply the Power Surge buff to yours
 * Pure Damage Single Target combo\
   True Thrust -> Vorpal Thrust
 
-### Levels 26-49
+## Levels 26-49
 
 New action: Full Thrust. The next weaponskill in the Pure Damage combo. Due to its high potency, Life Surge should from now on be paired with this action.
 
@@ -84,7 +87,7 @@ New action: Doom Spike. Your first AoE weaponskill. Use it when facing three or 
 * AoE combo\
   Doom Spike
 
-### Levels 50-55
+## Levels 50-55
 
 New action: Chaos Thrust. The next weaponskill in the Buff combo and the first Rear positional. This action applies a Damage-over-Time (DoT) effect to the target. The general rotation idea does not change. This is our strongest weaponskill, however Life Surge does not apply to the DoT so it should still be used on Full Thrust or Doom Spike.
 When facing two enemies you want to apply the DoT to both first.
@@ -96,7 +99,7 @@ When facing two enemies you want to apply the DoT to both first.
 * AoE combo\
   Doom Spike
 
-### Levels 56-57
+## Levels 56-57
 
 New action: Fang and Claw. Another extension of the Pure Damage combo and our only Flank positional.
 
@@ -107,7 +110,7 @@ New action: Fang and Claw. Another extension of the Pure Damage combo and our on
 * AoE combo\
   Doom Spike
 
-### Levels 58-63
+## Levels 58-63
 
 New action: Wheeling Thrust. Another extension of the Buffing combo and our second Rear positional.
 
@@ -120,7 +123,7 @@ New action: Sonic Thrust. Our second combo action in the AoE combo. Applies the 
 * AoE combo\
   Doom Spike -> Sonic Thrust
 
-### Levels 64-100
+## Levels 64-100
 
 New action: Drakesbane. This new GCD is used as the 5th action in both combos. From here on out you will always alternate between the two combos. Drakesbane has the same potency as Full Thrust making it equally as valuable for Life Surge.
 

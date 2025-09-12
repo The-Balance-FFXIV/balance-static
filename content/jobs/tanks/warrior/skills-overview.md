@@ -22,8 +22,6 @@ changelog:
 tags:
   - warrior
 ---
-Abilities will be presented in a tabular format for easy reading.
-
 # Single Target Actions
 
 | Icon                                            | Action           | Abbreviation | Level | Type        | Recast      | Description                                                                                                                                                                                                                                                                                                                                    |

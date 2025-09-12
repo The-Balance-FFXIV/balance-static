@@ -14,14 +14,14 @@ changelog:
   - date: 2022-09-13T04:58:10.621Z
     message: Updated Redraw section
 ---
-# ***Notable Dawntrail Changes***
+# **Notable Dawntrail Changes**
 
 * Complete card system revamp
 * Divination followup oGCD: Oracle
 * Aspected Helios got an animation upgrade to Helios Conjunction
 * Using Neutral Sect gains access to a new oGCD mitigation ability: Sun Sign
 
-# ***Damage***
+# **Damage**
 
 ## **GCDs**
 

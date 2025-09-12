@@ -21,7 +21,7 @@ tags:
   - Guide
   - Advanced
 ---
-# 6.X Red Mage Advanced Optimization Guide
+# Introduction
 
 This guide will cover some Endwalker Red Mage optimization concepts and principles that aren’t fully covered in the basic job guide. The intended audience includes:
 

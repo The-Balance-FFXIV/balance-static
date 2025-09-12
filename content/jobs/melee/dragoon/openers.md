@@ -22,7 +22,7 @@ changelog:
   - date: 2025-03-30T10:47:39.936Z
     message: Bump to 7.2000000000
 ---
-# Opener and Rotation Notes
+# Graphics and Notes
 
 The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new job design, it’s possible that we’ll actually have fight-specific openers down the stretch.
 
@@ -56,7 +56,7 @@ The damage output from both openers are comparable, it is recommended to use Pie
 ➜ It is recommended to add a very slight delay before pressing Geirskogul, we want to leave space for a double weave following the ability while making sure the Wyrmwind Thrust at the end of our opener is buffed by Life of the Dragon.
 
 
-## Rotation
+# Rotation
 Dragoon's Dawntrail rotation consists of a 10 GCD combo loop with alternating Chaotic Spring & Heavens' Thrust finishers, as well as using our 30s interval oGCDs on cooldown.
 
 The GCD and oGCD parts of our kit work independently of each other, your GCD loop takes 25s while our oGCDs work on intervals of 30s meaning that the GCDs which line up with your burst are not consistent. Due to this you will have to plan your burst windows around Life Surge which is optimally used on your highest potency GCDs Heavens' Thrust & Drakesbane. And also plan around Wyrmwind Thrust which must be used before overcapping on your next Raiden Thrust.

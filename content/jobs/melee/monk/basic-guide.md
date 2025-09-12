@@ -21,12 +21,6 @@ changelog:
   - date: 2025-03-31T22:27:46.089Z
     message: 7.2 potency changes
 ---
-![]()
-
-![]()
-
-![]()
-
 # Introduction
 
 Welcome to the basic guide for Monk, which will cover all of the information necessary to get you off your feet and onto your hands. Included is a look into the various systems that come together to define the Monk playstyle, suggested openers, and explanations on how to correctly form burst windows.

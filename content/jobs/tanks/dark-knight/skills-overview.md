@@ -23,8 +23,6 @@ changelog:
   - date: 2025-03-24T19:52:50.831Z
     message: Updated for 7.2 AoE changes.
 ---
-Abilities will be presented in a tabular format for easy reading.
-
 # Actions used in Single Target Rotation
 
 | Icon                                                                              | Action            | Abbreviation  | Level | Type        | Recast      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
