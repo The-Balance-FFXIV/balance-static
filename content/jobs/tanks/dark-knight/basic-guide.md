@@ -109,27 +109,18 @@ For oGCDs:
 * Replace **Edge of Shadow** with **Flood of Shadow**
 * Replace **Carve and Spit** with **Abyssal Drain**
 
-## Pooling Resources for Raid Buffs
+## MP Usage
 
-**Edge of Shadow** and **Bloodspiller** can be delayed without loss, as long as MP and Blood Gauge do not overcap. Dark Knight is thus uniquely able to pool a massive amount of potency for use during party raid buff windows, which typically come every 2 minutes.
+Over the course of a fight, you should generally only spend MP by using **Edge of Shadow** or **Flood of Shadow** in these three situations:
+- You're about to overcap MP
+- You're about to run out of Darkside
+- You're in burst, and have damage-increasing buffs
 
-Dark Knight generates around 10800 MP per minute, from a combination of **Syphon Strike**, **Carve and Spit**, **Delirium**, and natural MP regen ticks (which grant 200 MP every three seconds in combat, or 600 MP every three seconds if out of combat).
-This translates to 3.6 MP spenders per minute, or 7.2 spenders per 2 minutes.
-Since at least 2 **Edge/Flood of Shadow** are needed in the odd minutes to maintain Darkside, this leaves at most 5.2 spenders for every even minute, when buffs come out.
-Even going into burst at full MP and using the MP generated from **Carve and Spit** and Delirium, however, we do not reach 15000 MP.
+This allows us to maintain high personal damage, as well as making sure we have as many MP spending abilities as possible for buffs.
 
-To reach 5 **Edge/Flood of Shadow** in buffs, we use **The Blackest Night (TBN)** earlier, outside of buffs, in order to store a Dark Arts, essentially banking 3000 MP for later.
-With a stored Dark Arts from the previous minute, 9000+ MP, and the MP from Delirium and **Carve and Spit**, 5 **Edge/Flood of Shadow** within buffs are possible.
+You should also aim to use **The Blackest Night** before buffs to get a charge of Dark Arts. This can be on auto-attacks, tankbusters, a raidwide, or anything you can. Dark Arts will allow you to get an additional **Edge of Shadow** in buffs. This concept is elaborated on further in [the advanced gameplay section](/jobs/tanks/dark-knight/basic-guide/#optimizing-raid-buffs-further).
 
-This means that damage-optimal MP spending is as follows:
-* 5 **Edge of Shadow** in each buff window (except the opener, where one **Edge of Shadow** is used outside of buffs to get Darkside).
-* Three MP spenders in odd minutes, where the last one is **The Blackest Night**, with the Dark Arts from this being held into the next buff window.
-
-Note that the first two MP spenders in odd minutes can freely be **The Blackest Night (TBN)** as well, with their Dark Arts then being used before the next TBN.
-Similarly, TBN can be used during buffs without losing damage as long as the Dark Arts it generates can be spent on **Edge/Flood of Shadow** before the buff window ends.
-
-Similarly, though more simply, entering buffs (when **Delirium** is pressed) with 70 or less Blood Gauge will ensure that you do not overcap on Blood Gauge.
-This allows for using 1-2 **Bloodspillers** during every 2-minute raid buff window, and it is best to have the Blood Gauge as high as possible (up to 70) when entering Delirium.
+You should liberally use **The Blackest Night** to avoid damage as needed, too. It is always better to move damage out of buffs in order to stay alive.
 
 ## Rotation Video
 
@@ -355,27 +346,25 @@ While this section will go over some optimizations for Dark Knight, for those lo
 
 ## Optimizing Raid Buffs Further
 
-Moving MP with **The Blackest Night**:
+**Edge of Shadow** and **Bloodspiller** can be delayed without loss, as long as MP and Blood Gauge do not overcap. Dark Knight is thus uniquely able to pool a massive amount of potency for use during party raid buff windows, which typically come every 2 minutes.
 
-The standard rotation allows four **Edges of Shadow** to be used in each raid buff window without any further adjustments. However, since raid buffs windows happen every two minutes, it is beneficial to use **The Blackest Night** during odd minutes to get Dark Arts afterwards, which allows five **Edges of Shadow** to be used in the next even-minute buff window without overcapping MP.
+Dark Knight generates around 10800 MP per minute, from a combination of **Syphon Strike**, **Carve and Spit**, **Delirium**, and natural MP regen ticks (which grant 200 MP every three seconds in combat, or 600 MP every three seconds if out of combat).
+This translates to 3.6 MP spenders per minute, or 7.2 spenders per 2 minutes.
+Since at least 2 **Edge/Flood of Shadow** are needed in the odd minutes to maintain Darkside, this leaves at most 5.2 spenders for every even minute, when buffs come out.
+Even going into burst at full MP and using the MP generated from **Carve and Spit** and Delirium, however, we do not reach 15000 MP.
 
-#### List of Raid Buffs
+To reach 5 **Edge/Flood of Shadow** in buffs, we use **The Blackest Night (TBN)** earlier, outside of buffs, in order to store a Dark Arts, essentially banking 3000 MP for later.
+With a stored Dark Arts from the previous minute, 9000+ MP, and the MP from Delirium and **Carve and Spit**, 5 **Edge/Flood of Shadow** within buffs are possible.
 
-| Job | Icon                                                                                                                                                                                   | Name             | Effect                                            | Cooldown |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------- | -------- |
-| NIN | ![icon](https://xivapi.com/i/012000/012920_hr1.png)                                                                                                                                    | Dokumori              | Target takes 5% more damage <br>20s duration      | 120s     |
-| DRG | ![icon](https://xivapi.com/i/012000/012578_hr1.png)                                                                                                                                    | Battle Litany    | Critical rate increased by 10% <br>20s duration   | 120s     |
-| MNK | ![icon](https://xivapi.com/i/012000/012532_hr1.png)                                                                                                                                    | Brotherhood      | 5% damage increase <br>20s duration               | 120s     |
-| RPR | ![icon](https://xivapi.com/i/012000/012936_hr1.png)                                                                                                                                    | Arcane Circle    | 3% damage increase <br>20s duration               | 120s     |
-| DNC | ![icon](https://xivapi.com/i/013000/013709_hr1.png)                                                                                                                                    | Technical Finish | 5% damage increase <br>20s duration               | 120s     |
-| BRD | ![icon](https://xivapi.com/i/012000/012601_hr1.png)                                                                                                                                    | Battle Voice     | Direct hit rate increased by 20% <br>20s duration | 120s     |
-| BRD | ![icon](https://xivapi.com/i/012000/012622_hr1.png)                                                                                                                                    | Radiant Finale     | 6% damage increase (2% in opener) <br>20s duration | 120s     |
-| SMN | ![icon](https://xivapi.com/i/012000/012692_hr1.png)                                                                                                                                    | Searing Light    | 5% damage increase <br>20s duration               | 120s     |
-| RDM | ![icon](https://xivapi.com/i/013000/013410_hr1.png) | Embolden         | 5% damage increase <br> 20s duration              | 120s     |
-| PCT | ![icon](https://xivapi.com/i/013000/013808_hr1.png) | Starry Muse         | 5% damage increase <br> 20s duration              | 120s     |
-| SCH | ![icon](https://xivapi.com/i/012000/012809_hr1.png)                                                                                                                                    | Chain Stratagem  | +10% critical rate on target <br>20s duration     | 120s     |
-| AST | ![icon](https://xivapi.com/i/013000/013245_hr1.png)                                                                                                                                    | Divination       | 6% damage increase <br>20s duration               | 120s     |
-| AST | Various                                                                                                                                                                                | Cards            | Target gets 6% damage increase <br>15s duration  | 60s      |
+This means that damage-optimal MP spending is as follows:
+* 5 **Edge of Shadow** in each buff window (except the opener, where one **Edge of Shadow** is used outside of buffs to get Darkside).
+* Three MP spenders in odd minutes, where the last one is **The Blackest Night**, with the Dark Arts from this being held into the next buff window.
+
+Note that the first two MP spenders in odd minutes can freely be **The Blackest Night (TBN)** as well, with their Dark Arts then being used before the next TBN.
+Similarly, TBN can be used during buffs without losing damage as long as the Dark Arts it generates can be spent on **Edge/Flood of Shadow** before the buff window ends.
+
+Similarly, though more simply, entering buffs (when **Delirium** is pressed) with 70 or less Blood Gauge will ensure that you do not overcap on Blood Gauge.
+This allows for using 1-2 **Bloodspillers** during every 2-minute raid buff window, and it is best to have the Blood Gauge as high as possible (up to 70) when entering Delirium.
 
 ## Breaking a pre-pull The Blackest Night on any boss
 
