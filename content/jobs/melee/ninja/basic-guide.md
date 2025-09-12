@@ -91,9 +91,9 @@ table {
 
 <hr>
 <br>
-<div style="max-width: 700px; font-size:1.125rem">
+<div>
 <div style="display: flex; align-items: flex-start;">
-  <div style="width: 60%">
+  <div>
 Ninja is a fast-paced yet flexible job with a high focus on a powerful burst every one and two minutes. It is unique from other jobs with its utilization of Ninjutsus, a combo-like system allowing a Ninja to form a multitude of ranged attacks. We have a personal buff every minute (Kunai's Bane) where we emphasize landing all of our biggest attacks within 16.25s, and a raid buff (Dokumori) every 2-minutes that lasts 21s.<br><br>
 
 If you want a melee job with the most flexibility for disengagements and has a fast-paced burst phase and relaxing filler phase, then Ninja might just be the job for you!
