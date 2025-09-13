@@ -2,7 +2,8 @@
 title: Basic Guide
 card_header_image: /img/jobs/gbn/screenshot-2025-09-09-131147.png
 authors:
-  - Balance-GNB-Staff
+  - krom
+  - azazael
 patch: "7.3"
 lastmod: 2025-08-05T20:50:24.786Z
 changelog:
