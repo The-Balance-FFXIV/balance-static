@@ -17,21 +17,26 @@ changelog:
 qna:
   - question: How do I optimally spend MP?
     answer: >
-      Ideally, you should use 5 Edge of Shadow in each 2-minute raid buff window
-      (except for the opener, where the first edge is used early to get the
-      Darkside buff started). To do this, you use 3 MP spenders in odd minutes,
-      with the last one being **The Blackest Night** (TBN), and hold the Dark
-      Arts from this TBN breaking until the buff window.
+      Over the course of a fight, you should generally only use **Edge of
+      Shadow** in these three situations:
+
+      - You're about to overcap MP
+
+      - You're about to run out of Darkside
+
+      - You're in burst, and have damage-increasing buffs
+
+
+      You should also aim to use **The Blackest Night** before buffs to get a charge of Dark Arts. This can be on auto-attacks, tankbusters, a raidwide, or anything you can. Dark Arts will allow you to get an additional **Edge of Shadow** in buffs.
+
+
+      You should liberally use **The Blackest Night** to avoid damage as needed, too. It is always better to move damage out of buffs in order to stay alive.
   - question: Can I use all my MP on The Blackest Night (TBN)?
-    answer: >-
-      Up to 3 (4 with careful timing, by using TBN during a buff window) MP
-      spenders per 2 minutes can be TBN without losing any damage --- all three
-      spenders in the odd-numbered minutes, plus one in the even-numbered
-      minute.
-
-      Note that the damage loss from using TBN more than this is smaller than the damage loss from dying!
-
-      It is always better to lose damage in buffs in order to stay alive, and sometimes even to reduce the amount of healing needed.
+    answer: Up to 3 (4 with careful timing) MP spenders per 2 minutes can be **TBN**
+      without moving any damage out of burst --- all three spenders in the
+      odd-numbered minutes, plus one in the even-numbered minute. It is always
+      better to lose damage in buffs in order to stay alive, or to save healer
+      GCDs.
   - question: Why don't we use Living Shadow prepull/Should I use Living Shadow
       during phase transitions?
     answer: Using **Living Shadow** prepull can result in some of its damage coming
@@ -72,6 +77,13 @@ qna:
       points of Determination give 0.1% additional damage (and no mitigation).
 
       For 7.00 best gear, a full focus on Tenacity gains approximately 6.2% mitigation and loses approximately 0.8% damage compared to the best damage melds.
+  - question: How does Shadowed Vigil's heal interact with heal-increasing effects,
+      like Rampart?
+    answer: "**Vigilant**, the buff that provides the delayed heal, will be buffed
+      if the heal-increasing effect is present upon buff **application**, or in
+      other words, shortly after you press **Shadowed Vigil**. Applying
+      heal-increasing effects like **Rampart** after you already have
+      **Vigilant** will not increase its healing."
 authors:
   - silaqui-amakiir
   - violet-stardust
