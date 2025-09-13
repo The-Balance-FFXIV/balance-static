@@ -105,5 +105,6 @@ qna:
 
       Please keep in mind that this is *not* a recommendation to avoid Tenacity altogether. Gear that contains Tenacity is still very viable in the event that no equivalent item level gear piece exists that contains both CRIT and DET.
 authors:
-  - Balance-GNB-Staff
+  - azazael
+  - krom
 ---
