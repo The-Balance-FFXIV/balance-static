@@ -2,7 +2,7 @@
 title: Openers
 authors:
   - krom
-  - Balance-GNB-Staff
+  - azazael
 patch: "7.3"
 lastmod: 2025-08-05T20:50:58.253Z
 changelog:
