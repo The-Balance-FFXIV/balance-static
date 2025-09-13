@@ -4,7 +4,7 @@
 &lt;p>This guide focuses on advanced level 100 Dark Knight gameplay, and assumes that you are comfortable with the entirety of the Dark Knight kit as well as its opener and rotation. If you are still leveling, you should start with the &lt;a href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/leveling-guide">leveling guide&lt;/a>, and if you&amp;rsquo;re still learning, you should start with the the &lt;a href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/basic-guide">basic guide&lt;/a>, and build familiarity with Dark Knight&amp;rsquo;s kit first.&lt;/p>
 &lt;p>Trying to apply these techniques before you are fully comfortable with the rotation and job could make your gameplay worse rather than better.&lt;/p></description></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/faq/</link><pubDate>Tue, 05 Aug 2025 02:26:01 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/faq/</guid><description>&lt;h1 id="frequently-asked-questions">Frequently Asked Questions&lt;/h1>
 &lt;h1 id="why-cant-i-fit-five-gcds-in-blood-weapon-or-delirium">Why can’t I fit five GCDs in Blood Weapon (or Delirium)?&lt;/h1>
-&lt;p>The single most likely reason is that you aren’t weaving Blood Weapon late into the GCD. As long as you are weaving Blood Weapon late and keeping the GCD rolling during it, five GCDs in Blood Weapon should be very consistent. With high latency (100+ ms), double weaves can cause the last GCD to fall out of Blood Weapon. It is possible to mitigate some latency by using a gaming VPN (for example, Mudfish or PingZapper).&lt;/p></description></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</link><pubDate>Tue, 05 Aug 2025 02:25:46 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</guid><description>&lt;h1 id="graphics">Graphics&lt;/h1>
+&lt;p>The single most likely reason is that you aren’t weaving Blood Weapon late into the GCD. As long as you are weaving Blood Weapon late and keeping the GCD rolling during it, five GCDs in Blood Weapon should be very consistent. With high latency (100+ ms), double weaves can cause the last GCD to fall out of Blood Weapon. It is possible to mitigate some latency by using a gaming VPN (for example, Mudfish or PingZapper).&lt;/p></description></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</link><pubDate>Tue, 05 Aug 2025 02:25:46 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/openers/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
 &lt;p>DRK is a flexible class, and so specific encounters may benefit from alternate openers.
 Encounter-specific opener information may be found in the &lt;a href="https://discord.com/channels/277897135515762698/1264618936297848926">drk_encounter channel of the Balance discord&lt;/a>, or on fight-specific guides, where applicable.&lt;/p>
 &lt;p>This section will list general-purpose DRK openers, which will work well for most situations, and provide an overview of how openers are chosen. For more nuance, understanding, and detail about why some encounters might prefer a different opener, you may also want to read the &lt;a href="https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/advanced-guide/#opener-variations">opener variation section in the advanced guide&lt;/a>.&lt;/p></description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</link><pubDate>Tue, 05 Aug 2025 02:25:27 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/</guid><description>&lt;h1 id="actions-used-in-single-target-rotation">Actions used in Single Target Rotation&lt;/h1>
@@ -24,7 +24,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[472 393 437 215 478 185]" src="https://xivapi.com/i/003000/003051_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[212 482 435 342 439 307]" src="https://xivapi.com/i/003000/003051_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hard Slash&lt;/td>
@@ -37,7 +37,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[56 330 328 454 268 226]" src="https://xivapi.com/i/003000/003054_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[63 163 318 373 326 69]" src="https://xivapi.com/i/003000/003054_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Syphon Strike&lt;/td>
@@ -50,7 +50,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[86 326 457 201 187 185]" src="https://xivapi.com/i/003000/003055_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[59 148 345 129 284 402]" src="https://xivapi.com/i/003000/003055_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Souleater&lt;/td>
@@ -63,7 +63,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[32 65 221 493 136 220]" src="https://xivapi.com/i/003000/003062_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[357 310 353 117 449 279]" src="https://xivapi.com/i/003000/003062_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Unmend&lt;/td>
@@ -76,7 +76,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[177 274 173 132 428 98]" src="https://xivapi.com/i/003000/003080_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[235 383 307 86 439 199]" src="https://xivapi.com/i/003000/003080_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bloodspiller&lt;/td>
@@ -89,7 +89,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[132 335 482 353 261 70]" src="https://xivapi.com/i/003000/003086_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[423 191 274 181 68 270]" src="https://xivapi.com/i/003000/003086_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Edge of Shadow&lt;/td>
@@ -102,7 +102,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[490 204 159 473 5 417]" src="https://xivapi.com/i/003000/003078_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[75 395 180 134 373 399]" src="https://xivapi.com/i/003000/003078_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Delirium&lt;/td>
@@ -115,7 +115,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[483 355 412 366 28 421]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003095_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[333 290 272 422 305 127]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003095_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Scarlet Delirium&lt;/td>
@@ -128,7 +128,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[296 342 103 324 310 422]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003096_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[2 184 312 317 10 112]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003096_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Comeuppance&lt;/td>
@@ -141,7 +141,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[416 137 454 54 46 426]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[478 243 23 203 205 226]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Torcleaver&lt;/td>
@@ -154,7 +154,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[208 404 251 337 140 294]" src="https://xivapi.com/i/003000/003058_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[256 471 442 254 79 338]" src="https://xivapi.com/i/003000/003058_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Carve and Spit&lt;/td>
@@ -167,7 +167,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[127 477 376 160 399 12]" src="https://xivapi.com/i/003000/003088_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[265 388 366 338 351 103]" src="https://xivapi.com/i/003000/003088_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Living Shadow&lt;/td>
@@ -180,7 +180,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[422 268 199 375 186 388]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003099_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[495 365 155 234 464 412]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003099_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Disesteem&lt;/td>
@@ -193,7 +193,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[139 234 189 175 127 384]" src="https://xivapi.com/i/003000/003066_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[494 310 477 294 262 191]" src="https://xivapi.com/i/003000/003066_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Salted Earth&lt;/td>
@@ -206,7 +206,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[140 332 484 44 114 182]" src="https://xivapi.com/i/003000/003090_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[11 142 349 388 326 40]" src="https://xivapi.com/i/003000/003090_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Salt and Darkness&lt;/td>
@@ -219,7 +219,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[210 393 306 235 11 316]" src="https://xivapi.com/i/003000/003091_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[48 75 90 175 454 417]" src="https://xivapi.com/i/003000/003091_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadowbringer&lt;/td>
@@ -248,7 +248,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[265 93 272 280 271 61]" src="https://xivapi.com/i/003000/003063_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[367 321 225 246 434 236]" src="https://xivapi.com/i/003000/003063_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Unleash&lt;/td>
@@ -261,7 +261,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[242 303 340 207 117 325]" src="https://xivapi.com/i/003000/003084_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[228 9 238 57 222 27]" src="https://xivapi.com/i/003000/003084_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Stalwart Soul&lt;/td>
@@ -274,7 +274,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[78 100 35 28 285 295]" src="https://xivapi.com/i/003000/003079_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[306 93 113 82 6 286]" src="https://xivapi.com/i/003000/003079_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Quietus&lt;/td>
@@ -287,7 +287,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[293 86 483 384 222 8]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[232 327 343 325 40 158]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003097_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Impalement&lt;/td>
@@ -300,7 +300,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[421 50 2 272 103 78]" src="https://xivapi.com/i/003000/003085_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[466 200 289 480 82 167]" src="https://xivapi.com/i/003000/003085_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flood of Shadow&lt;/td>
@@ -313,7 +313,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[475 382 448 134 63 79]" src="https://xivapi.com/i/003000/003064_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[314 254 113 431 415 124]" src="https://xivapi.com/i/003000/003064_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Abyssal Drain&lt;/td>
@@ -342,7 +342,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[479 180 198 495 219 458]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[336 72 23 135 222 337]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Rampart&lt;/td>
@@ -355,7 +355,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[27 125 231 132 377 124]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[233 3 443 81 391 135]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reprisal&lt;/td>
@@ -368,7 +368,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[246 377 366 313 50 210]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[183 141 289 18 177 275]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -381,7 +381,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[90 384 46 189 321 442]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003094_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[206 291 27 183 54 379]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003094_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadowed Vigil&lt;/td>
@@ -394,7 +394,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[155 24 473 317 366 73]" src="https://xivapi.com/i/003000/003076_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[219 40 273 173 478 11]" src="https://xivapi.com/i/003000/003076_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dark Mind&lt;/td>
@@ -407,7 +407,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[237 435 200 10 204 67]" src="https://xivapi.com/i/003000/003077_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[393 473 212 93 21 300]" src="https://xivapi.com/i/003000/003077_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Living Dead&lt;/td>
@@ -420,7 +420,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[179 120 301 45 182 206]" src="https://xivapi.com/i/003000/003087_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[387 330 385 391 411 4]" src="https://xivapi.com/i/003000/003087_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dark Missionary&lt;/td>
@@ -433,7 +433,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[381 372 150 225 146 8]" src="https://xivapi.com/i/003000/003081_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[374 377 201 99 79 426]" src="https://xivapi.com/i/003000/003081_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">The Blackest Night&lt;/td>
@@ -446,7 +446,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[64 440 446 373 217 261]" src="https://xivapi.com/i/003000/003089_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[13 467 332 463 437 360]" src="https://xivapi.com/i/003000/003089_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Oblation&lt;/td>
@@ -475,7 +475,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[23 187 19 458 419 247]" src="https://xivapi.com/i/003000/003070_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[20 483 260 54 47 494]" src="https://xivapi.com/i/003000/003070_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Grit&lt;/td>
@@ -488,7 +488,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[392 314 450 4 138 78]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[478 288 128 468 500 388]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Low Blow&lt;/td>
@@ -501,7 +501,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[192 146 332 259 483 299]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[380 192 184 254 134 175]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Provoke&lt;/td>
@@ -514,7 +514,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[455 241 358 389 425 107]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[134 398 33 104 281 268]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Interject&lt;/td>
@@ -527,7 +527,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[71 482 253 219 193 411]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[390 26 149 268 495 280]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shirk&lt;/td>
@@ -540,7 +540,7 @@ Encounter-specific opener information may be found in the &lt;a href="https://di
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[345 342 443 144 290 174]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003093_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[430 213 327 95 313 5]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003093_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Shadowstride&lt;/td>
