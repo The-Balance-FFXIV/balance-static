@@ -23,7 +23,7 @@ changelog:
   - date: 2025-03-24T19:52:50.831Z
     message: Updated for 7.2 AoE changes.
   - date: 2025-09-13T03:14:00.049Z
-    message: Fixed Impalement skill icon.
+    message: Fixed Impalement skill icon, overhaul for readability.
 ---
 # Offensive On Global Cooldown (GCD) Abilities
 
