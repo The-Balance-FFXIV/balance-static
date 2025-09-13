@@ -1,7 +1,8 @@
 ---
 title: Skills Overview
 authors:
-  - Balance-GNB-Staff
+  - krom
+  - azazael
 patch: "7.3"
 lastmod: 2025-08-05T20:50:41.670Z
 changelog:
