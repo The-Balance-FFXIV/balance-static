@@ -31,14 +31,6 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Verify package versions
-        run: |
-          echo "Installed package versions:"
-          echo "Node:"
-          node -v
-          echo "Yarn packages:"
-          yarn list --depth=0 --pattern="postcss-cli|autoprefixer|postcss|tailwindcss"
-
       - name: Build
         run: hugo --minify
 
