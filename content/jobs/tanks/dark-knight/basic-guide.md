@@ -117,7 +117,137 @@ You should liberally use **The Blackest Night** to avoid damage as needed, too. 
 
 {{< youtube -qDvEZQU9dQ >}}
 
+# Stats and Itemization
+
+Best-in-slot sets can be found on the [BiS page](/jobs/tanks/dark-knight/best-in-slot/) or in the Balance discord. Before obtaining best-in-slot gear, or if the items in the best-in-slot sets are not available to you, pick gear and meld according to stat priority on each piece of gear, listed below.
+
+**Highest priority**
+
+* Item Level
+  * Affects Strength and Weapon Damage (for weapons), as well as total substat amount 
+  * Significantly affects all damage dealt
+  * Prioritize over getting better substats
+* Critical Hit
+  * Affects critical chance + critical damage
+  * Priority meld on all gear (unless number turns red when melding)
+* Skill Speed (if desired)
+  * Reduces weaponskill recast time
+  * Meld only to reach preferred GCD speed (commonly anywhere from 2.40s to 2.50s)
+    (see [akhmorning](https://www.akhmorning.com/allagan-studies/stats/speed/) or [xivgear.app](https://xivgear.app/math/?page=math%7Csks) for precise skill speed tiers)
+* Direct Hit
+  * Meld remaining slots (filler stat)
+* Determination
+  * Sometimes used in a small number of slots due to stat tiering
+* Tenacity
+  * Rarely melded due to weak scaling and minimal mitigation
+
+**Lowest priority**
+
+If the above priority isn't enough, and you want to be sure of the absolute best choice for each slot, because of stat tiering, it may not always be obvious how two pieces of gear compare.
+Using a gear calculator tool is recommended --- see, for example, [xivgearapp](https://xivgear.app).
+
+Note that in any sort of gear calculator, simulations make some assumptions (e.g., a common assumption is that of full uptime, single-target fights).
+They will still generally give reliable results when used to compare gear with large differences, but, especially when comparing gearsets with different speeds, it is good to be aware of the assumptions being made and whether they apply to your use case.
+
+## Choosing your skill speed
+
+The Dark Knight rotation is functional at almost all skill speeds, although certain speeds keep oGCD abilities better aligned with your GCD. In particular, 2.40 and 2.50 maintain perfect alignment for 60s cooldown oGCDs.
+
+One notable factor regarding skill speed for Dark Knight is that **Unmend**, **Unleash**, and **Stalwart Soul** are Spells, and not Weaponskills. As a result, these abilities' cooldowns do not scale with Skill Speed (they instead scale with Spell Speed).
+
+Outside of high-end optimization, choice of skill speed has little impact on the Dark Knight rotation, and can be chosen for comfort. At some faster speeds, oGCDs like **Salted Earth** and **Carve and Spit** will drift slightly.
+
+In optimization, each encounter must be considered separately to determine what GCDs are gained or lost by different skill speeds, as well as lining up the GCD with any melee disengages. In general, the slowest speed that doesn't lose any major GCDs within a phase will be the strongest choice, as much of Dark Knight's damage does not scale with speed.
+
+If in doubt, or you're not sure what any of this means, **we recommend 2.50**. It will likely be more forgiving if you're new to the job or have very high ping, as well as simming very slightly better. If you like Dark Knight a lot or want to branch out, then we recommend trying 2.46 too, which many find a very comfortable speed, and deciding for yourself what's comfiest for you.
+
+# Dungeons
+
+## Keeping Aggro
+
+Turn on **Grit** and never turn it off. As long as you keep hitting the mobs, you will have aggro on them. In multi-target situations, use AoE so that you can keep aggro on all mobs.
+
+## Pulling Mobs
+
+There are a variety of ways to ensure you pull all of the mobs in a pack quickly and reliably, without stopping on your way to the next pack of mobs:
+
+* Run up to the mobs so they see and run to you and use an AoE combo GCD once they are in range to secure aggro.
+* Tab through the mobs and use **Unmend** while weaving any damaging oGCDs or **Provoke**.
+
+Try to position the mobs so that they are in a tight clump: this lets you, your DPS, and your healers use their AoE damage more effectively. Pull melee enemies onto ranged enemies so that the ranged enemies are also in the clump. Alternatively, drag mobs around a corner so the ranged enemies are forced to run next to you in order to attack.
+
+## Mitigation
+
+Cycle through your mitigation on trash pulls (they hurt more than bosses). Rather than using it all at once, keeping something up at all times can help your healer keep you alive more easily. More powerful mitigation cooldowns like **Rampart**, **Shadowed Vigil**, and **Arm's Length** can be paired with weaker ones like **Reprisal**, **Oblation**, and **Dark Mind**. **The Blackest Night** is one of your most powerful mitigation tools and can be used liberally (at least once per mob pack) once unlocked. **Dark Mind** is also noticeably better against magical damage, and should be prioritized on magic damage, where possible.
+
+**Living Dead** can be extremely strong in dungeons, as a single AoE GCD will often heal you to full after Walking Dead is activated. However, an inexperienced healer may heal too much during **Living Dead**, preventing Walking Dead from activating. It may help to let your healers know ahead of time where you plan to use **Living Dead**, to avoid this problem.
+
+# Let's Talk About The Blackest Night (TBN)
+
+## What is TBN?
+
+**The Blackest Night** (**TBN**) is one of Dark Knight's best abilities, but also probably its most misunderstood. It's also one of the best pieces of targeted or personal mitigation in the entire game, if not the best, and hopefully this section helps you understand why.
+
+Unlike other tanks' comparable mitigations, which do not cost any damage gauge, it costs 3000 MP, the same as an **Edge of Shadow**. On the surface, this can cause newer or less experienced Dark Knights to worry about the potential of losing damage, or worry that using it at all will lose them damage. Most obviously, if you use a **TBN** and it doesn't pop, you lose a whole **Edge of Shadow**'s worth of damage. However, if it does pop, it refunds itself with a Dark Arts, allowing the use of the same 3000 MP ability you 'lost'.
+
+Practically speaking, in a large dungeon pull or facing down a tankbuster in a raid or trial, it's almost impossible for it not to break. On boss auto-attacks, it should be immediately obvious as to whether or not those auto-attacks break **TBN** during progression (they almost always will), meaning by the time damage starts mattering, in the rare case that they don't break **TBN**, you'll know for next pull.
+
+That means that, practically speaking, **TBN** is damage neutral to a damage gain. Since the shield always breaks, you're never losing damage, and you can **gain** damage by using the Dark Arts that its breakage grants can be used to 'move' your MP around, allowing for five **Edge of Shadow**s in a buff window as opposed to four. Indeed, the start of [advanced Dark Knight play](/jobs/tanks/dark-knight/basic-guide/#optimizing-raid-buffs-further) revolves around this concept.
+
+Of course, if a second **TBN** pops before you've used the Dark Arts from the first one, you would lose damage, but that would obviously be user error, and is very easy to avoid.
+
+So, to once and for all answer the question:
+> Is TBN a damage loss?
+
+No. **TBN** is either damage neutral, or a gain, allowing you to move extra damage into buffs.
+
+## Its Cooldown
+
+**TBN** is special compared to the other tank 'short mits' (**Bloodwhetting**, **Heart of Corundum**, and **Holy Sheltron**) in that it has a 15 second cooldown. The other tanks either have a 25 second cooldown (Warrior and Gunbreaker) or are limited by gauge to be roughly every 30 seconds (Paladin).
+
+Its cooldown allows it to mitigate damage more frequently than other tanks, allowing you to mitigate tankbusters or other salient damage that's closer together than any other tank. This can be very relevant in some difficult fights like Savages and Ultimates, and the flexibility to be able to use your mitigation more frequently isn't always an option other tanks have.
+
+There **is** a downside of using **TBN** so frequently though, you can move some of your MP spending out of buffs if you use too much. However, up to 4 (the last sometimes requires careful timing, by using **TBN** during a buff window) MP spenders per 2 minutes can be TBN without moving any damage out of buff windows --- all three spenders in the odd-numbered minutes, plus one in the even-numbered minute. An astute reader will note that four per 2 minutes is also the same amount of times that a 25 second cooldown will typically fit.
+
+To summarize, there's very few practical circumstances in which you need (or even want) so many TBNs you move damage out of buff windows, but if there's so much damage you need to TBN so often that you move damage out of burst windows, then **no other tank would have as much mit** as Dark Knight.
+
+A good way to think about it is this: unlike other tanks, Dark Knight has the option to move damage out of buff windows to mitigate more damage whenever it wants. If this is saving healers GCD heals, this is always better, and is another example of **TBN** being a DPS gain compared to other 'short mit'.
+
+## Shields (Like TBN) Are Really Really Good
+
+**TBN** provides a shield equal to 25% of the target's health upon application. Note that this, like other percentage-based barriers in the game, isn't increased by 'increased healing' effects, such as **Rampart** upon gaining the **Enhanced Rampart** trait.
+
+Shields work really well with mitigation, and, unless there are multiple big hits within a small window of time, often work out better than having 'more mitigation'. In particular, a 25% shield is absolutely massive, and works out to more than you might intuit. This is primarily because the shield applies after all other mitigation, so the mitigated hit will collide with your **TBN**, not the unmitigated hit.
+
+Let's look at a few example mitigation scenarios comparing **TBN** to the 15% mitigation offered by **Holy Sheltron** and **Heart of Corundum**, to illustrate just how good **TBN** is against competition.
+
+Scenario 1: We have 100,000 health, and are taking a 25,000 damage (after all other reductions) tankbuster:
+
+- The Dark Knight with **TBN** and no other mitigation will take no damage at all.
+
+- The other tank with 15% mit will take 21,250 damage.
+
+Scenario 2: We have 100,000 health, and are taking a 100,000 damage (after all other reductions) tankbuster:
+
+- The Dark Knight with **TBN** and no other mitigation will take 75,000 damage
+
+- The other tank with 15% mit will take 85,000 damage
+
+Scenario 3: We have 100,000 health, and are taking a 124,000 damage (after all other reductions) tankbuster:
+
+- The Dark Knight with **TBN** and no other mitigation will take 99,000 damage, and live
+
+- The other tank with 15% mit will die
+
+These examples illustrate that **TBN**, compared to percentage based mitigation, mitigates more damage relative to how small the hit is, since the amount it blocks is static. However, they also illustrate how strong it is --- a 25% shield is incredibly, incredibly good when stacked with other mitigation.
+
+Of course, if some of the larger tankbusters in these scenarios hit twice within the eight second durations of the two abilities we're comparing against, then the other mitigation will win out. That being said, practically speaking, most of the way this game deals out damage fits very neatly with the circumstances that make **TBN** so darn good.
+
 # Helpful Macros
+
+Since Dark Knight has extremely powerful targeted mitigation, some players find that they prefer to have mouse-over macros, or macros that allow using **TBN** and **Oblation** without having to change targets. This section gives some examples of useful macros that Dark Knight players use, as well as tips on how to make your own.
+
+Macros are by no means required, or even optimal, they are another option to use your abilities that some players find comfortable. 
 
 ## The Blackest Night (mouse-over)
 
@@ -192,136 +322,6 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 Note that for the mouse-over macros, if you opt to use them, we recommend having them *in addition to* the normal ability keybind. The normal ability keybind will be easier to use on yourself, as well as being more reliable than the macro, since macros do not properly queue, as discussed above.
 
 These same principles can be used to make your own macros, too! For example, if you wanted to make a macro for **The Blackest Night** for each party member, you'd make one macro where the inner lines of the macro are `/ac "The Blackest Night" <1>`, another where they are `/ac "The Blackest Night" <2>` and so forth.
-
-# Stats and Itemization
-
-Best-in-slot sets can be found on the [BiS page](/jobs/tanks/dark-knight/best-in-slot/) or in the Balance discord. Before obtaining best-in-slot gear, or if the items in the best-in-slot sets are not available to you, pick gear and meld according to stat priority on each piece of gear, listed below.
-
-**Highest priority**
-
-* Item Level
-  * Affects Strength and Weapon Damage (for weapons), as well as total substat amount 
-  * Significantly affects all damage dealt
-  * Prioritize over getting better substats
-* Critical Hit
-  * Affects critical chance + critical damage
-  * Often naturally capped on BiS gear pieces
-  * Priority meld on all gear (unless number turns red when melding)
-* Skill Speed (if desired)
-  * Reduces weaponskill recast time
-  * Meld only to reach preferred GCD speed (commonly anywhere from 2.40s to 2.50s)
-    (see [akhmorning](https://www.akhmorning.com/allagan-studies/stats/speed/) or [xivgear.app](https://xivgear.app/math/?page=math%7Csks) for precise skill speed tiers)
-* Direct Hit
-  * Affects only direct hit chance
-  * Meld remaining slots (filler stat)
-* Determination
-  * Increases damage dealt
-  * Sometimes used in a small number of slots due to stat tiering
-* Tenacity
-  * Increases damage dealt and reduces damage taken
-  * Rarely melded due to weak scaling and minimal mitigation
-
-**Lowest priority**
-
-If the above priority isn't enough, and you want to be sure of the absolute best choice for each slot, because of stat tiering, it may not always be obvious how two pieces of gear compare.
-Using a gear calculator tool is recommended --- see, for example, [xivgearapp](https://xivgear.app).
-
-Note that in any sort of gear calculator, simulations make some assumptions (e.g., a common assumption is that of full uptime, single-target fights).
-They will still generally give reliable results when used to compare gear with large differences, but, especially when comparing gearsets with different speeds, it is good to be aware of the assumptions being made and whether they apply to your use case.
-
-## Choosing your skill speed
-
-The Dark Knight rotation is functional at almost all skill speeds, although certain speeds keep oGCD abilities better aligned with your GCD. In particular, 2.40 and 2.50 maintain perfect alignment for 60s cooldown oGCDs.
-
-One notable factor regarding skill speed for Dark Knight is that **Unmend**, **Unleash**, and **Stalwart Soul** are Spells, and not Weaponskills. As a result, these abilities' cooldowns do not scale with Skill Speed (they instead scale with Spell Speed).
-
-Outside of high-end optimization, choice of skill speed has little impact on the Dark Knight rotation, and can be chosen for comfort. At certain speeds, 90-second cooldowns like **Salted Earth** must be drifted or clipped while the same is true of 60-second cooldowns at other speeds.
-
-In optimization, each encounter must be considered separately to determine what GCDs are gained or lost by different skill speeds, as well as lining up the GCD with any melee disengages. In general, the slowest speed that doesn't lose any major GCDs within a phase will be the strongest choice, as much of Dark Knight's damage does not scale with speed.
-
-If in doubt, or you're not sure what any of this means, **we recommend 2.50**. It will likely be more forgiving if you're new to the job or have very high ping, as well as simming very slightly better. If you like Dark Knight a lot or want to branch out, then we recommend trying 2.46 too, which many find a very comfortable speed, and deciding for yourself what's comfiest for you.
-
-# Dungeons
-
-## Keeping Aggro
-
-Turn on **Grit** and never turn it off. As long as you keep hitting the mobs, you will have aggro on them. In multi-target situations, use AoE so that you can keep aggro on all mobs.
-
-## Pulling Mobs
-
-There are a variety of ways to ensure you pull all of the mobs in a pack quickly and reliably, without stopping on your way to the next pack of mobs:
-
-* Run up to the mobs so they see and run to you and use an AoE combo GCD once they are in range to secure aggro.
-* Tab through the mobs and use **Unmend** while weaving any damaging oGCDs or **Provoke**.
-
-Try to position the mobs so that they are in a tight clump: this lets you, your DPS, and your healers use their AoE damage more effectively. Pull melee enemies onto ranged enemies so that the ranged enemies are also in the clump. Alternatively, drag mobs around a corner so the ranged enemies are forced to run next to you in order to attack.
-
-## Mitigation
-
-Cycle through your mitigation on trash pulls (they hurt more than bosses). Rather than using it all at once, keeping something up at all times can help your healer keep you alive more easily. More powerful mitigation cooldowns like **Rampart**, **Shadowed Vigil**, and **Arm's Length** can be paired with weaker ones like **Reprisal** or **Oblation**. **The Blackest Night** is one of your most powerful mitigation tools and can be used liberally (at least once per mob pack) once unlocked.
-
-**Living Dead** can be extremely strong in dungeons, as a single AoE GCD will often heal you to full after Walking Dead is activated. However, an inexperienced healer may heal too much during **Living Dead**, preventing Walking Dead from activating. It may help to let your healers know ahead of time where you plan to use **Living Dead**, to avoid this problem.
-
-# Let's Talk About The Blackest Night (TBN)
-
-## What is TBN?
-
-**The Blackest Night** (**TBN**) is one of Dark Knight's best abilities, but also probably its most misunderstood. It's also one of the best pieces of targeted or personal mitigation in the entire game, if not the best, and hopefully this section helps you understand why.
-
-Unlike other tanks' comparable mitigations, which do not cost any damage gauge, it costs 3000 MP, the same as an **Edge of Shadow**. On the surface, this can cause newer or less experienced Dark Knights to worry about the potential of losing damage, or worry that using it at all will lose them damage. Most obviously, if you use a **TBN** and it doesn't pop, you lose a whole **Edge of Shadow**'s worth of damage. However, if it does pop, it refunds itself with a Dark Arts, allowing the use of the same 3000 MP ability you 'lost'.
-
-Practically speaking, in a large dungeon pull or facing down a tankbuster in a raid or trial, it's almost impossible for it not to break. On boss auto-attacks, it should be immediately obvious as to whether or not those auto-attacks break **TBN** during progression (they almost always will), meaning by the time damage starts mattering, in the rare case that they don't break **TBN**, you'll know for next pull.
-
-That means that, practically speaking, **TBN** is damage neutral to a damage gain. Since the shield always breaks, you're never losing damage, and you can **gain** damage by using the Dark Arts that its breakage grants can be used to 'move' your MP around, allowing for five **Edge of Shadow**s in a buff window as opposed to four. Indeed, the start of [advanced Dark Knight play](/jobs/tanks/dark-knight/basic-guide/#optimizing-raid-buffs-further) revolves around this concept.
-
-Of course, if a second **TBN** pops before you've used the Dark Arts from the first one, you would lose damage, but that would obviously be user error, and is very easy to avoid.
-
-So, to once and for all answer the question:
-> Is TBN a damage loss?
-
-No. **TBN** is either damage neutral, or a gain, allowing you to move extra damage into buffs.
-
-## Its Cooldown
-
-**TBN** is special compared to the other tank 'short mits' (**Bloodwhetting**, **Heart of Corundum**, and **Holy Sheltron**) in that it has a 15 second cooldown. The other tanks either have a 25 second cooldown (Warrior and Gunbreaker) or are limited by gauge to be roughly every 30 seconds (Paladin).
-
-Its cooldown allows it to mitigate damage more frequently than other tanks, allowing you to mitigate tankbusters or other salient damage that's closer together than any other tank. This can be very relevant in some difficult fights like Savages and Ultimates, and the flexibility to be able to use your mitigation more frequently isn't always an option other tanks have.
-
-There **is** a downside of using **TBN** so frequently though, you can move some of your MP spending out of buffs if you use too much. However, up to 4 (the last sometimes requires careful timing, by using **TBN** during a buff window) MP spenders per 2 minutes can be TBN without moving any damage out of buff windows --- all three spenders in the odd-numbered minutes, plus one in the even-numbered minute. An astute reader will note that four per 2 minutes is also the same amount of times that a 25 second cooldown will typically fit.
-
-To summarize, there's very few practical circumstances in which you need (or even want) so many TBNs you move damage out of buff windows, but if there's so much damage you need to TBN so often that you move damage out of burst windows, then **no other tank would have as much mit** as Dark Knight.
-
-A good way to think about it is this: unlike other tanks, Dark Knight has the option to move damage out of buff windows to mitigate more damage whenever it wants. If this is saving healers GCD heals, this is always better, and is another example of **TBN** being a DPS gain compared to other 'short mit'.
-
-## Shields (Like TBN) Are Really Really Good
-
-**TBN** provides a shield equal to 25% of the target's health upon application. Note that this, like other percentage-based barriers in the game, isn't increased by 'increased healing' effects, such as **Rampart** upon gaining the **Enhanced Rampart** trait.
-
-Shields work really well with mitigation, and, unless there are multiple big hits within a small window of time, often work out better than having 'more mitigation'. In particular, a 25% shield is absolutely massive, and works out to more than you might intuit. This is primarily because the shield applies after all other mitigation, so the mitigated hit will collide with your **TBN**, not the unmitigated hit.
-
-Let's look at a few example mitigation scenarios comparing **TBN** to the 15% mitigation offered by **Holy Sheltron** and **Heart of Corundum**, to illustrate just how good **TBN** is against competition.
-
-Scenario 1: We have 100,000 health, and are taking a 25,000 damage (after all other reductions) tankbuster:
-
-- The Dark Knight with **TBN** and no other mitigation will take no damage at all.
-
-- The other tank with 15% mit will take 21,250 damage.
-
-Scenario 2: We have 100,000 health, and are taking a 100,000 damage (after all other reductions) tankbuster:
-
-- The Dark Knight with **TBN** and no other mitigation will take 75,000 damage
-
-- The other tank with 15% mit will take 85,000 damage
-
-Scenario 3: We have 100,000 health, and are taking a 124,000 damage (after all other reductions) tankbuster:
-
-- The Dark Knight with **TBN** and no other mitigation will take 99,000 damage, and live
-
-- The other tank with 15% mit will die
-
-These examples illustrate that **TBN**, compared to percentage based mitigation, mitigates more damage relative to how small the hit is, since the amount it blocks is static. However, they also illustrate how strong it is --- a 25% shield is incredibly, incredibly good when stacked with other mitigation.
-
-Of course, if some of the larger tankbusters in these scenarios hit twice within the eight second durations of the two abilities we're comparing against, then the other mitigation will win out. That being said, practically speaking, most of the way this game deals out damage fits very neatly with the circumstances that make **TBN** so darn good.
 
 # Advanced Gameplay
 
