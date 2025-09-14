@@ -27,11 +27,15 @@ jobs:
         uses: actions/setup-node@v5
         with:
           node-version: '>=20'
-          cache: 'yarn'
-          cache-dependency-path: 'yarn.lock'
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
+
+      - name: Verify package versions
+        run: |
+          echo "Installed package versions:"
+          npm -v
+          yarn list --depth=0 --pattern="postcss-cli|autoprefixer|postcss|tailwindcss"
 
       - name: Build
         run: hugo --minify
