@@ -1,4 +1,4 @@
-ARG NODE_VERSION=18.20.3
+ARG NODE_VERSION=20
 # deps exclusively installs dependencies as a separate layer
 # This allows us to cache this layer so it only updates when dependencies change, and not when source code or content does
 FROM node:${NODE_VERSION}-alpine AS node
