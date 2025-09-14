@@ -34,7 +34,9 @@ jobs:
       - name: Verify package versions
         run: |
           echo "Installed package versions:"
-          npm -v
+          echo "Node:"
+          node -v
+          echo "Yarn packages:"
           yarn list --depth=0 --pattern="postcss-cli|autoprefixer|postcss|tailwindcss"
 
       - name: Build
