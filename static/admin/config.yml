@@ -3934,9 +3934,9 @@ collections:
     label: Job Changes
     name: job-changes
   label: Gunbreaker guide
-  media_folder: /static/img/jobs/gbn
-  name: gbn-guide
-  public_folder: /img/jobs/gbn
+  media_folder: /static/img/jobs/gnb
+  name: gnb-guide
+  public_folder: /img/jobs/gnb
 - files:
   - fields:
     - label: Title
@@ -17241,7 +17241,7 @@ collections:
     widget: list
   folder: content/jobs/tanks/gunbreaker/fight-tips/
   label: Gunbreaker Fight Tips
-  name: gbn-fight-tips
+  name:nb-fight-tips
 - create: true
   description: Fight-specific tips for Scholar
   fields:

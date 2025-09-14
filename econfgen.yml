@@ -13,7 +13,7 @@ default:
     - ['Paladin', 'pld']
     - ['Warrior', 'war']
     - ['Dark Knight', 'drk']
-    - ['Gunbreaker', 'gbn']
+    - ['Gunbreaker', 'gnb']
     healers:
     - ['Scholar', 'sch']
     - ['White Mage', 'whm']

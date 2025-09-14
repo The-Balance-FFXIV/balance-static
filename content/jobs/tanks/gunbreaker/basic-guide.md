@@ -1,6 +1,6 @@
 ---
 title: Basic Guide
-card_header_image: /img/jobs/gbn/screenshot-2025-09-09-131147.png
+card_header_image: /img/jobs/gnb/screenshot-2025-09-09-131147.png
 authors:
   - krom
   - azazael
@@ -190,7 +190,7 @@ All future usages of **No Mercy with Bloodfest** will begin with 1 cartridge. En
 
 - - -
 
-![](/img/jobs/gbn/gnb_combobreaker_v1.png)
+![](/img/jobs/gnb/gnb_combobreaker_v1.png)
 
 </br>
 
