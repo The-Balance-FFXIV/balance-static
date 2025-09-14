@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="173" height="173" viewBox="0 0 173 173">
+  <defs>
+    <filter id="Rectangle_244" x="0" y="0" width="173" height="173" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#256a1d"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_8" x="21" y="21.789" width="131" height="129.422" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-color="#256a1d"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Icon" transform="translate(-105.5 -154.5)">
+    <g transform="matrix(1, 0, 0, 1, 105.5, 154.5)" filter="url(#Rectangle_244)">
+      <g id="Rectangle_244-2" data-name="Rectangle 244" transform="translate(5.5 5.5)" fill="none" stroke="#fff" stroke-width="8">
+        <rect width="158" height="158" rx="20" stroke="none"/>
+        <rect x="4" y="4" width="150" height="150" rx="16" fill="none"/>
+      </g>
+    </g>
+    <g id="Healer2" transform="translate(132 181.789)">
+      <g transform="matrix(1, 0, 0, 1, -26.5, -27.29)" filter="url(#Union_8)">
+        <path id="Union_8-2" data-name="Union 8" d="M37.914,104.8C53.523,48.79,8.563,81.332,8.563,81.332-9.544,58.489,6.691,34.708,6.691,34.708c54.638,30.041,29.972-21.9,29.972-21.9C56.263-14.26,77.876,9.989,77.875,9.99c-15.923,54.759,30.909,23.155,30.909,23.155,16.236,21.278,0,50.064,0,50.064C58.205,51.293,79.75,106.677,79.75,106.677c-8.188,5.763-15.34,7.745-21.306,7.745A27.371,27.371,0,0,1,37.914,104.8Z" transform="translate(26.5 27.29)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

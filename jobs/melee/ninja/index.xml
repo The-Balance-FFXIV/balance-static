@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ninja on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/melee/ninja/</link><description>Recent content in Ninja on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 02:16:45 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/melee/ninja/index.xml" rel="self" type="application/rss+xml"/><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/ninja/leveling-guide/</link><pubDate>Tue, 01 Apr 2025 02:16:45 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/ninja/leveling-guide/</guid><description>&lt;p&gt;This guide was written by Akashi for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 100 Ninja and are looking for information pertaining to the job at level 100, please see the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/ninja/basic-guide/"&gt;Basic Ninja Guide&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/melee/ninja/best-in-slot/</link><pubDate>Sun, 30 Mar 2025 20:23:39 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/ninja/best-in-slot/</guid><description/></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/melee/ninja/skills-overview/</link><pubDate>Mon, 24 Mar 2025 12:20:01 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/ninja/skills-overview/</guid><description>&lt;h1 id="weaponskills-commonly-referred-to-as-gcds"&gt;Weaponskills (Commonly referred to as GCDs)&lt;/h1&gt;
+&lt;p&gt;
+&lt;div class="md__image"&gt;
+ &lt;img id="[137 396 377 261 405 431]" src="https://xivapi.com/i/000000/000601_hr1.png" onclick="openModal(this.id)" alt="SpinningEdge" /&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;strong&gt;Spinning Edge&lt;/strong&gt;&lt;br&gt;
+Delivers an attack with a potency of 300. Grants 5 Ninki. This is the first part of our basic combo.&lt;/p&gt;
+&lt;p&gt;
+&lt;div class="md__image"&gt;
+ &lt;img id="[68 279 496 480 99 24]" src="https://xivapi.com/i/000000/000602_hr1.png" onclick="openModal(this.id)" alt="GustSlash" /&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;strong&gt;Gust Slash&lt;/strong&gt;&lt;br&gt;
+Delivers an attack with a potency of 240. If used after Spinning Edge in the combo, it will instead deliver an attack with a potency of 400. Grants 5 Ninki if used in the combo. This is the second part of our basic combo.&lt;/p&gt;</description></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/melee/ninja/openers/</link><pubDate>Sat, 22 Feb 2025 08:18:12 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/ninja/openers/</guid><description>&lt;p&gt;
+&lt;div class="md__image"&gt;
+ &lt;img id="[273 14 132 399 334 344]" src="https://www.thebalanceffxiv.com/img/jobs/nin/standard4th-1-.png" onclick="openModal(this.id)" alt="Ninja standard opener graphic. " title="Ninja Standard Opener" /&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suiton prepull preparation should be at -6.0 seconds and cast approximately -0.90 seconds on the timer. This will shorten our cooldown on mudra and ensure we can get x2 Raiton under Kunai’s Bane after the opener&lt;/li&gt;
+&lt;li&gt;Ideally drift Dokumori 1 GCD post opener, to allow for better alignment with all other raid buffs. We use it so early in the opener due to Bunshin.&lt;/li&gt;
+&lt;li&gt;Can catch the last Raiju (Extended Standard) with very late woven Kunai’s Bane. More in the Advanced Guide.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;div class="md__image"&gt;
+ &lt;img id="[237 304 494 184 204 443]" src="https://www.thebalanceffxiv.com/img/jobs/nin/standard3rd.png" onclick="openModal(this.id)" alt="Ninja standard opener graphic. " title="Ninja Standard Opener" /&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/ninja/advanced-guide/</link><pubDate>Sun, 11 Aug 2024 04:26:35 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/ninja/advanced-guide/</guid><description>&lt;style&gt;
+
+
+body {
+ background: #0d1117;
+ color: white;
+}
+
+.pb {
+ color: #c92664;
+}
+
+.sb {
+ color: white;
+}
+
+a { 
+ font-weight: bold;
+}
+
+code {
+ background: black !important;
+}
+
+.highlight {
+ background: black !important;
+ color: white;
+}
+
+/* tr {
+ background: #161b22 !important;
+ color: white;
+} */
+
+tbody tr:nth-child(odd) {
+ background-color: #0d1117;
+ color: white;
+}
+
+tbody tr:nth-child(even) {
+ background-color: #161b22;
+ color: white;
+
+}
+
+th {
+ background-color: #0e1114 !important;
+ color: white;
+}
+
+
+
+table {
+ background: black;
+ display: block;
+ max-width: fit-content;
+ margin: 0 auto;
+ border: 2px solid #2a2a2a;
+ border-collapse: collapse;
+ width: 100%;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h1 id="table-of-contents"&gt;Table of Contents&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#extended-standard"&gt;Extended Standard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#jp-opener--rotation"&gt;JP opener &amp;amp; Rotation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#other"&gt;Other&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;For both options below, I recommend plugins for FPS Locking &amp;amp; reducing animation lock induced by ping. Some recommendations:&lt;/p&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/ninja/basic-guide/</link><pubDate>Sun, 11 Aug 2024 04:26:07 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/ninja/basic-guide/</guid><description>&lt;style&gt;
+
+.pb {
+ color: #c92664;
+}
+
+a { 
+ font-weight: bold;
+}
+
+code {
+ background: black !important;
+}
+
+tbody tr:nth-child(odd) {
+ background-color: #0d1117;
+}
+
+tbody tr:nth-child(even) {
+ background-color: #161b22;
+}
+
+th {
+ background-color: #0e1114 !important;
+}
+
+
+
+table {
+ display: block;
+ max-width: fit-content;
+ margin: 0 auto;
+ border: 2px solid #2a2a2a;
+ border-collapse: collapse;
+ width: 100%;
+}
+&lt;/style&gt;
+&lt;div&gt;
+&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Ninja is a fast-paced yet flexible job with a high focus on a powerful burst every one and two minutes. It is unique from other jobs with its utilization of Ninjutsus, a combo-like system allowing a Ninja to form a multitude of ranged attacks. We have a personal buff every minute (Kunai&amp;rsquo;s Bane) where we emphasize landing all of our biggest attacks within 16.25s, and a raid buff (Dokumori) every 2-minutes that lasts 21s.&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description></item><item><title>Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/melee/ninja/stat-priority/</link><pubDate>Mon, 29 May 2023 18:07:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/ninja/stat-priority/</guid><description>&lt;p&gt;Highest iLvl gear available generally will be the best option, regardless of substats, thanks to an increase in Dexterity and Weapon Damage. Between items of the same iLvl, the stat priority is Crit &amp;gt; DET &amp;gt; DH &amp;raquo;&amp;raquo; SkS.&lt;/p&gt;</description></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/melee/ninja/faq/</link><pubDate>Mon, 29 May 2023 18:05:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/ninja/faq/</guid><description>&lt;p&gt;Frequently Asked Questions:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Q: Are there any Shukuchi macros?&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;A: Yes, the main ones use either &lt;t&gt; to go to your target at the time, or use &amp;lt;1&amp;gt;,&amp;lt;2&amp;gt;,&amp;lt;3&amp;gt;, etc to go to specific party members.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Q: Why does our BiS not follow the stat priority?&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;A: Because of stat tiering and how it works together with our rotation, our rotation simulation brought out this exact combination of materia to be a higher average DPS value than fully following our stat priority. If you want to know more about the math behind stats and stat tiering, go to the sub stats tier list linked &lt;a href="http://bit.ly/substats"&gt;here&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Recent Changes</title><link>https://www.thebalanceffxiv.com/jobs/melee/ninja/job-changes/</link><pubDate>Tue, 20 Sep 2022 06:40:19 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/ninja/job-changes/</guid><description/></item></channel></rss>

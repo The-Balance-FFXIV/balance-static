@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FFXIV on Balance Guides</title><link>https://www.thebalanceffxiv.com/tags/ffxiv/</link><description>Recent content in FFXIV on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 22 Aug 2025 08:17:48 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/tags/ffxiv/index.xml" rel="self" type="application/rss+xml"/><item><title>Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</link><pubDate>Fri, 22 Aug 2025 08:17:48 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</guid><description/></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</link><pubDate>Tue, 05 Aug 2025 17:58:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</guid><description>&lt;h1 id="graphics-and-notes"&gt;Graphics and Notes&lt;/h1&gt;
+&lt;p&gt;
+&lt;div class="md__image"&gt;
+ &lt;img id="[234 66 292 480 441 232]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-standard-opener-aa-6-.png" onclick="openModal(this.id)" alt="" /&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;br&gt;
+With the addition of the extra tools, and despite the fact that we want to optimize as best as we can into buffs, it is still ideal to start off with a prepull Reassemble. It shaves off quite a bit of time to get the cooldown rolling and could possibly net us an extra usage depending on the fight layout in Dawntrail. Depending on the fight, we can transpose Drill and Air Anchor in the opener if we can gain an extra Drill for it. 
+&lt;br&gt;
+&lt;br&gt;
+For now, Air Anchor remains the priority due to the huge value of 20 battery compared to the relatively small direct potency gain of using a tool over a combo GCD. The order of the oGCDs isn’t super important - we want to place the 2nd Reassemble in buffs, so it can be used on Excavator, or the following Drill, as long as it catches buffs. We want Wildfire to be used as early as possible within the buff window, so we weave it before Full Metal Field . We also aim to fit as many Double Check/Checkmate into buffs as possible. While we would much prefer a 2 minute pot if possible, some fights do not allow for this. If we have to use an opener pot, we want to use it two seconds before pulling the boss.
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;
+&lt;div class="md__image"&gt;
+ &lt;img id="[223 439 328 272 37 258]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-alternative-opener-static-to-even-minute-bursts-.png" onclick="openModal(this.id)" alt="" /&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/</link><pubDate>Tue, 05 Aug 2025 17:57:45 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Welcome to the Basic Machinist Guide! Within this document, you&amp;rsquo;ll find all the information you&amp;rsquo;ll need to play the job well. The links below can be used as teleports to other pages if you need the information while learning the job. Any questions can be directed to the Machinist channels in our Discord.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/"&gt;Openers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/"&gt;Advanced Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-OPOskH-llQ"&gt;Video Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/"&gt;Gearing and Meld Priority&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/"&gt;Skills Overview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/"&gt;Frequently Asked Questions&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id="job-overview"&gt;Job Overview&lt;/h1&gt;
+&lt;p&gt;Machinist is a fast-paced physical ranged job that excels at quick burst damage and has the added benefit of free movement. While the base rotation for this job is somewhat strict, Machinist excels in dumping burst into raid buffs with flexible use of its gauge system. This guide aims to break down the job’s rotation into something easy to digest while providing good practices to follow for overall gameplay.&lt;/p&gt;</description></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</link><pubDate>Tue, 01 Apr 2025 04:57:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</guid><description>&lt;p&gt;by Tomcat Frost (Faerie)&lt;/p&gt;
+&lt;h1 id="foreword"&gt;FOREWORD&lt;/h1&gt;
+&lt;p&gt;One of the biggest requests I have had is a more concise document on what people “need to know” before jumping into more difficult content. This is not meant to be a replacement for a general guide to Dancer; please see Ringabel’s extensive write-up instead, which will be linked at the end of the document in the appendix.&lt;/p&gt;
+&lt;p&gt;This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.&lt;/p&gt;</description></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 01 Apr 2025 04:00:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>&lt;h1 id="dance-partner-priority"&gt;DANCE PARTNER PRIORITY&lt;/h1&gt;
+&lt;p&gt;This list is made in a gear/skill vacuum. This is the recommended partner priority list.&lt;br&gt;
+Special Note: some fights may favor certain Dance Partners over others based on phases/mechanics or ability to hit multiple targets.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated: January 19, 2021 to account for balance changes in patch 5.4.&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;SAM&lt;/li&gt;
+&lt;li&gt;NIN&lt;/li&gt;
+&lt;li&gt;MNK / BLM (crit build)*&lt;/li&gt;
+&lt;li&gt;DRG / SMN&lt;/li&gt;
+&lt;li&gt;RDM&lt;/li&gt;
+&lt;li&gt;MCH&lt;/li&gt;
+&lt;li&gt;BRD&lt;/li&gt;
+&lt;li&gt;DNC&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;*Data on BLM SpS build as a dance partner is not available due to length in time to reach BiS with this build as of this update, but value as a dance partner is believed to drop significantly between the two builds due to under utilization of Devilment.&lt;/p&gt;</description></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</link><pubDate>Thu, 14 Sep 2023 12:15:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</guid><description>&lt;p&gt;&lt;em&gt;This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
+It assumes you are already familiar with the fundamentals of the job – if you need a refresher, please
+read the &lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/"&gt;Basic Guide&lt;/a&gt; and come back when you&amp;rsquo;re done.&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="introduction-to-optimization"&gt;Introduction to Optimization&lt;/h1&gt;
+&lt;p&gt;This section will introduce some core concepts for optimizing encounters in FFXIV.
+If you are already familiar with optimization on other jobs, you can feel free to skip ahead!&lt;/p&gt;</description></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/red-mage/advanced-guide/</link><pubDate>Sat, 10 Jun 2023 03:36:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/red-mage/advanced-guide/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This guide will cover some Endwalker Red Mage optimization concepts and principles that aren’t fully covered in the basic job guide. The intended audience includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Red Mage players who have the fundamentals mostly down and are familiar with all the concepts in the &lt;a href="https://www.thebalanceffxiv.com/jobs/casters/red-mage/basic-guide/"&gt;basic job guide&lt;/a&gt;, but are trying to improve.&lt;/li&gt;
+&lt;li&gt;High performing Red Mage players who get good logs through good GCD uptime, intuitive sense and repetition but wish to augment their theoretical understanding.&lt;/li&gt;
+&lt;li&gt;Players who have experience optimizing other jobs but are trying out Red Mage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some of the content here will cover concepts that are obvious to people who have experience playing other jobs at a high level. Other aspects will be unique to Red Mage.&lt;/p&gt;</description></item></channel></rss>
