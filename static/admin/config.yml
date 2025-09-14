@@ -17241,7 +17241,7 @@ collections:
     widget: list
   folder: content/jobs/tanks/gunbreaker/fight-tips/
   label: Gunbreaker Fight Tips
-  name:nb-fight-tips
+  name: gnb-fight-tips
 - create: true
   description: Fight-specific tips for Scholar
   fields:
