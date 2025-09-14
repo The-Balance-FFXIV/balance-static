@@ -145,11 +145,11 @@ If starting the fight with 10k MP and a Dark Arts proc, try to open with **Unmen
 
 # How Does Darkside Work Exactly?
 
-Darkside is applied (and starts ticking down) as soon as you use **Edge of Shadow** or **Flood of Shadow** (or their **Darkness** variants at earlier levels), and **not** on their application of damage. As a result, if you use another ability (or an auto-attack occurs) before the damage application for these abilities, it will be buffed by Darkside. 
+Darkside is our 'gauge' that, for all practical purposes, works exactly like a personal 10% buff to our damage, similar to Warrior's Surging Tempest buff. Darkside is applied (and starts ticking down) as soon as you use **Edge of Shadow** or **Flood of Shadow** (or their **Darkness** variants at earlier levels), and **not** on their application of damage. In other words, the Darkside buff has an application time of 0.00s, even if the ability's damage doesn't. As a result, if you use another ability (or an auto-attack occurs) before the damage application for these abilities, it will be buffed by Darkside. 
 
 As in the tooltip, these abilities grant thirty seconds of Darkside, up to a maximum of sixty.
 
-If you didn't have any remaining Darkside duration when using it, an ability that is granting Darkside will not, itself, be buffed by Darkside.
+If you didn't have any remaining Darkside duration when using it (such as the first **Edge of Shadow** in our opener), an ability that is granting Darkside will not, itself, be buffed by Darkside.
 
 As [described below](/jobs/tanks/dark-knight/advanced-guide#how-does-living-shadow-work-exactly), none of Living Shadow's abilities are buffed by Darkside.
 
