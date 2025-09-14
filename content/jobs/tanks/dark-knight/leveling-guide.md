@@ -6,7 +6,7 @@ authors:
   - silaqui-amakiir
   - violet-stardust
 patch: "7.3"
-lastmod: 2025-08-05T02:24:41.344Z
+lastmod: 2025-09-14T00:29:37.422Z
 changelog:
   - date: 2024-07-28T10:30:01.921Z
     message: Updated for 7.0
@@ -16,6 +16,8 @@ changelog:
     message: Updates for 7.2, and fixed some minor typos.
   - date: 2025-05-21T23:16:23.765Z
     message: Minor updates, bolded ability names.
+  - date: 2025-09-14T00:29:40.159Z
+    message: ""
 ---
 # Introduction
 
@@ -35,7 +37,7 @@ One last word of warning: **Be careful about using crafted gear.** Crafted gear 
 
 * Keep **Grit** active at all times. This multiplies all of your enmity generation by ten, allowing you to easily keep the attention of any enemies you damage. Entering a duty which syncs your level down will automatically toggle **Grit** off, so make sure the icon is present in your list of buffs before proceeding.
 * Make sure you establish enmity on all targets. Even if there are only a couple targets present, or if one enemy needs to be singled out to kill first, don't be afraid to fire off a couple AoE actions to make sure you keep the attention of all enemies before switching to single-target.
-* Rotate through your defensive cooldowns. Large groups of "trash" mobs usually deal significantly more damage than bosses do, so don't be afraid to use all of your mitigation to get through a pull. In addition to **Rampart**, **Shadow Wall**, and **The Blackest Night**, remember that **Reprisal** and **Arm's Length** are also potent tools. The term "slow" in the description of **Arm's Length** means an attack speed reduction ("heavy" is a movement speed reduction), so it will inflict a significant debuff to all mobs which attack you. However, this is ineffective on almost all bosses.
+* Rotate through your defensive cooldowns. Large groups of "trash" mobs usually deal significantly more damage than bosses do, so don't be afraid to use all of your mitigation to get through a pull. In addition to **Rampart**, **Shadow Wall**, and **The Blackest Night**, remember that **Dark Mind**, **Reprisal** and **Arm's Length** are also potent tools. The term "slow" in the description of **Arm's Length** means an attack speed reduction ("heavy" is a movement speed reduction), so it will inflict a significant debuff to all mobs which attack you. However, this is ineffective on almost all bosses.
 * Try to keep moving until you have gathered up all the enemies you wish to pull at once, and then stay in one spot until they are all dead. Many jobs have ground-targeted AoE abilities which will heal you or damage enemies and which cannot be moved after being placed. Players also regenerate HP and MP much more quickly while not in combat, so bringing stragglers over to the next group will impact your resource generation, which is especially dangerous for healers.
 * Don't be afraid to pull more than one group at once. Even in very low-level dungeons, your AoE damage output is quite high and can make up for any party members stuck with only single-target actions. Healing actions are also relatively strong at low levels, so it takes an extremely large group of enemies to outpace your healer's output.
 
@@ -45,7 +47,7 @@ One last word of warning: **Be careful about using crafted gear.** Crafted gear 
 * Make sure to face the boss away from the party. Many bosses have cleave attacks, which will hit their target and any party members nearby.
 * Hold steady. Melee jobs all have positionals, meaning they need to hit the back or sides of their target for the greatest value. Moving or spinning the boss makes their life much more difficult. Boss movement is perfectly acceptable if you need to dodge an AoE or resolve a mechanic.
 * Pick up any additional targets ("adds") that appear if you are not holding the boss. Often, you can then bring them over to the boss in order to hit both at once with your AoE actions. In alliance raids, be on the lookout for phases where exactly three adds appear: you will be expected to tank one of them. Usually, the Alliance A tank will pick up the Westernmost add, Alliance B the Northernmost, and Alliance C the Easternmost.
-* Tank swaps are common in higher-level content. To execute a tank swap, the tank not holding the boss should make sure their stance is on and use **Provoke**, followed by a Shirk from their co-tank. Enemy attacks with castbars will lock in their target at the start of the cast, so you can and should use Provoke while the cast is still in progress.
+* Tank swaps are common in higher-level content. To execute a tank swap, the tank not holding the boss should make sure their stance is on and use **Provoke**, followed by a Shirk from their co-tank. Enemy attacks with castbars will lock in their target at the start of the cast, so you can and should use **Provoke** while the cast is still in progress.
 
 # Skill Usage
 
@@ -58,20 +60,20 @@ Dark Knight's leveling rotation is fairly straightforward, but it does evolve a 
 Dark Knight starts at level 30, but some duties will sync you down to a lower level. At very low levels, your priority is:
 
 * Single-target combo (**Hard Slash** -> **Syphon Strike**) on single targets.
-* Unleash on two or more targets.
+* **Unleash** on two or more targets.
 
 #### Level 26
 
 New action: **Souleater**. This completes your single-target combo with additional damage and healing. The damage output between your single-target and AoE options is nearly identical against exactly two targets at this point, so the extra healing from **Souleater** is preferred.
 
-* Souleater combo (**Hard Slash** -> **Syphon Strike** -> **Souleater**) on one or two targets.
-* Unleash on three or more targets.
+* **Souleater** combo (**Hard Slash** -> **Syphon Strike** -> **Souleater**) on one or two targets.
+* **Unleash** on three or more targets.
 
 #### Level 30
 
 New action: Flood of Darkness. This spends MP to deal AoE damage and grants Darkside, which buffs all of your damage by 10%. Because **Syphon Strike** generates MP, single-target combos are now solidly better than Unleash on two targets.
 
-Don't be afraid to spend your MP at the start of a pull; while you don't regenerate enough MP while spamming Unleash to keep Darkside active indefinitely, you would need to stay in combat for an extraordinary length of time for Darkside to actually run out. 
+Don't be afraid to spend your MP at the start of a pull; while you don't regenerate enough MP while spamming **Unleash** to keep Darkside active indefinitely, you would need to stay in combat for an extraordinary length of time for Darkside to actually run out. 
 
 * **Souleater** combo on one or two targets.
 * **Unleash** on three or more targets.
@@ -79,7 +81,7 @@ Don't be afraid to spend your MP at the start of a pull; while you don't regener
 
 #### Level 35
 
-New action: **Blood Weapon**. Grants a small amount of MP for the first five GCDs landed during its 15 second duration. **Blood Weapon** should generally be used on cooldown during pulls.
+New action: **Blood Weapon**. Grants a small amount of MP for the first three GCDs landed during its 15 second duration. **Blood Weapon** should generally be used on cooldown during pulls.
 
 * **Souleater** combo on one or two targets.
 * **Unleash** on three or more targets.
