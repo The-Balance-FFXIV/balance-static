@@ -1,6 +1,6 @@
 ---
 title: Leveling Guide
-card_header_image: /img/jobs/gbn/leveling-screenshot.png
+card_header_image: /img/jobs/gnb/leveling-screenshot.png
 authors:
   - azazael
   - krom
