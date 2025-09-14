@@ -29,16 +29,7 @@ jobs:
           node-version: '>=20'
 
       - name: Install dependencies
-        run: |
-          yarn
-          yarn global add postcss-cli@8.3.1 autoprefixer postcss tailwindcss
-
-      - uses: actions/cache@v4
-        with:
-          path: /tmp/hugo_cache
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-hugomod-
+        run: yarn install --frozen-lockfile
 
       - name: Build
         run: hugo --minify
