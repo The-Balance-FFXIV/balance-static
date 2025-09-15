@@ -46,5 +46,4 @@ changes:
       Imperator and Confiteor combo deals 50% less damage on additional targets -> 60% less on additional targets
 authors:
   - Balance-PLD-Staff
-  - nikroulah
 ---
