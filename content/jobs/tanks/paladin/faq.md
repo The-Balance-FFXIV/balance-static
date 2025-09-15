@@ -91,8 +91,8 @@ qna:
 
       While you channel Passage, your block rate is increased to 100%. Once you stop channeling it, your block rate goes back to normal. This effect does not linger.
 authors:
-  - nikroulah
   - silaqui-amakiir
+  - ashepaladin
 ---
 > *Why is Circle of Scorn used immediately in the opener?*   
 
