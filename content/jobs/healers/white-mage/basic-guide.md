@@ -263,7 +263,7 @@ PULL\
 Current Tincture of Mind\
 Dia\
 Glare III \
-Glare III: Weave: Presence of mind\ 
+Glare III: Weave: Presence of mind\
 Glare IV Weave: Assize\
 Glare IV\
 Glare III\
