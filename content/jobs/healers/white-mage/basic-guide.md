@@ -255,53 +255,29 @@ Pulls a targeted party member towards you. Both you and your target need to be i
 
 # Opener and Rotation
 
-![alt_text](/img/jobs/whm/noswift.png "image_tooltip")
+![-2.3s prepull/PULL/Current Tincture of Mind/Dia/Glare III/ Glare III: Weave: Presence of mind/ Glare IV Weave: Assize/Glare IV/ Glare III/ Glare III/ Glare III/ Glare III/ Glare III/ Glare III/ Glare IV/ Dia](/img/jobs/whm/white-mage-early-dot-refresh-opener-1-.png "WHM Standard Opener")
 
-\-3s HQ Tincture of Mind
-
-\-1.5s Glare \
-Pull
-
+In most cases, use this\
+-2.3s prepull Glare III\
+PULL\
+Current Tincture of Mind\
+Dia\
+Glare III \
+Glare III: Weave: Presence of mind\ 
+Glare IV Weave: Assize\
+Glare IV\
+Glare III\
+Glare III\
+Glare III\
+Glare III\
+Glare III\
+Glare III\
+Glare IV\
 Dia
 
-Glare
+This opener is used to ensure as much of presence of mind gets under buffs as possible, as well as refreshing your dot inside of them. If your party is doing 2nd GCD buffs, remove one of the two glare III after dia at the start. Chain is present purely to show how you will align with buffs.
 
-Glare
-
-Presence of Mind
-
-Glare
-
-Assize
-
-Glare
-
-The standard opener that does not use Swiftcast. However, some people might have trouble weaving Assize after a hardcasted Glare under Presence of Mind. An alternative opener that uses Swift can potentially help mitigate this issue.
-
-![alt_text](/img/jobs/whm/swift.png "image_tooltip")
-
-\-3s HQ Tincture of Mind
-
-\-1.5s Glare \
-Pull
-
-Dia
-
-Glare
-
-Glare
-
-Swiftcast
-
-Glare
-
-Assize + Presence of Mind
-
-Glare
-
-In this version of the opener, Assize is weaved outside of Presence of Mind, offering a bit more leeway for people on moderate ping as the threshold for a clean double weave is more lenient than a single weave under hardcasted PoM GCDs. The main drawback of this opener is how it leaves you without Swiftcast in the first 60s of the fight, but this should not cause you any significant issues outside of extremely fresh prog.
-
-In both of the above openers, Assize and Presence of Mind are delayed to align better with raid buffs. Both can be moved earlier if the delay actually causes a loss of use over the fight.
+Assize and Presence of Mind are delayed to align better with raid buffs. Both can be moved earlier if the delay actually causes a loss of use over the fight.
 
 After the opener, WHM’s basic rotation is simply a matter of keeping your DoT up, using Assize and Presence of Mind on CD and then spamming Glares.
 
