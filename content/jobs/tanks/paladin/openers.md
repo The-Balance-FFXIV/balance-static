@@ -19,6 +19,8 @@ changelog:
     message: Updated for 7.0
   - date: 2025-03-25T19:59:52.413Z
     message: Added AoE section, with 7.2 information.
+  - date: 2025-09-15T15:51:33.890Z
+    message: Updated rotation explanation with new graphic and description.
 ---
 # Single Target
 
