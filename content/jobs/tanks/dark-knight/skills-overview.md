@@ -1,7 +1,6 @@
 ---
 title: Skills Overview
 authors:
-  - nikroulah
   - dook
   - silaqui-amakiir
   - violet-stardust
