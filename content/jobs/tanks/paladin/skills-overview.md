@@ -1,7 +1,8 @@
 ---
 title: Skills Overview
 authors:
-  - nikroulah
+  - ashepaladin
+  - silaqui-amakiir
 patch: "7.3"
 lastmod: 2025-08-06T19:00:38.003Z
 changelog:
