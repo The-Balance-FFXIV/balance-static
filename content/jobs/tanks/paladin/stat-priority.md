@@ -14,5 +14,5 @@ changelog:
 priority: Item Level > Critical Hit > Direct Hit > Determination — try to avoid
   skill speed
 authors:
-  - nikroulah
+  - Balance-PLD-Staff
 ---
