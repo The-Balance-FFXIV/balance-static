@@ -61,5 +61,4 @@ bis:
     link: https://xivgear.app/?page=bis|pld|ultimate|ucob
 authors:
   - Balance-PLD-Staff
-  - nikroulah
 ---
