@@ -2,7 +2,8 @@
 title: Basic Guide
 card_header_image: /img/jobs/pld/basic.png
 authors:
-  - nikroulah
+  - ashepaladin
+  - silaqui-amakiir
 patch: "7.3"
 lastmod: 2025-08-06T19:00:13.154Z
 changelog:
