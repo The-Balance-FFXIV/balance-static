@@ -24,7 +24,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[470 129 105 110 291 292]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[350 227 66 296 29 448]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Heated Split Shot&lt;/td&gt;
@@ -37,7 +37,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[49 421 273 151 264 167]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[363 257 450 356 121 362]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Heated Slug Shot&lt;/td&gt;
@@ -50,7 +50,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[59 175 405 30 206 474]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[147 164 139 471 106 438]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Heated Clean Shot&lt;/td&gt;
@@ -63,7 +63,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[340 347 109 434 124 407]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[136 340 455 280 271 304]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Drill&lt;/td&gt;
@@ -76,7 +76,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[236 372 318 274 281 471]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[236 9 58 20 178 373]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Air Anchor&lt;/td&gt;
@@ -89,7 +89,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[437 381 20 173 161 296]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[245 188 312 288 286 261]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Chain Saw&lt;/td&gt;
@@ -102,7 +102,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[407 220 9 113 500 39]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[322 465 130 58 77 285]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Reassemble&lt;/td&gt;
@@ -115,7 +115,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[406 141 77 252 164 62]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[239 291 356 353 476 344]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Hypercharge&lt;/td&gt;
@@ -128,7 +128,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[437 285 6 326 30 368]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[175 332 249 376 423 372]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Blazing Shot&lt;/td&gt;
@@ -141,7 +141,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[236 139 46 251 201 164]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[399 189 114 106 360 392]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Checkmate&lt;/td&gt;
@@ -154,7 +154,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[180 143 301 426 42 163]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[315 119 389 117 407 72]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Double Check&lt;/td&gt;
@@ -167,7 +167,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[257 438 419 498 229 328]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[361 324 445 449 367 6]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Wildfire&lt;/td&gt;
@@ -180,7 +180,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[439 232 240 342 382 484]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[334 281 393 191 195 83]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Barrel Stabilizer&lt;/td&gt;
@@ -193,7 +193,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[270 449 294 131 80 92]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[361 350 133 150 381 400]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Excavator&lt;/td&gt;
@@ -206,7 +206,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[348 482 374 318 464 407]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[88 44 327 294 494 238]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Full Metal Field&lt;/td&gt;
@@ -235,7 +235,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[423 67 129 142 114 297]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[410 394 24 202 86 59]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Bioblaster&lt;/td&gt;
@@ -248,7 +248,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[35 54 138 246 285 500]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[359 20 430 370 21 33]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Scattergun&lt;/td&gt;
@@ -261,7 +261,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[84 483 76 315 130 80]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[29 22 397 38 16 253]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Auto-Crossbow&lt;/td&gt;
@@ -274,7 +274,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[345 358 410 18 402 326]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[16 426 237 109 164 378]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Flamethrower&lt;/td&gt;
@@ -303,7 +303,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[487 277 118 163 145 320]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[232 158 58 49 349 410]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Automaton Queen&lt;/td&gt;
@@ -316,7 +316,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[11 433 116 104 325 317]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[353 212 199 449 218 419]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Queen Overdrive&lt;/td&gt;
@@ -329,7 +329,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[152 344 346 299 276 408]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[338 440 484 439 284 54]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Arm Punch&lt;/td&gt;
@@ -342,7 +342,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[84 409 243 411 291 337]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[472 284 168 246 258 141]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Roller Dash&lt;/td&gt;
@@ -355,7 +355,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[159 189 450 205 461 238]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[231 468 9 397 147 174]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Pile Bunker&lt;/td&gt;
@@ -368,7 +368,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[155 172 237 491 405 424]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[335 189 356 147 269 458]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Crowned Collider&lt;/td&gt;
@@ -397,7 +397,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[161 261 198 316 417 15]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[290 474 329 440 149 308]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Tactician&lt;/td&gt;
@@ -410,7 +410,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[268 484 374 492 233 406]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[138 373 184 272 419 60]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Dismantle&lt;/td&gt;
@@ -423,7 +423,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[467 126 55 149 87 427]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[478 195 191 263 134 292]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Leg Graze&lt;/td&gt;
@@ -436,7 +436,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[346 350 2 479 58 151]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[325 131 103 274 339 484]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Foot Graze&lt;/td&gt;
@@ -449,7 +449,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[245 46 393 248 446 284]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[39 472 220 4 53 460]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Head Graze&lt;/td&gt;
@@ -462,7 +462,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[395 174 196 220 260 458]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[47 50 262 72 167 225]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Arm&amp;rsquo;s Length&lt;/td&gt;
@@ -475,7 +475,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[420 260 14 177 340 166]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[424 152 79 416 389 111]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Second Wind&lt;/td&gt;
@@ -488,7 +488,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[65 32 17 477 123 498]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[214 200 279 65 117 80]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Peloton&lt;/td&gt;
