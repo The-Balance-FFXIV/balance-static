@@ -21,39 +21,48 @@ changelog:
     message: Added AoE section, with 7.2 information.
 ---
 # Single Target
+
 ## Opener
 
-![Paladin Opener graphic](https://xiv.sleepyshiba.com/pld/img/100open.png)
+![Paladin Opener graphic](/img/jobs/pld/100open.png)
 
 ## Rotation
 
-![Paladin example burst window](https://xiv.sleepyshiba.com/pld/img/100rotation.png)
+![Paladin example burst window](/img/jobs/pld/100rotation.png)
 
 ## Rotation Goals
+
 Paladin's rotation operates under two distinct phases: your burst window, where you will be using all of your cooldowns within **Fight or Flight**, and your filler phase, where you will manage your resources granted by **Royal Authority** to enter your future burst phase with as many strong actions as possible. During either of these phases of your rotation, Paladin is able to move GCDs around with ease, so following a strict rotation is not always necessary. Instead, there are general goals you should aim to accomplish during each part of your rotation.
 
 ## Burst
+
 * Use Fight or Flight on cooldown, this begins your burst phase.
+
   * At 2.50 GCD and following the standard opener, double weave Imperator after Fight or Flight (see FAQ for bursting at other speeds)
 * Similar to the opener, use your high potency skills (Confiteor + Blades, Goring Blade) and oGCDs (Circle of Scorn, Expiacion, Intervene, Blade of Honor) as they become available
 * For the remaining duration of Fight or Flight, prioritize your high potency filler GCDs (Royal Authority, Atonement/Supplication/Sepulchre, Holy Spirit with Divine Might buff)
+
   * Since Sepulchre is stronger than Holy Spirit with Divine Might (which is stronger than Royal Authority, Atonement, and Supplication), prioritize putting Sepulchre in Fight or Flight if able (this will not be possible if Royal Authority falls inside Fight or Flight). This will sometimes push Holy Spirit out of Fight or Flight but is still a gain.
 
 ## Filler
+
 * Outside of Fight or Flight, repeat the Royal Authority combo and spend the procs it gives you (Atonement, Supplication, Sepulchre, Holy Spirit)
 * Spend your procs — avoid completing another Royal Authority combo before using all the procs from the previous one
 * Bank resources for your next burst by not spending them until your next Royal Authority is ready
+
   * For example, by repeatedly following Royal Authority with Atonement, Fast Blade, Riot Blade, Supplication, Holy Spirit, Sepulchre, then Royal Authority outside of Fight or Flight, you will always have strong filler GCDs available for burst, no matter where Fight or Flight comes off cooldown
 * Use Circle of Scorn and Expiacion on cooldown so they are available for your next burst
 
 # AoE
 
 ## Level 94 and above
+
 * Use the Prominence combo (Total Eclipse, Prominence) in place of the Royal Authority combo at 3 or more targets.
 * Holy Circle is neutral compared to Holy Spirit at 2 targets. Use Holy Circle at 2 targets to spread damage evenly, or Holy Spirit to focus damage on one target. Always use Holy Circle on 3 or more targets.
 * Use Goring Blade on up to 3 targets. At 4 or more targets, the Prominence combo is stronger than Goring Blade.
 
 ## Level 93 and below
+
 * Use the Prominence combo (Total Eclipse, Prominence) in place of the Royal Authority combo at 2 or more targets.
 * Use Holy Circle in place of Holy Spirit at 2 or more targets.
 * Use Goring Blade on up to 3 targets. At 4 or more targets, the Prominence combo is stronger than Goring Blade.
