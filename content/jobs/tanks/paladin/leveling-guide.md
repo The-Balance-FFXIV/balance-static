@@ -2,7 +2,8 @@
 title: Leveling Guide
 card_header_image: /img/jobs/pld/leveling.png
 authors:
-  - nikroulah
+  - ashepaladin
+  - silaqui-amakiir
 patch: "7.3"
 lastmod: 2025-08-06T18:58:30.370Z
 changelog:
