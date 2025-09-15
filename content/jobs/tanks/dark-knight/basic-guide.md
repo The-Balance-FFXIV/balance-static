@@ -2,7 +2,6 @@
 title: Basic Guide
 card_header_image: /img/jobs/drk/basic.png
 authors:
-  - nikroulah
   - silaqui-amakiir
   - violet-stardust
 patch: "7.3"
