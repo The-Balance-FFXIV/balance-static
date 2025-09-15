@@ -1626,7 +1626,7 @@ collections:
     file: content/jobs/tanks/paladin/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Paladin guide
+  label: Paladin Guide
   media_folder: /static/img/jobs/pld
   name: pld-guide
   public_folder: /img/jobs/pld
@@ -2395,7 +2395,7 @@ collections:
     file: content/jobs/tanks/warrior/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Warrior guide
+  label: Warrior Guide
   media_folder: /static/img/jobs/war
   name: war-guide
   public_folder: /img/jobs/war
@@ -3164,7 +3164,7 @@ collections:
     file: content/jobs/tanks/dark-knight/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Dark Knight guide
+  label: Dark Knight Guide
   media_folder: /static/img/jobs/drk
   name: drk-guide
   public_folder: /img/jobs/drk
@@ -3933,7 +3933,7 @@ collections:
     file: content/jobs/tanks/gunbreaker/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Gunbreaker guide
+  label: Gunbreaker Guide
   media_folder: /static/img/jobs/gnb
   name: gnb-guide
   public_folder: /img/jobs/gnb
@@ -4702,7 +4702,7 @@ collections:
     file: content/jobs/healers/scholar/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Scholar guide
+  label: Scholar Guide
   media_folder: /static/img/jobs/sch
   name: sch-guide
   public_folder: /img/jobs/sch
@@ -5471,7 +5471,7 @@ collections:
     file: content/jobs/healers/white-mage/job-changes.md
     label: Job Changes
     name: job-changes
-  label: White Mage guide
+  label: White Mage Guide
   media_folder: /static/img/jobs/whm
   name: whm-guide
   public_folder: /img/jobs/whm
@@ -6240,7 +6240,7 @@ collections:
     file: content/jobs/healers/astrologian/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Astrologian guide
+  label: Astrologian Guide
   media_folder: /static/img/jobs/ast
   name: ast-guide
   public_folder: /img/jobs/ast
@@ -7009,7 +7009,7 @@ collections:
     file: content/jobs/healers/sage/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Sage guide
+  label: Sage Guide
   media_folder: /static/img/jobs/sge
   name: sge-guide
   public_folder: /img/jobs/sge
@@ -7778,7 +7778,7 @@ collections:
     file: content/jobs/melee/monk/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Monk guide
+  label: Monk Guide
   media_folder: /static/img/jobs/mnk
   name: mnk-guide
   public_folder: /img/jobs/mnk
@@ -8547,7 +8547,7 @@ collections:
     file: content/jobs/melee/dragoon/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Dragoon guide
+  label: Dragoon Guide
   media_folder: /static/img/jobs/drg
   name: drg-guide
   public_folder: /img/jobs/drg
@@ -9316,7 +9316,7 @@ collections:
     file: content/jobs/melee/ninja/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Ninja guide
+  label: Ninja Guide
   media_folder: /static/img/jobs/nin
   name: nin-guide
   public_folder: /img/jobs/nin
@@ -10085,7 +10085,7 @@ collections:
     file: content/jobs/melee/samurai/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Samurai guide
+  label: Samurai Guide
   media_folder: /static/img/jobs/sam
   name: sam-guide
   public_folder: /img/jobs/sam
@@ -10854,7 +10854,7 @@ collections:
     file: content/jobs/melee/reaper/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Reaper guide
+  label: Reaper Guide
   media_folder: /static/img/jobs/rpr
   name: rpr-guide
   public_folder: /img/jobs/rpr
@@ -11623,7 +11623,7 @@ collections:
     file: content/jobs/melee/viper/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Viper guide
+  label: Viper Guide
   media_folder: /static/img/jobs/vpr
   name: vpr-guide
   public_folder: /img/jobs/vpr
@@ -12392,7 +12392,7 @@ collections:
     file: content/jobs/ranged/bard/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Bard guide
+  label: Bard Guide
   media_folder: /static/img/jobs/brd
   name: brd-guide
   public_folder: /img/jobs/brd
@@ -13161,7 +13161,7 @@ collections:
     file: content/jobs/ranged/machinist/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Machinist guide
+  label: Machinist Guide
   media_folder: /static/img/jobs/mch
   name: mch-guide
   public_folder: /img/jobs/mch
@@ -13930,7 +13930,7 @@ collections:
     file: content/jobs/ranged/dancer/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Dancer guide
+  label: Dancer Guide
   media_folder: /static/img/jobs/dnc
   name: dnc-guide
   public_folder: /img/jobs/dnc
@@ -14699,7 +14699,7 @@ collections:
     file: content/jobs/casters/black-mage/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Black Mage guide
+  label: Black Mage Guide
   media_folder: /static/img/jobs/blm
   name: blm-guide
   public_folder: /img/jobs/blm
@@ -15468,7 +15468,7 @@ collections:
     file: content/jobs/casters/red-mage/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Red Mage guide
+  label: Red Mage Guide
   media_folder: /static/img/jobs/rdm
   name: rdm-guide
   public_folder: /img/jobs/rdm
@@ -16237,7 +16237,7 @@ collections:
     file: content/jobs/casters/summoner/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Summoner guide
+  label: Summoner Guide
   media_folder: /static/img/jobs/smn
   name: smn-guide
   public_folder: /img/jobs/smn
@@ -17006,7 +17006,7 @@ collections:
     file: content/jobs/casters/pictomancer/job-changes.md
     label: Job Changes
     name: job-changes
-  label: Pictomancer guide
+  label: Pictomancer Guide
   media_folder: /static/img/jobs/pct
   name: pct-guide
   public_folder: /img/jobs/pct
