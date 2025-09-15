@@ -18,6 +18,8 @@ changelog:
     message: Updated for 6.4
   - date: 2024-07-29T19:16:30.503Z
     message: updated for DT
+  - date: 2025-09-15T06:05:43.280Z
+    message: Updated Opener section for DT
 ---
 # Introduction
 
