@@ -3,8 +3,8 @@ title: Intermediate Guide
 authors:
   - Balance-RPR-Staff
   - ellunavi
-patch: "7.2"
-lastmod: 2025-03-24T21:33:44.692Z
+patch: "7.3"
+lastmod: 2025-09-16T20:54:27.457Z
 changelog:
   - date: 2024-07-02T21:55:37.160Z
     message: Created article.
@@ -14,6 +14,8 @@ changelog:
     message: Updated Burst Window.
   - date: 2025-03-24T21:33:40.298Z
     message: Updated to Patch 7.2.
+  - date: 2025-09-16T20:54:30.847Z
+    message: Updated for 7.3
 ---
 # Introduction
 
