@@ -27,21 +27,30 @@ Welcome to Reaper Intermediate Guide! The objective of this guide is to tackle s
 
 Optimizing your two minute burst window to better play into buffs is what really set you apart as a Reaper. An optimized Double Enshroud Window is putting around 2000 more potency into raid buffs than an optimized Single Enshroud one. Reaper has a lot of options for burst windows that are better discussed in the Advanced Guide. Below is the safest option for your two minute burst window, that will work best in most situations. 
 
-![](/img/jobs/rpr/reaper_burst_standard_double-shroud.png "Reaper Standard Burst")
+![](/img/jobs/rpr/reaper-standard-double-enshroud7.3.png "Reaper Standard Burst")
 
-The ending is a bit complicated in wording but simple in nature. We have two major goals:
 
-* Maintain our combo;
-* Push as much Potency into raid buffs.
 
-The best ending in terms of damage would be Perfectio → Gluttony, but we will almost always be restricted by combo here. Because of that we need to keep some combo keeping situations in mind:
+With the 7.3 change to Enshroud's cooldown (from 15s to 5s), our burst window changes slightly as we no longer need two Shadow of Deaths in the first enshroud. Therefore, we have several considerations that must be taken into account to perform this new window correctly, so follow the bulleted list below to ensure the sequence is correct. 
 
-* If you clip your GCD anywhere at all during this burst sequence, Combo instead of Perfectio (the window to maintain combo is really tight);
-* If you enter the first Enshroud on a non-combo GCD while still being in combo, then you will need to use Combo before Perfectio.
+* You *must* enter the first enshroud with ~30s on Death's Design or you will drop the debuff before the end of the sequence.
 
-The delay on Arcane Circle is only recommended for the first 2-minute window. It will most likely align in the same oGCD slot for every window after. Arcane Circle will still be slightly earlier than other buffs, but not early enough to where it will make a large impact.
+  * An easy way to do this is to Shadow of Death once when Arcane Circle has 60 seconds left on its cooldown, then Shadow of Death twice when Arcane Circle has 30 seconds left on its cooldown. The single Shadow of Death during the Double Enshroud will naturally fill in the remaining 30 seconds needed each 2 min cycle.
+* When Arcane Circle hits 6s left on its cooldown, do one more non-Enshroud GCD, then use Enshroud.
+* If using a potion during this window, use the potion in the weave slot before Arcane Circle.
 
-Gluttony also has some considerations regarding its cooldown timer and the gauge you have available. If cooldown is an issue but gauge and combo aren't, you can also suppliment this space with an Unveilled action for a tiny bit more damage in raid buffs.
+  * At 4 mins onward, use Arcane Circle before using the potion.
+*  Arcane Circle should be used when the GCD clock is *halfway* finished, rather than as a late weave. 
+* If you will have an active combo during the Double Enshroud, at least one of the two Non Enshroud GCDs before the first Enshroud must be a combo GCD or combo will break.
+* If Slice or Waxing Slice was one of the last two GCDs before the first Enshroud, continue the combo after Perfectio, else skip Continue Combo and use the next thing in the priority below.
+* After Perfectio use the following priority:
+
+  1. Continue Combo 
+  2. If you have 50 Soul Gauge and Gluttony is ready, use Gluttony immediately.
+  3. If you do not have 50 Soul Gauge, or Gluttony is not ready, use Soul Slice then Gluttony. 
+* Perfectio can and should be held if needed as a ranged GCD to cover melee downtime.
+
+  * If Perfectio is held, skip it in the sequence and immediately continue with the above post-Perfectio prio.
 
 ### Different Two Minute Bursts
 
