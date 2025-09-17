@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Balance Guides"
 theme = "glam"
 enableRobotsTXT = true
+buildFuture = true
 
 [sitemap]
   changefreq = "weekly"
