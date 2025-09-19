@@ -74,7 +74,7 @@ Unlocks **Solid Barrel** and **Burst Strike**.</br>
 Unlocks **Demon Slaughter** and **Sonic Break**.</br>
 </br> * With **Sonic Break**, it is important to evaluate that this action becomes increasingly worse to use if a target dies before it's full value applies to a target. Keep this in mind when considering using it during a multi-target pull, as it may no longer be worth using. Some basic rules of thumb for it's usage that have been derived from uptime simulations in multi-target scenarios are located at the bottom of the page.
 
-* Use **Demon Slaughter** combo at 2+ targets.
+* Use **Demon Slaughter**'s combo at 2+ targets until level 94.
 * Stop using **Burst Strike** at 3 targets.
 * Stop using **Sonic Break*** at 7 targets (enemy HP permitting).
 
@@ -104,7 +104,7 @@ Unlocks multiple potency-modifying traits, **Fated Brand**, and **Reign of Beast
 </br> **Double Down** and **Reign of Beasts** should always be used within **No Mercy** both as part of your single-target and multi-target rotation. This completes your single-target burst phase with **Gnashing Fang**, **Double Down**, **Reign of Beasts**, and **Sonic Break**, which leads to interesting optimization at level 100 due to **Fated Circle** becoming more powerful than **Gnashing Fang** and **Sonic Break** within **No Mercy** beyond 2 and 3 targets respectively.
 
 * Use **Demon Slaughter** combo at 3+ targets.
-* Use **Fated Circle** at 2+ targets. (3+ until 96, due to **Fated Brand** and **Melee Mastery 2**).
+* Use **Fated Circle** at 2+ targets. (3+ until 96, due to **Melee Mastery 2** at level 94 and lack of **Fated Brand** until 96).
 * Prioritize **Reign of Beasts** when it unlocks.
 * Same rules regarding **Gnashing Fang** and **Sonic Break***.
 
@@ -115,9 +115,14 @@ At level 100, **Gnashing Fang** technically becomes a small loss at 3 targets (i
 
 * A good time to consider using **Fated Circle(s)** in place of **Gnashing Fang** at 3 targets is whenever the 3-target AOE encounter will last for more than 30 seconds, or at minimum, whenever skipping or holding a usage would not negatively impact **Gnashing Fang's** alignment throughout the rest of the fight and cause lost usages (or some form of loss within﻿ **No Mercy**).
 
-## Sonic Break Use in AOE
-With **Sonic Break**, you should consider how close the target is to dying when deciding on how important it is to apply the action, because the GCD space used by Sonic Break is only worth as much as the DoT ticks in addition to its base damage. The following bullet list applies for multi-target scenarios at level 100. This advice will be a generally good rule of thumb for any level, but the number of targets will vary at lower levels.
+## Sonic Break Usage in AOE
+When using **Sonic Break** in AOE scenarios, you must consider the enemy target HP and expected time until defeating that enemy, because you do not want to underutilize **Sonic Break**'s damage-over-time effect. In many cases, AOE scenarios are short in length and can prefer the usage of AOE actions over **Sonic Break** if its damage-over-time effect is cut short.
+
+The following bullet list applies for multi-target scenarios at level 100. This advice will be a generally good rule of thumb for any level, but the number of targets will vary at lower levels.
 
 * At 4 targets, do NOT use this if you suspect **Sonic Break** will not last for it's **entire duration**.
 * At 3 targets, do NOT use this if you suspect﻿ **Sonic Break** will not last for at least **half** of it's duration.
-* At 3 targets, it is a gain to hold and then use﻿ **Sonic Break** out of **No Mercy** if it will let you use another﻿ **Fated Circle** in it's place, as long as no DoT time is lost.
+
+At 3 or more targets, it can be optimal to use **Fated Circle** in place of **Sonic Break**, and then hold **Sonic Break** through **No Mercy** and use it after **No Mercy** has ended, if the following conditions exist:
+* You have more gauge available than what is required for **Gnashing Fang** and/or **Double Down**.
+* **Sonic Break**'s damage-over-time effect is not cut short by holding it. 
