@@ -28,13 +28,15 @@ Dragonsong’s Reprise (Ultimate) is the first Ultimate released in Final Fantas
 
 ![Imgur](https://i.imgur.com/hvAMmOA.png)
 
-### Best in Slot (2.49)
+### DISCLAIMER: 
 
-[Etro](https://etro.gg/gearset/d2c44499-c41e-47ba-8457-f6e99b97fdd1)
+This guide was written in Endwalker, and while the general rotational flow will be the same as in this guide, fight phase push timings may have changed significantly due to balance updates and stronger consumables. Please note that some adjustments may need to be made based on your group's phase push timings. 
 
-Your item level will be synced down to 605. This etro link has the Best in Slot gear for DSR at the moment. The Manderville 615 and Amazing Manderville 630 weapons are exactly identical in DSR due to item level sync. Use what you have available. If you do not want to farm the dungeon gear, you can also use the set that was Best in Slot during the Asphodelos raid tier. You can find that gear set in the reaper resources on the balance discord. You can learn more about the GCD tiers in the [advanced guide](/jobs/melee/reaper/advanced-guide/#the-25-249-248-global-cooldown).
+### Best in Slot
 
-# Phase One: The Vault Knights
+DSR is item level synced to i605, meaning that any gear above that item level will have their materia ignored and their stats capped at the i605 cap. As of patch 7.05, it is possible to fully sync cap both substats, as the required ilvl for this is 725. Please see the [Best in Slot](https://www.thebalanceffxiv.com/jobs/melee/reaper/best-in-slot/) page for the current BiS for this fight. 
+
+### Phase One: The Vault Knights
 
 The first Phase starts with a two target fight. We have some AoE skills in our basic single target rotation that affect a second target, but otherwise we will not use any AoE alternative besides one Whorl of Death in the Opener. Use your entire Opener on Ser Adelphel as he will become untargetable right after and this will help to keep both of the knights on even HP later on.
 
@@ -125,6 +127,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 * Using Harpe pre-pull will delay our first GCD by a very small amount. This generally is no problem and always a gain. However, the last GCD in our Opener is very tight and using Harpe pre-pull will most likely result in you ghosting your very last GCD. It was very inconsistent for me but you can try it out by yourself to see if you can use Harpe pre-pull without ghosting your last GCD consistently.
 
 **Important Notes:**
+
 * Be aware that if you have a Dancer in your party, you will most likely not get the 8th stack for Plentiful Harvest from them due to us skipping Harpe in the Opener which means Arcane Circle will come out ~0.5s earllier than usual. This is a 40p loss but adjusting the Rotation around this will be a bigger loss so sadly you have to bite the bullet here.
 * If you are playing on a high ping and struggle to use Plentiful Harvest right as it come up as thus clip your GCD due that, you will miss the very last Gibbet or Gallows in this opener which is obivously a big loss. If this is the case for you, swap to the Early Gluttony Opener instead and do the adjustment where you send Arcane Circle right after Shadow of Death so that you will not clip your Plentiful Harvest in the Opener and can safely hit the very last GCD.
 
