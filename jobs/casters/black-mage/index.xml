@@ -4,7 +4,7 @@
 &lt;h2 id="standard-57-opener"&gt;&lt;strong&gt;Standard 5+7 Opener&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[381 250 98 263 209 188]" src="https://www.thebalanceffxiv.com/img/jobs/blm/standard-5-7-opener.png" onclick="openModal(this.id)" alt="Standard 5&amp;#43;7 Opener" title="Standard 5&amp;#43;7 Opener" /&gt;
+ &lt;img id="[105 300 376 67 13 357]" src="https://www.thebalanceffxiv.com/img/jobs/blm/standard-5-7-opener.png" onclick="openModal(this.id)" alt="Standard 5&amp;#43;7 Opener" title="Standard 5&amp;#43;7 Opener" /&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;The standard opener for BLM. This opener skips a &lt;strong&gt;Despair&lt;/strong&gt; cast pre-&lt;strong&gt;Manafont&lt;/strong&gt; as well as a &lt;strong&gt;Paradox&lt;/strong&gt; cast post-&lt;strong&gt;Manafont&lt;/strong&gt; in order to cast 12 total &lt;strong&gt;Fire IV&lt;/strong&gt; casts (5 before and 7 after &lt;strong&gt;Manafont,&lt;/strong&gt; thus the name &amp;ldquo;5+7&amp;rdquo;), enabling two uses of &lt;strong&gt;Flare Star&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Recent Changes</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/job-changes/</link><pubDate>Sun, 30 Mar 2025 20:19:57 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/job-changes/</guid><description/></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/skills-overview/</link><pubDate>Sun, 30 Mar 2025 20:18:33 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/skills-overview/</guid><description>&lt;h1 id="actions"&gt;Actions&lt;/h1&gt;
@@ -25,7 +25,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[230 198 43 179 124 134]" src="https://xivapi.com//i//000000//000454_hr1.png" onclick="openModal(this.id)" alt="Blizzard" /&gt;
+ &lt;img id="[380 19 253 357 212 107]" src="https://xivapi.com//i//000000//000454_hr1.png" onclick="openModal(this.id)" alt="Blizzard" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Blizzard&lt;/td&gt;
@@ -39,7 +39,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[422 201 419 50 288 478]" src="https://xivapi.com/i/000000/000451_hr1.png" onclick="openModal(this.id)" alt="Fire" /&gt;
+ &lt;img id="[393 24 467 263 397 456]" src="https://xivapi.com/i/000000/000451_hr1.png" onclick="openModal(this.id)" alt="Fire" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fire&lt;/td&gt;
@@ -53,7 +53,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[394 444 399 267 228 436]" src="https://xivapi.com/i/000000/000466_hr1.png" onclick="openModal(this.id)" alt="Transpose" /&gt;
+ &lt;img id="[35 328 101 213 489 260]" src="https://xivapi.com/i/000000/000466_hr1.png" onclick="openModal(this.id)" alt="Transpose" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Transpose&lt;/td&gt;
@@ -67,7 +67,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[399 489 301 492 29 97]" src="https://xivapi.com/i/000000/000457_hr1.png" onclick="openModal(this.id)" alt="Thunder" /&gt;
+ &lt;img id="[145 327 8 447 114 411]" src="https://xivapi.com/i/000000/000457_hr1.png" onclick="openModal(this.id)" alt="Thunder" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Thunder&lt;/td&gt;
@@ -81,7 +81,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[373 488 425 395 66 407]" src="https://xivapi.com/i/002000/002668_hr1.png" onclick="openModal(this.id)" alt="Blizzard II" /&gt;
+ &lt;img id="[440 455 252 263 358 326]" src="https://xivapi.com/i/002000/002668_hr1.png" onclick="openModal(this.id)" alt="Blizzard II" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Blizzard II&lt;/td&gt;
@@ -95,7 +95,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[485 89 248 316 235 472]" src="https://xivapi.com/i/000000/000462_hr1.png" onclick="openModal(this.id)" alt="Scathe" /&gt;
+ &lt;img id="[438 379 286 477 295 136]" src="https://xivapi.com/i/000000/000462_hr1.png" onclick="openModal(this.id)" alt="Scathe" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Scathe&lt;/td&gt;
@@ -109,7 +109,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[289 369 190 320 479 485]" src="https://xivapi.com/i/000000/000452_hr1.png" onclick="openModal(this.id)" alt="Fire II" /&gt;
+ &lt;img id="[96 418 237 11 41 93]" src="https://xivapi.com/i/000000/000452_hr1.png" onclick="openModal(this.id)" alt="Fire II" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fire II&lt;/td&gt;
@@ -123,7 +123,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[174 222 484 304 219 98]" src="https://xivapi.com/i/000000/000459_hr1.png" onclick="openModal(this.id)" alt="Thunder II" /&gt;
+ &lt;img id="[133 409 80 242 92 6]" src="https://xivapi.com/i/000000/000459_hr1.png" onclick="openModal(this.id)" alt="Thunder II" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Thunder II&lt;/td&gt;
@@ -137,7 +137,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[424 234 196 76 21 303]" src="https://xivapi.com/i/000000/000463_hr1.png" onclick="openModal(this.id)" alt="Manaward" /&gt;
+ &lt;img id="[337 250 42 308 119 455]" src="https://xivapi.com/i/000000/000463_hr1.png" onclick="openModal(this.id)" alt="Manaward" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Manaward&lt;/td&gt;
@@ -151,7 +151,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[266 300 133 254 153 399]" src="https://xivapi.com/i/002000/002651_hr1.png" onclick="openModal(this.id)" alt="ManaFont" /&gt;
+ &lt;img id="[190 26 137 455 407 1]" src="https://xivapi.com/i/002000/002651_hr1.png" onclick="openModal(this.id)" alt="ManaFont" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Manafont&lt;/td&gt;
@@ -165,7 +165,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[320 405 449 185 263 270]" src="https://xivapi.com/i/000000/000453_hr1.png" onclick="openModal(this.id)" alt="Fire III" /&gt;
+ &lt;img id="[385 311 366 16 59 483]" src="https://xivapi.com/i/000000/000453_hr1.png" onclick="openModal(this.id)" alt="Fire III" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fire III&lt;/td&gt;
@@ -179,7 +179,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[237 39 218 101 459 45]" src="https://xivapi.com/i/000000/000456_hr1.png" onclick="openModal(this.id)" alt="Blizzard III" /&gt;
+ &lt;img id="[161 382 37 165 320 119]" src="https://xivapi.com/i/000000/000456_hr1.png" onclick="openModal(this.id)" alt="Blizzard III" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Blizzard III&lt;/td&gt;
@@ -193,7 +193,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[46 67 325 210 26 329]" src="https://xivapi.com/i/002000/002666_hr1.png" onclick="openModal(this.id)" alt="Umbral Soul" /&gt;
+ &lt;img id="[453 67 275 79 74 361]" src="https://xivapi.com/i/002000/002666_hr1.png" onclick="openModal(this.id)" alt="Umbral Soul" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Umbral Soul&lt;/td&gt;
@@ -207,7 +207,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[336 387 429 437 254 250]" src="https://xivapi.com/i/002000/002653_hr1.png" onclick="openModal(this.id)" alt="Freeze" /&gt;
+ &lt;img id="[263 74 454 46 286 233]" src="https://xivapi.com/i/002000/002653_hr1.png" onclick="openModal(this.id)" alt="Freeze" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Freeze&lt;/td&gt;
@@ -221,7 +221,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[230 51 330 499 475 347]" src="https://xivapi.com/i/000000/000459_hr1.png" onclick="openModal(this.id)" alt="Thunder III" /&gt;
+ &lt;img id="[60 416 98 267 195 366]" src="https://xivapi.com/i/000000/000459_hr1.png" onclick="openModal(this.id)" alt="Thunder III" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Thunder III&lt;/td&gt;
@@ -235,7 +235,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[2 39 32 351 370 415]" src="https://xivapi.com/i/000000/000467_hr1.png" onclick="openModal(this.id)" alt="Aetherial Manipulation" /&gt;
+ &lt;img id="[450 140 105 483 257 11]" src="https://xivapi.com/i/000000/000467_hr1.png" onclick="openModal(this.id)" alt="Aetherial Manipulation" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Aetherial Manipulation&lt;/td&gt;
@@ -249,7 +249,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[5 245 140 127 8 142]" src="https://xivapi.com/i/002000/002652_hr1.png" onclick="openModal(this.id)" alt="Flare" /&gt;
+ &lt;img id="[224 50 107 137 479 216]" src="https://xivapi.com/i/002000/002652_hr1.png" onclick="openModal(this.id)" alt="Flare" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Flare&lt;/td&gt;
@@ -263,7 +263,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[242 356 172 147 1 317]" src="https://xivapi.com/i/002000/002656_hr1.png" onclick="openModal(this.id)" alt="Ley Lines" /&gt;
+ &lt;img id="[252 481 219 388 487 464]" src="https://xivapi.com/i/002000/002656_hr1.png" onclick="openModal(this.id)" alt="Ley Lines" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Ley Lines&lt;/td&gt;
@@ -277,7 +277,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[265 105 58 448 453 31]" src="https://xivapi.com/i/002000/002659_hr1.png" onclick="openModal(this.id)" alt="Blizzard IV" /&gt;
+ &lt;img id="[39 163 397 42 147 87]" src="https://xivapi.com/i/002000/002659_hr1.png" onclick="openModal(this.id)" alt="Blizzard IV" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Blizzard IV&lt;/td&gt;
@@ -291,7 +291,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[129 481 35 227 398 381]" src="https://xivapi.com/i/002000/002660_hr1.png" onclick="openModal(this.id)" alt="Fire IV" /&gt;
+ &lt;img id="[33 81 25 211 83 467]" src="https://xivapi.com/i/002000/002660_hr1.png" onclick="openModal(this.id)" alt="Fire IV" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fire IV&lt;/td&gt;
@@ -305,7 +305,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[112 305 444 248 295 87]" src="https://xivapi.com/i/002000/002661_hr1.png" onclick="openModal(this.id)" alt="Between the Lines" /&gt;
+ &lt;img id="[472 285 220 20 404 60]" src="https://xivapi.com/i/002000/002661_hr1.png" onclick="openModal(this.id)" alt="Between the Lines" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Between the Lines&lt;/td&gt;
@@ -319,7 +319,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[349 210 416 227 95 135]" src="https://xivapi.com/i/002000/002662_hr1.png" onclick="openModal(this.id)" alt="Thunder IV" /&gt;
+ &lt;img id="[110 112 97 299 301 81]" src="https://xivapi.com/i/002000/002662_hr1.png" onclick="openModal(this.id)" alt="Thunder IV" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Thunder IV&lt;/td&gt;
@@ -333,7 +333,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[353 187 210 108 168 437]" src="https://xivapi.com/i/002000/002663_hr1.png" onclick="openModal(this.id)" alt="Triplecast" /&gt;
+ &lt;img id="[57 146 203 156 441 248]" src="https://xivapi.com/i/002000/002663_hr1.png" onclick="openModal(this.id)" alt="Triplecast" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Triplecast&lt;/td&gt;
@@ -347,7 +347,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[369 182 445 167 422 423]" src="https://xivapi.com/i/002000/002664_hr1.png" onclick="openModal(this.id)" alt="Foul" /&gt;
+ &lt;img id="[144 90 464 421 210 167]" src="https://xivapi.com/i/002000/002664_hr1.png" onclick="openModal(this.id)" alt="Foul" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Foul&lt;/td&gt;
@@ -361,7 +361,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[248 135 380 464 471 27]" src="https://xivapi.com/i/002000/002665_hr1.png" onclick="openModal(this.id)" alt="Despair" /&gt;
+ &lt;img id="[222 162 111 230 80 131]" src="https://xivapi.com/i/002000/002665_hr1.png" onclick="openModal(this.id)" alt="Despair" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Despair&lt;/td&gt;
@@ -375,7 +375,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[219 102 337 251 125 346]" src="https://xivapi.com/i/002000/002667_hr1.png" onclick="openModal(this.id)" alt="Xenoglossy" /&gt;
+ &lt;img id="[46 304 480 87 415 220]" src="https://xivapi.com/i/002000/002667_hr1.png" onclick="openModal(this.id)" alt="Xenoglossy" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Xenoglossy&lt;/td&gt;
@@ -389,7 +389,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[264 452 55 47 245 390]" src="https://xivapi.com/i/002000/002669_hr1.png" onclick="openModal(this.id)" alt="High Fire II" /&gt;
+ &lt;img id="[329 134 393 167 94 404]" src="https://xivapi.com/i/002000/002669_hr1.png" onclick="openModal(this.id)" alt="High Fire II" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;High Fire II&lt;/td&gt;
@@ -403,7 +403,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[209 411 199 375 140 100]" src="https://xivapi.com/i/002000/002670_hr1.png" onclick="openModal(this.id)" alt="High Blizzard II" /&gt;
+ &lt;img id="[375 100 389 420 22 113]" src="https://xivapi.com/i/002000/002670_hr1.png" onclick="openModal(this.id)" alt="High Blizzard II" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;High Blizzard II&lt;/td&gt;
@@ -417,7 +417,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[479 405 485 219 97 277]" src="https://xivapi.com/i/002000/002671_hr1.png" onclick="openModal(this.id)" alt="Amplifier" /&gt;
+ &lt;img id="[103 383 205 376 67 81]" src="https://xivapi.com/i/002000/002671_hr1.png" onclick="openModal(this.id)" alt="Amplifier" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Amplifier&lt;/td&gt;
@@ -431,7 +431,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[413 166 309 366 389 140]" src="https://xivapi.com/i/002000/002672_hr1.png" onclick="openModal(this.id)" alt="Paradox" /&gt;
+ &lt;img id="[365 293 467 128 210 493]" src="https://xivapi.com/i/002000/002672_hr1.png" onclick="openModal(this.id)" alt="Paradox" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Paradox&lt;/td&gt;
@@ -445,7 +445,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[153 470 28 347 486 467]" src="https://xivapi.com/i/002000/002673_hr1.png" onclick="openModal(this.id)" alt="High Thunder" /&gt;
+ &lt;img id="[331 384 415 439 68 218]" src="https://xivapi.com/i/002000/002673_hr1.png" onclick="openModal(this.id)" alt="High Thunder" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;High Thunder&lt;/td&gt;
@@ -459,7 +459,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[196 20 193 383 180 485]" src="https://xivapi.com/i/002000/002674_hr1.png" onclick="openModal(this.id)" alt="High Thunder II" /&gt;
+ &lt;img id="[497 496 392 378 416 113]" src="https://xivapi.com/i/002000/002674_hr1.png" onclick="openModal(this.id)" alt="High Thunder II" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;High Thunder II&lt;/td&gt;
@@ -473,7 +473,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[256 122 491 43 12 334]" src="https://xivapi.com/i/002000/002150_hr1.png" onclick="openModal(this.id)" alt="Retrace" /&gt;
+ &lt;img id="[57 166 25 258 103 385]" src="https://xivapi.com/i/002000/002150_hr1.png" onclick="openModal(this.id)" alt="Retrace" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Retrace&lt;/td&gt;
@@ -487,7 +487,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[222 214 447 491 250 107]" src="https://xivapi.com/i/002000/002151_hr1.png" onclick="openModal(this.id)" alt="Flare Star" /&gt;
+ &lt;img id="[214 175 155 119 380 443]" src="https://xivapi.com/i/002000/002151_hr1.png" onclick="openModal(this.id)" alt="Flare Star" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Flare Star&lt;/td&gt;
@@ -518,7 +518,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[156 302 152 493 182 56]" src="https://xivapi.com/i/000000/000861_hr1.png" onclick="openModal(this.id)" alt="Addle" /&gt;
+ &lt;img id="[248 252 437 254 135 82]" src="https://xivapi.com/i/000000/000861_hr1.png" onclick="openModal(this.id)" alt="Addle" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Addle&lt;/td&gt;
@@ -532,7 +532,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[71 154 456 357 38 264]" src="https://xivapi.com/i/000000/000871_hr1.png" onclick="openModal(this.id)" alt="Sleep" /&gt;
+ &lt;img id="[67 231 68 466 428 23]" src="https://xivapi.com/i/000000/000871_hr1.png" onclick="openModal(this.id)" alt="Sleep" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Sleep&lt;/td&gt;
@@ -546,7 +546,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[197 490 351 395 323 55]" src="https://xivapi.com/i/000000/000865_hr1.png" onclick="openModal(this.id)" alt="Lucid Dreaming" /&gt;
+ &lt;img id="[236 493 185 175 199 404]" src="https://xivapi.com/i/000000/000865_hr1.png" onclick="openModal(this.id)" alt="Lucid Dreaming" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Lucid Dreaming&lt;/td&gt;
@@ -560,7 +560,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[60 211 215 368 242 167]" src="https://xivapi.com/i/000000//000866_hr1.png" onclick="openModal(this.id)" alt="Swiftcast" /&gt;
+ &lt;img id="[276 254 166 156 495 261]" src="https://xivapi.com/i/000000//000866_hr1.png" onclick="openModal(this.id)" alt="Swiftcast" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Swiftcast&lt;/td&gt;
@@ -574,7 +574,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[160 487 59 442 49 365]" src="https://xivapi.com/i/000000//000869_hr1.png" onclick="openModal(this.id)" alt="Surecast" /&gt;
+ &lt;img id="[57 84 285 49 98 38]" src="https://xivapi.com/i/000000//000869_hr1.png" onclick="openModal(this.id)" alt="Surecast" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Surecast&lt;/td&gt;
