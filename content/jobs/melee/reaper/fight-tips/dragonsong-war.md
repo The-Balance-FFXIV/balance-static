@@ -3,8 +3,8 @@ title: Dragonsong's Reprise (Ultimate)
 card_header_image: /img/jobs/rpr/front-picture.png
 authors:
   - sekki
-patch: "6.5"
-lastmod: 2022-12-01T04:36:01.371Z
+patch: "7.3"
+lastmod: 2025-09-19T03:36:30.590Z
 changelog:
   - date: 2022-08-05T15:12:19.623Z
     message: Article Created.
