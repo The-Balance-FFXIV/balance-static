@@ -19,6 +19,8 @@ changelog:
       downtime Hallowed Plume 1.
   - date: 2023-10-04T17:30:53.033Z
     message: Updated Patch number.
+  - date: 2025-09-19T03:36:56.929Z
+    message: Updated patch number, no actual content changes.
 ---
 # Reaper Guide for Dragonsong’s Reprise (Ultimate)
 
