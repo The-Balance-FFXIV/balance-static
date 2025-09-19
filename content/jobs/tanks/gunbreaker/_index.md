@@ -8,4 +8,4 @@ menu:
     name: Gunbreaker
     parent: tanks
 ---
-Gunbreaker is the newest tank to FFXIV that was added in Shadowbringers. It features high damage, high actions-per-minute burst phases that fit cleanly into party buffs. GNB's high actions-per-minute combined with its strong mitigation toolkit make it feel like a party-focused DPS.
+Gunbreaker focuses on cooldown management to maximize damage within every cast of No Mercy. It is unique in that it is the only tank that has GCD-based cooldowns such as Gnashing Fang or Double Down, making it slightly stricter in exchange for slightly higher DPS. Gunbreaker's unique mitigation cooldowns can grant high HP sustain and/or recovery for individual targets through actions such as Aurora or Heart of Corundum.
