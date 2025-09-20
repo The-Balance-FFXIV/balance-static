@@ -47,7 +47,7 @@ During dungeon encounters, it is generally preferred to pull as many of the mobs
 * Do not be afraid to use multiple mitigation tools together at once. Most of the damage that you will take in a dungeon is while you are fighting **trash** (non-boss) mobs, and you want to mitigate heavily while most of them are alive.
 * Your **party mitigation** such as **Heart of Light** and **Reprisal** are still valuable mitigation tools for **yourself** to mitigate incoming damage from dungeon trash mobs. **Arm's Length** also contains a secondary effect that applies **Slow** to enemy trash mobs, which reduces their attack rate by 20%.
 
-## Leveling Rotation
+# Leveling Rotation
 
 - - -
 
@@ -57,11 +57,11 @@ After unlocking **Gnashing Fang**, it will be used once inside **No Mercy** and 
 
 Thus, the levelling rotation is predicated upon when to start switching to AOE action usage inside of dungeons. The following level breakpoints will show when to switch from a single-target rotation to an AOE rotation based on number of enemy targets.
 
-### **Levels 1-25**
+## **Levels 1-25**
 
 * Use **Demon Slice** at 2+ targets.
 
-### **Levels 26-39**
+## **Levels 26-39**
 
 Unlocks **Solid Barrel** and **Burst Strike**.</br>
 </br> Your **powder gauge** and full single-target combo will finally be usable here, and ideally you want to hold onto your resources in order to use **Burst Strike** within **No Mercy**. This means that you will typically not use **Burst Strike** unless your next combo action will overfill the **powder gauge**, or **No Mercy** is active.
@@ -69,16 +69,16 @@ Unlocks **Solid Barrel** and **Burst Strike**.</br>
 * Use **Demon Slice** at 3+ targets.
 * Stop using **Burst Strike** at 3 targets.
 
-### **Levels 40-59**
+## **Levels 40-59**
 
 Unlocks **Demon Slaughter** and **Sonic Break**.</br>
 </br> * With **Sonic Break**, it is important to evaluate that this action becomes increasingly worse to use if a target dies before it's full value applies to a target. Keep this in mind when considering using it during a multi-target pull, as it may no longer be worth using. Some basic rules of thumb for it's usage that have been derived from uptime simulations in multi-target scenarios are located at the bottom of the page.
 
-* Use **Demon Slaughter** combo at 2+ targets.
+* Use **Demon Slaughter**'s combo at 2+ targets until level 94.
 * Stop using **Burst Strike** at 3 targets.
-* Stop using **Sonic Break*** at 7 targets (when it unlocks).
+* Stop using **Sonic Break*** at 7 targets (enemy HP permitting).
 
-### **Levels 60-71**
+## **Levels 60-71**
 
 Unlocks **Gnashing Fang** and **Continuation**.</br>
 </br> **Gnashing Fang** is a powerful single-target combo that should be used off-cooldown and one usage per minute should always be inside **No Mercy**. Make sure to have gauge resources available for this whenever it becomes ready.
@@ -87,25 +87,25 @@ Unlocks **Gnashing Fang** and **Continuation**.</br>
 * Stop using **Gnashing Fang** at 6 targets at level 70.
 * Same rules regarding **Demon Slaughter**, **Burst Strike**, and **Sonic Break**.
 
-### **Levels 72-93**
+## **Levels 72-93**
 
-Unlocks **Fated Circle** and **Bloodfest**.</br>
+Unlocks **Fated Circle**, **Bloodfest**, **Hypervelocity**, and **Double Down**.</br>
 </br> **Bloodfest** should only be used when the gauge is empty. **Bloodfest** is typically used inside **No Mercy**.
 
 * Use **Demon Slaughter** combo at 2+ targets.
 * Use **Fated Circle** at 2+ targets.
+* Prioritize **Double Down** when it unlocks.
 * Stop using **Gnashing Fang** at 4 targets.
-* Stop using **Sonic Break*** at 5 targets.
+* Stop using **Sonic Break*** at 5 targets (enemy HP permitting).
 
-### **Levels 94-100**
+## **Levels 94-100**
 
-Unlocks multiple potency-modifying traits, **Hypervelocity**, **Double Down**, **Fated Brand**, and **Reign of Beasts**.</br>
+Unlocks multiple potency-modifying traits, **Fated Brand**, and **Reign of Beasts**.</br>
 </br> **Double Down** and **Reign of Beasts** should always be used within **No Mercy** both as part of your single-target and multi-target rotation. This completes your single-target burst phase with **Gnashing Fang**, **Double Down**, **Reign of Beasts**, and **Sonic Break**, which leads to interesting optimization at level 100 due to **Fated Circle** becoming more powerful than **Gnashing Fang** and **Sonic Break** within **No Mercy** beyond 2 and 3 targets respectively.
 
-* Prioritize **Double Down** when it unlocks.
-* Prioritize **Reign of Beasts** when it unlocks.
 * Use **Demon Slaughter** combo at 3+ targets.
-* Use **Fated Circle** at 2+ targets. (3+ until 96, due to **Fated Brand** and **Melee Mastery 2**).
+* Use **Fated Circle** at 2+ targets. (3+ until 96, due to **Melee Mastery 2** at level 94 and lack of **Fated Brand** until 96).
+* Prioritize **Reign of Beasts** when it unlocks.
 * Same rules regarding **Gnashing Fang** and **Sonic Break***.
 
   * At level 100 and 2 targets, it can potentially be a gain while **No Mercy** is active to hold **Gnashing Fang** and replace it with 3 **Fated Circle** casts if you will have **Bloodfest**.
@@ -115,8 +115,14 @@ At level 100, **Gnashing Fang** technically becomes a small loss at 3 targets (i
 
 * A good time to consider using **Fated Circle(s)** in place of **Gnashing Fang** at 3 targets is whenever the 3-target AOE encounter will last for more than 30 seconds, or at minimum, whenever skipping or holding a usage would not negatively impact **Gnashing Fang's** alignment throughout the rest of the fight and cause lost usages (or some form of loss within﻿ **No Mercy**).
 
-With **Sonic Break**, you should consider how close the target is to dying when deciding on how important it is to apply the action. At level 100, the following bullet list applies for multi-target scenarios, but it is going to depend at lower levels. This advice will still be a generally good rule of thumb for any level, however.
+## Sonic Break Usage in AOE
+When using **Sonic Break** in AOE scenarios, you must consider the enemy target HP and expected time until defeating that enemy, because you do not want to underutilize **Sonic Break**'s damage-over-time effect. In many cases, AOE scenarios are short in length and can prefer the usage of AOE actions over **Sonic Break** if its damage-over-time effect is cut short.
+
+The following bullet list applies for multi-target scenarios at level 100. This advice will be a generally good rule of thumb for any level, but the number of targets will vary at lower levels.
 
 * At 4 targets, do NOT use this if you suspect **Sonic Break** will not last for it's **entire duration**.
 * At 3 targets, do NOT use this if you suspect﻿ **Sonic Break** will not last for at least **half** of it's duration.
-* At 3 targets, it is a gain to hold and then use﻿ **Sonic Break** out of **No Mercy** if it will let you use another﻿ **Fated Circle** in it's place, as long as no DoT time is lost.
+
+At 3 or more targets, it can be optimal to use **Fated Circle** in place of **Sonic Break**, and then hold **Sonic Break** through **No Mercy** and use it after **No Mercy** has ended, if the following conditions exist:
+* You have more gauge available than what is required for **Gnashing Fang** and/or **Double Down**.
+* **Sonic Break**'s damage-over-time effect is not cut short by holding it. 
