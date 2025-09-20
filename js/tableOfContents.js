@@ -246,9 +246,8 @@ function detectMobileRestyle() {
   
   window.addEventListener('resize', onResize, { passive: true })
 
-  // first check on load and after a small delay to ensure proper rendering
+  // first check on load
   restyleCheck()
-  setTimeout(restyleCheck, 100)
 }
 
 // starts the restyle detection after DOM is loaded

@@ -24,7 +24,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[400 128 36 190 496 292]" src="https://xivapi.com/i/000000/000260_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[436 46 18 191 489 451]" src="https://xivapi.com/i/000000/000260_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Heavy Swing&lt;/td&gt;
@@ -37,7 +37,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[204 15 399 209 316 121]" src="https://xivapi.com/i/000000/000255_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[303 486 331 238 496 109]" src="https://xivapi.com/i/000000/000255_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Maim&lt;/td&gt;
@@ -50,7 +50,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[351 8 234 445 398 149]" src="https://xivapi.com/i/002000/002551_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[186 188 209 251 489 351]" src="https://xivapi.com/i/002000/002551_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Defiance&lt;/td&gt;
@@ -63,7 +63,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[342 224 155 83 207 67]" src="https://xivapi.com/i/000000/000261_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[316 499 486 221 43 126]" src="https://xivapi.com/i/000000/000261_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Tomahawk&lt;/td&gt;
@@ -76,7 +76,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[200 239 340 314 438 480]" src="https://xivapi.com/i/000000/000258_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[291 16 357 302 142 100]" src="https://xivapi.com/i/000000/000258_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Storm&amp;rsquo;s Path&lt;/td&gt;
@@ -89,7 +89,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[305 453 332 135 209 274]" src="https://xivapi.com/i/000000/000264_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[386 137 395 280 181 314]" src="https://xivapi.com/i/000000/000264_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Storm&amp;rsquo;s Eye&lt;/td&gt;
@@ -102,7 +102,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[119 151 101 465 30 405]" src="https://xivapi.com/i/002000/002555_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[36 150 206 453 136 403]" src="https://xivapi.com/i/002000/002555_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Infuriate&lt;/td&gt;
@@ -115,7 +115,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[129 35 231 92 97 427]" src="https://xivapi.com/i/002000/002557_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[440 80 344 43 424 38]" src="https://xivapi.com/i/002000/002557_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fell Cleave&lt;/td&gt;
@@ -128,7 +128,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[112 251 236 317 309 162]" src="https://xivapi.com/i/002000/002561_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[386 31 239 438 299 37]" src="https://xivapi.com/i/002000/002561_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Onslaught&lt;/td&gt;
@@ -141,7 +141,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[396 338 186 197 281 283]" src="https://xivapi.com/i/002000/002562_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[241 425 344 235 10 260]" src="https://xivapi.com/i/002000/002562_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Upheaval&lt;/td&gt;
@@ -154,7 +154,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[312 228 292 219 168 254]" src="https://xivapi.com/i/002000/002564_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[203 38 33 382 500 450]" src="https://xivapi.com/i/002000/002564_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Inner Release&lt;/td&gt;
@@ -167,7 +167,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[219 291 425 285 394 111]" src="https://xivapi.com/i/002000/002568_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[268 24 98 78 43 63]" src="https://xivapi.com/i/002000/002568_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Inner Chaos&lt;/td&gt;
@@ -180,7 +180,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[46 419 189 284 425 91]" src="https://xivapi.com/i/002000/002571_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[33 147 235 75 3 190]" src="https://xivapi.com/i/002000/002571_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Primal Rend&lt;/td&gt;
@@ -193,7 +193,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[180 219 55 179 296 187]" src="https://xivapi.com/i/002000/002574_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[133 96 186 91 465 292]" src="https://xivapi.com/i/002000/002574_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Primal Wrath&lt;/td&gt;
@@ -206,7 +206,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[179 299 471 259 231 496]" src="https://xivapi.com/i/002000/002050_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[473 394 53 396 60 261]" src="https://xivapi.com/i/002000/002050_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Primal Ruination&lt;/td&gt;
@@ -235,7 +235,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[33 10 196 232 234 445]" src="https://xivapi.com/i/000000/000254_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[434 269 362 486 196 283]" src="https://xivapi.com/i/000000/000254_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Overpower&lt;/td&gt;
@@ -248,7 +248,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[444 304 83 382 448 341]" src="https://xivapi.com/i/002000/002565_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[138 333 492 143 354 124]" src="https://xivapi.com/i/002000/002565_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Mythril Tempest&lt;/td&gt;
@@ -261,7 +261,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[56 87 49 402 131 236]" src="https://xivapi.com/i/002000/002558_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[285 128 402 366 417 28]" src="https://xivapi.com/i/002000/002558_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Decimate&lt;/td&gt;
@@ -274,7 +274,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[17 255 381 423 185 6]" src="https://xivapi.com/i/002000/002566_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[84 213 154 133 268 45]" src="https://xivapi.com/i/002000/002566_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Chaotic Cyclone&lt;/td&gt;
@@ -287,7 +287,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[213 202 448 188 205 87]" src="https://xivapi.com/i/002000/002570_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[317 91 68 104 343 17]" src="https://xivapi.com/i/002000/002570_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Orogeny&lt;/td&gt;
@@ -316,7 +316,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[82 31 422 197 359 283]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[413 201 133 293 306 64]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Rampart&lt;/td&gt;
@@ -329,7 +329,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[324 99 132 274 239 225]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[494 206 220 222 367 101]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Reprisal&lt;/td&gt;
@@ -342,7 +342,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[409 168 172 260 362 387]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[128 348 265 330 316 317]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Arm&amp;rsquo;s Length&lt;/td&gt;
@@ -355,7 +355,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[119 307 444 383 289 50]" src="https://xivapi.com/i/000000/000263_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[466 5 309 233 439 417]" src="https://xivapi.com/i/000000/000263_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Thrill of Battle&lt;/td&gt;
@@ -368,7 +368,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[163 359 261 33 473 352]" src="https://xivapi.com/i/000000/000267_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[158 266 358 322 371 264]" src="https://xivapi.com/i/000000/000267_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Vengeance&lt;/td&gt;
@@ -381,7 +381,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[384 393 27 453 44 349]" src="https://xivapi.com/i/000000/000266_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[405 455 45 378 379 280]" src="https://xivapi.com/i/000000/000266_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Holmgang&lt;/td&gt;
@@ -394,7 +394,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[124 431 1 393 475 165]" src="https://xivapi.com/i/002000/002560_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[268 455 173 45 485 230]" src="https://xivapi.com/i/002000/002560_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Equilibrium&lt;/td&gt;
@@ -407,7 +407,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[172 272 246 194 59 129]" src="https://xivapi.com/i/002000/002563_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[488 164 26 355 456 495]" src="https://xivapi.com/i/002000/002563_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Shake It Off&lt;/td&gt;
@@ -420,7 +420,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[336 398 263 284 110 262]" src="https://xivapi.com/i/002000/002567_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[478 424 458 381 397 448]" src="https://xivapi.com/i/002000/002567_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Nascent Flash&lt;/td&gt;
@@ -433,7 +433,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[443 34 233 135 449 182]" src="https://xivapi.com/i/002000/002569_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[118 41 356 239 375 215]" src="https://xivapi.com/i/002000/002569_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Bloodwhetting&lt;/td&gt;
@@ -446,7 +446,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[68 15 172 413 469 141]" src="https://xivapi.com/i/002000/002573_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[312 289 98 426 139 132]" src="https://xivapi.com/i/002000/002573_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Damnation&lt;/td&gt;
@@ -475,7 +475,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[431 120 412 2 490 480]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[217 245 458 447 75 435]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Low Blow&lt;/td&gt;
@@ -488,7 +488,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[92 76 98 146 41 119]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[385 38 220 223 255 408]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Provoke&lt;/td&gt;
@@ -501,7 +501,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[299 500 412 252 264 357]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[320 251 311 95 333 287]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Interject&lt;/td&gt;
@@ -514,7 +514,7 @@ After the buffs are up, fell cleaves are used first for comfort, but the order o
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[122 423 481 76 280 285]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[248 169 393 358 187 179]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Shirk&lt;/td&gt;
