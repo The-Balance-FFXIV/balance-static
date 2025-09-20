@@ -2,6 +2,7 @@
 title: The Omega Protocol (Ultimate)
 patch: "6.3"
 lastmod: 2023-02-26T16:35:34.830Z
+visibility: hidden
 ---
 Hi it’s Mr PB here to talk to you about some ideas to keep in mind that should help you safely progress on your beetle-killing journey. This is not a “max dps speedkill big parse” style document, this is a document containing ideas that can be implemented to ensure you’re safely meeting the required dps checks in each phase by allocating damage smartly.
 
