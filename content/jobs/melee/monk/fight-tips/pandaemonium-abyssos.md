@@ -11,7 +11,7 @@ As an important forewarning, allow me to repeat for the billionth time; Monk is 
 
 [Double Rush uptime](https://youtu.be/Sil2R3Ge1VA)
 
-Thunderclap is your friend. Some patterns are worse than others, just engage brain a little before you dash so you don’t get yourself killed.
+Thunderclap is your friend. Some patterns are worse than others, just engage brain a little before you dash so you don’t get yourself killed
 
 
 
