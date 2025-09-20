@@ -205,8 +205,8 @@ function detectMobileRestyle() {
     // get what value the toc should be stuck at, default to top-12 if not found
     const expectedTop = parseInt(computedStyle.top) || 48
 
-    // determines that stuck-mobile should be applied if within 10px of expected top position
-    const shouldSticky = Math.abs(tocPos.top - expectedTop) <= 10
+    // determines that stuck-mobile should be applied if within 20px of expected top position
+    const shouldSticky = Math.abs(tocPos.top - expectedTop) <= 20
     
     if (shouldSticky && !sticky) {
       toc.classList.add('stuck-mobile')
@@ -218,11 +218,20 @@ function detectMobileRestyle() {
   }
 
   // check restyle necessity on scroll
+  let scrollTimeout
   function onScroll() {
-    requestAnimationFrame(restyleCheck)
+    if (scrollTimeout) {
+      clearTimeout(scrollTimeout)
+    }
+    
+    // batch restyle checks to prevent excessive calls
+    scrollTimeout = setTimeout(() => {
+      requestAnimationFrame(restyleCheck)
+    }, 16)
   }
 
   window.addEventListener('scroll', onScroll, { passive: true })
+  window.addEventListener('touchmove', onScroll, { passive: true })
   
   // check restyle necessity on page resize
   let resizeTimeout
@@ -237,8 +246,9 @@ function detectMobileRestyle() {
   
   window.addEventListener('resize', onResize, { passive: true })
 
-  // first check on load
+  // first check on load and after a small delay to ensure proper rendering
   restyleCheck()
+  setTimeout(restyleCheck, 100)
 }
 
 // starts the restyle detection after DOM is loaded
