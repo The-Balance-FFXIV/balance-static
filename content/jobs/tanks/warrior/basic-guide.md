@@ -476,7 +476,7 @@ In this section, we will go over the very basics of Warrior Heals.
 * May Crit a heal randomly. Luck!
 * Primal Rend, Chaotic Cyclone, Inner Chaos and Primal Ruination always force a Crit heal.
 * Inner Release'd Fell Cleaves do NOT force a Crit heal.
-* Thrill of Battle does NOT increase the healing from these.
+* Thrill of Battle does increase the healing from these (patch 7.1+).
 * Initial mitigation is 19% due to diminishing returns (100 x 0.9 x 0.9 = 81).
 
 ## Nascent Flash
