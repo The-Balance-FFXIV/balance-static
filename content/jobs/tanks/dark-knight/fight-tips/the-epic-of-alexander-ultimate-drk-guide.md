@@ -22,18 +22,6 @@ Dark Knight BiS for TEA can be found at the following link: <https://xivgear.app
 
 If you have the Shadowbringers relic, a GCD speed of 2.45 can make sense to take advantage of the free Skill Speed provided, and is recommended. However, be aware that Skill Speed does not affect **Unleash** or **Stalwart Soul** (your AoE combo), which can be relevant for phase two, as at this level, your **Stalwart Soul** combo is a gain on two. Despite this, we still recommend 2.45 even for groups utilizing AoE more heavily during Phase Two (BJCC), as you won't be AoEing all of the time, and it is not the phase where damage matters most.
 
-# Defensive Skill Usage
-
-Ultimate progression is a team effort. Unlike Savage, incoming damage is so high and healer kits are small enough that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your co-tank, and your group will directly affect the performance of your healers. **The Blackest Night** (**TBN**) in particular is an incredibly strong tool, and smart usage will make a world of difference for your healers, especially during periods of heavy continuous damage, like Phase Two (BJCC).
-
-Mitigation is rather flexible for this encounter, and further details will be provided in the section for each phase.
-
-# Offensive Skill Usage
-
-Optimizing your damage on Dark Knight revolves heavily around shifting potency into raid buffs, and Ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. 
-
-Note that it is impossible to provide a full map of each burst window because killtimes can vary wildly and your party will need to decide how to approach each phase. The following sections will provide guidelines on the more common options, but practicing and consulting with your group so that you're all approaching phases the same way is important.
-
 ## Potion Usage
 
 While potion usage may depend on what your group wants to do, a recommended set of potions would be during Living Liquid, during Alexander Prime, and two potions during Perfect Alexander.

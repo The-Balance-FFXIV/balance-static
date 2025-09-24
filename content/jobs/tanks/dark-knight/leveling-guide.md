@@ -36,8 +36,8 @@ One last word of warning: **Be careful about using crafted gear.** Crafted gear 
 ## Dungeons
 
 * Keep **Grit** active at all times. This multiplies all of your enmity generation by ten, allowing you to easily keep the attention of any enemies you damage. Entering a duty which syncs your level down will automatically toggle **Grit** off, so make sure the icon is present in your list of buffs before proceeding.
-* Make sure you establish enmity on all targets. Even if there are only a couple targets present, or if one enemy needs to be singled out to kill first, don't be afraid to fire off a couple AoE actions to make sure you keep the attention of all enemies before switching to single-target.
-* Rotate through your defensive cooldowns. Large groups of "trash" mobs usually deal significantly more damage than bosses do, so don't be afraid to use all of your mitigation to get through a pull. In addition to **Rampart**, **Shadow Wall**, and **The Blackest Night**, remember that **Dark Mind**, **Reprisal** and **Arm's Length** are also potent tools. The term "slow" in the description of **Arm's Length** means an attack speed reduction ("heavy" is a movement speed reduction), so it will inflict a significant debuff to all mobs which attack you. However, this is ineffective on almost all bosses.
+* Make sure you establish enmity on all targets. Even if there are only a couple targets present, or if one enemy needs to be singled out to kill first, don't be afraid to fire off a couple AoE (Area of Effect) actions to make sure you keep the attention of all enemies before switching to single-target.
+* Rotate through your defensive cooldowns. Large groups of "trash" mobs (the dungeon packs between bosses) usually deal significantly more damage than bosses do, so don't be afraid to use all of your mitigation to get through a pull. In addition to **Rampart**, **Shadow Wall**, and **The Blackest Night**, remember that **Dark Mind**, **Reprisal** and **Arm's Length** are also potent tools. The term "slow" in the description of **Arm's Length** means an attack speed reduction ("heavy" is a movement speed reduction), so it will inflict a significant debuff to all mobs which attack you. However, this is ineffective on almost all bosses.
 * Try to keep moving until you have gathered up all the enemies you wish to pull at once, and then stay in one spot until they are all dead. Many jobs have ground-targeted AoE abilities which will heal you or damage enemies and which cannot be moved after being placed. Players also regenerate HP and MP much more quickly while not in combat, so bringing stragglers over to the next group will impact your resource generation, which is especially dangerous for healers.
 * Don't be afraid to pull more than one group at once. Even in very low-level dungeons, your AoE damage output is quite high and can make up for any party members stuck with only single-target actions. Healing actions are also relatively strong at low levels, so it takes an extremely large group of enemies to outpace your healer's output.
 
@@ -71,7 +71,7 @@ New action: **Souleater**. This completes your single-target combo with addition
 
 #### Level 30
 
-New action: Flood of Darkness. This spends MP to deal AoE damage and grants Darkside, which buffs all of your damage by 10%. Because **Syphon Strike** generates MP, single-target combos are now solidly better than Unleash on two targets.
+New action: **Flood of Darkness**. This spends MP to deal AoE damage and grants Darkside, which buffs all of your damage by 10%. Because **Syphon Strike** generates MP, single-target combos are now solidly better than Unleash on two targets.
 
 Don't be afraid to spend your MP at the start of a pull; while you don't regenerate enough MP while spamming **Unleash** to keep Darkside active indefinitely, you would need to stay in combat for an extraordinary length of time for Darkside to actually run out. 
 
@@ -81,7 +81,7 @@ Don't be afraid to spend your MP at the start of a pull; while you don't regener
 
 #### Level 35
 
-New action: **Blood Weapon**. Grants a small amount of MP for the first three GCDs landed during its 15 second duration. **Blood Weapon** should generally be used on cooldown during pulls.
+New action: **Blood Weapon**. Grants a small amount of MP for the first three GCDs ('Global Cooldown' abilities, Weaponskills or Spells) landed during its 15 second duration. **Blood Weapon** should generally be used on cooldown during pulls.
 
 * **Souleater** combo on one or two targets.
 * **Unleash** on three or more targets.
