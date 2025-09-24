@@ -25,7 +25,7 @@ bis:
     link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=1
   - type: xivgear
     description: ""
-    name: 1.94 Week 1, Ornate + Pentameld + Tome Pants
+    name: 1.95 Week 1, Ornate + Pentameld + Tome Pants
     link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=3
   - type: xivgear
     description: ""
