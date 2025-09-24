@@ -1,0 +1,41 @@
+name: Compress Images
+on:
+  pull_request:
+    paths:
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.png'
+      - '**.webp'
+      - '**.avif'
+  schedule:
+    - cron: '0 0 * * 0'  # Every Sunday at 2:00 AM UTC
+  workflow_dispatch:
+jobs:
+  build:
+    if: |
+      github.repository == 'The-Balance-FFXIV/balance-static' &&
+      (github.event_name != 'pull_request' ||
+       github.event.pull_request.head.repo.full_name == github.repository)
+    name: calibreapp/image-actions
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Compress PR Images
+        uses: calibreapp/image-actions@1.4.1
+        with:
+          # For non-Pull Requests, run in compressOnly mode and we'll PR after.
+          compressOnly: ${{ github.event_name != 'pull_request' }}
+      - name: Create Pull Request
+        # If it's not a Pull Request then commit any changes as a new PR.
+        if: |
+          github.event_name != 'pull_request' &&
+          steps.calibre.outputs.markdown != ''
+        uses: peter-evans/create-pull-request@v4
+        with:
+          title: Auto Compress Images
+          branch-suffix: timestamp
+          commit-message: Compress Images
+          body: ${{ steps.calibre.outputs.markdown }}
