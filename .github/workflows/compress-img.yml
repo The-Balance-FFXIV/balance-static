@@ -59,16 +59,16 @@ jobs:
             orig_size=$(stat -c%s "$f" 2>/dev/null || echo 0)
             ext="${f##*.}"
             case "${ext,,}" in
-              png) pngquant --force --skip-if-larger --strip --quality=65-85 --ext .png "$f" || true ;;
-              jpg|jpeg) jpegoptim --strip-all --max=85 "$f" || true ;;
+              png) pngquant --force --skip-if-larger --strip --quality=75-95 --speed 1 --ext .png "$f" || true ;;
+              jpg|jpeg) jpegoptim --strip-all "$f" || true ;;
               webp)
                 tmp="$f.tmp"
-                cwebp -q 80 -mt -af "$f" -o "$tmp" >/dev/null 2>&1 || true
+                cwebp -q 95 -mt -af "$f" -o "$tmp" >/dev/null 2>&1 || true
                 if [ -s "$tmp" ] && [ $(stat -c%s "$tmp") -lt $(stat -c%s "$f") ]; then mv "$tmp" "$f"; else rm -f "$tmp"; fi
                 ;;
               avif)
                 tmp="$f.tmp.avif"
-                avifenc --min 20 --max 30 --speed 6 "$f" "$tmp" >/dev/null 2>&1 || true
+                avifenc --min 6 --max 15 --speed 3 "$f" "$tmp" >/dev/null 2>&1 || true
                 if [ -s "$tmp" ] && [ $(stat -c%s "$tmp") -lt $(stat -c%s "$f") ]; then mv "$tmp" "$f"; else rm -f "$tmp"; fi
                 ;;
               svg) svgo "$f" >/dev/null 2>&1 || true ;;
