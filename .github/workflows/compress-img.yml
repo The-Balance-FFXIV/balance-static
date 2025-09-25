@@ -59,8 +59,8 @@ jobs:
             orig_size=$(stat -c%s "$f" 2>/dev/null || echo 0)
             ext="${f##*.}"
             case "${ext,,}" in
-              png) pngquant --force --skip-if-larger --strip --quality=75-95 --speed 1 --ext .png "$f" || true ;;
-              jpg|jpeg) jpegoptim --strip-all "$f" || true ;;
+              png) pngquant --force --skip-if-larger --strip --quality=80-97 --speed 1 --ext .png "$f" || true ;;
+              jpg|jpeg) jpegoptim --strip-all --max=95 "$f" || true ;;
               webp)
                 tmp="$f.tmp"
                 cwebp -q 95 -mt -af "$f" -o "$tmp" >/dev/null 2>&1 || true
