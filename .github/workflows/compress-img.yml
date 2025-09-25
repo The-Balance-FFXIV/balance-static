@@ -1,0 +1,111 @@
+name: Scheduled Image Compression
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  compress-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Check for new or modified images
+        id: detect
+        run: |  
+          set -e
+          patterns="*.png *.jpg *.jpeg *.webp *.avif *.svg"
+          git ls-files $patterns > all.txt
+          last=$(git rev-list -n 1 --grep="Compressed Images" HEAD || true)
+          if [ -n "$last" ]; then
+            git diff --name-only "$last"..HEAD -- $patterns > changed.txt
+          else
+            cp all.txt changed.txt
+          fi
+          sed -i '/^$/d' changed.txt || true
+          sort -u changed.txt -o changed.txt
+          count=$(grep -c . changed.txt || true)
+          if [ "$count" -eq 0 ]; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No images need compression."
+            exit 0
+          fi
+          echo "Changed images:"
+          cat changed.txt
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "list<<EOF" >> $GITHUB_OUTPUT
+          cat changed.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Install compression tools
+        if: steps.detect.outputs.changed == 'true'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pngquant jpegoptim webp libavif-bin
+          npm install -g svgo@latest
+
+      - name: Compress new images
+        if: steps.detect.outputs.changed == 'true'
+        id: compress
+        run: |
+          set -e
+          total_saved=0
+          while IFS= read -r f; do
+            [ -f "$f" ] || continue
+            orig_size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            ext="${f##*.}"
+            case "${ext,,}" in
+              png) pngquant --force --skip-if-larger --strip --quality=65-85 --ext .png "$f" || true ;;
+              jpg|jpeg) jpegoptim --strip-all --max=85 "$f" || true ;;
+              webp)
+                tmp="$f.tmp"
+                cwebp -q 80 -mt -af "$f" -o "$tmp" >/dev/null 2>&1 || true
+                if [ -s "$tmp" ] && [ $(stat -c%s "$tmp") -lt $(stat -c%s "$f") ]; then mv "$tmp" "$f"; else rm -f "$tmp"; fi
+                ;;
+              avif)
+                tmp="$f.tmp.avif"
+                avifenc --min 20 --max 30 --speed 6 "$f" "$tmp" >/dev/null 2>&1 || true
+                if [ -s "$tmp" ] && [ $(stat -c%s "$tmp") -lt $(stat -c%s "$f") ]; then mv "$tmp" "$f"; else rm -f "$tmp"; fi
+                ;;
+              svg) svgo "$f" >/dev/null 2>&1 || true ;;
+            esac
+            new_size=$(stat -c%s "$f" 2>/dev/null || echo "$orig_size")
+            if [ "$new_size" -lt "$orig_size" ]; then
+              saved=$((orig_size - new_size))
+              total_saved=$((total_saved + saved))
+            fi
+          done < changed.txt
+
+          echo "Files modified by compression (pre-commit diff list):"
+          git diff --name-only || true
+
+          if git diff --quiet; then
+            echo "no_changes=true" >> $GITHUB_OUTPUT
+            echo "No images were compressed."
+          else
+            echo "no_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+          if command -v numfmt >/dev/null 2>&1; then
+            human=$(numfmt --to=iec --suffix=B $total_saved)
+          else
+            human="${total_saved}B"
+          fi
+          echo "space_saved_human=$human" >> $GITHUB_OUTPUT
+
+          rm -f changed.txt all.txt
+
+      - name: Create PR with compressed images
+        if: steps.detect.outputs.changed == 'true' && steps.compress.outputs.no_changes == 'false'
+        uses: peter-evans/create-pull-request@v7.0.8
+        with:
+          title: Image Compression Update
+          branch-suffix: timestamp
+          commit-message: Compressed Images
+          body: |
+            Automated compression of newly added images.
+            Total space saved: ${{ steps.compress.outputs.space_saved_human }}.
