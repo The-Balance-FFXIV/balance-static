@@ -103,6 +103,7 @@ jobs:
         if: steps.detect.outputs.changed == 'true' && steps.compress.outputs.no_changes == 'false'
         uses: peter-evans/create-pull-request@v7.0.8
         with:
+          token: ${{ secrets.CI_BOT_TOKEN }}
           title: Image Compression Update
           branch-suffix: timestamp
           commit-message: Compressed Images
