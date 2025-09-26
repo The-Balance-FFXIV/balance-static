@@ -1,7 +1,6 @@
 # balance-static
-Rendered guide(s) at your fingertips
 
-## Testing locally
+## Testing with local Hugo server
 
 Make sure you have [hugo extended](https://gohugo.io/getting-started/installing/) installed, either drop `hugo.exe` in the root dir or add it to your PATH.
 
@@ -22,12 +21,22 @@ hugo server --disableFastRender
 # Server starts by default on `localhost:1313`
 ```
 
-## Docker
+## Testing with Docker
 
-### Build the image
+### Build and run with Docker Compose (recommended)
 
-`docker build -t balance-static:latest .`
+Make sure you have either Docker Desktop running or setup WSL2 and install Docker Engine and Docker Compose in order to run this.
 
-### Run the image
+```sh
+# navigate to a folder that you want the repository in, and clone the repository
+# it is very important that you use --recursive in order to download the glam theme files
+git clone --recursive https://github.com/The-Balance-FFXIV/balance-static.git
 
-`docker run --name balance-static -p 1313:1313 balance-static:latest`
+# navigate into the repository after cloning it
+cd balance-static
+
+# build and automatically start/update the site preview
+docker-compose up --watch
+
+# site builds on localhost:1313 for previewing
+```
