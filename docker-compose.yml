@@ -1,0 +1,31 @@
+services:
+  hugo:
+    build: .
+    ports:
+      - "1313:1313"  # Hugo server
+      - "8081:8081"  # Netlify CMS proxy server
+    container_name: balance-static
+    develop:
+      watch:
+        - action: sync
+          path: ./content
+          target: /src/content
+        - action: sync
+          path: ./data
+          target: /src/data
+        - action: sync
+          path: ./layouts
+          target: /src/layouts
+        - action: sync
+          path: ./static
+          target: /src/static
+        - action: sync
+          path: ./themes
+          target: /src/themes
+        - action: sync
+          path: ./config.toml
+          target: /src/config.toml
+        - action: rebuild
+          path: ./package.json
+        - action: rebuild
+          path: ./themes/glam/package.json
