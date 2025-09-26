@@ -4,8 +4,8 @@ card_header_image: /img/rdm-fight-tips.jpg
 authors:
   - lana
   - verdandi
-patch: "6.2"
-lastmod: 2022-08-30T01:09:10.987Z
+patch: "7.31"
+lastmod: 2025-09-26T17:23:31.020Z
 changelog:
   - date: 2022-08-30T01:14:30.121Z
     message: Created page
@@ -16,7 +16,7 @@ changelog:
 
 Manafication’s damage buff and 110 second cooldown is granted by a trait at Lv.74 meaning that in Lv.70 content it functions the same way it did in Stormblood: with no damage buff and a 120s cooldown. As a result of there being no damage buff it should be used slightly differently than in level 80 and 90 content.
 
-While you should still aim to finish phases with as much Black and White mana as possible, in the scenario that your mana is at 50 | 50 or below, you can use Manafication during downtime during or between phases to get it on cooldown faster. This should be done whenever possible to avoid the possibility of losing a use of Manafication throughout the fight.
+While you should still aim to finish phases with as much Black and White mana as possible, in the scenario that your mana is at 50 | 50 or below, you can use Manafication during downtime during or between phases to get it on cooldown faster. This should be done whenever possible to avoid the possibility of losing a use of Manafication throughout the fight, as even with the Dawntrail change, there are no situations where pressing Manafication on cooldown will result in the free combo falling off before the next phase begins.
 
 ## Potion Usage
 
@@ -49,7 +49,7 @@ Be sure you wait for the debuff to fall off before you Dualcast, as it often tak
 ## Liquid Hell Bait
 
 When the physical ranged is marked by Hatch, a backup person will be asked to either bait Liquid Hells or intercept the Hatch on the Neurolink. While it is generally advisable to have a healer—or a SMN, if your group has one—do these tasks, some groups may ask their RDM to do it.  
- 
+
 In the scenario that you are doing a backup bait, consider holding Swiftcast or Acceleration when you can for any possible Liquid Hell baits, as it is not possible to cast between each bait.
 
 For the final pair of Hatches and Liquid Hells, a random person will be targeted by Liquid Hells. You can store enough mana for a melee combo here, which you can use to keep uptime on the boss while avoiding the Liquid Hells if you are targeted.
