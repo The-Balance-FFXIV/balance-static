@@ -5,8 +5,8 @@ authors:
   - Laille-Ormesaing
   - lana
   - mazz
-patch: "6.4"
-lastmod: 2023-09-18T19:03:40.135Z
+patch: "7.31"
+lastmod: 2025-09-26T17:25:41.189Z
 changelog:
   - date: 2022-08-30T01:03:30.417Z
     message: Created page
@@ -32,7 +32,7 @@ If you’re bringing a Shadowbringers relic into the fight, assign 136 stat poin
 
 Manafication is changed in Shadowbringers by a trait at level 74, which means that in level 70 content, it functions the same way it did in Stormblood -- with no damage buff and a 120s cooldown. As a result of there being no damage buff, it should be used slightly differently than at level 80.
 
-While you should still aim to finish phases with as much black and white mana as possible, in the scenario that your mana is at 60 | 60 or below, you can use Manafication during downtime during or in between phases to get it on cooldown faster. This should be done whenever possible to avoid the possibility of losing a use of Manafication throughout the fight.
+While you should still aim to finish phases with as much black and white mana as possible, in the scenario that your mana is at 60 | 60 or below, you can use Manafication during downtime during or in between phases to get it on cooldown faster. This should be done whenever possible in the first half of the fight to avoid the possibility of losing a use of Manafication throughout the fight. Once the Intermission is reached, Manafication can no longer be used during downtime.
 
 ## Potion Usage
 
