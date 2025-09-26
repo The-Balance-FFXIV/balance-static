@@ -14,7 +14,7 @@ changelog:
 ---
 # Introduction
 
-Due to damage scaling in Endwalker and the potential for using fully synced gear, DPS checks in The Epic of Alexander are, on the whole, not extremely tight. Your primary concern for DPS will be the Trio Enrage at the end of Alexander Prime, but with fully synced gear options, phase DPS checks are fairly lenient.
+Due to damage scaling in Endwalker/Dawntrail and the potential for using fully synced gear, DPS checks in The Epic of Alexander are, on the whole, not extremely tight. Your primary concern for DPS will be the Trio Enrage at the end of Alexander Prime, but with fully synced gear options, phase DPS checks are fairly lenient.
 
 At level 80, you can fit two full melee combos under Embolden, and this should be your goal whenever possible. There can be some variance in phase kill timings, but if your Manafication is aligned with your buffs, you should always be able to get double a melee combo under each Embolden after the opener.
 
