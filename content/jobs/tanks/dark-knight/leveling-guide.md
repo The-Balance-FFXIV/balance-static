@@ -162,7 +162,7 @@ New action: **Delirium**. This replaces **Blood Weapon**, and will grant both **
 
 #### Level 70
 
-New action: **The Blackest Night** ("**TBN**"). While Dark Knight can feel a bit squishy below level 70, **TBN** will add an absolutely massive amount of mitigation to your kit. If the shield granted by **TBN** breaks rather than expires, the user gains a Dark Arts proc, which makes the next **Flood** or **Edge** free to cast. At this level, you don't have enough MP generation to use it on cooldown indefinitely, so you should be more conservative with your MP and primarily use **Flood** when you have a Dart Arts proc. However, you should try to use **TBN** only when you're reasonably confident that the shield will break, or in emergencies.
+New action: **The Blackest Night** ("**TBN**"). While Dark Knight can feel a bit squishy below level 70, **TBN** will add an absolutely massive amount of mitigation to your kit. If the shield granted by **TBN** breaks rather than expires, the user gains a Dark Arts proc, which makes the next **Flood** or **Edge** free to cast. At this level, you don't have enough MP generation to use it on cooldown indefinitely, so you should be more conservative with your MP and aim to primarily use **Flood** or **Edge** when you have a Dark Arts proc. However, you should try to use **TBN** only when you're reasonably confident that the shield will break, or in emergencies.
 
 * **Souleater** combo on one target.
 * **Stalwart Soul** combo on two or more targets.
