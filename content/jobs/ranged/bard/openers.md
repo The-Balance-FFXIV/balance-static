@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - Balance-BRD-Staff
-patch: "7.2"
-lastmod: 2024-08-12T02:09:40.474Z
+patch: "7.3"
+lastmod: 2025-10-01T01:18:24.112Z
 changelog:
   - date: 2021-10-26T02:31:00.147Z
     message: Created page
@@ -21,7 +21,7 @@ For all openers:
 * Any given Burst Shot in the image could be Refulgent Arrow, or vice versa save for the one using Barrage.
 * Use Pitch Perfect at three stacks as able, Heartbreak Shot as able, and Refulgent procs as you get them.
 * Try to use your first skill as the countdown hits zero (not before). This is aimed at aligning buffs long-term.
-* The best potion as of 7.05 is high-quality Grade 2 Gemdraught of Dexterity. 
+* The best potion as of 7.3 is high-quality Grade 3 Gemdraught of Dexterity. 
 
 ![Bard Level 100 Standard Opener](/img/jobs/brd/adjusted-standard-opener.png "Bard Level 100 Standard Opener")
 
