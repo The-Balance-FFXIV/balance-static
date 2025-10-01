@@ -4,8 +4,8 @@ card_header_image: /img/rdm-fight-tips.jpg
 authors:
   - argen
   - Balance-RDM-Staff
-patch: "6.21"
-lastmod: 2022-09-26T03:41:51.990Z
+patch: "7.31"
+lastmod: 2025-09-26T16:58:11.797Z
 changelog:
   - date: 2022-09-26T03:51:55.063Z
     message: Created page
@@ -33,17 +33,7 @@ Please be sure to read Meru's Addle and Magick Barrier Guide: <https://bit.ly/3A
 
 ## Manafication Timings
 
-When progressing this fight, there are two common approaches people will take with regard to their Manafication timings:
-
-## Aligned Two-Minute Manafic
-
-This rotation involves aligning Manafication with every raid buff window, making for cleaner burst windows and more flexibility around fast or slow phase killtimes.
-
-## Manafic Rush
-
-This rotation involves using Manafication strictly off of cooldown (including in downtime), allowing a free extra use of Manafication in eyes phase, and an early Manafication in P3 to help with tower movement. However, this comes at the cost of slightly worse burst/buff alignment in earlier phases and less killtime flexibility.
-
-Both rotations are viable and commonly used. If in doubt, the aligned 2-min Manafic rotation is the easier option to progress on due to its flexibility and simplicity. Manafic rush is mostly valuable for those who need additional damage on Eyes phase.
+Unfortunately, because of the changes to Manafication in Dawntrail changing the granted combo to a limited-duration buff, rushing Manafication is no longer possible in this fight, because it needs to be delayed too long in Sanctity in order to avoid losing the free combo entirely. Therefore, you should align Manafication with your burst windows.
 
 ## Potion Timings
 
@@ -89,11 +79,11 @@ The DPS check in this phase is very lenient, and movement isn’t particularly d
 * There are two Acceleration-boosted Impacts that will hit both targets, with the one after Resolution still falling under 15-second raid buffs if available.
 * This alignment allows two uses of Contre Sixte on two targets before Adelphel disappears. But the second use is strict and has a risk of ghosting if weaved too late. 
 * The first Fleche is delayed for raid buffs, but this is optional. Using it before raid buffs (e.g. double weaved with Swiftcast if not using potion) would be better if you gain a use.
-* If able to double weave a potion, one ideal timing would be to weave it with the Swiftcast. The other alternative is to use a potion for a double melee combo after the playstation mechanic. Although there are no raid buffs, two sets of finishers cleaving both bosses can make up for it.
+* If you want to use your potion in the opener, one ideal timing would be to weave it with the Swiftcast. The other alternative is to use a potion for a double melee combo after the playstation mechanic. Although there are no raid buffs, two sets of finishers cleaving both bosses can make up for it.
 
 ## Two Target Phases
 
-Jolt II/Verstone/Verfire into Impact is optimal on two targets, and so should be used as our main filler spell combo whenever the bosses are pulled together.
+Jolt II/Verstone/Verfire into Impact is optimal on two targets at level 90, and so should be used as our main filler spell combo whenever the bosses are pulled together.
 
 Since our melee combo finishers cleave, you should at minimum, **save your second melee combo** for when Adelphel returns from the dashes and jumps onto the tank. At this point you should be around 70|70 to 80|80 mana. Other combos in this phase can be used when you are 50|50 or above. 
 
@@ -107,31 +97,19 @@ Much like the door boss, the DPS check in this phase is also very lenient. This 
 
 The standard play here is to do three melee combos during the phase: the opener, one flexible combo before or after Sanctity, and a final combo during raid buffs. From this point onward, you should build mana and aim to enter P3 with somewhere between 70|70 to 80|80 mana. If killing the boss too fast, consider asking your party members to hold damage (especially jobs that don’t need to build gauge) and use AOE abilities.
 
-## Suggested Openers
-
-### Standard
+## Suggested Opener
 
 ![](/img/rdmdsrimage7.png)
 
-The standard opener is similar to our general purpose one, but due to the short phase, using the potion early is advised to catch the early Fleche, and also benefit from the full 30 seconds of the potion buff. The standard opener works for both 2-minute aligned Manafic or Manafic rush. 
-
-### Modified Manafic Rush
-
-![](/img/rdmdsrimage9.png)
-
-The modified opener for Manafic rushing uses Manafic on the first GCD. While the damage and alignment is slightly weaker, it creates more leeway for your Manafication timer when using it on cooldown later in the fight. This serves as a buffer for faster phase killtimes to ensure you don’t experience problematic alignment later into the fight (i.e. de-syncing in P5).
-
-You can also do a back-to-back Acceleration and Swiftcast after Resolution in the modified Manafic rush opener for more damage and another guaranteed proc, but saving the Swiftcast can also be useful for a quick Verraise if someone dies before Strength of the Ward.
-
-Note that for Manafic rush, you should press Manafic on cooldown during Sanctity when the boss is not targetable. The 5% self buff will be wasted, but the DPS gain of an extra usage in Eyes phase more than compensates for it if your group wants additional damage there.
+The standard opener is similar to our general purpose one, but due to the short phase, using the potion early is advised to catch the early Fleche, and also benefit from the full 30 seconds of the potion buff.
 
 ## Strength into Sanctity
 
-There is a short phase of uptime between the first two trio mechanics of this fight. If doing an aligned two-minute rotation, you can just Dualcast through this whole phase and double melee combo into buffs later. If doing Manafic rush, you have to do a full or partial melee combo (full combo recommended) to avoid overcapping during Sanctity.
+There is a short phase of uptime between the first two trio mechanics of this fight. You should be able to simply Dualcast through this whole phase and place a double melee combo into buffs later, but if your damage is high and you want to hold for a later killtime, you may decide to spend a combo here instead, or even hold your finishers from the second combo into P3.
 
 If auto boss targeting settings are enabled, you can clip your first and last Contre Sixte of this phase (i.e. use it at the start before your first Dualcasted GCD) to squeeze out an additional use, then still get a final GCD off.
 
-**Example of Contre Sixte clipping for a two-minute aligned Manafication timeline (no combo):**
+**Example of Contre Sixte clipping with no combo:**
 
 ![](/img/rdmdsrimage2.png)
 
@@ -173,7 +151,7 @@ This phase has the first “challenging” DPS check in the raid. It is a full u
 
 ## Uptime for Towers
 
-You can use your first melee combo (second one if Manafic rushing) for movement for the first set of towers.
+You can use your first melee combo for movement for the first set of towers.
 
 Unless you are adjusting for the enumeration towers, the best use of sprint in this phase is if you are marked one south (thus soaking the third south tower), and you get an “out first” Gnash and Lash pattern.
 
@@ -185,19 +163,13 @@ If you have the “look away” tower (either Elusive Jump or Spineshatter Dive,
 
 ## Potion Window
 
-During and after Enumeration towers, we either do a standard triple melee combo for aligned two-minute Manafic, or a partially buffed double combo if rushing Manafic. In either scenario, you should start your first combo any time during the Drachenlance cast before the Enumeration towers appear. This will allow you to use your melee combo finishers to bait the clone and move out, or even move to another tower if needed (if you are one of the adjusting players)
+During and after Enumeration towers, we can do a standard triple melee combo for our two-minute window with Manafic. You should start your first combo any time during the Drachenlance cast before the Enumeration towers appear. This will allow you to use your melee combo finishers to bait the clone and move out, or even move to another tower if needed (if you are one of the adjusting players). 
 
-## Aligned Two-Minute Manafic Example
+## Example Potion Window
 
 ![](/img/rdmdsrimage5.png)
 
 For this approach, you would aim for a clean triple melee combo. Note that it may not always be possible for the triple combo to be perfectly aligned with raid buffs, as buff timings can vary based on the group or even P2 killtime. What’s important is getting three sets of finishers under potion, and at least a partial double combo under raid buffs.
-
-## Manafic Rush Example
-
-![](/img/rdmdsrimage1.png)
-
-When Manafic rushing, trying to get a perfectly clean double melee combo under buffs may lead to overcapping. So we generally adopt a “compromise” solution that allows for clean movement, one full melee combo under raid buffs, and two sets of finishers under potion. Although the potion is used early, keep in mind that the potion buff duration is 30 seconds, while most raid buffs are 15 to 20. This means that even if used before the buff window, it is possible to have two-thirds of your potion window be fully in sync with raid buffs.
 
 ## Other Notes on this Burst Window
 
@@ -223,7 +195,7 @@ After the potion window is complete, try to save at least one charge of Accelera
 
 Optimization and uptime in this phase revolves almost entirely around using Resolution to cleave both eyes, and managing your Mirage Dive movements with Acceleration or Swiftcast where required.
 
-Assuming you did four melee combos in P3, you will get one melee combo at the start of the phase (two if rushing Manafic), and another one near the end. If you do a partial combo at the end of the phase, it will carry on to the next phase without dropping off, and you will be able to complete the combo on Charibert.
+Assuming you did four melee combos in P3, you will get one melee combo at the start of the phase and another one near the end. If you do a partial combo at the end of the phase, it will carry on to the next phase without dropping off, and you will be able to complete the combo on Charibert.
 
 ## Resolution Cleave
 
@@ -238,12 +210,6 @@ In this phase, the DPS check on Charibert is more forgiving than the one for the
 If you do not wish to overcap on your movement oGCDs, you can use one charge of each as a compromise. Also note that holding your second Fleche for the spear will generally not lose you a use in P5 due to the phase transition duration.
 
 ![](/img/rdmdsrimage10.png)
-
-**Note if Rushing Manafication:**
-
-Depending on your strat and previous phase kill times, Manafication may come off of cooldown as you have to move out to drop your puddle. In this scenario, just press it anyway and use stacks on spells if needed until you’re back in melee range. 
-
-The key is to keep the Manafication cooldown going, and once Charibert is below 29.9% HP, any additional damage on him doesn’t matter at all. Be sure to prepare a Dualcast with Vercure once the spear is destroyed if needed to ensure you open the next phase on an instant cast.
 
 # Phase Five: Thordan II
 
@@ -265,9 +231,9 @@ Wrath of the Heavens is easier to recover than P2 trios, and you have more time 
 
 ## Pre-Death of the Heavens
 
-The standard approach here is to have a Dualcast ready from Vercure in downtime, then executing a double melee combo under raid buffs. You want to get two Fleche uses here. Two Contre Sixte uses are possible, but needs to be used in the same way as P2, and is more of a niche optimization. Note that if doing the Manafic rush rotation, your Manafic should come up for your second combo.
+The standard approach here is to have a Dualcast ready from Vercure in downtime, then executing a double melee combo under raid buffs. You want to get two Fleche uses here. Two Contre Sixte uses are possible, but needs to be used in the same way as P2, and is more of a niche optimization. 
 
-**Example reopener (Manafic rushing, no double Contre Sixte optimization):**
+**Example reopener (no double Contre Sixte optimization):**
 
 ![](/img/rdmdsrimage8.png)
 
@@ -325,9 +291,7 @@ This phase is full uptime with only a moderate amount of movement planning requi
 
 ## Auto-Attack Timing and Magick Barrier
 
-It can be good for us to take the second boss auto-attack after Exaflares. The reason for this is because it naturally places us underneath the boss to cast Magick Barrier before the next Akh Morn mechanic, ensuring it reaches everyone and covers every Akh Morn hit. Use it as the boss places the towers down, his swords light up, and you move to your group stack. 
-
-While this logic could apply to anyone who casts an AoE mitigation for Akh Morn, there is additional value for us due to our more limited movement, i.e. a physical ranged or MNK (Mantra) can dip in quickly and throw out their mitigation without uptime or timing concerns.
+After the increases to party buff range in 6.4, there is no real advantage to us taking any given auto attack in this phase. Therefore, you should be prepared to take whichever auto is assigned based on your role position. Ranged DPS typically take an auto after each Akh Morn's Edge, and as the most common position for caster is R2/D4, you should expect to take the second auto of that set, unless your group decides otherwise.
 
 ## Movement, Potions and Combos: Gigaflare 1 / Akh Morn 3 Buff Timings
 
@@ -358,17 +322,9 @@ Congratulations!
 
 # Clear PoVs
 
-## Aligned Manafication
-
 God Okonkwo: <https://bit.ly/3xTno97> \
 \
-Lana White: <https://bit.ly/3DSW7Yo> 
-
-## Manafication Rush
-
-Laille Ormesaing: <https://bit.ly/3Rgih9Q>
-
-Mazz Maryoku: <https://bit.ly/3UDd2nG>
+Lana White: <https://bit.ly/3DSW7Yo>
 
 # Credits
 
