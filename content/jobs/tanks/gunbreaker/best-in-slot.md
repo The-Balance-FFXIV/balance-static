@@ -35,12 +35,12 @@ bis:
   - type: plain-text
     name: Ultimates
     description: |
-      FRU: https://xivgear.app/#/bis/gnb/ultimates/fru
-      </br>TOP: https://xivgear.app/#/bis/gnb/ultimates/top
-      </br>DSR: https://xivgear.app/#/bis/gnb/ultimates/dsr
-      </br>TEA: https://xivgear.app/#/bis/gnb/ultimates/tea
-      </br>UWU: https://xivgear.app/#/bis/gnb/ultimates/uwu
-      </br>UCOB: https://xivgear.app/#/bis/gnb/ultimates/ucob
+      FRU: https://xivgear.app/#/bis/gnb/ultimate/fru
+      </br>TOP: https://xivgear.app/#/bis/gnb/ultimate/top
+      </br>DSR: https://xivgear.app/#/bis/gnb/ultimate/dsr
+      </br>TEA: https://xivgear.app/#/bis/gnb/ultimate/tea
+      </br>UWU: https://xivgear.app/#/bis/gnb/ultimate/uwu
+      </br>UCOB: https://xivgear.app/#/bis/gnb/ultimate/ucob
 authors:
   - Balance-GNB-Staff
 tags: []
