@@ -6,15 +6,15 @@ authors:
   - lemoncobra
   - nmemories
   - Balance-RDM-Staff
-patch: "6.55"
-lastmod: 2024-01-25T13:45:06.583Z
+patch: "7.31"
+lastmod: 2025-09-26T16:57:23.956Z
 changelog:
   - date: 2024-01-25T14:10:53.134Z
     message: Created page
 ---
 # Introduction
 
-Due to damage scaling in Endwalker and the potential for using fully synced gear, DPS checks in The Epic of Alexander are, on the whole, not extremely tight. Your primary concern for DPS will be the Trio Enrage at the end of Alexander Prime, but with fully synced gear options, phase DPS checks are fairly lenient.
+Due to damage scaling in Endwalker/Dawntrail and the potential for using fully synced gear, DPS checks in The Epic of Alexander are, on the whole, not extremely tight. Your primary concern for DPS will be the Trio Enrage at the end of Alexander Prime, but with fully synced gear options, phase DPS checks are fairly lenient.
 
 At level 80, you can fit two full melee combos under Embolden, and this should be your goal whenever possible. There can be some variance in phase kill timings, but if your Manafication is aligned with your buffs, you should always be able to get double a melee combo under each Embolden after the opener.
 
@@ -84,6 +84,8 @@ That said, from an optimization perspective, there can still be an overall damag
 However, the main challenge of rushing Manafication is how things change depending on P1 and P2 killtimes, with a risk of major overcapping (hence nullifying the benefits). In general, when rushing Manafication, it should re-align with raid buffs in P3, and you should be able to avoid overcap. However, if your P1 and P2 killtimes are too fast, you will end up with Manafication coming off cooldown when the boss is untargetable during Inception, resulting in significant overcap.
 
 Too fast is generally defined as **killing LL before the Protean 2 set of mechanics resolves, and killing BJ/CC around or before Double Rocket Punch**. In this scenario, it is not worth rushing Manafication.
+
+As of Dawntrail, you will need to be able to activate Manafication and spend the three melee hits before Living Liquid dies. You may need to adjust your opener to place Manafication earlier in order to accomplish this. Thankfully, with the changes to potion animation lock, you can easily weave Manafication in the potion weave window.
 
 ### Manafic rush timings
 
@@ -172,7 +174,7 @@ Another potential use is during Protean 1 or Protean 2, if your group’s healin
 
 ## Further Optimization
 
-There is an alternate opener that can be used by players who have low enough ping to double weave with their potion and assumes a GCD speed of 2.50. However, this opener uses both Swiftcast and Acceleration, and as such also offsets your Dualcast window for the entire phase, which changes the movement requirements for this phase.
+There is an alternate opener that assumes a GCD speed of 2.50. However, this opener uses both Swiftcast and Acceleration, and as such also offsets your Dualcast window for the entire phase, which changes the movement requirements for this phase.
 
 ![5 seconds prepull Veraero. Verthunder, weave Corps-a-Corps and Contre Sixte. Jolt 2 or proc. Veraero or Verthunder, weave Embolden and potion. Jolt 2 or proc. Veraero or Verthunder, weave Fleche and Swiftcast. Veraero or Verthunder, weave Manafication and Engagement. Enchanted Riposte, weave Corps-a-Corps. Enchanted Zwerchhau, weave Engagement. Enchanted Redoublement. Verflare or Verholy. Scorch. Proc. Verthunder, Veraero, or Impact. Jolt 2 or proc. Verthunder, Veraero, or Impact, weave Acceleration. Impact, weave Fleche and Contre Sixte.](/img/rdmtea3.png "The Epic of Alexander Pot Double Weave Opener")
 
