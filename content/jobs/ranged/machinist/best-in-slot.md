@@ -34,11 +34,11 @@ bis:
 
 
       Master sheet with all options can be found [here](https://xivgear.app/?page=sl%7C29b58122-8c79-4c92-8569-2aac404fe861). 
-  - type: xivgear
+  - type: etro
     description: The relic is the Manderville 645/665 Relic with "CRIT + DET > DH".
       Gloves/Boots can be obtained from the dungeon (Lunar Subterrane).
     name: TOP Best-in-Slot 2.5 GCD
-    link: https://xivgear.app/?page=embed%7Csl%7C09134793-0de2-45de-9743-270f076f3e16
+    link: https://etro.gg/gearset/b9cc3220-50f6-412a-a0dc-cf37899c4abe
   - type: xivgear
     description: Relic is 665/645 Manderville. Prio is CRIT + DET > DH. Left side
       and ring can be used with any 725+ pieces, as long as they share the same
