@@ -32,7 +32,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[189 295 135 408 94 375]" src="https://xivapi.com/i/003000/003451_hr1.png" onclick="openModal(this.id)" alt="Cascade" /&gt;
+ &lt;img id="[375 399 377 446 172 326]" src="https://xivapi.com/i/003000/003451_hr1.png" onclick="openModal(this.id)" alt="Cascade" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Cascade&lt;/td&gt;
@@ -45,7 +45,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[49 463 225 238 430 119]" src="https://xivapi.com/i/003000/003452_hr1.png" onclick="openModal(this.id)" alt="Fountain" /&gt;
+ &lt;img id="[424 487 218 134 327 93]" src="https://xivapi.com/i/003000/003452_hr1.png" onclick="openModal(this.id)" alt="Fountain" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fountain&lt;/td&gt;
@@ -58,7 +58,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[104 469 383 451 418 111]" src="https://xivapi.com/i/003000/003453_hr1.png" onclick="openModal(this.id)" alt="Windmill" /&gt;
+ &lt;img id="[464 438 300 224 466 180]" src="https://xivapi.com/i/003000/003453_hr1.png" onclick="openModal(this.id)" alt="Windmill" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Windmill&lt;/td&gt;
@@ -71,7 +71,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[267 340 375 469 388 26]" src="https://xivapi.com/i/003000/003454_hr1.png" onclick="openModal(this.id)" alt="Standard Step" /&gt;
+ &lt;img id="[76 172 412 282 105 20]" src="https://xivapi.com/i/003000/003454_hr1.png" onclick="openModal(this.id)" alt="Standard Step" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Standard Step&lt;/td&gt;
@@ -84,7 +84,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[321 104 87 377 95 357]" src="https://xivapi.com/i/003000/003459_hr1.png" onclick="openModal(this.id)" alt="Standard Finish" /&gt;
+ &lt;img id="[290 377 304 497 190 241]" src="https://xivapi.com/i/003000/003459_hr1.png" onclick="openModal(this.id)" alt="Standard Finish" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Standard Finish&lt;/td&gt;
@@ -97,7 +97,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[83 296 420 41 478 373]" src="https://xivapi.com/i/003000/003460_hr1.png" onclick="openModal(this.id)" alt="Reverse Cascade" /&gt;
+ &lt;img id="[105 324 149 220 259 283]" src="https://xivapi.com/i/003000/003460_hr1.png" onclick="openModal(this.id)" alt="Reverse Cascade" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Reverse Cascade&lt;/td&gt;
@@ -110,7 +110,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[15 320 372 90 285 65]" src="https://xivapi.com/i/003000/003461_hr1.png" onclick="openModal(this.id)" alt="Bladeshower" /&gt;
+ &lt;img id="[384 224 318 488 431 338]" src="https://xivapi.com/i/003000/003461_hr1.png" onclick="openModal(this.id)" alt="Bladeshower" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Bladeshower&lt;/td&gt;
@@ -123,7 +123,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[344 230 321 362 54 13]" src="https://xivapi.com/i/003000/003462_hr1.png" onclick="openModal(this.id)" alt="Fan Dance" /&gt;
+ &lt;img id="[402 56 81 15 3 473]" src="https://xivapi.com/i/003000/003462_hr1.png" onclick="openModal(this.id)" alt="Fan Dance" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fan Dance&lt;/td&gt;
@@ -136,7 +136,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[181 486 10 192 116 480]" src="https://xivapi.com/i/003000/003463_hr1.png" onclick="openModal(this.id)" alt="Rising Windmill" /&gt;
+ &lt;img id="[22 421 251 368 142 109]" src="https://xivapi.com/i/003000/003463_hr1.png" onclick="openModal(this.id)" alt="Rising Windmill" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Rising Windmill&lt;/td&gt;
@@ -149,7 +149,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[313 52 186 165 346 409]" src="https://xivapi.com/i/003000/003464_hr1.png" onclick="openModal(this.id)" alt="Fountainfall" /&gt;
+ &lt;img id="[176 186 102 132 243 274]" src="https://xivapi.com/i/003000/003464_hr1.png" onclick="openModal(this.id)" alt="Fountainfall" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fountainfall&lt;/td&gt;
@@ -162,7 +162,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[113 339 452 467 184 28]" src="https://xivapi.com/i/003000/003465_hr1.png" onclick="openModal(this.id)" alt="Bloodshower" /&gt;
+ &lt;img id="[213 379 292 209 341 242]" src="https://xivapi.com/i/003000/003465_hr1.png" onclick="openModal(this.id)" alt="Bloodshower" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Bloodshower&lt;/td&gt;
@@ -175,7 +175,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[52 198 464 134 292 411]" src="https://xivapi.com/i/003000/003466_hr1.png" onclick="openModal(this.id)" alt="Fan Dance II" /&gt;
+ &lt;img id="[497 275 340 365 87 6]" src="https://xivapi.com/i/003000/003466_hr1.png" onclick="openModal(this.id)" alt="Fan Dance II" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fan Dance II&lt;/td&gt;
@@ -188,7 +188,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[65 243 143 201 245 275]" src="https://xivapi.com/i/003000/003467_hr1.png" onclick="openModal(this.id)" alt="En Avant" /&gt;
+ &lt;img id="[52 408 370 229 214 478]" src="https://xivapi.com/i/003000/003467_hr1.png" onclick="openModal(this.id)" alt="En Avant" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;En Avant&lt;/td&gt;
@@ -201,7 +201,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[260 291 304 393 64 76]" src="https://xivapi.com/i/003000/003468_hr1.png" onclick="openModal(this.id)" alt="Curing Waltz" /&gt;
+ &lt;img id="[299 366 161 377 419 360]" src="https://xivapi.com/i/003000/003468_hr1.png" onclick="openModal(this.id)" alt="Curing Waltz" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Curing Waltz&lt;/td&gt;
@@ -214,7 +214,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[330 159 101 204 266 261]" src="https://xivapi.com/i/003000/003469_hr1.png" onclick="openModal(this.id)" alt="Shield Samba" /&gt;
+ &lt;img id="[478 262 45 184 360 169]" src="https://xivapi.com/i/003000/003469_hr1.png" onclick="openModal(this.id)" alt="Shield Samba" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Shield Samba&lt;/td&gt;
@@ -227,7 +227,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[329 200 99 28 228 9]" src="https://xivapi.com/i/003000/003470_hr1.png" onclick="openModal(this.id)" alt="Closed Position" /&gt;
+ &lt;img id="[315 91 222 450 490 389]" src="https://xivapi.com/i/003000/003470_hr1.png" onclick="openModal(this.id)" alt="Closed Position" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Closed Position&lt;/td&gt;
@@ -249,7 +249,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[379 469 399 202 494 211]" src="https://xivapi.com/i/003000/003478_hr1.png" onclick="openModal(this.id)" alt="Ending" /&gt;
+ &lt;img id="[498 378 445 142 14 214]" src="https://xivapi.com/i/003000/003478_hr1.png" onclick="openModal(this.id)" alt="Ending" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Ending&lt;/td&gt;
@@ -262,7 +262,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[303 112 232 347 73 396]" src="https://xivapi.com/i/003000/003471_hr1.png" onclick="openModal(this.id)" alt="Devilment" /&gt;
+ &lt;img id="[463 277 99 476 291 287]" src="https://xivapi.com/i/003000/003471_hr1.png" onclick="openModal(this.id)" alt="Devilment" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Devilment&lt;/td&gt;
@@ -275,7 +275,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[293 320 277 311 433 145]" src="https://xivapi.com/i/003000/003472_hr1.png" onclick="openModal(this.id)" alt="Fan Dance III" /&gt;
+ &lt;img id="[341 8 15 442 477 39]" src="https://xivapi.com/i/003000/003472_hr1.png" onclick="openModal(this.id)" alt="Fan Dance III" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fan Dance III&lt;/td&gt;
@@ -288,7 +288,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[313 221 325 203 385 49]" src="https://xivapi.com/i/003000/003473_hr1.png" onclick="openModal(this.id)" alt="Technical Step" /&gt;
+ &lt;img id="[122 231 60 383 326 446]" src="https://xivapi.com/i/003000/003473_hr1.png" onclick="openModal(this.id)" alt="Technical Step" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Technical Step&lt;/td&gt;
@@ -301,7 +301,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[197 242 164 383 55 296]" src="https://xivapi.com/i/003000/003474_hr1.png" onclick="openModal(this.id)" alt="Technical Finish" /&gt;
+ &lt;img id="[334 154 94 54 43 272]" src="https://xivapi.com/i/003000/003474_hr1.png" onclick="openModal(this.id)" alt="Technical Finish" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Technical Finish&lt;/td&gt;
@@ -314,7 +314,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[267 381 418 152 344 420]" src="https://xivapi.com/i/003000/003475_hr1.png" onclick="openModal(this.id)" alt="Flourish" /&gt;
+ &lt;img id="[489 251 236 398 300 110]" src="https://xivapi.com/i/003000/003475_hr1.png" onclick="openModal(this.id)" alt="Flourish" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Flourish&lt;/td&gt;
@@ -327,7 +327,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[22 150 1 307 471 155]" src="https://xivapi.com/i/003000/003476_hr1.png" onclick="openModal(this.id)" alt="Saber Dance" /&gt;
+ &lt;img id="[5 330 199 135 151 457]" src="https://xivapi.com/i/003000/003476_hr1.png" onclick="openModal(this.id)" alt="Saber Dance" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Saber Dance&lt;/td&gt;
@@ -340,7 +340,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[96 46 326 245 374 238]" src="https://xivapi.com/i/003000/003477_hr1.png" onclick="openModal(this.id)" alt="Improvisation" /&gt;
+ &lt;img id="[479 438 441 174 125 309]" src="https://xivapi.com/i/003000/003477_hr1.png" onclick="openModal(this.id)" alt="Improvisation" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Improvisation&lt;/td&gt;
@@ -353,7 +353,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[381 213 433 471 199 145]" src="https://xivapi.com/i/003000/003479_hr1.png" onclick="openModal(this.id)" alt="Improvised Finish" /&gt;
+ &lt;img id="[363 183 248 369 200 9]" src="https://xivapi.com/i/003000/003479_hr1.png" onclick="openModal(this.id)" alt="Improvised Finish" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Improvised Finish&lt;/td&gt;
@@ -366,7 +366,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[57 483 171 312 237 124]" src="https://xivapi.com/i/003000/003480_hr1.png" onclick="openModal(this.id)" alt="Tillana" /&gt;
+ &lt;img id="[215 164 350 69 325 274]" src="https://xivapi.com/i/003000/003480_hr1.png" onclick="openModal(this.id)" alt="Tillana" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Tillana&lt;/td&gt;
@@ -379,7 +379,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[253 321 466 476 149 277]" src="https://xivapi.com/i/003000/003481_hr1.png" onclick="openModal(this.id)" alt="Fan Dance IV" /&gt;
+ &lt;img id="[189 66 281 295 332 43]" src="https://xivapi.com/i/003000/003481_hr1.png" onclick="openModal(this.id)" alt="Fan Dance IV" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fan Dance IV&lt;/td&gt;
@@ -392,7 +392,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[156 326 340 43 389 191]" src="https://xivapi.com/i/003000/003482_hr1.png" onclick="openModal(this.id)" alt="Starfall Dance" /&gt;
+ &lt;img id="[236 479 444 267 393 307]" src="https://xivapi.com/i/003000/003482_hr1.png" onclick="openModal(this.id)" alt="Starfall Dance" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Starfall Dance&lt;/td&gt;
@@ -405,7 +405,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[143 271 495 221 334 258]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003483_hr1.tex?format=png" onclick="openModal(this.id)" alt="Last Dance" /&gt;
+ &lt;img id="[320 295 317 203 219 71]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003483_hr1.tex?format=png" onclick="openModal(this.id)" alt="Last Dance" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Last Dance&lt;/td&gt;
@@ -418,7 +418,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[303 379 149 79 400 3]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003484_hr1.tex?format=png" onclick="openModal(this.id)" alt="Finishing Move" /&gt;
+ &lt;img id="[496 423 420 32 90 392]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003484_hr1.tex?format=png" onclick="openModal(this.id)" alt="Finishing Move" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Finishing Move&lt;/td&gt;
@@ -431,7 +431,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[178 344 74 22 73 70]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003485_hr1.tex?format=png" onclick="openModal(this.id)" alt="Dance of the Dawn" /&gt;
+ &lt;img id="[373 402 354 71 198 442]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003485_hr1.tex?format=png" onclick="openModal(this.id)" alt="Dance of the Dawn" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Dance of the Dawn&lt;/td&gt;
@@ -469,7 +469,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[500 340 360 80 355 313]" src="https://xivapi.com/i/003000/003455_hr1.png" onclick="openModal(this.id)" alt="Emboite" /&gt;
+ &lt;img id="[207 86 141 405 41 230]" src="https://xivapi.com/i/003000/003455_hr1.png" onclick="openModal(this.id)" alt="Emboite" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Emboite&lt;/td&gt;
@@ -482,7 +482,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[339 430 51 326 203 358]" src="https://xivapi.com/i/003000/003456_hr1.png" onclick="openModal(this.id)" alt="Entrechat" /&gt;
+ &lt;img id="[158 228 480 234 22 12]" src="https://xivapi.com/i/003000/003456_hr1.png" onclick="openModal(this.id)" alt="Entrechat" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Entrechat&lt;/td&gt;
@@ -495,7 +495,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[362 418 267 387 449 366]" src="https://xivapi.com/i/003000/003457_hr1.png" onclick="openModal(this.id)" alt="Jete" /&gt;
+ &lt;img id="[384 137 138 266 263 89]" src="https://xivapi.com/i/003000/003457_hr1.png" onclick="openModal(this.id)" alt="Jete" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Jete&lt;/td&gt;
@@ -508,7 +508,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[332 282 384 375 355 70]" src="https://xivapi.com/i/003000/003458_hr1.png" onclick="openModal(this.id)" alt="Pirouette" /&gt;
+ &lt;img id="[241 10 390 119 194 325]" src="https://xivapi.com/i/003000/003458_hr1.png" onclick="openModal(this.id)" alt="Pirouette" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Pirouette&lt;/td&gt;
@@ -537,7 +537,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[236 482 110 485 402 344]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="Leg Graze" /&gt;
+ &lt;img id="[76 27 29 211 155 341]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="Leg Graze" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Leg Graze&lt;/td&gt;
@@ -550,7 +550,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[341 68 338 180 266 409]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" /&gt;
+ &lt;img id="[392 415 388 115 149 341]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Second Wind&lt;/td&gt;
@@ -563,7 +563,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[108 245 227 377 451 37]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="Foot Graze" /&gt;
+ &lt;img id="[406 436 81 240 428 37]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="Foot Graze" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Foot Graze&lt;/td&gt;
@@ -576,7 +576,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[471 13 364 179 48 257]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="Peloton" /&gt;
+ &lt;img id="[391 342 308 85 200 338]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="Peloton" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Peloton&lt;/td&gt;
@@ -589,7 +589,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[228 47 180 372 96 319]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="Head Graze" /&gt;
+ &lt;img id="[288 286 185 127 488 455]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="Head Graze" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Head Graze&lt;/td&gt;
@@ -602,7 +602,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[441 185 376 259 306 357]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" /&gt;
+ &lt;img id="[41 314 303 255 162 414]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Arm&amp;rsquo;s Length&lt;/td&gt;
@@ -626,7 +626,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
 &lt;p&gt;Dancer, alongside Bard and Machinist, is one of the three physical ranged DPS. Dancers focus on providing sizable damage buffs to the party through a big two-minute raid buff and a single target buff to one party member of their choice. Like other physical ranged DPS jobs, Dancer’s skills are instantly cast, and thus allow for nearly unrestricted movement.&lt;/p&gt;</description></item><item><title>Recent Changes</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/job-changes/</link><pubDate>Tue, 01 Apr 2025 01:31:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/job-changes/</guid><description/></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/openers/</link><pubDate>Mon, 05 Aug 2024 14:08:20 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/openers/</guid><description>&lt;h1 id="infographic"&gt;INFOGRAPHIC&lt;/h1&gt;
 &lt;p&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[115 462 433 490 221 253]" src="https://www.thebalanceffxiv.com/img/jobs/dnc/dt_dnc_opener_full.png" onclick="openModal(this.id)" alt="DNC Opener" title="DNC Opener" /&gt;
+ &lt;img id="[211 106 437 389 277 393]" src="https://www.thebalanceffxiv.com/img/jobs/dnc/dt_dnc_opener_full.png" onclick="openModal(this.id)" alt="DNC Opener" title="DNC Opener" /&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://imgur.com/a/sJjW3ve"&gt;Full Size&lt;/a&gt;&lt;/p&gt;
