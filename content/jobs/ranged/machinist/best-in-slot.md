@@ -24,7 +24,7 @@ bis:
     link: https://etro.gg/gearset/77e7913d-3fab-47af-b1ad-e148ca4da205
   - type: xivgear
     name: FRU Best-in-Slot 2.5 GCD
-    link: https://xivgear.app/?page=embed%7Csl%7C70a7b7f6-f09d-40f0-be34-ee7a27db22fa
+    link: https://xivgear.app/?page=embed|sl|29b58122-8c79-4c92-8569-2aac404fe861&onlySetIndex=0
     description: >-
       Relic is better than Savage Weapon, dmg/100p is not an accurate stat for
       machinist. 
@@ -33,7 +33,7 @@ bis:
       Ultimate Weapon > Relic > Savage
 
 
-      Master sheet with all options can be found [here](https://xivgear.app/?page=sl%7C29b58122-8c79-4c92-8569-2aac404fe861). 
+      Master sheet with all options can be found [here](https://xivgear.app/?page=sl%7C29b58122-8c79-4c92-8569-2aac404fe861) or opened by clicking the embed's full view button. 
   - type: etro
     description: The relic is the Manderville 645/665 Relic with "CRIT + DET > DH".
       Gloves/Boots can be obtained from the dungeon (Lunar Subterrane).
