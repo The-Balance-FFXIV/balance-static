@@ -2,7 +2,7 @@
 title: Best in Slot (BiS)
 layout: bis
 patch: "7.3"
-lastmod: 2025-08-06T01:39:28.594Z
+lastmod: 2025-10-06T07:28:11.427Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -30,29 +30,31 @@ changelog:
     message: Updated for 7.2
   - date: 2025-08-05T15:50:42.641Z
     message: Updated for 7.3
+  - date: 2025-10-06T07:28:05.978Z
+    message: Updated links for 2.14, 2.08, all ultimates and added Criterion
 bis:
   - type: xivgear
     description: Classic "Slow SAM". Highest DPS, easiest weaving.
-    link: https://xivgear.app/?page=embed%7Csl%7Cf7ebd9ed-ba02-4a45-bd9f-e73a945f22ef
+    link: https://xivgear.app/?page=embed|bis|sam|current&onlySetIndex=0
     name: 2.14 Savage BiS
   - type: xivgear
-    description: The 2.08 set has a small hit in DPS in exchange for an easier
+    description: The 2.08 set has a small hit in DPS in exchange for a simpler
       looping rotation in full uptime.
     name: 2.08 Savage BiS
-    link: https://xivgear.app/?page=embed%7Csl%7Ceb5a0c32-362b-401a-a2a7-cd3ea1178184
+    link: https://xivgear.app/?page=embed|bis|sam|current&onlySetIndex=1
   - type: genericlink
-    name: Occult Crescent BiS
+    name: Occult Crescent
     link: https://xivgear.app/?page=sl%7Ceb4f1732-a191-4515-b0d9-0a032953551a
   - type: plain-text
     description: >-
-      Sets for these fights are community-sourced through use of XIVGear. In the
-      case of UCOB, UWU, TEA and DSR, you do not NEED those sets to clear -
-      they're mostly to squeeze out the most damage possible. Special thanks to
-      Niche, Lars and Boxer for helping with making these.
+      Sets for these fights are community-sourced through use of XivGear. 
 
 
-      [UCoB](https://xivgear.app/?page=sl%7C63158492-857f-4656-a067-c9294c341606) | [UWU](https://xivgear.app/?page=sl%7C41ebbdad-484c-4a6e-a146-4e187a322ea9) | [TEA](https://xivgear.app/?page=sl%7Cd28b5387-785e-4b7f-a85c-ebe3bcd8a0c3) | [DSR](https://xivgear.app/?page=sl%7Ce1869fb8-be98-41da-baf5-f27d2b94472a) | [TOP](https://xivgear.app/?page=sl%7C3b86e3ce-871e-4f27-9354-ab98dba835dc) | [FRU](https://xivgear.app/?page=sl%7Cdf3e45d1-55d1-4bf9-a378-556f3685621e)
-    name: 'Ultimate/Unreal Sync "BiS" Sets:'
+      [UCoB](https://xivgear.app/?page=bis|sam|ultimate|ucob) | [UWU](https://xivgear.app/?page=bis|sam|ultimate|uwu) | [TEA](https://xivgear.app/?page=bis|sam|ultimate|tea) | [DSR](https://xivgear.app/?page=bis|sam|ultimate|dsr) | [TOP](https://xivgear.app/?page=bis|sam|ultimate|top) | [FRU](https://xivgear.app/?page=bis|sam|ultimate|fru)
+
+
+      [Mount Rokkon / Aloalo Island](https://xivgear.app/?page=bis|sam|criterion|aloalo)
+    name: 'Ultimate/Criterion Sync "BiS" Sets:'
     link: ""
 authors:
   - Balance-SAM-Staff
