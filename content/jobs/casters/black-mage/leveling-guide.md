@@ -40,13 +40,13 @@ Umbral Soul should be used during downtime when you do not have a target to get 
 
 At level 60, Fire IV becomes the main MP spender in Astral Fire.
 
-**Blizzard III > Blizzard IV -> Fire III -> Fire IV x6 > repeat**
+**Blizzard III > Blizzard IV -> Fire III -> Fire IV x7 > repeat**
 
 At 70-79, use Foul whenever. It does not have a set place in the rotation, is not affected by Astral Fire/Umbral Ice, and should be used/not let overcap as it is a strong spell.
 
 ## Levels 72-89
 
-**Blizzard III > Blizzard IV > Fire III > Fire IV x6 > Despair > repeat**
+**Blizzard III > Blizzard IV > Fire III > Fire IV x7 > Despair > repeat**
 
 Foul should be used similarly as before, replaced by Xenoglossy in single-target at level 80+. Xenoglossy provides additional utility since it is instant-cast and can also be used for movement/weaving as needed, as well as improved single-target damage over Foul.
 
