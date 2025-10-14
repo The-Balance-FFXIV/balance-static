@@ -1,5 +1,6 @@
 ---
 title: The Omega Protocol (Ultimate) DRK Guide
+card_header_image: /img/drk_fight_tips.png
 authors:
   - apileofcats
   - violet-stardust
