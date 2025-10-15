@@ -55,15 +55,13 @@ If you opt to use invuln for the tankbusters during this phase (which almost eve
 
 For most of this phase, you'll only be able to damage one of the clones, either Omega-M or Omega-F, due to the Firewall debuff. There are two times this isn't the case is at the very start of the phase, and after Limitless Synergy at the end of the phase. This means we can do some optimization of our opener for AoE cleaving.
 
-First off, we want to make sure to use **Living Shadow** just as the Phase One boss dies, so that the leading **Abyssal Drain** that Esteem does hits both bosses. You can also hit **Delirium** here, too.
+First off, we want to make sure to use **Living Shadow** as soon as the Phase One boss dies, and no later, so that the leading **Abyssal Drain** that Esteem does hits both bosses. You should also hit **Rampart** and **Delirium** here, too. **Rampart**, as mentioned above, is used here so that it's up for the second tankbuster of the phase, and **Delirium** because there's no reason to hold it.
 
-Second, we can make sure to dump both of our **Shadowbringer** charges immediately, in the middle of our first two GCDs.
+Second, we make sure to dump both of our **Shadowbringer** charges immediately, in the middle of our first two GCDs. Despite the one second cooldown, this will be more than fine to do without clipping your GCD. You won't need to angle your **Shadowbringer** speciallky or anything like that, it should just cleave automatically.
 
 Thirdly, if you finished Phase One with **Souleater** (i.e. have no active combo going into the phase), it is a gain to start the phase with **Unleash** and **Stalwart Soul** as your first two GCDs. If you didn't finish on a **Souleater**, you can just start with the **Bloodspillers** available to you from **Delirium** as your AoE combo won't be a gain.  With current killtimes, this is far from a big deal, so if you want to just keep your opener consistent, you just open with **Bloodspillers** each time.
 
-It is also possible to hold your second **Salted Earth** in the phase to the end, to drop it in the center of the arena with a slow Phase One killtime so that you have a **Salt and Darkness** for the two bosses, but that may be tricky for faster killtimes. You won't need to angle your **Shadowbringer** special or anything like that, it should just cleave automatically.
-
-In either case, make sure you **Rampart**ed as the beetle died, and use **Delirium** to open up the phase, irrespective of what your first two GCDs are.
+It is also possible to hold your second **Salted Earth** in Phase One to the end, to drop it in the center of the arena with a slow Phase One killtime so that you have a **Salt and Darkness** for the two bosses, but that may be tricky for faster killtimes, as you might not have time to place the **Salted Earth** after the tankbuster. 
 
 After Party Synergy, the bosses' enmity will be reversed, so it's common to **Provoke** the boss you are not currently tanking during the Party Synergy cast so that you'll remain tied to the one you're allowed to hit with Firewall.
 
