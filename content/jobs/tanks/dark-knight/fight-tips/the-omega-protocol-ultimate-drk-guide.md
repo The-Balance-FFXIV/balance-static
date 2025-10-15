@@ -5,11 +5,13 @@ authors:
   - apileofcats
   - violet-stardust
 patch: "7.3"
-lastmod: 2025-10-14T02:48:28.750Z
+lastmod: 2025-10-15T01:35:24.470Z
 visibility: public
 changelog:
   - date: 2025-10-14T02:50:08.625Z
     message: Guide initially published.
+  - date: 2025-10-15T01:35:26.620Z
+    message: Minor wording improvements.
 ---
 # Introduction
 
