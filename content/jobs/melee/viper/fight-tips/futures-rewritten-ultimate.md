@@ -3,8 +3,8 @@ title: Futures Rewritten (Ultimate) Viper Fight Guide
 card_header_image: /img/fruguide-thumbnail.png
 authors:
   - verra
-patch: "7.25"
-lastmod: 2025-05-29T18:47:45.971Z
+patch: "7.35"
+lastmod: 2025-10-19T18:04:49.703Z
 changelog:
   - date: 2025-02-24T06:17:28.033Z
     message: "Guide added to website. "
@@ -14,6 +14,9 @@ changelog:
     message: Updated gear set links for Patch 7.2.
   - date: 2025-05-29T23:07:32.798Z
     message: Updated master gearset link with new relic weapon set options.
+  - date: 2025-10-19T18:04:54.301Z
+    message: Rehosted images locally, added 7.35 gearing changes, and fixed markdown
+      table format.
 ---
 # Introduction
 
@@ -23,24 +26,45 @@ This guide contains information on how to plan and use your cooldowns to gain th
 
 - - -
 
-### Gearing - 2.10 v 2.12
+### Gearing - 2.09 v 2.10 v 2.12
 
-Viper performs well in FRU at the three standard GCD speeds: 2.10, 2.11, and 2.12. The average DPS difference between these sets are about equal, and any difference can be easily covered by good crit RNG. Which one you should choose ultimately comes down to preference.
+Patch 7.3 brought new 735 item level dungeon gear that forces a 2.09 GCD speed from the Chest piece. These pieces have more Dexterity than previous gear and therefore provide more damage. 2.09 and 2.10 perform the same rotation, while 2.12 performs a completely different and more difficult rotation.   
 
- \
-2.10 offers the most flexibility and is the easiest speed to perform well on. There are several sections in the fight that contain filler GCDs that offer a bit more breathing room and leniency when it comes to rotation performance. We recommend this set to those progging the fight in Party Finder, those who are newer to Viper and/or Ultimates, and for those who do not plan on progging the fight on NIN as the gear sets are incompatible.
+\
+2.09 and 2.10 offer the most flexibility and are the easiest speeds to perform well on. There are several sections in the fight that contain filler GCDs that offer a bit more breathing room and leniency when it comes to rotation performance. We recommend this set to those progging the fight in Party Finder, those who are newer to Viper and/or Ultimates, and for those who do not plan on progging the fight on NIN as the gear sets are incompatible.
 
-2.12 and 2.11 offer slightly more average damage in the first four phases, while evening out - or falling behind depending on rotation choices - in Phase 5. **These two skill speeds perform a different rotation than the 2.10 skill speed in order to do its optimal damage.** The main selling point of this speed is that it offers complete compatibility with the NIN gearset, allowing you to play both jobs without sacrificing melds. 
+
+
+2.12 offers slightly more average damage from the extra damaging substat tiers, but is much more strict in its rotation with less room for error. We recommend this set for experienced Vipers.
+
+
 
 ### Links
 
-Patch 7.2 brought new food and introduced new stat tiering. Additionally, Patch 7.25 also brought the new i745 relic weapon, which is a viable and slightly better alternative to the savage weapon. It is not better than the FRU weapon.
+Choose a gearset that suits your preference and what pieces you’re willing to farm. 
+
+
+
+If you do not wish to farm dungeon gear, the 7.25 Gearset link will have previous patches’ gearsets. Do note that these sets will on average do less damage and have less HP than the new 7.3 Best in Slot sets. 
+
+
 
 You can find each different set in the master link below:
 
-**[7.25 FRU Master Gearset Link](https://xivgear.app/?page=sl%7Cab821e3e-64bc-4045-912b-2a1c27cfefb8)**
+[7.3 FRU Master Gearset Link](https://xivgear.app/?page=sl%7C0467b8c4-5a7d-4c00-99fb-4e17907ea964)*\
+[7.25 FRU Master Gearset Link](https://xivgear.app/?page=sl%7Cab821e3e-64bc-4045-912b-2a1c27cfefb8)
 
-Note: 2.10 will remain the most comfy + consistent GCD speed, while 2.12 gains a bit more average damage while being much harder to pull off correctly.
+
+
+\*If you do not have the Occult Crescent Relic or FRU weapon, use the Savage Dark Horse weapon from M4S and copy your desired speed’s FRU weapon set. Meld it with:
+
+* 2.09 | 1 x DET , 1 x DH
+* 2.10 / 2.12 | 2 x DET
+
+**\
+Note: 2.09/2.10 will remain the most comfy + consistent GCD speed, while 2.12 gains a bit more average damage while being much harder to pull off correctly.**
+
+
 
 ## Limit Break Priority
 
@@ -112,13 +136,13 @@ Dual wield starter and finisher choices can be swapped.
 
 ### Opener
 
-![](https://i.imgur.com/rxaZDzr.png)
+![](/img/vpr_fruopener.png)
 
 The short opening active phase and subsequent long downtime in Utopian Sky forces us to do a modified opener that prioritizes our higher-potency abilities. Doing a last UF at the end causes one or both of the oGCDs to ghost, so instead we opt to do a single dual wield starter to apply the Honed buff that will last through the downtime.
 
 ### Post-Utopian Sky
 
-![](https://i.imgur.com/L6XqBWq.png)
+![](/img/vpr_postusky.png)
 
 This reopener will overcap VW by about 5 seconds, but this does not result in a lost use, and arguably leads to better alignment later in the fight.
 
@@ -130,7 +154,7 @@ If your group’s Phase 1 damage is low and is having trouble beating the enrage
 
 To do this you’ll want to use 2 UFs during Fall of Faith. Once you reach 60|0, perform the following burst sequence:
 
-![](https://i.imgur.com/HgWtns5.jpeg)
+![](/img/vpr_frup1double.jpg)
 
 The early Reawaken is to line up the 2nd Ouroboros to be just before the Burst Strike, and the following 2 UFs will cover tower soaks for both Fire and Lightning patterns.
 
@@ -140,7 +164,7 @@ This burst window works best when Phase 1 goes to enrage. If you’re killing th
 
 To do this you’ll want to use 1 UF during Fall of Faith. Once you reach 60|1, perform the following burst sequence:
 
-![](https://i.imgur.com/jMWRg01.png)
+![](/img/vpr_frup1single.png)
 
 The VW will line up just before the Burst Strike, and the following 2 UFs will cover tower soaks for both Fire and Lightning patterns. Note: If you’re still learning the tower soak flexes, you can swap the 2nd UF and VW for comfort and do the entire mechanic from range.
 
@@ -162,7 +186,7 @@ We can solve this problem by instead doing a Vicepit opener. This will net us 10
 
 #### Vicepit Opener
 
-![](https://i.imgur.com/qpmH2XZ.png)
+![](/img/vpr_fruvpopener.png)
 
 While the initial triple-weave may seem imposing, since the Swiftscaled (Haste) buff wasn’t applied to the first GCD, you have three seconds until Hunter’s Den, making a triple weave possible even on high ping.
 
@@ -170,13 +194,13 @@ At 2.10 you may find that you’re able to squeak in a final Steel/Reaving Fangs
 
 #### Reopener
 
-![](https://i.imgur.com/ZbYh0Ja.png)
+![](/img/vpr_postuskyvp.png)
 
 The VP opener changes the sequence leading up to burst slightly. We’ll start with our normal 12-VW-3 reopener, but then it’s very important to hold the next VW charge until after burst to make sure buffs are refreshed. The 2 UF’s are needed for both Single and Double-Reawaken burst variants.
 
 During Fall of Faith you’ll be cycling through 123s leading up to burst. While a Double-Reawaken burst is possible - and strong for Phase 1 damage - this section assumes that extra Phase 1 damage is unnecessary and therefore will only look at a Single-Reawaken burst.
 
-![](https://i.imgur.com/KxrJ4wV.png)
+![](/img/vpr_fru_vpopenersingle.png)
 
 The 3rd UF goes out as soon as towers resolve. The active VW combo can be carried over into Phase 2 and will put you at 100|0.
 
@@ -194,7 +218,7 @@ The only important note to mention is if you did the Vicepit opener and P1 went 
 
 ### Mirror Mirror
 
-![](https://i.imgur.com/7j6IMtN.jpeg)
+![](/img/vpr_fru_mirrorseq.jpeg)
 
 There are a couple of notes about this sequence that are worth going over:
 
@@ -222,7 +246,7 @@ Make sure all UFs are used before you use Swiftskin’s Sting. Failure to do so 
 
 ### Post-Light Rampant
 
-![](https://i.imgur.com/D5XR1C4.png)
+![](/img/vpr_fru_postlr.png)
 
 Using UF before both buffing GCDs (HS and SS) will delay both Hunter’s Instinct and Swiftscaled long enough to comfortably last through downtime. Since this downtime is less than 27 seconds, we can end the phase with VW and use both Coils immediately on Intermission to quickly reapply buffs and start bursting our Crystal.
 
@@ -230,7 +254,7 @@ In the Mirror Mirror sequence, it’s possible to ghost a Hunter’s Sting at th
 
 ### Adds Phase (Intermission) - Ice Veil
 
-![](https://i.imgur.com/OfcbyQ7.jpeg)
+![](/img/vpr_fru_intermission.jpeg)
 
 There are a few notes worth talking about:
 
@@ -254,7 +278,7 @@ Once you’re comfy with Intermission, you may find that you’re killing your c
 
 ### Alternate Mirror Mirror
 
-![](https://i.imgur.com/9MNt1tT.jpeg)
+![](/img/vpr_fru_altmirrorseq.jpeg)
 
 Note: This sequence will only work if you go into DD at 80|1.
 
@@ -266,7 +290,7 @@ This delay will cause the last Steel/Reaving Fangs to ghost. We need to do this 
 
 ### Alternate Post-Light Rampant
 
-![](https://i.imgur.com/0frOabs.png)
+![](/img/vpr_fru_altpostlr.png)
 
 Note: The skill choice and order in this sequence is deliberate and should be followed exactly (excluding the starter and finisher option). 
 
@@ -276,7 +300,7 @@ The UF in between SC and HC is to delay HC as late as possible. This will make t
 
 ### Alternate Adds Phase (Intermission)
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdZ6bsac2_0wQBMAQ5Kb7Cg95e5qushuW1b-s_5wRgmjfA3oxhFbELfBSVczfQVdNRMnLYKVjGipeAnlQXnOIQf0ySYVFJUY2wlXU6Sb7JlZzmCT_Qz9kvPMhFwNqpS6HTYY_vU?key=4aRMd5nxBPfk37UUyKj0KPet)
+![](/img/vpr_fru_altintermission.png)
 
 Ideally, your crystal should die during the 1st or 2nd UF. In worst-case scenarios, bad crit rate can extend this further. This may result in some GCD clipping while running back to the Veil. 
 
@@ -343,7 +367,7 @@ This guide will discuss when to choose one option or the other at the end of thi
 
 The following recommended sequence is based on ending Phase 3 combo neutral.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcKXfLRot3bMc4WXwIAB-_KUt7cn6eSo1vnwzwoucCOpXfxxftwYrdQsZj0uPFcsSxofGQRRv3GLJpestoK_j-Uiy7ROyQt0nkrhDWlgk0ZqaSIHW8pnoinFkAs7fKZWSqOjW1UbQ?key=4aRMd5nxBPfk37UUyKj0KPet)
+![](/img/vpr_fru_darklitburst.png)
 
 For reference, Gaia spawns in the time between SC and the UF.
 
@@ -359,7 +383,7 @@ In the event you are not combo neutral before going into burst, make sure that y
 Do note that entering Phase 4 where your first GCD is a Buffing GCD (2), then you will not be able to choose Option 1 below, as you will not be able to get the required gauge needed for Phase 5 without losing an Uncoiled Fury (~1700p loss). \
 You can see the timeline difference in the image below:
 
-> ![](https://i.imgur.com/MdkiJdS.png)
+![](/img/vpr_fru_p4gcdalignment.png)
 
 This is because we only get a set amount of Dual Wield GCDs in the phase, and since only 1/3 of those GCDs give gauge, it matters when and where that Finishers are used.
 
@@ -410,7 +434,7 @@ There are two options for the sequence following Crystalize Time (CT). Both opti
 
 The highest damaging option is as follows:
 
-![](https://i.imgur.com/dLhviny.png)
+![](/img/vpr_fru_postctvw.png)
 
 For this option to work, the bosses must live until after the final UF. The timing for Serpent’s Ire is to use it 2 seconds before your Rewind snapshot during CT. Doing so will allow the 30s buff to last until just after the VW combo is completed. 
 
@@ -420,7 +444,7 @@ If done properly, you will go into Phase 5 at either 40|1 or 90|1 / 100|1 depend
 
 If the bosses are low HP going into CT (<20%), you can instead reopen with Vicepit to speed the sequence up.
 
-![](https://i.imgur.com/iTQDLsj.png)
+![](/img/vpr_fru_postctvp.png)
 
 This option speeds up the sequence by about 3 seconds, giving you a better chance to get more Reawaken GCDs off before the bosses reach 0.1%. Choose this option if your group is consistently killing Phase 4 during the Post-CT Akh Morns. Since the sequence is sped up by about 3 seconds, you can use Serpent’s Ire about 4-5s before you place your Rewind Snapshot. This will also align the cooldown better for Phase 5.
 
@@ -440,7 +464,7 @@ Note: There is nothing gained from entering Phase 5 with 50-70 gauge. Entering w
 
 ### Reopener
 
-![](https://i.imgur.com/GcfX3Pg.jpeg)
+![](/img/vpr_fru_p5reopener.jpeg)
 
 While pretty straightforward, there is one important note regarding Serpent’s Ire.
 
@@ -480,7 +504,7 @@ The final burst of the fight can look different depending on several factors: ho
 
 The standard variant will be performing a Double Reawaken burst window under raid buffs. The pros of this variant is that it increases in value with the more buffs your party comp has - assuming raid buffs are properly sent together. This variant is also great if your group is fighting against the enrage timer.
 
-![]()
+![](/img/vpr_fru_401finalburst.png)
 
 To perform this variant, dump all UF stacks before or during exa-wave dodges, and then start a Vicewinder combo just after hitting 50 gauge. This will take you directly to the proper burst timing, and then perform a Double Reawaken. 
 
@@ -492,7 +516,7 @@ To perform this variant, dump all UF stacks before or during exa-wave dodges, an
 
 The rushed variant focuses more on maximizing our personal resources for an overall personal damage increase. This variant increases inversely in value with the amount of party buffs in your group - meaning the less buffs, the better this option becomes. This option is also great for groups with great DPS and are killing the boss before enrage.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_GT0wGpPwNsj5wHzzBcpbymEbrnnzxOR3DmA4UARaQkHlAfdd5kqAbEtdxxlhYtfl95k_RnOtqVeEJ2Eiyjav9sFJK0eGsGR7qTmKXe_l0nxqhYPW-AIUFJHf8o72QRAPxYK8?key=4aRMd5nxBPfk37UUyKj0KPet)
+![](/img/vpr_fru_401rushed.png)
 
 To perform this variant, dump all UF stacks before the final Fulgent Blade. Once you hit 40 gauge, perform the sequence above.
 
@@ -504,7 +528,7 @@ To perform this variant, dump all UF stacks before the final Fulgent Blade. Once
 
 Entering Phase 5 at 90|1 will make the final burst sequence a standard Ire+1 Double Reawaken burst window. Again, the extra Reawaken that 90|1 brings will happen after the 2 minute burst.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1B9fxQgorbyiTBj_iGv-yfaGfQ01lt9BL1nF1pv8AUurB0P0qohyx4sYI5i-FZ2p1pfniH4XeIYV65bieXO2F7XlcUquQmtB1fCWF9GIyYRTGs1Big7qurRXgNHGVVhB34RSlrA?key=4aRMd5nxBPfk37UUyKj0KPet)
+![](/img/vpr_fru_901finalburst.png)
 
 Note: Ire’s placement here is assumed that it’s weaved on the first GCD of the reopener and subsequently used off cooldown. This can be moved to accommodate for any drift.
 
@@ -516,7 +540,7 @@ To perform this variant, first spend your second odd-minute Reawaken and dump al
 
 A Triple Reawaken pot window lines up perfectly for the end of the fight if you hold the 2nd odd-minute Reawaken. 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQUL9JBLx_5_PWhczOfeG2czszoF6osArO7yl6L-h9lYNSrvDg_A23wH0TVXO1QAwWgjY2r-6l7hSPOxoYoSYMiebD5pAxQIjL7hiP-v-3eP2t_JdbNv4k68zyzswfbKttC2XssQ?key=4aRMd5nxBPfk37UUyKj0KPet)
+![](/img/vpr_fru_901triple.png)
 
 To perform this variant, first spend your first odd-minute Reawaken after the 2 minute burst. Then, build your resources until you reach 90|2. Once you hit this threshold, perform the sequence above.
 
@@ -574,14 +598,15 @@ Entering Diamond Dust at 80|1 allows a Triple Reawaken pot window to line up per
 
 This exact sequence assumes that a pot wasn’t used in Phase 1, and is not needed for Intermission (Option 2 pot timings). Do note that this sequence contains the same GCDs listed in the Alternate Mirror Mirror sequence earlier in this guide. **This means the setup, Post-Light Rampant, and Intermission sequences will be the same.**
 
-![](https://i.imgur.com/rce6QCm.jpeg)
+![](/img/vpr_fru_mirrortriple.jpeg)
 
 **Note:** The order of GCDs used is deliberate and must be followed exactly. The GCDs leading up to the RAs are to buy time for our pot to come off cooldown
 
 **This pot window is only an overall gain in low-buff party comps.** The breakpoint can be found below:
 
 **Mirror Mirror Active Phase DPS (~57 seconds)**
-| # of buffs | Normal 3RA | Normal 3RA Pot | Triple Reawaken Pot |
+
+\| # of buffs | Normal 3RA | Normal 3RA Pot | Triple Reawaken Pot |
 |------------|------------|----------------|---------------------|
 | 0          | 35447.38   | 36971.57       | **37320.91**        |
 | 1          | 36201.43   | 37785.19       | **37918.42**        |
@@ -601,7 +626,8 @@ We can gain an extra 2/3rd pot usage by pre-potting at -10 seconds on the fight 
 For this to work, the Phase 1 kill time must be held close to enrage. Killing even a gcd early will cause the pot to not come off CD in time and result in an overall loss. The timing for this to work properly is if Fatebreaker is killed on or after the “L” in “Burnished Glory.” For more leniency, you can pot at -11 and still gain the same number of GCDs in the opening pot window, but might miss the last UF oGCD.
 
 Referencing the standard Option 1 medicated potency windows, we can see that - if done properly - doing this would lead to a 3,110 pot potency gain for the first 2 windows.
-|                                  | Standard Option 1 Potency | Pre-Pot Option 1 Potency |
+
+\|                                  | Standard Option 1 Potency | Pre-Pot Option 1 Potency |
 |----------------------------------|---------------------------|--------------------------|
 | Phase 1 (Opener)                 | 12,120                    | 9,180                    |
 | Phase 2 (Intermission | Mirror) | 10,420                    | 16,470                   |
@@ -623,7 +649,7 @@ If your first GCD in Phase 4 is a finisher, this window can still work - you wil
 
 Once you start Phase 4, do 2 dual wield combos, and then perform the following sequence:
 
-![](https://i.imgur.com/RgonHDZ.jpeg)
+![](/img/vpr_fru_darklit3uf.jpeg)
 
 Note: Gaia will spawn just before you press Reawaken. Check out the Intermediate Guide for more info on Triple UF pot windows.
 
