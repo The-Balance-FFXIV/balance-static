@@ -53,7 +53,7 @@ Irrespective of if you're invulning the phase-ending tankbusters or not, you sho
 
 If you opt to use invuln for the tankbusters during this phase (which almost every group will) sure to use **Rampart** as the beetle dies for the upcoming **Solar Ray** in the next phase, as well as comfortable for the Optimized Bladedance tankbuster later in the phase.
 
-We'll also also want to use **Living Shadow** as the beetle dies too, for maximum cleave, as explained further in the next section, as well as **Delirium** for best timing. In short, immediately after the beetle dies, use **Rampart**, **Living Shadow**, and **Delirium**.
+We'll also also want to use **Living Shadow** as the beetle dies too, for maximum cleave, as explained further in the next section, as well as **Delirium** for best timing. In short, immediately after the beetle dies and with as little delay as possible, use **Rampart**, **Living Shadow**, and **Delirium**.
 
 # Phase Two: Omega-M and Omega-F
 
