@@ -51,13 +51,15 @@ Using **Dark Missionary** as the conal AoEs start moving in Pantokrator will all
 
 Irrespective of if you're invulning the phase-ending tankbusters or not, you should throw a **TBN** on yourself to bank a **Dark Arts** charge for the opener of the next phase.
 
-If you opt to use invuln for the tankbusters during this phase (which almost every group will) sure to use **Rampart** as the beetle dies for the upcoming **Solar Ray** in the next phase, as well as comfortable for the Optimized Bladedance tankbuster later in the phase. We also want to use **Living Shadow** as the beetle dies too, for maximum cleave, as explained further in the next section.
+If you opt to use invuln for the tankbusters during this phase (which almost every group will) sure to use **Rampart** as the beetle dies for the upcoming **Solar Ray** in the next phase, as well as comfortable for the Optimized Bladedance tankbuster later in the phase.
+
+We'll also also want to use **Living Shadow** as the beetle dies too, for maximum cleave, as explained further in the next section, as well as **Delirium** for best timing. In short, immediately after the beetle dies, use **Rampart**, **Living Shadow**, and **Delirium**.
 
 # Phase Two: Omega-M and Omega-F
 
 For most of this phase, you'll only be able to damage one of the clones, either Omega-M or Omega-F, due to the Firewall debuff. There are two times this isn't the case is at the very start of the phase, and after Limitless Synergy at the end of the phase. This means we can do some optimization of our opener for AoE cleaving.
 
-First off, we want to make sure to use **Living Shadow** as soon as the Phase One boss dies, and no later, so that the leading **Abyssal Drain** that Esteem does hits both bosses. You should also hit **Rampart** and **Delirium** here, too. **Rampart**, as mentioned above, is used here so that it's up for the second tankbuster of the phase, and **Delirium** because there's no reason to hold it.
+First off, as noted above, we want to make sure to use **Living Shadow** as soon as the Phase One boss dies, and no later, so that the leading **Abyssal Drain** that Esteem does hits both bosses. You should also hit **Rampart** and **Delirium** here, too. **Rampart**, as mentioned above, is used here so that it's up for the second tankbuster of the phase, and **Delirium** because there's no reason to hold it.
 
 Second, we make sure to dump both of our **Shadowbringer** charges immediately, in the middle of our first two GCDs. Despite the one second cooldown, this will be more than fine to do without clipping your GCD. You won't need to angle your **Shadowbringer** speciallky or anything like that, it should just cleave automatically.
 
