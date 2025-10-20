@@ -26,6 +26,7 @@ changelog:
     message: Updated potencies for 7.3
 ---
 # Foreword
+
 \-Zheng
 
 As of Dawntrail, Samurai has been part of the game for seven years. As part of the team, I am updating this guide for Dawntrail as we have gotten a substantial amount of changes upon release, until 7.05 which marked a big shift in gameplay since Shadowbringers, and will be covered in this document. This guide is intended for newer and older players alike.
@@ -203,11 +204,11 @@ As of Dawntrail 7.05, the Hagakure fillers are obsolete and no longer practiced.
 
 # Opener
 
-![](/img/jobs/sam/sam_100_opener.png)
+![](/img/jobs/sam/samurai-opener.jpeg)
 
 # Rotation Guide
 
-![](/img/jobs/sam/samurai-rotation-loop-8.png)
+![](/img/jobs/sam/sam_214_sheet.jpeg)
 
 # Higanbana Realignment Guide
 
