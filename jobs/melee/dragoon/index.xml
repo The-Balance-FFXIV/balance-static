@@ -21,7 +21,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[185 446 57 135 321 499]" src="https://xivapi.com/i/000000/000310_hr1.png" onclick="openModal(this.id)" alt="True Thrust" /&gt;
+ &lt;img id="[170 389 422 396 46 448]" src="https://xivapi.com/i/000000/000310_hr1.png" onclick="openModal(this.id)" alt="True Thrust" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;True Thrust&lt;/td&gt;
@@ -32,7 +32,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[63 397 222 326 271 127]" src="https://xivapi.com/i/002000/002592_hr1.png" onclick="openModal(this.id)" alt="Raiden Thrust" /&gt;
+ &lt;img id="[96 471 424 479 286 111]" src="https://xivapi.com/i/002000/002592_hr1.png" onclick="openModal(this.id)" alt="Raiden Thrust" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Raiden Thrust&lt;/td&gt;
@@ -43,7 +43,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[253 9 309 281 331 301]" src="https://xivapi.com/i/000000/000317_hr1.png" onclick="openModal(this.id)" alt="Disembowel" /&gt;
+ &lt;img id="[75 380 470 365 291 20]" src="https://xivapi.com/i/000000/000317_hr1.png" onclick="openModal(this.id)" alt="Disembowel" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Disembowel&lt;/td&gt;
@@ -54,7 +54,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[497 154 292 145 309 424]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002077_hr1.tex?format=png" onclick="openModal(this.id)" alt="Spiral Blow" /&gt;
+ &lt;img id="[399 270 188 318 263 480]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002077_hr1.tex?format=png" onclick="openModal(this.id)" alt="Spiral Blow" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Sprial Blow&lt;/td&gt;
@@ -65,7 +65,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[291 184 341 37 38 477]" src="https://xivapi.com/i/000000/000308_hr1.png" onclick="openModal(this.id)" alt="Chaos Thrust" /&gt;
+ &lt;img id="[292 37 425 444 69 213]" src="https://xivapi.com/i/000000/000308_hr1.png" onclick="openModal(this.id)" alt="Chaos Thrust" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Chaos Thrust&lt;/td&gt;
@@ -76,7 +76,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[395 488 200 462 449 423]" src="https://xivapi.com/i/002000/002596_hr1.png" onclick="openModal(this.id)" alt="Chaotic Spring" /&gt;
+ &lt;img id="[201 459 235 419 125 181]" src="https://xivapi.com/i/002000/002596_hr1.png" onclick="openModal(this.id)" alt="Chaotic Spring" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Chaotic Spring&lt;/td&gt;
@@ -87,7 +87,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[106 428 295 423 224 108]" src="https://xivapi.com/i/000000/000312_hr1.png" onclick="openModal(this.id)" alt="Vorpal Thrust" /&gt;
+ &lt;img id="[92 141 20 195 217 248]" src="https://xivapi.com/i/000000/000312_hr1.png" onclick="openModal(this.id)" alt="Vorpal Thrust" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Vorpal Thrust&lt;/td&gt;
@@ -98,7 +98,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[440 196 392 169 114 28]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002076_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Barrage" /&gt;
+ &lt;img id="[181 478 118 199 120 213]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002076_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Barrage" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Lance Barrage&lt;/td&gt;
@@ -109,7 +109,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[388 108 263 339 324 276]" src="https://xivapi.com/i/000000/000314_hr1.png" onclick="openModal(this.id)" alt="Full Thrust" /&gt;
+ &lt;img id="[455 406 387 40 218 19]" src="https://xivapi.com/i/000000/000314_hr1.png" onclick="openModal(this.id)" alt="Full Thrust" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Full Thrust&lt;/td&gt;
@@ -120,7 +120,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[112 9 202 444 476 201]" src="https://xivapi.com/i/002000/002595_hr1.png" onclick="openModal(this.id)" alt="Heavens&amp;rsquo; Thrust" /&gt;
+ &lt;img id="[451 309 456 129 450 370]" src="https://xivapi.com/i/002000/002595_hr1.png" onclick="openModal(this.id)" alt="Heavens&amp;rsquo; Thrust" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Heavens&amp;rsquo; Thrust&lt;/td&gt;
@@ -131,7 +131,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[357 105 194 195 447 187]" src="https://xivapi.com/i/002000/002582_hr1.png" onclick="openModal(this.id)" alt="Fang and Claw" /&gt;
+ &lt;img id="[281 50 56 80 488 405]" src="https://xivapi.com/i/002000/002582_hr1.png" onclick="openModal(this.id)" alt="Fang and Claw" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fang and Claw&lt;/td&gt;
@@ -142,7 +142,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[492 191 211 359 137 303]" src="https://xivapi.com/i/002000/002584_hr1.png" onclick="openModal(this.id)" alt="Wheeling Thrust" /&gt;
+ &lt;img id="[285 262 142 375 24 415]" src="https://xivapi.com/i/002000/002584_hr1.png" onclick="openModal(this.id)" alt="Wheeling Thrust" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Wheeling Thrust&lt;/td&gt;
@@ -153,7 +153,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[381 330 258 165 302 259]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png" onclick="openModal(this.id)" alt="Drakesbane" /&gt;
+ &lt;img id="[101 192 132 150 126 104]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png" onclick="openModal(this.id)" alt="Drakesbane" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Drakesbane&lt;/td&gt;
@@ -164,7 +164,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[69 130 470 131 419 317]" src="https://xivapi.com/i/000000/000315_hr1.png" onclick="openModal(this.id)" alt="Piercing Talon" /&gt;
+ &lt;img id="[309 413 206 163 398 380]" src="https://xivapi.com/i/000000/000315_hr1.png" onclick="openModal(this.id)" alt="Piercing Talon" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Piercing Talon&lt;/td&gt;
@@ -196,7 +196,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[432 359 368 221 105 361]" src="https://xivapi.com/i/000000/000306_hr1.png" onclick="openModal(this.id)" alt="Doom Spike" /&gt;
+ &lt;img id="[311 435 189 185 442 152]" src="https://xivapi.com/i/000000/000306_hr1.png" onclick="openModal(this.id)" alt="Doom Spike" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Doom Spike&lt;/td&gt;
@@ -207,7 +207,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[66 305 67 281 85 425]" src="https://xivapi.com/i/002000/002594_hr1.png" onclick="openModal(this.id)" alt="Draconian Fury" /&gt;
+ &lt;img id="[8 260 451 210 306 96]" src="https://xivapi.com/i/002000/002594_hr1.png" onclick="openModal(this.id)" alt="Draconian Fury" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Draconian Fury&lt;/td&gt;
@@ -218,7 +218,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[117 185 430 471 139 457]" src="https://xivapi.com/i/002000/002586_hr1.png" onclick="openModal(this.id)" alt="Sonic Thrust" /&gt;
+ &lt;img id="[193 302 444 432 269 37]" src="https://xivapi.com/i/002000/002586_hr1.png" onclick="openModal(this.id)" alt="Sonic Thrust" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Sonic Thrust&lt;/td&gt;
@@ -229,7 +229,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[196 269 356 268 363 264]" src="https://xivapi.com/i/002000/002590_hr1.png" onclick="openModal(this.id)" alt="Coerthan Torment" /&gt;
+ &lt;img id="[85 260 295 170 444 484]" src="https://xivapi.com/i/002000/002590_hr1.png" onclick="openModal(this.id)" alt="Coerthan Torment" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Coerthan Torment&lt;/td&gt;
@@ -254,7 +254,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[344 386 96 169 329 214]" src="https://xivapi.com/i/002000/002576_hr1.png" onclick="openModal(this.id)" alt="Jump" /&gt;
+ &lt;img id="[454 310 314 233 274 140]" src="https://xivapi.com/i/002000/002576_hr1.png" onclick="openModal(this.id)" alt="Jump" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Jump&lt;/td&gt;
@@ -265,7 +265,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[178 145 448 266 234 258]" src="https://xivapi.com/i/002000/002591_hr1.png" onclick="openModal(this.id)" alt="High Jump" /&gt;
+ &lt;img id="[19 333 202 246 430 388]" src="https://xivapi.com/i/002000/002591_hr1.png" onclick="openModal(this.id)" alt="High Jump" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;High Jump&lt;/td&gt;
@@ -276,7 +276,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[302 191 205 344 160 25]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002598_hr1.tex?format=png" onclick="openModal(this.id)" alt="Winged Glide" /&gt;
+ &lt;img id="[461 375 433 324 135 452]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002598_hr1.tex?format=png" onclick="openModal(this.id)" alt="Winged Glide" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Winged Glide&lt;/td&gt;
@@ -287,7 +287,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[89 328 245 293 310 6]" src="https://xivapi.com/i/002000/002578_hr1.png" onclick="openModal(this.id)" alt="Dragonfire Dive" /&gt;
+ &lt;img id="[490 62 437 189 114 497]" src="https://xivapi.com/i/002000/002578_hr1.png" onclick="openModal(this.id)" alt="Dragonfire Dive" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Dragonfire Dive&lt;/td&gt;
@@ -298,7 +298,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[430 186 389 377 281 31]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002075_hr1.tex?format=png" onclick="openModal(this.id)" alt="Rise of the Dragon" /&gt;
+ &lt;img id="[256 146 356 436 362 433]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002075_hr1.tex?format=png" onclick="openModal(this.id)" alt="Rise of the Dragon" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Rise of the Dragon&lt;/td&gt;
@@ -309,7 +309,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[416 182 252 228 71 160]" src="https://xivapi.com/i/002000/002588_hr1.png" onclick="openModal(this.id)" alt="Mirage Dive" /&gt;
+ &lt;img id="[412 371 190 184 342 151]" src="https://xivapi.com/i/002000/002588_hr1.png" onclick="openModal(this.id)" alt="Mirage Dive" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Mirage Dive&lt;/td&gt;
@@ -320,7 +320,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[475 235 404 86 264 147]" src="https://xivapi.com/i/002000/002583_hr1.png" onclick="openModal(this.id)" alt="Geirskogul" /&gt;
+ &lt;img id="[154 426 10 227 295 48]" src="https://xivapi.com/i/002000/002583_hr1.png" onclick="openModal(this.id)" alt="Geirskogul" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Geirskogul&lt;/td&gt;
@@ -331,7 +331,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[348 352 115 493 366 112]" src="https://xivapi.com/i/002000/002589_hr1.png" onclick="openModal(this.id)" alt="Nastrond" /&gt;
+ &lt;img id="[234 317 430 93 474 375]" src="https://xivapi.com/i/002000/002589_hr1.png" onclick="openModal(this.id)" alt="Nastrond" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Nastrond&lt;/td&gt;
@@ -342,7 +342,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[430 118 171 389 227 248]" src="https://xivapi.com/i/002000/002593_hr1.png" onclick="openModal(this.id)" alt="Stardiver" /&gt;
+ &lt;img id="[463 45 297 106 167 320]" src="https://xivapi.com/i/002000/002593_hr1.png" onclick="openModal(this.id)" alt="Stardiver" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Stardiver&lt;/td&gt;
@@ -353,7 +353,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[111 474 119 116 78 421]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002078_hr1.tex?format=png" onclick="openModal(this.id)" alt="Starcross" /&gt;
+ &lt;img id="[439 247 207 243 446 68]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002078_hr1.tex?format=png" onclick="openModal(this.id)" alt="Starcross" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Starcross&lt;/td&gt;
@@ -364,7 +364,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[287 32 393 458 180 484]" src="https://xivapi.com/i/002000/002597_hr1.png" onclick="openModal(this.id)" alt="Wyrmwind Thrust" /&gt;
+ &lt;img id="[443 386 132 4 18 165]" src="https://xivapi.com/i/002000/002597_hr1.png" onclick="openModal(this.id)" alt="Wyrmwind Thrust" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Wyrmwind Thrust&lt;/td&gt;
@@ -375,7 +375,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[220 272 180 106 125 252]" src="https://xivapi.com/i/002000/002577_hr1.png" onclick="openModal(this.id)" alt="Elusive Jump" /&gt;
+ &lt;img id="[189 218 49 265 284 281]" src="https://xivapi.com/i/002000/002577_hr1.png" onclick="openModal(this.id)" alt="Elusive Jump" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Elusive Jump&lt;/td&gt;
@@ -400,7 +400,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[54 357 14 87 363 214]" src="https://xivapi.com/i/000000/000309_hr1.png" onclick="openModal(this.id)" alt="Lance Charge" /&gt;
+ &lt;img id="[461 285 294 217 327 354]" src="https://xivapi.com/i/000000/000309_hr1.png" onclick="openModal(this.id)" alt="Lance Charge" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Lance Charge&lt;/td&gt;
@@ -411,7 +411,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[152 131 298 212 142 129]" src="https://xivapi.com/i/002000/002585_hr1.png" onclick="openModal(this.id)" alt="Battle Litany" /&gt;
+ &lt;img id="[188 181 366 206 266 310]" src="https://xivapi.com/i/002000/002585_hr1.png" onclick="openModal(this.id)" alt="Battle Litany" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Battle Litany&lt;/td&gt;
@@ -422,7 +422,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[137 94 22 130 312 56]" src="https://xivapi.com/i/000000/000304_hr1.png" onclick="openModal(this.id)" alt="Life Surge" /&gt;
+ &lt;img id="[187 91 310 348 64 478]" src="https://xivapi.com/i/000000/000304_hr1.png" onclick="openModal(this.id)" alt="Life Surge" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Life Surge&lt;/td&gt;
@@ -433,7 +433,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[275 27 1 190 306 492]" src="https://beta.xivapi.com/api/1/asset/ui/icon/020000/020710_hr1.tex?format=png" onclick="openModal(this.id)" alt="Gemdraught of Strength" /&gt;
+ &lt;img id="[45 122 80 205 104 443]" src="https://beta.xivapi.com/api/1/asset/ui/icon/020000/020710_hr1.tex?format=png" onclick="openModal(this.id)" alt="Gemdraught of Strength" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Current Gemdraught of Strength&lt;/td&gt;
@@ -458,7 +458,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[434 311 466 222 456 391]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" /&gt;
+ &lt;img id="[82 51 199 80 6 424]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Second Wind&lt;/td&gt;
@@ -469,7 +469,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[350 392 103 72 478 296]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="Leg Sweep" /&gt;
+ &lt;img id="[166 435 265 171 250 282]" src="https://xivapi.com/i/000000/000824_hr1.png" onclick="openModal(this.id)" alt="Leg Sweep" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Leg Sweep&lt;/td&gt;
@@ -480,7 +480,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[476 207 38 83 81 418]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="Bloodbath" /&gt;
+ &lt;img id="[469 6 253 227 69 264]" src="https://xivapi.com/i/000000/000823_hr1.png" onclick="openModal(this.id)" alt="Bloodbath" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Bloodbath&lt;/td&gt;
@@ -491,7 +491,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[259 446 460 415 307 79]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="Feint" /&gt;
+ &lt;img id="[325 153 389 168 60 266]" src="https://xivapi.com/i/000000/000828_hr1.png" onclick="openModal(this.id)" alt="Feint" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Feint&lt;/td&gt;
@@ -502,7 +502,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[49 400 282 220 484 76]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" /&gt;
+ &lt;img id="[466 120 381 134 257 427]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Arm&amp;rsquo;s Length&lt;/td&gt;
@@ -513,7 +513,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[446 420 409 479 353 416]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="True North" /&gt;
+ &lt;img id="[407 43 324 12 110 274]" src="https://xivapi.com/i/000000/000830_hr1.png" onclick="openModal(this.id)" alt="True North" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;True North&lt;/td&gt;
@@ -538,7 +538,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[306 10 15 469 230 202]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005294_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Jump" /&gt;
+ &lt;img id="[379 225 174 54 418 352]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005294_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Jump" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Enhanced Jump&lt;/td&gt;
@@ -549,7 +549,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[93 201 257 371 228 60]" src="https://xivapi.com/i/005000/005285_hr1.png" onclick="openModal(this.id)" alt="Life of the Dragon" /&gt;
+ &lt;img id="[229 147 146 276 301 446]" src="https://xivapi.com/i/005000/005285_hr1.png" onclick="openModal(this.id)" alt="Life of the Dragon" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Life of the Dragon&lt;/td&gt;
@@ -560,7 +560,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[481 464 471 365 237 222]" src="https://xivapi.com/i/005000/005286_hr1.png" onclick="openModal(this.id)" alt="Jump Mastery" /&gt;
+ &lt;img id="[182 142 214 170 223 149]" src="https://xivapi.com/i/005000/005286_hr1.png" onclick="openModal(this.id)" alt="Jump Mastery" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Jump Mastery&lt;/td&gt;
@@ -571,7 +571,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[167 489 363 90 335 142]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005284_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery" /&gt;
+ &lt;img id="[320 285 436 127 174 18]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005284_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Lance Mastery&lt;/td&gt;
@@ -582,7 +582,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[182 3 26 291 163 62]" src="https://xivapi.com/i/005000/005290_hr1.png" onclick="openModal(this.id)" alt="Enhanced Coerthan Torment" /&gt;
+ &lt;img id="[235 217 109 179 157 430]" src="https://xivapi.com/i/005000/005290_hr1.png" onclick="openModal(this.id)" alt="Enhanced Coerthan Torment" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Enhanced Coerthan Torment&lt;/td&gt;
@@ -593,7 +593,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[6 315 257 337 178 261]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005295_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Winged Glide" /&gt;
+ &lt;img id="[2 119 387 163 424 302]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005295_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Winged Glide" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Enhanced Winged Glide&lt;/td&gt;
@@ -604,7 +604,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[68 497 459 16 323 239]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005288_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery II" /&gt;
+ &lt;img id="[437 352 419 478 92 252]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005288_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery II" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Lance Mastery II&lt;/td&gt;
@@ -615,7 +615,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[250 384 216 424 307 156]" src="https://xivapi.com/i/005000/005277_hr1.png" onclick="openModal(this.id)" alt="Enhanced Life Surge" /&gt;
+ &lt;img id="[263 158 25 244 367 69]" src="https://xivapi.com/i/005000/005277_hr1.png" onclick="openModal(this.id)" alt="Enhanced Life Surge" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Enhanced Life Surge&lt;/td&gt;
@@ -626,7 +626,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[172 183 26 58 334 141]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005292_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery III" /&gt;
+ &lt;img id="[358 304 374 250 313 307]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005292_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery III" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Lance Mastery III&lt;/td&gt;
@@ -637,7 +637,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[349 149 263 242 120 428]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005296_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Dragonfire Dive" /&gt;
+ &lt;img id="[282 70 242 427 191 433]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005296_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Dragonfire Dive" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Enhanced Dragonfire Dive&lt;/td&gt;
@@ -648,7 +648,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[82 87 455 454 374 190]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006806_hr1.tex?format=png" onclick="openModal(this.id)" alt="Melee Mastery" /&gt;
+ &lt;img id="[188 99 486 53 365 28]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006806_hr1.tex?format=png" onclick="openModal(this.id)" alt="Melee Mastery" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Melee Mastery&lt;/td&gt;
@@ -659,7 +659,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[121 470 20 438 434 334]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005293_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery IV" /&gt;
+ &lt;img id="[134 268 186 395 67 463]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005293_hr1.tex?format=png" onclick="openModal(this.id)" alt="Lance Mastery IV" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Lance Mastery IV&lt;/td&gt;
@@ -670,7 +670,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[245 317 476 433 61 189]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005298_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Stardiver" /&gt;
+ &lt;img id="[297 242 62 132 232 90]" src="https://beta.xivapi.com/api/1/asset/ui/icon/005000/005298_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Stardiver" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Enhanced Stardiver&lt;/td&gt;
@@ -695,7 +695,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[228 205 202 278 92 446]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006852_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Second Wind" /&gt;
+ &lt;img id="[193 214 492 320 151 111]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006852_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Second Wind" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Enhanced Second Wind&lt;/td&gt;
@@ -706,7 +706,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[209 367 349 324 246 95]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006851_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Feint" /&gt;
+ &lt;img id="[215 150 113 165 187 354]" src="https://beta.xivapi.com/api/1/asset/ui/icon/006000/006851_hr1.tex?format=png" onclick="openModal(this.id)" alt="Enhanced Feint" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Enhanced Feint&lt;/td&gt;
@@ -720,7 +720,7 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
 &lt;h2 id="standard-opener---no-pt"&gt;Standard Opener - No PT&lt;/h2&gt;
 &lt;p&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[375 294 49 262 80 272]" src="https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_-_No_PT.png?raw=true" onclick="openModal(this.id)" alt="Standard Opener - No PT" /&gt;
+ &lt;img id="[42 74 380 178 137 81]" src="https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_-_No_PT.png?raw=true" onclick="openModal(this.id)" alt="Standard Opener - No PT" /&gt;
 &lt;/div&gt;
 
 &lt;br&gt;
