@@ -30,8 +30,12 @@ Used in the majority of encounters. Due to phasing, in some instances it may be 
 
 # Rotation
 
-[2.14 Rotation Cheat Sheet](https://imgur.com/cYL1orX)
+**2.14 Cheat Sheet**
 
-[2.08 Rotation Cheat Sheet](https://imgur.com/q8H12cx)
+![](/img/jobs/sam/sam_214_sheet.jpeg "2.14 Rotation")
 
-[How to Realign Higanbana](https://imgur.com/zvLzrAm)
+
+
+2.07 / 2.08 Cheat Sheet
+
+![](/img/jobs/sam/sam_208_sheet.jpeg "2.08 Rotation")
