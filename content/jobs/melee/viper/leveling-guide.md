@@ -93,7 +93,7 @@ It is important to note that both combo finishers after Hunter’s Sting will be
 
 Unlocked at level 82, the Rattling Coil gauge is attached to the Vipersight gauge in the form of three diamonds in the centre. These diamonds are greyed out but turn red for each Rattling Coil gained, to a maximum of three.
 
-![](https://i.imgur.com/l7dMMze.png)
+![](/img/jobs/vpr/rcgauge.png)
 
 \
 These Rattling Coils can be spent on Uncoiled Fury, a 680 potency ranged GCD, which is useful for maintaining uptime during melee disconnects.
@@ -106,12 +106,12 @@ Serpent’s Offerings are gained by executing either a standard combo finisher, 
 
 While the gauge is at zero the ‘flask’ will appear empty, however as Serpent’s Offerings are gained the ‘flask’ will fill up with a red liquid. Once the gauge reaches 50, enough for Reawaken, the liquid will turn blue and the gauge itself will periodically pulse blue to signify that Reawaken is able to be used.
 
-![](https://i.imgur.com/9I6OwHX.png)
+![](/img/jobs/vpr/juicegauge.png)
 
 \
 Once Reawaken is activated the gauge will change once again. The gauge will glow blue, and five glowing blue orbs will appear at the bottom, with a 30 second timer that will begin to count down immediately.
 
-![](https://i.imgur.com/NEydUOr.png)
+![](/img/jobs/vpr/awakenedjuice.png)
 
 \
 The glowing orbs are known as Anguine Tributes. Each Reawaken GCD costs one Anguine Tribute to execute, with the exception of the finisher, Ouroboros, consuming all remaining Anguine Tributes.
@@ -153,64 +153,78 @@ Make sure between your burst windows you:
 * Use one Reawaken and spend all Anguine Tribute stacks once between every two minutes.
 * Perform the standard combo respective of the finisher buff currently active.
 * Use Vicewinder stacks on cooldown (unless you’re about to enter a two minute window).
-* Spend Rattling Coils between combos, ensuring no buffs fall off.
+* Spend Rattling Coils between combos, ensuring no buffs fall off.\
+  <br>
 
 # Openers & Rotation
 
-It is important to note that in personal play, such as in dungeons and trials, anything past the opener can be used as the player desires. Burst windows should only be paid attention to if you plan on using them during Ultimates, Extremes, or other high-end content where DPS and feeding raid buffs may be important.
+It is important to note that in personal play, such as in dungeons and trials, anything past the opener can be used as the player desires. Burst windows should only be paid attention to if you plan on using them during Ultimates, Extremes, or other high-end content where DPS and feeding raid buffs may be important.\
+<br>
 
-## Levels 70-74
+## Levels 70-73
 
-![](https://i.imgur.com/4Y9Arhq.png)
+![](/img/jobs/vpr/vpr_70_opener.png)
 
+\
 <br>
 
 ### Pre-90 Even Minute Window
 
-![](https://i.imgur.com/tHuQead.png)
+![](/img/jobs/vpr/vpr_74-89_burst.png)
 
-Prior to level 90 your even minute window will look something like this. Using one Vicewinder stack between even minute windows, which allows you to enter the even minute window with Vicewinder right before your charges cap.
+Prior to level 90 your even minute window will look something like this. Using one Vicewinder stack between even minute windows, which allows you to enter the even minute window with Vicewinder right before your charges cap.\
+\
+The standard combo GCDs do not need to be the ones shown specifically, just ensure that two full Vicewinder combos are used during party buffs.
 
-After level 82, when you unlock Uncoiled Fury you will hold the Rattling Coil stack from the Vicewinder between even minute windows to use as a filler GCD during Double Vicewinder.
+After level 82, when you unlock Uncoiled Fury you will hold the Rattling Coil stack from the Vicewinder between even minute windows to use as a filler GCD during this burst window.\
+<br>
 
-## Levels 75-82
+## Levels 74-81
 
-![](https://i.imgur.com/x3E2TSj.png)
+![](/img/jobs/vpr/vpr_74_opener.png)
+
+
 <br>
 
 ## Levels 82-89
 
-![](https://i.imgur.com/GAF81hZ.png)
+![](/img/jobs/vpr/vpr_82_opener.png)
+
+
 <br>
 
 ## Levels 90-91
 
-![](https://i.imgur.com/BR9JyDl.png)
+![](/img/jobs/vpr/vpr_90_opener.png)
+
+NOTE: This opener is not recommended for DSR.\
 <br>
 
 ### Post-90 Even Minute Window
 
-![](https://i.imgur.com/pINanba.png)
+![](/img/jobs/vpr/vpr_90-99_burst.png)
 
-After obtaining Reawaken at level 90 the even minute burst window changes to replace Vicewinders for Reawaken. After the opener, use Serpent's Ire off cooldown then use a filler GCD before using two Reawakens back to back.
+After obtaining Reawaken at level 90 the even minute burst window replaces Vicewinders for Reawaken. After the opener, use Serpent's Ire off cooldown then use two filler GCDs before using two Reawaken combos back to back, ending with an Uncoiled Fury before party buffs expire.
+
+The standard combo GCDs shown in the image do not have to be the ones used before each window, they are examples of filler GCDs.\
+\
+The "Damage Up" buff shown is to indicate an approximate party buff window, it is not sourced from Hindsting Strike.
 
 Between each even minute window, one Reawaken will be used.
 
 Due to Reawaken being stronger, Vicewinder charges will now be used as filler rather than for burst.
 
-Prior to level 96 you will not have access to Ouroboros, however the window will remain identical otherwise.
-
-Prior to level 100 you will not have access to Legacy oGCDs, however the window will remain identical otherwise. 
-
+Once you gain access to Ouroboros at level 96 the window will change from two filler GCDs after Serpent's Ire to only one filler GCD, due to the Reawaken combo now taking longer to complete.\
 <br>
 
 ## Levels 92-100
 
-![](https://i.imgur.com/x37R29t.png)
+![](/img/jobs/vpr/vpr_92_opener.png)
 
-Prior to level 96 you will not have access to Ouroboros, however the opener and the rotation remain the same.
+Upon unlocking Ouroboros at level 96 this opener remains the same, with Ouroboros following Fourth Generation.
 
-Prior to level 100 you will not have access to the Reawaken Legacy oGCDs, however the opener and the rotation remain the same.
+Upon unlocking the Reawaken Legacy oGCDs the opener will remain the same, with the Legacy oGCDs after their respective Generation GCD.\
+<br>
 
 ## Multi-Target (3+) Rotation
 
