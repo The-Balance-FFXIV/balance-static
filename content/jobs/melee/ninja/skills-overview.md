@@ -94,7 +94,7 @@ Delivers a ranged Ninjutsu attack with a potency of 500. This is achieved with a
 
 ![Raiton](https://xivapi.com/i/002000/002912_hr1.png)\
 **Raiton**\
-Deals lightning damage with a potency of 740 and grants a stack of Raiju Ready, up to a maximum of three. This is achieved by any two-mudra combination that ends with Chi. So, Ten > Chi or Jin > Chi. Has a range of 20 yalms. 
+Deals lightning damage with a potency of 740 and grants a stack of Raiju Ready, up to a maximum of three. This is achieved by any two-mudra combination that ends with Chi. Such as, Ten > Chi or Jin > Chi. Has a range of 20 yalms. 
 
 ![Katon](https://xivapi.com/i/002000/002908_hr1.png)\
 **Katon**\
@@ -106,7 +106,7 @@ Deals ice damage with a potency of 350. This also puts a bind on the target for 
 
 ![Huton](https://xivapi.com/i/002000/002910_hr1.png)\
 **Huton**\
-Deals wind damage with a potency of 240 to the target and all nearby enemies. This also grants the effect of Shadow Walker for 20 seconds, which allows you to use any ability that was previously only usable under Hidden, such as Trick Attack. This is achieved by any three-mudra combination that ends with Jin: Jin > Chi > Ten or Chi > Jin > Ten. Has a range of 20 yalms. 
+Deals wind damage with a potency of 240 to the target and all nearby enemies. This also grants the effect of Shadow Walker for 20 seconds, which allows you to use any ability that was previously only usable under Hidden, such as Trick Attack. This is achieved by any three-mudra combination that ends with Ten, such as Jin > Chi > Ten or Chi > Jin > Ten. Has a range of 20 yalms. 
 
 ![Doton](https://xivapi.com/i/002000/002911_hr1.png)\
 **Doton**  \
@@ -114,7 +114,7 @@ Creates a patch of corrupted earth that acts like a stationary Damage over Time 
 
 ![Suiton](https://xivapi.com/i/002000/002913_hr1.png)\
 **Suiton**\
-Deals water damage with a potency of 580. This also grants the effect of Shadow Walker for 20 seconds, which allows you to use any ability that was previously only usable under Hidden, such as Trick Attack. This is achieved by any three-mudra combination that ends with Jin: Ten > Chi > Jin or Chi > Ten > Jin. Has a range of 20 yalms. 
+Deals water damage with a potency of 580. This also grants the effect of Shadow Walker for 20 seconds, which allows you to use any ability that was previously only usable under Hidden, such as Trick Attack. This is achieved by any three-mudra combination that ends with Jin, such as Ten > Chi > Jin or Chi > Ten > Jin. Has a range of 20 yalms. 
 
 ![GokaMekkyaku](https://xivapi.com/i/002000/002925_hr1.png)\
 **Goka Mekkyaku**\
