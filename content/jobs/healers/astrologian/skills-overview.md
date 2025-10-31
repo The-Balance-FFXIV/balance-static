@@ -151,8 +151,8 @@ changelog:
 
 **Collective Unconscious 60s CD**
 
-* AoE Mitigation in an 8y radius around you
-* AoE regen in a 30y radius around you
+* AoE Mitigation in an 30y radius around you
+* AoE regen in a 8y radius around you
 * Regen (five ticks of 100p) and mitigation (10%)
 * Total heal potency: 500p if not held
 * Use as a group mitigation and regen
