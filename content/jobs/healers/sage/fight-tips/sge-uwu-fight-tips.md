@@ -10,7 +10,7 @@ changelog:
 ---
 ## Gearing
 
-<https://xivgear.app/#/bis/sge/stormblood/uwu>
+<https://xivgear.app/#/bis/sge/ultimate/uwu>
 
 This link includes three different sets for UWU prog. All three of these sets should be considered viable and fairly easy to obtain. If there is a piece that you are missing, you can swap it for any gear piece with an item level over 500 that has the same substat distributions (i.e. you can swap a Crit/Det piece in the set for any Crit/Det piece with an item level higher than 500).
 
