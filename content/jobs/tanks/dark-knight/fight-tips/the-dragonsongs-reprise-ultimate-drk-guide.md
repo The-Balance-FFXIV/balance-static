@@ -2,8 +2,12 @@
 title: The Dragonsong's Reprise (Ultimate) DRK Guide
 authors:
   - apileofcats
+patch: "7.3"
 lastmod: 2025-11-07T08:12:08.711Z
 visibility: public
+changelog:
+  - date: 2025-11-07T19:38:42.213Z
+    message: Added;
 ---
 # Introduction
 
@@ -13,7 +17,7 @@ Dark Knight is a very strong tank in DSR at both main and off-tank, though commo
 
 # Gear
 
-Dark Knight BiS for DSR can be found at the following link: [https://xivgear.app/#/bis/drk/ultimate/dsr](https://xivgear.app/#/bis/drk/ultimate/fru), which will always be kept up to date and have a variety of options. 
+Dark Knight BiS for DSR can be found at the following link: [https://xivgear.app/#/bis/drk/ultimate/dsr](https://xivgear.app/#/bis/drk/ultimate/dsr), which will always be kept up to date and have a variety of options. 
 
 2.50 GCD speed is comfortable as always, and 2.45 lines up well with several uptime phases. We recommend choosing whichever speed you feel most comfortable on.
 
@@ -79,11 +83,11 @@ You can use **Dark Missionary** any time after Thordan dies to cover the transit
 
 # Phase Three: Nidstinien/Kyle
 
-Your opener should consist of a full resource dump, including a charge of **Shadowbringer** if you happen to have any, and a **TBN** on the main tank. The length of the phase and timing of mechanics means dropping mitigation on one of the hardest-hitting busters in the game to set up a 5x **Edge of Shadow** burst window, so simply use mana as needed to avoid overcap.
+Your opener should consist of a full resource dump, including a charge of **Shadowbringer** if you happen to have any, and a **TBN** on the main tank. The length of the phase and timing of mechanics means dropping mitigation on one of the hardest-hitting busters in the game to set up a 5x **Edge of Shadow** burst window, so simply use MP as needed to avoid overcap.
 
 Use **Reprisal** on the first Gnash/Lash stack if you did not use it on Ultimate End, or on the second one if you did.
 
-In most cases, you will use **Living Dead** on the Soul Tether, though some mit plans schedule a full kitchen sink for it. You can survive the hit with a complete kitchen sink with no outside help, but even a missing **Oblation** puts you at risk of a highroll. If you are not invulning it, use **Rampart**+Sprint as the Drachenlance ends, then **Shadow Wall**->**Dark Mind**+**Oblation**->**TBN** on consecutive GCDs. This should put **Shadow Wall** right as towers appear and **Dark Mind**+**Oblation** just before they go off. Co-tank **Oblation** and **TBN** are vital if they are using conventional cooldowns instead. The off-tank is generally expected to take the tether from the add rather than the boss regardless of the mitigation plan.
+In most cases, you will use **Living Dead** on the Soul Tether, though some mit plans schedule a full kitchen sink for it. You can survive the hit with a complete kitchen sink with no outside help, but even a missing **Oblation** puts you at risk of a highroll. If you are not invulning it, use **Rampart** + **Sprint** as the Drachenlance ends, then **Shadow Wall** -> **Dark Mind** + **Oblation** -> **TBN** on consecutive GCDs. This should put **Shadow Wall** right as towers appear and **Dark Mind** + **Oblation** just before they go off. Co-tank **Oblation** and **TBN** are vital if they are using conventional cooldowns instead. The off-tank is generally expected to take the tether from the add rather than the boss regardless of the mitigation plan.
 
 If possible, you should still try to pool what resources you can to carry into the next phase. The exact thresholds will vary by group, but you should think about dumping resources if the boss is above \~13% at the final Drachenlance cast and \~7% at the start of the enrage cast. It is likely with modern consumables/gear and potency creep that you will barely finish your burst before it dies.
 
@@ -91,9 +95,9 @@ If possible, you should still try to pool what resources you can to carry into t
 
 This phase is similar to the previous in terms of DPS check in that a smooth run should be no issue but weaknesses going in can make enrage a real concern. As always, try to enter the phase with as much pooled resource as you can and try to save as much for the one following once the DPS check is clearly being met. However, the DPS checks in the next portion of the fight are quite lenient, so carrying resources forward is of lesser importance here.
 
-Opening with **Provoke**->**Unmend** will secure aggro on your eye. Pressing **TBN** after your first melee combo hit covers some significant damage while allowing it to be used again just before taking your orb, and personal defensives can be freely used throughout the phase. **Dark Mind** and **Oblation** can be used during the Hatebound cast to last through your own orb. **Dark Missionary** should be used as the cast finishes to hit everyone before they spread and come off cooldown in good time for the intermission. Damage taken by the red eye is fixed based on the mechanic and not the actual damage taken by the tethered players, so don’t worry about the effects of your mitigation here.
+Opening with **Provoke** -> **Unmend** will secure aggro on your eye. Pressing **TBN** after your first melee combo hit covers some significant damage while allowing it to be used again just before taking your orb, and personal defensives can be freely used throughout the phase. **Dark Mind** and **Oblation** can be used during the Hatebound cast to last through your own orb. **Dark Missionary** should be used as the cast finishes to hit everyone before they spread and come off cooldown in good time for the intermission. Damage taken by the red eye is fixed based on the mechanic and not the actual damage taken by the tethered players, so don’t worry about the effects of your mitigation here.
 
-Because there should be no raidbuffs going out in this phase, you are free to spend your blood and mana when and where you please. Offensive cooldowns still need to be used promptly. Unfortunately, the eyes are slightly too far apart to hit both with Shadowbringer, even with clever angling.
+Because there should be no raidbuffs going out in this phase, you are free to spend your blood and MP when and where you please. Offensive cooldowns still need to be used promptly. Unfortunately, the eyes are slightly too far apart to hit both with Shadowbringer, even with clever angling.
 
 Tanks and healers are usually assigned to the east (red) eye. Because the red eye takes massive damage from mechanics during the phase, it is easy to accidentally overcommit on it. Save what resources you can for the blue eye and let the ranged players take care of any required HP balancing.
 
@@ -113,7 +117,7 @@ DRK has a huge amount of on-demand burst damage which does not adversely affect 
 
 Thordan’s Light of Ascalon buff is not merely cosmetic; everything he does in this phase will do ~10% more damage. This makes any aggro mishaps more than likely lethal.
 
-Raidbuffs will be available for the second uptime phase. You can bank mana in the first phase for this burst window by using TBN for the auto-attacks after Thordan casts The Dragon’s Eye. In order to avoid overcap, you should have less than about 6k mana when you do this.
+Raidbuffs will be available for the second uptime phase. You can bank MP in the first phase for this burst window by using **TBN** for the auto-attacks after Thordan casts The Dragon’s Eye. In order to avoid overcap, you should have less than about 6k MP when you do this.
 
 **Dark Missionary** can cover both Ancient Quagas in the phase if pre-cast somewhat during Wrath of the Heavens. With quick killtimes, this essentially means using it off cooldown. You should reprisal one Quaga (usually the second) and your co-tank the other.
 
@@ -123,18 +127,18 @@ Mitigation plans differ starting here; invulning both busters in the phase, with
 
 # Phase Six: Double Dragons
 
-When both dragons are present, their hitboxes extend close enough to each other to cleave both with most AoE actions including **Stalwart Soul** combos, **Salted Earth**/**Salt and Darkness**, and **Shadowbringer**. Remember your two-target priority of **Stalwart Soul** GCD combos, **Edge of Shadow** to spend mana, and **Bloodspiller** to spend blood. It’s worthwhile to break an AoE combo to start using single-target, but not worthwhile to break a single-target combo to start using AoE. Don’t start an AoE combo if you know you will have to break it after **Unleash**.
+When both dragons are present, their hitboxes extend close enough to each other to cleave both with most AoE actions including **Stalwart Soul** combos, **Salted Earth**/**Salt and Darkness**, and **Shadowbringer**. Remember your two-target priority of **Stalwart Soul** GCD combos, **Edge of Shadow** to spend MP, and **Bloodspiller** to spend blood. It’s worthwhile to break an AoE combo to start using single-target, but not worthwhile to break a single-target combo to start using AoE. Don’t start an AoE combo if you know you will have to break it after **Unleash**.
 
 This is another phase where Tincture usage is an option. While the DPS check is lenient when executed well, it is quite easy for suboptimal play to occur with the constant repositioning, cleave opportunities, and randomness in party or and positioning. 
 
-The single-target components of your burst opening burst ideally go on whichever dragon has targeted raidbuffs applied to it. Make sure to save 3,000 mana for the solo/share buster shortly after the beginning of the phase.
+The single-target components of your burst opening burst ideally go on whichever dragon has targeted raidbuffs applied to it. Make sure to save 3,000 MP for the solo/share buster shortly after the beginning of the phase.
 
 If looking to do 6-1-1 Akh Morns in Phase Seven, mitigation for this phase becomes quite tight. The standard plan for this case is: 
 
-* **Shadow Wall+Oblation+TBN** on the first solo/share (Wyrmsbreath) buster
-* **Rampart+Dark Mind+Oblation+TBN** on the first Hallowed Plume
-* **Dark Mind+Oblation+TBN** on the second Hallowed Plume
-* **Rampart+Shadow Wall** for the second solo/share buster
+* **Shadow Wall + Oblation + TBN** on the first solo/share (Wyrmsbreath) buster
+* **Rampart + Dark Mind + Oblation + TBN** on the first Hallowed Plume
+* **Dark Mind + Oblation + TBN** on the second Hallowed Plume
+* **Rampart + Shadow Wall** for the second solo/share buster
 * Add **Oblation** and **TBN** on the Cauterize.
 
 Because of the timings involved, there is no benefit to holding mitigation on the first Wyrmsbreath in order to use later if you are not targeted.
