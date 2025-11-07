@@ -97,7 +97,7 @@ This phase is similar to the previous in terms of DPS check in that a smooth run
 
 Opening with **Provoke** -> **Unmend** will secure aggro on your eye. Pressing **TBN** after your first melee combo hit covers some significant damage while allowing it to be used again just before taking your orb, and personal defensives can be freely used throughout the phase. **Dark Mind** and **Oblation** can be used during the Hatebound cast to last through your own orb. **Dark Missionary** should be used as the cast finishes to hit everyone before they spread and come off cooldown in good time for the intermission. Damage taken by the red eye is fixed based on the mechanic and not the actual damage taken by the tethered players, so don’t worry about the effects of your mitigation here.
 
-Because there should be no raidbuffs going out in this phase, you are free to spend your blood and MP when and where you please. Offensive cooldowns still need to be used promptly. Unfortunately, the eyes are slightly too far apart to hit both with Shadowbringer, even with clever angling.
+Because there should be no raidbuffs going out in this phase, you are free to spend your blood and MP when and where you please. Offensive cooldowns still need to be used promptly. Unfortunately, the eyes are slightly too far apart to hit both with **Shadowbringer**, even with clever angling.
 
 Tanks and healers are usually assigned to the east (red) eye. Because the red eye takes massive damage from mechanics during the phase, it is easy to accidentally overcommit on it. Save what resources you can for the blue eye and let the ranged players take care of any required HP balancing.
 
