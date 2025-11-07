@@ -99,11 +99,11 @@ Tanks and healers are usually assigned to the east (red) eye. Because the red ey
 
 # Intermission: Save Haurchefant
 
-You can pre-cast Living Shadow when the knights jump down into the arena. Delirium can be used after the stun without fear of misalignment, and may come up that late naturally. You must use a combo GCD before the LB to keep your combo rolling; otherwise it will drop during your animation lock.
+You can pre-cast **Living Shadow** when the knights jump down into the arena. **Delirium** can be used after the stun without fear of misalignment, and may come up that late naturally. You must use a combo GCD before the LB to keep your combo rolling; otherwise it will drop during your animation lock.
 
-Tank LB can be used as soon as Haurchefant appears, or after 3 GCDs on Charibert. You cannot use TBN on Haurchefant, as he is not a member of your party.
+Tank LB can be used as soon as Haurchefant appears, or after 3 GCDs on Charibert. You cannot use **TBN** on Haurchefant, as he is not a member of your party.
 
-You have good tools for both personal and party mitigation here. TBN on the second melee is a common convention for the off-tank, Oblation can be used on both ranged players, and Reprisal and Missionary are typically used here as well. Missionary will last through the Pure of Heart cast if used after the second set of targeted cleaves.
+You have good tools for both personal and party mitigation here. **TBN** on the second melee is a common convention for the off-tank, **Oblation** can be used on both ranged players, and **Reprisal** and **Dark Missionary** are typically used here as well. **Dark Missionary** will last through the Pure of Heart cast if used after the second set of targeted cleaves.
 
 DPS check for Charibert is very lenient, and all damage past what’s needed to drop him to 29% makes zero difference. Bank what resources you can once that threshold is obviously being met.
 
@@ -115,7 +115,7 @@ Thordan’s Light of Ascalon buff is not merely cosmetic; everything he does in 
 
 Raidbuffs will be available for the second uptime phase. You can bank mana in the first phase for this burst window by using TBN for the auto-attacks after Thordan casts The Dragon’s Eye. In order to avoid overcap, you should have less than about 6k mana when you do this.
 
-**Dark Missionary** can cover both **Ancient Quagas** in the phase if pre-cast somewhat during Wrath of the Heavens. With quick killtimes, this essentially means using it off cooldown. You should reprisal one Quaga (usually the second) and your co-tank the other.
+**Dark Missionary** can cover both Ancient Quagas in the phase if pre-cast somewhat during Wrath of the Heavens. With quick killtimes, this essentially means using it off cooldown. You should reprisal one Quaga (usually the second) and your co-tank the other.
 
 In the second uptime phase, you can save one charge of **Shadowbringer** for the orbs to help meet that check. You can hit two orbs with decent aim. The same is true for **Salted Earth**/**Salt and Darkness**.
 
