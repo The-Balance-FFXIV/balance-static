@@ -71,9 +71,9 @@ For the third uptime phase, we recommend the following:
 
 ![](/img/dark-knight-dsr-thordan-third-uptime.png)
 
-This is the minimum expenditure required to avoid overcap, while also putting as much potency as possible into the Discomposed debuff. If you held on **Edge of Shadow** earlier, you must insert one during buffs but before Discomposed. Delaying Living Shadow can put more potency into Discomposed, but will very likely cut your next use off as Phase Three ends.
+This is the minimum expenditure required to avoid overcap, while also putting as much potency as possible into the Discomposed debuff. If you held on **Edge of Shadow** earlier, you must insert one during buffs but before Discomposed. Delaying **Living Shadow** can put more potency into Discomposed, but will very likely cut your next use off as Phase Three ends.
 
-The off-tank is usually not expected to use Missionary or Reprisal for Ultimate End. Reprisal needs to be a late weave after the second GCD to catch the Ultimate End if you are using it.
+The off-tank is usually not expected to use **Dark Missionary** or **Reprisal** for Ultimate End. **Reprisal** needs to be a late weave after the second GCD to catch the Ultimate End if you are using it.
 
 You can use **Dark Missionary** any time after Thordan dies to cover the transition raidwide.
 
