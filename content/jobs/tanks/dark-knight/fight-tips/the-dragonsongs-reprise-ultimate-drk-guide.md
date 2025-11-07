@@ -5,8 +5,6 @@ authors:
 lastmod: 2025-11-07T08:12:08.711Z
 visibility: public
 ---
-
-
 # Introduction
 
 This guide contains suggestions on how to use your cooldowns effectively, and tips and tricks to play each phase as effectively as possible.
@@ -173,6 +171,6 @@ In all cases, you should use Rampart after the third explosion of the first Exaf
 
 The 3-3-2 strat is more straightforward, though there are a couple ways to ration your cooldowns:
 
-The better, but riskier timing-wise, plan is to use **Shadow Wall** for Akh Morn’s Edge 1+3 and **Rampart** for 2+3, in which case **Rampart** must be used between Trinity hits after the second Exaflare’s Edge. Alternatively, **Rampart** for 1+3 and **Shadow Wall** for 2 results in more damage taken but requires no special timing.
+The better, but riskier timing-wise, plan is to use **Shadow Wall** for Akh Morn’s Edge 1+3 and **Rampart** for 2+3, in which case **Rampart** must be used between Trinity hits after the second Exaflare’s Edge. Alternatively, **Rampart** for 1+3 and **Shadow Wall** for 2 results in more damage taken but requires no special timing. Use **Dark Mind**, **Oblation**, and **TBN** for all sets.
 
 Best of luck on your clear!
