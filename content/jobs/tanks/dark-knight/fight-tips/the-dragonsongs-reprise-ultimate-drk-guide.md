@@ -17,7 +17,7 @@ Dark Knight is a very strong tank in DSR at both main and off-tank, though commo
 
 # Gear
 
-Dark Knight BiS for DSR can be found at the following link: [https://xivgear.app/#/bis/drk/ultimate/dsr](https://xivgear.app/#/bis/drk/ultimate/dsr), which will always be kept up to date and have a variety of options. 
+Dark Knight BiS for DSR can be found at the following link: <https://xivgear.app/#/bis/drk/ultimate/dsr>, which will always be kept up to date and have a variety of options. 
 
 2.50 GCD speed is comfortable as always, and 2.45 lines up well with several uptime phases. We recommend choosing whichever speed you feel most comfortable on.
 
@@ -39,8 +39,6 @@ Both **Dark Missionary** and **Reprisal** can cover both sets of Hyperdimensiona
 
 Use **Shadow Wall** for auto-attacks after Faith Unmoving, and then **Rampart** again when it comes back up near the end of the phase. Don't forget to add **Oblation** and **TBN** on top as necessary.
 
-When progging the phase, you can save pulls by using **Living Dead** in a tower. You can also plan a usage during Strength in return for using your full kitchen sink instead of invuln for the Soul Tether in Phase Three; this will keep you alive if a non-tank clips you with their defamation, but requires aid from your healers to cleanse Walking Dead afterward. 
-
 # Phase Two: Thordan
 
 ## First Uptime Phase
@@ -56,6 +54,8 @@ With a 2.45 GCD, it is possible to start with **Unmend**, but it makes the final
 The early **Salted Earth** allows you to get as many ticks as possible in the second uptime phase; otherwise, you would end up holding the skill and losing a use entirely.
 
 During Strength of the Ward, you can use 15/20s duration cooldowns, including **Dark Missionary**, after the Ascalon's Mercy cast. Your shorter-duration cooldowns should be used as or after the tethers go out.
+
+When progging the phase, you can save pulls by using **Living Dead** in a tower. You can also plan a usage during Strength in return for using your full kitchen sink instead of invuln for the Soul Tether in Phase Three; this will keep you alive if a non-tank clips you with their defamation, but requires aid from your healers to cleanse Walking Dead afterward. 
 
 ## Second Uptime Phase
 
