@@ -165,7 +165,7 @@ Your defensive cooldowns will be focused on surviving the Akh Morn’s Edge towe
 
 ## 6-1-1 Towers
 
-For the 6-1-1 strat, the first towers are taken as a 3-3-2 split, and the second and third sets have all six non-tanks in the northwest tower, one tank soloing the northeast tower with all available cooldowns, and one tank invulning the south tower. The north towers are interchangeable, but the south tower hits significantly harder; sharing it with your co-tank deals about the same damage per hit as soloing a north tower intended to be split between three players.
+For the 6-1-1 strat, the first towers are taken as a 3-3-2 split, and the second and third sets have all six non-tanks in the northwest tower, one tank soloing the northeast tower with all available cooldowns, and one tank invulning the south tower. The north towers are interchangeable, but the south tower hits significantly harder; sharing it with your co-tank deals about the same damage as soloing a north tower intended to be split between three players.
 
 For PLD/GNB comps you will typically be expected to use all cooldowns but Shadow Wall on the first shared tower, a full kitchen sink on the second northeast tower, and Living Dead on the third south tower. WAR can Holmgang both Cauterize and an Akh Morn tower, but must invuln the third set of towers to do so. In this case, you will invuln the second set instead and do not need to save Shadow Wall for the first.
 
