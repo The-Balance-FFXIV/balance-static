@@ -275,7 +275,7 @@ function detectMobileRestyle() {
     window.addEventListener('resize', onResize, {passive: true})
 
     // first check on load
-    restyleCheck()
+    requestAnimationFrame(restyleCheck);
 }
 
 // starts the restyle detection after DOM is loaded
