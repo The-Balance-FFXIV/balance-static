@@ -208,14 +208,18 @@ window.addEventListener('htmx:afterSwap', setActiveHeader)
 
 // detects when the TOC is in a "stuck" position on mobile and adds a class for styling
 // Should only be executed once, as it adds the necessary listeners.
-function detectMobileRestyle() {
-    const toc = document.querySelector('.table-of-contents-container')
-    if (!toc) return
+let restyleInitialized = false
+let sticky = false
 
-    let sticky = false
+function detectMobileRestyle() {
+    sticky = false
+    
+    if (restyleInitialized) return
+    restyleInitialized = true
 
     function restyleCheck() {
-        // if screen viewport is lg+, remove any mobile sticky class and exit
+        const toc = document.querySelector('.table-of-contents-container')
+        if (!toc) return
         if (window.innerWidth > 1024) {
             if (sticky) {
                 toc.classList.remove('stuck-mobile')
@@ -275,10 +279,11 @@ function detectMobileRestyle() {
     window.addEventListener('resize', onResize, {passive: true})
 
     // first check on load
-    requestAnimationFrame(restyleCheck);
+    requestAnimationFrame(restyleCheck)
 }
 
 // starts the restyle detection after all resources are loaded
 window.addEventListener('load', detectMobileRestyle);
 document.addEventListener('DOMContentLoaded', onNav);
 window.addEventListener('htmx:afterSwap', onNav);
+window.addEventListener('htmx:afterSwap', detectMobileRestyle);
