@@ -17,7 +17,6 @@ changelog:
     message: Added a lv90 note.
   - date: 2024-07-18T11:23:34.652Z
     message: Added lv96 and lv100 notes. Added opener notes for lv90.
-description: "Final Fantasy XIV: Warrior Leveling Guide"
 ---
 Henlo team!
 
