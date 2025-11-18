@@ -2,13 +2,13 @@
 &lt;h2 id="opener"&gt;Opener&lt;/h2&gt;
 &lt;p&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[62 76 341 338 118 494]" src="https://www.thebalanceffxiv.com/img/jobs/pld/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" /&gt;
+ &lt;img id="[33 295 44 175 376 16]" src="https://www.thebalanceffxiv.com/img/jobs/pld/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" /&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 &lt;h2 id="rotation"&gt;Rotation&lt;/h2&gt;
 &lt;p&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[201 326 496 70 313 6]" src="https://www.thebalanceffxiv.com/img/jobs/pld/100rotation.png" onclick="openModal(this.id)" alt="Paladin example burst window" /&gt;
+ &lt;img id="[149 176 47 426 270 63]" src="https://www.thebalanceffxiv.com/img/jobs/pld/100rotation.png" onclick="openModal(this.id)" alt="Paladin example burst window" /&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 &lt;h2 id="rotation-goals"&gt;Rotation Goals&lt;/h2&gt;
@@ -16,7 +16,7 @@
 &lt;p&gt;&lt;strong&gt;Iron Will&lt;/strong&gt;
 
 &lt;div class="md__image"&gt;
- &lt;img id="[67 415 498 168 268 215]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[486 198 19 189 226 345]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;Toggle | 3s cooldown after toggling on. | 1s cooldown after toggling off.&lt;/p&gt;
@@ -25,7 +25,7 @@
 &lt;p&gt;&lt;strong&gt;Fight or Flight&lt;/strong&gt;
 
 &lt;div class="md__image"&gt;
- &lt;img id="[425 379 353 35 118 142]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[35 442 65 327 191 310]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;60s cooldown.&lt;/p&gt;
@@ -33,7 +33,7 @@
 &lt;p&gt;&lt;strong&gt;Imperator&lt;/strong&gt;
 
 &lt;div class="md__image"&gt;
- &lt;img id="[30 463 403 80 193 470]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img id="[90 266 260 294 232 47]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/p&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</link><pubDate>Wed, 06 Aug 2025 19:00:13 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</guid><description>&lt;p&gt;Welcome to the Basics Guide for Paladin! Whether you are a fresh level 100, a returning player, or just need a refresher, this guide will get you started and allow you to hit the ground running.&lt;/p&gt;
 &lt;p&gt;Since this is a basic introduction to level 100 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below, or in discussion channels on the Balance discord:&lt;/p&gt;</description></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 06 Aug 2025 18:59:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>&lt;blockquote&gt;

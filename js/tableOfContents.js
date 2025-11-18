@@ -278,7 +278,7 @@ function detectMobileRestyle() {
     requestAnimationFrame(restyleCheck);
 }
 
-// starts the restyle detection after DOM is loaded
-document.addEventListener('DOMContentLoaded', detectMobileRestyle);
+// starts the restyle detection after all resources are loaded
+window.addEventListener('load', detectMobileRestyle);
 document.addEventListener('DOMContentLoaded', onNav);
 window.addEventListener('htmx:afterSwap', onNav);
