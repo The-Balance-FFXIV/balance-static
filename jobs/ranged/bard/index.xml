@@ -9,7 +9,7 @@
 &lt;/ul&gt;
 &lt;p&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[352 282 288 12 266 470]" src="https://www.thebalanceffxiv.com/img/jobs/brd/adjusted-standard-opener.png" onclick="openModal(this.id)" alt="Bard Level 100 Standard Opener" title="Bard Level 100 Standard Opener" /&gt;
+ &lt;img id="[291 290 165 240 199 208]" src="https://www.thebalanceffxiv.com/img/jobs/brd/adjusted-standard-opener.png" onclick="openModal(this.id)" alt="Bard Level 100 Standard Opener" title="Bard Level 100 Standard Opener" /&gt;
 &lt;/div&gt;
 &lt;/p&gt;</description></item><item><title>Recent Changes</title><link>https://www.thebalanceffxiv.com/jobs/ranged/bard/job-changes/</link><pubDate>Wed, 06 Aug 2025 04:38:19 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/bard/job-changes/</guid><description/></item><item><title>Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/ranged/bard/best-in-slot/</link><pubDate>Wed, 06 Aug 2025 04:20:28 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/bard/best-in-slot/</guid><description/></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/bard/basic-guide/</link><pubDate>Thu, 15 Aug 2024 02:32:55 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/bard/basic-guide/</guid><description>&lt;p&gt;Welcome to the Basics Guide for Bard! Whether you’re a fresh level 100, a returning player, or just need a refresher, this guide will get you started and help you feel comfortable.&lt;/p&gt;
 &lt;p&gt;This is a basic introduction to level 100 Bard. It will not go into many nuances, optimizations, or topics outside of playing the job in battle. In particular, this will not cover a range of nuances that aim to keep key skills on cooldown despite Bard&amp;rsquo;s shifting speeds. Following the basics here is plenty sufficient for most game scenarios.&lt;/p&gt;</description></item><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/bard/leveling-guide/</link><pubDate>Mon, 12 Aug 2024 02:39:05 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/bard/leveling-guide/</guid><description>&lt;h1 id="getting-started"&gt;Getting Started&lt;/h1&gt;
@@ -36,7 +36,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[212 392 190 76 137 20]" src="https://xivapi.com/i/002000/002618_hr1.png" onclick="openModal(this.id)" alt="bs" /&gt;
+ &lt;img id="[114 274 327 343 54 486]" src="https://xivapi.com/i/002000/002618_hr1.png" onclick="openModal(this.id)" alt="bs" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Burst Shot (BS)&lt;/td&gt;
@@ -45,7 +45,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[470 32 340 375 16 319]" src="https://xivapi.com/i/002000/002616_hr1.png" onclick="openModal(this.id)" alt="ra" /&gt;
+ &lt;img id="[360 119 15 37 103 66]" src="https://xivapi.com/i/002000/002616_hr1.png" onclick="openModal(this.id)" alt="ra" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Refulgent Arrow (RA)&lt;/td&gt;
@@ -54,7 +54,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[118 436 178 30 167 301]" src="https://xivapi.com/i/002000/002614_hr1.png" onclick="openModal(this.id)" alt="stormbite" /&gt;
+ &lt;img id="[291 94 119 209 138 460]" src="https://xivapi.com/i/002000/002614_hr1.png" onclick="openModal(this.id)" alt="stormbite" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Stormbite (SB)&lt;/td&gt;
@@ -63,7 +63,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[16 272 497 275 453 307]" src="https://xivapi.com/i/002000/002613_hr1.png" onclick="openModal(this.id)" alt="caustic bite" /&gt;
+ &lt;img id="[249 425 161 270 466 324]" src="https://xivapi.com/i/002000/002613_hr1.png" onclick="openModal(this.id)" alt="caustic bite" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Caustic Bite (CB)&lt;/td&gt;
@@ -72,7 +72,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[249 440 126 258 137 291]" src="https://xivapi.com/i/002000/002608_hr1.png" onclick="openModal(this.id)" alt="iron jaws" /&gt;
+ &lt;img id="[377 208 159 52 374 250]" src="https://xivapi.com/i/002000/002608_hr1.png" onclick="openModal(this.id)" alt="iron jaws" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Iron Jaws (IJ)&lt;/td&gt;
@@ -81,7 +81,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[466 263 366 246 256 224]" src="https://xivapi.com/i/002000/002619_hr1.png" onclick="openModal(this.id)" alt="apex arrow" /&gt;
+ &lt;img id="[224 336 459 204 101 300]" src="https://xivapi.com/i/002000/002619_hr1.png" onclick="openModal(this.id)" alt="apex arrow" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Apex Arrow (AA)&lt;/td&gt;
@@ -90,7 +90,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[166 377 489 315 212 171]" src="https://xivapi.com/i/002000/002621_hr1.png" onclick="openModal(this.id)" alt="Blast Arrow" /&gt;
+ &lt;img id="[41 474 280 275 151 426]" src="https://xivapi.com/i/002000/002621_hr1.png" onclick="openModal(this.id)" alt="Blast Arrow" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Blast Arrow (BA)&lt;/td&gt;
@@ -99,7 +99,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[312 282 74 109 497 137]" src="https://xivapi.com/i/002000/002624_hr1.png" onclick="openModal(this.id)" alt="Blast Arrow" /&gt;
+ &lt;img id="[119 473 120 417 115 356]" src="https://xivapi.com/i/002000/002624_hr1.png" onclick="openModal(this.id)" alt="Blast Arrow" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Resonant Arrow (ResA)&lt;/td&gt;
@@ -108,7 +108,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[17 417 97 248 353 250]" src="https://xivapi.com/i/002000/002100_hr1.png" onclick="openModal(this.id)" alt="Radiant Encore" /&gt;
+ &lt;img id="[276 480 147 140 315 80]" src="https://xivapi.com/i/002000/002100_hr1.png" onclick="openModal(this.id)" alt="Radiant Encore" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Radiant Encore (RE)&lt;/td&gt;
@@ -117,7 +117,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[325 451 223 374 495 114]" src="https://xivapi.com/i/002000/002620_hr1.png" onclick="openModal(this.id)" alt="Ladonsbite" /&gt;
+ &lt;img id="[60 377 21 332 311 378]" src="https://xivapi.com/i/002000/002620_hr1.png" onclick="openModal(this.id)" alt="Ladonsbite" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Ladonsbite (LB)&lt;/td&gt;
@@ -126,7 +126,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[163 87 14 110 74 6]" src="https://xivapi.com/i/002000/002617_hr1.png" onclick="openModal(this.id)" alt="SHADBITE" /&gt;
+ &lt;img id="[295 445 34 22 409 153]" src="https://xivapi.com/i/002000/002617_hr1.png" onclick="openModal(this.id)" alt="SHADBITE" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Shadowbite (ShB)&lt;/td&gt;
@@ -148,7 +148,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[10 168 35 162 382 91]" src="https://xivapi.com/i/002000/002607_hr1.png" onclick="openModal(this.id)" alt="WM icon" /&gt;
+ &lt;img id="[272 226 404 474 181 203]" src="https://xivapi.com/i/002000/002607_hr1.png" onclick="openModal(this.id)" alt="WM icon" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Wanderer’s Minuet (WM)&lt;/td&gt;
@@ -158,7 +158,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[442 141 339 258 53 106]" src="https://xivapi.com/i/002000/002611_hr1.png" onclick="openModal(this.id)" alt="pp" /&gt;
+ &lt;img id="[6 357 27 179 294 79]" src="https://xivapi.com/i/002000/002611_hr1.png" onclick="openModal(this.id)" alt="pp" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Pitch Perfect (PP)&lt;/td&gt;
@@ -168,7 +168,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[218 276 353 204 88 163]" src="https://xivapi.com/i/002000/002602_hr1.png" onclick="openModal(this.id)" alt="mb icon" /&gt;
+ &lt;img id="[245 175 108 324 278 196]" src="https://xivapi.com/i/002000/002602_hr1.png" onclick="openModal(this.id)" alt="mb icon" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Mage’s Ballad (MB)&lt;/td&gt;
@@ -178,7 +178,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[29 357 423 175 233 35]" src="https://xivapi.com/i/002000/002623_hr1.png" onclick="openModal(this.id)" alt="heartbreak" /&gt;
+ &lt;img id="[336 431 67 403 7 207]" src="https://xivapi.com/i/002000/002623_hr1.png" onclick="openModal(this.id)" alt="heartbreak" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Heartbreak Shot (HBS)&lt;/td&gt;
@@ -188,7 +188,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[334 475 24 73 478 336]" src="https://xivapi.com/i/002000/002605_hr1.png" onclick="openModal(this.id)" alt="ROD" /&gt;
+ &lt;img id="[415 13 461 68 3 450]" src="https://xivapi.com/i/002000/002605_hr1.png" onclick="openModal(this.id)" alt="ROD" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Rain of Death (RoD)&lt;/td&gt;
@@ -198,7 +198,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[411 421 354 51 286 493]" src="https://xivapi.com/i/002000/002603_hr1.png" onclick="openModal(this.id)" alt="AP icon" /&gt;
+ &lt;img id="[35 412 97 40 240 206]" src="https://xivapi.com/i/002000/002603_hr1.png" onclick="openModal(this.id)" alt="AP icon" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Army’s Paeon (AP)&lt;/td&gt;
@@ -208,7 +208,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[492 113 401 70 153 156]" src="https://xivapi.com/i/005000/005314_hr1.png" onclick="openModal(this.id)" alt="EAP" /&gt;
+ &lt;img id="[217 336 219 499 90 99]" src="https://xivapi.com/i/005000/005314_hr1.png" onclick="openModal(this.id)" alt="EAP" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Enhanced Army’s Paeon&lt;/td&gt;
@@ -218,7 +218,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[253 460 218 158 434 75]" src="https://xivapi.com/i/002000/002606_hr1.png" onclick="openModal(this.id)" alt="empyreal arrow" /&gt;
+ &lt;img id="[126 272 16 332 420 151]" src="https://xivapi.com/i/002000/002606_hr1.png" onclick="openModal(this.id)" alt="empyreal arrow" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Empyreal Arrow (EA)&lt;/td&gt;
@@ -240,7 +240,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[1 14 341 41 175 379]" src="https://xivapi.com/i/000000/000353_hr1.png" onclick="openModal(this.id)" alt="barrage" /&gt;
+ &lt;img id="[465 414 209 311 114 240]" src="https://xivapi.com/i/000000/000353_hr1.png" onclick="openModal(this.id)" alt="barrage" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Barrage&lt;/td&gt;
@@ -249,7 +249,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[223 361 283 420 17 37]" src="https://xivapi.com/i/000000/000352_hr1.png" onclick="openModal(this.id)" alt="raging strikes" /&gt;
+ &lt;img id="[185 115 23 490 206 62]" src="https://xivapi.com/i/000000/000352_hr1.png" onclick="openModal(this.id)" alt="raging strikes" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Raging Strikes (RS)&lt;/td&gt;
@@ -258,7 +258,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[432 487 61 346 418 17]" src="https://xivapi.com/i/002000/002610_hr1.png" onclick="openModal(this.id)" alt="sidewinder" /&gt;
+ &lt;img id="[53 156 282 232 265 169]" src="https://xivapi.com/i/002000/002610_hr1.png" onclick="openModal(this.id)" alt="sidewinder" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Sidewinder (SW)&lt;/td&gt;
@@ -279,7 +279,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[28 358 23 174 130 431]" src="https://xivapi.com/i/002000/002601_hr1.png" onclick="openModal(this.id)" alt="battle voice" /&gt;
+ &lt;img id="[112 11 197 284 254 407]" src="https://xivapi.com/i/002000/002601_hr1.png" onclick="openModal(this.id)" alt="battle voice" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Battle Voice (BV)&lt;/td&gt;
@@ -288,7 +288,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[350 92 391 73 239 94]" src="https://xivapi.com/i/002000/002622_hr1.png" onclick="openModal(this.id)" alt="Radiant Finale" /&gt;
+ &lt;img id="[378 292 479 216 468 31]" src="https://xivapi.com/i/002000/002622_hr1.png" onclick="openModal(this.id)" alt="Radiant Finale" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Radiant Finale (RF)&lt;/td&gt;
@@ -297,7 +297,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[146 329 494 14 271 2]" src="https://xivapi.com/i/002000/002612_hr1.png" onclick="openModal(this.id)" alt="troub" /&gt;
+ &lt;img id="[325 404 159 373 288 260]" src="https://xivapi.com/i/002000/002612_hr1.png" onclick="openModal(this.id)" alt="troub" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Troubadour (Troub)&lt;/td&gt;
@@ -306,7 +306,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[486 260 385 61 165 7]" src="https://xivapi.com/i/002000/002615_hr1.png" onclick="openModal(this.id)" alt="NM" /&gt;
+ &lt;img id="[274 144 450 493 48 304]" src="https://xivapi.com/i/002000/002615_hr1.png" onclick="openModal(this.id)" alt="NM" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Nature’s Minne&lt;/td&gt;
@@ -315,7 +315,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[46 442 281 19 482 62]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="SW" /&gt;
+ &lt;img id="[33 315 36 171 301 166]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="SW" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Second Wind&lt;/td&gt;
@@ -324,7 +324,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[199 318 363 324 62 166]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="AL" /&gt;
+ &lt;img id="[296 15 235 290 294 203]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="AL" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Arm’s Length&lt;/td&gt;
@@ -333,7 +333,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[26 56 77 378 257 30]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="hg" /&gt;
+ &lt;img id="[289 192 124 110 303 91]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="hg" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Head Graze&lt;/td&gt;
@@ -342,7 +342,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[18 117 481 469 68 243]" src="https://xivapi.com/i/000000/000366_hr1.png" onclick="openModal(this.id)" alt="REPELL SHOT" /&gt;
+ &lt;img id="[400 64 480 344 97 127]" src="https://xivapi.com/i/000000/000366_hr1.png" onclick="openModal(this.id)" alt="REPELL SHOT" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Repelling Shot&lt;/td&gt;
@@ -351,7 +351,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[180 217 129 239 462 418]" src="https://xivapi.com/i/002000/002609_hr1.png" onclick="openModal(this.id)" alt="WP" /&gt;
+ &lt;img id="[212 95 489 181 30 194]" src="https://xivapi.com/i/002000/002609_hr1.png" onclick="openModal(this.id)" alt="WP" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;The Warden’s Paean&lt;/td&gt;
@@ -360,7 +360,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[270 273 392 137 156 419]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="Pelo" /&gt;
+ &lt;img id="[424 356 430 103 35 98]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="Pelo" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Peloton&lt;/td&gt;
