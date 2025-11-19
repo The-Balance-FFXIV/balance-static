@@ -9,6 +9,8 @@ visibility: public
 changelog:
   - date: 2025-11-07T19:38:42.213Z
     message: Added;
+  - date: 2025-11-19T02:43:18.423Z
+    message: Added PoV
 ---
 # Introduction
 
@@ -181,3 +183,11 @@ The better, but riskier timing-wise, plan is to use **Shadow Wall** for Akh Morn
 Alternatively, **Rampart** for 1+3 and **Shadow Wall** for 2 results in more damage taken but requires no special timing. Use **Dark Mind**, **Oblation**, and **TBN** for all sets.
 
 Best of luck on your clear!
+
+# Clear Point of View Videos
+
+## Dank Tank (7.3, Aether PF strats)
+
+DSR starts at 18:54 in this compilation video. Embed should open to the correct time!
+
+{{< youtube id=tX0r8WVh_Bk start=1134 >}}
