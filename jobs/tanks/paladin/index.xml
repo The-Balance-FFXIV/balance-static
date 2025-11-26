@@ -2,13 +2,13 @@
 &lt;h2 id="opener"&gt;Opener&lt;/h2&gt;
 &lt;p&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[102 483 458 349 335 255]" src="https://www.thebalanceffxiv.com/img/jobs/pld/100open.png" onclick="openModal(this.id)" alt="Paladin Opener graphic" /&gt;
+ &lt;img src="https://www.thebalanceffxiv.com/img/jobs/pld/100open.png" onclick="openModal(this)" alt="Paladin Opener graphic" /&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 &lt;h2 id="rotation"&gt;Rotation&lt;/h2&gt;
 &lt;p&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[446 374 157 267 351 140]" src="https://www.thebalanceffxiv.com/img/jobs/pld/100rotation.png" onclick="openModal(this.id)" alt="Paladin example burst window" /&gt;
+ &lt;img src="https://www.thebalanceffxiv.com/img/jobs/pld/100rotation.png" onclick="openModal(this)" alt="Paladin example burst window" /&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 &lt;h2 id="rotation-goals"&gt;Rotation Goals&lt;/h2&gt;
@@ -16,7 +16,7 @@
 &lt;p&gt;&lt;strong&gt;Iron Will&lt;/strong&gt;
 
 &lt;div class="md__image"&gt;
- &lt;img id="[189 216 479 21 421 65]" src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002505_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;Toggle | 3s cooldown after toggling on. | 1s cooldown after toggling off.&lt;/p&gt;
@@ -25,7 +25,7 @@
 &lt;p&gt;&lt;strong&gt;Fight or Flight&lt;/strong&gt;
 
 &lt;div class="md__image"&gt;
- &lt;img id="[83 390 182 41 495 160]" src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000166_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;60s cooldown.&lt;/p&gt;
@@ -33,9 +33,12 @@
 &lt;p&gt;&lt;strong&gt;Imperator&lt;/strong&gt;
 
 &lt;div class="md__image"&gt;
- &lt;img id="[64 226 78 151 116 253]" src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</link><pubDate>Wed, 06 Aug 2025 19:00:13 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</guid><description>&lt;p&gt;Welcome to the Basics Guide for Paladin! Whether you are a fresh level 100, a returning player, or just need a refresher, this guide will get you started and allow you to hit the ground running.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;60s cooldown.&lt;/p&gt;
+&lt;p&gt;580 potency.&lt;/p&gt;
+&lt;p&gt;Provides 4 stacks of Requiescat, granting instant casts and increasing the potency of Holy Spirit, Holy Circle, Confiteor, and the Blade of Valor combo actions. Stacks are consumed by casting any spell. Also grants Confiteor Ready, enabling the use of Confiteor.&lt;/p&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</link><pubDate>Wed, 06 Aug 2025 19:00:13 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/basic-guide/</guid><description>&lt;p&gt;Welcome to the Basics Guide for Paladin! Whether you are a fresh level 100, a returning player, or just need a refresher, this guide will get you started and allow you to hit the ground running.&lt;/p&gt;
 &lt;p&gt;Since this is a basic introduction to level 100 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below, or in discussion channels on the Balance discord:&lt;/p&gt;</description></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</link><pubDate>Wed, 06 Aug 2025 18:59:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/paladin/faq/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Why is Circle of Scorn used immediately in the opener?&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Circle of Scorn is used before Fight or Flight in most openers and kept on cooldown in most phases for two reasons:&lt;/p&gt;
