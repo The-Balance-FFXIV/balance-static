@@ -185,20 +185,17 @@ Cycle through your mitigation on trash pulls (they hurt more than bosses). Rathe
 
 ## What is TBN?
 
-**The Blackest Night** (**TBN**) is one of Dark Knight's best abilities, but also probably its most misunderstood. It's also one of the best pieces of targeted or personal mitigation in the entire game, if not the best, and hopefully this section helps you understand why.
+**The Blackest Night** (**TBN**) is one of Dark Knight's best abilities and one of the things that makes its mitigation and damage so flexible, but also probably its most misunderstood. It's also one of the best pieces of targeted or personal mitigation in the entire game, if not the best, and hopefully this section will help you understand why.
 
 Unlike other tanks' comparable mitigations, which do not cost any damage gauge, it costs 3000 MP, the same as an **Edge of Shadow**. On the surface, this can cause newer or less experienced Dark Knights to worry about the potential of losing damage, or worry that using it at all will lose them damage. Most obviously, if you use a **TBN** and it doesn't pop, you lose a whole **Edge of Shadow**'s worth of damage. However, if it does pop, it refunds itself with a Dark Arts, allowing the use of the same 3000 MP ability you 'lost'.
 
-Practically speaking, in a large dungeon pull or facing down a tankbuster in a raid or trial, it's almost impossible for it not to break. On boss auto-attacks, it should be immediately obvious as to whether or not those auto-attacks break **TBN** during progression (they almost always will), meaning by the time damage starts mattering, in the rare case that they don't break **TBN**, you'll know for next pull.
+Practically speaking, in a large dungeon pull or facing down a tankbuster in a high-end raid or trial, it's almost impossible for it not to break. On boss auto-attacks, it should be immediately obvious as to whether or not those auto-attacks break **TBN** during progression (they almost always will), meaning by the time damage starts mattering, in the rare case that they don't break **TBN**, you'll know for next pull.
 
 That means that, practically speaking, **TBN** is damage neutral to a damage gain. Since the shield always breaks, you're never losing damage, and you can **gain** damage by using the Dark Arts that its breakage grants can be used to 'move' your MP around, allowing for five **Edge of Shadow**s in a buff window as opposed to four. Indeed, the start of [advanced Dark Knight play](/jobs/tanks/dark-knight/basic-guide/#optimizing-raid-buffs-further) revolves around this concept.
 
 Of course, if a second **TBN** pops before you've used the Dark Arts from the first one, you would lose damage, but that would obviously be user error, and is very easy to avoid.
 
-So, to once and for all answer the question:
-> Is TBN a damage loss?
-
-No. **TBN** is either damage neutral, or a gain, allowing you to move extra damage into buffs.
+To summarize, **TBN** is either damage neutral, or a gain, allowing you to move extra damage into buffs. We'd strongly recommend not being scared of 'losing damage' with **TBN** --- use it liberally during fight progression (where mitigation matters the most), and it if doesn't pop, you can always adjust during the next pull and have everything mapped out by the time you clear.
 
 ## Its Cooldown
 
@@ -206,13 +203,13 @@ No. **TBN** is either damage neutral, or a gain, allowing you to move extra dama
 
 Its cooldown allows it to mitigate damage more frequently than other tanks, allowing you to mitigate tankbusters or other salient damage that's closer together than any other tank. This can be very relevant in some difficult fights like Savages and Ultimates, and the flexibility to be able to use your mitigation more frequently isn't always an option other tanks have.
 
-There **is** a downside of using **TBN** so frequently though, you can move some of your MP spending out of buffs if you use too much. However, up to 4 (the last sometimes requires careful timing, by using **TBN** during a buff window) MP spenders per 2 minutes can be TBN without moving any damage out of buff windows --- all three spenders in the odd-numbered minutes, plus one in the even-numbered minute. An astute reader will note that four per 2 minutes is also the same amount of times that a 25 second cooldown will typically fit.
+There **is** a downside of using **TBN** so frequently though, you can move some of your MP spending out of buffs if you use too much. However, up to 4 (the last sometimes requires careful timing, by using **TBN** during a buff window) MP spenders per 2 minutes can be **TBN** without moving any damage out of buff windows --- all three spenders in the odd-numbered minutes, plus one in the even-numbered minute. An astute reader will note that four per 2 minutes is also the same amount of times that a 25 second cooldown will typically fit.
 
-To summarize, there's very few practical circumstances in which you need (or even want) so many TBNs you move damage out of buff windows, but if there's so much damage you need to TBN so often that you move damage out of burst windows, then **no other tank would have as much mit** as Dark Knight.
+To summarize, there's very few practical circumstances in which you need (or even want) so many **TBN**s you move damage out of buff windows, but if there's so much damage you need to **TBN** so often that you move damage out of burst windows, then **no other tank would have as much mit** as Dark Knight.
 
 A good way to think about it is this: unlike other tanks, Dark Knight has the option to move damage out of buff windows to mitigate more damage whenever it wants. If this is saving healers GCD heals, this is always better, and is another example of **TBN** being a DPS gain compared to other 'short mit'.
 
-## Shields (Like TBN) Are Really Really Good
+## Shields Like TBN Are Really Really Good
 
 **TBN** provides a shield equal to 25% of the target's health upon application. Note that this, like other percentage-based barriers in the game, isn't increased by 'increased healing' effects, such as **Rampart** upon gaining the **Enhanced Rampart** trait.
 
