@@ -230,7 +230,7 @@ Whether that makes any difference at all depends on expected killtimes, expected
 
 ## General rotation with infographic
 
-![](https://i.imgur.com/LGRfOzV.jpeg)
+![](/img/jobs/rdm/rdm-100-info.jpeg)
 
 <https://i.imgur.com/LGRfOzV.jpeg>
 
