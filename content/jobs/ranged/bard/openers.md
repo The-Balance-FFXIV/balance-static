@@ -27,6 +27,10 @@ For all openers:
 
 <br>
 
+![Bard Level 100 2.49 Standard Opener](/img/jobs/brd/standard249-opener-2.png "Bard Level 100 2.49 Standard Opener")
+
+<br>
+
 ![Bard Level 100 3-6-9 Opener](/img/jobs/brd/369-opener-b.png "Bard Level 100 3-6-9 Opener")
 
 # Opener FAQ
