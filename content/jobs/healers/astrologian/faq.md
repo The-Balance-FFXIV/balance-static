@@ -1,8 +1,8 @@
 ---
 title: Frequent Questions
 layout: qna
-patch: "6.0"
-lastmod: 2022-02-14T05:39:07.774Z
+patch: "7.3"
+lastmod: 2025-12-06T09:30:43.493Z
 changelog:
   - date: 2021-10-26T20:59:40.432Z
     message: Article Created.
@@ -11,62 +11,39 @@ changelog:
 qna:
   - question: What about Macros?
     answer: >-
-      **MACRO ABILITIES ARE NEVER OPTIMAL FOR AST, EVER.**
+      **MACRO ABILITIES ARE NEVER OPTIMAL FOR AST, EVER.**\
+
+      (except for /ac gtoff on Star, that one's okay)
 
 
-      Does not matter what it is. If it's Star, if it's cards, if it's Malefic (heavens no), macros should never be desired. If using any, the goal should ALWAYS be to work out of needing them. Yes, this includes you controller players. I play on it without any macros, you can too.
+      That exception being what is being referred to as a "macro GCD" in order to frame 1 target a new entity. Useful for phase transitions and after downtime mechanics! 
 
 
-      There is one set of macro types I will excuse under the condition that using them, the player understands:
+      Otherwise, this includes your (mo)s and (t)s and (me)s. If they help you, that's great, but do not delude yourself into thinking they are `optimal`. 
 
 
-      1. It is objectively unoptimal and is costing them DPS and performance.
+      This is because macros cannot queue. 
 
-      2. They are training wheels that should be worked out of ideally.
 
-      3. They will likely cause hiccups with queueing at times and discombobulate you.
+      And while we are *very* aware of a certain Third Party Tool that lets us queue macros, we cannot recommend it both because it is very much, by definition, cheating (it is not a way anyone would be able to play the game without third party assistance). As well as there is great risk at this program breaking at any point, especially early in a patch. 
+
+
+      And now, with 3 separate plays, the # of macros and HUD clutter has tripled if you choose to use them. 
+
+
+      If you wish to make a macro set as training wheels, or simply accept their inherent flaws and propensity to cause problems, that is totally okay. Again, just accept that they can, and will, cause problems.
   - question: "What about SpS? "
-    answer: >-
-      Yes this gets its own section for now. AST has been a SpS-guzzling job
-      since the end of Shadowbringers with MP adjustments, and the egregiousness
-      of the addiction has been more enabled in Endwalker.
-
-
-      If you want the short story, it simply provides more damage should you never run out of MP/sacrifice other stats for Piety.
-
-
-      If you want the longer explanation, there are only two non-linear stats in the game that grow at different rates from the linear-focused stats otherwise observed: Crit and SpS. Crit still provides the most damage as we are able to stack it more heavily as observed easily through simulations (more chances to crit + higher crit numbers stack together), so this choice is made easier. But why SpS?
-
-
-      In a very crude and not 100% perfect way of explaining things, think about the term `DPS`. Damage per Second. Crit improves your DPS by increasing your `Damage` done in an interval of time. SpS improves your DPS by decreasing the `Second`s required to do a given amount of damage. 
-
-
-      Simulations will also easily back this up, so for those that like concrete proof, the gear sheet will replicate these findings happily. This will be more thoroughly explained in the Advanced Guide once I finish writing that.
-  - question: What about drifting?
-    answer: >-
-      Any level of spell speed should never cause any significant drift with
-      Divination, at the very worst being ~.4s - which is within the expected
-      value any job in the game can drift even at optimal play. The highest
-      recommended BiS in 6.05 - a 2.32 GCD - will cause 0 drift when played
-      properly. 
-
-
-      Reminder that we should be using Lightspeed *before* pressing Divination, as our Dyne window opens up just before Div is supposed to be pressed. We have the entire window after an instant-cast GCD to press Divination. If it drifts significantly, this is either a matter of ping or player error.
-  - question: Astrodyne?
-    answer: >-
-      ![(I am sorry, this is long, we will get it written out
-      asap)](/img/jobs/ast/astrodyne_timeline.png "Astrodyne Timeline")
-
-
-
-
-      To view image full size, [click here](/img/jobs/ast/astrodyne_timeline.png).
-  - question: "Cards? Gauges? "
-    answer: >-
-      ![](/img/jobs/ast/carding_fundamentals_ew.png "Card Fundamentals")
-
-
-      To view image full size, [click here](/img/jobs/ast/carding_fundamentals_ew.png "Card Fundamentals").
+    answer: You can still go quite fast this expansion. MP management can get tight
+      at 2.32/2.31 and min Piety, but it is still sustainable without excessive
+      raising or healing. Do be mindful of what your situation is (progression,
+      farming, PF) and what you are most comfortable handling speed-wise, as
+      slower speeds are more competitive and often even can edge ahead of faster
+      speeds in Dawntrail.
+  - question: How does Lightspeed work now?
+    answer: It still does not increase our DPS by itself, but simply give us free
+      weave space. However, now with 7.01, we get a free one to use once every 2
+      minutes. We still need one for the opener, but now we can also use one
+      charge for movement between bursts.
 authors:
   - Ahriqi
 ---
