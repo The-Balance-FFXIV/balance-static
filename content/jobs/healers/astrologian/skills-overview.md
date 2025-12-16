@@ -156,7 +156,7 @@ changelog:
 * Regen (five ticks of 100p) and mitigation (10%)
 * Total heal potency: 500p if not held
 * Use as a group mitigation and regen
-* If you use CU and cancel it instantly, you'll have five seconds of mitigation
+* If you use CU and cancel it instantly, you'll have ten seconds of mitigation
 * Holding CU will refresh the mitigaiton buff every server tick three seconds a part from each other
 * Do not hold Collective Unconscious during most uptime scenarios
 
