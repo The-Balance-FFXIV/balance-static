@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
-lastmod: 2025-09-09T03:07:45.760Z
+patch: "7.4"
+lastmod: 2025-12-16T18:23:30.749Z
 changelog:
   - date: 2024-07-28T10:20:21.825Z
     message: Added 7.0 sets
@@ -23,6 +23,8 @@ changelog:
   - date: 2025-09-09T03:07:46.969Z
     message: Grouped up the ultimate sets to one header, added 7.3 starter gear,
       some aesthetic changes.
+  - date: 2025-12-16T18:27:45.524Z
+    message: Updates for 7.4
 bis:
   - type: xivgear
     name: Current BiS (2.50)
@@ -37,14 +39,20 @@ bis:
     link: https://xivgear.app/#/bis/drk/current
     description: A 2.46 gearset compatible with 2.50 is also found within.
   - type: xivgear
-    link: https://xivgear.app/?page=embed|bis|drk|starter-gear&onlySetIndex=0
-    name: 7.3 Starter Gear
+    link: https://xivgear.app/?page=embed|bis|drk|prog&onlySetIndex=0
+    name: 2.50 7.4 Savage Prog
+    description: The recommended 2.50 prog set for 7.4 Savage. Should generally not
+      built after week 1 of Savage.
+  - type: xivgear
+    name: 2.46 7.4 Savage Prog
+    link: https://xivgear.app/?page=embed|bis|drk|prog&onlySetIndex=1
+    description: The recommended 2.46 prog set for 7.4 Savage. Should generally not
+      built after week 1 of Savage.
   - type: genericlink
-    name: 7.2 Prog Gearsets
+    name: Savage Prog Gearsets
     link: https://xivgear.app/#/bis/drk/prog
-    description: At time of writing (7.3) this set is not recommended to be built
-      directly now, but is left for posterity. Instead, aim for the starter
-      gearset provided above.
+    description: All sets for 7.4 Savage raid prog. Should generally not built after
+      week 1 of Savage.
   - type: plain-text
     name: Ultimate Raid BiS Gearsets
     link: ""
