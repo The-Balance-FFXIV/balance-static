@@ -60,8 +60,8 @@ changelog:
 
 ### **Biolysis**
 
-* Single target DoT (80 potency, 30s duration), instant cast
-* Total potency: 800
+* Single target DoT (85 potency, 30s duration), instant cast
+* Total potency: 850
 * Keep this on all enemies for 1-4 targets and avoid refreshing it early if possible. Do not apply to enemies that are about to die.
 * If optimizing:
 
