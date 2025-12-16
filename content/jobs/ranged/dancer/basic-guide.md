@@ -3,8 +3,8 @@ title: Basic Guide
 card_header_image: /img/jobs/dnc/basic.png
 authors:
   - Tomcat1408
-patch: "7.2"
-lastmod: 2025-04-01T01:47:28.762Z
+patch: "7.40"
+lastmod: 2025-12-16T20:24:29.800Z
 changelog:
   - date: 2021-10-26T02:04:43.843Z
     message: Page created
@@ -21,6 +21,8 @@ changelog:
     message: Updated for 6.3
   - date: 2025-04-01T01:51:30.653Z
     message: Updated for 7.2
+  - date: 2025-12-16T20:24:32.372Z
+    message: Updated for 7.40
 ---
 # Foreword
 
