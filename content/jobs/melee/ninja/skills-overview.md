@@ -2,7 +2,7 @@
 title: Skills Overview
 authors:
   - zhotacton
-patch: "7.25"
+patch: "7.4"
 lastmod: 2025-03-24T12:20:01.615Z
 changelog:
   - date: 2021-10-28T04:09:39.139Z
@@ -19,6 +19,8 @@ changelog:
     message: Updated to 7.25
   - date: 2025-08-05T15:22:41.862Z
     message: Updated to 7.3
+  - date: 2025-12-16T13:29:53.453Z
+    message: Updated to 7.4
 ---
 # Weaponskills (Commonly referred to as GCDs)
 
