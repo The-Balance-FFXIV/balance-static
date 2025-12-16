@@ -5,8 +5,8 @@ authors:
   - silaqui-amakiir
   - athunin
   - violet-stardust
-patch: "7.3"
-lastmod: 2025-08-05T02:25:46.158Z
+patch: "7.4"
+lastmod: 2025-12-16T18:21:43.760Z
 changelog:
   - date: 2024-07-28T09:27:40.592Z
     message: Updates for 7.0
@@ -15,6 +15,8 @@ changelog:
       earlier.
   - date: 2025-05-18T20:04:45.514Z
     message: Minor updates to reflect hotfixed Shadowstride application delay.
+  - date: 2025-12-16T18:21:45.340Z
+    message: ""
 ---
 # Introduction
 
