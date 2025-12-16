@@ -3,8 +3,8 @@ title: Skills Overview
 authors:
   - shy
   - pyre
-patch: "7.3"
-lastmod: 2025-08-05T02:58:45.592Z
+patch: "7.4"
+lastmod: 2025-12-16T10:27:58.975Z
 changelog:
   - date: 2021-10-27T01:09:43.442Z
     message: Article Created.
@@ -16,6 +16,8 @@ changelog:
     message: upgraded for DT
   - date: 2025-08-05T02:58:46.444Z
     message: updated dia potency
+  - date: 2025-12-16T10:27:59.678Z
+    message: updated for 7.4
 ---
 # **Notable Endwalker Changes**
 
