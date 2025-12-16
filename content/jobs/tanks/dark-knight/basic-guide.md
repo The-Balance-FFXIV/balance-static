@@ -4,19 +4,9 @@ card_header_image: /img/jobs/drk/basic.png
 authors:
   - silaqui-amakiir
   - violet-stardust
-patch: "7.3"
-lastmod: 2025-09-12T22:04:47.892Z
+patch: "7.4"
+lastmod: 2025-12-16T18:20:08.634Z
 changelog:
-  - date: 2021-10-27T17:33:50.039Z
-    message: Added
-  - date: 2022-03-15T01:19:29.210Z
-    message: (Minor) updates for 6.05
-  - date: 2022-04-22T15:32:55.904Z
-    message: (Preliminary) Updates for 6.1
-  - date: 2022-09-19T08:49:40.968Z
-    message: Updates for 6.21
-  - date: 2023-01-18T23:02:37.977Z
-    message: Opener update and patch bump to 6.3.
   - date: 2024-07-28T10:51:24.137Z
     message: Updates for 7.0
   - date: 2024-09-25T22:19:23.129Z
@@ -30,6 +20,8 @@ changelog:
   - date: 2025-09-12T22:04:48.723Z
     message: Restructured raid buff section, added a section about TBN, and added
       section detailing MP usage.
+  - date: 2025-12-16T18:20:09.098Z
+    message: 7.4 updates
 tags: []
 ---
 # Introduction
