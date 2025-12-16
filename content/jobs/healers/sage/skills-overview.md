@@ -3,8 +3,8 @@ title: Skills Overview
 authors:
   - Balance-SGE-Staff
   - wynn
-patch: "7.3"
-lastmod: 2025-08-05T03:02:20.457Z
+patch: "7.4"
+lastmod: 2025-12-16T10:27:30.563Z
 changelog:
   - date: 2022-01-24T08:39:05.371Z
     message: Added page
@@ -24,6 +24,8 @@ changelog:
     message: 7.0 update
   - date: 2025-08-05T03:02:16.283Z
     message: updated for patch 7.3
+  - date: 2025-12-16T10:27:38.552Z
+    message: updated for patch 7.4
 ---
 # Before you Start: Eukrasia
 
