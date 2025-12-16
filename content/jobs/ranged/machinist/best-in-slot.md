@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
-lastmod: 2025-08-22T08:17:48.417Z
+patch: "7.4"
+lastmod: 2025-12-16T21:49:58.533Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
     message: Created page
@@ -18,7 +18,15 @@ changelog:
     message: Updated TOP and DSR sets for 6.45
   - date: 2023-10-04T10:36:00.506Z
     message: top bis updated for 6.5
+  - date: 2025-12-16T21:50:01.494Z
+    message: Updated for Patch 7.4
 bis:
+  - type: xivgear
+    name: 7.4 iLvl 790 BiS
+    link: https://xivgear.app/?page=embed|sl|4c5c04a8-d1ff-4ab3-823b-d94b53a4a50d&onlySetIndex=0
+  - type: xivgear
+    name: 7.4 Week 1 1800 Tomestones BiS
+    link: https://xivgear.app/?page=embed|sl|4c5c04a8-d1ff-4ab3-823b-d94b53a4a50d&onlySetIndex=1
   - type: etro
     name: 7.3 Best-in-Slot 2.5 GCD
     link: https://etro.gg/gearset/77e7913d-3fab-47af-b1ad-e148ca4da205
