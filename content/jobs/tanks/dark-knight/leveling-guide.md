@@ -5,8 +5,8 @@ authors:
   - apileofcats
   - silaqui-amakiir
   - violet-stardust
-patch: "7.3"
-lastmod: 2025-09-14T00:29:37.422Z
+patch: "7.4"
+lastmod: 2025-12-16T18:19:34.298Z
 changelog:
   - date: 2024-07-28T10:30:01.921Z
     message: Updated for 7.0
@@ -18,6 +18,8 @@ changelog:
     message: Minor updates, bolded ability names.
   - date: 2025-09-14T00:29:40.159Z
     message: ""
+  - date: 2025-12-16T18:19:37.670Z
+    message: 7.4 update
 ---
 # Introduction
 
