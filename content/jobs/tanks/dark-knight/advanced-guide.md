@@ -21,6 +21,8 @@ changelog:
     message: Minor Living Shadow scaling correction.
   - date: 2025-05-18T19:55:36.634Z
     message: Minor updates to reflect hotfixed Shadowstride application delay.
+  - date: 2025-12-16T18:23:17.078Z
+    message: Updates for 7.4
 description: ""
 ---
 # Introduction
