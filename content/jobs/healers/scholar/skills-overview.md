@@ -3,8 +3,8 @@ title: Skills Overview
 authors:
   - tealjaker
   - potato
-patch: "7.3"
-lastmod: 2025-08-05T02:59:18.126Z
+patch: "7.4"
+lastmod: 2025-12-16T10:14:59.286Z
 changelog:
   - date: 2021-10-26T21:37:23.610Z
     message: Article Created.
@@ -18,6 +18,8 @@ changelog:
     message: Updated for Dawntrail
   - date: 2025-08-07T04:11:01.488Z
     message: updated for 7.3
+  - date: 2025-12-16T10:15:07.116Z
+    message: update for 7.4
 ---
 # Notable Dawntrail Changes
 
