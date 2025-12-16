@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - Balance-DNC-Staff
-patch: "7.05"
-lastmod: 2024-08-05T14:08:20.752Z
+patch: "7.40"
+lastmod: 2025-12-16T20:25:11.381Z
 changelog:
   - date: 2021-10-26T02:07:05.022Z
     message: Created page
@@ -15,6 +15,8 @@ changelog:
     message: Updated for 6.3
   - date: 2024-08-05T14:08:27.576Z
     message: Updated for Patch 7.05
+  - date: 2025-12-16T20:25:12.206Z
+    message: Updated for Patch 7.40
 ---
 # INFOGRAPHIC
 
