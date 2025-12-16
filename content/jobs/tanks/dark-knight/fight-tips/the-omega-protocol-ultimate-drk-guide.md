@@ -4,8 +4,8 @@ card_header_image: /img/drk_fight_tips_top.png
 authors:
   - apileofcats
   - violet-stardust
-patch: "7.3"
-lastmod: 2025-10-15T01:35:24.470Z
+patch: "7.4"
+lastmod: 2025-12-16T20:08:01.854Z
 visibility: public
 changelog:
   - date: 2025-10-14T02:50:08.625Z
