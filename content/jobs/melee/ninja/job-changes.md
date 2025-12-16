@@ -54,6 +54,8 @@ changes:
       Kunai's Bane potency increased from 600 to 700.
 
       Deathfrog Medium potency increased from 260 to 400.
+  - patch: "7.4"
+    description: Goka Mekkyaku potency increased from 600 to 850.
 authors:
   - Balance-NIN-Staff
 ---
