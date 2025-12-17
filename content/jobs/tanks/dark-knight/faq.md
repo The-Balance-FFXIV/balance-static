@@ -1,8 +1,8 @@
 ---
 title: Frequent Questions
 layout: qna
-patch: "7.3"
-lastmod: 2025-09-13T03:49:09.672Z
+patch: "7.4"
+lastmod: 2025-12-16T18:22:26.418Z
 changelog:
   - date: 2021-10-27T17:50:54.106Z
     message: Added
@@ -67,7 +67,7 @@ qna:
 
       If in doubt, or if none of that made sense, we recommend 2.50. It will likely be more forgiving if you're new to the job or have very high ping, as well as simming very slightly better. If you like Dark Knight a lot, then we recommend trying both, and deciding for yourself what's comfiest for you.
   - question: What food should I use?
-    answer: "(Patch 7.2): Mate Cookie (high quality) is the best food for all of our
+    answer: "Caramel Popcorn (high quality) is the best food for all of our
       recommended gearsets, and will be very likely best for any other set of
       gear, too. "
   - question: How much mitigation will I gain/damage will I lose by focusing on Tenacity?
