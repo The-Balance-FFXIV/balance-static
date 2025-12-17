@@ -1,7 +1,7 @@
 ---
 title: Recent Changes
 layout: changes
-lastmod: 2025-03-24T21:46:04.891Z
+lastmod: 2025-12-16T18:29:13.471Z
 changes:
   - patch: "7.0"
     description: View the latest changes at the Official Site, located
@@ -24,6 +24,12 @@ changes:
       down again for 3-4 targets, and then increasing with more targets up to a
       max of 5.4% at 16 targets (the most that can be hit simultaneously with
       one ability).
+  - patch: "7.4"
+    description: >
+      Living Shadow had its duration extended by two seconds to 22 seconds. This
+      functionally changes nothing (damage or otherwise) under normal
+      conditions, there's just some extra time for Esteem to finish its rotation
+      in case of interruptions (such as retargeting).
 authors:
   - Balance-DRK-Staff
 ---
