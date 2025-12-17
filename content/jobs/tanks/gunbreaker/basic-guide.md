@@ -4,8 +4,8 @@ card_header_image: /img/jobs/gnb/screenshot-2025-09-09-131147.png
 authors:
   - krom
   - azazael
-patch: "7.3"
-lastmod: 2025-08-05T20:50:24.786Z
+patch: "7.4"
+lastmod: 2025-12-17T02:18:02.784Z
 changelog:
   - date: 2022-04-05T18:01:38.826Z
     message: Updated for Endwalker
