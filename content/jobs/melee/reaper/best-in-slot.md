@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
-lastmod: 2025-08-12T22:40:13.423Z
+patch: "7.4"
+lastmod: 2025-12-17T05:34:55.281Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
     message: Created page
@@ -34,67 +34,34 @@ changelog:
     message: Added 7.3 FRU Options
   - date: 2025-08-12T22:40:16.467Z
     message: Fixed incorrect link to FRU gear master set.
+  - date: 2025-12-17T05:35:04.821Z
+    message: "Added 7.4 sets and removed old sets. "
 bis:
-  - type: etro
-    name: 7.2 2.49 Savage BiS
-    link: 03aae80d-81f9-42e3-b05f-02304e7e5968
-    description: >-
-      This is the recommended BiS set for most players. It uses a 2.49 GCD
-      instead of 2.50 to minimize Arcane Circle misalignment and drift, equating
-      to more damage than 2.50.
-
-
-      Use this set unless you play capped on a **stable** 60 FPS.
-
-
-      This set requires one Skill Speed to Direct Hit remeld to play DRG.
-  - type: etro
-    name: 7.2 60 FPS Capped 2.48 BiS
-    link: c3d1be67-8202-4e18-97bb-7a5993215c79
-    description: >-
-      Because of how framerate and abilities interact in FFXIV, 2.49 GCD while
-      capped at 60 FPS is actually closer to 2.50 GCD. This causes Arcane Circle
-      drift and misalignment. This set uses 2.48 GCD to "correct" this while at
-      60 FPS, which plays at effectively 2.49 GCD. 
-
-
-      **Do not use this set unless you are capped at *stable* 60 FPS!** 
-
-
-      Players who are on console should favor this set as console is capped at 60 FPS.
-
-
-      This set requires 2 Skill Speed to Direct Hit remelds to play DRG.
   - type: xivgear
-    name: Savage Prog Recommended Set 450 Tomes Option
-    link: https://xivgear.app/?page=embed%7Csl%7Cdfe23d32-0881-46c7-b019-fb7f9556635a&onlySetIndex=1
-    description: >-
-      The best option for week 1 savage prog if you are only going to have one
-      week of tomes before entering. There is no need to use pentamelds if you
-      are not going for a week 1 kill. 
-
-
-      Replace pieces with higher item level pieces as you get them.
+    name: 7.4 2.49 Savage BiS
+    link: https://xivgear.app/?page=embed|sl|887c54fb-ee93-4784-98b8-4260ada6383b
+    description: This is the recommended BiS set for most players. This set is fully
+      compatible with DRG and SAM BiS, but not with MNK as MNK needs a slightly
+      different meld configuration.
   - type: xivgear
-    name: Savage Prog Recommended Set 900 Tomes Option
-    link: https://xivgear.app/?page=embed%7Csl%7Cdfe23d32-0881-46c7-b019-fb7f9556635a&onlySetIndex=2
-    description: >-
-      The best option for week 1 savage prog if you are going to have enough
-      tomes for two accessories before entering. There is no need to use
-      pentamelds if you are not going for a week 1 kill. 
-
-
-      Replace pieces with higher item level pieces as you get them.
+    name: 7.4 Savage Prog Option (3 weeks of tomes)
+    link: https://xivgear.app/?page=embed|sl|887c54fb-ee93-4784-98b8-4260ada6383b
+    description: This option uses 3 weeks of tomes before entering savage for week 1
+      prog. Do note this set requires an extra 20 tomes that you will need to
+      get the day of savage release for this to work.
   - type: xivgear
-    name: Savage Prog Budget Option
-    link: https://xivgear.app/?page=embed%7Csl%7Cdfe23d32-0881-46c7-b019-fb7f9556635a&onlySetIndex=9
-    description: >-
-      This set is only for players who wish to spend as little as possible. It
-      is strongly recommended that you do not use this set if going for a week 1
-      kill. 
-
-
-      Replace more crafted pieces with normal raid pieces that do not have skill speed to reduce the cost further. Meld skill speed to maintain a 2.49 GCD, but do not go faster than this ideally.
+    name: 7.4 Savage Prog Option (3 weeks of tomes with tome weapon)
+    link: https://xivgear.app/?page=embed|sl|0f15813f-d162-4e40-9bcf-584506ae7f92
+    description: This set uses three weeks of tomes plus an additional 20 that you
+      will need to get before entering savage week 1. This option uses the tome
+      weapon in case you are guaranteed the tome weapon by your team.
+  - type: plain-text
+    name: 7.4 Master Sheet With Additional Prog Options
+    link: ""
+    description: "For additional options, including sets using a full four weeks of
+      tomes if you will be capping before entering savage on week 1, please see
+      our master sheet here:
+      https://xivgear.app/?page=sl|4cfb11d0-532e-49f6-9359-9e944d25da8d"
   - type: etro
     name: 7.05+ Dragonsong's Reprise (Ultimate) BiS (Mixed 730 + 600/605 Gear)
     link: 2f655c79-6db1-4e5b-90f7-41e130bed30a
