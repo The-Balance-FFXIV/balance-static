@@ -5,8 +5,8 @@ authors:
   - Balance-DRK-Staff
   - apileofcats
   - violet-stardust
-patch: "7.3"
-lastmod: 2025-08-05T02:23:29.013Z
+patch: "7.4"
+lastmod: 2025-12-16T20:06:17.457Z
 changelog:
   - date: 2024-12-30T20:25:23.364Z
     message: Added details for all five phases
