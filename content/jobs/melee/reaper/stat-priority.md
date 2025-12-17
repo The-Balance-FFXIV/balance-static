@@ -1,7 +1,7 @@
 ---
 title: Stat Priority
-patch: "7.3"
-lastmod: 2025-08-07T04:08:17.929Z
+patch: "7.4"
+lastmod: 2025-12-17T05:34:13.053Z
 changelog:
   - date: 2022-01-02T19:55:17.973Z
     message: Page Created
@@ -13,6 +13,8 @@ changelog:
     message: Updated to Patch 7.2.
   - date: 2025-08-07T04:08:23.280Z
     message: Updated for Patch 7.3.
+  - date: 2025-12-17T05:34:16.390Z
+    message: Updated to Patch 7.4.
 priority: "Highest Item Level > Critical Hit > Desired Skill Speed > Direct Hit
   Rate = Determination "
 authors:
