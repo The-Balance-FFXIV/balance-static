@@ -3,8 +3,8 @@ title: Openers
 authors:
   - krom
   - azazael
-patch: "7.3"
-lastmod: 2025-08-05T20:50:58.253Z
+patch: "7.4"
+lastmod: 2025-12-17T02:17:36.679Z
 changelog:
   - date: 2021-10-25T21:38:35.164Z
     message: Created article
@@ -27,8 +27,6 @@ Your opener is flexible and **No Mercy** can be used earlier or later than what 
 
 # Graphics
 
-![2.50 Opener](https://u.cubeupload.com/krom/PKVD4O.png "2.50 Opener")
-</br>
-![2.40 Opener](https://u.cubeupload.com/krom/sjDxEW.png "2.40 - 2.47 Opener")
+![Opener](https://u.cubeupload.com/krom/O1Ms7E.png "General Opener")
 </br>
 ![Rotation](https://u.cubeupload.com/krom/otFy8D.png "2.50 Opener")
