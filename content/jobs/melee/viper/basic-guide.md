@@ -3,8 +3,8 @@ title: Basic Guide
 card_header_image: /img/jobs/vpr/image_2024-11-10_193623139.png
 authors:
   - ToraelValdis
-patch: "7.3"
-lastmod: 2025-08-05T04:01:22.800Z
+patch: "7.4"
+lastmod: 2025-12-17T16:12:54.708Z
 changelog:
   - date: 2024-06-17T23:50:53.310Z
     message: Added guide to website
@@ -14,6 +14,8 @@ changelog:
     message: Updated to Patch 7.2.
   - date: 2025-08-05T04:01:31.719Z
     message: Bumped supported patch number to 7.3.
+  - date: 2025-12-17T16:12:49.623Z
+    message: Updated for Patch 7.4
 ---
 # 1﻿. Introduction
 
