@@ -24,41 +24,41 @@ changelog:
     message: Update all sets to 7.2
 bis:
   - type: xivgear
-    name: 7.2 ilvl 760 BiS 2.5 GCD
-    link: https://xivgear.app/?page=embed%7Csl%7Cf0c36ece-774f-493c-9f0c-92c29a364fde&onlySetIndex=2
+    name: 7.4 ilvl 790 BiS 2.5 GCD
+    link: https://xivgear.app/?page=embed|sl|aa7afb9b-0155-4aba-b4c5-4f14095a5d40&onlySetIndex=1
   - type: xivgear
-    name: 7.2 ilvl 740 Baseline Set
-    link: https://xivgear.app/?page=embed%7Csl%7Cf0c36ece-774f-493c-9f0c-92c29a364fde&onlySetIndex=0
+    name: 7.4 ilvl 770 Baseline Set
+    link: https://xivgear.app/?page=embed|sl|aa7afb9b-0155-4aba-b4c5-4f14095a5d40&onlySetIndex=0
     description: Set for starting savage progression without any gear from weekly
       capped tomestones or savage raids
   - type: xivgear
-    name: 7.2 - FRU BiS Savage Weapon
+    name: 7.4 - FRU BiS Savage Weapon
     link: https://xivgear.app/?page=embed%7Csl%7C2af8238e-4b85-4308-b0ab-33df7bb255ea
     description: ""
   - type: xivgear
-    name: 7.2 - FRU BiS Ultimate Weapon
+    name: 7.4 - FRU BiS Ultimate Weapon
     link: https://xivgear.app/?page=embed%7Csl%7C156545f7-e7bd-45c1-b67a-7586da8490a0
   - type: xivgear
-    name: 7.2 - UCOB BiS 2.46 GCD
+    name: 7.4 - UCOB BiS 2.46 GCD
     link: https://xivgear.app/?page=embed%7Csl%7Cbc5cd516-6bb1-4df7-9ac7-7f3bf7a0dcc3
   - type: xivgear
-    name: 7.2 - UWU BiS 2.47 GCD
+    name: 7.4 - UWU BiS 2.47 GCD
     link: https://xivgear.app/?page=embed%7Csl%7Cb2cad254-6c71-4b07-854a-ec30b6900cb8
   - type: xivgear
     description: ""
-    name: "7.2 - TEA BiS 2.50 GCD "
+    name: "7.4 - TEA BiS 2.50 GCD "
     link: https://xivgear.app/?page=embed%7Csl%7C5ede5536-29aa-4d84-a110-e5f86d3959b7
   - type: xivgear
     description: ""
-    name: 7.2 - DSR BiS 2.50 GCD
+    name: 7.4 - DSR BiS 2.50 GCD
     link: https://xivgear.app/?page=embed%7Csl%7Ca6916eab-1fac-4921-adb8-420b5bc66677
   - type: xivgear
     description: ""
-    name: 7.2 - TOP / ASS / ASS (Savage) BiS 2.50 GCD
+    name: 7.4 - TOP / ASS / ASS (Savage) BiS 2.50 GCD
     link: https://xivgear.app/?page=embed%7Csl%7C23d7dc27-198e-4de0-8493-5a59aa2d77ba
   - type: xivgear
     description: ""
-    name: 7.2 - i665 BiS for Mount Rokkon and Aloalo Island
+    name: 7.4 - i665 BiS for Mount Rokkon and Aloalo Island
     link: https://xivgear.app/?page=embed%7Csl%7C904c5625-6534-4a11-881e-fc91c48da3e8
 authors:
   - Balance-DNC-Staff
