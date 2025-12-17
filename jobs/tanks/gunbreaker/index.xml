@@ -1,40 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gunbreaker on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/</link><description>Recent content in Gunbreaker on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 17 Dec 2025 02:18:02 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/index.xml" rel="self" type="application/rss+xml"/><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/basic-guide/</link><pubDate>Wed, 17 Dec 2025 02:18:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/basic-guide/</guid><description>&lt;h1 id="introductory-concepts"&gt;Introductory Concepts&lt;/h1&gt;
-&lt;h2 id="section-tldr"&gt;Section TLDR&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;The gauge is what allows you to use your most important actions. Do not overcap or overspend it.&lt;/li&gt;
-&lt;li&gt;Damage or healing calculations occur when an action is cast, not when they apply to a target. This is important for buff optimization.&lt;/li&gt;
-&lt;li&gt;With GCD recast speeds faster than 2.50, you will occasionally (or always) use &lt;strong&gt;No Mercy&lt;/strong&gt; at 9 o-clock relative to the GCD roll indicator.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Gunbreaker&lt;/strong&gt; is a job with a focus on continuously building and spending cartridges to deal very high damage inside of strict burst windows. As a basic overview, the rotation is a builder-spender rotation focused on optimizing damage dealt every minute inside &lt;strong&gt;No Mercy&lt;/strong&gt;, which is a 20% damage buff that lasts for 20 seconds after its use.&lt;/p&gt;</description></item><item><title>Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/stat-priority/</link><pubDate>Tue, 05 Aug 2025 20:55:50 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/stat-priority/</guid><description/></item><item><title>Gunbreaker Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/job-changes/</link><pubDate>Tue, 05 Aug 2025 20:55:36 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/job-changes/</guid><description/></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/faq/</link><pubDate>Tue, 05 Aug 2025 20:52:18 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/faq/</guid><description/></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/openers/</link><pubDate>Tue, 05 Aug 2025 20:50:58 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/openers/</guid><description>&lt;h1 id="pulling-techniques"&gt;Pulling Techniques&lt;/h1&gt;
-&lt;p&gt;Your opener is flexible and &lt;strong&gt;No Mercy&lt;/strong&gt; can be used earlier or later than what is listed in either of these openers if necessary to allow for additional uses to be used before phases or mechanics, or alignment to your party&amp;rsquo;s buffs.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Do not facepull unless the boss is already within melee range. It is a waste of GCD uptime in comparison to the following options:
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Lightning Shot&lt;/strong&gt; is heavily suggested for MT threat generation and buff alignment.&lt;/li&gt;
-&lt;li&gt;You may opt to use &lt;strong&gt;Trajectory&lt;/strong&gt; at -0.66s on the pull timer for an accurate pull at 0.00s, however it is only worth 20% of the enmity of &lt;strong&gt;Lightning Shot&lt;/strong&gt; and may lose aggro briefly on pull until the first GCD lands (~0.9s after pull begins).&lt;/li&gt;
-&lt;li&gt;You may opt to use &lt;strong&gt;Provoke&lt;/strong&gt; at -0.6s on the pull timer for an accurate pull at 0.00s. Exercise caution using this method - you may need &lt;strong&gt;Provoke&lt;/strong&gt; if the fight begins with a tankbuster.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id="graphics"&gt;Graphics&lt;/h1&gt;
-&lt;p&gt;
-&lt;div class="md__image"&gt;
- &lt;img src="https://u.cubeupload.com/krom/PKVD4O.png" onclick="openModal(this)" alt="2.50 Opener" title="2.50 Opener" /&gt;
-&lt;/div&gt;
-
-&lt;/br&gt;
-
-&lt;div class="md__image"&gt;
- &lt;img src="https://u.cubeupload.com/krom/sjDxEW.png" onclick="openModal(this)" alt="2.40 Opener" title="2.40 - 2.47 Opener" /&gt;
-&lt;/div&gt;
-
-&lt;/br&gt;
-
-&lt;div class="md__image"&gt;
- &lt;img src="https://u.cubeupload.com/krom/otFy8D.png" onclick="openModal(this)" alt="Rotation" title="2.50 Opener" /&gt;
-&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/skills-overview/</link><pubDate>Tue, 05 Aug 2025 20:50:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/skills-overview/</guid><description>&lt;h1 id="offensive-on-global-cool-down-abilities"&gt;Offensive On Global Cool Down Abilities&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gunbreaker on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/</link><description>Recent content in Gunbreaker on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 17 Dec 2025 02:20:42 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/index.xml" rel="self" type="application/rss+xml"/><item><title>Best In Slot</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/best-in-slot/</link><pubDate>Wed, 17 Dec 2025 02:20:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/best-in-slot/</guid><description/></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/skills-overview/</link><pubDate>Wed, 17 Dec 2025 02:18:11 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/skills-overview/</guid><description>&lt;h1 id="offensive-on-global-cool-down-abilities"&gt;Offensive On Global Cool Down Abilities&lt;/h1&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -78,7 +42,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Burst Strike&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 460 potency to a single target. Requires one cartridge and grants &lt;strong&gt;Ready to Blast&lt;/strong&gt; at level 86.&lt;/td&gt;
+ &lt;td&gt;Deals 420 potency to a single target. Requires one cartridge and grants &lt;strong&gt;Ready to Blast&lt;/strong&gt; at level 86.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -87,7 +51,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Gnashing Fang&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 500 potency to a single target and grants &lt;strong&gt;Ready to Rip.&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Deals 440 potency to a single target and grants &lt;strong&gt;Ready to Rip.&lt;/strong&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -96,7 +60,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Savage Claw&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 560 potency to a single target and grants &lt;strong&gt;Ready to Tear.&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Deals 500 potency to a single target and grants &lt;strong&gt;Ready to Tear.&lt;/strong&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -105,7 +69,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Wicked Talon&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 620 potency to a single target and grants &lt;strong&gt;Ready to Gouge.&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Deals 560 potency to a single target and grants &lt;strong&gt;Ready to Gouge.&lt;/strong&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -114,7 +78,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Reign of Beasts&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 1000 potency to the first target hit and 60% less for all remaining enemies within 5y.&lt;/td&gt;
+ &lt;td&gt;Deals 800 potency to the first target hit and 60% less for all remaining enemies within 5y.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -123,7 +87,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Noble Blood&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 1100 potency to the first target hit and 60% less for all remaining enemies within 5y.&lt;/td&gt;
+ &lt;td&gt;Deals 900 potency to the first target hit and 60% less for all remaining enemies within 5y.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -132,7 +96,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Lionheart&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 1200 potency to the first target hit and 60% less for all remaining enemies within 5y.&lt;/td&gt;
+ &lt;td&gt;Deals 1000 potency to the first target hit and 60% less for all remaining enemies within 5y.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -141,7 +105,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Sonic Break&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 300 potency to a single target and applies a damage-over-time effect dealing 60 potency every 3 seconds for a duration of 30 seconds. This totals 900 potency, including the initial hit.&lt;/td&gt;
+ &lt;td&gt;Deals 340 potency to a single target and applies a damage-over-time effect dealing 120 potency every 3 seconds for a duration of 15 seconds. This totals 940 potency, including the initial hit.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -186,7 +150,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Double Down&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 1200 potency to the first target hit and 15% less for all other targets within 5y. Requires one cartridge.&lt;/td&gt;
+ &lt;td&gt;Deals 1000 potency to the first target hit and 15% less for all other targets within 5y. Requires one cartridge.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
@@ -218,7 +182,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Bloodfest&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Completely refills the powder gauge. 120 second cooldown.&lt;/td&gt;
+ &lt;td&gt;Grants 3 temporary cartridges that stack over the normal gauge. 60 second cooldown.&lt;/td&gt;
  &lt;td&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
@@ -238,7 +202,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Jugular Rip&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 240 potency to a single target, cast after &lt;strong&gt;Gnashing Fang.&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Deals 220 potency to a single target, cast after &lt;strong&gt;Gnashing Fang.&lt;/strong&gt;&lt;/td&gt;
  &lt;td&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
@@ -248,7 +212,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Abdomen Tear&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 280 potency to a single target, cast after &lt;strong&gt;Savage Claw.&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Deals 260 potency to a single target, cast after &lt;strong&gt;Savage Claw.&lt;/strong&gt;&lt;/td&gt;
  &lt;td&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
@@ -258,7 +222,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Eye Gouge&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 320 potency to a single target, cast after &lt;strong&gt;Wicked Talon.&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Deals 300 potency to a single target, cast after &lt;strong&gt;Wicked Talon.&lt;/strong&gt;&lt;/td&gt;
  &lt;td&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
@@ -268,7 +232,7 @@
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;&lt;strong&gt;Hypervelocity&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;Deals 200 potency to a single target, cast after &lt;strong&gt;Burst Strike.&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Deals 180 potency to a single target, cast after &lt;strong&gt;Burst Strike.&lt;/strong&gt;&lt;/td&gt;
  &lt;td&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
@@ -471,11 +435,47 @@
  &lt;td&gt;Role action. Transfers 25% of your enmity to a target party member. This effect applies to all enemies on your aggro table.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/leveling-guide/</link><pubDate>Tue, 05 Aug 2025 20:49:45 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/leveling-guide/</guid><description>&lt;h1 id="intro"&gt;Intro&lt;/h1&gt;
+&lt;/table&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/basic-guide/</link><pubDate>Wed, 17 Dec 2025 02:18:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/basic-guide/</guid><description>&lt;h1 id="introductory-concepts"&gt;Introductory Concepts&lt;/h1&gt;
+&lt;h2 id="section-tldr"&gt;Section TLDR&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The gauge is what allows you to use your most important actions. Do not overcap or overspend it.&lt;/li&gt;
+&lt;li&gt;Damage or healing calculations occur when an action is cast, not when they apply to a target. This is important for buff optimization.&lt;/li&gt;
+&lt;li&gt;With GCD recast speeds faster than 2.50, you will occasionally (or always) use &lt;strong&gt;No Mercy&lt;/strong&gt; at 9 o-clock relative to the GCD roll indicator.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Gunbreaker&lt;/strong&gt; is a job with a focus on continuously building and spending cartridges to deal very high damage inside of strict burst windows. As a basic overview, the rotation is a builder-spender rotation focused on optimizing damage dealt every minute inside &lt;strong&gt;No Mercy&lt;/strong&gt;, which is a 20% damage buff that lasts for 20 seconds after its use.&lt;/p&gt;</description></item><item><title>Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/stat-priority/</link><pubDate>Tue, 05 Aug 2025 20:55:50 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/stat-priority/</guid><description/></item><item><title>Gunbreaker Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/job-changes/</link><pubDate>Tue, 05 Aug 2025 20:55:36 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/job-changes/</guid><description/></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/faq/</link><pubDate>Tue, 05 Aug 2025 20:52:18 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/faq/</guid><description/></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/openers/</link><pubDate>Tue, 05 Aug 2025 20:50:58 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/openers/</guid><description>&lt;h1 id="pulling-techniques"&gt;Pulling Techniques&lt;/h1&gt;
+&lt;p&gt;Your opener is flexible and &lt;strong&gt;No Mercy&lt;/strong&gt; can be used earlier or later than what is listed in either of these openers if necessary to allow for additional uses to be used before phases or mechanics, or alignment to your party&amp;rsquo;s buffs.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do not facepull unless the boss is already within melee range. It is a waste of GCD uptime in comparison to the following options:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Shot&lt;/strong&gt; is heavily suggested for MT threat generation and buff alignment.&lt;/li&gt;
+&lt;li&gt;You may opt to use &lt;strong&gt;Trajectory&lt;/strong&gt; at -0.66s on the pull timer for an accurate pull at 0.00s, however it is only worth 20% of the enmity of &lt;strong&gt;Lightning Shot&lt;/strong&gt; and may lose aggro briefly on pull until the first GCD lands (~0.9s after pull begins).&lt;/li&gt;
+&lt;li&gt;You may opt to use &lt;strong&gt;Provoke&lt;/strong&gt; at -0.6s on the pull timer for an accurate pull at 0.00s. Exercise caution using this method - you may need &lt;strong&gt;Provoke&lt;/strong&gt; if the fight begins with a tankbuster.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="graphics"&gt;Graphics&lt;/h1&gt;
+&lt;p&gt;
+&lt;div class="md__image"&gt;
+ &lt;img src="https://u.cubeupload.com/krom/PKVD4O.png" onclick="openModal(this)" alt="2.50 Opener" title="2.50 Opener" /&gt;
+&lt;/div&gt;
+
+&lt;/br&gt;
+
+&lt;div class="md__image"&gt;
+ &lt;img src="https://u.cubeupload.com/krom/sjDxEW.png" onclick="openModal(this)" alt="2.40 Opener" title="2.40 - 2.47 Opener" /&gt;
+&lt;/div&gt;
+
+&lt;/br&gt;
+
+&lt;div class="md__image"&gt;
+ &lt;img src="https://u.cubeupload.com/krom/otFy8D.png" onclick="openModal(this)" alt="Rotation" title="2.50 Opener" /&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/leveling-guide/</link><pubDate>Tue, 05 Aug 2025 20:49:45 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/leveling-guide/</guid><description>&lt;h1 id="intro"&gt;Intro&lt;/h1&gt;
 &lt;p&gt;This guide will teach you when to use your AOE skills while you are engaged in leveling content. You should generally follow these rules:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;You should be using &lt;strong&gt;No Mercy&lt;/strong&gt; off cooldown while in combat, unless doing so would waste most of it&amp;rsquo;s active duration (e.g. mobs during a dungeon pull have almost died.)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;You should be using all of your damaging off-GCD cooldowns such as &lt;strong&gt;Blasting Zone&lt;/strong&gt; and &lt;strong&gt;Bow Shock&lt;/strong&gt; on any number of enemies.&lt;/p&gt;</description></item><item><title>Best In Slot</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/best-in-slot/</link><pubDate>Tue, 05 Aug 2025 20:49:16 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/best-in-slot/</guid><description/></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/advanced-guide/</link><pubDate>Mon, 26 Sep 2022 03:14:07 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/advanced-guide/</guid><description>&lt;p&gt;Oops, we don&amp;rsquo;t have that guide yet! Interested in contributing? Feel free to join the &lt;a href="https://discord.gg/thebalanceffxiv"&gt;Balance Discord server&lt;/a&gt; to contact a job mentor/admin and express your interest!&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;You should be using all of your damaging off-GCD cooldowns such as &lt;strong&gt;Blasting Zone&lt;/strong&gt; and &lt;strong&gt;Bow Shock&lt;/strong&gt; on any number of enemies.&lt;/p&gt;</description></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/advanced-guide/</link><pubDate>Mon, 26 Sep 2022 03:14:07 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/advanced-guide/</guid><description>&lt;p&gt;Oops, we don&amp;rsquo;t have that guide yet! Interested in contributing? Feel free to join the &lt;a href="https://discord.gg/thebalanceffxiv"&gt;Balance Discord server&lt;/a&gt; to contact a job mentor/admin and express your interest!&lt;/p&gt;</description></item></channel></rss>
