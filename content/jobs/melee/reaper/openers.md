@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - Balance-RPR-Staff
-patch: "7.3"
-lastmod: 2025-08-10T08:26:35.874Z
+patch: "7.4"
+lastmod: 2025-12-17T05:32:13.946Z
 changelog:
   - date: 2022-01-29T01:54:23.902Z
     message: Updated Fast Shroud opener (Adjusted potion for better timing)
@@ -21,6 +21,8 @@ changelog:
     message: Updated opener for better raid buff alignment.
   - date: 2025-03-24T21:32:07.392Z
     message: Updated to Patch 7.2.
+  - date: 2025-12-17T05:32:04.985Z
+    message: Updated to Patch 7.4.
 ---
 ## 2nd GCD AC
 
