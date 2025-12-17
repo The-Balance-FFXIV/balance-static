@@ -3,8 +3,8 @@ title: Intermediate Guide
 card_header_image: /img/jobs/vpr/large-file-viper-1.png
 authors:
   - ToraelValdis
-patch: "7.3"
-lastmod: 2025-08-05T04:04:32.373Z
+patch: "7.4"
+lastmod: 2025-12-17T16:22:16.354Z
 changelog:
   - date: 2024-06-20T05:44:33.192Z
     message: Guide added to website
@@ -19,6 +19,8 @@ changelog:
       description of when to use what. "
   - date: 2025-08-05T04:04:28.058Z
     message: Bumped supported patch number to 7.3.
+  - date: 2025-12-17T16:22:10.293Z
+    message: Updated to Patch 7.4
 ---
 # Introduction
 
