@@ -1,8 +1,7 @@
 ---
-title: Frequent Questions
 layout: qna
-patch: "7.20"
-lastmod: 2025-04-01T04:00:56.823Z
+patch: "7.40"
+lastmod: 2025-12-16T20:26:54.155Z
 qna:
   - question: Who do I Dance Partner?
     answer: >-
@@ -93,6 +92,7 @@ changelog:
     message: Updated for Endwalker.
   - date: 2022-06-11T02:19:30.810Z
     message: Small Update
+title: Frequent Questions
 tags:
   - Dancer
   - FAQ
