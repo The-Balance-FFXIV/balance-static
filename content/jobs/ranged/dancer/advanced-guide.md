@@ -4,8 +4,8 @@ card_header_image: /img/jobs/dnc/advanced.png
 authors:
   - Tomcat1408
   - Balance-DNC-Staff
-patch: "7.2"
-lastmod: 2025-04-01T04:57:15.171Z
+patch: "7.40"
+lastmod: 2025-12-16T20:27:42.326Z
 changelog:
   - date: 2021-11-15T21:14:20.824Z
     message: Added page
@@ -19,6 +19,8 @@ changelog:
     message: Updated for 6.3
   - date: 2025-04-01T04:57:19.268Z
     message: Updated for 7.2
+  - date: 2025-12-16T20:27:44.837Z
+    message: Updated for 7.40
 tags:
   - Dancer
   - DNC
