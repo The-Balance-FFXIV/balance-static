@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FFXIV on Balance Guides</title><link>https://www.thebalanceffxiv.com/tags/ffxiv/</link><description>Recent content in FFXIV on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 16 Dec 2025 21:49:58 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/tags/ffxiv/index.xml" rel="self" type="application/rss+xml"/><item><title>Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</link><pubDate>Tue, 16 Dec 2025 21:49:58 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</guid><description/></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</link><pubDate>Tue, 16 Dec 2025 20:27:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</guid><description>&lt;p&gt;by Tomcat Frost (Faerie)&lt;/p&gt;
 &lt;h1 id="foreword"&gt;FOREWORD&lt;/h1&gt;
 &lt;p&gt;One of the biggest requests I have had is a more concise document on what people “need to know” before jumping into more difficult content. This is not meant to be a replacement for a general guide to Dancer; please see Ringabel’s extensive write-up instead, which will be linked at the end of the document in the appendix.&lt;/p&gt;
-&lt;p&gt;This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.&lt;/p&gt;</description></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</link><pubDate>Tue, 05 Aug 2025 17:58:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</guid><description>&lt;h1 id="graphics-and-notes"&gt;Graphics and Notes&lt;/h1&gt;
+&lt;p&gt;This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.&lt;/p&gt;</description></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 16 Dec 2025 20:26:54 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>&lt;h1 id="dance-partner-priority"&gt;DANCE PARTNER PRIORITY&lt;/h1&gt;
+&lt;p&gt;This list is made in a gear/skill vacuum. This is the recommended partner priority list.&lt;br&gt;
+Special Note: some fights may favor certain Dance Partners over others based on phases/mechanics or ability to hit multiple targets.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated: January 19, 2021 to account for balance changes in patch 5.4.&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;SAM&lt;/li&gt;
+&lt;li&gt;NIN&lt;/li&gt;
+&lt;li&gt;MNK / BLM (crit build)*&lt;/li&gt;
+&lt;li&gt;DRG / SMN&lt;/li&gt;
+&lt;li&gt;RDM&lt;/li&gt;
+&lt;li&gt;MCH&lt;/li&gt;
+&lt;li&gt;BRD&lt;/li&gt;
+&lt;li&gt;DNC&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;*Data on BLM SpS build as a dance partner is not available due to length in time to reach BiS with this build as of this update, but value as a dance partner is believed to drop significantly between the two builds due to under utilization of Devilment.&lt;/p&gt;</description></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</link><pubDate>Tue, 05 Aug 2025 17:58:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</guid><description>&lt;h1 id="graphics-and-notes"&gt;Graphics and Notes&lt;/h1&gt;
 &lt;p&gt;
 &lt;div class="md__image"&gt;
  &lt;img src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-standard-opener-aa-6-.png" onclick="openModal(this)" alt="" /&gt;
@@ -27,21 +41,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
 &lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/"&gt;Skills Overview&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/"&gt;Frequently Asked Questions&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id="job-overview"&gt;Job Overview&lt;/h1&gt;
-&lt;p&gt;Machinist is a fast-paced physical ranged job that excels at quick burst damage and has the added benefit of free movement. While the base rotation for this job is somewhat strict, Machinist excels in dumping burst into raid buffs with flexible use of its gauge system. This guide aims to break down the job’s rotation into something easy to digest while providing good practices to follow for overall gameplay.&lt;/p&gt;</description></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 01 Apr 2025 04:00:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>&lt;h1 id="dance-partner-priority"&gt;DANCE PARTNER PRIORITY&lt;/h1&gt;
-&lt;p&gt;This list is made in a gear/skill vacuum. This is the recommended partner priority list.&lt;br&gt;
-Special Note: some fights may favor certain Dance Partners over others based on phases/mechanics or ability to hit multiple targets.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Updated: January 19, 2021 to account for balance changes in patch 5.4.&lt;/em&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;SAM&lt;/li&gt;
-&lt;li&gt;NIN&lt;/li&gt;
-&lt;li&gt;MNK / BLM (crit build)*&lt;/li&gt;
-&lt;li&gt;DRG / SMN&lt;/li&gt;
-&lt;li&gt;RDM&lt;/li&gt;
-&lt;li&gt;MCH&lt;/li&gt;
-&lt;li&gt;BRD&lt;/li&gt;
-&lt;li&gt;DNC&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;*Data on BLM SpS build as a dance partner is not available due to length in time to reach BiS with this build as of this update, but value as a dance partner is believed to drop significantly between the two builds due to under utilization of Devilment.&lt;/p&gt;</description></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</link><pubDate>Thu, 14 Sep 2023 12:15:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</guid><description>&lt;p&gt;&lt;em&gt;This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
+&lt;p&gt;Machinist is a fast-paced physical ranged job that excels at quick burst damage and has the added benefit of free movement. While the base rotation for this job is somewhat strict, Machinist excels in dumping burst into raid buffs with flexible use of its gauge system. This guide aims to break down the job’s rotation into something easy to digest while providing good practices to follow for overall gameplay.&lt;/p&gt;</description></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</link><pubDate>Thu, 14 Sep 2023 12:15:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</guid><description>&lt;p&gt;&lt;em&gt;This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
 It assumes you are already familiar with the fundamentals of the job – if you need a refresher, please
 read the &lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/"&gt;Basic Guide&lt;/a&gt; and come back when you&amp;rsquo;re done.&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id="introduction-to-optimization"&gt;Introduction to Optimization&lt;/h1&gt;
