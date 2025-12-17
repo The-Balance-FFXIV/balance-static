@@ -1,8 +1,8 @@
 ---
 title: Frequent Questions
 layout: qna
-patch: "7.3"
-lastmod: 2025-08-07T04:10:29.518Z
+patch: "7.4"
+lastmod: 2025-12-17T05:33:08.675Z
 changelog:
   - date: 2021-12-04T04:55:35.452Z
     message: Page created
@@ -14,9 +14,9 @@ changelog:
     message: "Updated to be consistent with our Discord RPR Resources page. "
 qna:
   - question: Which Potion/Food should RPR use?
-    answer: The highest available Strength potion. Currently, that is **Grade 3
-      Gemdraught of Strength**. Current food is **Mate Cookie.** Always use High
-      Quality!
+    answer: The highest available Strength potion. Currently, that is **Grade 4
+      Gemdraught of Strength**. Current food is **Caramel Popcorn.** Always use
+      High Quality!
   - question: Why is my Plentiful Harvest clipping in the AC 3rd GCD Opener?
     answer: Plentiful Harvest cannot be used for 6.7s after using Arcane Circle. You
       must early weave it or it will cause a clip if used where it is in the
