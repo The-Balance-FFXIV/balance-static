@@ -4,8 +4,8 @@ card_header_image: /img/drk_fight_tips.png
 authors:
   - apileofcats
   - violet-stardust
-patch: "7.3"
-lastmod: 2025-08-05T02:23:58.653Z
+patch: "7.4"
+lastmod: 2025-12-16T20:07:00.108Z
 changelog:
   - date: 2025-01-14T23:57:19.217Z
     message: Initial guide added.
@@ -24,7 +24,7 @@ One note for this encounter unlike fights from other expansions is that auto-att
 
 Dark Knight BiS for UCoB can be found at the following link: [https://xivgear.app/#/bis/drk/ultimate/ucob](https://xivgear.app/#/bis/drk/ultimate/ucob), which will always be kept up to date and have a variety of options. 
 
-If you have the Shadowbringers relic, we recommend a GCD speed of 2.45 or 2.40 to take advantage of the free Skill Speed provided.
+If you have the Shadowbringers relic, we recommend a GCD speed of 2.40, to take advantage of the free Skill Speed provided. If you're not used to faster speeds or might usually shy away from them, be aware that 2.40 almost identical to 2.50, since both numbers cleanly divide 60, meaning your 60 second cooldowns (like **Delirium**) will not drift.
 
 # Potion Usage
 
