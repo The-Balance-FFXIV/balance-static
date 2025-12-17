@@ -4,8 +4,8 @@ card_header_image: /img/jobs/dnc/leveling.png
 authors:
   - Balance-DNC-Staff
   - Ringabel-Dim
-patch: "7.0"
-lastmod: 2024-06-28T14:10:43.393Z
+patch: "7.40"
+lastmod: 2025-12-16T20:23:42.853Z
 changelog:
   - date: 2021-11-15T21:12:55.751Z
     message: Added page
@@ -17,6 +17,8 @@ changelog:
     message: Updated the guide for 6.3
   - date: 2024-06-28T07:12:42.566Z
     message: Updated the guide for Dawntrail
+  - date: 2025-12-16T20:23:44.109Z
+    message: Updated the guide for 7.40
 ---
 # Introduction
 
