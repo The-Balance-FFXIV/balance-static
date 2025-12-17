@@ -3,8 +3,8 @@ title: Skills Overview
 authors:
   - krom
   - azazael
-patch: "7.3"
-lastmod: 2025-08-05T20:50:41.670Z
+patch: "7.4"
+lastmod: 2025-12-17T02:18:11.542Z
 changelog:
   - date: 2021-10-25T21:30:58.365Z
     message: Added Superbolide w/ EW buff
