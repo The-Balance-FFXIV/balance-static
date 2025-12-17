@@ -4,8 +4,8 @@ card_header_image: /img/drk_fight_tips.png
 authors:
   - violet-stardust
   - apileofcats
-patch: "7.3"
-lastmod: 2025-08-05T02:23:44.443Z
+patch: "7.4"
+lastmod: 2025-12-16T20:07:24.015Z
 changelog:
   - date: 2025-06-11T17:10:15.284Z
     message: Added TEA guide.
