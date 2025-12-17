@@ -3,8 +3,8 @@ title: Skills Overview
 authors:
   - ashepaladin
   - silaqui-amakiir
-patch: "7.3"
-lastmod: 2025-08-06T19:00:38.003Z
+patch: "7.4"
+lastmod: 2025-12-17T03:03:35.343Z
 changelog:
   - date: 2021-10-27T17:21:39.738Z
     message: Added
@@ -141,7 +141,7 @@ Does not Interrupt Royal Authority combo.
 
 450 potency | 30s cooldown.
 
-AoE around target, 50% less damage on secondary targets.
+AoE around target, 60% less damage on secondary targets.
 
 +500 MP
 
