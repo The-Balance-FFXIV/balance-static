@@ -1,7 +1,7 @@
 ---
 title: Stat Priority
-patch: "7.3"
-lastmod: 2025-08-05T20:55:50.406Z
+patch: "7.4"
+lastmod: 2025-12-17T02:20:57.830Z
 changelog:
   - date: 2021-10-25T21:49:20.050Z
     message: Created page
