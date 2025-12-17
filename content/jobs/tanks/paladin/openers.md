@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - Balance-PLD-Staff
-patch: "7.3"
-lastmod: 2025-09-15T16:51:11.068Z
+patch: "7.4"
+lastmod: 2025-12-17T03:04:06.310Z
 changelog:
   - date: 2021-10-27T17:21:23.427Z
     message: Created
