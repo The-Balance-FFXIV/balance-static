@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.2"
-lastmod: 2025-03-30T10:24:31.355Z
+patch: "7.4"
+lastmod: 2025-12-17T18:20:01.328Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
@@ -27,25 +27,28 @@ changelog:
     message: FRU Weapon BiS added, pentamelded sets removed
   - date: 2025-03-30T10:24:34.672Z
     message: Added new sets for 7.2, removed old sets
+  - date: 2025-12-17T18:20:02.385Z
+    message: Updated with static links for 7.4 sets and FRU
 bis:
   - type: xivgear
     description: |-
-      Compatibility with Reaper:
-      99% compatible - unavoidable meld change in one ring to get their 2.49
-    link: https://xivgear.app/?page=embed|sl|7dadec28-4402-471b-918b-796a6db7efa6&onlySetIndex=2
+      Compatibility:
+      100% compatible with RPR and SAM.
+      Not directly compatible with MNK.
+    link: https://xivgear.app/?page=embed|bis|drg|current&onlySetIndex=0
     name: Savage BiS - 2.50 GCD
-  - type: xivgear
-    name: Prog BiS - 2.50 (Pentamelded)
-    link: https://xivgear.app/?page=embed|sl%7C7dadec28-4402-471b-918b-796a6db7efa6&onlySetIndex=0
+  - type: plain-text
+    name: Prog BiS
+    link: ""
     description: |-
-      For a budget set just leave out the overmelds.
+      Please visit the following link to see all options \
+      For budget sets you can just leave out the overmelds \
 
-      Compatibility with Reaper:
-      99% compatible - unavoidable meld change in one ring to get their 2.49
-  - type: etro
-    name: FRU Weapon BiS
-    link: https://etro.gg/gearset/72272317-821d-42ec-a1ea-70e7ecf4408f
-    description: "Changes from Savage BiS: Swap one DET for DHIT on Legs"
+      https://xivgear.app/?page=bis|drg|prog
+  - type: xivgear
+    name: FRU BiS
+    link: https://xivgear.app/?page=embed|bis|drg|ultimate|fru&onlySetIndex=0
+    description: ""
   - type: etro
     description: Syncing gear is currently not a viable option for this fight due to
       the massive loss of substats from materia. The relic weapon is an
