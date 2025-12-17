@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
-lastmod: 2025-08-06T19:01:33.340Z
+patch: "7.4"
+lastmod: 2025-12-17T03:06:43.821Z
 changelog:
   - date: 2021-10-28T03:10:04.413Z
     message: Created page
@@ -32,10 +32,10 @@ bis:
     name: Gear Planner
     link: https://xivgear.app/
   - type: xivgear
-    name: 7.2 BiS
+    name: 7.4 BiS
     link: https://xivgear.app/?page=embed|bis|pld|current&onlySetIndex=0
   - type: genericlink
-    name: 7.2 Prog Sets
+    name: 7.4 Prog Sets
     link: https://xivgear.app/?page=bis|pld|prog
   - type: genericlink
     name: Futures Rewritten (Ultimate) [FRU] Sets
