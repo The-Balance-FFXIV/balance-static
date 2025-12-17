@@ -1,30 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machinist on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/</link><description>Recent content in Machinist on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 16 Dec 2025 21:49:58 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/index.xml" rel="self" type="application/rss+xml"/><item><title>Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</link><pubDate>Tue, 16 Dec 2025 21:49:58 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</guid><description/></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</link><pubDate>Tue, 05 Aug 2025 17:58:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</guid><description>&lt;h1 id="graphics-and-notes"&gt;Graphics and Notes&lt;/h1&gt;
-&lt;p&gt;
-&lt;div class="md__image"&gt;
- &lt;img src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-standard-opener-aa-6-.png" onclick="openModal(this)" alt="" /&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;br&gt;
-With the addition of the extra tools, and despite the fact that we want to optimize as best as we can into buffs, it is still ideal to start off with a prepull Reassemble. It shaves off quite a bit of time to get the cooldown rolling and could possibly net us an extra usage depending on the fight layout in Dawntrail. Depending on the fight, we can transpose Drill and Air Anchor in the opener if we can gain an extra Drill for it. 
-&lt;br&gt;
-&lt;br&gt;
-For now, Air Anchor remains the priority due to the huge value of 20 battery compared to the relatively small direct potency gain of using a tool over a combo GCD. The order of the oGCDs isn’t super important - we want to place the 2nd Reassemble in buffs, so it can be used on Excavator, or the following Drill, as long as it catches buffs. We want Wildfire to be used as early as possible within the buff window, so we weave it before Full Metal Field . We also aim to fit as many Double Check/Checkmate into buffs as possible. While we would much prefer a 2 minute pot if possible, some fights do not allow for this. If we have to use an opener pot, we want to use it two seconds before pulling the boss.
-&lt;br&gt;
-&lt;br&gt;
-&lt;p&gt;
-&lt;div class="md__image"&gt;
- &lt;img src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-alternative-opener-static-to-even-minute-bursts-.png" onclick="openModal(this)" alt="" /&gt;
-&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/</link><pubDate>Tue, 05 Aug 2025 17:57:45 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;Welcome to the Basic Machinist Guide! Within this document, you&amp;rsquo;ll find all the information you&amp;rsquo;ll need to play the job well. The links below can be used as teleports to other pages if you need the information while learning the job. Any questions can be directed to the Machinist channels in our Discord.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/"&gt;Openers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/"&gt;Advanced Guide&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-OPOskH-llQ"&gt;Video Guide&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/"&gt;Gearing and Meld Priority&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/"&gt;Skills Overview&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/"&gt;Frequently Asked Questions&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id="job-overview"&gt;Job Overview&lt;/h1&gt;
-&lt;p&gt;Machinist is a fast-paced physical ranged job that excels at quick burst damage and has the added benefit of free movement. While the base rotation for this job is somewhat strict, Machinist excels in dumping burst into raid buffs with flexible use of its gauge system. This guide aims to break down the job’s rotation into something easy to digest while providing good practices to follow for overall gameplay.&lt;/p&gt;</description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</link><pubDate>Tue, 05 Aug 2025 06:31:09 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</guid><description>&lt;h1 id="single-target-actions"&gt;Single-Target Actions&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machinist on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/</link><description>Recent content in Machinist on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 16 Dec 2025 21:49:58 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/index.xml" rel="self" type="application/rss+xml"/><item><title>Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</link><pubDate>Tue, 16 Dec 2025 21:49:58 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</guid><description/></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</link><pubDate>Tue, 16 Dec 2025 21:49:05 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</guid><description>&lt;h1 id="single-target-actions"&gt;Single-Target Actions&lt;/h1&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -88,7 +62,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;td&gt;58&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;20 seconds&lt;/td&gt;
- &lt;td&gt;Delivers an attack with a potency of 620. Maximum Charges: 2 (Gained at Level 94). Shares a recast timer with Bioblaster&lt;/td&gt;
+ &lt;td&gt;Delivers an attack with a potency of 660. Maximum Charges: 2 (Gained at Level 94). Shares a recast timer with Bioblaster&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -101,7 +75,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;td&gt;76&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;40 seconds&lt;/td&gt;
- &lt;td&gt;Delivers an attack with a potency of 620. Generates 20 Battery.&lt;/td&gt;
+ &lt;td&gt;Delivers an attack with a potency of 660. Generates 20 Battery.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -114,7 +88,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;td&gt;90&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;60 seconds&lt;/td&gt;
- &lt;td&gt;Delivers an attack with a potency of 620. Generates 20 Battery. Damage fall-off of 25% for all other enemies in a line to the target. Grants Excavator Ready.&lt;/td&gt;
+ &lt;td&gt;Delivers an attack with a potency of 660. Generates 20 Battery. Damage fall-off of 25% for all other enemies in a line to the target. Grants Excavator Ready.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -218,7 +192,7 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;td&gt;96&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.5 seconds&lt;/td&gt;
- &lt;td&gt;Delivers an attack with a potency of 620. Generates 20 Battery. Damage fall-off of 25% for all other enemies in a line to the target. Can only be used under the effect of Excavator Ready.&lt;/td&gt;
+ &lt;td&gt;Delivers an attack with a potency of 660. Generates 20 Battery. Damage fall-off of 25% for all other enemies in a line to the target. Can only be used under the effect of Excavator Ready.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -516,7 +490,33 @@ For now, Air Anchor remains the priority due to the huge value of 20 battery com
  &lt;td&gt;Increases movement speed for self and nearby party members.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/leveling-guide/</link><pubDate>Sat, 12 Apr 2025 01:34:19 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/leveling-guide/</guid><description>&lt;h1 id="simple-pointers-for-new-machinists"&gt;Simple Pointers for New Machinists&lt;/h1&gt;
+&lt;/table&gt;</description></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</link><pubDate>Tue, 05 Aug 2025 17:58:00 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</guid><description>&lt;h1 id="graphics-and-notes"&gt;Graphics and Notes&lt;/h1&gt;
+&lt;p&gt;
+&lt;div class="md__image"&gt;
+ &lt;img src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-standard-opener-aa-6-.png" onclick="openModal(this)" alt="" /&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;br&gt;
+With the addition of the extra tools, and despite the fact that we want to optimize as best as we can into buffs, it is still ideal to start off with a prepull Reassemble. It shaves off quite a bit of time to get the cooldown rolling and could possibly net us an extra usage depending on the fight layout in Dawntrail. Depending on the fight, we can transpose Drill and Air Anchor in the opener if we can gain an extra Drill for it. 
+&lt;br&gt;
+&lt;br&gt;
+For now, Air Anchor remains the priority due to the huge value of 20 battery compared to the relatively small direct potency gain of using a tool over a combo GCD. The order of the oGCDs isn’t super important - we want to place the 2nd Reassemble in buffs, so it can be used on Excavator, or the following Drill, as long as it catches buffs. We want Wildfire to be used as early as possible within the buff window, so we weave it before Full Metal Field . We also aim to fit as many Double Check/Checkmate into buffs as possible. While we would much prefer a 2 minute pot if possible, some fights do not allow for this. If we have to use an opener pot, we want to use it two seconds before pulling the boss.
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;
+&lt;div class="md__image"&gt;
+ &lt;img src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-alternative-opener-static-to-even-minute-bursts-.png" onclick="openModal(this)" alt="" /&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/</link><pubDate>Tue, 05 Aug 2025 17:57:45 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Welcome to the Basic Machinist Guide! Within this document, you&amp;rsquo;ll find all the information you&amp;rsquo;ll need to play the job well. The links below can be used as teleports to other pages if you need the information while learning the job. Any questions can be directed to the Machinist channels in our Discord.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/"&gt;Openers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/"&gt;Advanced Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-OPOskH-llQ"&gt;Video Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/"&gt;Gearing and Meld Priority&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/"&gt;Skills Overview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/"&gt;Frequently Asked Questions&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id="job-overview"&gt;Job Overview&lt;/h1&gt;
+&lt;p&gt;Machinist is a fast-paced physical ranged job that excels at quick burst damage and has the added benefit of free movement. While the base rotation for this job is somewhat strict, Machinist excels in dumping burst into raid buffs with flexible use of its gauge system. This guide aims to break down the job’s rotation into something easy to digest while providing good practices to follow for overall gameplay.&lt;/p&gt;</description></item><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/leveling-guide/</link><pubDate>Sat, 12 Apr 2025 01:34:19 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/leveling-guide/</guid><description>&lt;h1 id="simple-pointers-for-new-machinists"&gt;Simple Pointers for New Machinists&lt;/h1&gt;
 &lt;p&gt;Unlocking new jobs can be daunting, so to alleviate some of the stress of all of the new actions, here’s some tips to help the new Machinists understand their rotation while leveling and gain some insight into how everything comes together!  Reference the weaponskills and abilities in the &lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/"&gt;beginner&amp;rsquo;s guide&lt;/a&gt; if you forget exactly what things do. &lt;/p&gt;
 &lt;p&gt;For clarity purposes:&lt;/p&gt;
 &lt;ul&gt;
