@@ -3,8 +3,8 @@ title: The Dragonsong's Reprise (Ultimate) DRK Guide
 card_header_image: /img/drk_fight_tips_top.png
 authors:
   - apileofcats
-patch: "7.3"
-lastmod: 2025-11-18T19:38:42.213Z
+patch: "7.4"
+lastmod: 2025-12-16T20:07:46.002Z
 visibility: public
 changelog:
   - date: 2025-11-07T19:38:42.213Z
