@@ -1,8 +1,15 @@
 ---
 title: Recent Changes
 layout: changes
-lastmod: 2025-04-01T01:31:29.107Z
+lastmod: 2025-12-16T20:30:17.216Z
 changes:
+  - patch: "7.4"
+    description: |-
+      Saber Dance was buffed from 520 to 540p.
+
+      Last Dance was buffed from 520 to 540p.
+
+      Fan Dance IV was buffed from 420 to 460p.
   - patch: "7.2"
     description: |-
       Windmill was buffed to 120p.
