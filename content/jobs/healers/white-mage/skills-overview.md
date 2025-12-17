@@ -3,8 +3,8 @@ title: Skills Overview
 authors:
   - shy
   - pyre
-patch: "7.3"
-lastmod: 2025-08-05T02:58:45.592Z
+patch: "7.4"
+lastmod: 2025-12-16T10:29:58.015Z
 changelog:
   - date: 2021-10-27T01:09:43.442Z
     message: Article Created.
@@ -16,6 +16,8 @@ changelog:
     message: upgraded for DT
   - date: 2025-08-05T02:58:46.444Z
     message: updated dia potency
+  - date: 2025-12-16T10:27:59.678Z
+    message: updated for 7.4
 ---
 # **Notable Endwalker Changes**
 
@@ -31,7 +33,7 @@ changelog:
 
 ### **Glare III**
 
-* Single target damage (330), 1.5 cast time
+* Single target damage (350), 1.5 cast time
 * At lower levels you'll have Stone, which gets replaced by Glare at level 72
 * Can weave one oGCD after it
 * Cast this when you don't need to do anything else.
@@ -69,7 +71,7 @@ changelog:
 
 ### **Afflatus Misery**
 
-* AoE damage in a very small 5y radius around enemy target (1,240p), instant cast. Deals 620 potency to enemies that aren’t the main target in a 5y radius. 
+* AoE damage in a very small 5y radius around enemy target (1,400p), instant cast. Deals 620 potency to enemies that aren’t the main target in a 5y radius. 
 * You gain Blood Lily charges when using a Lily charge, you need three lily usages to gain a Blood Lily. Misery can only be activated if you have a Blood Lily
 * Three Lilies and a Misery is a DPS gain on two or more targets. Be aware of its small 5y radius and make sure it is hitting two targets.
 * Your priority for Misery should be Movement if you have nothing else > Using it into Putting it into raid buffs > before the fight ends
@@ -199,9 +201,11 @@ changelog:
 ### **Plenary Indulgence (60s CD)**
 
 * Grants Confession to allies within a 20y radius
+* Confession Grants a 10% mitigation buff for 10 seconds
 * Confession heals for 200p when triggered by Medica, Medica II, Cure III and Afflatus Rapture
 * Use if you're about to GCD heal and you need additional healing, its low cooldown makes it more flexible.
 * Especially potent for tougher healing checks where you’ll be casting multiple GCD heals during the buff.
+
 
 ![Divine Caress](/img/jobs/whm/002128_hr1.png)
 
