@@ -4,8 +4,8 @@ card_header_image: /img/jobs/pld/basic.png
 authors:
   - ashepaladin
   - silaqui-amakiir
-patch: "7.3"
-lastmod: 2025-08-06T19:00:13.154Z
+patch: "7.4"
+lastmod: 2025-12-17T03:02:06.209Z
 changelog:
   - date: 2021-10-27T17:21:54.665Z
     message: Added
