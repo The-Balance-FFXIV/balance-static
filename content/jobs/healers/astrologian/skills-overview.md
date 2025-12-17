@@ -4,8 +4,8 @@ card_header_image: /img/jobs/ast/2022-03-11_15-30-57-810_okamipassion.jpg
 authors:
   - shy
   - Ahriqi
-patch: "7.3"
-lastmod: 2025-08-08T04:58:09.233Z
+patch: "7.4"
+lastmod: 2025-12-16T10:28:29.359Z
 changelog:
   - date: 2021-10-26T20:48:51.241Z
     message: "Article created. "
@@ -13,6 +13,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-09-13T04:58:10.621Z
     message: Updated Redraw section
+  - date: 2025-12-16T10:28:17.602Z
+    message: updated for 7.4
 ---
 # **Notable Dawntrail Changes**
 
@@ -156,7 +158,7 @@ changelog:
 * Regen (five ticks of 100p) and mitigation (10%)
 * Total heal potency: 500p if not held
 * Use as a group mitigation and regen
-* If you use CU and cancel it instantly, you'll have five seconds of mitigation
+* If you use CU and cancel it instantly, you'll have ten seconds of mitigation
 * Holding CU will refresh the mitigaiton buff every server tick three seconds a part from each other
 * Do not hold Collective Unconscious during most uptime scenarios
 
