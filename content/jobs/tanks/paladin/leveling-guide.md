@@ -4,8 +4,8 @@ card_header_image: /img/jobs/pld/leveling.png
 authors:
   - ashepaladin
   - silaqui-amakiir
-patch: "7.3"
-lastmod: 2025-08-06T18:58:30.370Z
+patch: "7.4"
+lastmod: 2025-12-17T02:59:26.318Z
 changelog:
   - date: 2021-10-27T17:22:16.067Z
     message: Added
@@ -93,8 +93,13 @@ This section will start at level 15, since that is the level requirement for the
 * Royal Authority now grants Divine Might, empowering your next Holy Spirit. Only use Holy Spirit when you have the Divine Might buff.
 * Holy Spirit, like Goring Blade, does not break combo.
 * Your Fight or Flight window should now contain (in some order):
+
   * Goring Blade
   * 2x Royal Authority combo + Holy Spirit
+
+## Level 66
+
+* Use both charges of Intervene in the Fight or Flight buff window.
 
 ## Level 68
 
@@ -102,11 +107,13 @@ This section will start at level 15, since that is the level requirement for the
 
 * Use Requiescat inside Fight or Flight, and spend the 4 stacks on Holy Spirit.
 * Your Fight or Flight window should now contain:
+
   * Requiescat + 4x Holy Spirit
   * Goring Blade
   * 3x "combo" GCDs (Fast Blade, Riot Blade, Royal Authority, or Holy Spirit)
   * \*With so many spells in the Fight or Flight window, it is very difficult to get 9 GCDs in Fight or Flight and not worth worrying about
 * It is usually possible to hold an earlier Holy Spirit into the Fight or Flight window, but be sure to:
+
   * Avoid overwriting the Divine Might buff; if Divine Might is available, always spend it before your next Royal Authority (e.g. Fast Blade, Riot Blade, Holy Spirit, Royal Authority is fine).
   * Keep using Fight or Flight on cooldown.
 
@@ -118,16 +125,14 @@ This section will start at level 15, since that is the level requirement for the
 * Spend Requiescat stacks and Divine Might on Holy Circle in multi-target situations.
 * Continue using Goring Blade in Fight or Flight; for maximum efficiency, there is usually an enemy with higher HP to use it on.
 
-## Level 74
-
-* Use both charges of Intervene in the Fight or Flight buff window.
-
 ## Level 76
 
 **Single Target:**
 
 * At this point, you can use the level 100 [rotation](/jobs/tanks/paladin/basic-guide), replacing Confiteor and Blade of Valor combo with four Holy Spirits and Expiacion with Spirits Within. Divine Might-buffed Holy Spirit is stronger than Sepulchre at this level, so continue to prioritize placing Holy Spirit into Fight or Flight.
+
   * Your burst phase should now include:
+
     * Requiescat + 4x Holy Spirit
     * Goring Blade
     * 3 filler GCDs (Holy Spirit, Royal Authority, or Atonement/Supplication/Sepulchre)
