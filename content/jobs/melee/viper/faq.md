@@ -1,8 +1,8 @@
 ---
 title: Frequent Questions
 layout: qna
-patch: "7.3"
-lastmod: 2025-08-05T04:04:03.022Z
+patch: "7.4"
+lastmod: 2025-12-17T16:21:41.413Z
 qna:
   - question: Are Reawaken skills affected by Haste/Skill Speed? What speeds are
       VPRs GCDs?
