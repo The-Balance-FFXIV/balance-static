@@ -1,39 +1,33 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
-lastmod: 2025-08-07T03:09:03.838Z
+patch: "7.4"
+lastmod: 2025-12-18T00:33:18.753Z
 changelog:
   - date: 2025-03-30T18:17:38.405Z
     message: Updated for 7.2
   - date: 2025-08-07T03:09:07.315Z
     message: Added 7.3 FRU Options
+  - date: 2025-12-18T00:33:22.342Z
+    message: 7.4 gear options added
 bis:
   - type: xivgear
-    name: 7.2 Savage BiS
-    link: https://xivgear.app/?page=embed|sl|c234338b-8c0b-4b44-b9bd-a836766a0dda
+    name: "7.4 Savage BiS "
+    link: https://xivgear.app/?page=embed|sl|3cee67ac-1e2e-45af-bbd3-1c41bc55ff4e
     description: >-
-      Click
-      [here](https://xivgear.app/?page=sl%7Cac0e2f00-5876-4847-b48d-10fea240f073)
-      for sets with either 2.11 or 2.10 GCD speeds.\
+      Click [here](https://xivgear.app/?page=bis|vpr|current) for sets with
+      either 2.11 or 2.10 GCD speeds.\
 
       \
 
       **Q.** ***What GCD speed should I choose?***\
 
-      **A.** We recommend running 2.12 until we can determine if certain GCD speeds are better for different encounters. We cannot know this until the savage fights release and we have timelines for each fight.
-  - type: xivgear
-    name: 7.2 Savage Prog Set (Pentamelded)
-    link: https://xivgear.app/?page=embed|sl|fdd88944-09d8-4341-8305-81d17317069c
-    description: Click
-      [here](https://xivgear.app/?page=sl%7C3dac5bd1-80bf-45e9-9726-0e65722a5677)
-      for more prog set options.
-  - type: xivgear
-    name: 7.2 Savage Prog Set (Budget)
-    link: https://xivgear.app/?page=embed|sl|f0e74ffa-277e-42ab-806a-7455ae4f3416
-    description: Click
-      [here](https://xivgear.app/?page=sl%7C3dac5bd1-80bf-45e9-9726-0e65722a5677)
-      for more prog set options.
+      **A.** Which speed we choose is largely fight dependent. The difference between 2.10, 2.11, and 2.12 is within damage variance outside of fight specific reasons to use one or another. Choose which one you are most comfortable with. If you are unsure which to go with, 2.10 is a solid all around choice.
+  - type: plain-text
+    name: 7.4 Savage Prog Set Options
+    link: ""
+    description: Sample prog sets are provided
+      [here](https://xivgear.app/?page=sl|6f23691f-df60-4e38-ab45-b246025effad).
   - type: xivgear
     name: 7.3 FRU BiS (See description for prog sets)
     link: https://xivgear.app/?page=embed%7Csl%7C764814e5-62d2-430b-a7ac-09f9ab72a266
