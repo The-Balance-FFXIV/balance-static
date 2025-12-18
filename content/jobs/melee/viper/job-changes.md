@@ -1,7 +1,7 @@
 ---
 title: Recent Changes
 layout: changes
-lastmod: 2025-08-05T04:28:45.473Z
+lastmod: 2025-12-17T16:27:13.235Z
 changes:
   - patch: "7.0"
     description: Job added to the game with patch 7.0 -- Dawntrail. For a full
@@ -37,6 +37,32 @@ changes:
 
 
       Uncoiled Fury, Uncoiled Twinfang, and Uncoiled Twinblood had their falloff damage changed from 50% to 60% damage reduction after the first target. (10% less damage dealt after the first target compared to the previous patch. Total potency reduced from 510 per target to 408 per target after the first.)
+  - patch: "7.4"
+    description: >-
+      Steel Maw and Reaving Maw potency increased from 120 to 140.
+
+
+      Hunter's Bite and Swiftskin's Bite potency increased from 130 to 180.
+
+
+      Jagged Maw and Bloodied Maw potency increased from 160 to 220.
+
+
+      Last Lash potency increased from 100 to 120.
+
+
+      Vicepit potency increased from 220 to 250.
+
+
+      Hunter's Den and Swiftskin's Den increased from 280 to 300. 
+
+
+      Reawaken, 1-4th Generation, 1-4th Legacy,  Ouroboros, Uncoiled Fury, Uncoiled Twinfang, and Uncoiled Twinblood do 15% less damage after the first target compared to last patch. (Reawaken sequence falloff adjusted from 65% to 80% less damage after the first target, Uncoiled Fury and its follow ups adjusted from 60% to 75% less damage after the first target.
+
+
+
+
+      Overall these adjustments equate to about an 8.4% nerf to two target DPS and a 7.9% nerf in 3+ target AoE DPS. Single target DPS remains unchanged.
 authors:
   - balance-vpr-staff
 ---
