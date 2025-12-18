@@ -37,8 +37,13 @@ bis:
   - type: xivgear
     name: Heavyweight (Savage) prog set - 1575 tomes
     link: https://xivgear.app/?page=embed|sl|0aaed8b0-b3cc-49a1-ac4f-cb79a95a938c
-    description: You can find some additional niche sets in the full xivgear sheet
-      here - https://xivgear.app/?page=sl%7Ce7315100-1b7d-47ba-8158-14b26321d2d6
+    description: >-
+      You can find some additional niche sets in the full xivgear sheet here -
+      https://xivgear.app/?page=sl%7Ce7315100-1b7d-47ba-8158-14b26321d2d6\
+
+      \
+
+      If getting some crafted pieces in the interim that will be replaced by tomes by savage launch, just meld them default Crit > Det > DH priority.
   - type: xivgear
     name: Futures Rewritten Best-in-Slot (2.49)
     link: https://xivgear.app/?page=embed%7Csl%7C3ad7746a-b612-4b34-9d24-a0f8ae20c857
