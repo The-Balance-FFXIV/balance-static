@@ -1,9 +1,11 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
+patch: "7.4"
 lastmod: 2025-08-24T01:29:34.136Z
 changelog:
+  - date: 2025-12-17T02:31:54.468Z
+    message: Updated for 7.4
   - date: 2025-08-24T03:59:21.231Z
     message: Replaced all sets with auto-updating sets, added Criterion sets
   - date: 2025-03-30T20:47:44.879Z
