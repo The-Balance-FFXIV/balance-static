@@ -8,8 +8,7 @@
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/img/jobs/vpr/vpr7-05standardop.png"&gt;Click here&lt;/a&gt; for a larger image.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;
-This is our standard opener for Viper. For more information on what to do after the opener, please see the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/"&gt;Basic Guide&lt;/a&gt; and &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/viper/intermediate-guide/"&gt;Intermediate Guide&lt;/a&gt;. &lt;a href="https://www.thebalanceffxiv.com/img/jobs/vpr/tentativeprereleaseopener.png"&gt;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/leveling-guide/</link><pubDate>Tue, 05 Aug 2025 21:25:57 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/leveling-guide/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;This guide was written to inform players who are seeking to, or are currently leveling Viper. The guide aims to inform players about how to initially play as Viper, what gear they should use while levelling and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 100 Viper and are looking for information pertaining to the job at level 100, please see the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/"&gt;Viper Basic Guide&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/skills-overview/</link><pubDate>Tue, 05 Aug 2025 04:03:25 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/skills-overview/</guid><description>&lt;p&gt;Please note that all of the following actions are based on Viper at level 100, and may not reflect their lower level version effects or potencies.&lt;/p&gt;
+This is our standard opener for Viper. For more information on what to do after the opener, please see the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/"&gt;Basic Guide&lt;/a&gt; and &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/viper/intermediate-guide/"&gt;Intermediate Guide&lt;/a&gt;. &lt;a href="https://www.thebalanceffxiv.com/img/jobs/vpr/tentativeprereleaseopener.png"&gt;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/skills-overview/</link><pubDate>Wed, 17 Dec 2025 16:20:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/skills-overview/</guid><description>&lt;p&gt;Please note that all of the following actions are based on Viper at level 100, and may not reflect their lower level version effects or potencies.&lt;/p&gt;
 &lt;h1 id="1-dual-wield-actions"&gt;1. Dual Wield Actions&lt;/h1&gt;
 &lt;h2 id="11-single-target"&gt;1.1 Single Target&lt;/h2&gt;
 &lt;table&gt;
@@ -145,7 +144,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Steel Maw&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.50s/2.12s&lt;/td&gt;
- &lt;td&gt;Combo starter dealing 100 potency to all nearby enemies. &lt;br&gt;Potency increased to 120 under the effect of Honed Steel. &lt;br&gt;Grants Honed Reavers for 60 seconds.&lt;/td&gt;
+ &lt;td&gt;Combo starter dealing 120 potency to all nearby enemies. &lt;br&gt;Potency increased to 140 under the effect of Honed Steel. &lt;br&gt;Grants Honed Reavers for 60 seconds.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -156,7 +155,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Reaving Maw&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.50s/2.12s&lt;/td&gt;
- &lt;td&gt;Alternative Combo starter dealing 100 potency to all nearby enemies. &lt;br&gt;Potency increased to 120 under the effect of Honed Reavers. &lt;br&gt;Grants Honed Steel for 60 seconds.&lt;/td&gt;
+ &lt;td&gt;Alternative Combo starter dealing 120 potency to all nearby enemies. &lt;br&gt;Potency increased to 140 under the effect of Honed Reavers. &lt;br&gt;Grants Honed Steel for 60 seconds.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -167,7 +166,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Hunter&amp;rsquo;s Bite&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.50s/2.12s&lt;/td&gt;
- &lt;td&gt;Combo action that can be used after Steel Maw or Reaving Maw.&lt;br&gt;Deals a 130 potency attack to all nearby enemies and applies Hunter&amp;rsquo;s Instinct for 40 seconds.&lt;br&gt;Hunter&amp;rsquo;s Instinct increases damage dealt by 10%.&lt;/td&gt;
+ &lt;td&gt;Combo action that can be used after Steel Maw or Reaving Maw.&lt;br&gt;Deals a 180 potency attack to all nearby enemies and applies Hunter&amp;rsquo;s Instinct for 40 seconds.&lt;br&gt;Hunter&amp;rsquo;s Instinct increases damage dealt by 10%.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -178,7 +177,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Swiftskin&amp;rsquo;s Bite&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.50s/2.12s&lt;/td&gt;
- &lt;td&gt;Combo action that can be used after Steel Maw or Reaving Maw.&lt;br&gt;Deals a 130 potency attack to all nearby enemies and applies Swiftscaled for 40 seconds. &lt;br&gt;Swiftscaled reduces GCD recast and auto attack delay by 15% (i.e. 15% Haste).&lt;/td&gt;
+ &lt;td&gt;Combo action that can be used after Steel Maw or Reaving Maw.&lt;br&gt;Deals a 180 potency attack to all nearby enemies and applies Swiftscaled for 40 seconds. &lt;br&gt;Swiftscaled reduces GCD recast and auto attack delay by 15% (i.e. 15% Haste).&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -189,7 +188,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Bloodied Maw&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.50s/2.12s&lt;/td&gt;
- &lt;td&gt;Combo action that can be used after either Hunter&amp;rsquo;s Bite or Swiftskin&amp;rsquo;s Bite.&lt;br&gt;Deals a 140 potency attack to all nearby enemies. &lt;br&gt;Potency is increased to 160 under the effect of Grimskin&amp;rsquo;s Venom.&lt;br&gt;Grants Grimhunter&amp;rsquo;s Venom for 60 seconds.&lt;br&gt;Increases the Serpent Offering gauge by 10.&lt;/td&gt;
+ &lt;td&gt;Combo action that can be used after either Hunter&amp;rsquo;s Bite or Swiftskin&amp;rsquo;s Bite.&lt;br&gt;Deals a 180 potency attack to all nearby enemies. &lt;br&gt;Potency is increased to 220 under the effect of Grimskin&amp;rsquo;s Venom.&lt;br&gt;Grants Grimhunter&amp;rsquo;s Venom for 60 seconds.&lt;br&gt;Increases the Serpent Offering gauge by 10.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -200,7 +199,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Jagged Maw&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.50s/2.12s&lt;/td&gt;
- &lt;td&gt;Combo action that can be used after either Hunter&amp;rsquo;s Bite or Swiftskin&amp;rsquo;s Bite.&lt;br&gt;Deals a 140 potency attack to all nearby enemies.&lt;br&gt;Potency is increased to 160 under the effect of Grimhunter&amp;rsquo;s Venom.&lt;br&gt;Grants Grimskin&amp;rsquo;s Venom for 60 seconds.&lt;br&gt;Increases the Serpent Offering gauge by 10.&lt;/td&gt;
+ &lt;td&gt;Combo action that can be used after either Hunter&amp;rsquo;s Bite or Swiftskin&amp;rsquo;s Bite.&lt;br&gt;Deals a 180 potency attack to all nearby enemies.&lt;br&gt;Potency is increased to 220 under the effect of Grimhunter&amp;rsquo;s Venom.&lt;br&gt;Grants Grimskin&amp;rsquo;s Venom for 60 seconds.&lt;br&gt;Increases the Serpent Offering gauge by 10.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -211,7 +210,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Last Lash&lt;/td&gt;
  &lt;td&gt;Ability&lt;/td&gt;
  &lt;td&gt;1.00s&lt;/td&gt;
- &lt;td&gt;Can only be executed after Jagged Maw or Bloodied Maw.&lt;br&gt;Delivers an attack with a potency of 100 to all nearby enemies.&lt;/td&gt;
+ &lt;td&gt;Can only be executed after Jagged Maw or Bloodied Maw.&lt;br&gt;Delivers an attack with a potency of 120 to all nearby enemies.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
@@ -306,7 +305,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Vicepit&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;3.0s/2.55s&lt;/td&gt;
- &lt;td&gt;Deals an attack with a potency of 220 to all nearby enemies. &lt;br&gt;Grants 1 Rattling Coil, up to a max of 3.&lt;br&gt;Has 2 charges with a 40 second recharge time. Shares charges with Vicewinder.&lt;/td&gt;
+ &lt;td&gt;Deals an attack with a potency of 250 to all nearby enemies. &lt;br&gt;Grants 1 Rattling Coil, up to a max of 3.&lt;br&gt;Has 2 charges with a 40 second recharge time. Shares charges with Vicewinder.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -317,7 +316,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Hunter&amp;rsquo;s Den&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;3.0s/2.55s&lt;/td&gt;
- &lt;td&gt;Combo action that can be used after Vicepit or Swiftskin&amp;rsquo;s Den.&lt;br&gt;Deals an attack with a potency of 280 to all nearby enemies.&lt;br&gt;Applies Hunter&amp;rsquo;s Instinct for 40 seconds, increasing damage dealt by 10%.&lt;br&gt;Grants Fellhunter&amp;rsquo;s Venom.&lt;br&gt;Increases the Serpent Offering gauge by 5.&lt;/td&gt;
+ &lt;td&gt;Combo action that can be used after Vicepit or Swiftskin&amp;rsquo;s Den.&lt;br&gt;Deals an attack with a potency of 300 to all nearby enemies.&lt;br&gt;Applies Hunter&amp;rsquo;s Instinct for 40 seconds, increasing damage dealt by 10%.&lt;br&gt;Grants Fellhunter&amp;rsquo;s Venom.&lt;br&gt;Increases the Serpent Offering gauge by 5.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -328,7 +327,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Swiftskin&amp;rsquo;s Den&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;3.0s/2.55s&lt;/td&gt;
- &lt;td&gt;Combo action that can be used after Vicepit or Hunter&amp;rsquo;s Den.&lt;br&gt;Deals and attack with a potency of 280 to all nearby enemies.&lt;br&gt;Applies Swiftscaled for 40s, decreasing GCD recast and auto attack delay by 15% (i.e. 15% Haste).&lt;br&gt;Grants Fellskin&amp;rsquo;s Venom.&lt;br&gt;Increases the Serpent Offering gauge by 5.&lt;/td&gt;
+ &lt;td&gt;Combo action that can be used after Vicepit or Hunter&amp;rsquo;s Den.&lt;br&gt;Deals and attack with a potency of 300 to all nearby enemies.&lt;br&gt;Applies Swiftscaled for 40s, decreasing GCD recast and auto attack delay by 15% (i.e. 15% Haste).&lt;br&gt;Grants Fellskin&amp;rsquo;s Venom.&lt;br&gt;Increases the Serpent Offering gauge by 5.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -375,7 +374,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Reawaken&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.20s/1.87s&lt;/td&gt;
- &lt;td&gt;Deals an attack with a potency of 750 to target and 65% less for all nearby enemies.&lt;br&gt;Grants 5 stacks of Anguine Tribute. Stacks expire if not spent within 30s of using Reawaken.&lt;br&gt;Costs 50 Serpent Offerings to use.&lt;/td&gt;
+ &lt;td&gt;Deals an attack with a potency of 750 to target and 80% less for all nearby enemies.&lt;br&gt;Grants 5 stacks of Anguine Tribute. Stacks expire if not spent within 30s of using Reawaken.&lt;br&gt;Costs 50 Serpent Offerings to use.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -386,7 +385,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;First Generation&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.00s/1.7s&lt;/td&gt;
- &lt;td&gt;Combo action that can be used after Reawaken. &lt;br&gt;Deals an attack with a potency of 480 to target and 65% less for all nearby enemies. &lt;br&gt;Potency increased to 680 when used after Reawaken.&lt;br&gt;Costs 1 Anguine Tribute.&lt;/td&gt;
+ &lt;td&gt;Combo action that can be used after Reawaken. &lt;br&gt;Deals an attack with a potency of 480 to target and 80% less for all nearby enemies. &lt;br&gt;Potency increased to 680 when used after Reawaken.&lt;br&gt;Costs 1 Anguine Tribute.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -397,7 +396,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;First Legacy&lt;/td&gt;
  &lt;td&gt;Ability&lt;/td&gt;
  &lt;td&gt;1.00s&lt;/td&gt;
- &lt;td&gt;Can only be used after First Generation. &lt;br&gt;Deals an attack with a potency of 320 to target and 65% less for all nearby enemies.&lt;/td&gt;
+ &lt;td&gt;Can only be used after First Generation. &lt;br&gt;Deals an attack with a potency of 320 to target and 80% less for all nearby enemies.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -408,7 +407,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Second Generation&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.00s/1.7s&lt;/td&gt;
- &lt;td&gt;Combo action that can be used after First Generation. &lt;br&gt;Deals an attack with a potency of 280 to target and 65% less for all nearby enemies. &lt;br&gt;Potency increased to 680 when used after First Generation.&lt;br&gt;Costs 1 Anguine Tribute.&lt;/td&gt;
+ &lt;td&gt;Combo action that can be used after First Generation. &lt;br&gt;Deals an attack with a potency of 280 to target and 80% less for all nearby enemies. &lt;br&gt;Potency increased to 680 when used after First Generation.&lt;br&gt;Costs 1 Anguine Tribute.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -419,7 +418,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Second Legacy&lt;/td&gt;
  &lt;td&gt;Ability&lt;/td&gt;
  &lt;td&gt;1.00s&lt;/td&gt;
- &lt;td&gt;Can only be used after Second Generation. &lt;br&gt;Deals an attack with a potency of 320 to target and 65% less for all nearby enemies.&lt;/td&gt;
+ &lt;td&gt;Can only be used after Second Generation. &lt;br&gt;Deals an attack with a potency of 320 to target and 80% less for all nearby enemies.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -430,7 +429,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Third Generation&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.00s/1.7s&lt;/td&gt;
- &lt;td&gt;Combo action that can be used after Second Generation. &lt;br&gt;Deals an attack with a potency of 480 to target and 65% less for all nearby enemies. &lt;br&gt;Potency increased to 680 when used after Second Generation.&lt;br&gt;Costs 1 Anguine Tribute.&lt;/td&gt;
+ &lt;td&gt;Combo action that can be used after Second Generation. &lt;br&gt;Deals an attack with a potency of 480 to target and 80% less for all nearby enemies. &lt;br&gt;Potency increased to 680 when used after Second Generation.&lt;br&gt;Costs 1 Anguine Tribute.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -441,7 +440,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Third Legacy&lt;/td&gt;
  &lt;td&gt;Ability&lt;/td&gt;
  &lt;td&gt;1.00s&lt;/td&gt;
- &lt;td&gt;Can only be used after Third Generation. &lt;br&gt;Deals an attack with a potency of 320 to target and 65% less for all nearby enemies.&lt;/td&gt;
+ &lt;td&gt;Can only be used after Third Generation. &lt;br&gt;Deals an attack with a potency of 320 to target and 80% less for all nearby enemies.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -452,7 +451,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Fourth Generation&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.00s/1.7s&lt;/td&gt;
- &lt;td&gt;Combo action that can be used after Third Generation. &lt;br&gt;Deals an attack with a potency of 480 to target and 65% less for all nearby enemies. &lt;br&gt;Potency increased to 680 when used after Third Generation.&lt;br&gt;Costs 1 Anguine Tribute.&lt;/td&gt;
+ &lt;td&gt;Combo action that can be used after Third Generation. &lt;br&gt;Deals an attack with a potency of 480 to target and 80% less for all nearby enemies. &lt;br&gt;Potency increased to 680 when used after Third Generation.&lt;br&gt;Costs 1 Anguine Tribute.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -463,7 +462,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Fourth Legacy&lt;/td&gt;
  &lt;td&gt;Ability&lt;/td&gt;
  &lt;td&gt;1.00s&lt;/td&gt;
- &lt;td&gt;Can only be used after Fourth Generation. &lt;br&gt;Deals an attack with a potency of 320 to target and 65% less for all nearby enemies.&lt;/td&gt;
+ &lt;td&gt;Can only be used after Fourth Generation. &lt;br&gt;Deals an attack with a potency of 320 to target and 80% less for all nearby enemies.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -474,7 +473,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Ouroboros&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;3.00s/2.55s&lt;/td&gt;
- &lt;td&gt;Deals an attack with a potency of 1150 to target and 65% less for all nearby enemies.&lt;br&gt;Requires at least one Anguine Tribute stack and consumes all remaining stacks, ending Reawakened upon use.&lt;/td&gt;
+ &lt;td&gt;Deals an attack with a potency of 1150 to target and 80% less for all nearby enemies.&lt;br&gt;Requires at least one Anguine Tribute stack and consumes all remaining stacks, ending Reawakened upon use.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
@@ -499,7 +498,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Uncoiled Fury&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;3.5s/2.97s&lt;/td&gt;
- &lt;td&gt;Deal a ranged attack with a potency of 680 to target and 60% less for all nearby enemies.&lt;br&gt;Costs 1 Rattling Coil.&lt;br&gt;Grants Poised for Twinfang.&lt;/td&gt;
+ &lt;td&gt;Deal a ranged attack with a potency of 680 to target and 75% less for all nearby enemies.&lt;br&gt;Costs 1 Rattling Coil.&lt;br&gt;Grants Poised for Twinfang.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -510,7 +509,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Uncoiled Twinfang&lt;/td&gt;
  &lt;td&gt;Ability&lt;/td&gt;
  &lt;td&gt;1.00s&lt;/td&gt;
- &lt;td&gt;Can only be used after Uncoiled Fury.&lt;br&gt;Deals an attack with a potency of 120 to target and 60% less for all nearby enemies.&lt;br&gt;Potency increased to 170 when under the effect of Poised for Twinfang.&lt;br&gt;Grants Poised for Twinblood.&lt;/td&gt;
+ &lt;td&gt;Can only be used after Uncoiled Fury.&lt;br&gt;Deals an attack with a potency of 120 to target and 75% less for all nearby enemies.&lt;br&gt;Potency increased to 170 when under the effect of Poised for Twinfang.&lt;br&gt;Grants Poised for Twinblood.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -521,7 +520,7 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Uncoiled Twinblood&lt;/td&gt;
  &lt;td&gt;Ability&lt;/td&gt;
  &lt;td&gt;1.00s&lt;/td&gt;
- &lt;td&gt;Can only be used after Uncoiled Fury.&lt;br&gt;Deals an attack with a potency of 120 to target and 60% less for all nearby enemies.&lt;br&gt;Potency increased to 170 when under the effect of Poised for Twinblood.&lt;/td&gt;
+ &lt;td&gt;Can only be used after Uncoiled Fury.&lt;br&gt;Deals an attack with a potency of 120 to target and 75% less for all nearby enemies.&lt;br&gt;Potency increased to 170 when under the effect of Poised for Twinblood.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -670,8 +669,9 @@ This is our standard opener for Viper. For more information on what to do after 
  &lt;td&gt;Stuns target for 3 seconds. &lt;br&gt;Stun duration becomes shorter and shorter until target is immune if target has been stunned recently.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/</link><pubDate>Tue, 05 Aug 2025 04:01:22 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/</guid><description>&lt;h1 id="1-introduction"&gt;1﻿. Introduction&lt;/h1&gt;
+&lt;/table&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/</link><pubDate>Wed, 17 Dec 2025 16:12:54 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/</guid><description>&lt;h1 id="1-introduction"&gt;1﻿. Introduction&lt;/h1&gt;
 &lt;p&gt;F﻿irst off, this guide was made possible by the myriad contributions of Akashi, Azazel, Azrael, Jackal, Rhy, and Stella.&lt;/p&gt;
 &lt;p&gt;P﻿lease note that this guide is intended for Viper at Level 100. For information prior to reaching Level 100, please visit the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/viper/leveling-guide/"&gt;Leveling Guide.&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="11-overview"&gt;1﻿.1 Overview&lt;/h2&gt;
-&lt;p&gt;Viper (VPR) is a fast-paced melee DPS that alternates between fast dual wield attacks and heavy hitting twinblade attacks. Its core gameplay revolves around the classic builder-spender playstyle, building gauge with its dual wield and twinblade attacks and spending that gauge on a powerful burst window called Reawaken. VPR joins the Melee DPS roster as a Scouting class, and therefore shares gear with Ninja.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Viper (VPR) is a fast-paced melee DPS that alternates between fast dual wield attacks and heavy hitting twinblade attacks. Its core gameplay revolves around the classic builder-spender playstyle, building gauge with its dual wield and twinblade attacks and spending that gauge on a powerful burst window called Reawaken. VPR joins the Melee DPS roster as a Scouting class, and therefore shares gear with Ninja.&lt;/p&gt;</description></item><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/viper/leveling-guide/</link><pubDate>Wed, 17 Dec 2025 16:10:25 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/viper/leveling-guide/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This guide was written to inform players who are seeking to, or are currently leveling Viper. The guide aims to inform players about how to initially play as Viper, what gear they should use while levelling and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 100 Viper and are looking for information pertaining to the job at level 100, please see the &lt;a href="https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/"&gt;Viper Basic Guide&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>
