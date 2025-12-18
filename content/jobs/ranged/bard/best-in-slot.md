@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
-lastmod: 2025-08-06T04:20:28.499Z
+patch: "7.4"
+lastmod: 2025-12-18T03:12:37.637Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
     message: Created page
@@ -29,11 +29,12 @@ changelog:
     message: Updated FRU set with 7.3 dungeon gear
 bis:
   - type: xivgear
-    name: i760 Best-in-Slot
-    link: https://xivgear.app/?page=embed%7Csl%7C1b4c166c-008f-4cb9-b919-8c77dead4805
+    name: i790 Best-in-Slot
+    link: https://xivgear.app/?page=embed|sl|e2c1efce-33f8-4cfe-9db2-bd389aa921bb
     description: You can swap the Skill Speed materia for a Direct Hit if you want
       to play at 2.50. Similarly, swap a second Direct Hit for a Skill Speed if
       you'd like to run 2.48.
+  - type: etro
   - type: xivgear
     name: Futures Rewritten Best-in-Slot (2.49)
     link: https://xivgear.app/?page=embed%7Csl%7C3ad7746a-b612-4b34-9d24-a0f8ae20c857
