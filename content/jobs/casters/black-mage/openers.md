@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - Balance-BLM-Staff
-patch: "7.2"
-lastmod: 2025-03-30T20:22:12.846Z
+patch: "7.4"
+lastmod: 2025-12-19T04:10:43.207Z
 changelog:
   - date: 2021-11-15T02:42:11.541Z
     message: Article Created.
