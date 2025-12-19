@@ -2,7 +2,7 @@
 title: Openers
 authors:
   - Balance-WHM-Staff
-patch: "7.3"
+patch: "7.4"
 lastmod: 2025-08-07T04:12:37.118Z
 changelog:
   - date: 2021-10-27T01:10:24.558Z
@@ -13,6 +13,8 @@ changelog:
     message: Confirmed for 6.3
   - date: 2024-07-29T19:16:50.070Z
     message: Updated for Dawntrail
+  - date: 2025-12-19T14:33:29.309Z
+    message: Updated for 7.4, added double misery option
 ---
 # Standard Opener
 
