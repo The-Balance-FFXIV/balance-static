@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.2"
-lastmod: 2025-03-30T20:25:36.471Z
+patch: "7.4"
+lastmod: 2025-12-19T04:12:04.937Z
 changelog:
   - date: 2024-01-20T02:11:30.616Z
     message: Added BiS sets using Manderville Relic
@@ -24,53 +24,53 @@ changelog:
     message: Adding BiS and Prog Sets
 bis:
   - type: xivgear
-    name: 2.17 High SpS BiS
-    link: https://xivgear.app/?page=embed%7Csl%7C6e09949e-19f2-47b4-b711-242cef40faaa&onlySetIndex=0
-    description: Top simming set.
+    name: 2.15 High SpS BiS
+    link: https://xivgear.app/?page=embed|sl|08698620-8f30-42df-b4c8-df525fe78a95&onlySetIndex=0
+    description: ""
   - type: xivgear
-    description: 99.08% of best.
-    link: https://xivgear.app/?page=embed%7Csl%7C6e09949e-19f2-47b4-b711-242cef40faaa&onlySetIndex=3
-    name: 2.36 High Crit BiS
+    description: ""
+    link: https://xivgear.app/?page=embed|sl|08698620-8f30-42df-b4c8-df525fe78a95&onlySetIndex=1
+    name: 2.20 High SpS BiS
   - type: xivgear
-    link: https://xivgear.app/?page=embed%7Csl%7C6e09949e-19f2-47b4-b711-242cef40faaa&onlySetIndex=6
-    name: 2.43 High Crit Omnicaster Compatible BiS
-    description: >-
-      98.92% of best.
-
-
-      Includes a single meld swap (Det-> SpS on earring) from other caster BiS sets.
-  - type: genericlink
+    link: https://xivgear.app/?page=embed|sl|08698620-8f30-42df-b4c8-df525fe78a95&onlySetIndex=2
+    name: 2.32 High Crit BiS
+    description: ""
+  - type: xivgear
+    name: 2.37 High Crit BiS
+    link: https://xivgear.app/?page=embed|sl|08698620-8f30-42df-b4c8-df525fe78a95&onlySetIndex=3
+  - type: xivgear
+    name: 2.41 High Crit BiS
+    link: https://xivgear.app/?page=embed|sl|08698620-8f30-42df-b4c8-df525fe78a95&onlySetIndex=4
+  - type: xivgear
+    name: 2.45 High Crit Caster Friendly BiS
+    link: https://xivgear.app/?page=embed|sl|08698620-8f30-42df-b4c8-df525fe78a95&onlySetIndex=5
+  - type: gsheets
     name: Alternative BiS sets
-    link: https://xivgear.app/?page=sl%7C1b0a12b5-b9b4-409d-83b4-a790f2f27f67
-    description: Hosts alternative BiS sets at various other GCDs.
-  - type: xivgear
-    name: Prog, Pentamelded Crafted with EX Weapon
-    link: https://xivgear.app/?page=embed%7Csl%7C2abbc24f-b704-41ff-8f73-fc3c61c9ece3&onlySetIndex=0
-  - type: xivgear
-    name: Prog, Pentamelded Crafted with Tome Chest and EX Weapon
-    link: https://xivgear.app/?page=embed%7Csl%7Cb0e978a2-93d2-4ed7-a6a2-e007d04889fd&onlySetIndex=0
-  - type: xivgear
-    name: Prog, Pentamelded Crafted with Tome Pants and EX Weapon
-    link: https://xivgear.app/?page=embed%7Csl%7Ce5f06855-7826-456c-911c-3ba7a14f5443&onlySetIndex=0
-  - type: xivgear
-    name: Prog, Ornate Crafted with Tome Pants and EX Weapon
-    link: https://xivgear.app/?page=embed%7Csl%7C22c7fb83-1d90-41f8-ab77-491731c728e1&onlySetIndex=0
-  - type: xivgear
-    name: Prog, Pentamelded Crafted with Tome Hands & Neck and EX Weapon
-    link: https://xivgear.app/?page=embed%7Csl%7C03ce07df-7356-4e18-8722-35d5c6d99a54&onlySetIndex=0
-  - type: xivgear
-    name: Prog, Budget Crafted with Tome Chest and EX Weapon
-    link: https://xivgear.app/?page=embed%7Csl%7C8282a91f-1435-4b32-abf9-713cf5ae08c2&onlySetIndex=0
-  - type: xivgear
-    name: Prog, Budget Crafted with Tome Legs and EX Weapon
-    link: https://xivgear.app/?page=embed%7Csl%7C761b2f98-283c-4718-ae1a-5826611e8921&onlySetIndex=0
-  - type: xivgear
-    name: Prog, Budget Crafted with EX Weapon
-    link: https://xivgear.app/?page=embed%7Csl%7Cb6b05def-4e7f-436a-9283-a70fb697702e&onlySetIndex=0
+    link: https://docs.google.com/spreadsheets/d/1BS1V0qM_Jg9pdJFYhSfXDwEAZKNbwgXZTMZWskuFC7E/edit?pli=1&gid=1875031665#gid=1875031665
+    description: Raw solver ouptut with alternative BiS options
   - type: gsheets
     description: Gear Sheet for comparing various gearsets/meld options.
     name: Gear Sheet
     link: https://docs.google.com/spreadsheets/d/1E_y3ADj9FcUXrJg3sbK-UiIcOoYawB8Et9P-LfxT_TE/edit?gid=654212594#gid=654212594
+  - type: xivgear
+    name: Prog, 4 weeks of tome, purchasing tome weapon week 1 of savage
+    link: https://xivgear.app/?page=embed|sl|da31bd0a-7b95-430d-986e-0d2682a3d713&onlySetIndex=2
+  - type: xivgear
+    name: Prog, 4 weeks of tome, not purchasing tome weapon
+    link: https://xivgear.app/?page=embed|sl|43e2309d-0986-4fe3-b344-905f59b7d0ec&onlySetIndex=1
+  - type: xivgear
+    name: Prog, Full crafted (no tome) with EX weapon
+    link: https://xivgear.app/?page=embed|sl|2cf5e3c4-b844-45ea-bd61-0911c1f7854e&onlySetIndex=2
+  - type: xivgear
+    name: Prog, 4 weeks of tome, ornate chest, no tome weapon
+    link: https://xivgear.app/?page=embed|sl|52b55b28-92a4-4872-933a-a2145a04e688&onlySetIndex=1
+  - type: xivgear
+    name: Prog, 4 weeks of tome, ornate chest, tome weapon
+    link: https://xivgear.app/?page=embed|sl|ee84489e-c9c2-47b7-bea7-f9a9b4c617cd&onlySetIndex=1
+  - type: gsheets
+    name: Alternative prog sets
+    link: https://docs.google.com/spreadsheets/d/10JrYgsY5uYhpJVe73x1RkC1-YAeusUl09tOivxqDtSs/edit?gid=494457927#gid=494457927
+    description: Raw solver ouptut with alternative prog sets
 authors:
   - xenitan
   - Fürst-Blumier
