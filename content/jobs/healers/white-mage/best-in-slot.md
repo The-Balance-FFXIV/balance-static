@@ -1,7 +1,7 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
+patch: "7.4"
 lastmod: 2025-08-10T23:11:01.939Z
 changelog:
   - date: 2025-01-03T16:30:53.101Z
@@ -12,6 +12,8 @@ changelog:
     message: Updated for 7.2
   - date: 2025-08-10T23:01:22.583Z
     message: updated fru gear
+  - date: 2025-12-19T14:25:31.468Z
+    message: Updated for 7.4
 bis:
   - type: genericlink
     name: "Best in Slot:"
