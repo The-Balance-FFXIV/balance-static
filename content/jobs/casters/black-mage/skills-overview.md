@@ -2,8 +2,8 @@
 title: Skills Overview
 authors:
   - Balance-BLM-Staff
-patch: "7.2"
-lastmod: 2025-03-30T20:18:33.285Z
+patch: "7.4"
+lastmod: 2025-12-19T04:10:22.947Z
 changelog:
   - date: 2021-10-26T01:49:28.929Z
     message: Added page
