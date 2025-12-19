@@ -24,7 +24,7 @@ bis:
 
 
       Compared to other healers WHM is fairly impartial to GCD, if you frequently play other healers I would recommend using their sets in place of WHM-specific sets.
-    link: ""
+    link: https://xivgear.app/?page=sl|73551d94-354a-4e30-9205-5d52d2efaf3f
   - type: genericlink
     name: "Week 1 Prog Sets:"
     link: https://xivgear.app/?page=sl|c5aa9ab0-b846-4af9-b6d3-53205b25753d
