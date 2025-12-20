@@ -17,7 +17,7 @@ changelog:
 bis:
   - type: xivgear
     name: 2.5 GCD BiS - Patch 7.4
-    link: https://xivgear.app/?page=sl|4bd90c49-7a54-483f-9107-042c89c8c68f&onlySetIndex=0
+    link: ?page=sl|4bd90c49-7a54-483f-9107-042c89c8c68f&onlySetIndex=0
     description: Highest simming set.
   - type: xivgear
     name: 2.49 GCD BiS - Patch 7.4
