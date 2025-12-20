@@ -3,7 +3,7 @@ title: Openers
 authors:
   - Balance-SAM-Staff
   - Flare
-patch: "7.3"
+patch: ""
 lastmod: 2025-08-06T01:31:53.502Z
 changelog:
   - date: 2021-10-28T03:26:44.525Z
