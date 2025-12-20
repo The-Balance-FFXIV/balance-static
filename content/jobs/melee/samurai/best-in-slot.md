@@ -1,7 +1,7 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
+patch: "7.4"
 lastmod: 2025-10-06T07:28:11.427Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
@@ -32,6 +32,8 @@ changelog:
     message: Updated for 7.3
   - date: 2025-10-06T07:28:05.978Z
     message: Updated links for 2.14, 2.08, all ultimates and added Criterion
+  - date: 2025-12-20T01:49:06.902Z
+    message: "7.4"
 bis:
   - type: xivgear
     description: Classic "Slow SAM". Highest DPS, easiest weaving.
