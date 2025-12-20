@@ -1,8 +1,8 @@
 ---
 title: Best in Slot
 layout: bis
-patch: "7.2"
-lastmod: 2025-03-30T03:24:29.844Z
+patch: "7.4"
+lastmod: 2025-12-20T08:09:31.988Z
 changelog:
   - date: 2025-03-30T03:24:32.876Z
     message: Updated with patch 7.2 sets.
@@ -12,6 +12,8 @@ changelog:
     message: Added page with leveling sets. BiS will come after expansion launch.
   - date: 2024-08-02T04:18:18.759Z
     message: Updated with 7.05 BiS sets.
+  - date: 2025-12-20T08:09:34.663Z
+    message: Updated for Patch 7.4
 bis:
   - type: etro
     name: 7.2 PCT BiS - 2.5 GCD
