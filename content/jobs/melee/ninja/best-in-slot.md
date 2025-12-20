@@ -1,7 +1,7 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
+patch: "7.4"
 lastmod: 2025-03-30T20:23:39.945Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
@@ -28,7 +28,34 @@ changelog:
     message: Updated for 7.2
   - date: 2025-08-11T00:52:01.985Z
     message: Updated FRU BiS for 7.3
+  - date: 2025-12-20T12:49:31.035Z
+    message: Updated for 7.4
 bis:
+  - type: xivgear
+    name: 7.4 Savage BiS
+    link: https://xivgear.app/?page=embed|sl|00cf7fea-60dc-4283-9b3e-6609b5d2a196
+    description: Compatible with VPR as long as long as they run 2.12.
+  - type: xivgear
+    name: 7.4 Savage Prog Set (Pentamelded)
+    link: https://xivgear.app/?page=embed|sl|66143664-580b-46c5-80fe-1d1765524dac
+    description: >-
+      Click
+      [here](https://xivgear.app/?page=sl|3f9a66a5-7d4b-4712-afc4-0cd95ec6d701)
+      for the full list of prog set options.
+
+
+      Tome buy order is: Chest -> Wrist -> Gloves
+  - type: xivgear
+    name: 7.4 Savage Prog Set (Budget)
+    link: https://xivgear.app/?page=embed|sl|af4efba1-3817-47e1-beda-91ce07e4e739
+    description: >-
+      Click
+      [here](https://xivgear.app/?page=sl|3f9a66a5-7d4b-4712-afc4-0cd95ec6d701)
+      for the full set of prog set options.\
+
+      \
+
+      Tome buy order is: Chest -> Wrist -> Gloves
   - type: xivgear
     name: 7.3 FRU BiS
     link: https://xivgear.app/?page=embed%7Csl%7Cd3479b42-1d9f-4ed2-b003-f3b5f3059f01
@@ -38,25 +65,6 @@ bis:
 
 
       Master sheet containing all 7.3 FRU sets can be found [here](https://xivgear.app/?page=sl%7C5ff3583f-d784-4249-9e6d-2819e5e7b35f).
-  - type: xivgear
-    name: 7.2 Savage BiS
-    link: https://xivgear.app/?page=embed|sl|6df7a6e2-c631-4b1d-a955-4db8cdd2a8e5&onlySetIndex=0
-    description: |-
-      Link shows VPR weapon, but NIN weapon has identical stats.\
-      \
-      Compatible with VPR as long as VPR doesn't want to run any skill speed.
-  - type: xivgear
-    name: 7.2 Savage Prog Set (Pentamelded)
-    link: https://xivgear.app/?page=embed|sl|209f0d9c-7d95-4f82-99c4-2457a5e63260&onlySetIndex=0
-    description: Click
-      [here](https://xivgear.app/?page=sl%7C059ae508-8767-4efd-b792-93ae0d161415)
-      for the full list of prog set options.
-  - type: xivgear
-    name: 7.2 Savage Prog Set (Budget)
-    link: https://xivgear.app/?page=embed|sl|b6cf0919-5aaf-4816-9ccb-a31a4b16ec57&onlySetIndex=0
-    description: Click
-      [here](https://xivgear.app/?page=sl%7C04b2cf0b-aec0-4e75-b0dd-4f8e843ccef4)
-      for the full set of prog set options.
   - type: etro
     description: The i665 relic weapon can be substituted for the i645 relic.
     name: 6.55 TOP BIS
