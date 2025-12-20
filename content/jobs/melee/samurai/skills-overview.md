@@ -3,7 +3,7 @@ title: Skills Overview
 authors:
   - Balance-SAM-Staff
   - Flare
-patch: "7.3"
+patch: ""
 lastmod: 2025-08-05T02:48:24.210Z
 changelog:
   - date: 2021-10-28T03:25:40.964Z
