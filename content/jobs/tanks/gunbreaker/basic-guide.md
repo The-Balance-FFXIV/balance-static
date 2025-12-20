@@ -189,6 +189,10 @@ An exception to the rule exists, because it is possible to be forced to push **G
 - At a low level overview of the rotation, this **Wicked Talon** outside of **No Mercy** is an "unexpected GCD", which removes one required GCD to make the rotation work as expected.
 - Since this specific instance exits **No Mercy** with two cartridges, this removal of one required GCD can be viewed as "doubling the cartridges to see the necessary **Burst Strikes** within filler, minus one".
 
+If unable to time **Gnashing Fang** properly to place **Eye Gouge** within **No Mercy**, it is acceptable to hold that **Gnashing Fang** usage to place **Abdomen Tear** or **Jugular Rip** into **No Mercy**. This will push your **Gnashing Fang** usage into the front end of **No Mercy**, and push the expected **Gnashing Fang** within **No Mercy** out of the tail end, which is neutral as far as what GCDs are going into the buff. This is still a gain over using **Burst Strike** into **No Mercy** in order to buff **Hypervelocity**.
+
+If uncomfortable with attempting this technique, do not attempt it and use **Gnashing Fang** anywhere within the filler with **Burst Strike** into **No Mercy** instead.
+
 #### Gnashing Fang Optimizations for Speeds Below 2.50
 
 Since 9 GCDs within **No Mercy** becomes possible for speeds faster than 2.50, the goal shifts from moving **Eye Gouge** into **No Mercy** over to moving **Wicked Talon** into **No Mercy**.
@@ -269,11 +273,7 @@ Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.4
 
 - - -
 ### SECTION TLDR:
-- Recovery depends somewhat on GCD speed. Faster speeds are easier to recover because of cooldown reduction and extra **No Mercy** space.
-- The goal of recovery is to fit the desired cooldowns back into **No Mercy**, not necessarily keep them in their original order.
-- Use **Bloodfest** earlier or later to solve GCD cooldown usage issues or powder gauge issues respectively.
-- Use **Sonic Break** to fill in drifted cooldown space where **Gnashing Fang** or **Double Down** would normally be.
-- Consider the use of **Reign of Beasts** earlier to flip the place of the **Gnashing Fang** combo if **Gnashing Fang** has drifted excessively.
+- Being rebuilt for 7.4.
 - - -
 
 This section is still under reconstruction for the mini-rework of 7.4. It will cover mostly GCD downtime.
