@@ -37,13 +37,27 @@ changelog:
 bis:
   - type: xivgear
     description: Classic "Slow SAM". Highest DPS, easiest weaving.
-    link: https://xivgear.app/?page=embed|bis|sam|current&onlySetIndex=0
+    link: https://xivgear.app/?page=embed|bis|sam|current&onlySetIndex=1
     name: 2.14 Savage BiS
   - type: xivgear
     description: The 2.08 set has a small hit in DPS in exchange for a simpler
       looping rotation in full uptime.
     name: 2.08 Savage BiS
-    link: https://xivgear.app/?page=embed|bis|sam|current&onlySetIndex=1
+    link: https://xivgear.app/?page=embed|bis|sam|current&onlySetIndex=6
+  - type: plain-text
+    name: Pentamelded Crafted & Economy Crafted
+    description: >-
+      [2.14 Pentamelded
+      Crafted](https://xivgear.app/?page=bis|sam|current&onlySetIndex=2)
+
+
+      [2.14 Economy Crafted](https://xivgear.app/?page=bis|sam|current&onlySetIndex=3)
+
+
+      [2.08 Pentamelded Crafted](https://xivgear.app/?page=bis|sam|current&onlySetIndex=7)
+
+
+      [2.08 Economy Crafted](https://xivgear.app/?page=bis|sam|current&onlySetIndex=8)
   - type: genericlink
     name: Occult Crescent
     link: https://xivgear.app/?page=sl%7Ceb4f1732-a191-4515-b0d9-0a032953551a
