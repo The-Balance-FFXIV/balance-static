@@ -29,4 +29,4 @@ Your opener is flexible and **No Mercy** can be used earlier or later than what 
 
 ![Opener](https://u.cubeupload.com/krom/O1Ms7E.png "General Opener")
 </br>
-![Rotation](https://u.cubeupload.com/krom/otFy8D.png "2.50 Opener")
+![Rotation](https://u.cubeupload.com/krom/ZOrXeg.png "Rotation Graphic")
