@@ -1,7 +1,7 @@
 ---
 title: Frequent Questions
 layout: qna
-patch: "7.3"
+patch: "7.4"
 lastmod: 2024-12-03T23:25:44.832Z
 qna:
   - question: "What is my rotation? "
