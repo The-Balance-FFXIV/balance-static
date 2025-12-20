@@ -3,7 +3,7 @@ title: Basic Guide
 card_header_image: /img/jobs/sam/basic.png
 authors:
   - Balance-SAM-Staff
-patch: "7.3"
+patch: ""
 lastmod: 2025-08-05T02:52:16.367Z
 changelog:
   - date: 2021-10-28T03:23:16.783Z
