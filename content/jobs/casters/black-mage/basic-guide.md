@@ -4,8 +4,8 @@ card_header_image: /img/jobs/blm/basic.png
 authors:
   - Balance-BLM-Staff
   - rika-vanih
-patch: "7.2"
-lastmod: 2025-03-30T19:57:09.964Z
+patch: "7.4"
+lastmod: 2025-12-19T04:09:58.439Z
 changelog:
   - date: 2021-10-26T01:47:44.292Z
     message: Added page
@@ -23,6 +23,7 @@ changelog:
     message: 7.2 Updates
 ---
 # **Job Overview**
+
 By: Rika Vanih
 
 Black Mage is a caster specializing in high, steady personal damage in place of providing party buffs. The job maintains a cyclical flow of expending MP via long, powerful casts in Astral Fire then swapping to refresh MP in Umbral Ice. While the rotation itself is somewhat simple, utilizing its movement tools and the flexibility built into its rotation to their fullest is key to maintaining uptime and maximizing damage as a Black Mage.
@@ -275,7 +276,7 @@ Manually targeting to use **Aetherial Manipulation** can often result in minor d
 
 ![](/img/jobs/blm/AMmacro.png)
 
-Hovering over the character model of a party member, or even their name in the party list, and then pressing the macro will use **Aetherial Manipulation** on them without changing target. If the flexibility for regular targeting is desired, the bottom <mo> or two can be replaced with <t>. There is also the option to replace the <mo> with the number of the slot of a specified party member (i.e. <3>) that may be consistently in a good spot to use **Aetherial Manipulation** to (though in this case it is recommended to have a regular version of **Aetherial Manipulation** available for more manual targeting in case another target is situationally preferred).
+Hovering over the character model of a party member, or even their name in the party list, and then pressing the macro will use **Aetherial Manipulation** on them without changing target. If the flexibility for regular targeting is desired, the bottom <mo> or two can be replaced with \<t>. There is also the option to replace the <mo> with the number of the slot of a specified party member (i.e. <3>) that may be consistently in a good spot to use **Aetherial Manipulation** to (though in this case it is recommended to have a regular version of **Aetherial Manipulation** available for more manual targeting in case another target is situationally preferred).
 
 ## **Common Abbreviations**
 
