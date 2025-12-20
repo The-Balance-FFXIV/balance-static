@@ -1,7 +1,7 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
+patch: "7.4"
 lastmod: 2025-08-10T23:11:01.939Z
 changelog:
   - date: 2025-01-03T16:30:53.101Z
@@ -12,14 +12,41 @@ changelog:
     message: Updated for 7.2
   - date: 2025-08-10T23:01:22.583Z
     message: updated fru gear
+  - date: 2025-12-19T14:25:31.468Z
+    message: Updated for 7.4
 bis:
   - type: genericlink
-    name: Best in Slot as well as Week 1 Prog sets for 7.2
-    description: >
-      Compared to other healers WHM is fairly impartial to GCD, if you
-      frequently play other healers I would recommend using their sets in place
-      of WHM-specific sets.
-    link: https://xivgear.app/?page=sl%7C39b0aeb3-e2b6-499c-81e1-232a56863543
+    name: "Best in Slot:"
+    description: >-
+      Important Note: SPS sims highest, but if you are looking for more variance
+      (parsing), the slower sets begin to pull ahead at higher standard
+      deviations. Basically they have more variability, so if you want higher
+      highs and lower lows, slow sets are better, if you want consistent dps,
+      the faster set is better for double tome.
+
+
+      Compared to other healers WHM is fairly impartial to GCD, if you frequently play other healers I would recommend using their sets in place of WHM-specific sets.
+    link: https://xivgear.app/?page=sl|73551d94-354a-4e30-9205-5d52d2efaf3f
+  - type: genericlink
+    name: "Week 1 Prog Sets:"
+    link: https://xivgear.app/?page=sl|c5aa9ab0-b846-4af9-b6d3-53205b25753d
+    description: >-
+      Option A - Tome Chest + Wrist + Ring: 
+
+
+      On track to final BiS. No tomes "wasted" 
+
+
+      Lower damage but naturally has higher Piety which has value in prog 
+
+
+      Option B - Tome Chest + Wrist + Earrings: 
+
+
+      Diverts 375 tomes to earrings which may not be part of the final BiS (This depends on which set youre using, 2.41 runs tome earrings) 
+
+
+      Higher damage (~0.3-0.9% depending on choice of Piety and GCD speed)
   - type: xivgear
     name: FRU 2.43 with chaotic gear
     link: https://xivgear.app/?page=embed%7Csl%7Ca1149754-8156-4dd0-abca-b89d27f5380c
