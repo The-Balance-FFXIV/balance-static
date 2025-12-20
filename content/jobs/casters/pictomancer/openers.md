@@ -2,7 +2,7 @@
 title: Openers
 authors:
   - balance-pct-staff
-patch: "7.3"
+patch: "7.4"
 lastmod: 2025-08-10T04:39:46.725Z
 changelog:
   - date: 2024-06-23T05:35:29.142Z
