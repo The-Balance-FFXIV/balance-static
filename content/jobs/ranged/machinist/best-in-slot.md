@@ -23,7 +23,13 @@ changelog:
 bis:
   - type: xivgear
     name: 7.4 iLvl 790 BiS
-    link: https://xivgear.app/?page=embed|sl|4c5c04a8-d1ff-4ab3-823b-d94b53a4a50d&onlySetIndex=0
+    link: https://xivgear.app/?page=embed|sl|3dac7eb3-10e4-4ef3-9373-e1e1a78fcc9b
+    description: The difference between this MCH and DNC set is changing x3 DH melds
+      to DET (one DH meld changed to DET on each of the gloves, legs, and
+      bracelet) - this would make the set compatible with NIN/VPR bis
+      accessories. The DNC set is ~5dps lower than the MCH set, but with the
+      added benefit of having the set completely compatible with both DNC and
+      the scouting jobs.
   - type: xivgear
     name: 7.4 Week 1 1800 Tomestones BiS
     link: https://xivgear.app/?page=embed|sl|4c5c04a8-d1ff-4ab3-823b-d94b53a4a50d&onlySetIndex=1
