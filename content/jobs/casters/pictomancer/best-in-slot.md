@@ -1,9 +1,11 @@
 ---
 title: Best in Slot
 layout: bis
-patch: "7.2"
-lastmod: 2025-03-30T03:24:29.844Z
+patch: "7.4"
+lastmod: 2025-12-20T08:09:31.988Z
 changelog:
+  - date: 2025-12-20T08:09:34.663Z
+    message: Updated for Patch 7.4
   - date: 2025-03-30T03:24:32.876Z
     message: Updated with patch 7.2 sets.
   - date: 2024-07-01T01:13:03.564Z
@@ -13,22 +15,21 @@ changelog:
   - date: 2024-08-02T04:18:18.759Z
     message: Updated with 7.05 BiS sets.
 bis:
-  - type: etro
-    name: 7.2 PCT BiS - 2.5 GCD
-    link: 03b1e1f7-6154-4504-8fbe-d7afe27989c0
-    description: Absolute highest simming set, but very tight to get rainbow drip in buffs.
-  - type: etro
-    name: 7.2 PCT BiS - 2.49 GCD
-    link: 9a90d965-7b30-483d-b3c5-c167a2c04d95
-  - type: etro
-    name: 7.2 PCT BiS - 2.48 GCD
-    link: 77c9fb3b-ce22-4a8b-8e65-0a8a0a1dc392
-    description: Slightly lower damage, but if you have issues fitting the last RD
-      into buffs on 2.5, this is worth consideration, as RDM and SMN don't want
-      2.5 GCD.
-  - type: etro
+  - type: xivgear
+    name: 2.5 GCD BiS - Patch 7.4
+    link: 4bd90c49-7a54-483f-9107-042c89c8c68f&onlySetIndex=0
+    description: Highest simming set.
+  - type: xivgear
+    name: 2.49 GCD BiS - Patch 7.4
+    description: For those unable to complete burst windows at 2.5 GCD.
+    link: https://xivgear.app/?page=sl|4bd90c49-7a54-483f-9107-042c89c8c68f&onlySetIndex=1
+  - type: xivgear
+    name: 2.48 GCD BiS - Patch 7.4
+    description: For those unable to complete burst windows at 2.5 or 2.49 GCDs.
+    link: https://xivgear.app/?page=sl|4bd90c49-7a54-483f-9107-042c89c8c68f&onlySetIndex=2
+  - type: xivgear
     name: Pentamelded Pre-Savage BiS
-    link: b872a2e8-2427-4463-9deb-1eda52e7dd48
+    link: ""
     description: Ideal set to enter savage with.
   - type: etro
     name: 2.5 GCD TOP BiS
