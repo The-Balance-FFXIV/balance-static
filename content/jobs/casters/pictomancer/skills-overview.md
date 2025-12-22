@@ -3,7 +3,7 @@ title: Skills Overview
 authors:
   - Laille-Ormesaing
   - balance-pct-staff
-patch: "7.3"
+patch: "7.4"
 lastmod: 2025-08-10T04:47:36.904Z
 changelog:
   - date: 2024-06-21T06:39:58.289Z
