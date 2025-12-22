@@ -159,7 +159,7 @@ In Dawntrail, Drill's recast no longer scales with SkS. Like WF, it will come of
 
 ![](/img/jobs/mch/2022-01-03_16-03-43-500_okamiazure.png)
 
-## Piecing Together the Multi-Tool and Heat System
+# Piecing Together the Multi-Tool and Heat System
 
 As of 7.0, we are gaining two extra tools every burst window with the extra Drill usage, Excavator, and even Full Metal Field. All these new GCDs are replacing combo filler that we previously had in Endwalker. With the only way to go filler-less to do 10x HB, that is not the case now in Dawntrail. With 2x Hypercharge and our 5 Tools, and Full Metal Field, we have too many gcds to ideally carry a combo into the burst window. While its possible to carry a combo, it is extremely difficult, having to do 10x Blazing Shot to be able to have a chance to follow up the combo action right after the 10th Blazing Shot. Even more difficult and unrealistic if we stick to 5x Blazing Shot > Drill > 5x Blazing Shot, since we lose the combo unless we sacrifice the final Blazing Shot to continue this. As previously mentioned, to fix this and our 45 Heat 4-Minute window, we continue our combo instantly after the Air Anchor to keep the combo to run and not interrupt/end our burst early to continue for it.
 
