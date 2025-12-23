@@ -39,12 +39,10 @@ bis:
     description: ""
     name: 1.94 Week 1, Pentameld Only
     link: https://xivgear.app/?page=embed%7Csl%7Cf9bcd4a7-ddfc-49bf-be48-b1caf4e0fa8b&onlySetIndex=11
-  - type: gsheets
-    description: "Link to Full Document:
-      https://docs.google.com/document/d/1aXJLZCs0t2jxeGO56RXKamUc4QJV35WER6IOt\
-      96ckao/edit?usp=sharing "
+  - type: plain-text
+    description: Open this to read the full list of gearsets and general set FAQ.
     name: Ultimate/Unreal/Criterion Sets
-    link: https://docs.google.com/document/d/1aXJLZCs0t2jxeGO56RXKamUc4QJV35WER6IOt96ckao/edit?usp=sharing
+    link: https://docs.google.com/document/d/1aXJLZCs0t2jxeGO56RXKamUc4QJV35WER6IOt96ckao
 authors:
   - Balance-MNK-Staff
 ---
