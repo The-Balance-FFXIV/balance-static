@@ -10,14 +10,14 @@ changelog:
     message: 7.2 Gear Update
 bis:
   - type: xivgear
-    link: https://xivgear.app/?page=embed|sl|37cc737e-fc53-40be-b0e4-4a4f695b3ce8&onlySetIndex=0
+    link: https://xivgear.app/?page=embed|bis|gnb|current&onlySetIndex=0
     name: "2.50"
   - type: xivgear
     name: "2.45"
-    link: https://xivgear.app/?page=embed|sl|37cc737e-fc53-40be-b0e4-4a4f695b3ce8&onlySetIndex=1
+    link: https://xivgear.app/?page=embed|bis|gnb|current&onlySetIndex=1
   - type: xivgear
     name: "2.40"
-    link: https://xivgear.app/?page=embed|sl|37cc737e-fc53-40be-b0e4-4a4f695b3ce8&onlySetIndex=2
+    link: https://xivgear.app/?page=embed|bis|gnb|current&onlySetIndex=2
   - type: genericlink
     name: 7.4 Prog Sets
     link: https://xivgear.app/?page=sl|238433aa-1115-4510-8759-291234613a0a
