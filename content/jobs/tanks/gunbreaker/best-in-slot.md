@@ -21,8 +21,8 @@ bis:
   - type: genericlink
     name: 7.4 Prog Sets
     link: https://xivgear.app/?page=sl|238433aa-1115-4510-8759-291234613a0a
-    description: Previews week three (world prog) and week four (week one prog with
-      tomes) set options.
+    description: Previews week three (uncapped tomes) and week four (week one prog
+      with tomes) set options.
   - type: plain-text
     name: Ultimates
     description: |
