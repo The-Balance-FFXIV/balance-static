@@ -4,8 +4,8 @@ card_header_image: /img/jobs/mnk/basic.png
 authors:
   - Perfect-Balance
   - nyanpyon
-patch: "7.2"
-lastmod: 2025-03-31T22:27:44.609Z
+patch: "7.4"
+lastmod: 2025-12-26T23:43:40.621Z
 changelog:
   - date: 2021-10-28T03:44:08.486Z
     message: Created page
