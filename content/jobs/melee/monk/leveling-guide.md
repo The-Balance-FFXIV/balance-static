@@ -4,8 +4,8 @@ card_header_image: /img/jobs/mnk/leveling.png
 authors:
   - Perfect-Balance
   - Balance-MNK-Staff
-patch: "7.2"
-lastmod: 2025-03-31T22:34:29.270Z
+patch: "7.4"
+lastmod: 2025-12-26T23:42:52.710Z
 changelog:
   - date: 2021-11-15T21:06:38.491Z
     message: Added page
