@@ -3,8 +3,8 @@ title: Openers
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "7.2"
-lastmod: 2025-05-26T18:00:59.208Z
+patch: "7.4"
+lastmod: 2025-12-27T02:30:06.638Z
 changelog:
   - date: 2022-01-31T07:37:24.695Z
     message: Updated for Endwalker
