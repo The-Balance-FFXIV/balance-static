@@ -47,17 +47,11 @@ qna:
 
       If I don’t know -> do not delay Demi."
   - question: What loot should I get from normal mode raids?
-    answer: "For general sets that minimizes spell speed we recommend you follow
-      this priority:\\\r
-
-      \r
-
-      2.48: Neck → Gloves → Ring → Boots → Chest\r
-
-      2.47: Ring → Boots → Gloves → Chest\r
-
-      2.46: Neck or Ring → Boots → Ring or Save → Chest → Gloves (See BiS
-      list)"
+    answer: For the upcoming savage tier, with four weeks from the release of normal
+      to savage raids, the fundamental tome order doesn't matter. You have the
+      ability to have a full set of normal raid equipment with several pieces of
+      tome gear. To that end, the best loot is the loot that you need to
+      upgrade, preferably while maintaining an appropriate GCD.
   - question: My team is asking me to delay my burst and Searing Light for buffs.
       What do I do?
     answer: >-
