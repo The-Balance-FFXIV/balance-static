@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - Perfect-Balance
-patch: "7.05"
-lastmod: 2024-07-29T00:14:32.899Z
+patch: "7.4"
+lastmod: 2025-12-26T23:45:52.170Z
 changelog:
   - date: 2021-10-28T03:51:16.591Z
     message: Created page
