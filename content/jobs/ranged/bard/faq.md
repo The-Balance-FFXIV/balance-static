@@ -1,7 +1,7 @@
 ---
 title: Frequent Questions
 layout: qna
-patch: "7.01"
+patch: "7.4"
 lastmod: 2024-07-28T21:34:15.799Z
 changelog:
   - date: 2021-10-26T02:32:02.540Z
@@ -24,7 +24,7 @@ qna:
       can hit the whole pack with the 5y radius Pitch Perfect. Mage's Ballad is
       also around as good.
 
-      \\ 
+      \\
 
       \r
 
@@ -53,7 +53,7 @@ qna:
   - answer: If the fight will last 8:30 or more, aim to use it before the two minute
       burst, and then again for the eight minute. Otherwise, use it before the
       pull and then at six minutes.
-    question: When do I use tinctures?
+    question: When do I use gemdraughts?
   - question: Should I macro (any damage skill)?
     answer: No. Macros cannot be queued in advance, so you lose casts over time by
       using them since every use will have a little delay. Targeting macros
