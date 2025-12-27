@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - Balance-BRD-Staff
-patch: "7.3"
-lastmod: 2025-10-01T01:18:24.112Z
+patch: "7.4"
+lastmod: 2025-12-27T15:34:40.739Z
 changelog:
   - date: 2021-10-26T02:31:00.147Z
     message: Created page
