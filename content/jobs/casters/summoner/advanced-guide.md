@@ -3,8 +3,8 @@ title: Advanced Guide
 card_header_image: /img/jobs/smn/advanced.png
 authors:
   - Balance-SMN-Staff
-patch:
-lastmod: 2024-07-23T03:49:45.489Z
+patch: null
+lastmod: 2025-12-27T01:33:57.833Z
 changelog:
   - date: 2021-11-15T21:19:35.756Z
     message: Added page
