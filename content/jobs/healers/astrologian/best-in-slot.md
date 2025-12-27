@@ -10,7 +10,7 @@ changelog:
     message: updated bis set for 7.4 heavyweight
 bis:
   - type: plain-text
-    name: Week 1 Sets Information
+    name: Week 1 Sets information
     description: >-
       Your options for week 1 are listed below. I have separated out the
       important sets, all of which include 4 weeks of tomes.
@@ -38,8 +38,35 @@ bis:
     name: Week 1 - 2.31 Tome Ring
     link: https://xivgear.app/?page=embed|sl|24adc5cc-e541-4715-89fa-915617d1548d
   - type: genericlink
-    link: https://xivgear.app/?page=sl|1b1c2b83-e548-497b-b477-8e94d77b3cde
-    name: Composite Sheet
+    link: https://xivgear.app/?page=sl|56334915-6e2c-4a98-b18e-9175b83d8cb8
+    name: Week 1 - Composite Sheet
+  - type: plain-text
+    name: Savage bis information
+    description: >-
+      AST has two main speeds this tier at current purview, 2.43 and 2.31. 
+
+      2.43 should consistently do just south of 0.1% better, but this is easily within margin of error, so going fast is plenty okay.
+
+
+      Of note, 2.31 will compat with SCH and do better with WHM compared to 2.43.
+
+
+      Max Damage sets use double Tome Ring. Max iLvl sets exist for the sake of the alleged 7.5 Ultimate, and PF weeklies when Kirito Deathbringer dies for the 7th time and you really want that extra Piety and Vitality
+
+
+      2.43 sets use Tome Gloves, 2.31 sets use Raid Gloves. Otherwise, differences are mainly in melds.
+  - type: etro
+    name: 2.43 Max Damage
+    link: https://xivgear.app/?page=embed|sl|d223a0a1-dde4-410a-ac59-e8593e019a63
+  - type: etro
+    name: 2.31 Max Damage
+    link: https://xivgear.app/?page=embed|sl|dca27524-4c12-4cd0-b26b-9bc4abba2d27
+  - type: etro
+    name: 2.43 Max ilvl
+    link: https://xivgear.app/?page=embed|sl|5ee77798-4286-47cd-8ee7-b5872f25165c
+  - type: etro
+    name: 2.31 max ilvl
+    link: https://xivgear.app/?page=embed|sl|5a11be40-8c70-49f1-8b8a-e18214c10708
 authors:
   - Balance-AST-Staff
   - zyrk
