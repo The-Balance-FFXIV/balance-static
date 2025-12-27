@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - Balance-BRD-Staff
-patch: "7.3"
-lastmod: 2025-10-01T01:18:24.112Z
+patch: "7.4"
+lastmod: 2025-12-27T15:34:40.739Z
 changelog:
   - date: 2021-10-26T02:31:00.147Z
     message: Created page
@@ -53,6 +53,6 @@ No, go ahead and wait for the 21 proc. Even though it will lose one buff, this i
 
 \--
 
-> *I've heard about using Tinctures at two minutes, why is it here?*
+> *I've heard about using Gemdraughts at two minutes, why is it here?*
 
 This is just a default opener if you don't know the fight length. If you're certain the fight will last 8:30 or more (accounting for downtime), you will want to Tincture at two and eight minutes.
