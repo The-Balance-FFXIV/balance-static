@@ -1,50 +1,45 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
-lastmod: 2025-04-19T07:15:57.965Z
+patch: "7.4"
+lastmod: 2025-12-27T17:39:02.682Z
 changelog:
-  - date: 2023-06-13T07:33:46.627Z
-    message: Updated for 6.4
-  - date: 2024-01-29T22:59:32.336Z
-    message: Updated TOP/DSR sets for 6.55
   - date: 2025-04-18T22:19:49.660Z
     message: Updated BiS sets for 7.2 Cruiserweight
+  - date: 2025-12-27T17:39:04.166Z
+    message: updated bis set for 7.4 heavyweight
 bis:
-  - type: xivgear
-    name: (2.32) Kevin harlan
-    link: https://xivgear.app/?page=embed|sl|e53632cc-15a2-4533-84ca-7c8517fd457c
+  - type: plain-text
+    name: Week 1 Sets Information
     description: >-
-      This set is ideal for players who prefer a faster GCD. It is expected to
-      provide very slightly less DPS than the 2.46 set, but the difference is
-      negligible.
+      Your options for week 1 are listed below. I have separated out the
+      important sets, all of which include 4 weeks of tomes.
+
+      If you have fewer than 4 weeks of tomes, access the composite sheet link below.
 
 
-      This set will burn through MP considerably faster than the 2.46 set, so it may not be ideal if you expect to cast multiple raises or do a lot of GCD healing.
-  - type: xivgear
-    name: (2.46) Spero Dedes
-    link: https://xivgear.app/?page=embed|sl|c2b52e7c-c585-46e0-b548-bf488c6c19fd
-    description: >-
-      This is the generally recommended set. It provides the highest expected
-      DPS, and the relatively slow GCD ensures that you will have plenty of MP
-      for raises and GCD healing. This set should also be identical to the
-      highest DPS sets for both WHM and SGE.
+      All sets buy the Tome chest. Most buy the tome bracelet, tome earring and normal mode pants. Some buy a ring instead of one of the other jewels. The Piety sets skip the normal mode pants.
 
 
-      Recommended tomestone buy order: gloves > earrings > wrist > hat > pants > ring
-  - type: xivgear
-    name: FRU - (7.32) Orb
-    link: https://xivgear.app/?page=embed|sl|c2264200-aa9f-4c1f-a467-07dbb25d290b
-    description: With the FRU weapon, you can move melds around to fit in an extra
-      Crit meld on the Tome Ring where you would normally put a SpS.
-  - type: xivgear
-    name: FRU - (2.48) Kaijuu
-    link: https://xivgear.app/?page=embed|sl|3ddfd0c8-c6e0-4856-9e5f-e064687fc88a
-    description: With the FRU weapon, you can slot in another DH in the weapon.
+      If you have special other needs not covered in these sets (less weeks of tomes, ornate chest purchased, a tome earring ate your favorite pet turtle once) then you can export the sheet, adjust the gear to your needs, and then have the internal sim solve melds for you.
+
+
+      ####  **Note** - Tome Earring is better damage for week 1 purposes, but will NOT be a part of final BiS. If you are averse to wasting tomes and/or wish to have more MP, the Tome Ring sets are better. If you only have healers to gear on a character, I do recommend the Tome Earring sets, but ultimately it is your own decision.
+  - type: etro
+    link: https://xivgear.app/?page=embed|sl|3ddab5fb-6b04-4a39-a1f0-8247ef09f191
+    name: Week 1 - 2.32 Tome Earring | Highest Damage
+  - type: etro
+    name: Week 1 - 2.32 Tome Ring
+    link: https://xivgear.app/?page=embed|sl|f8eed45a-5c8d-4331-a8a4-46ecf7658817
+  - type: etro
+    name: Week 1 - 2.31 Tome Earring
+    link: https://xivgear.app/?page=embed|sl|3fb02abc-8617-49e0-80ca-d8a3b9f9b9eb
+  - type: etro
+    name: Week 1 - 2.31 Tome Ring
+    link: https://xivgear.app/?page=embed|sl|24adc5cc-e541-4715-89fa-915617d1548d
   - type: genericlink
-    name: TOP sets
-    link: https://xivgear.app/?page=sl|f4ac5879-3fac-4886-abf9-560f3b05b5e3
-    description: This is a full sheet of both relic and non-relic options for TOP
+    link: https://xivgear.app/?page=sl|1b1c2b83-e548-497b-b477-8e94d77b3cde
+    name: Composite Sheet
 authors:
   - Balance-AST-Staff
   - zyrk
