@@ -1,8 +1,8 @@
 ---
 title: Frequent Questions
 layout: qna
-patch: "7.3"
-lastmod: 2025-08-05T20:52:18.543Z
+patch: "7.4"
+lastmod: 2025-12-27T02:40:28.721Z
 changelog:
   - date: 2021-11-15T03:49:47.299Z
     message: Created
@@ -13,15 +13,20 @@ changelog:
   - date: 2022-08-28T21:16:30.164Z
     message: Removed Bloodfest Question as no longer relevant
 qna:
-  - question: What did they change in 7.20?
+  - question: What are the relevant changes of patch 7.4's miniature rework?
     answer: >-
-      Gunbreaker received a 0.88% buff to DPS, and also removed some
-      interactions with Superbolide that they deemed to be "unintended
-      behavior".
+      **Gnashing Fang** no longer has charges, which increases flexibility of
+      the rotation significantly due to the ability to shift the position of
+      where it used, provided the charges are not completely full. This
+      **Gnashing Fang** charge system can be used to optimize **No Mercy** by
+      attempting to place both (or as much as possible of both) **Gnashing
+      Fang** usages within **No Mercy.**
 
-      - Superbolide no longer prevents your HP from dropping below 1, it now only grants the impervious effect that reduces damage taken to zero (similar to Hallowed Ground). 
 
-      - It used to have an additional effect that prevented HP from going below 1 (similar to Holmgang), which could be useful if a damage event was calculated on the player but had not yet hit them, as activating Superbolide would protect against that damage and promptly save them from dying.
+      **Bloodfest** also no longer overcaps the powder gauge, allowing you to hold up to 6 cartridges within the powder gauge and granting an additional 3 cartridges to the powder gauge at level 100  upon each use.
+
+
+      **Bloodfest's** cooldown was changed to 60 seconds as well, which results in the usage of **Reign of Beasts** within every **No Mercy.**
   - question: Should I ever use a different opener than the one listed?
     answer: >-
       Yes, absolutely. The reasoning behind general-purpose openers is to put
@@ -38,38 +43,20 @@ qna:
        - Do not drift **No Mercy** over the fight (without planning it) to continue matching party buff timing.
   - question: What GCD should I play?
     answer: >-
-      Empirically, 2.50 tends to deal the most damage by a marginal (less than
-      1%) amount in an average, full-uptime encounter.
-
-      - Faster speeds will occasionally win in specific boss fights due to the cooldown reduction permitting fight-specific cooldown usage that 2.50 cannot perform.
-
-      - A common reason players choose to play faster than 2.50 (especially in prog) is because faster speeds are more forgiving due to their cooldown reduction and additional GCD space within **No Mercy**.
+      It is recommended to play on 2.50 due to little to no ping requirements,
+      highest average DPS empirically in the majority of encounters, and ease of
+      access with gearing.
 
 
-      Some general advice for those of you just looking for an easy choice:
-
-      - 2.50 is by and large the most popular speed due to it having zero ping requirements, good cooldown alignment, and usually best-in-class DPS.
-
-      - 2.40 is the easiest speed to prog with due to it's weaponskill cooldown reduction and increased No Mercy flexibility, but has the tradeoff of generally being the lowest average DPS by ~1%.
-
-      - 2.45 is a speed that contains ping restrictions and a couple of weaving nuances between **No Mercy** and innate **Blasting Zone** drift, but if you are comfortable with the job's fundamentals then this speed is comfortable to play on. It can be used occasionally for optimizing specific encounters to deal more damage than 2.50.
-
-
-      If you choose to play a speed faster than 2.50, then you will want to read more about "reverse drift".
-  - question: What is "reverse drift"?
+      You can choose to explore with skill speed at various ranges if you are looking to experiment, but there is little reason as of Patch 7.4 other than adding additional tolerance/lenience to optimizing the use of the filler **Gnashing Fang** charge within **No Mercy,** because faster GCD speeds will have time to carry an active **Solid Barrel** combo through the extra **Gnashing Fang** charge and burst phase without falling off.
+  - question: How does cooldown reduction from SKS impact our job?
     answer: >-
-      Reverse drift is a term that was coined to express how skill speed makes
-      GCD cooldowns come off cooldown faster than ability cooldowns like **No
-      Mercy**, which gives the feeling that your cooldowns are drifting out of
-      your burst phase because they come off cooldown at the same time as **No
-      Mercy** (or earlier). This effect makes a useful tool for resetting any
-      cooldown delay inside **No Mercy**, but can be unhelpful though to
-      beginners because it may make you question whether to use the cooldown
-      immediately outside of **No Mercy**, or to hold it (or worse, clip the GCD
-      entirely.)
+      You will notice that when playing below 2.50 GCD, the cooldown of **Double
+      Down** will begin decreasing by 0.1% of its base cooldown per SKS tier
+      (separate from the GCD tier, there are four SKS tiers per GCD tier.)
 
 
-      If you happen to notice cooldowns that should be used within **No Mercy** coming off cooldown faster than **No Mercy** is, it's fine to just hold them back into their original spot and pretend like you aren't receiving the cooldown reduction, because the cooldown reduction becomes harmful until you start gaining enough usages (which takes a far, far lower GCD speed than anything we reach) to make it worth using them off cooldown outside of your buff.
+      This effect will cause it to come off cooldown before **No Mercy**, resulting in the cooldown falling outside of **No Mercy** unless held. The correct solution at almost every speed played is to hold **Double Down** back into **No Mercy**, and it does not become better to use off cooldown until reaching speeds close to 2.10.
   - question: What should I do if my GCD isn't exactly one of the listed speeds in
       the BIS list?
     answer: >-
@@ -84,18 +71,6 @@ qna:
 
 
       The drift to **No Mercy** may pull you out of raid buffs over time, but speeds close to 2.40 or 2.45 are typically safe for use in the majority of encounters without risk of loss, and can even be more optimal than the base speed (e.g. 2.40) due to fight alignment.
-  - question: Is it worth it to hold No Mercy to secure better GCDs in No Mercy when
-      I don't have Bloodfest?
-    answer: >-
-      No, because it loses potential future uses and places you outside of your
-      party buffs, losing more than you gain by delaying on average.
-
-
-      In a fight with no defined endpoint (infinite), every GCD that you hold **No Mercy** ends up losing a fractional amount of a future burst phase depending on GCD speed.
-
-      - This loses more average DPS than the buffed GCD gains, unless you already know how the fight timeline plays out and you have determined that you do not lose cooldown usages from delaying. 
-
-      - Even if you have confirme that you do not lose cooldown usages, you must check if you are losing net DPS from the fact that you will push GCDs out of party raid buffs by delaying your burst phase.
   - question: How ping reliant is Gunbreaker? Does it require double weaving?
     answer: >-
       Gunbreaker normally double-weaves and occasionally needs specific usage
@@ -107,17 +82,58 @@ qna:
       - Double weaving is generally expected to occur, but single-weaving is possible without damage loss (as long as the full burst window is completed).
   - question: How do I recover my rotation if I make mistakes?
     answer: >-
-      The best case solution depends on what the "mistake" actually was.
-      Remember that the basic guide's priority order for your burst phase is not
-      telling you to follow that as a list, it is a **priority**. If you can't
-      do a step in that list, move to the next one. If you can do a higher
-      priority step in that list next GCD, do that one.
+      The recovery depends on the nature of the mistake. \
+
+      \
+
+      If uptime was lost, then prioritize in order:\
+
+      - **Double Down**.
+
+      - **Reign of Beasts**.
+
+      - **Sonic Break**.
+
+      - **Gnashing Fang**.
 
 
-      An example of a common mistake is delaying **Gnashing Fang** so that it comes off cooldown at the same position as **Double Down** in your burst phase. You can place Sonic Break in the place of where **Gnashing Fang** normally goes, and then move **Gnashing Fang** or **Double Down** to the place that **Sonic Break** would have gone if you had not made that mistake.
+      If **Bloodfest** has drifted, then the powder gauge must be managed to ensure that enough cartridges are held to use whichever cooldowns **Bloodfest** has drifted beyond within **No Mercy**.
 
 
-      It's fine to delay your burst window by a GCD if the delay would help re-sort your burst actions in the event that several cooldowns become severely misaligned from **No Mercy**. We *try* not to delay because it's an average DPS loss, but so is running a rotation that is pushing cooldowns out of **No Mercy**.
+      Other mistakes are harder to evaluate directly, such as accidentally drifting **Double Down** out of **No Mercy**. The answer here would depend on the remaining time within the fight, because every usage of **Double Down** used outside of **No Mercy** would result in "0.20x" of one usage being wasted from not being buffed.
+
+
+      Holding the usage until the next **No Mercy** would completely waste one usage, but buff the remaining usages by 20% for the remainder of the fight, meaning it would require 5 usages within **No Mercy** until you would break even on the potency loss from wasting the entire usage.
+
+
+      In simple terms, without knowing whether or not the unheld usage outside of **No Mercy** will be lost at the end of the fight because of how far it has drifted, it is better to use **Double Down** off cooldown wherever it has drifted to unless the fight has longer than 5 minutes or longer remaining (4 minutes or longer if your party has several raid buffs), in which case it becomes better to hold back into **No Mercy**.
+  - question: How do I optimize Gnashing Fang's filler charge?
+    answer: >+
+      The spare charge of **Gnashing Fang** that generates while **No Mercy** is
+      on cooldown can be held and used just prior to **No Mercy** at level 100,
+      which will buff a portion of its combo.
+
+
+      Ideally, **Gnashing Fang** should be used so that **Wicked Talon** is used just prior to **No Mercy** on 2.50 so that **Eye Gouge** is buffed by **No Mercy**, or within **No Mercy** on speeds that can fit 9 GCDs into **No Mercy**.
+
+
+      However, **any** portion of the **Gnashing Fang** combo being placed into **No Mercy** is a gain over **Burst Strike**. This means that **Gnashing Fang or Savage Claw**, or their **Continuation** counterparts **Jugular Rip or Abdomen Tear** are still better / more ideal to use over **Burst Strike**.
+
+
+      Doing this on 2.50 requires no active **Solid Barrel** combo, otherwise the combo will break at the end of the burst phase. In order to facilitate this, there is a heuristic that can be used during uptime:
+
+
+      1. Take the number of cartridges within the powder gauge once **No Mercy** ends.
+
+      2. Double that number to find the number of **Burst Strikes** to spend before the next **No Mercy**.
+        - If the number of cartridges was zero, then **Burst Strike** once.
+        - If a GCD other than the basic combo has bled into the filler phase outside of **No Mercy**, remove one **Burst Strike** per extra GCD.
+
+      These **Burst Strike** casts for 2.50 will ensure that your combo is not running when it is time to cast **Gnashing Fang** prior to **No Mercy**. If downtime occurs where you disengage from melee range, this technique will become harder to manage and you may end up having a combo active when it is time to **ideally** begin **Gnashing Fang** to buff an additional **Eye Gouge**, but this is not a problem.
+
+
+      If downtime occurs, simply begin **Gnashing Fang** as soon as the current combo within 7 seconds prior to **No Mercy** ends. Remember, **ANY** **Continuation** from **Gnashing Fang** is better than **Burst Strike**'s **Hypervelocity**.
+
   - question: Can you die while casting Superbolide?
     answer: >-
       Superbolide (along with other tank invulnerability actions) were updated
@@ -128,20 +144,22 @@ qna:
       This means that the actual activation delay between pressing the button and becoming impervious is roughly half of your ping, because that's the time it took to send that action request to the server. Some time is needed for the server to actually process that request and have it become active on its end, but there's no way of knowing what that time is (you can assume it is negligible.)
 
 
-      With that in mind, it should be impossible in effect to die after you've cast the action, but it is possible to die from damage that strikes you as you are waiting for the buff to activate.
-  - question: What does Tenacity do and why is it generally not used heavily?
+      With that in mind, it should be impossible in effect to die after you've cast the action, but it is possible to die from damage that strikes you during the very short period waiting for the buff to activate, and is also possible for the HP halving effect to result in your death from damage that deals more than 50% of your HP striking you from when it was prepared prior to the casting of **Superbolide**.
+  - question: "What does Tenacity do and why does it randomly appear as singular
+      melds on posted gearsets sometimes? "
     answer: >-
       Tenacity has two effects that scale at different rates, with the first
       effect being a damage bonus that increases your damage by 0.1% per tier
       (similar to Determination), and the second effect being a mitigation bonus
       that decreases your damage taken by 0.1%.
 
-      - The damage reduction scales relatively quickly, which can be valuable in situations where damage isn't required (which usually isn't the case, so we don't prioritize this since our mitigation will cover the fight with or without Tenacity).
 
-      - The damage boost scales somewhat slowly, at a rate equal to 80% of the tiering rate of Determination. This means that you get less damage boost per stat point invested, albeit not by a great difference.
+      * The damage reduction scales relatively quickly, which can be valuable in situations where damage isn't required (which usually isn't the case, so we don't prioritize this since our mitigation can and will cover the fight with or without Tenacity).
+
+      * The damage boost scales somewhat slowly, at a rate equal to 80% of the tiering rate of Determination. This means that you get less damage boost per stat point invested, albeit not by a great difference.
 
 
-      Since every encounter can be covered by tank and healer mitigation tools without any Tenacity, there's no reason to sacrifice DPS for mitigation on best-in-slot sets (or progression sets) and potentially risk missing a DPS check that you could have made by having better stats on your gear.
+      Since every encounter can be covered by tank and healer mitigation tools without any Tenacity, there's no reason to sacrifice DPS due to lower stat scaling efficiency for mitigation on best-in-slot sets (or progression sets) and potentially risk missing a DPS check that you could have made by having better stats on your gear (which is unlikely, but possible).
 
 
       Please keep in mind that this is *not* a recommendation to avoid Tenacity altogether. Gear that contains Tenacity is still very viable in the event that no equivalent item level gear piece exists that contains both CRIT and DET.
