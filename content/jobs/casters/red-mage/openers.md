@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - Balance-RDM-Staff
-patch: "7.01"
-lastmod: 2024-07-28T17:22:52.326Z
+patch: "7.4"
+lastmod: 2025-12-27T14:47:20.399Z
 changelog:
   - date: 2021-10-26T01:26:40.899Z
     message: Created page
@@ -13,6 +13,8 @@ changelog:
     message: No changes, updated patch number
   - date: 2024-07-28T17:23:04.488Z
     message: Updated for Dawntrail
+  - date: 2025-12-27T14:47:38.576Z
+    message: No changes, updated patch number.
 ---
 # Opener Notes
 
