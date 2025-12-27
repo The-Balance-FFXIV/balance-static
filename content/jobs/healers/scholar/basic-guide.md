@@ -4,8 +4,8 @@ card_header_image: /img/jobs/sch/basic.png
 authors:
   - tealjaker
   - potato
-patch: "7.31 "
-lastmod: 2025-09-04T16:27:43.938Z
+patch: "7.4 "
+lastmod: 2025-12-27T17:56:26.978Z
 changelog:
   - date: 2021-10-26T21:53:11.912Z
     message: Article Created.
