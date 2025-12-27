@@ -3,8 +3,8 @@ title: Skills Overview
 authors:
   - juliacare
   - Hauffen
-patch: "7.3"
-lastmod: 2025-08-05T04:45:43.571Z
+patch: "7.4"
+lastmod: 2025-12-27T01:10:02.750Z
 changelog:
   - date: 2021-11-29T23:13:41.431Z
     message: Added page
@@ -18,6 +18,8 @@ changelog:
     message: Updated for 7.2
   - date: 2025-08-05T04:45:44.767Z
     message: Updated for 7.3
+  - date: 2025-12-27T01:10:07.592Z
+    message: Updated for 7.4
 ---
 # Actions
 
