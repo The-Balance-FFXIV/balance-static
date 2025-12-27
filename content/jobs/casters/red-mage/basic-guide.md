@@ -3,8 +3,8 @@ title: Basic Guide
 card_header_image: /img/jobs/rdm/lanaresized.png
 authors:
   - Balance-RDM-Staff
-patch: "7.2"
-lastmod: 2025-03-24T00:00:00.000Z
+patch: "7.4"
+lastmod: 2025-12-27T15:10:20.807Z
 changelog:
   - date: 2021-10-26T01:24:41.469Z
     message: Created page
@@ -16,6 +16,8 @@ changelog:
     message: Updated for Dawntrail with preliminary version
   - date: 2025-03-24T20:09:08.609Z
     message: Updated for 7.2
+  - date: 2025-12-27T15:10:24.550Z
+    message: Updated for Manafication changes in 7.4
 ---
 # Introduction
 
@@ -103,9 +105,9 @@ At level 92, Embolden grants Thorned Flourish upon executing Embolden, which all
 
 ## Manafication and Prefulgence
 
-Manafication is an ability with a 110s cooldown that allows us to use a melee combo without consuming mana. Specifically, it grants three stacks of Magicked Swordplay, each stack allowing us to use a melee combo at no mana cost while the buff is up. The ability also gives us a 5% magic damage buff with six stacks that lasts 30 seconds, which buffs the next six GCDs by 5%. This damage buff should generally be used on our melee combo, as it is the strongest burst window Red Mage has. 
+Manafication is an ability with a 110s cooldown that allows us to use a melee combo without consuming mana. Specifically, it grants three stacks of Magicked Swordplay, each stack allowing us to use a melee combo at no mana cost while the buff is up. The ability also grants a 30 second buff which increases the range of our single-target melee combo GCDs from 3y to 25y.
 
-At level 100, we also gain a new oGCD ability: **Prefulgence**, which is our hardest hitting oGCD at 1000 potency for the first enemy, and 60% less for all remaining enemies. It is enabled after the sixth Manafication stack is consumed, which grants us the Prefulgence Ready buff for 30 seconds and replaces Manafication on our hotbar until used. 
+At level 100, we also gain a new oGCD ability: **Prefulgence**, which is our hardest hitting oGCD at 1000 potency for the first enemy, and 60% less for all remaining enemies. At this level, Manafication grants us the Prefulgence Ready buff for 30 seconds and replaces Manafication on our hotbar until used. 
 
 In general, Prefulgence should be used in buffs whenever possible. If you’re unsure about whether you can hold Prefulgence long enough for the next buff window, simply compare the timer with your Embolden cooldown timer, which should be aligned with the party: if Embolden is coming up in 15 seconds and the Prefulgence Ready buff has 25 seconds left on the timer, then it will easily be available for the upcoming buff window.
 
@@ -289,6 +291,6 @@ Buff windows from four minutes onwards tend to be more variable due to mechanics
 There are several aspects to Dawntrail RDM that warrant further exploration and testing:
 
 * **Encounter-specific openers, including pre-pull Acceleration** for an additional Grand Impact (with or without right clicking the buff off for the instant GCD) to gain an extra use in predictable killtimes.
-* **Downtime Manafication**. If we gain an additional use of Manafication during uptime, it is a clear DPS gain due to +1 melee combo and +1 Prefulgence. But during downtime, more interestingly, we can Vercure ourselves six times (assuming no delay) to proc the Prefulgence Ready buff. If this results in an extra use of Manafication, that is still a gain (i.e. +0 melee combo and +1 Prefulgence is still an overall DPS gain in a vacuum).
+* **Downtime Manafication**. If we gain an additional use of Manafication during uptime, it is a clear DPS gain to use Manafication during downtime due to +1 melee combo and +1 Prefulgence. However, there may be rare situations where a usage of Manafication during downtime grants us a partial free melee combo and an additional use of Prefulgence due to the timing of when it comes off cooldown. This would still be a gain if it gave us an additional use of Manafication over the course of the fight.
 * **Maximizing Swiftcast uses across an encounter with zero oGCD drift** will require strict rotation and timeline planning. With Acceleration being usable as a temporary fix for oGCD weaving if Swiftcast is on cooldown (it does not shift alignment but it allows us to keep the cooldowns cycling if we shift alignment later), there are many possibilities.
 * **Maximizing potency value of Acceleration and Grand Impact**. In theory, Grand Impact is a gain over Verthunder/aero III during buff windows, but a loss if it comes at the expense of melee combo finishers. With strict Acceleration and Grand Impact planning, it is possible to plan encounters in such a way that we save Grand Impact for buffs without losing a use of Acceleration, assuming scenarios where we single combo under buffs (e.g. when rushing Manafication).
