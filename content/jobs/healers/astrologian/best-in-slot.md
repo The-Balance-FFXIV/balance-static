@@ -10,7 +10,7 @@ changelog:
     message: updated bis set for 7.4 heavyweight
 bis:
   - type: plain-text
-    name: Week 1 Sets information
+    name: Week 1 Sets Information
     description: >-
       Your options for week 1 are listed below. I have separated out the
       important sets, all of which include 4 weeks of tomes.
@@ -41,7 +41,7 @@ bis:
     link: https://xivgear.app/?page=sl|56334915-6e2c-4a98-b18e-9175b83d8cb8
     name: Week 1 - Composite Sheet
   - type: plain-text
-    name: Savage bis information
+    name: Savage bis Information
     description: >-
       AST has two main speeds this tier at current purview, 2.43 and 2.31. 
 
@@ -67,6 +67,9 @@ bis:
   - type: etro
     name: 2.31 max ilvl
     link: https://xivgear.app/?page=embed|sl|5a11be40-8c70-49f1-8b8a-e18214c10708
+  - type: plain-text
+    name: Bis composite sheet
+    link: https://xivgear.app/?page=sl|a8075b19-a060-4365-b954-a0e17aaa27fd
 authors:
   - Balance-AST-Staff
   - zyrk
