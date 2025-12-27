@@ -3,8 +3,8 @@ title: Advanced Guide
 card_header_image: /img/jobs/war/advanced.png
 authors:
   - squall
-patch: "7.2"
-lastmod: 2025-04-03T22:37:53.796Z
+patch: "7.4"
+lastmod: 2025-12-27T02:31:26.281Z
 changelog:
   - date: 2021-11-15T18:36:27.000Z
     message: Created page
