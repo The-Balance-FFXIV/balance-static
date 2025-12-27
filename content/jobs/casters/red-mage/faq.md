@@ -1,8 +1,8 @@
 ---
 title: Frequent Questions
 layout: qna
-patch: "7.2"
-lastmod: 2024-08-02T04:26:31.977Z
+patch: "7.4"
+lastmod: 2025-12-27T15:18:50.335Z
 changelog:
   - date: 2021-10-26T01:27:20.609Z
     message: Created page
