@@ -1,7 +1,7 @@
 ---
 title: Stat Priority
-patch: "7.1"
-lastmod: 2025-03-27T15:47:30.021Z
+patch: "7.4"
+lastmod: 2025-12-27T02:32:16.776Z
 changelog:
   - date: 2022-02-02T23:35:01.842Z
     message: Updated for Endwalker
