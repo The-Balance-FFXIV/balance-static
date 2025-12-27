@@ -70,16 +70,16 @@ bis:
       ## **Tome buy order:**
 
       Chest > Wrist > Ring > Ring
-  - type: etro
+  - type: xivgear
     name: 2.40 max damage
     link: https://xivgear.app/?page=sl|9920f282-327e-430a-8a76-1325264f4947
-  - type: etro
+  - type: xivgear
     name: 2.31 max damage
     link: https://xivgear.app/?page=sl|9920f282-327e-430a-8a76-1325264f4947
-  - type: etro
+  - type: xivgear
     link: https://xivgear.app/?page=sl|97a84dd4-31fc-4818-a9b7-ace016b366f1
     name: 2.40 max ilvl
-  - type: etro
+  - type: xivgear
     name: 2.31 max ilvl
     link: https://xivgear.app/?page=sl|97a84dd4-31fc-4818-a9b7-ace016b366f1
   - type: plain-text
