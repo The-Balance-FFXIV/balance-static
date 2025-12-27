@@ -53,6 +53,6 @@ No, go ahead and wait for the 21 proc. Even though it will lose one buff, this i
 
 \--
 
-> *I've heard about using Tinctures at two minutes, why is it here?*
+> *I've heard about using Gemdraughts at two minutes, why is it here?*
 
 This is just a default opener if you don't know the fight length. If you're certain the fight will last 8:30 or more (accounting for downtime), you will want to Tincture at two and eight minutes.
