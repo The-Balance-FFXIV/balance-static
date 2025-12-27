@@ -4,8 +4,8 @@ card_header_image: /img/jobs/war/war-intermediate-guide.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "7.2"
-lastmod: 2025-05-28T12:10:03.685Z
+patch: "7.4"
+lastmod: 2025-12-27T02:30:31.306Z
 ---
 ## The Optimization
 
