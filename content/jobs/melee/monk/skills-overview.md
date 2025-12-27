@@ -2,8 +2,8 @@
 title: Skills Overview
 authors:
   - Balance-MNK-Staff
-patch: "7.2"
-lastmod: 2025-03-31T22:15:12.240Z
+patch: "7.4"
+lastmod: 2025-12-26T23:44:12.020Z
 changelog:
   - date: 2021-10-28T03:50:38.305Z
     message: Created page
