@@ -3,8 +3,8 @@ title: Advanced Guide
 card_header_image: /img/jobs/mnk/advanced.png
 authors:
   - nyanpyon
-patch: "7.15"
-lastmod: 2025-01-16T01:14:13.226Z
+patch: "7.4"
+lastmod: 2025-12-26T23:47:26.662Z
 changelog:
   - date: 2024-11-26T03:37:01.717Z
     message: Added first part of advanced guide
