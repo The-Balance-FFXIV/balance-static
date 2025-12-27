@@ -152,8 +152,8 @@ If it appears that GCDs will be lost during the burst phase, attempt to prioriti
 
 \* Note that considering the use of **Sonic Break** as the 9th GCD only exists due to the fact that it does not have a cooldown, and is lower potency than **Lionheart**. It contains the risk of wasting a portion of the damage-over-time effect in pulls where you do not know if the boss will become untargetable. Other options exist that can remove the threat of wasting DoT time, such as:
 
-* From 2.40 - 2.41, you can use **Burst Strike** or **Wicked Talon** as the 9th GCD, *and* still have time to use **Hypervelocity** before **No Mercy** ends (only by casting **No Mercy** at the latest possible point in the GCD roll without interrupting the next GCD). This may not possible on ping values greater than ~50ms.
-* **Lionheart** can also take the place of the 9th GCD instead of **Sonic Break** but it is a higher potency GCD than **Sonic Break**, and therefore has the risk of losing additional potency if the 9th GCD is accidentally lost. Doing this also requires you to use **Reign of Beasts** after **Gnashing Fang** within the burst phase.
+* From 2.40 - 2.41, you can use **Burst Strike** or **Wicked Talon** as the 9th GCD, *and* still have time to use **Continuation** before **No Mercy** ends (only by casting **No Mercy** at the latest possible point in the GCD roll without interrupting the next GCD). This may not possible on ping values greater than ~50ms.
+* **Lionheart** can also take the place of the 9th GCD instead of **Sonic Break**, but it is a higher potency GCD than **Sonic Break**, and therefore has the risk of losing additional potency if the 9th GCD is accidentally lost. Doing this also requires you to use **Reign of Beasts** after **Gnashing Fang** within the burst phase.
 
 OGCD cooldowns within **No Mercy** should be used in the following priority:
 
@@ -161,14 +161,14 @@ OGCD cooldowns within **No Mercy** should be used in the following priority:
 
 </br>
 
-## Unique Burst Phases
+## Unique Burst Phase Considerations
 
 - - -
 
 #### Optimizing Gnashing Fang On 2.50 GCD
-Due to **Gnashing Fang** being a charge-based cooldown, it can be held up to **No Mercy** without risk of loss. Doing this will not allow **Gnashing Fang** to enter **No Mercy**, but on 2.50 it is possible to place **Continuation** within **No Mercy** when **No Mercy** is weaved early within the GCD roll.
+Due to **Gnashing Fang** being a charge-based cooldown, it can be held up to **No Mercy** without risk of loss in order to buff one of **Gnashing Fang's Continuation** moves instead of **Burst Strike's Hypervelocity**.
 
-This permits **Gnashing Fang** to be used in a manner that looks like:
+This permits **Gnashing Fang** to be used ideally 7 seconds prior to **No Mercy** in a manner that looks like:
 1. **Gnashing Fang**
 2. **Savage Claw**
 3. **Wicked Talon**
@@ -176,22 +176,20 @@ This permits **Gnashing Fang** to be used in a manner that looks like:
 5. **Eye Gouge**
 6. Normal burst phase.
 
-This technique will buff an additional **Eye Gouge**, but cannot be performed if a combo is currently active in the rotation. The normal **Solid Barrel** combo has a 30-second timer that begins the moment the last combo action was pressed, which is too short to be carried through **Gnashing Fang** and an entire **No Mercy**.
+It is worth noting that this is the *ideal* case, but **any** **Continuation** from the **Gnashing Fang** combo is a gain over **Hypervelocity**, so holding **Gnashing Fang** for any necessary reason, thereby pushing it partially into **No Mercy**, is perfectly acceptable and considered ideal.
 
-To ensure that a combo is not active in the rotation, **Burst Strikes** can be used to manipulate the combo position to always end a combo shortly before beginning **Gnashing Fang**. The opener that has been suggested in this guide requires zero usages of **Burst Strike** for the first minute after the opener has ended, but after that, attempt to follow this technique:
+An example of when the ideal case cannot be performed is if downtime occurs, and the **Solid Barrel** combo is active within the 7 seconds prior to **No Mercy** coming off cooldown. The normal **Solid Barrel** combo has a 30-second timer that begins the moment the last combo action was pressed, which is too short to be carried through **Gnashing Fang** and an entire **No Mercy**, so that combo must be finished prior to starting **Gnashing Fang**'s combo into **No Mercy**.
+
+During full uptime, the combo can be managed to not be active upon reaching time to cast **Gnashing Fang** by utilizing **Burst Strikes** to manipulate the combo position to always end the **Solid Barrel** combo shortly before beginning **Gnashing Fang**. The opener that has been suggested in this guide requires zero usages of **Burst Strike** for the first minute after the opener has ended, but after that, attempt to follow this technique:
 
 - Take the number of cartridges present when **No Mercy** ends.
 - If the number is zero, the number of **Burst Strikes** is one.
 - If the number is nonzero, double that number.
 - **Burst Strike** that many times before reaching the next **Gnashing Fang** into **No Mercy**.
 
-An exception to the rule exists, because it is possible to be forced to push **Gnashing Fang** partially into **No Mercy** due to combo constraints requiring prevention of gauge overcapping, and prevention of breaking combo. This results in the first GCD of **No Mercy** being **Wicked Talon** (because **Gnashing Fang** prior to **No Mercy** was delayed by one GCD), and this also requires that **Reign of Beasts** be used before **Gnashing Fang**. This results in **Wicked Talon** being pushed out of the end of this **No Mercy**, and that is the indicator to use 3 **Burst Strikes** before the next **No Mercy**, which will allow you to return to normal technique again.
-- At a low level overview of the rotation, this **Wicked Talon** outside of **No Mercy** is an "unexpected GCD", which removes one required GCD to make the rotation work as expected.
-- Since this specific instance exits **No Mercy** with two cartridges, this removal of one required GCD can be viewed as "doubling the cartridges to see the necessary **Burst Strikes** within filler, minus one".
+If any GCDs bleed out of **No Mercy** into the subsequent filler section due to downtime or interruptions within **No Mercy** (or **Lightning Shot** is used within filler), remove one necessary **Burst Strike** per unexpected GCD within filler.
 
-If unable to time **Gnashing Fang** properly to place **Eye Gouge** within **No Mercy**, it is acceptable to hold that **Gnashing Fang** usage to place **Abdomen Tear** or **Jugular Rip** into **No Mercy**. This will push your **Gnashing Fang** usage into the front end of **No Mercy**, and push the expected **Gnashing Fang** within **No Mercy** out of the tail end, which is neutral as far as what GCDs are going into the buff. This is still a gain over using **Burst Strike** into **No Mercy** in order to buff **Hypervelocity**.
-
-If uncomfortable with attempting this technique, do not attempt it and use **Gnashing Fang** anywhere within the filler with **Burst Strike** into **No Mercy** instead.
+If uncomfortable with attempting this technique, do not attempt it and use **Gnashing Fang** anywhere within the filler with **Burst Strike** into **No Mercy** instead. This is not a significant loss, reducing your DPS by only 0.15% - 0.2%.
 
 #### Gnashing Fang Optimizations for Speeds Below 2.50
 
