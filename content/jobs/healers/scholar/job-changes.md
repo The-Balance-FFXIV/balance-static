@@ -1,7 +1,7 @@
 ---
 title: Recent Changes
 layout: changes
-lastmod: 2025-08-07T03:54:16.518Z
+lastmod: 2025-12-27T16:18:48.915Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -38,6 +38,8 @@ changes:
       Fey Blessing: The Visuals has been adjusted to better match the effect range.
 
       Broil IV: Potency increased from the trait Tactician's Mastery has been changed from 310 to 320.
+  - patch: "7.4"
+    description: Biolysis Damage over time potency has been increased from 80 to 85.
 authors:
   - Balance-SCH-Staff
 ---
