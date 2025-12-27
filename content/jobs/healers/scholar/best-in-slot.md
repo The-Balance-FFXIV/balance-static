@@ -1,24 +1,14 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
-lastmod: 2025-08-12T00:30:15.396Z
+patch: "7.4"
+lastmod: 2025-12-26T07:17:12.313Z
 changelog:
-  - date: 2025-03-30T20:19:43.416Z
-    message: added 7.2 savage sets
-  - date: 2025-04-05T05:18:05.876Z
-    message: updated link
-  - date: 2025-04-08T20:29:54.019Z
-    message: updated sets to include tome order
-  - date: 2025-06-24T20:52:25.677Z
-    message: updated sets
-  - date: 2025-08-07T04:10:29.350Z
-    message: updated fru set
-  - date: 2025-08-12T00:30:06.371Z
-    message: updated fru set to be slightly better
+  - date: 2025-12-26T07:17:11.607Z
+    message: updated for 7.4
 bis:
   - type: plain-text
-    name: Information
+    name: General Information
     link: ""
     description: >-
       You can find full sheets with more sets in the scholar resources on The
@@ -38,87 +28,69 @@ bis:
 
 
       If using the Early Refresh(DoT clip) opener: The 2.50 GCD and 2.49 GCD sets will NOT land Biolysis under Chain Stratagem if you use Biolysis AFTER your 6th Energy Drain in the opener (the breakpoint is 2.47 GCD and requires low ping). To fix this, use Biolysis on the same GCD as your 6th Energy Drain.
-  - type: xivgear
-    name: 2.40 GCD
+  - type: plain-text
+    name: Savage bis information
     description: >-
-      This is the generally recommended set. It has great alignment for both
-      Aetherflow and Chain Stratagem, and its slower GCD ensures that you will
-      have more MP for raises and GCD healing.
+      # __Week 1 BiS__
+
+      With a long Savage delay, this tier presents options to buy tome gear which are part of week 1 BiS but not final BiS.
+
+      Please read below for considerations on how to spend your tomes for week 1 prog.
 
 
-      Tome:
+      **Option A** - Tome Chest + Wrist + Ring:
+
+      - On track to final BiS. No tomes "wasted"
+
+      - Lower damage but naturally has higher Piety which has value in prog
 
 
-      week 1 gloves > week 2 earring > week 3 wrist > week 4 head > week 6 pants > week 7 ring
-    link: https://xivgear.app/?page=embed%7Csl%7Ce5716a38-b081-471b-8cf5-caaa22103d5c
+      **Option B** - Tome Chest + Wrist + Earrings:
+
+      - Diverts 375 tomes to earrings which are not part of SCH's final BiS
+
+      - Higher damage (~0.3-0.9% depending on choice of Piety and GCD speed)
+
+
+      7.4 Week 1 BiS: <https://xivgear.app/?page=sl|431e6073-3723-4da9-8078-25c0fcf679a5>
+
+      If you're not capping tomes week 1 (all these sets use Tome Earrings): <https://xivgear.app/?page=sl|a7cdf253-a7eb-42dd-8fb6-90cf5412b46e>
+
+
+
+      # __Savage BiS__
+
+
+      This tier we're back to using double tome rings to dodge Piety, this naturally reduces our defensive stats since our gear is lower ilvl. It most likely won't matter in the grand scheme of things, outside of a very small niche scenario. That being said Max ilvl sets will be the safest to take into the upcoming Ultimate and can be used for those who want to maximize survivability outside of that as well.
+
+
+      We don't have 2.50 sets this tier because of piety reasons. The 2.31 sets sim higher than the 2.40 set however, it loses a lot more dhit and crit opening up 2.40 sets to have a higher chance to have luckier runs.
+
+
+      ## **Tome buy order:**
+
+      Chest > Wrist > Ring > Ring
   - type: xivgear
-    link: https://xivgear.app/?page=embed%7Csl%7C0e64c435-babe-48aa-be5a-f8bcfe3c06c1
-    name: 2.32 GCD
-    description: >-
-      This set provides the highest simulated DPS. Despite its simulated DPS,
-      its awkward GCD alignment for Chain Stratagem and its increased MP
-      expenditure prevent it from being the default recommendation. It may not
-      be as easy or comfortable to use as the 2.40 set, but its higher simulated
-      DPS makes it a reasonable consideration.
-
-
-      This set has relatively good alignment for Aetherflow, but this GCD causes Chain Stratagem to drift by 0.6-0.7s per use. That amount of drift may or may not matter.
-
-
-      If your group's burst is not well timed, the slight Chain Stratagem drift is probably irrelevant. Even if your group's burst is coordinated, raid buffs tend to drift a little over the course of an encounter, so the slight Chain Stratagem drift might not actually cause it to be misaligned.
-
-
-      If the encounter is short enough (less than 8 or 10 minutes), or if your group ever delays raid buffs because of mechanics or downtime, the slight Chain Stratagem drift should not be significant.
-
-
-      Tome:
-
-
-      week 1 gloves > week 2 earring > week 4 pants > week 5 head > week 6 ring
+    name: 2.40 max damage
+    link: https://xivgear.app/?page=sl|9920f282-327e-430a-8a76-1325264f4947
   - type: xivgear
-    link: https://xivgear.app/?page=embed%7Csl%7C64eeb715-cf59-49c8-a84d-90dc970034b3
-    name: 2.31 GCD
-    description: >-
-      This is a suitable alternative for players who prefer a faster GCD without
-      dealing with the slightly awkward GCD alignment of the 2.32 set. Its
-      simulated DPS is slightly worse, but it may be more comfortable to use,
-      depending on your personal preference.
-
-
-      Even with the faster GCD, this set's MP should still be perfectly sustainable in a somewhat organized environment where you do not expect to cast multiple raises or do a lot of GCD healing.
-
-
-      Tome:
-
-
-      week 1 gloves > week 2 earring > week 4 pants > week 5 ring
+    name: 2.31 max damage
+    link: https://xivgear.app/?page=sl|9920f282-327e-430a-8a76-1325264f4947
+  - type: xivgear
+    link: https://xivgear.app/?page=sl|97a84dd4-31fc-4818-a9b7-ace016b366f1
+    name: 2.40 max ilvl
+  - type: xivgear
+    name: 2.31 max ilvl
+    link: https://xivgear.app/?page=sl|97a84dd4-31fc-4818-a9b7-ace016b366f1
   - type: plain-text
     name: Ultimate/criterion sets below
   - type: genericlink
-    name: DSR
-    link: https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45
-    description: DSR The piety requirements vary depending on your p7 strat for akh
-      morns. 332 requires more GCD healing while 611 is laxer. Choose a GCD
-      based on the gear you're willing to farm. 2.5 provids mainly sync gear
-      while 2.45/2.40 has p1s-p4s raid gear
-  - type: genericlink
-    name: TOP/Sil'dihn
-    link: https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650
-  - type: genericlink
-    name: Rokkon Aloalo
-    link: https://xivgear.app/?page=bis|sch|endwalker|anabaseios
-  - type: xivgear
-    name: FRU 2.4
-    link: https://xivgear.app/?page=embed%7Csl%7Cacaa72cf-882b-4817-a211-267ce2268c1b
-    description: Add DH meld with FRU weapon
-  - type: xivgear
-    name: FRU 2.31
-    link: https://xivgear.app/?page=embed%7Csl%7Cf75bb841-703e-4ab3-a3df-5271ff54a8c8
-    description: Add Crit meld with FRU weapon
-  - type: etro
-    name: FRU 2.40 no chaotic
-    link: https://xivgear.app/?page=embed%7Csl%7C1815c016-7d85-40dd-a860-6c3abfb12567
-    description: Add DH meld with FRU weapon
+    name: FRU
+    link: https://xivgear.app/?page=sl|6bb5fbca-35e6-4142-8bf0-9b50b80e900e
+    description: >
+      FRU sets are based on gear available, this includes FRU weapon and Chaotic
+      Alliance raid gear. Outside of that sets are separated by speed, i
+      personally suggest just picking whatever you enjoy or the highest sim dps.
 authors:
   - Balance-SCH-Staff
 tags:
