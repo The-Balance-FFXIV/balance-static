@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.3"
-lastmod: 2025-08-09T08:36:33.891Z
+patch: "7.4"
+lastmod: 2025-12-27T01:37:28.328Z
 changelog:
   - date: 2021-11-09T04:29:30.904Z
     message: Created page
@@ -26,33 +26,33 @@ changelog:
     message: Updated legacy ultimate gearsets
 bis:
   - type: xivgear
-    name: 7.3 Savage Best in Slot - 2.48
-    link: https://xivgear.app/?page=embed%7Csl%7C51d613f6-3a8d-4e7d-b18a-28884d254d17&onlySetIndex=0
+    name: 7.4 Savage Best in Slot - 2.48
+    link: https://xivgear.app/?page=embed|sl|cff8f14d-cc73-459a-86b8-b7476b4d878c&onlySetIndex=0
     description: This set preforms as a 2.50 GCD in level synced content as the
       spell speed is melded on.
   - type: xivgear
-    name: 7.3 Savage Best in Slot - 2.48 (Level Sync Friendly)
-    link: https://xivgear.app/?page=embed%7Csl%7C51d613f6-3a8d-4e7d-b18a-28884d254d17&onlySetIndex=1
+    name: 7.4 Savage Best in Slot - 2.48 (Level Sync Friendly)
+    link: https://xivgear.app/?page=embed|sl|cff8f14d-cc73-459a-86b8-b7476b4d878c&onlySetIndex=1
     description: This set uses equipment to achieve the 2.48 GCD, so it will always
       play as a 2.48 GCD.
   - type: xivgear
-    name: 7.3 Savage Best in Slot - 2.47
-    link: https://xivgear.app/?page=embed%7Csl%7C51d613f6-3a8d-4e7d-b18a-28884d254d17&onlySetIndex=3
-    description: This set preforms as a 2.48 GCD in level synced content as the
+    name: 7.4 Savage Best in Slot - 2.47
+    link: https://xivgear.app/?page=embed|sl|cff8f14d-cc73-459a-86b8-b7476b4d878c&onlySetIndex=2
+    description: This set preforms as a 2.50 GCD in level synced content as the
       spell speed is melded on.
   - type: xivgear
-    name: 7.3 Savage Best in Slot - 2.47 (Level Sync Friendly)
-    link: https://xivgear.app/?page=embed%7Csl%7C51d613f6-3a8d-4e7d-b18a-28884d254d17&onlySetIndex=4
+    name: 7.4 Savage Best in Slot - 2.47 (Level Sync Friendly)
+    link: https://xivgear.app/?page=embed|sl|cff8f14d-cc73-459a-86b8-b7476b4d878c&onlySetIndex=3
     description: This set uses equipment to achieve the 2.47 GCD, so it will always
       play as a 2.48 GCD.
   - type: xivgear
-    name: 7.3 Savage Best in Slot - 2.46
-    link: https://xivgear.app/?page=embed%7Csl%7C51d613f6-3a8d-4e7d-b18a-28884d254d17&onlySetIndex=6
+    name: 7.4 Savage Best in Slot - 2.46
+    link: https://xivgear.app/?page=embed|sl|cff8f14d-cc73-459a-86b8-b7476b4d878c&onlySetIndex=4
     description: This set preforms as a 2.49 GCD in level synced content as the
       spell speed is melded on.
   - type: xivgear
-    name: 7.3 Savage Best in Slot - 2.46 (Level Sync Friendly)
-    link: https://xivgear.app/?page=embed%7Csl%7C51d613f6-3a8d-4e7d-b18a-28884d254d17&onlySetIndex=7
+    name: 7.4 Savage Best in Slot - 2.46 (Level Sync Friendly)
+    link: https://xivgear.app/?page=embed|sl|cff8f14d-cc73-459a-86b8-b7476b4d878c&onlySetIndex=5
     description: This set uses equipment to achieve the 2.46 GCD, so it will always
       play as a 2.48 GCD.
   - type: xivgear
@@ -62,14 +62,14 @@ bis:
     description: ""
     link: https://xivgear.app/?page=embed%7Csl%7Cea531021-b9c2-4ccc-8cd4-66c1f7d5117e&onlySetIndex=5
     name: TOP 2.47 GCD
-  - type: etro
-    description: ""
-    name: DSR 2.46 GCD
-    link: 7788d3ad-ed32-4f75-8aae-13f342f13f98
-  - type: etro
+  - type: xivgear
     description: ""
     name: DSR 2.48 GCD
-    link: 83df1acc-0b7c-451a-9783-937da9b31e29
+    link: https://xivgear.app/?page=embed|sl|6cd23e71-db6b-4cb9-9bf6-42a3d82cd0f9&onlySetIndex=1
+  - type: xivgear
+    description: ""
+    name: DSR 2.46 GCD
+    link: https://xivgear.app/?page=embed|sl|3fcc6119-b46d-460c-8648-f556f2fa0d7e
   - type: xivgear
     name: TEA 2.48 GCD
     link: https://xivgear.app/?page=embed%7Csl%7Caf06a72b-2c10-4567-922a-6a00134f1a23&onlySetIndex=1
