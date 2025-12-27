@@ -3,8 +3,8 @@ title: Leveling Guide
 card_header_image: /img/jobs/rdm/leveling.png
 authors:
   - Balance-RDM-Staff
-patch: "7.2"
-lastmod: 2025-03-24T00:00:00.000Z
+patch: "7.4"
+lastmod: 2025-12-27T14:51:38.442Z
 changelog:
   - date: 2021-11-15T18:49:06.143Z
     message: Created page
@@ -16,6 +16,8 @@ changelog:
     message: Updated for Dawntrail
   - date: 2025-03-24T16:14:39.523Z
     message: No changes, updated patch number
+  - date: 2025-12-27T14:51:45.320Z
+    message: Updated Manafication description and progression
 tags: []
 ---
 # Introduction
