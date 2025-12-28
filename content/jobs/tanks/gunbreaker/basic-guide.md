@@ -102,7 +102,7 @@ Alternate between using **No Mercy** off cooldown as a late weave (9 o'clock) an
 
 # Openers
 
-![GNB Opener](https://u.cubeupload.com/krom/O1Ms7E.png) </br>
+![GNB Opener](https://u.cubeupload.com/krom/oEgh3i.png) </br>
 
 ### Opener Notes
 
@@ -113,7 +113,7 @@ Alternate between using **No Mercy** off cooldown as a late weave (9 o'clock) an
 
 # **Rotation Fundamentals**
 
-![Gunbreaker Rotation Graphic](https://u.cubeupload.com/krom/ZOrXeg.png) </br>
+![Gunbreaker Rotation Graphic](https://u.cubeupload.com/krom/Ci6H8J.png) </br>
 {{< youtube RFaN8RYU2TA >}} </br>
 
 ## Filler Priority
