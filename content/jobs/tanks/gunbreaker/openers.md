@@ -34,7 +34,7 @@ Your opener is flexible and **No Mercy** can be used earlier or later than what 
 # Videos
 ## Basic 2.50 Rotation
 {{< youtube RFaN8RYU2TA >}} </br>
-## Optimizing Gnashing Fang Around Downtime
+## Optimizing Gnashing Fang Around Downtime (2.50)
 {{< youtube 4gjscI0xuJg >}} </br>
 ## Basic 9 GCD NM Rotation
 {{< youtube 4VJkFwFbhcI >}}
