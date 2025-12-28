@@ -42,12 +42,13 @@ We must establish some basic concepts about the gauge usage, buff management, an
 - - -
 
 The powder gauge (or cartridge gauge) carries a maximum of 3 charges (cartridges), which is the resource required in order to cast all of the desired cooldowns within each usage of **No Mercy**.
+- This can be extended up to a maximum of 6 cartridges with **Bloodfest**.
 
 The actions that will fill the cartridge gauge are as follows:
 
 * **Solid Barrel** and **Demon Slaughter** both generate one cartridge upon finishing their combo.
 * These combo chains cannot be broken unless switching from one to the other or using the wrong action in sequence.
-* **Bloodfest** will grant 3 temporary cartridges in addition to your normal 3 without overwriting them.
+* **Bloodfest** will grant 3 temporary cartridges in addition to your normal 3 without overwriting them, allowing you to hold a maximum of 6 cartridges for 30 seconds.
 
 The actions that will spend cartridges from the gauge are as follows:
 
@@ -102,7 +103,7 @@ Alternate between using **No Mercy** off cooldown as a late weave (9 o'clock) an
 
 # Openers
 
-![GNB Opener](https://u.cubeupload.com/krom/O1Ms7E.png) </br>
+![GNB Opener](https://u.cubeupload.com/krom/oEgh3i.png) </br>
 
 ### Opener Notes
 
@@ -113,7 +114,7 @@ Alternate between using **No Mercy** off cooldown as a late weave (9 o'clock) an
 
 # **Rotation Fundamentals**
 
-![Gunbreaker Rotation Graphic](https://u.cubeupload.com/krom/ZOrXeg.png) </br>
+![Gunbreaker Rotation Graphic](https://u.cubeupload.com/krom/Ci6H8J.png) </br>
 {{< youtube RFaN8RYU2TA >}} </br>
 
 ## Filler Priority
