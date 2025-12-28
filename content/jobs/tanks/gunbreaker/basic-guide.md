@@ -51,7 +51,8 @@ The actions that will fill the cartridge gauge are as follows:
 
 The actions that will spend cartridges from the gauge are as follows:
 
-* **Gnashing Fang, Double Down, Burst Strike,** and **Fated Circle** all spend one cartridge.
+* **Double Down** spends two cartridges.
+* **Gnashing Fang, Burst Strike,** and **Fated Circle** all spend one cartridge.
 * **Gnashing Fang** is broken by the cartridge-generating combos and **Reign of Beasts**.
 
 Familiarizing yourself with each combo and how they work is important. You should generally never break an active combo or finish a combo that will generate another charge while the powder gauge is full, as that would overwrite the charge.
@@ -101,7 +102,7 @@ Alternate between using **No Mercy** off cooldown as a late weave (9 o'clock) an
 
 # Openers
 
-![GNB Opener](https://u.cubeupload.com/krom/O1Ms7E.png)
+![GNB Opener](https://u.cubeupload.com/krom/O1Ms7E.png) </br>
 
 ### Opener Notes
 
@@ -113,7 +114,7 @@ Alternate between using **No Mercy** off cooldown as a late weave (9 o'clock) an
 # **Rotation Fundamentals**
 
 ![Gunbreaker Rotation Graphic](https://u.cubeupload.com/krom/ZOrXeg.png) </br>
-{{< youtube RFaN8RYU2TA >}}
+{{< youtube RFaN8RYU2TA >}} </br>
 
 ## Filler Priority
 - - -
@@ -127,8 +128,6 @@ The goal of this is to prepare the appropriate cartridges for **No Mercy**.
   * You should **Burst Strike** into **No Mercy** when you will also have **Bloodfest** to avoid drifting the usage for any speed, and to also optimize damage on 2.50.
 
 Once **No Mercy** comes back off cooldown, weave it in accordance with the usage guideline above this section.
-
-</br>
 
 ## Burst Phase
 - - -
