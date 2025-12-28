@@ -27,7 +27,7 @@ Your opener is flexible and **No Mercy** can be used earlier or later than what 
 
 # Graphics
 
-![Opener](https://u.cubeupload.com/krom/O1Ms7E.png "General Opener")
+![Opener](https://u.cubeupload.com/krom/oEgh3i.png "General Opener")
 ![Rotation](https://u.cubeupload.com/krom/ZOrXeg.png "Rotation Graphic")
 
 # Videos
