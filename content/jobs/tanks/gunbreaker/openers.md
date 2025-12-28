@@ -30,3 +30,11 @@ Your opener is flexible and **No Mercy** can be used earlier or later than what 
 ![Opener](https://u.cubeupload.com/krom/O1Ms7E.png "General Opener")
 </br>
 ![Rotation](https://u.cubeupload.com/krom/ZOrXeg.png "Rotation Graphic")
+
+# Videos
+## Basic 2.50 Rotation
+{{< youtube RFaN8RYU2TA >}} </br>
+## Optimizing Gnashing Fang Around Downtime (2.50)
+{{< youtube 4gjscI0xuJg >}} </br>
+## Basic 9 GCD NM Rotation
+{{< youtube 4VJkFwFbhcI >}}
