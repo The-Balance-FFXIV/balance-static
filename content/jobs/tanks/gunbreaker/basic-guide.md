@@ -178,6 +178,8 @@ This permits **Gnashing Fang** to be used ideally 7 seconds prior to **No Mercy*
 
 It is worth noting that this is the *ideal* case, but **any** **Continuation** from the **Gnashing Fang** combo is a gain over **Hypervelocity**, so holding **Gnashing Fang** for any necessary reason, thereby pushing it partially into **No Mercy**, is perfectly acceptable and considered ideal.
 
+The mental technique to follow is to prioritize finishing the active **Solid Barrel** combo when **No Mercy** has 13 seconds or less on the remaining cooldown, and if necessary, use **Burst Strikes** to stall from then on until it becomes possible to use **Gnashing Fang** within 7 seconds or less prior to **No Mercy**.
+
 An example of when the ideal case cannot be performed is if downtime occurs, and the **Solid Barrel** combo is active within the 7 seconds prior to **No Mercy** coming off cooldown. The normal **Solid Barrel** combo has a 30-second timer that begins the moment the last combo action was pressed, which is too short to be carried through **Gnashing Fang** and an entire **No Mercy**, so that combo must be finished prior to starting **Gnashing Fang**'s combo into **No Mercy**.
 
 During full uptime, the combo can be managed to not be active upon reaching time to cast **Gnashing Fang** by utilizing **Burst Strikes** to manipulate the combo position to always end the **Solid Barrel** combo shortly before beginning **Gnashing Fang**. The opener that has been suggested in this guide requires zero usages of **Burst Strike** for the first minute after the opener has ended, but after that, attempt to follow this technique:
