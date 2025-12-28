@@ -114,7 +114,7 @@ Alternate between using **No Mercy** off cooldown as a late weave (9 o'clock) an
 
 # **Rotation Fundamentals**
 
-![Gunbreaker Rotation Graphic](https://u.cubeupload.com/krom/Ci6H8J.png) </br>
+![Gunbreaker Rotation Graphic](https://u.cubeupload.com/krom/i28eoB.png) </br>
 {{< youtube RFaN8RYU2TA >}} </br>
 
 ## Filler Priority
