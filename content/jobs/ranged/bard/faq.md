@@ -60,6 +60,27 @@ qna:
       (`<mo>`, `<tt>`, and so on) for Warden's Paean can be okay, since the time
       you lose to not queueing can be gained back by not having to target a
       party member manually.
+  - question: How should I arrange My Hotbars?
+    answer: |-
+      Here are some hotbar examples:\
+      \
+      KBM:
+
+      ![](/img/jobs/brd/kbm1.png)
+
+      ![](/img/jobs/brd/kbm2.png)
+
+      ![](/img/jobs/brd/kbm3.jpg)
+
+
+
+      Controller:
+
+      ![](/img/jobs/brd/con1a.png)
+
+      ![](/img/jobs/brd/con1b.png)
+
+      ![](/img/jobs/brd/con2.png)
 authors:
   - TKCetonis
 ---
