@@ -2,7 +2,7 @@
 title: Best in Slot (BiS)
 layout: bis
 patch: "7.4"
-lastmod: 2025-12-18T00:33:18.753Z
+lastmod: 2025-12-31T04:52:11.119Z
 changelog:
   - date: 2025-03-30T18:17:38.405Z
     message: Updated for 7.2
@@ -10,6 +10,8 @@ changelog:
     message: Added 7.3 FRU Options
   - date: 2025-12-18T00:33:22.342Z
     message: 7.4 gear options added
+  - date: 2025-12-31T04:52:14.320Z
+    message: "Fixed an incorrect prog set link for 7.4 gear. "
 bis:
   - type: xivgear
     name: "7.4 Savage BiS "
