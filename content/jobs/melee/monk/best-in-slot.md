@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.2"
-lastmod: 2025-03-31T22:02:44.561Z
+patch: "7.4"
+lastmod: 2025-12-31T13:07:56.508Z
 changelog:
   - date: 2021-10-28T03:54:36.354Z
     message: Created page
@@ -18,6 +18,8 @@ changelog:
     message: Updated for 7.2
   - date: 2025-06-30T15:10:47.538Z
     message: Updated Ultimate and Other Content Doc
+  - date: 2025-12-31T13:08:04.975Z
+    message: Updated for 7.4
 bis:
   - type: plain-text
     name: 7.4 all early sets
