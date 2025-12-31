@@ -29,7 +29,7 @@ qna:
       ![](/img/jobs/brd/kbm2.png)
 
 
-      ![](/img/jobs/brd/kbm3.jpg)
+      ![](/img/jobs/brd/con2.png)
 
 
       Controller:
@@ -41,7 +41,7 @@ qna:
       ![](/img/jobs/brd/con1b.png)
 
 
-      ![](/img/jobs/brd/con2.png)
+      ![](/img/jobs/brd/kbm3.jpg)
   - answer: "All of them. As always, try to have a song up at all times.\ 
 
 
