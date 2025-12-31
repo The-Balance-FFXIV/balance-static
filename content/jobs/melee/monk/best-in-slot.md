@@ -25,10 +25,10 @@ bis:
     name: 7.4 all early sets
     link: https://xivgear.app/?page=sl|a878c27a-fae7-40b5-b43f-f4b7a5780a95
     description: >-
-      As usual, any gear you get can change your current best set dractically,
-      simply exchange and use the meld solver to remeld as you see fit for your
-      needs. We do not use any normal raid pieces this time around. Here are
-      some tips on planning your gear path during week 1 and prog:
+      As usual, as soon as you get any gear from raid, the optimal set for you
+      will change, simply exchange and use the meld solver to remeld as you see
+      fit for your needs. We do not use any normal raid pieces this time around.
+      Here are some tips on planning your gear path during week 1 and prog:
 
 
       * Naturally, if you can get the Tome Weapon and Upgrade materials, this will result in the most dps for your party. Sets can be found in the link above.
