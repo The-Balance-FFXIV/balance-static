@@ -14,24 +14,32 @@ qna:
       of the song timer. Specifically, proc chances occur at 42, 39, 36, etc.
       seconds remaining, and not at 45 or zero.\r\n"
   - question: How should I arrange my hotbars?
-    answer: |-
-      Here are some hotbar examples:\
+    answer: >-
+      Hotbars are very much a personal preference, but if it helps give some
+      inspiration here are some examples --\
+
       \
+
       KBM:
+
 
       ![](/img/jobs/brd/kbm1.png)
 
+
       ![](/img/jobs/brd/kbm2.png)
+
 
       ![](/img/jobs/brd/kbm3.jpg)
 
 
-
       Controller:
+
 
       ![](/img/jobs/brd/con1a.png)
 
+
       ![](/img/jobs/brd/con1b.png)
+
 
       ![](/img/jobs/brd/con2.png)
   - answer: "All of them. As always, try to have a song up at all times.\ 
