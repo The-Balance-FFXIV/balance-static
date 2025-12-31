@@ -25,7 +25,7 @@ bis:
     name: 7.4 all early sets
     link: https://xivgear.app/?page=sl|a878c27a-fae7-40b5-b43f-f4b7a5780a95
     description: >-
-      As usual, any gear you get will change your current best set dractically,
+      As usual, any gear you get can change your current best set dractically,
       simply exchange and use the meld solver to remeld as you see fit. We do
       not use any normal raid pieces this time around. Here are some tips on
       planning your gear path during week 1 and prog:
