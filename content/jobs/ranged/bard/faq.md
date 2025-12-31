@@ -13,6 +13,27 @@ qna:
     answer: "While under a song, we get one 80% chance at a proc every three seconds
       of the song timer. Specifically, proc chances occur at 42, 39, 36, etc.
       seconds remaining, and not at 45 or zero.\r\n"
+  - question: How should I arrange my hotbars?
+    answer: |-
+      Here are some hotbar examples:\
+      \
+      KBM:
+
+      ![](/img/jobs/brd/kbm1.png)
+
+      ![](/img/jobs/brd/kbm2.png)
+
+      ![](/img/jobs/brd/kbm3.jpg)
+
+
+
+      Controller:
+
+      ![](/img/jobs/brd/con1a.png)
+
+      ![](/img/jobs/brd/con1b.png)
+
+      ![](/img/jobs/brd/con2.png)
   - answer: "All of them. As always, try to have a song up at all times.\ 
 
 
@@ -60,27 +81,6 @@ qna:
       (`<mo>`, `<tt>`, and so on) for Warden's Paean can be okay, since the time
       you lose to not queueing can be gained back by not having to target a
       party member manually.
-  - question: How should I arrange My Hotbars?
-    answer: |-
-      Here are some hotbar examples:\
-      \
-      KBM:
-
-      ![](/img/jobs/brd/kbm1.png)
-
-      ![](/img/jobs/brd/kbm2.png)
-
-      ![](/img/jobs/brd/kbm3.jpg)
-
-
-
-      Controller:
-
-      ![](/img/jobs/brd/con1a.png)
-
-      ![](/img/jobs/brd/con1b.png)
-
-      ![](/img/jobs/brd/con2.png)
 authors:
   - TKCetonis
 ---
