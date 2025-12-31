@@ -27,7 +27,7 @@ bis:
     name: 7.4 Savage Prog Set Options
     link: ""
     description: Sample prog sets are provided
-      [here](https://xivgear.app/?page=sl|6f23691f-df60-4e38-ab45-b246025effad).
+      [here](https://xivgear.app/?page=bis|vpr|prog).
   - type: xivgear
     name: 7.3 FRU BiS (See description for prog sets)
     link: https://xivgear.app/?page=embed%7Csl%7C764814e5-62d2-430b-a7ac-09f9ab72a266
