@@ -27,44 +27,44 @@ changelog:
 bis:
   - type: xivgear
     name: 7.4 ilvl 790 BiS 2.5 GCD
-    link: https://xivgear.app/?page=embed|sl|f940b029-dab9-4fbc-bd03-47ceca71fcbd
+    link: https://xivgear.app/?page=embed|bis|dnc|current&onlySetIndex=0
   - type: xivgear
     name: 7.4 ilvl 770 Baseline Set
-    link: https://xivgear.app/?page=embed|sl|9d293f7d-abed-47c4-83a0-459b4e56adfe
+    link: https://xivgear.app/?page=embed|bis|dnc|baseline|770&onlySetIndex=0
     description: Set for starting savage progression without any gear from weekly
       capped tomestones or savage raids
   - type: xivgear
     name: 7.4 - FRU BiS Ultimate Weapon
-    link: https://xivgear.app/?page=embed|sl|088a0c88-43b8-40a6-a2ee-8b01ef12f90e
+    link: https://xivgear.app/?page=embed|bis|dnc|ultimate|fru&onlySetIndex=0
   - type: xivgear
     name: 7.4 - FRU BiS Relic Weapon
-    link: https://xivgear.app/?page=embed|sl|9aded84e-59bc-4e4a-b9f9-2b20ddd63f52
+    link: https://xivgear.app/?page=embed|bis|dnc|ultimate|fru&onlySetIndex=1
   - type: xivgear
     name: 7.4 - FRU BiS Savage Weapon
-    link: https://xivgear.app/?page=embed|sl|c2487cac-f13a-4e18-9c6d-cecce25d5f9f
+    link: https://xivgear.app/?page=embed|bis|dnc|ultimate|fru&onlySetIndex=2
     description: ""
-  - type: xivgear
-    description: ""
-    name: 7.4 - TOP / ASS / ASS (Savage) BiS 2.50 GCD
-    link: https://xivgear.app/?page=embed|sl|ca2079ff-11c9-4006-9c5f-5018aa689ce9
   - type: xivgear
     description: ""
     name: 7.4 - i665 BiS for Mount Rokkon and Aloalo Island
-    link: https://xivgear.app/?page=embed|sl|a3603b7a-4bac-488a-a5ca-8c48234fd920
+    link: https://xivgear.app/?page=embed|bis|dnc|misc|665&onlySetIndex=0
+  - type: xivgear
+    description: ""
+    name: 7.4 - TOP / ASS / ASS (Savage) BiS 2.50 GCD
+    link: https://xivgear.app/?page=embed|bis|dnc|ultimate|top&onlySetIndex=0
   - type: xivgear
     description: ""
     name: 7.4 - DSR BiS 2.50 GCD
-    link: https://xivgear.app/?page=embed|sl|e0918204-e79f-4e33-9007-b203c7c3ef5f
+    link: https://xivgear.app/?page=embed|bis|dnc|ultimate|dsr&onlySetIndex=0
   - type: xivgear
     description: ""
     name: "7.4 - TEA BiS 2.50 GCD "
-    link: https://xivgear.app/?page=embed|sl|8c74c1e2-b63b-4e95-9d00-74c320fe86f8
+    link: https://xivgear.app/?page=embed|bis|dnc|ultimate|tea&onlySetIndex=0
   - type: xivgear
     name: 7.4 - UWU BiS 2.47 GCD
-    link: https://xivgear.app/?page=embed|sl|aa0e322a-5795-499c-9306-d4afb146cb57
+    link: https://xivgear.app/?page=embed|bis|dnc|ultimate|uwu&onlySetIndex=0
   - type: xivgear
     name: 7.4 - UCOB BiS 2.46 GCD
-    link: https://xivgear.app/?page=embed|sl|959f5ce4-6c13-445c-86f1-8a52d136de1e
+    link: https://xivgear.app/?page=embed|bis|dnc|ultimate|ucob&onlySetIndex=0
 authors:
   - Balance-DNC-Staff
 tags:
