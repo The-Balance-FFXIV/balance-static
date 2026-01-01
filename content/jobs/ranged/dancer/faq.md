@@ -83,6 +83,35 @@ qna:
     answer: "[Click here to read Io's raiding primer guide for
       DNC!](https://docs.google.com/document/d/1O1fxoeMUgE4qthBExZ1tYfMQCxMxOY_\
       fT6Lx1t54Ba0/edit)"
+  - question: How Should i arrange my hotbars?
+    answer: >-
+      At the end of the day, your hotbars are a personal thing and what works
+      for others may not work for you. Commonly used abilities such as Fan Dance
+      I and Fan Dance III should generally be on easily reached buttons; you may
+      want to consider avoiding modifiers such as shift- or alt- for them as it
+      can make moving while double weaving challenging.
+
+       If you are stuck and/or looking for ideas, here are a few examples:
+
+      KBM:
+
+
+      ![](/img/jobs/dnc/tomcat-dnc-hotbars.jpeg)
+
+
+      ![](/img/jobs/dnc/julia-dnc-hotbars.png)
+
+
+      Controller:
+
+
+      ![](/img/jobs/dnc/rah-dnc-hotbars-1-.png)
+
+
+      ![](/img/jobs/dnc/rah-dnc-hotbars-2-.png)
+
+
+      ![](/img/jobs/dnc/stella-khutga-dnc-hotbars.jpg)
 authors:
   - Balance-DNC-Staff
   - Tomcat1408
