@@ -1,4 +1,5 @@
 ---
+title: Frequent Questions
 layout: qna
 patch: "7.40"
 lastmod: 2025-12-16T20:26:54.155Z
@@ -37,8 +38,8 @@ qna:
       For more accurate results for your group and needs, plug your logs into [partnercalc](https://partnercalc.app/).
   - question: How should I approach gearing up the class?
     answer: You can review Ringabel's guide on how to best approach gearing DNC in
-      7.2 by clicking
-      [](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)<https://bit.ly/DNCGearingGuide-7-2>
+      7.4 by clicking
+      [](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)<https://bit.ly/DNCGearingGuide-7-4>
   - question: What is BiS for old Ultimate fights?
     answer: >-
       With iLvl sync, you can max out on both secondary stats on a gear piece as
@@ -92,7 +93,6 @@ changelog:
     message: Updated for Endwalker.
   - date: 2022-06-11T02:19:30.810Z
     message: Small Update
-title: Frequent Questions
 tags:
   - Dancer
   - FAQ
