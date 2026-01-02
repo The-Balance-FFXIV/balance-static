@@ -3,8 +3,8 @@ title: Leveling Guide
 card_header_image: /img/jobs/drg/leveling.png
 authors:
   - Balance-DRG-Staff
-patch: "7.2"
-lastmod: 2025-03-30T10:51:36.939Z
+patch: "7.4"
+lastmod: 2026-01-02T07:17:11.320Z
 changelog:
   - date: 2021-10-29T02:48:36.195Z
     message: Created page
@@ -16,6 +16,8 @@ changelog:
     message: Revisions for DT
   - date: 2025-03-30T10:51:38.303Z
     message: Bump to 7.2
+  - date: 2026-01-02T07:17:26.440Z
+    message: No changes, bumped patch to 7.4
 ---
 # Introductory Concepts
 Here are a couple of things to consider when starting your Dragoon journey.
