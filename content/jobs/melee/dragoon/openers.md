@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - Balance-DRG-Staff
-patch: "7.2"
-lastmod: 2025-03-30T10:47:38.749Z
+patch: "7.4"
+lastmod: 2026-01-02T07:19:54.173Z
 changelog:
   - date: 2021-10-29T02:55:52.808Z
     message: Created page
@@ -21,6 +21,8 @@ changelog:
     message: Revision with 7.1 changes
   - date: 2025-03-30T10:47:39.936Z
     message: Bump to 7.2000000000
+  - date: 2026-01-02T07:19:55.315Z
+    message: No changes, bumped patch to 7.4
 ---
 # Graphics and Notes
 
