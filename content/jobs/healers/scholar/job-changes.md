@@ -23,19 +23,31 @@ changes:
       Biolysis Damage over time potency has been increased from 75 to 80. 
   - patch: "7.3"
     description: >-
-      Whispering Dawn: Area of effect has been increased from 15 to 20 yalms.
+      Whispering Dawn: Area of effect has been increased from 15 to 20 yalms.\
 
-      Succor: Area of effect has been increased from 15 to 20 yalms.
+
+      Succor: Area of effect has been increased from 15 to 20 yalms.\
+
 
       Indomitability: Area of effect has been increased from 15 to 20 yalms.
 
+      \
+
       Angel's Whisper: Area of effect has been increased from 15 to 20 yalms.
+
+      \
 
       Concitation: Area of effect has been increased from 15 to 20 yalms.
 
+      \
+
       Accession: Area of effect has been increased from 15 to 20 yalms.
 
+      \
+
       Fey Blessing: The Visuals has been adjusted to better match the effect range.
+
+      \
 
       Broil IV: Potency increased from the trait Tactician's Mastery has been changed from 310 to 320.
   - patch: "7.4"
