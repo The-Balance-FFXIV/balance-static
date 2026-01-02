@@ -1,15 +1,8 @@
 ---
 title: Recent Changes
 layout: changes
-lastmod: 2025-12-16T20:30:17.216Z
+lastmod: 2026-01-01T00:05:37.653Z
 changes:
-  - patch: "7.4"
-    description: |-
-      Saber Dance was buffed from 520 to 540p.
-
-      Last Dance was buffed from 520 to 540p.
-
-      Fan Dance IV was buffed from 420 to 460p.
   - patch: "7.2"
     description: |-
       Windmill was buffed to 120p.
@@ -64,6 +57,13 @@ changes:
     description: "[Review the full list of changes and new skills in Endwalker on
       the Official Site, by clicking
       here!](https://na.finalfantasyxiv.com/jobguide/dancer/)"
+  - patch: "7.4"
+    description: |-
+      Saber Dance was buffed from 520 to 540p.
+
+      Last Dance was buffed from 520 to 540p.
+
+      Fan Dance IV was buffed from 420 to 460p.
 authors:
   - Balance-DNC-Staff
 ---
