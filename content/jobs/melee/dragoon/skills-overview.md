@@ -2,8 +2,8 @@
 title: Skills Overview
 authors:
   - Balance-DRG-Staff
-patch: "7.2"
-lastmod: 2025-03-30T10:49:31.867Z
+patch: "7.4"
+lastmod: 2026-01-02T07:19:25.927Z
 changelog:
   - date: 2021-10-29T02:55:23.237Z
     message: Created page
@@ -25,6 +25,8 @@ changelog:
     message: Revision with 7.1 changes
   - date: 2025-03-30T10:49:36.552Z
     message: Update with 7.2 changes
+  - date: 2026-01-02T07:19:27.440Z
+    message: No changes, bumped patch to 7.4
 ---
 # Global Cooldown Actions (Single Target)
 
