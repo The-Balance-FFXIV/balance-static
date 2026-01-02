@@ -22,7 +22,7 @@ changelog:
 
 ![DNC Opener](/img/jobs/dnc/dt_dnc_opener_full.png "DNC Opener")
 
-[Full Size](https://imgur.com/a/sJjW3ve)
+[Full Size](https://www.thebalanceffxiv.com/img/jobs/dnc/dt_dnc_opener_full.png)
 
 Pre-Pull: \
 -15s: Standard Step (Step, Step)\
@@ -37,4 +37,4 @@ Tillana (Flourish) \
 Dance of the Dawn (Fan Dance IV) \
 Last Dance (Fan Dance III) \
 Finishing Move \
-Saber Dance 
+Saber Dance
