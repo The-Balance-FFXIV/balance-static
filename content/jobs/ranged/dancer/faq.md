@@ -1,4 +1,5 @@
 ---
+title: Frequent Questions
 layout: qna
 patch: "7.40"
 lastmod: 2025-12-16T20:26:54.155Z
@@ -37,8 +38,8 @@ qna:
       For more accurate results for your group and needs, plug your logs into [partnercalc](https://partnercalc.app/).
   - question: How should I approach gearing up the class?
     answer: You can review Ringabel's guide on how to best approach gearing DNC in
-      7.2 by clicking
-      [](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)<https://bit.ly/DNCGearingGuide-7-2>
+      7.4 by clicking
+      [](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)<https://bit.ly/DNCGearingGuide-7-4>
   - question: What is BiS for old Ultimate fights?
     answer: >-
       With iLvl sync, you can max out on both secondary stats on a gear piece as
@@ -82,6 +83,35 @@ qna:
     answer: "[Click here to read Io's raiding primer guide for
       DNC!](https://docs.google.com/document/d/1O1fxoeMUgE4qthBExZ1tYfMQCxMxOY_\
       fT6Lx1t54Ba0/edit)"
+  - question: How Should i arrange my hotbars?
+    answer: >-
+      At the end of the day, your hotbars are a personal thing and what works
+      for others may not work for you. Commonly used abilities such as Fan Dance
+      I and Fan Dance III should generally be on easily reached buttons; you may
+      want to consider avoiding modifiers such as shift- or alt- for them as it
+      can make moving while double weaving challenging.
+
+       If you are stuck and/or looking for ideas, here are a few examples:
+
+      KBM:
+
+
+      ![](/img/jobs/dnc/tomcat-dnc-hotbars.jpeg)
+
+
+      ![](/img/jobs/dnc/julia-dnc-hotbars.png)
+
+
+      Controller:
+
+
+      ![](/img/jobs/dnc/rah-dnc-hotbars-1-.png)
+
+
+      ![](/img/jobs/dnc/rah-dnc-hotbars-2-.png)
+
+
+      ![](/img/jobs/dnc/stella-khutga-dnc-hotbars.jpg)
 authors:
   - Balance-DNC-Staff
   - Tomcat1408
@@ -92,7 +122,6 @@ changelog:
     message: Updated for Endwalker.
   - date: 2022-06-11T02:19:30.810Z
     message: Small Update
-title: Frequent Questions
 tags:
   - Dancer
   - FAQ
