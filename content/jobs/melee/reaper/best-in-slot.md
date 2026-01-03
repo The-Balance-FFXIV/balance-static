@@ -2,7 +2,7 @@
 title: Best in Slot (BiS)
 layout: bis
 patch: "7.4"
-lastmod: 2025-12-17T05:34:55.281Z
+lastmod: 2026-01-03T19:15:04.077Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
     message: Created page
@@ -36,10 +36,12 @@ changelog:
     message: Fixed incorrect link to FRU gear master set.
   - date: 2025-12-17T05:35:04.821Z
     message: "Added 7.4 sets and removed old sets. "
+  - date: 2026-01-03T19:15:08.478Z
+    message: Changed some links. No content changes.
 bis:
   - type: xivgear
     name: 7.4 2.49 Savage BiS
-    link: https://xivgear.app/?page=embed|sl|887c54fb-ee93-4784-98b8-4260ada6383b
+    link: https://xivgear.app/?page=embed|bis|rpr|current&onlySetIndex=0#
     description: This is the recommended BiS set for most players. This set is fully
       compatible with DRG and SAM BiS, but not with MNK as MNK needs a slightly
       different meld configuration.
@@ -60,8 +62,7 @@ bis:
     link: ""
     description: "For additional options, including sets using a full four weeks of
       tomes if you will be capping before entering savage on week 1, please see
-      our master sheet here:
-      https://xivgear.app/?page=sl|4cfb11d0-532e-49f6-9359-9e944d25da8d"
+      our master sheet here: https://xivgear.app/#/bis/rpr/prog"
   - type: etro
     name: 7.05+ Dragonsong's Reprise (Ultimate) BiS (Mixed 730 + 600/605 Gear)
     link: 2f655c79-6db1-4e5b-90f7-41e130bed30a
