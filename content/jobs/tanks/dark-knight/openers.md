@@ -45,8 +45,9 @@ Tanks currently use **Grade 3 Gemdraughts of Strength**.
 * **Shadowstride** can be used to pull instead of **Unmend**, and pulling with **Hard Slash** is also viable if the boss starts in melee range, but each of these options requires adding an extra **Hard Slash** before **Disesteem** to ensure that the burst fits into late-applied buffs. However, if you are the pulling tank, this can make positioning harder. There is more detail on this opener and its benefits and potential drawbacks in [a section in the advanced guide](/jobs/tanks/dark-knight/advanced-guide/#opening-with-shadowstride), and we'd recommend only using this opener if you're aware of the trade-offs.
 * If you cannot fit the **Edge of Shadow** before **Hard Slash** without clipping due to, for example, the boss being far away, move it to after **Hard Slash**. I.e., **Unmend** -> Potion -> **Hard Slash** -> **Edge of Shadow** -> **Living Shadow**.
 
-## Rotation After The Opener
+## Rotation
 
-The rotation after the opener Dark Knight's rotation detail is listed in the 
-[rotation section of the basic guide](/jobs/tanks/dark-knight/basic-guide/#rotation).
+![Rotation fundamentals infographic](/img/jobs/drk/darkknightrotation.png "Rotation fundamentals")
+
+For a more detailed overview of the rotation, see the [rotation section of the basic guide](/jobs/tanks/dark-knight/basic-guide/#rotation).
 
