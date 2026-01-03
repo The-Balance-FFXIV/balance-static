@@ -2,7 +2,7 @@
 title: Best in Slot (BiS)
 layout: bis
 patch: "7.4"
-lastmod: 2025-12-31T13:07:56.508Z
+lastmod: 2026-01-02T20:34:48.395Z
 changelog:
   - date: 2021-10-28T03:54:36.354Z
     message: Created page
@@ -20,10 +20,12 @@ changelog:
     message: Updated Ultimate and Other Content Doc
   - date: 2025-12-31T13:08:04.975Z
     message: Updated for 7.4
+  - date: 2026-01-02T20:35:34.241Z
+    message: added 1.93 Savage BiS and exported correct "Ornate + Ear + Neck + Head" set
 bis:
   - type: plain-text
     name: 7.4 all early sets
-    link: https://xivgear.app/?page=sl|a878c27a-fae7-40b5-b43f-f4b7a5780a95
+    link: https://xivgear.app/?page=sl|8df88ff9-e89c-4503-9085-d7ba8f9ab12b
     description: >-
       As usual, as soon as you get any gear from raid, the optimal set for you
       will change, simply exchange and use the meld solver to remeld as you see
@@ -43,7 +45,10 @@ bis:
   - type: xivgear
     description: ""
     name: 1.94 Savage BiS
-    link: https://xivgear.app/?page=embed|sl|9f0d8850-f504-4c06-a0e4-a8b572963528&onlySetIndex=16
+    link: https://xivgear.app/?page=embed|sl|8df88ff9-e89c-4503-9085-d7ba8f9ab12b&onlySetIndex=14
+  - type: xivgear
+    name: 1.93 Savage BiS
+    link: https://xivgear.app/?page=embed|sl|8df88ff9-e89c-4503-9085-d7ba8f9ab12b&onlySetIndex=16
   - type: xivgear
     description: >-
       As usual the ornate set is only if you can afford it, this set is the best
@@ -55,9 +60,16 @@ bis:
       Alternative "fodder" tome pieces are feet.
 
 
-      Tome Weapon sets can be found in the linked gearset sheet above.
+      Tome Weapon sets can be found in the linked gearset sheet above.\
+
+      \
+
+      **The melds on this set have slightly changed, in case you were using the old one, here is the remeld guide**
+
+
+      ![](/img/jobs/mnk/2026-01-02_20-48-16_mspaint_qk05pidhgq.png "Ornate + Ear + Neck + Head -  Remeld Guide")
     name: 1.94 Week 1, Ex Weapon + Ornate + Ear + Neck + Head
-    link: https://xivgear.app/?page=embed|sl|9f0d8850-f504-4c06-a0e4-a8b572963528&onlySetIndex=10
+    link: https://xivgear.app/?page=embed|sl|8df88ff9-e89c-4503-9085-d7ba8f9ab12b&onlySetIndex=7
   - type: xivgear
     description: >-
       The basic week 1 set. This already acquires us all tome pieces for savage
@@ -66,11 +78,11 @@ bis:
 
       Tome Weapon sets can be found in the linked gearset sheet above.
     name: 1.94 Week 1, Ex Weapon + Body + Ear + Neck
-    link: https://xivgear.app/?page=embed|sl|9f0d8850-f504-4c06-a0e4-a8b572963528&onlySetIndex=7
+    link: https://xivgear.app/?page=embed|sl|8df88ff9-e89c-4503-9085-d7ba8f9ab12b&onlySetIndex=5
   - type: xivgear
     description: ""
     name: 1.94 Week 1, Pentameld + Ex Weapon
-    link: https://xivgear.app/?page=embed|sl|a878c27a-fae7-40b5-b43f-f4b7a5780a95&onlySetIndex=1
+    link: https://xivgear.app/?page=embed|sl|8df88ff9-e89c-4503-9085-d7ba8f9ab12b&onlySetIndex=1
   - type: gsheets
     description: "[Direct Link
       Here](https://docs.google.com/document/d/1aXJLZCs0t2jxeGO56RXKamUc4QJV35W\
