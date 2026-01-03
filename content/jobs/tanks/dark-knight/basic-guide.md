@@ -47,7 +47,7 @@ Goals for Dark Knight openers include:
 
 ## Standard Opener
 
-![7.2 Standard Dark Knight Opener](/img/drk_opener_7_2.png "Standard")
+![7.2 Standard Dark Knight Opener](/img/jobs/drk/darkknightrotation.png "Standard")
 
 </br>
 
