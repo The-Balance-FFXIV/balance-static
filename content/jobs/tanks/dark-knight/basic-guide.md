@@ -54,11 +54,16 @@ The potion used is whatever the current tier's Strength potion is (as of the tim
 **Unmend** is used to delay the opener slightly to account for raid buff application time, as well as to start our GCD rolling as early as possible. Use it whether or not you are pulling.
 
 ### Optional Modifications
+
 * If the prepull TBN will not break, it can be left out for a small MP loss, delaying the last **Edge of Shadow** slightly. Use it as soon as you can without clipping your GCD.
 * **Shadowstride** can be used to pull instead of **Unmend**, and pulling with **Hard Slash** is also viable if the boss starts in melee range, but each of these options requires adding an extra **Hard Slash** before **Disesteem** to ensure that the burst fits into late-applied buffs. However, if you are the pulling tank, this can make positioning harder. There is more detail on this opener and its benefits and potential drawbacks in [a section in the advanced guide](/jobs/tanks/dark-knight/advanced-guide/#opening-with-shadowstride), and we'd recommend only using this opener if you're aware of the trade-offs.
 * If you cannot fit the **Edge of Shadow** before **Hard Slash** without clipping due to, for example, the boss being far away, move it to after **Hard Slash**. I.e., **Unmend** -> Potion -> **Hard Slash** -> **Edge of Shadow** -> **Living Shadow**.
 
 # Rotation
+
+## Rotation Fundamentals Infographic
+
+![Rotation fundamentals infographic](/img/jobs/drk/darkknightrotation.png "Rotation fundamentals")
 
 ## Single-Target Rotation
 
@@ -66,11 +71,13 @@ Dark Knight's rotation follows a simple priority system after the opener.
 Burst windows after the opener will look much the same as the opener, except that not all bursts will have Salted Earth.
 
 For GCDs:
+
 * Use **Disesteem** and the **Torcleaver** combo (**Scarlet Delirium**, **Comeuppance**, **Torcleaver**) when under buffs.
 * Use **Bloodspiller** under raid buffs, or to prevent overcapping on blood.
 * Use the **Souleater** Combo (**Hard Slash**, **Syphon Strike**, **Souleater**) otherwise.
 
 For oGCDs:
+
 * Use **Edge of Shadow** under raid buffs, or to prevent overcapping on MP.
 * Hold both charges of **Shadowbringer** for 2-minute buffs.
 * Use all other damaging/damage-buffing oGCDs (**Salted Earth**, **Delirium**, **Carve and Spit**, etc) on cooldown.
@@ -81,11 +88,13 @@ At levels 94 and higher, DRK switches to using its AoE rotation for **3 or more 
 The AoE rotation is another simple priority system, replacing each single-target ability with its AoE counterpart.
 
 For GCDs:
+
 * Replace the **Torcleaver** combo with **Impalement**.
 * Replace **Bloodspiller** with **Quietus**
 * Replace **Souleater** combo GCDs with **Stalwart Soul** combo GCDs (**Unleash**, **Stalwart Soul**)
 
 For oGCDs:
+
 * Replace **Edge of Shadow** with **Flood of Shadow**
 * Replace **Carve and Spit** with **Abyssal Drain**
 
@@ -94,9 +103,10 @@ For oGCDs:
 Dark Knight also interacts with Magic Points (MP), which for Dark Knight acts as a second gauge alongside the Blood Gauge. MP can be spent on **Edge of Shadow**, **Flood of Shadow**, or **The Blackest Night**. **Edge of Shadow** and **Flood of Shadow** extend Darkside by thirty seconds (up to a maximum of sixty), our personal buff that gives us +10% damage. We want to make sure we keep Darkside up, not overcap on MP, and, where possible, save the remaining MP-spenders for damage-increasing party buffs.
 
 As a result, over the course of a fight, you should generally only spend MP by using **Edge of Shadow** or **Flood of Shadow** in these three situations:
-- You're about to overcap MP
-- You're about to run out of Darkside
-- You're in burst, and have damage-increasing buffs
+
+* You're about to overcap MP
+* You're about to run out of Darkside
+* You're in burst, and have damage-increasing buffs
 
 This allows us to maintain high personal damage, always keep Darkside at all times, as well as making sure we have as many MP spending abilities as possible for buffs.
 
@@ -115,21 +125,27 @@ Best-in-slot sets can be found on the [BiS page](/jobs/tanks/dark-knight/best-in
 **Highest priority**
 
 * Item Level
+
   * Affects Strength and Weapon Damage (for weapons), as well as total substat amount 
   * Significantly affects all damage dealt
   * Prioritize over getting better substats
 * Critical Hit
+
   * Affects critical chance + critical damage
   * Priority meld on all gear (unless number turns red when melding)
 * Skill Speed (if desired)
+
   * Reduces weaponskill recast time
   * Meld only to reach preferred GCD speed (commonly anywhere from 2.40s to 2.50s)
     (see [akhmorning](https://www.akhmorning.com/allagan-studies/stats/speed/) or [xivgear.app](https://xivgear.app/math/?page=math%7Csks) for precise skill speed tiers)
 * Direct Hit
+
   * Meld remaining slots (filler stat)
 * Determination
+
   * Sometimes used in a small number of slots due to stat tiering
 * Tenacity
+
   * Rarely melded due to weak scaling and minimal mitigation
 
 **Lowest priority**
@@ -211,21 +227,18 @@ Let's look at a few example mitigation scenarios comparing **TBN** to the 15% mi
 
 Scenario 1: We have 100,000 health, and are taking a 25,000 damage (after all other reductions) tankbuster:
 
-- The Dark Knight with **TBN** and no other mitigation will take no damage at all.
-
-- The other tank with 15% mit will take 21,250 damage.
+* The Dark Knight with **TBN** and no other mitigation will take no damage at all.
+* The other tank with 15% mit will take 21,250 damage.
 
 Scenario 2: We have 100,000 health, and are taking a 100,000 damage (after all other reductions) tankbuster:
 
-- The Dark Knight with **TBN** and no other mitigation will take 75,000 damage
-
-- The other tank with 15% mit will take 85,000 damage
+* The Dark Knight with **TBN** and no other mitigation will take 75,000 damage
+* The other tank with 15% mit will take 85,000 damage
 
 Scenario 3: We have 100,000 health, and are taking a 124,000 damage (after all other reductions) tankbuster:
 
-- The Dark Knight with **TBN** and no other mitigation will take 99,000 damage, and live
-
-- The other tank with 15% mit will die
+* The Dark Knight with **TBN** and no other mitigation will take 99,000 damage, and live
+* The other tank with 15% mit will die
 
 These examples illustrate that **TBN**, compared to percentage based mitigation, mitigates more damage relative to how small the hit is, since the amount it blocks is static. However, they also illustrate how strong it is --- a 25% shield is incredibly, incredibly good when stacked with other mitigation.
 
@@ -332,6 +345,7 @@ To reach 5 **Edge/Flood of Shadow** in buffs, we use **The Blackest Night (TBN)*
 With a stored Dark Arts from the previous minute, 9000+ MP, and the MP from **Delirium** and **Carve and Spit**, 5 **Edge/Flood of Shadow** within buffs are possible.
 
 This means that damage-optimal MP spending is as follows:
+
 * 5 **Edge of Shadow** in each buff window (except the opener, where one **Edge of Shadow** is used outside of buffs to get Darkside).
 * Three MP spenders in odd minutes, where the last one is **The Blackest Night**, with the Dark Arts from this being held into the next buff window.
 
@@ -350,10 +364,11 @@ However, if you want to ensure that you get Dark Arts at the beginning of the fi
 This is a very minor DPS gain on average, and so is only recommended for optimization, not for progression.
 
 To do this, do the following:
+
 1. Switch into a gear set with lower Vitality (e.g. your current gear with some of the pieces taken off)
-1. Apply **TBN** to yourself (at -3s)
-1. Switch your gear back to the gear you intend to do the fight on
-1. Execute your opener like normal 
+2. Apply **TBN** to yourself (at -3s)
+3. Switch your gear back to the gear you intend to do the fight on
+4. Execute your opener like normal 
 
 You can still use this technique if you are not the pulling tank, but will need to coordinate the timing of their gearset swap with your use of **TBN** on them.
 
