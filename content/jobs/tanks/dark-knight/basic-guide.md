@@ -30,7 +30,7 @@ tags: []
 
 Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawntrail. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in **The Blackest Night** (**TBN**).
 
-The purpose of this guide is to give an overview of Dark Knight's abilities and to allow you to hit the ground running when picking up Dark Knight, as well as giving a peek into optimization in high-end content.
+The purpose of this guide is to give an overview of Dark Knight's abilities and to allow you to hit the ground running when picking up Dark Knight, as well as giving a peek into optimization in high-end content. 
 
 ## Skills and Abilities Overview
 
@@ -47,7 +47,7 @@ Goals for Dark Knight openers include:
 
 ## Standard Opener
 
-![7.2 Standard Dark Knight Opener](/img/jobs/drk/darkknightrotation.png "Standard")
+![7.2 Standard Dark Knight Opener](/img/drk_opener_7_2.png "Standard")
 
 </br>
 
