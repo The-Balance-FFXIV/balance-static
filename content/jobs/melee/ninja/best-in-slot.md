@@ -33,15 +33,14 @@ changelog:
 bis:
   - type: xivgear
     name: 7.4 Savage BiS
-    link: https://xivgear.app/?page=embed|sl|00cf7fea-60dc-4283-9b3e-6609b5d2a196
+    link: https://xivgear.app/?page=embed|bis|nin|current&onlySetIndex=0
     description: Compatible with VPR as long as long as they run 2.12.
   - type: xivgear
     name: 7.4 Savage Prog Set (Pentamelded)
-    link: https://xivgear.app/?page=embed|sl|66143664-580b-46c5-80fe-1d1765524dac
+    link: https://xivgear.app/?page=embed|bis|nin|prog&onlySetIndex=8
     description: >-
-      Click
-      [here](https://xivgear.app/?page=sl|3f9a66a5-7d4b-4712-afc4-0cd95ec6d701)
-      for the full list of prog set options.
+      Click [here](https://xivgear.app/?page=bis%7Cnin%7Cprog) for the full list
+      of prog set options.
 
 
       Tome buy order is: Chest -> Wrist -> Gloves
