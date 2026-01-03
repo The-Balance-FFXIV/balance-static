@@ -6,7 +6,7 @@ authors:
   - athunin
   - violet-stardust
 patch: "7.4"
-lastmod: 2025-12-16T18:21:43.760Z
+lastmod: 2026-01-03T17:19:08.595Z
 changelog:
   - date: 2024-07-28T09:27:40.592Z
     message: Updates for 7.0
@@ -17,6 +17,8 @@ changelog:
     message: Minor updates to reflect hotfixed Shadowstride application delay.
   - date: 2025-12-16T18:21:45.340Z
     message: ""
+  - date: 2026-01-03T17:19:10.103Z
+    message: Added rotation infographic.
 ---
 # Introduction
 
