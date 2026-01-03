@@ -43,7 +43,7 @@ bis:
       of prog set options.
 
 
-      Tome buy order is: Chest -> Wrist -> Gloves
+      Tome buy order is: Chest -> Wrist -> Ring
   - type: xivgear
     name: 7.4 Savage Prog Set (Budget)
     link: https://xivgear.app/?page=embed|sl|af4efba1-3817-47e1-beda-91ce07e4e739
