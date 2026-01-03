@@ -5,7 +5,7 @@ authors:
   - silaqui-amakiir
   - violet-stardust
 patch: "7.4"
-lastmod: 2025-12-16T18:20:08.634Z
+lastmod: 2026-01-03T17:17:45.939Z
 changelog:
   - date: 2024-07-28T10:51:24.137Z
     message: Updates for 7.0
@@ -22,6 +22,8 @@ changelog:
       section detailing MP usage.
   - date: 2025-12-16T18:20:09.098Z
     message: 7.4 updates
+  - date: 2026-01-03T17:17:48.119Z
+    message: Added rotation infographic.
 tags: []
 ---
 # Introduction
