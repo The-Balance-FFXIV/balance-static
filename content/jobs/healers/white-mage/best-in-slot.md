@@ -2,7 +2,7 @@
 title: Best in Slot (BiS)
 layout: bis
 patch: "7.4"
-lastmod: 2025-08-10T23:11:01.939Z
+lastmod: 2025-12-25T23:11:01.939Z
 changelog:
   - date: 2025-01-03T16:30:53.101Z
     message: Fixed the display of the embeds.
