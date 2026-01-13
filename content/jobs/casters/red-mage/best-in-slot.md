@@ -2,7 +2,7 @@
 title: Best in Slot (BiS)
 layout: bis
 patch: "7.4"
-lastmod: 2025-12-27T15:35:03.107Z
+lastmod: 2026-01-13T15:26:12.888Z
 changelog:
   - date: 2021-10-26T01:30:27.164Z
     message: Created page
@@ -30,12 +30,12 @@ bis:
       don't want to re-meld or keep an extra piece of gear to swap melds.
   - type: xivgear
     name: 7.4 RDM BiS - 2.49 GCD
-    link: https://xivgear.app/?page=embed|sl|14e2ed2f-0836-4970-9e42-98ba83311a78
+    link: https://xivgear.app/?page=embed|sl|3a78b6f3-1c36-4a7d-82c6-a2d3ceee62da
     description: Better oGCD alignment with Fleche and Contre Sixte, and better
       alignment to perform 1e23 double combos at burst windows.
   - type: xivgear
     name: 7.4 RDM BiS - 2.48 GCD
-    link: https://xivgear.app/?page=embed|sl|14e2ed2f-0836-4970-9e42-98ba83311a78
+    link: https://xivgear.app/?page=embed|sl|d01bbb2f-0636-486e-a633-e7a9944760a4
     description: Better alignment to perform 123e double combos at burst windows
       beyond the first 2m, but will eventually drift Fleche and Contre Sixte
       backwards.
