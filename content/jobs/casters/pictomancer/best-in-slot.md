@@ -2,7 +2,7 @@
 title: Best in Slot
 layout: bis
 patch: "7.4"
-lastmod: 2025-12-20T08:09:31.988Z
+lastmod: 2026-01-13T17:50:01.643Z
 changelog:
   - date: 2025-12-20T08:09:34.663Z
     message: Updated for Patch 7.4
@@ -17,20 +17,21 @@ changelog:
 bis:
   - type: xivgear
     name: 2.5 GCD BiS - Patch 7.4
-    link: 4bd90c49-7a54-483f-9107-042c89c8c68f&onlySetIndex=0
+    link: https://xivgear.app/?page=embed|sl|4bd90c49-7a54-483f-9107-042c89c8c68f&onlySetIndex=0
     description: Highest simming set.
   - type: xivgear
     name: 2.49 GCD BiS - Patch 7.4
     description: For those unable to complete burst windows at 2.5 GCD.
-    link: https://xivgear.app/?page=sl|4bd90c49-7a54-483f-9107-042c89c8c68f&onlySetIndex=1
+    link: https://xivgear.app/?page=embed|sl|4bd90c49-7a54-483f-9107-042c89c8c68f&onlySetIndex=1
   - type: xivgear
     name: 2.48 GCD BiS - Patch 7.4
     description: For those unable to complete burst windows at 2.5 or 2.49 GCDs.
-    link: https://xivgear.app/?page=sl|4bd90c49-7a54-483f-9107-042c89c8c68f&onlySetIndex=2
+    link: https://xivgear.app/?page=embed|sl|4bd90c49-7a54-483f-9107-042c89c8c68f&onlySetIndex=2
   - type: xivgear
     name: Pentamelded Pre-Savage BiS
-    link: ""
-    description: Ideal set to enter savage with.
+    link: https://xivgear.app/?page=embed|sl|91928150-d18a-4012-8be2-ba73f10e9cd5&onlySetIndex=1
+    description: Ideal set to enter savage with. Click the hyperlink at the top of
+      the set to see all options.
   - type: etro
     name: 2.5 GCD TOP BiS
     link: 09995124-50cc-4888-8fa4-877a19cd1175
