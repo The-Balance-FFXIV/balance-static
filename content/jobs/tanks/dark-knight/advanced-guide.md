@@ -173,7 +173,7 @@ This section provides details on exactly how it works, and the formulae that dif
 
 ## Living Shadow's Abilities, Targeting, and 'Rotation'
 
-**Living Shadow** spawns Esteem, which, after a ~6.8 second spawn delay, will perform six abilities, with a ~2.18 second delay between each. The starting position of Esteem will be locked 560 milliseconds after the button is pressed.
+**Living Shadow** spawns Esteem, which, after a ~6.8 second spawn delay, will perform a sequence of abilities with a ~2.18 second delay between each. The starting position of Esteem will be locked 560 milliseconds after the button is pressed.
 
 Esteem begins searching for a target 750 milliseconds after **Living Shadow** is used, at which point it will lock onto the first enemy you attack. After being 'locked on' to an enemy, it will attempt to execute all of its abilities in sequence on that target until that enemy dies or runs out of abilities. If that enemy dies, Esteem retargets with the same logic but without the delay. In both cases, you must attack an enemy for Esteem to begin or continue its attack sequence.
 
@@ -181,7 +181,7 @@ Target selection is based off of cast event rather than damage application. Usin
 
 The abilities Esteem uses share animations, damage types, and areas of effect with the player's abilities, but have their own potencies independent of the skills they mimic. For example, if **Bloodspiller** gets a potency buff, then **Living Shadow**'s **Bloodspiller** does not gain the same potency buff.
 
-At level 100, **Living Shadow** performs the following abilities, in sequence, totaling 2450 potency. **Esteem** will always stop after executing six abilities:
+At level 100, **Living Shadow** performs the following abilities, in sequence, totaling 2450 potency. **Esteem** will always stop after executing five damaging abilities:
 
 * **Abyssal Drain** (AoE, 420 Potency, 0% less to additional targets)
 * **Shadowstride** (Single Target, No Damage)
@@ -190,7 +190,9 @@ At level 100, **Living Shadow** performs the following abilities, in sequence, t
 * **Bloodspiller** (Single Target, 420 Potency)
 * **Disesteem** (AoE, 620 Potency, 25% less to additional targets)
 
-If the target leaves Esteem's range, Esteem will replace the next ability with **Abyssal Drain**, and then continue where it was in its sequence. If the target is still out of range after **Abyssal Drain**, it will replace its next ability with **Shadowstride**. The only exception to this is if Esteem is out of range for its fifth attack (**Bloodspiller**), in which case it will replace **Bloodspiller** with **Shadowstride**, instead of **Abyssal Drain**. One quirk of Esteem is that **Disesteem** is a melee range ability for **Esteem**, so if Esteem is out of range for **Disesteem**, it will **Abyssal Drain** instead.
+If the target leaves Esteem's range, Esteem will replace the next ability with **Abyssal Drain**, and then continue where it was in its sequence. If the target is still out of range after **Abyssal Drain**, it will replace its next ability with **Shadowstride**. There are two exceptions to this. Firstly, if Esteem is out of range for its fourth damaging ability (**Bloodspiller**), in which case it will replace **Bloodspiller** with **Shadowstride**, instead of **Abyssal Drain**. Secondly, if Esteem is out of range after the **Shadowstride** it performs as its second action, it may sometimes use a second **Shadowstride**.
+
+One quirk of Esteem is that **Disesteem** is a melee range ability for Esteem, so if Esteem is out of range for **Disesteem**, it will **Abyssal Drain** instead.
 
 ### Living Shadow's Ability Usage at Earlier Levels
 
