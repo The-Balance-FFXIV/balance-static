@@ -3,13 +3,15 @@ title: Advanced Guide
 card_header_image: /img/jobs/sch/advanced.png
 authors:
   - Balance-SCH-Staff
-patch: "6.3"
-lastmod: 2023-01-19T16:46:57.454Z
+patch: "7.4"
+lastmod: 2026-01-20T07:05:15.027Z
 changelog:
   - date: 2021-11-15T20:47:45.649Z
     message: Added page
   - date: 2023-01-19T16:46:58.029Z
     message: Patch bump 6.3
+  - date: 2026-01-20T07:05:18.166Z
+    message: added schgolar fairy mechanic
 ---
 ## In-depth Fairy Mechanics
 
@@ -39,3 +41,5 @@ If multiple party members satisfy an HP threshold then the closest party member 
 All of this information was made possible thanks to the efforts of **Himenyan Biwaco** and their collaborators. You may find more in-depth observations of Embrace targeting behaviour and Hime's testing methodology in their video here:
 <https://youtu.be/f-H9V9DICLw>
 Hime's image summarises their main findings on Embrace targeting behaviour.
+
+![](/img/jobs/sch/hime-s-embrace-targeting-behaviour.png)
