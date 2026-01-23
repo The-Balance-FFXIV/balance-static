@@ -72,16 +72,16 @@ bis:
       Chest > Wrist > Ring > Ring
   - type: xivgear
     name: 2.40 max damage
-    link: https://xivgear.app/?page=sl|97a84dd4-31fc-4818-a9b7-ace016b366f1
+    link: https://xivgear.app/?page=embed|sl|bd329cd1-5135-45d3-97b6-0d1342f6b5fe
   - type: xivgear
     name: 2.31 max damage
-    link: https://xivgear.app/?page=sl|54d432d1-fb1c-4a3b-9f79-cae19de16cf7
+    link: https://xivgear.app/?page=embed|sl|3aeed012-438c-4559-9d47-ac407c29e6cf
   - type: xivgear
-    link: https://xivgear.app/?page=sl|1c97cbb6-a153-4573-baae-b336152db325
+    link: https://xivgear.app/?page=embed|sl|462ebffd-409a-400c-ab40-3ac6c78cf9ad
     name: 2.40 max ilvl
   - type: xivgear
     name: 2.31 max ilvl
-    link: https://xivgear.app/?page=sl|a9aeb34c-caf6-489b-9030-a7009c5559c9
+    link: https://xivgear.app/?page=embed|sl|0ee246c7-6b97-49bf-abe0-3242c9a93ca4
   - type: plain-text
     name: Ultimate/criterion sets below
   - type: genericlink
