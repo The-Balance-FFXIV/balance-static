@@ -2,7 +2,7 @@
 title: Best in Slot (BiS)
 layout: bis
 patch: "7.4"
-lastmod: 2025-12-26T07:17:12.313Z
+lastmod: 2026-01-23T18:08:48.106Z
 changelog:
   - date: 2025-12-26T07:17:11.607Z
     message: updated for 7.4
@@ -72,16 +72,16 @@ bis:
       Chest > Wrist > Ring > Ring
   - type: xivgear
     name: 2.40 max damage
-    link: https://xivgear.app/?page=sl|9920f282-327e-430a-8a76-1325264f4947
+    link: https://xivgear.app/?page=sl|97a84dd4-31fc-4818-a9b7-ace016b366f1
   - type: xivgear
     name: 2.31 max damage
-    link: https://xivgear.app/?page=sl|9920f282-327e-430a-8a76-1325264f4947
+    link: https://xivgear.app/?page=sl|54d432d1-fb1c-4a3b-9f79-cae19de16cf7
   - type: xivgear
-    link: https://xivgear.app/?page=sl|97a84dd4-31fc-4818-a9b7-ace016b366f1
+    link: https://xivgear.app/?page=sl|1c97cbb6-a153-4573-baae-b336152db325
     name: 2.40 max ilvl
   - type: xivgear
     name: 2.31 max ilvl
-    link: https://xivgear.app/?page=sl|97a84dd4-31fc-4818-a9b7-ace016b366f1
+    link: https://xivgear.app/?page=sl|a9aeb34c-caf6-489b-9030-a7009c5559c9
   - type: plain-text
     name: Ultimate/criterion sets below
   - type: genericlink
