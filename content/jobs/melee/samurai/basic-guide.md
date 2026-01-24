@@ -3,7 +3,8 @@ title: Basic Guide
 card_header_image: /img/jobs/sam/basic.png
 authors:
   - Balance-SAM-Staff
-patch: ""
+  - Flare
+patch: "7.4"
 lastmod: 2025-08-05T02:52:16.367Z
 changelog:
   - date: 2021-10-28T03:23:16.783Z
@@ -24,6 +25,8 @@ changelog:
     message: Updated for Dawntrail 7.05
   - date: 2025-08-05T02:52:18.813Z
     message: Updated potencies for 7.3
+  - date: 2026-01-22T21:06:29.299Z
+    message: Updated Higanbana section
 ---
 # Foreword
 
@@ -148,7 +151,7 @@ Of course, exceptions always happen. You will recognize the exceptions in the fi
 
 With the changes to Meikyo Shisui and combo enders (Gekko/Kasha) in 6.0, its role as a tool in our rotation has changed in a big way going into Endwalker. Instead of existing solely as an optimization tool and a way to fix our rotational alignment to maximize our Iaijustu and Tsubame usage, it now offers a way to avoid the ramp-up/buff application period that defined Samurai in Shadowbringers.
 
-As of Dawntrail as well, Meikyo allows us to use our newest tool, **Tendo Setsugekka, a 1020 potency GCD with a guaranteed critical hit per use.** When our Meikyo Shisui is used, our next Midare turns into a Tendo and will do more damage than a standard Midare, and give a Kaeshi version named Kaeshi Tendo Setsugekka. **If you're building a Tenka Goken, Meikyo turns our Tenka Goken into a Tendo Goken.**
+As of Dawntrail as well, Meikyo allows us to use our newest tool, **Tendo Setsugekka, a 1100 potency GCD with a guaranteed critical hit per use.** When our Meikyo Shisui is used, our next Midare turns into a Tendo and will do much more damage than a standard Midare, and give a Kaeshi version named Kaeshi Tendo Setsugekka. **If you're building a Tenka Goken, Meikyo turns our Tenka Goken into a Tendo Goken.**
 
 The goal of Meikyo is to manipulate your Sen so you can apply your buffs as quickly as possible, maximize Iaijutsu usage, and use Tendo Setsugekka. For example, in the opener we use Meikyo to quickly apply both of our buffs, get all three Sen, and open with a fully buffed Tendo in raid buffs. We also use Meikyo in every 60s burst window to manipulate our Sen and quickly perform a buffed Higanbana right on time. While leveling or in dungeon content, it can also be used to quickly perform Tendo Goken for AoE purposes.
 
@@ -176,13 +179,15 @@ The intended purpose for the reintroduction of Hagakure from Square Enix seemed 
 
 ## Higanbana Timing
 
-Of all the moves a Samurai can use, the single most powerful move is Higanbana. As you recall, Higanbana is 1200 potency of damage over the course of 60 seconds. Because of its sheer damage compacted into a single GCD, this is strongly amplified under raid buffs. The nice thing about raid buffs is that a good chunk of them will line up with Higanbana timing: Trick Attack, Battle Voice, Dragon Sight, Battle Litany, Chain Stratagem, Technical Step, etc. tend to fall under a cooldown time that is a multiple of 60s. As such, you should be able to land your Higanbana within those raid buffs at the time of refresh.
+Of all the moves a Samurai can use, the single most powerful move is Higanbana. Higanbana does 1200 potency of damage over the course of 60 seconds. Because of its sheer damage compacted into a single GCD, this is strongly amplified under raid buffs. All buffs in this game fall under a cooldown time that is a multiple of 60s. As such, you should be able to land your Higanbana within those raid buffs at the time of refresh most of the time.
 
 With that said, how do you know when to *not* use Higanbana? Some bosses go invincible for a period of time during which your Higanbana is ineffective. When that happens, if your Higanbana did not get to make use of its duration, then it is lost DPS.
 
-Comparing Midare Setsugekka with Higanbana, it takes about 42s of ticks for Higanbana to outdamage Midare Setsugekka in the same GCD.
+As rules of thumb:\
+Always use Higanbana if it's gonna tick for the entire duration, unless using it would cause you to lose a use of Midare + Kaeshi. It may also be worthwhile to use Higanbana without full duration if it gives you a use of Shoha before downtime sequences where you can gain Meditation stacks or before the end of a fight. In fights where you don't have Tsubame-gaeshi, it takes approximately 45 seconds for Higanbana to be stronger than Midare, but this comparison still doesn't take into consideration the opportunity cost of the GCDs it takes to build one vs the other. In all cases where this is ambiguous, it being worth it to reapply would depend on kill/phasing time, so it is still always better to plan it first in a spreadsheet.
 
-The rule of thumb is that if Higanbana was not able to tick for more than about 42s of its duration then it would have been better not to use it. This is doubly true if using Higanbana would have prevented you from using a Midare Setsugekka in the same period of time. Generally speaking, fight phases of 1:30 should have only one Higanbana used, 3:20 only three Higanbana, and so on. Fight phases of 3:50, for example, should have four Higanbana used *only* if you are able to use a buffed (already under Fugetsu at absolute minimum) Higanbana at the very first GCD and have perfect refresh timing. There are some situations where it is proper to use Higanbana when it would not tick for its full duration, such as at the end of a fight where you are ending on two meditation stacks in order to generate the extra stack and use Shoha, but that is a per-fight optimization that should be mathematically figured out according to the rest of the encounter.
+As for how to always apply Higanbana on time, follow the "15 second rule":\
+When you're building your Sen for burst, look at the remaining time for your dot. If it's over 15 seconds, you can safely start building another combo. If it's under 15 seconds, then finish building your current combo, and then press Meikyo Shisui to get the remaining Sen. This method is a good general guideline to get into adjusting based on your remaining Higanbana timer.
 
 Higanbana is responsible for much of a Samurai’s damage, but applying it liberally and improperly only means you will suffer in the long run.
 
