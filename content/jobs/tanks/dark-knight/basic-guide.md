@@ -213,7 +213,7 @@ To summarize, **TBN** is either damage neutral, or a gain, allowing you to move 
 
 Its cooldown allows it to mitigate damage more frequently than other tanks, allowing you to mitigate tankbusters or other salient damage that's closer together than any other tank. This can be very relevant in some difficult fights like Savages and Ultimates, and the flexibility to be able to use your mitigation more frequently isn't always an option other tanks have.
 
-There **is** a downside of using **TBN** so frequently though, you can move some of your MP spending out of buffs if you use too much. However, up to 4 (the last sometimes requires careful timing, by using **TBN** during a buff window) MP spenders per 2 minutes can be **TBN** without moving any damage out of buff windows --- all three spenders in the odd-numbered minutes, plus one in the even-numbered minute. An astute reader will note that four per 2 minutes is also the same amount of times that a 25 second cooldown will typically fit.
+There **is** a downside of using **TBN** so frequently though, you can move some of your MP spending out of buffs if you use too much. However, up to 4 (the last sometimes requires careful timing, by using **TBN** during a buff window) MP spenders per 2 minutes can be **TBN** without moving any damage out of buff windows. An astute reader will note that four per 2 minutes is also the same amount of times that a 25 second cooldown will typically fit.
 
 To summarize, there's very few practical circumstances in which you need (or even want) so many **TBN**s you move damage out of buff windows, but if there's so much damage you need to **TBN** so often that you move damage out of burst windows, then **no other tank would have as much mit** as Dark Knight.
 
@@ -340,7 +340,7 @@ While this section will go over some optimizations for Dark Knight, for those lo
 
 Dark Knight generates around 10800 MP per minute, from a combination of **Syphon Strike**, **Carve and Spit**, **Delirium**, and natural MP regen ticks (which grant 200 MP every three seconds in combat, or 600 MP every three seconds if out of combat).
 This translates to 3.6 MP spenders per minute, or 7.2 spenders per 2 minutes.
-Since at least 2 **Edge/Flood of Shadow** are needed in the odd minutes to maintain Darkside, this leaves at most 5.2 spenders for every even minute, when buffs come out.
+Since at least 2 **Edge/Flood of Shadow** are needed outside of party buffs to maintain Darkside, this leaves at most 5.2 spenders during the window when party buffs come out.
 Even going into burst at full MP and using the MP generated from **Carve and Spit** and Delirium, however, we do not reach 15000 MP.
 
 To reach 5 **Edge/Flood of Shadow** in buffs, we use **The Blackest Night (TBN)** earlier, outside of buffs, in order to store a Dark Arts, essentially banking 3000 MP for later.
@@ -348,11 +348,11 @@ With a stored Dark Arts from the previous minute, 9000+ MP, and the MP from **De
 
 This means that damage-optimal MP spending is as follows:
 
-* 5 **Edge of Shadow** in each buff window (except the opener, where one **Edge of Shadow** is used outside of buffs to get Darkside).
-* Three MP spenders in odd minutes, where the last one is **The Blackest Night**, with the Dark Arts from this being held into the next buff window.
+* 5 **Edge of Shadow** in each party buff window (except the opener, where one **Edge of Shadow** is used outside of buffs to get Darkside).
+* Three MP spenders outside of party buff windows, where the last one is **The Blackest Night**, with the Dark Arts from this being held into the next buff window.
 
-Note that the first two MP spenders in odd minutes can freely be **The Blackest Night (TBN)** as well, with their Dark Arts then being used before the next **TBN**.
-Similarly, **TBN** can be used during buffs without losing damage as long as the Dark Arts it generates can be spent on **Edge/Flood of Shadow** before the buff window ends.
+Note that the first two MP spenders in outside of party buffs can freely be **The Blackest Night (TBN)** as well, with their Dark Arts then being used before the next **TBN**.
+Similarly, **TBN** can be used during party buffs without losing damage as long as the Dark Arts it generates can be spent on **Edge/Flood of Shadow** before the buff window ends.
 
 Similarly, though more simply, entering buffs (when **Delirium** is pressed) with 70 or less Blood Gauge will ensure that you do not overcap on Blood Gauge.
 This allows for using 1-2 **Bloodspillers** during every 2-minute raid buff window, and it is best to have the Blood Gauge as high as possible (up to 70) when entering Delirium.
