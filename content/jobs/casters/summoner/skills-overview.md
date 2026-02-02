@@ -20,6 +20,8 @@ changelog:
     message: Updated for 7.3
   - date: 2025-12-27T01:10:07.592Z
     message: Updated for 7.4
+  - date: 2026-02-02T11:41:54.469Z
+    message: Updated for 7.41
 ---
 # Actions
 
