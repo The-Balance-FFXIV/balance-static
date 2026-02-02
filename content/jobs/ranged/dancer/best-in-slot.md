@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.4"
-lastmod: 2025-12-31T23:55:05.443Z
+patch: "7.41"
+lastmod: 2026-01-29T19:45:48.784Z
 changelog:
   - date: 2021-10-26T02:11:25.028Z
     message: Created page
@@ -24,6 +24,8 @@ changelog:
     message: Update all sets to 7.2
   - date: 2025-12-31T23:55:34.218Z
     message: Update all sets to 7.4
+  - date: 2026-01-29T19:45:46.711Z
+    message: Updated FRU bis link
 bis:
   - type: xivgear
     name: 7.4 ilvl 790 BiS 2.5 GCD
@@ -36,13 +38,8 @@ bis:
   - type: xivgear
     name: 7.4 - FRU BiS Ultimate Weapon
     link: https://xivgear.app/?page=embed|bis|dnc|ultimate|fru&onlySetIndex=0
-  - type: xivgear
-    name: 7.4 - FRU BiS Relic Weapon
-    link: https://xivgear.app/?page=embed|bis|dnc|ultimate|fru&onlySetIndex=1
-  - type: xivgear
-    name: 7.4 - FRU BiS Savage Weapon
-    link: https://xivgear.app/?page=embed|bis|dnc|ultimate|fru&onlySetIndex=2
-    description: ""
+    description: Please use "Click to Open Full View" to view other weapon options
+      for this bis set. FRU Weapon>775 Relic>745/760 Relic>Savage Weapon
   - type: xivgear
     description: ""
     name: 7.4 - i665 BiS for Mount Rokkon and Aloalo Island
