@@ -33,10 +33,10 @@ qna:
       You should liberally use **The Blackest Night** to avoid damage as needed, too. It is always better to move damage out of buffs in order to stay alive.
   - question: Can I use all my MP on The Blackest Night (TBN)?
     answer: Up to 3 (4 with careful timing) MP spenders per 2 minutes can be **TBN**
-      without moving any damage out of burst --- all three spenders in the
-      odd-numbered minutes, plus one in the even-numbered minute. It is always
-      better to lose damage in buffs in order to stay alive, or to save healer
-      GCDs.
+      without moving damage out of party buff windows. However, it is always
+      better to move damage out of party buffs in order to stay alive, or to
+      save healer GCDs --- don't worry about 'losing damage', especially when
+      progressing a fight.
   - question: Why don't we use Living Shadow prepull/Should I use Living Shadow
       during phase transitions?
     answer: Using **Living Shadow** prepull can result in some of its damage coming
@@ -53,8 +53,8 @@ qna:
       better.
   - question: " Why are the oGCDs in the opener ordered the way that they are?"
     answer: The opener is laid out to avoid overcapping on MP both in the opener and
-      in future burst windows, and secondarily to maximize the damage you do if
-      the fight ends in the middle of a burst.
+      in future party buff windows, and secondarily to maximize the damage you
+      do if the fight ends in the middle of a party buff window.
   - question: What GCD speed(s) should I use?
     answer: >-
       It's personal preference. They sim extremely similarly, but they 'feel'
