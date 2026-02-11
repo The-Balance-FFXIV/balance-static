@@ -92,9 +92,9 @@ Unlocks **Gnashing Fang** and **Continuation**.</br>
 Unlocks **Fated Circle**, **Bloodfest**, **Hypervelocity**, and **Double Down**.</br>
 </br> **Bloodfest** should only be used when the gauge is empty. **Bloodfest** is typically used inside **No Mercy**.
 
+* Prioritize **Double Down** when it unlocks.
 * Use **Demon Slaughter** combo at 2+ targets.
 * Use **Fated Circle** at 2+ targets.
-* Prioritize **Double Down** when it unlocks.
 * Stop using **Gnashing Fang** at 4 targets.
 * Stop using **Sonic Break*** at 5 targets (enemy HP permitting).
 
@@ -103,17 +103,11 @@ Unlocks **Fated Circle**, **Bloodfest**, **Hypervelocity**, and **Double Down**.
 Unlocks multiple potency-modifying traits, **Fated Brand**, and **Reign of Beasts**.</br>
 </br> **Double Down** and **Reign of Beasts** should always be used within **No Mercy** both as part of your single-target and multi-target rotation. This completes your single-target burst phase with **Gnashing Fang**, **Double Down**, **Reign of Beasts**, and **Sonic Break**, which leads to interesting optimization at level 100 due to **Fated Circle** becoming more powerful than **Gnashing Fang** and **Sonic Break** within **No Mercy** beyond 2 and 3 targets respectively.
 
-* Use **Demon Slaughter** combo at 3+ targets.
-* Use **Fated Circle** at 2+ targets. (3+ until 96, due to **Melee Mastery 2** at level 94 and lack of **Fated Brand** until 96).
 * Prioritize **Reign of Beasts** when it unlocks.
-* Same rules regarding **Gnashing Fang** and **Sonic Break***.
-
-  * At level 100 and 2 targets, it can potentially be a gain while **No Mercy** is active to hold **Gnashing Fang** and replace it with 3 **Fated Circle** casts if you will have **Bloodfest**.
-  * At level 100 and 3 targets, the same is true for **Sonic Break**.
-
-At level 100, **Gnashing Fang** technically becomes a small loss at 3 targets (instead of 4 targets like previous levels) when running an AOE-only rotation to a purely infinite duration, but there are a high number of dynamic AOE scenarios that can exist (uneven add health reducing target count on death, thrown off cooldown alignment by moving this action around resulting in future loss, etc.) that would show this action being a gain when used off cooldown on up to 3 targets, so this is what we feel should be the *average* recommendation for most short encounters around 30 seconds in length or anytime one of the 3 targets is nearly dead.
-
-* A good time to consider using **Fated Circle(s)** in place of **Gnashing Fang** at 3 targets is whenever the 3-target AOE encounter will last for more than 30 seconds, or at minimum, whenever skipping or holding a usage would not negatively impact **Gnashing Fang's** alignment throughout the rest of the fight and cause lost usages (or some form of loss within﻿ **No Mercy**).
+* Use **Demon Slaughter** combo at 3+ targets.
+* Use **Fated Circle** at 2+ targets.
+* Stop using **Gnashing Fang** at 3 targets.
+* Stop using **Sonic Break*** at 5 targets (enemy HP permitting).
 
 ## Sonic Break Usage in AOE
 When using **Sonic Break** in AOE scenarios, you must consider the enemy target HP and expected time until defeating that enemy, because you do not want to underutilize **Sonic Break**'s damage-over-time effect. In many cases, AOE scenarios are short in length and can prefer the usage of AOE actions over **Sonic Break** if its damage-over-time effect is cut short.
