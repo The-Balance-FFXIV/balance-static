@@ -121,7 +121,6 @@ changelog:
 
 * Single target strong regen (six ticks of 250p), Total heal: 1,500.
 * Regen has substantially higher total potency than Cure II if you don't need immediate healing.
-* Regen won’t proc Divine Veil
 
 ![Medica](https://xivapi.com/i/000000/000408_hr1.png)
 
@@ -206,7 +205,6 @@ changelog:
 * Use if you're about to GCD heal and you need additional healing, its low cooldown makes it more flexible.
 * Especially potent for tougher healing checks where you’ll be casting multiple GCD heals during the buff.
 
-
 ![Divine Caress](/img/jobs/whm/002128_hr1.png)
 
 ### **Divine Caress**
@@ -215,7 +213,6 @@ changelog:
 * Gain use of Divine Caress after using Temperance for 30 seconds
 * Divine Caress' shield can crit and benefits from healing up buffs like Asylum or NAture's Minne(BRD)
 * Divine Caress can be activated 30 seconds after Temperance meaning you can stagger Divine Caress to cover another mechanic after Temperance falls off.
-
 
 ## **Other Actions**
 
