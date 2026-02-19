@@ -3,7 +3,7 @@ title: Openers
 authors:
   - Balance-RPR-Staff
 patch: "7.4"
-lastmod: 2025-12-17T05:32:13.946Z
+lastmod: 2026-02-19T05:03:24.941Z
 changelog:
   - date: 2022-01-29T01:54:23.902Z
     message: Updated Fast Shroud opener (Adjusted potion for better timing)
@@ -23,12 +23,14 @@ changelog:
     message: Updated to Patch 7.2.
   - date: 2025-12-17T05:32:04.985Z
     message: Updated to Patch 7.4.
+  - date: 2026-02-19T05:03:26.832Z
+    message: Removed a broken link that was not supposed to be there.
 ---
-## 2nd GCD AC
+## 2nd GCD AC - Standard Dawntrail Opener
 
 ![](/img/jobs/rpr/second-gcd-ac.png)
 
-[Full Size](rpr_6.3_early_gluttony.png)
+[](rpr_6.3_early_gluttony.png)
 
 * Soul Sow pre-pull
 * Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
