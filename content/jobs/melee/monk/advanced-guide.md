@@ -67,9 +67,9 @@ We now use the Double Lunar opener to achieve a Lunar Nadi overcap in the opener
 
 > LL S (L)L S
 
-The Phantom Rush gets pushed back by 1 PB, this places PR in buffs, but also pushes the last PR past our kill time, resulting in a loss of one. Having observed this effect, the extra PR is always gained at around x:50, where x is an even number. The next blitz is gained 40 seconds later, this exact window from x:50 to around (x+1):28 is then the PR gaining window if we follow the standard Solar Lunar Opener path. Directly from this follows that the Solar Lunar opener is the **PR maximizing** path, as it always gains the maximum number of PRs.
+The Phantom Rush gets pushed back by 1 PB, this places PR in buffs, but also pushes the last PR past our kill time, resulting in a loss of one. Having observed this effect, without overcapping a nadi, the extra PR is always gained at around x:50, where x is an even number. The next blitz is gained 40 seconds later, this exact window from x:50 to around (x+1):28 is then the PR gaining window if we follow the standard Solar Lunar Opener path. Directly from this follows that the Solar Lunar opener is the **PR maximizing** path, as it always gains the maximum number of PRs.
 
-The natural conclusion is that if we do not know the kill time, or we know the kill is within the PR gaining window (x:50 to (x+1):28 where x is odd), then the PR maximizing opener (Solar Lunar) will always net us the maximum possible number of Phantom Rush. With a kill time in the PR gaining window, this will also net us the most personal DPS if buffs other than Brotherhood are disregarded.
+The natural conclusion is that if we do not know the kill time, or we know the kill is within the PR gaining window (x:50 to (x+1):28 where x is even), then the PR maximizing opener (Solar Lunar) will always net us the maximum possible number of Phantom Rush. With a kill time in the PR gaining window, this will also net us the most personal DPS if buffs other than Brotherhood are disregarded.
 
 If the kill time is not within the PR gaining window, then we are allowed to overcap our Nadi and push our Phantom Rush back and into 2 minutes. Our 2 minutes have the added benefit of our own personal buff Brotherhood, other party buffs and sometimes Gemdraughts. This means that our stronger Blitz Phantom Rush will receive the benefits of these damage increasing multipliers at the cost of a weaker Blitz. If this does not cost us a Phantom Rush use overall, then this is an increase to both personal and overall party DPS.
 
@@ -173,7 +173,7 @@ The underscore here signifies delaying the Solar, fitting it into a delayed Ridd
 
 Double Odd Blitzing can additionally also occur if there is appropriately placed downtime of about 30-40 seconds, allowing us to Double Odd Blitz an earlier window while still Double Blitzing the even buff windows. If this Double Odd Blitz window occurs in the first odd minute, then this has a very important benefit of allowing us to naturally drift buffs to Phantom Rush, example below.
 
-> SL _(L)L (downtime)  (L) L S(L) S L(L)
+> SL _(L)L (downtime)  S(L) L S(L) S L(L)
 
 Situations enabling very beneficial Double Odd Blitz windows are very common in Ultimates.
 
