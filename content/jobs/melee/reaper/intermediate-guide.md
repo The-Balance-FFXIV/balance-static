@@ -4,7 +4,7 @@ authors:
   - Balance-RPR-Staff
   - ellunavi
 patch: "7.4"
-lastmod: 2025-12-17T05:33:43.392Z
+lastmod: 2026-04-04T20:59:59.259Z
 changelog:
   - date: 2024-07-02T21:55:37.160Z
     message: Created article.
@@ -18,6 +18,10 @@ changelog:
     message: Updated for 7.3
   - date: 2025-12-17T05:33:45.201Z
     message: Updated to Patch 7.4.
+  - date: 2026-04-04T20:59:26.105Z
+    message: Minor wording update to the Standard Burst information. Nothing was
+      functionally changed, but the wording change may help clarify some
+      confusion.
 ---
 # Introduction
 
