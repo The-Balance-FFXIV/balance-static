@@ -14,7 +14,7 @@ changelog:
 
 This guide contains suggestions on how to use your cooldowns effectively, and tips and tricks to play each phase as effectively as possible.
 
-Dark Knight is a very solid choice for TEA and can flexibly perform well in any of the fight's roles (i.e. both 'main tank' and 'off tank'). AS always, Dark Knight have an incredibly potent set of defensive cooldowns and **The Blackest Night** (TBN) makes mitigating damage incredibly comfortable.
+Dark Knight is a very solid choice for TEA and can flexibly perform well in any of the fight's roles (i.e. both 'main tank' and 'off tank'). As always, Dark Knight have an incredibly potent set of defensive cooldowns and **The Blackest Night** (TBN) makes mitigating damage incredibly comfortable.
 
 # Gear
 
