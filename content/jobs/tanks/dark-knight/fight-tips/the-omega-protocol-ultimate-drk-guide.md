@@ -110,7 +110,7 @@ If you're taking both the post-Omega and post-Sigma tankbusters with mitigation 
 
 Be aware that during the active phase at the start of Run Dynamis: Omega, during the dodges, the tank holding the boss will take a lot of auto-attack damage. You should make sure to give them (whether or not it's you or the other tank) **TBN**. It can be easy for healers to lose track of tank health during this phase due to the quickness of the dodges.
 
-You will generate around 4000 MP from the stun at the end of this phase until the final phase is targetable. If you don't have one already, make sure to TBN someone during the Blind Faith cast to go into the last phase with a Dark Arts! If you're comfortably overkilling this phase, which is likely, try and bring as much blood and MP as possible into Phase Six.
+You will generate around 4000 MP from the stun at the end of this phase until the final phase is targetable. If you don't have one already, make sure to **TBN** someone during the Blind Faith cast to go into the last phase with a Dark Arts! If you're comfortably overkilling this phase, which is likely, try and bring as much blood and MP as possible into Phase Six.
 
 # Phase Six: Alpha Omega
 
@@ -141,7 +141,7 @@ Make sure you study up as much as possible for the last phase. While conceptuall
 
 ## Magic Number Dark Knight Tech
 
-Dark Knight has a trick during the end of the phase to use the required LB3s during Magic Number to gain a sizeable amount of potency. There's little reason not to do this, and it's fairly 'free'. In short, after expending your Dynamis-fuelled Limit Break 3 (and so, can safely die without losing the free LB buff), you can click off the tank LB3 (or use a macro to remove the buff) to intentionally die to Magic Number. You'll be ressurected by the ensuing healer Limit Break 3, restoring all of your MP. If you spend all of your MP before this, you can get two full refills.
+Dark Knight has a trick during the end of the phase to use the required LB3s during Magic Number to gain a sizable amount of potency. There's little reason not to do this, and it's fairly 'free'. In short, after expending your Dynamis-fuelled Limit Break 3 (and so, can safely die without losing the free LB buff), you can click off the tank LB3 (or use a macro to remove the buff) to intentionally die to Magic Number. You'll be resurrected by the ensuing healer Limit Break 3, restoring all of your MP. If you spend all of your MP before this, you can get two full refills.
 
 Due to this interaction, Dark Knight should usually LB3 the first Magic Number so that it can die twice, but make sure to communicate to your co-tank just in case.
 
