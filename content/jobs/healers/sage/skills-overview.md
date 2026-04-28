@@ -54,7 +54,7 @@ This is your main filler offensive GCD. When you have nothing higher priority to
 
 ![Eukrasian Dosis III](https://xivapi.com/i/003000/003682_hr1.png)
 
-Eukrasian Dosis is your damage over time skill. Like the other healers, it lasts 30 seconds. DoT (and HoT) effects in FFXIV operate on "server ticks," once every three seconds. On each of these ticks, DoTs and HoTs will apply their listed potency. Thus, the total potency of Eukrasian Dosis is 850 (10 ticks of 85 potency). Typically, it should be re-applied as closely as possibly to when it would expire. To keep 100% uptime, you need to factor in the one second needed to cast Eukrasia, but the debuff application itself is instant.
+Eukrasian Dosis is your damage over time skill. Like the other healers, it lasts 30 seconds. DoT (and HoT) effects in FFXIV operate on "server ticks," once every three seconds. On each of these ticks, DoTs and HoTs will apply their listed potency. Thus, the total potency of Eukrasian Dosis is 900 (10 ticks of 90 potency). Typically, it should be re-applied as closely as possibly to when it would expire. To keep 100% uptime, you need to factor in the one second needed to cast Eukrasia, but the debuff application itself is instant.
 
 ## Dyskrasia
 
@@ -66,7 +66,7 @@ Your spammable area-of-effect (AoE) cooldown. With 170 potency per target, compa
 
 ![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png)
 
-Phlegma is unique as it is the only healer offensive GCD that operates on a charge system while still being a DPS gain. It deals 600 damage to the main target and 255 on other targets within a five-yalm radius of the primary target. The range is only six yards, so you will need to be somewhat close to the target. It is your most powerful single-target *and* AoE ability.
+Phlegma is unique as it is the only healer offensive GCD that operates on a charge system while still being a DPS gain. It deals 690 damage to the main target and 345 on other targets within a five-yalm radius of the primary target. The range is only six yards, so you will need to be somewhat close to the target. It is your most powerful single-target *and* AoE ability.
 
 Due to having two charges, it does not have a strict alignment need like you would get out of other GCDs with a cooldown.
 The general priority for when to use Phlegma charges is:
