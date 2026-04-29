@@ -1,7 +1,7 @@
 ---
 title: Recent Changes
 layout: changes
-lastmod: 2025-12-27T01:35:43.920Z
+lastmod: 2026-04-29T07:13:41.487Z
 changes:
   - patch: "6.0"
     description: "[Click here to view the changes to SMN on the official site for
@@ -55,6 +55,14 @@ changes:
     description: "[Click here to view the changes to SMN on the official site for
       7.4!](https://na.finalfantasyxiv.com/lodestone/topics/detail/06944d892fd9\
       8cc00b2a28ff77edbafa4f7eef54)"
+  - patch: "7.41"
+    description: "[Click here to view the changes to SMN on the official site for
+      7.41!](https://na.finalfantasyxiv.com/lodestone/topics/detail/fa89e48b03a\
+      6bf6deac50a23fdfc39f7df64fb2a)"
+  - patch: "7.5"
+    description: "[Click here to view the changes to SMN on the official site for
+      7.5!](https://na.finalfantasyxiv.com/lodestone/topics/detail/07320affa7e0\
+      fcd9685afcbe54fbf55405b6d822/)"
 authors:
   - Balance-SMN-Staff
 ---
