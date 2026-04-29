@@ -1,7 +1,7 @@
 ---
 title: Recent Changes
 layout: changes
-lastmod: 2025-12-17T16:27:13.235Z
+lastmod: 2026-04-29T06:25:00.067Z
 changes:
   - patch: "7.0"
     description: Job added to the game with patch 7.0 -- Dawntrail. For a full
@@ -63,6 +63,18 @@ changes:
 
 
       Overall these adjustments equate to about an 8.4% nerf to two target DPS and a 7.9% nerf in 3+ target AoE DPS. Single target DPS remains unchanged.
+  - patch: "7.5"
+    description: >-
+      Vicewinder potency increased from 500 to 540.
+
+
+      Hunter's Coil and Swiftskin's Coil potency increased from 620 to 680 when fulfilling positional requirements. 
+
+
+      This results in roughly 1% dps increase in single target.
+
+
+      The Reawaken sequence had its falloff changed from 80% to 75% reduction in potency after the first target (5% more splash damage).
 authors:
   - balance-vpr-staff
 ---
