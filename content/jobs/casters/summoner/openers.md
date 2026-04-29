@@ -3,8 +3,8 @@ title: Openers
 authors:
   - elevation
   - Balance-SMN-Staff
-patch: "7.4"
-lastmod: 2025-12-27T01:12:15.458Z
+patch: "7.5"
+lastmod: 2026-04-29T06:56:02.528Z
 changelog:
   - date: 2021-11-29T21:13:18.048Z
     message: Created page
@@ -14,6 +14,8 @@ changelog:
     message: Updated with current openers
   - date: 2024-07-07T22:58:36.950Z
     message: Updated for Dawntrail
+  - date: 2026-04-29T06:56:58.296Z
+    message: Changed opener image
 ---
 ## Lv. 100 General Opener
 
