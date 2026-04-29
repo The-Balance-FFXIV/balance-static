@@ -1,7 +1,7 @@
 ---
 title: Recent Changes
 layout: changes
-lastmod: 2025-12-17T05:42:07.180Z
+lastmod: 2026-04-29T06:19:19.668Z
 changes:
   - patch: "6.0"
     description: Job added to game.
@@ -126,6 +126,12 @@ changes:
 
 
       Plentiful Harvest, Sacrificium, Communio, and Perfectio potency reduction after the first target changed from 40% less to 20% less. (20% more damage per target after the first compared to previous patch.)
+  - patch: "7.5"
+    description: >-
+      Gluttony potency increased from 520 to 560.
+
+
+      Void and Cross Reaping base potency increased from 560 to 580. Enhanced potency increased from 620 to 640.
 authors:
   - Balance-RPR-Staff
 ---
