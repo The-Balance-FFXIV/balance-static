@@ -1,8 +1,8 @@
 ---
 title: Frequent Questions
 layout: qna
-patch: "7.4"
-lastmod: 2025-12-27T01:33:30.848Z
+patch: "7.5"
+lastmod: 2026-04-29T06:58:21.959Z
 changelog:
   - date: 2021-11-28T01:53:18.458Z
     message: Created page
@@ -61,6 +61,26 @@ qna:
       2. Hold Festers/Necrotize whenever possible to place as many in buffs. If you can afford to delay Energy Drain without losing a use to place four Festers/Necrotizes in buffs, you should.
 
       3. **You should almost never delay your demi-summon for your team’s buffs.** It will require you to use extra Ruin IIIs, and each extra Ruin III is a significant potency loss. The cost of aligning your burst in buffs is higher than the potency you would gain by aligning with buffs. There is sometimes, very rarely, an argument to use one or two extra Ruin IIIs, at most. Any more than that quickly becomes mathematically impossible to gain enough potency from buffs to offset what you would lose.
+  - question: What summon should I use to maximize my damage in buffs?
+    answer: >-
+      This question ultimately comes down to whether or not the even minute buff
+      window is also a potion window, and then the length of the remaining buff
+      window after finishing your demi-summon.
+
+
+      **Potion Window**\
+
+      For potion windows, we want to be able to get a second primal summon under the effects of the potion. Because the three summons have different time lengths to execute, this desire means that we are generally looking at either Titan or Garuda first. Ifrit can be competitive with the other two, but it relies on factors outside of our control (party raid buff timings), and so isn't recommended. Between Titan and Garuda, **Titan allows us to do better damage**.
+
+
+      **Non-Potion Window**\
+
+      For non-potion windows, the dichotomy splits further into 2 GCD and 3 GCD timings. With the standardization of raid buff durations, we can generally see that Searing Light will have approximately 5 seconds left after completing the 15 second demi-summon and primal summon. This is an example of a 2 GCD window. There are classes like Dancer that provide their raid buff at a slightly later timing, indicating a 3 GCD window.
+
+
+      * 2 GCD Window: Emerald Rite → Ruin IV → Swiftcast → Slipstream
+
+      * 3 GCD Window: Crimson Cyclone → Crimson Strike → Swiftcast → Ruby Rite
 authors:
   - Balance-SMN-Staff
 ---
