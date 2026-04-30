@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - balance-vpr-staff
-patch: "7.4"
-lastmod: 2025-12-17T16:20:56.909Z
+patch: "7.5"
+lastmod: 2026-04-30T07:45:59.284Z
 changelog:
   - date: 2024-06-23T19:46:14.169Z
     message: Tentative Opener added.
@@ -15,10 +15,12 @@ changelog:
     message: Updated to Patch 7.3.
   - date: 2025-12-17T16:21:01.207Z
     message: Updated to Patch 7.4
+  - date: 2026-04-30T07:46:01.823Z
+    message: Opener adjustment with Patch 7.5
 ---
-![](/img/jobs/vpr/vpr7-05standardop.png)
+![](https://raw.githubusercontent.com/RhyTamok/XIVvpr/refs/heads/main/Opener/vpr_standard_opener.png)
 
-[Click here](https://www.thebalanceffxiv.com/img/jobs/vpr/vpr7-05standardop.png) for a larger image. 
+[Click here](https://raw.githubusercontent.com/RhyTamok/XIVvpr/refs/heads/main/Opener/vpr_standard_opener.png) for a larger image. 
 
 \
 This is our standard opener for Viper. For more information on what to do after the opener, please see the [Basic Guide](https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/) and [Intermediate Guide](https://www.thebalanceffxiv.com/jobs/melee/viper/intermediate-guide/). [](https://www.thebalanceffxiv.com/img/jobs/vpr/tentativeprereleaseopener.png)
