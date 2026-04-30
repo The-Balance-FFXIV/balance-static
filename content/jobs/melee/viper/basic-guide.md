@@ -3,8 +3,8 @@ title: Basic Guide
 card_header_image: /img/jobs/vpr/image_2024-11-10_193623139.png
 authors:
   - ToraelValdis
-patch: "7.4"
-lastmod: 2025-12-17T16:12:54.708Z
+patch: "7.5"
+lastmod: 2026-04-30T07:50:43.775Z
 changelog:
   - date: 2024-06-17T23:50:53.310Z
     message: Added guide to website
@@ -16,6 +16,8 @@ changelog:
     message: Bumped supported patch number to 7.3.
   - date: 2025-12-17T16:12:49.623Z
     message: Updated for Patch 7.4
+  - date: 2026-04-30T07:50:48.166Z
+    message: 7.5 opener revision
 ---
 # 1﻿. Introduction
 
@@ -173,9 +175,9 @@ I﻿t might be tricky to understand what button replaces what on this job, so pl
 
 ### S﻿tandard Opener
 
-![](/img/jobs/vpr/vpr7-05standardop.png)
+![](https://raw.githubusercontent.com/RhyTamok/XIVvpr/refs/heads/main/Opener/vpr_standard_opener.png)
 
-[Click here](https://www.thebalanceffxiv.com/img/jobs/vpr/vpr7-05standardop.png) for a full size image. 
+[Click here](https://raw.githubusercontent.com/RhyTamok/XIVvpr/refs/heads/main/Opener/vpr_standard_opener.png) for a full size image. 
 
 ## 7﻿.2 Always Be Casting
 
