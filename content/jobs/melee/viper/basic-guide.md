@@ -173,9 +173,9 @@ I﻿t might be tricky to understand what button replaces what on this job, so pl
 
 ### S﻿tandard Opener
 
-![](/img/jobs/vpr/vpr7-05standardop.png)
+![](https://raw.githubusercontent.com/RhyTamok/XIVvpr/refs/heads/main/Opener/vpr_standard_opener.png)
 
-[Click here](https://www.thebalanceffxiv.com/img/jobs/vpr/vpr7-05standardop.png) for a full size image. 
+[Click here](https://raw.githubusercontent.com/RhyTamok/XIVvpr/refs/heads/main/Opener/vpr_standard_opener.png) for a full size image. 
 
 ## 7﻿.2 Always Be Casting
 
