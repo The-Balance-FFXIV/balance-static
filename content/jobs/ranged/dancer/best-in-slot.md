@@ -26,15 +26,16 @@ changelog:
     message: Update all sets to 7.4
   - date: 2026-01-29T19:45:46.711Z
     message: Updated FRU bis link
+  - date: 2026-05-02T21:08:47.156Z
+    message: Updated Baseline for 7.5
 bis:
+  - type: xivgear
+    name: Current Baseline Set
+    link: https://xivgear.app/?page=embed|bis|dnc|baseline&onlySetIndex=0
+    description: Set without savage gear
   - type: xivgear
     name: 7.4 ilvl 790 BiS 2.5 GCD
     link: https://xivgear.app/?page=embed|bis|dnc|current&onlySetIndex=0
-  - type: xivgear
-    name: 7.4 ilvl 770 Baseline Set
-    link: https://xivgear.app/?page=embed|bis|dnc|baseline|770&onlySetIndex=0
-    description: Set for starting savage progression without any gear from weekly
-      capped tomestones or savage raids
   - type: xivgear
     name: 7.4 - FRU BiS Ultimate Weapon
     link: https://xivgear.app/?page=embed|bis|dnc|ultimate|fru&onlySetIndex=0
