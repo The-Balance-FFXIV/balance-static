@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Summoner on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/</link><description>Recent content in Summoner on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 29 Apr 2026 07:13:41 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/casters/summoner/index.xml" rel="self" type="application/rss+xml"/><item><title>Recent Changes</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/job-changes/</link><pubDate>Wed, 29 Apr 2026 07:13:41 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/job-changes/</guid><description/></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/faq/</link><pubDate>Wed, 29 Apr 2026 06:58:21 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/faq/</guid><description/></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/openers/</link><pubDate>Wed, 29 Apr 2026 06:56:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/openers/</guid><description>&lt;h2 id="lv-100-general-opener"&gt;Lv. 100 General Opener&lt;/h2&gt;
-&lt;p&gt;The below opener is the general go to opener for summoner and uses Titan as the first primal. Since the 6.1 changes, we can now use Searing Light in Bahamut, and choose to do so after the Bahamut GCD to avoid using a &amp;ldquo;dead&amp;rdquo; GCD in our buff. You can choose to omit the precast Ruin III and use Bahamut at 0s as well. This may be an optimization strategy for particular fight timelines or encounters where the gained one second on cycle progression may matter.&lt;/p&gt;</description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/skills-overview/</link><pubDate>Mon, 02 Feb 2026 11:41:45 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/skills-overview/</guid><description>&lt;h1 id="actions"&gt;Actions&lt;/h1&gt;
+&lt;p&gt;The below opener is the general go to opener for summoner and uses Titan as the first primal. Since the 6.1 changes, we can now use Searing Light in Bahamut, and choose to do so after the Bahamut GCD to avoid using a &amp;ldquo;dead&amp;rdquo; GCD in our buff. You can choose to omit the precast Ruin III and use Bahamut at 0s as well. This may be an optimization strategy for particular fight timelines or encounters where the gained one second on cycle progression may matter.&lt;/p&gt;</description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/casters/summoner/skills-overview/</link><pubDate>Wed, 29 Apr 2026 06:53:52 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/summoner/skills-overview/</guid><description>&lt;h1 id="actions"&gt;Actions&lt;/h1&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -141,7 +141,7 @@
  &lt;td&gt;Ability&lt;/td&gt;
  &lt;td&gt;Instant&lt;/td&gt;
  &lt;td&gt;1s&lt;/td&gt;
- &lt;td&gt;Deals unaspected damage with a potency of 150 to target and all enemies nearby it.&lt;br&gt;Aetherflow Gauge Cost: 1&lt;/td&gt;
+ &lt;td&gt;Deals unaspected damage with a potency of 220 to target and all enemies nearby it.&lt;br&gt;Aetherflow Gauge Cost: 1&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -310,7 +310,7 @@
  &lt;td&gt;Spell&lt;/td&gt;
  &lt;td&gt;Instant&lt;/td&gt;
  &lt;td&gt;1s&lt;/td&gt;
- &lt;td&gt;Deals unaspected damage with a potency of 460.&lt;br&gt;Aetherflow Gauge Cost: 1&lt;/td&gt;
+ &lt;td&gt;Deals unaspected damage with a potency of 500.&lt;br&gt;Aetherflow Gauge Cost: 1&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -469,7 +469,7 @@
  &lt;td&gt;Spell&lt;/td&gt;
  &lt;td&gt;2.8s&lt;/td&gt;
  &lt;td&gt;3s&lt;/td&gt;
- &lt;td&gt;Deals fire damage with a potency of 580.&lt;br&gt;Fire Attunement Cost: 1&lt;br&gt;&lt;br&gt;※This action cannot be assigned to a hotbar.&lt;/td&gt;
+ &lt;td&gt;Deals fire damage with a potency of 620.&lt;br&gt;Fire Attunement Cost: 1&lt;br&gt;&lt;br&gt;※This action cannot be assigned to a hotbar.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -677,7 +677,7 @@
  &lt;td&gt;Spell&lt;/td&gt;
  &lt;td&gt;Instant&lt;/td&gt;
  &lt;td&gt;2.5s&lt;/td&gt;
- &lt;td&gt;Rushes forward and delivers a fire attack to target and all enemies nearby it with a potency of 520 for the first enemy, and 60% less for all remaining enemies.&lt;br&gt;Can only be executed while under the effect of Ifrit&amp;rsquo;s Favor.&lt;br&gt;Cannot be executed while bound.&lt;br&gt;&lt;br&gt;※Action changes to Crimson Strike upon execution.&lt;br&gt;※This action cannot be assigned to a hotbar.&lt;/td&gt;
+ &lt;td&gt;Rushes forward and delivers a fire attack to target and all enemies nearby it with a potency of 560 for the first enemy, and 60% less for all remaining enemies.&lt;br&gt;Can only be executed while under the effect of Ifrit&amp;rsquo;s Favor.&lt;br&gt;Cannot be executed while bound.&lt;br&gt;&lt;br&gt;※Action changes to Crimson Strike upon execution.&lt;br&gt;※This action cannot be assigned to a hotbar.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
@@ -685,12 +685,12 @@
  &lt;img src="https://img.finalfantasyxiv.com/lds/d/a63bb4e29d20c938e1b68ea0dc0ab64c3a8a9fdf.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
- &lt;td&gt;Crismon Strike&lt;/td&gt;
+ &lt;td&gt;Crimson Strike&lt;/td&gt;
  &lt;td&gt;86&lt;/td&gt;
  &lt;td&gt;Spell&lt;/td&gt;
  &lt;td&gt;Instant&lt;/td&gt;
  &lt;td&gt;2.5s&lt;/td&gt;
- &lt;td&gt;Deals fire damage to target and all enemies nearby it with a potency of 520 for the first enemy, and 60% less for all remaining enemies.&lt;br&gt;&lt;br&gt;※This action cannot be assigned to a hotbar.&lt;br&gt;※Crimson Cyclone changes to Crimson Strike when requirements for execution are met.&lt;/td&gt;
+ &lt;td&gt;Deals fire damage to target and all enemies nearby it with a potency of 560 for the first enemy, and 60% less for all remaining enemies.&lt;br&gt;&lt;br&gt;※This action cannot be assigned to a hotbar.&lt;br&gt;※Crimson Cyclone changes to Crimson Strike when requirements for execution are met.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
