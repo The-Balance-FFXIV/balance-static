@@ -26,45 +26,46 @@ This guide contains information on how to plan and use your cooldowns to gain th
 
 - - -
 
-### Gearing - 2.09 v 2.10 v 2.12
+<!--StartFragment-->
 
-Patch 7.3 brought new 735 item level dungeon gear that forces a 2.09 GCD speed from the Chest piece. These pieces have more Dexterity than previous gear and therefore provide more damage. 2.09 and 2.10 perform the same rotation, while 2.12 performs a completely different and more difficult rotation.   
+## Gearing - 2.09 v 2.10 v 2.12
 
-\
-2.09 and 2.10 offer the most flexibility and are the easiest speeds to perform well on. There are several sections in the fight that contain filler GCDs that offer a bit more breathing room and leniency when it comes to rotation performance. We recommend this set to those progging the fight in Party Finder, those who are newer to Viper and/or Ultimates, and for those who do not plan on progging the fight on NIN as the gear sets are incompatible.
+Patch 7.5 brought new gear and food, and it did end up changing our BiS sets. There are still options for 2.09, 2.10, and 2.12. 
 
-
-
-2.12 offers slightly more average damage from the extra damaging substat tiers, but is much more strict in its rotation with less room for error. We recommend this set for experienced Vipers.
+ \
+2.09 and 2.10 offer the most flexibility and are the easiest speeds to perform well on. There are several sections in the fight that contain filler GCDs that offer a bit more breathing room and leniency when it comes to rotation performance. We recommend this set to those progging the fight in Party Finder, and for those who are newer to Viper and/or Ultimates.
 
 
+
+2.12 offers slightly more average damage from the extra damaging substat tiers, but is much more strict in its rotation with less room for error and requires specific phase kill times to be effective.
+
+
+
+- - -
 
 ### Links
 
-Choose a gearset that suits your preference and what pieces you’re willing to farm. 
+Choose a gearset that suits your preferred GCD speed and what pieces you’re willing to farm. 
 
 
 
-If you do not wish to farm dungeon gear, the 7.25 Gearset link will have previous patches’ gearsets. Do note that these sets will on average do less damage and have less HP than the new 7.3 Best in Slot sets. 
+If you do not wish to farm dungeon gear, the (Old) FRU Legacy Gearsets link will have the original Dark Horse + CAR gearsets. Do note that these sets will on average do less damage and have less HP than the new 7.5 Best in Slot sets, but you can still clear the fight with them.
 
 
 
 You can find each different set in the master link below:
 
-[7.3 FRU Master Gearset Link](https://xivgear.app/?page=sl%7C0467b8c4-5a7d-4c00-99fb-4e17907ea964)*\
-[7.25 FRU Master Gearset Link](https://xivgear.app/?page=sl%7Cab821e3e-64bc-4045-912b-2a1c27cfefb8)
-
-
-
-\*If you do not have the Occult Crescent Relic or FRU weapon, use the Savage Dark Horse weapon from M4S and copy your desired speed’s FRU weapon set. Meld it with:
-
-* 2.09 | 1 x DET , 1 x DH
-* 2.10 / 2.12 | 2 x DET
+[FRU Master Gearset Link](https://xivgear.app/?page=bis%7Cvpr%7Cultimate%7Cfru) (Recommended)\
+[(Old) FRU Legacy Gearsets](https://xivgear.app/?page=sl%7Cab821e3e-64bc-4045-912b-2a1c27cfefb8)
 
 **\
 Note: 2.09/2.10 will remain the most comfy + consistent GCD speed, while 2.12 gains a bit more average damage while being much harder to pull off correctly.**
 
+<!--EndFragment-->
 
+
+
+- - -
 
 ## Limit Break Priority
 
@@ -77,6 +78,10 @@ Phase 3 Priority: DRG ≥ NIN > MNK > SAM > VPR > RPR
 Phase 5 Priority: MNK > DRG > NIN > SAM > VPR > RPR
 
 Note: If a melee has Weakness, Brink of Death, or Damage Down, they automatically become the highest priority regardless of what job they’re playing. If your group’s prog point is not yet at the enrage of Phase 3 (Memory’s End), consider holding LB3 for a potential run-saving Healer LB3 instead to see more of the phase.
+
+
+
+- - -
 
 ## Nomenclature
 
@@ -606,14 +611,14 @@ This exact sequence assumes that a pot wasn’t used in Phase 1, and is not need
 
 **Mirror Mirror Active Phase DPS (~57 seconds)**
 
-\| # of buffs | Normal 3RA | Normal 3RA Pot | Triple Reawaken Pot |
-|------------|------------|----------------|---------------------|
-| 0          | 35447.38   | 36971.57       | **37320.91**        |
-| 1          | 36201.43   | 37785.19       | **37918.42**        |
-| 2          | 37145.14   | **38803.07**   | **38728.20**        |
-| 3          | 37978.69   | **39702.66**   | 39443.7             |
-| 4          | 38893.77   | **40690.01**   | 40229.26            |
-| 5          | 39795.18   | **41669.24**   | 41037.26            |
+| \| # of buffs | Normal 3RA | Normal 3RA Pot | Triple Reawaken Pot |
+| ------------- | ---------- | -------------- | ------------------- |
+| 0             | 35447.38   | 36971.57       | **37320.91**        |
+| 1             | 36201.43   | 37785.19       | **37918.42**        |
+| 2             | 37145.14   | **38803.07**   | **38728.20**        |
+| 3             | 37978.69   | **39702.66**   | 39443.7             |
+| 4             | 38893.77   | **40690.01**   | 40229.26            |
+| 5             | 39795.18   | **41669.24**   | 41037.26            |
 
 The data above concludes that this pot window is an overall gain in party comps with two or less party buffs. While slightly lower dps, the data from 2 buffs is close enough to fall within crit variance.
 
@@ -627,11 +632,11 @@ For this to work, the Phase 1 kill time must be held close to enrage. Killing ev
 
 Referencing the standard Option 1 medicated potency windows, we can see that - if done properly - doing this would lead to a 3,110 pot potency gain for the first 2 windows.
 
-\|                                  | Standard Option 1 Potency | Pre-Pot Option 1 Potency |
-|----------------------------------|---------------------------|--------------------------|
-| Phase 1 (Opener)                 | 12,120                    | 9,180                    |
-| Phase 2 (Intermission | Mirror) | 10,420                    | 16,470                   |
-| Total                            | 22,540                    | **25,650**               |
+| \|                    | Standard Option 1 Potency | Pre-Pot Option 1 Potency |        |
+| --------------------- | ------------------------- | ------------------------ | ------ |
+| Phase 1 (Opener)      | 12,120                    | 9,180                    |        |
+| Phase 2 (Intermission | Mirror)                   | 10,420                   | 16,470 |
+| Total                 | 22,540                    | **25,650**               |        |
 
 Again - if your group is killing Phase 1 too fast, this Triple will not work.
 
