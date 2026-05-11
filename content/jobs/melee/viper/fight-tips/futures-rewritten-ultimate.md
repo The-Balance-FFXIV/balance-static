@@ -3,8 +3,8 @@ title: Futures Rewritten (Ultimate) Viper Fight Guide
 card_header_image: /img/fruguide-thumbnail.png
 authors:
   - verra
-patch: "7.35"
-lastmod: 2025-10-19T18:04:49.703Z
+patch: "7.5"
+lastmod: 2026-05-11T23:39:06.561Z
 changelog:
   - date: 2025-02-24T06:17:28.033Z
     message: "Guide added to website. "
@@ -17,6 +17,8 @@ changelog:
   - date: 2025-10-19T18:04:54.301Z
     message: Rehosted images locally, added 7.35 gearing changes, and fixed markdown
       table format.
+  - date: 2026-05-11T23:38:33.731Z
+    message: "Updated BiS sets for 7.4 food. "
 ---
 # Introduction
 
@@ -26,20 +28,14 @@ This guide contains information on how to plan and use your cooldowns to gain th
 
 - - -
 
-<!--StartFragment-->
-
 ## Gearing - 2.09 v 2.10 v 2.12
 
-Patch 7.5 brought new gear and food, and it did end up changing our BiS sets. There are still options for 2.09, 2.10, and 2.12. 
+Patch 7.4 brought new gear and food, and it did end up changing our BiS sets. There are still options for 2.09, 2.10, and 2.12. 
 
  \
 2.09 and 2.10 offer the most flexibility and are the easiest speeds to perform well on. There are several sections in the fight that contain filler GCDs that offer a bit more breathing room and leniency when it comes to rotation performance. We recommend this set to those progging the fight in Party Finder, and for those who are newer to Viper and/or Ultimates.
 
-
-
 2.12 offers slightly more average damage from the extra damaging substat tiers, but is much more strict in its rotation with less room for error and requires specific phase kill times to be effective.
-
-
 
 - - -
 
@@ -47,11 +43,7 @@ Patch 7.5 brought new gear and food, and it did end up changing our BiS sets. Th
 
 Choose a gearset that suits your preferred GCD speed and what pieces you’re willing to farm. 
 
-
-
 If you do not wish to farm dungeon gear, the (Old) FRU Legacy Gearsets link will have the original Dark Horse + CAR gearsets. Do note that these sets will on average do less damage and have less HP than the new 7.5 Best in Slot sets, but you can still clear the fight with them.
-
-
 
 You can find each different set in the master link below:
 
@@ -60,10 +52,6 @@ You can find each different set in the master link below:
 
 **\
 Note: 2.09/2.10 will remain the most comfy + consistent GCD speed, while 2.12 gains a bit more average damage while being much harder to pull off correctly.**
-
-<!--EndFragment-->
-
-
 
 - - -
 
@@ -78,8 +66,6 @@ Phase 3 Priority: DRG ≥ NIN > MNK > SAM > VPR > RPR
 Phase 5 Priority: MNK > DRG > NIN > SAM > VPR > RPR
 
 Note: If a melee has Weakness, Brink of Death, or Damage Down, they automatically become the highest priority regardless of what job they’re playing. If your group’s prog point is not yet at the enrage of Phase 3 (Memory’s End), consider holding LB3 for a potential run-saving Healer LB3 instead to see more of the phase.
-
-
 
 - - -
 
