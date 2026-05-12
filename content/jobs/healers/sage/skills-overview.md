@@ -94,6 +94,12 @@ Toxikon is an instant cast 380 potency single target GCD. This makes it a damage
 
 In order to use this, you will need to use Eukrasian Diagnosis, which unfortunately is a GCD heal. However, you start the instance with three charges. Apart from the three freebies, it is best charged during downtime so that it remains DPS-neutral.
 
+## Psyche
+
+![Psyche](/img/jobs/sge/psyche-ffxiv.png)
+
+Psyche is an oGCD on a 60 second cooldown. It can be used during Sage's burst and will function as significant damage during both the Sage's 1m and 2m. Like Phlegma, Psyche is 690p with a 50% AoE falloff. Though this does damage comparable to Phlegma, it is critical to note that it has a significant application delay, and players should do their best to align Psyche so that it can be used before the final GCD of a kill in order to ensure enough time for application.
+
 # Addersgall Heals
 
 The heals in this section have a few things in common:
@@ -245,8 +251,6 @@ Like Taurochole, it is ideal if you can make full use out of every aspect (heali
 Philosophia grants a raidwide regenerative buff called Eudaimonia that heals players for 150p for each spell that the Sage casts and buffs GCD heals by 20% for 20s. This is a button that is exceptionally useful in a number of ways, and is on a 3m cooldown as a result.
 
 Combined with Eukrasian Prognosis and Zoe, Philosophia can output a significant shield and heal and function as a Holos that costs a GCD heal. If you choose to not mix it with a GCD shield, this still serves as a free regen that heals the party as you do damage similar to a raidwide Kardia.
-
-
 
 # GCD Heals
 
