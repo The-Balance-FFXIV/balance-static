@@ -54,7 +54,7 @@ This is your main filler offensive GCD. When you have nothing higher priority to
 
 ![Eukrasian Dosis III](https://xivapi.com/i/003000/003682_hr1.png)
 
-Eukrasian Dosis is your damage over time skill. Like the other healers, it lasts 30 seconds. DoT (and HoT) effects in FFXIV operate on "server ticks," once every three seconds. On each of these ticks, DoTs and HoTs will apply their listed potency. Thus, the total potency of Eukrasian Dosis is 850 (10 ticks of 85 potency). Typically, it should be re-applied as closely as possibly to when it would expire. To keep 100% uptime, you need to factor in the one second needed to cast Eukrasia, but the debuff application itself is instant.
+Eukrasian Dosis is your damage over time skill. Like the other healers, it lasts 30 seconds. DoT (and HoT) effects in FFXIV operate on "server ticks," once every three seconds. On each of these ticks, DoTs and HoTs will apply their listed potency. Thus, the total potency of Eukrasian Dosis is 900 (10 ticks of 90 potency). Typically, it should be re-applied as closely as possibly to when it would expire. To keep 100% uptime, you need to factor in the one second needed to cast Eukrasia, but the debuff application itself is instant.
 
 ## Dyskrasia
 
@@ -66,7 +66,7 @@ Your spammable area-of-effect (AoE) cooldown. With 170 potency per target, compa
 
 ![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png)
 
-Phlegma is unique as it is the only healer offensive GCD that operates on a charge system while still being a DPS gain. It deals 600 damage to the main target and 255 on other targets within a five-yalm radius of the primary target. The range is only six yards, so you will need to be somewhat close to the target. It is your most powerful single-target *and* AoE ability.
+Phlegma is unique as it is the only healer offensive GCD that operates on a charge system while still being a DPS gain. It deals 690 damage to the main target and 345 on other targets within a five-yalm radius of the primary target. The range is only six yards, so you will need to be somewhat close to the target. It is your most powerful single-target *and* AoE ability.
 
 Due to having two charges, it does not have a strict alignment need like you would get out of other GCDs with a cooldown.
 The general priority for when to use Phlegma charges is:
@@ -93,6 +93,12 @@ Due to it being an AoE, it is also useful for dungeons and situations such as P3
 Toxikon is an instant cast 380 potency single target GCD. This makes it a damage neutral movement tool for single target encounters. However, it consumes Addersting charges (which are gained from your Eukrasian Diagnosis shield being consumed fully), meaning you will need to plan out your uses. For AoE scenarios, it behaves similarly to Dyskrasia, but has different scaling, giving it more overall damage in all practical scenarios.
 
 In order to use this, you will need to use Eukrasian Diagnosis, which unfortunately is a GCD heal. However, you start the instance with three charges. Apart from the three freebies, it is best charged during downtime so that it remains DPS-neutral.
+
+## Psyche
+
+![Psyche](/img/jobs/sge/psyche-ffxiv.png)
+
+Psyche is an oGCD on a 60 second cooldown. It can be used during Sage's burst and will function as significant damage during both the Sage's 1m and 2m. Like Phlegma, Psyche is 690p with a 50% AoE falloff. Though this does damage comparable to Phlegma, it is critical to note that it has a significant application delay, and players should do their best to align Psyche so that it can be used before the final GCD of a kill in order to ensure enough time for application.
 
 # Addersgall Heals
 
@@ -245,8 +251,6 @@ Like Taurochole, it is ideal if you can make full use out of every aspect (heali
 Philosophia grants a raidwide regenerative buff called Eudaimonia that heals players for 150p for each spell that the Sage casts and buffs GCD heals by 20% for 20s. This is a button that is exceptionally useful in a number of ways, and is on a 3m cooldown as a result.
 
 Combined with Eukrasian Prognosis and Zoe, Philosophia can output a significant shield and heal and function as a Holos that costs a GCD heal. If you choose to not mix it with a GCD shield, this still serves as a free regen that heals the party as you do damage similar to a raidwide Kardia.
-
-
 
 # GCD Heals
 
