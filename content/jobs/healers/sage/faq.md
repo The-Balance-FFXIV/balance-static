@@ -24,11 +24,10 @@ qna:
       time. You can only single weave after the second spell.
   - question: Do shields stack?
     answer: >-
-      The image below shows conflicting shields and which shields win out,
-      anything not listed will stack. (Thanks to Meru for the image.)
+      ![](/img/jobs/sge/shields_between_sage_and_scholar.jpg)
 
 
-      ![](https://cdn.discordapp.com/attachments/756684559831269426/942157543432667146/shields_between_sage_and_scholar.jpg)
+      The image below shows conflicting shields and which shields win out, anything not listed will stack.
   - question: How do I fit Phlegma into 2-minute buffs?
     answer: "\rNow that the cooldown has been reduced from 45 seconds to 40 seconds
       in patch 6.3, fitting Phlegma into buffs is easy. Every two minutes,
