@@ -2,8 +2,8 @@
 title: Advanced Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
-  - ellunavi
-patch:
+  - Balance-RPR-Staff
+patch: null
 lastmod: 2024-07-04T02:44:58.224Z
 changelog:
   - date: 2021-11-27T12:55:28.038Z
@@ -44,4 +44,6 @@ tags:
   - advanced
   - guide
 ---
-## This guide will be updated for Dawntrail at a later date.
+## This tab is no longer being used. 
+
+The [Intermediate Guide](https://www.thebalanceffxiv.com/jobs/melee/reaper/intermediate-guide/) is the new home of all the information that was contained in the Endwalker Advanced Guide, updated for Dawntrail.
