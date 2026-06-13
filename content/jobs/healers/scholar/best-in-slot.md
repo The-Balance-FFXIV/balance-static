@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.4"
-lastmod: 2026-01-23T18:08:48.106Z
+patch: "7.51"
+lastmod: 2026-06-11T19:25:47.434Z
 changelog:
   - date: 2025-12-26T07:17:11.607Z
     message: updated for 7.4
@@ -76,12 +76,6 @@ bis:
   - type: xivgear
     name: 2.31 max damage
     link: https://xivgear.app/?page=embed|sl|3aeed012-438c-4559-9d47-ac407c29e6cf
-  - type: xivgear
-    link: https://xivgear.app/?page=embed|sl|462ebffd-409a-400c-ab40-3ac6c78cf9ad
-    name: 2.40 max ilvl
-  - type: xivgear
-    name: 2.31 max ilvl
-    link: https://xivgear.app/?page=embed|sl|0ee246c7-6b97-49bf-abe0-3242c9a93ca4
   - type: plain-text
     name: Ultimate/criterion sets below
   - type: genericlink
@@ -91,6 +85,20 @@ bis:
       FRU sets are based on gear available, this includes FRU weapon and Chaotic
       Alliance raid gear. Outside of that sets are separated by speed, i
       personally suggest just picking whatever you enjoy or the highest sim dps.
+  - type: plain-text
+    name: DMU information
+    description: Given the relatively lax DPS checks and higher healing demand from
+      P3 onwards it is a benefit to just run higher piety.
+  - type: xivgear
+    name: DMU Low-piety 2.40
+    link: https://xivgear.app/?page=embed|sl|2d63d8a2-a7e9-455c-a6e3-7fde1f1614f7
+  - type: xivgear
+    link: https://xivgear.app/?page=embed|sl|a0afdf21-1e9e-4636-87b1-b77a6a1fb10c
+    name: DMU high-piety 2.40
+    description: ""
+  - type: etro
+    name: DMU high-piety 2.50
+    link: https://xivgear.app/?page=embed|sl|443b3bf0-229b-4279-9719-34aeb1f43948
 authors:
   - Balance-SCH-Staff
 tags:
