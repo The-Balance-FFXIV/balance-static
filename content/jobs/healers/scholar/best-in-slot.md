@@ -97,8 +97,8 @@ bis:
     name: DMU high-piety 2.40
     description: ""
   - type: etro
-    name: DMU 2.31
-    link: https://xivgear.app/?page=embed|sl|7ce9efad-13c8-4e9a-949c-52e76ba33712
+    name: DMU high-piety 2.50
+    link: https://xivgear.app/?page=embed|sl|443b3bf0-229b-4279-9719-34aeb1f43948
 authors:
   - Balance-SCH-Staff
 tags:
