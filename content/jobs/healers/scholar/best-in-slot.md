@@ -1,7 +1,7 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.45"
+patch: "7.51"
 lastmod: 2026-06-11T19:25:47.434Z
 changelog:
   - date: 2025-12-26T07:17:11.607Z
