@@ -2,10 +2,10 @@
 title: Best in Slot (BiS)
 layout: bis
 patch: "7.51"
-lastmod: 2026-06-11T19:25:47.434Z
+lastmod: 2026-06-25T03:38:59.135Z
 changelog:
-  - date: 2025-12-26T07:17:11.607Z
-    message: updated for 7.4
+  - date: 2026-06-25T03:39:00.416Z
+    message: updated for DMU
 bis:
   - type: plain-text
     name: General Information
@@ -93,10 +93,13 @@ bis:
     name: DMU Low-piety 2.40
     link: https://xivgear.app/?page=embed|sl|2d63d8a2-a7e9-455c-a6e3-7fde1f1614f7
   - type: xivgear
+    name: DMU mid-piety 2.40
+    link: https://xivgear.app/?page=embed|sl|7a4eba39-1cbc-41e7-acb4-d190a6848d50
+  - type: xivgear
     link: https://xivgear.app/?page=embed|sl|a0afdf21-1e9e-4636-87b1-b77a6a1fb10c
     name: DMU high-piety 2.40
     description: ""
-  - type: etro
+  - type: xivgear
     name: DMU high-piety 2.50
     link: https://xivgear.app/?page=embed|sl|443b3bf0-229b-4279-9719-34aeb1f43948
 authors:
