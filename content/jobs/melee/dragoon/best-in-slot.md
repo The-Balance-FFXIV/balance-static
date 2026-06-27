@@ -41,7 +41,7 @@ bis:
     name: Savage BiS - 2.50 GCD
   - type: xivgear
     name: DMU Weapon
-    link: https://xivgear.app/?page=sl|0aa57a17-dd21-421a-91f8-4c684897c6ad
+    link: https://xivgear.app/?page=embed|sl|c726650d-299e-4849-b129-3ee9af7c2bb0
     description: ~92 dps gain over savage weapon
   - type: plain-text
     name: Prog BiS
