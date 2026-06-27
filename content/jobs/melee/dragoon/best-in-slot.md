@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.4"
-lastmod: 2025-12-17T18:20:01.328Z
+patch: "7.5"
+lastmod: 2026-06-27T20:18:04.143Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
@@ -29,6 +29,8 @@ changelog:
     message: Added new sets for 7.2, removed old sets
   - date: 2025-12-17T18:20:02.385Z
     message: Updated with static links for 7.4 sets and FRU
+  - date: 2026-06-27T20:20:17.279Z
+    message: Bumped to 7.5 and added DMU weapon set
 bis:
   - type: xivgear
     description: |-
@@ -37,6 +39,10 @@ bis:
       Not directly compatible with MNK.
     link: https://xivgear.app/?page=embed|bis|drg|current&onlySetIndex=0
     name: Savage BiS - 2.50 GCD
+  - type: xivgear
+    name: DMU Weapon
+    link: https://xivgear.app/?page=sl|0aa57a17-dd21-421a-91f8-4c684897c6ad
+    description: ~92 dps gain over savage weapon
   - type: plain-text
     name: Prog BiS
     link: ""
