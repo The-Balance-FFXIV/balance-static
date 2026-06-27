@@ -3,8 +3,8 @@ title: Leveling Guide
 card_header_image: /img/jobs/drg/leveling.png
 authors:
   - Balance-DRG-Staff
-patch: "7.4"
-lastmod: 2026-01-02T07:17:11.320Z
+patch: "7.5"
+lastmod: 2026-06-27T16:17:08.425Z
 changelog:
   - date: 2021-10-29T02:48:36.195Z
     message: Created page
