@@ -3,8 +3,8 @@ title: Basic Guide
 card_header_image: /img/jobs/drg/basic.png
 authors:
   - Balance-DRG-Staff
-patch: "7.4"
-lastmod: 2026-01-02T07:18:51.795Z
+patch: "7.5"
+lastmod: 2026-06-27T16:19:57.542Z
 changelog:
   - date: 2021-10-29T02:49:11.086Z
     message: Created page
@@ -28,6 +28,8 @@ changelog:
     message: Bump to 7.2
   - date: 2026-01-02T07:18:53.085Z
     message: No changes, bumped patch to 7.4
+  - date: 2026-06-27T16:20:05.887Z
+    message: Bumped patch to 7.5
 ---
 # Saving The Dragoon
 
