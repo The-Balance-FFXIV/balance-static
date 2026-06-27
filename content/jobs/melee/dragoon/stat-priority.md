@@ -1,7 +1,7 @@
 ---
 title: Stat Priority
-patch: "7.4"
-lastmod: 2025-03-30T10:23:44.304Z
+patch: "7.5"
+lastmod: 2026-06-27T20:25:51.348Z
 changelog:
   - date: 2021-10-29T03:03:46.414Z
     message: Created page
@@ -17,6 +17,8 @@ changelog:
     message: Bump to 7.2
   - date: 2026-01-02T07:21:40.130Z
     message: No changes, bumped patch to 7.4
+  - date: 2026-06-27T20:25:52.778Z
+    message: Bumped patch to 7.5
 priority: Item Level > Critical Hit > Determination >= Direct Hit >>>>> Skill Speed
 authors:
   - Balance-DRG-Staff
