@@ -1,7 +1,7 @@
 ---
 layout: qna
-patch: "7.4"
-lastmod: 2026-01-02T07:20:33.691Z
+patch: "7.5"
+lastmod: 2026-06-27T20:14:34.416Z
 qna:
   - question: How much skill speed is required to play Dragoon?
     answer: Due to the amount of our damage that is tied to oGCDs with cooldowns
