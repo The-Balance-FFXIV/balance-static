@@ -26,6 +26,8 @@ changelog:
     message: Added rotation infographic.
 tags: []
 ---
+![](/img/jobs/drk/saltedearthtargeting.png)
+
 # Introduction
 
 Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawntrail. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in **The Blackest Night** (**TBN**).
