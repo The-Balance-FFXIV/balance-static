@@ -83,7 +83,9 @@ One other notable situation where application delay is relevant is during period
 
 Some players refer to using an ability and not having it applied to the boss due to the boss disappearing as having that ability be 'ghosted'. To prevent this 'ghosting', you should be conscious about how you plan a rotation for fights with this kind of downtime, and especially wary not to use high application delay abilities (most notably **Bloodspiller**, **Carve and Spit**, and **Disesteem**) before bosses disappear or phases end.
 
-# Salted Earth and Buff Windows
+# Salted Earth and its Intricacies
+
+## Salted Earth and Buff Windows
 
 **Salted Earth** is unusual in that it has a 90 second cooldown, unlike most other damaging cooldowns in the game, and so it does not always line up with buff windows, which generally happen every 120 seconds.
 Regardless, it is usually best to use **Salted Earth** off cooldown rather than to save it for buffs, since more uses of any ability will almost always be better than fewer uses in buff windows.
@@ -105,6 +107,25 @@ Both of these shifts have the same effect on the number of **Salted Earth** in b
 Because it is a ground effect ability, **Salted Earth** also gains a free tick on all targets in range immediately when cast, giving it 300 total potential potency (which is slightly increased by the skill speed DoT scalar).
 
 **Salt and Darkness**, **Salted Earth**'s follow-up ability, snapshots buffs independently of **Salted Earth**, and snapshots both buffs on the player and damage modifying debuffs when it is used, separately from **Salted Earth**.
+
+## How Does Salt and Darkness Select Its 'First Target'?
+
+**Salt and Darkness** reads:
+
+> All enemies standing in the corrupted patch of **Salted Earth** take additional unaspected damage with a potency of 500 for the first enemy, and 25% less for all remaining enemies. 
+
+But how does the game determine which is the 'first enemy', for example, if two enemies are within **Salted Earth**?
+
+The game selects the enemy which has the least **signed** distance from their hitbox ring as the primary target, taking the center of **Salted Earth** as the distance to compare to.
+
+When the **Salted Earth**'s center is outside the hitbox of both enemies this works intuitively: whichever boss's hitbox ring is closer to you is the primary target. However, if **Salted Earth** is, for example, 5y inside one enemy's hitbox ring and 3y inside anothers's, the game selects the first enemy as the primary target because -5y is "less yalms" than -3y.
+
+This sounds pretty confusing, so let's add an image to illustrate. This gives an example based on Dancing Mad (Ultimate)'s phase three, which has two bosses of differing sizes, where at some points, you can only deal damage to one of the bosses.
+
+[TODO]
+
+Ultimately, this doesn't matter all *that* much for Dark Knight, since **Salt and Darkness**'s falloff is just 25%, so even if the first target is an invulnerable enemy you only lose 125 potency's worth of damage, but it can still be good to know.
+
 
 # Opener Variations
 
