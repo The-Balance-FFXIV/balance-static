@@ -51,13 +51,13 @@ Goals for Dark Knight openers include:
 
 </br>
 
-The potion used is whatever the current tier's Strength potion is (as of the time of writing, it is the Grade 3 Gemdraught of Strength HQ).
+The potion used is whatever the current tier's Strength potion is (as of the time of writing, it is the Grade 4 Gemdraught of Strength HQ).
 
 **Unmend** is used to delay the opener slightly to account for raid buff application time, as well as to start our GCD rolling as early as possible. Use it whether or not you are pulling.
 
 ### Optional Modifications
 
-* If the prepull TBN will not break, it can be left out for a small MP loss, delaying the last **Edge of Shadow** slightly. Use it as soon as you can without clipping your GCD.
+* If the prepull **TBN** will not break, it can be left out for a small MP loss, delaying the last **Edge of Shadow** slightly. Use it as soon as you can without clipping your GCD.
 * **Shadowstride** can be used to pull instead of **Unmend**, and pulling with **Hard Slash** is also viable if the boss starts in melee range, but each of these options requires adding an extra **Hard Slash** before **Disesteem** to ensure that the burst fits into late-applied buffs. However, if you are the pulling tank, this can make positioning harder. There is more detail on this opener and its benefits and potential drawbacks in [a section in the advanced guide](/jobs/tanks/dark-knight/advanced-guide/#opening-with-shadowstride), and we'd recommend only using this opener if you're aware of the trade-offs.
 * If you cannot fit the **Edge of Shadow** before **Hard Slash** without clipping due to, for example, the boss being far away, move it to after **Hard Slash**. I.e., **Unmend** -> Potion -> **Hard Slash** -> **Edge of Shadow** -> **Living Shadow**.
 
