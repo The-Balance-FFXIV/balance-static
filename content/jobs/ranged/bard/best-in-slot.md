@@ -29,21 +29,25 @@ changelog:
     message: Updated FRU set with 7.3 dungeon gear
 bis:
   - type: xivgear
-    name: i790 Best-in-Slot
-    link: https://xivgear.app/?page=embed|sl|e2c1efce-33f8-4cfe-9db2-bd389aa921bb
-    description: You can swap the Skill Speed materia for a Direct Hit if you want
-      to play at 2.50. Similarly, swap a second Direct Hit for a Skill Speed if
-      you'd like to run 2.48.
-  - type: xivgear
-    name: Heavyweight (Savage) prog set - 1575 tomes
-    link: https://xivgear.app/?page=embed|sl|0aaed8b0-b3cc-49a1-ac4f-cb79a95a938c
+    name: i790 Best-in-Slot w/Relic Bow
+    link: https://xivgear.app/?page=embed|sl|539507c3-cc13-42fa-ab13-2bae77c948c4
     description: >-
-      You can find some additional niche sets in the full xivgear sheet here -
-      https://xivgear.app/?page=sl%7Ce7315100-1b7d-47ba-8158-14b26321d2d6\
+      If you want to play at 2.50 (or fit the DNC/MCH sets), swap the SkS for a
+      DH. \
 
       \
 
-      If getting some crafted pieces in the interim that will be replaced by tomes by savage launch, just meld them default Crit > Det > DH priority.
+      For 2.48, you can make your relic bow 108 SkS instead of DH, and then also put DH in the gloves instead of SkS
+  - type: xivgear
+    name: i790 Best-in-Slot
+    link: https://xivgear.app/?page=embed|sl|e2c1efce-33f8-4cfe-9db2-bd389aa921bb
+    description: >-
+      If you have the DMU bow, put the SkS in that instead of the gloves (put a
+      DH in the gloves instead)\
+
+      \
+
+      Either way, you can swap the Skill Speed materia for a Direct Hit if you want to play at 2.50. Similarly, swap a second Direct Hit for a Skill Speed if you'd like to run 2.48.
   - type: xivgear
     name: Futures Rewritten Best-in-Slot (2.49)
     link: https://xivgear.app/?page=embed%7Csl%7C3ad7746a-b612-4b34-9d24-a0f8ae20c857
