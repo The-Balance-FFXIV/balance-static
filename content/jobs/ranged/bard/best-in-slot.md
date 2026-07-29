@@ -27,6 +27,8 @@ changelog:
       recast (etro link had already been changed)
   - date: 2025-08-06T04:21:27.655Z
     message: Updated FRU set with 7.3 dungeon gear
+  - date: 2026-07-29T03:19:16.511Z
+    message: Relic bow BiS update
 bis:
   - type: xivgear
     name: i790 Best-in-Slot w/Relic Bow
