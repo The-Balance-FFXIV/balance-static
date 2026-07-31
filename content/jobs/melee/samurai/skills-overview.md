@@ -3,8 +3,8 @@ title: Skills Overview
 authors:
   - Balance-SAM-Staff
   - Flare
-patch: ""
-lastmod: 2025-08-05T02:48:24.210Z
+patch: "7.5"
+lastmod: 2026-07-31T16:50:00.351Z
 changelog:
   - date: 2021-10-28T03:25:40.964Z
     message: Created page
@@ -24,6 +24,8 @@ changelog:
     message: Updated for 7.2
   - date: 2025-08-05T02:48:24.853Z
     message: Updated for 7.3
+  - date: 2026-07-31T16:50:05.186Z
+    message: Updated for 7.5
 ---
 # Global Cooldown Actions (Single Target)
 
