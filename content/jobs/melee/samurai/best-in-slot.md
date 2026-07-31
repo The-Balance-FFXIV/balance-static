@@ -2,7 +2,7 @@
 title: Best in Slot (BiS)
 layout: bis
 patch: "7.5"
-lastmod: 2025-10-06T07:28:11.427Z
+lastmod: 2026-07-31T16:47:31.321Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -34,6 +34,8 @@ changelog:
     message: Updated links for 2.14, 2.08, all ultimates and added Criterion
   - date: 2025-12-20T01:49:06.902Z
     message: "7.4"
+  - date: 2026-07-31T16:47:33.562Z
+    message: Updated for 7.5
 bis:
   - type: xivgear
     name: 2.14 Relic BiS
