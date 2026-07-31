@@ -1,7 +1,7 @@
 ---
 title: Recent Changes
 layout: changes
-lastmod: 2025-12-20T01:33:51.807Z
+lastmod: 2026-07-31T16:48:33.398Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -85,6 +85,18 @@ changes:
       | Zanshin          | Reduction in potency after the first target has been changed from 50% to 40%. |
   - patch: "7.4"
     description: There were no changes to Samurai in 7.4.
+  - patch: "7.5"
+    description: >-
+      #### Samurai
+
+
+      | Action             | Adjustment                                                                               |
+
+      | ------------------ | ---------------------------------------------------------------------------------------- |
+
+      | Midare Setsugekka  | Potency increase from the trait Way of the Samurai III has been changed from 640 to 680. |
+
+      | Kaeshi: Setsugekka | Potency increase from the trait Way of the Samurai III has been changed from 640 to 680. |
 authors:
   - Balance-SAM-Staff
   - boxer
