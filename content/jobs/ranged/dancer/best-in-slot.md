@@ -28,6 +28,8 @@ changelog:
     message: Updated FRU bis link
   - date: 2026-05-02T21:08:47.156Z
     message: Updated Baseline for 7.5
+  - date: 2026-08-03T13:31:00.860Z
+    message: Updated static bis links for new Dawntrail Relic
 bis:
   - type: xivgear
     name: Current Baseline Set
