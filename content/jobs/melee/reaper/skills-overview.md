@@ -2,8 +2,8 @@
 title: Skills Overview
 authors:
   - Balance-RPR-Staff
-patch: "7.5"
-lastmod: 2026-04-29T06:18:13.754Z
+patch: "7.55"
+lastmod: 2026-08-05T23:42:05.494Z
 changelog:
   - date: 2022-01-04T20:37:59.400Z
     message: Updated Crest of Time Returned potency from 100 to 50.
