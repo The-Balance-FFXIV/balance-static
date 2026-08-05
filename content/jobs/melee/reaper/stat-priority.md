@@ -1,6 +1,6 @@
 ---
 title: Stat Priority
-patch: "7.5"
+patch: "7.55"
 lastmod: 2026-08-05T23:48:06.147Z
 changelog:
   - date: 2022-01-02T19:55:17.973Z
