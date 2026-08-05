@@ -1,7 +1,7 @@
 ---
 title: Recent Changes
 layout: changes
-lastmod: 2026-04-29T06:19:19.668Z
+lastmod: 2026-08-05T23:54:47.579Z
 changes:
   - patch: "6.0"
     description: Job added to game.
