@@ -3,8 +3,8 @@ title: Basic Guide
 card_header_image: /img/jobs/vpr/image_2024-11-10_193623139.png
 authors:
   - ToraelValdis
-patch: "7.4"
-lastmod: 2025-12-17T16:12:54.708Z
+patch: "7.55"
+lastmod: 2026-08-05T23:58:19.112Z
 changelog:
   - date: 2024-06-17T23:50:53.310Z
     message: Added guide to website
