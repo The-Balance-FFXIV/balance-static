@@ -3,8 +3,8 @@ title: Intermediate Guide
 authors:
   - Balance-RPR-Staff
   - ellunavi
-patch: "7.4"
-lastmod: 2026-04-04T20:59:59.259Z
+patch: "7.55"
+lastmod: 2026-08-05T23:46:41.903Z
 changelog:
   - date: 2024-07-02T21:55:37.160Z
     message: Created article.
