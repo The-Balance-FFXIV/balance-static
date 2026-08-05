@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.4"
-lastmod: 2026-01-03T19:15:04.077Z
+patch: "7.55"
+lastmod: 2026-08-05T23:24:36.271Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
     message: Created page
@@ -38,13 +38,14 @@ changelog:
     message: "Added 7.4 sets and removed old sets. "
   - date: 2026-01-03T19:15:08.478Z
     message: Changed some links. No content changes.
+  - date: 2026-08-05T23:24:47.015Z
+    message: 7.55 Relic updates to current BiS and FRU BiS
 bis:
   - type: xivgear
-    name: 7.4 2.49 Savage BiS
-    link: https://xivgear.app/?page=embed|bis|rpr|current&onlySetIndex=0#
-    description: This is the recommended BiS set for most players. This set is fully
-      compatible with DRG and SAM BiS, but not with MNK as MNK needs a slightly
-      different meld configuration.
+    name: 7.55 2.49 Savage BiS
+    link: https://xivgear.app/?page=embed|sl|b1e64454-43bb-4c3b-bc60-91c0767900bf
+    description: Click [here](https://xivgear.app/?page=bis|rpr|current) for current
+      BiS sets with either the M12S Savage weapon or the DMU weapon instead.
   - type: xivgear
     name: 7.4 Savage Prog Option (3 weeks of tomes)
     link: https://xivgear.app/?page=embed|sl|887c54fb-ee93-4784-98b8-4260ada6383b
@@ -63,6 +64,12 @@ bis:
     description: "For additional options, including sets using a full four weeks of
       tomes if you will be capping before entering savage on week 1, please see
       our master sheet here: https://xivgear.app/#/bis/rpr/prog"
+  - type: xivgear
+    name: 7.55 FRU Options
+    description: Master sheet with all options including options based on which
+      weapon you have available or if you have CAR gear or not can be found
+      [here.](https://xivgear.app/?page=bis|rpr|ultimate|fru)
+    link: https://xivgear.app/?page=embed|sl|4937b104-0dbb-4244-b14c-d09cdffbbaab
   - type: etro
     name: 7.05+ Dragonsong's Reprise (Ultimate) BiS (Mixed 730 + 600/605 Gear)
     link: 2f655c79-6db1-4e5b-90f7-41e130bed30a
@@ -121,11 +128,6 @@ bis:
     description: Both of these criterion dungeons sync to the same level, and use
       the Anabaseios Savage BiS. This set is used for both the normal and savage
       versions.
-  - type: xivgear
-    name: 7.3 FRU Options
-    description: Master sheet with all options including prog sets can be found
-      [here.](https://xivgear.app/?page=sl%7Cdc68daa3-654d-4b00-9e48-d090237f1307)
-    link: https://xivgear.app/?page=embed%7Csl%7C1cf30cb3-3fb2-47b9-a500-d8b117791a8e
 authors:
   - Balance-RPR-Staff
 ---
