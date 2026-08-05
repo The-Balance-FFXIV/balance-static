@@ -3,8 +3,8 @@ title: Leveling Guide
 card_header_image: /img/jobs/rpr/rpr-leveling.png
 authors:
   - Balance-RPR-Staff
-patch: "7.4"
-lastmod: 2025-12-17T05:30:15.763Z
+patch: "7.55"
+lastmod: 2026-08-05T23:40:43.703Z
 changelog:
   - date: 2022-09-13T13:43:48.819Z
     message: Updated patch number
