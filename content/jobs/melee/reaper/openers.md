@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - Balance-RPR-Staff
-patch: "7.4"
-lastmod: 2026-02-19T05:03:24.941Z
+patch: "7.55"
+lastmod: 2026-08-05T23:43:09.958Z
 changelog:
   - date: 2022-01-29T01:54:23.902Z
     message: Updated Fast Shroud opener (Adjusted potion for better timing)
