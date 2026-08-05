@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.41"
-lastmod: 2026-01-29T19:45:48.784Z
+patch: "7.55"
+lastmod: 2026-08-03T13:30:38.709Z
 changelog:
   - date: 2021-10-26T02:11:25.028Z
     message: Created page
@@ -28,6 +28,8 @@ changelog:
     message: Updated FRU bis link
   - date: 2026-05-02T21:08:47.156Z
     message: Updated Baseline for 7.5
+  - date: 2026-08-03T13:31:00.860Z
+    message: Updated static bis links for new Dawntrail Relic
 bis:
   - type: xivgear
     name: Current Baseline Set
