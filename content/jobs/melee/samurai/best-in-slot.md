@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.4"
-lastmod: 2025-10-06T07:28:11.427Z
+patch: "7.55"
+lastmod: 2026-07-31T16:47:31.321Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -34,30 +34,42 @@ changelog:
     message: Updated links for 2.14, 2.08, all ultimates and added Criterion
   - date: 2025-12-20T01:49:06.902Z
     message: "7.4"
+  - date: 2026-07-31T16:47:33.562Z
+    message: Updated for 7.5
 bis:
   - type: xivgear
+    name: 2.14 Relic BiS
+    link: https://xivgear.app/?page=embed|sl|c3672d0d-f56a-446e-9020-d0eddd00e3ec
+    description: '"Slow SAM" set using the newest Phantom Relic, 0.62% stronger than
+      2.14 Savage BiS.'
+  - type: xivgear
+    name: 2.08 Relic BiS
+    link: https://xivgear.app/?page=embed|sl|beeba935-a3b9-4792-8aaa-97a7a32878a4
+    description: Fast SAM set using the newest Phantom Relic, 0.65% stronger than
+      2.08 Savage BiS.
+  - type: xivgear
     description: Classic "Slow SAM". Highest DPS, easiest weaving.
-    link: https://xivgear.app/?page=embed|bis|sam|current&onlySetIndex=1
-    name: 2.14 Savage BiS
+    link: https://xivgear.app/?page=embed|bis|sam|current&onlySetIndex=2
+    name: 2.14 Savage
   - type: xivgear
     description: The 2.08 set has a small hit in DPS in exchange for a simpler
       looping rotation in full uptime.
-    name: 2.08 Savage BiS
-    link: https://xivgear.app/?page=embed|bis|sam|current&onlySetIndex=6
+    name: 2.08 Savage
+    link: https://xivgear.app/?page=embed|bis|sam|current&onlySetIndex=8
   - type: plain-text
     name: Pentamelded Crafted & Economy Crafted
     description: >-
       [2.14 Pentamelded
-      Crafted](https://xivgear.app/?page=bis|sam|current&onlySetIndex=2)
+      Crafted](https://xivgear.app/?page=bis|sam|current&onlySetIndex=3)
 
 
-      [2.14 Economy Crafted](https://xivgear.app/?page=bis|sam|current&onlySetIndex=3)
+      [2.14 Economy Crafted](https://xivgear.app/?page=bis|sam|current&onlySetIndex=4)
 
 
-      [2.08 Pentamelded Crafted](https://xivgear.app/?page=bis|sam|current&onlySetIndex=7)
+      [2.08 Pentamelded Crafted](https://xivgear.app/?page=bis|sam|current&onlySetIndex=9)
 
 
-      [2.08 Economy Crafted](https://xivgear.app/?page=bis|sam|current&onlySetIndex=8)
+      [2.08 Economy Crafted](https://xivgear.app/?page=bis|sam|current&onlySetIndex=10)
   - type: genericlink
     name: Occult Crescent
     link: https://xivgear.app/?page=sl%7Ceb4f1732-a191-4515-b0d9-0a032953551a
@@ -66,7 +78,7 @@ bis:
       Sets for these fights are community-sourced through use of XivGear. 
 
 
-      [UCoB](https://xivgear.app/?page=bis|sam|ultimate|ucob) | [UWU](https://xivgear.app/?page=bis|sam|ultimate|uwu) | [TEA](https://xivgear.app/?page=bis|sam|ultimate|tea) | [DSR](https://xivgear.app/?page=bis|sam|ultimate|dsr) | [TOP](https://xivgear.app/?page=bis|sam|ultimate|top) | [FRU](https://xivgear.app/?page=bis|sam|ultimate|fru)
+      [UCoB](https://xivgear.app/?page=bis|sam|ultimate|ucob) | [UWU](https://xivgear.app/?page=bis|sam|ultimate|uwu) | [TEA](https://xivgear.app/?page=bis|sam|ultimate|tea) | [DSR](https://xivgear.app/?page=bis|sam|ultimate|dsr) | [TOP](https://xivgear.app/?page=bis|sam|ultimate|top) | [FRU](https://xivgear.app/?page=bis|sam|ultimate|fru) | [DMU](https://xivgear.app/?page=bis|sam|ultimate|dmu)
 
 
       [Mount Rokkon / Aloalo Island](https://xivgear.app/?page=bis|sam|criterion|aloalo)
