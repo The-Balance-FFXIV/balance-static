@@ -1,7 +1,7 @@
 ---
 title: Recent Changes
 layout: changes
-lastmod: 2026-04-29T07:13:41.487Z
+lastmod: 2026-07-31T07:40:03.759Z
 changes:
   - patch: "6.0"
     description: "[Click here to view the changes to SMN on the official site for
