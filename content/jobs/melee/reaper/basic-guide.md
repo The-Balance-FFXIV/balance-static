@@ -3,8 +3,8 @@ title: "Basic Guide "
 card_header_image: /img/jobs/rpr/rpr-basic.png
 authors:
   - ellunavi
-patch: "7.4"
-lastmod: 2025-12-17T05:31:02.751Z
+patch: "7.5"
+lastmod: 2026-08-05T23:41:14.544Z
 changelog:
   - date: 2022-01-02T21:17:24.172Z
     message: Created page
