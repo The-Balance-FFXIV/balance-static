@@ -2,8 +2,8 @@
 title: Openers
 authors:
   - balance-vpr-staff
-patch: "7.5"
-lastmod: 2026-04-30T07:45:59.284Z
+patch: "7.55"
+lastmod: 2026-08-06T00:00:56.689Z
 changelog:
   - date: 2024-06-23T19:46:14.169Z
     message: Tentative Opener added.
