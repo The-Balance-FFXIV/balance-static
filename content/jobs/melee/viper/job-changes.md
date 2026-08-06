@@ -1,7 +1,7 @@
 ---
 title: Recent Changes
 layout: changes
-lastmod: 2026-04-29T06:25:00.067Z
+lastmod: 2026-08-06T00:04:18.636Z
 changes:
   - patch: "7.0"
     description: Job added to the game with patch 7.0 -- Dawntrail. For a full
