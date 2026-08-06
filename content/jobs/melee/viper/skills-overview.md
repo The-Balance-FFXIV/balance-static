@@ -3,8 +3,8 @@ title: Skills Overview
 authors:
   - ToraelValdis
   - balance-vpr-staff
-patch: "7.5"
-lastmod: 2026-04-29T06:24:00.887Z
+patch: "7.55"
+lastmod: 2026-08-05T23:59:16.989Z
 changelog:
   - date: 2024-06-20T21:56:01.856Z
     message: Guide added to website
