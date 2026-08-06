@@ -3,8 +3,8 @@ title: Basic Guide
 card_header_image: /img/jobs/smn/basic.png
 authors:
   - Balance-SMN-Staff
-patch: "7.5"
-lastmod: 2025-12-27T01:13:20.932Z
+patch: "7.55"
+lastmod: 2026-07-31T07:31:27.808Z
 changelog:
   - date: 2021-11-15T21:19:02.069Z
     message: Added page
