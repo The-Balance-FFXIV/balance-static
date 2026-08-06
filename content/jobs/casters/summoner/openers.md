@@ -3,8 +3,8 @@ title: Openers
 authors:
   - elevation
   - Balance-SMN-Staff
-patch: "7.5"
-lastmod: 2026-04-29T06:56:02.528Z
+patch: "7.55"
+lastmod: 2026-07-31T07:32:47.980Z
 changelog:
   - date: 2021-11-29T21:13:18.048Z
     message: Created page
