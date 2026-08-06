@@ -3,8 +3,8 @@ title: Intermediate Guide
 card_header_image: /img/jobs/vpr/large-file-viper-1.png
 authors:
   - ToraelValdis
-patch: "7.4"
-lastmod: 2025-12-17T16:22:16.354Z
+patch: "7.55"
+lastmod: 2026-08-06T00:03:14.709Z
 changelog:
   - date: 2024-06-20T05:44:33.192Z
     message: Guide added to website
