@@ -45,12 +45,15 @@ bis:
     description: Master Sheet for all FRU sets including prog sets can be found
       [here](https://xivgear.app/?page=bis|vpr|ultimate|fru).
   - type: xivgear
-    link: https://xivgear.app/?page=embed|sl|56ae8077-eb7b-4b5d-a310-95cbd584f2a0
+    link: https://xivgear.app/?page=embed|sl|6358592e-0a41-4d27-a1e8-7f3e9360d1ff
     name: Viper TOP BiS
-    description: Replace with the TOP weapon with 3x DET melds if you're using it.
+    description: For options without the DT Relic, click
+      [here](https://xivgear.app/?page=bis|vpr|ultimate|top).
   - type: xivgear
     name: Viper DSR BiS
-    link: https://xivgear.app/?page=embed|sl|48b50415-eb38-4d8f-80c8-ff7a5f15f987
+    link: https://xivgear.app/?page=embed|sl|2493f6bb-c951-4baa-8f5c-d0cc8778eae6
+    description: For other options, including without the DT Relic, click
+      [here](https://xivgear.app/?page=bis|vpr|ultimate|dsr).
   - type: xivgear
     name: TEA SkS BiS - 1.91 GCD
     link: https://xivgear.app/?page=embed|sl|c942a55f-d10a-4b97-936c-a440693bb073
