@@ -75,7 +75,7 @@ bis:
     link: https://xivgear.app/?page=embed|sl|4937b104-0dbb-4244-b14c-d09cdffbbaab
   - type: xivgear
     name: 7.55 Dragonsong's Reprise Ultimate - Endwalker Relic BiS
-    link: https://xivgear.app/?page=embed|sl|1733ff6c-ee8b-43ab-81c7-c847854f5d3f
+    link: https://xivgear.app/?page=embed|sl|e51d3c00-1ca6-4be5-8bf1-cae9d9358318
     description: This version of the DSR BiS is for those who do not have access to
       the final i795 version of the Dawntrail Relic weapon. Both the i645 and
       i665 versions ilvl sync to be functionally identical in DSR, so feel free
@@ -88,14 +88,14 @@ bis:
 
       Note: ONLY the i795 version of the Dawntrail Relic is stronger than the Endwalker Relic. If you do not have the i795 version, use the other set instead.
     name: 7.55 Dragonsong's Reprise Ultimate - Dawntrail i795 Relic BiS
-    link: https://xivgear.app/?page=embed|sl|3bb6247d-f69d-4aca-88e0-377f467c4926
+    link: https://xivgear.app/?page=embed|sl|60c0a4e7-9214-4654-8ce2-6a3a1de1bc12
   - type: xivgear
     name: 7.55 The Omega Protocol Ultimate - Endwalker Relic BiS
     description: This version of the TOP BiS is for those who do not have access to
       the final i795 version of the Dawntrail Relic weapon. Both the i645 and
       i665 versions ilvl sync to be functionally identical in TOP, so feel free
       to use whichever of the two weapon versions you have available to you.
-    link: https://xivgear.app/?page=embed|sl|cc8fddf5-043b-41ae-b474-0d1dcaabee9a
+    link: https://xivgear.app/?page=embed|sl|4361521c-bb2f-48c5-af46-be4f6deb2e14
   - type: xivgear
     description: >-
       This version of the TOP BiS is for those who have access to the i795
@@ -104,26 +104,26 @@ bis:
 
       Note: ONLY the i795 version of the Dawntrail Relic is stronger than the Endwalker Relic. If you do not have the i795 version, use the other set instead.
     name: 7.55 The Omega Protocol Ultimate - Dawntrail Relic BiS
-    link: https://xivgear.app/?page=embed|sl|cf39c0aa-1271-45ef-8f3c-fe66474686c3
+    link: https://xivgear.app/?page=embed|sl|14cf7866-ba94-4c5c-9177-dc921da6c775
   - type: xivgear
     name: Another Sil'dihn Subterrane BiS
-    link: https://xivgear.app/?page=embed|sl|cf39c0aa-1271-45ef-8f3c-fe66474686c3
+    link: https://xivgear.app/?page=embed|sl|14cf7866-ba94-4c5c-9177-dc921da6c775
     description: >-
       This is the same set as The Omega Protocol. This set is used for both the
       normal and savage versions of the criterion dungeon.
 
 
-      If you do not have the i795 version of the Dawntrail relic, use the [7.55 TOP Endwalker Relic BiS](https://xivgear.app/?page=embed|sl|cc8fddf5-043b-41ae-b474-0d1dcaabee9a) instead[](https://xivgear.app/?page=sl|0c28bc0e-543d-4109-a61b-4cf396651f7b).
+      If you do not have the i795 version of the Dawntrail relic, use the [7.55 TOP Endwalker Relic BiS](https://xivgear.app/?page=embed|sl|4361521c-bb2f-48c5-af46-be4f6deb2e14) instead[](https://xivgear.app/?page=sl|0c28bc0e-543d-4109-a61b-4cf396651f7b).
   - type: xivgear
     name: Another Mount Rokkon / Another AloAlo Island
-    link: https://xivgear.app/?page=embed|sl|3cd4d8ab-d6e8-4dc8-b66c-c94cca2706c6
+    link: https://xivgear.app/?page=embed|sl|4e99c536-6dfe-40f7-841e-d40a852fd25a
     description: >-
       Both of these criterion dungeons sync to the same ilvl, and therefore use
       the same set. This is used for both the normal and savage versions of
       these criterion dungeons. 
 
 
-      Alternative sets using the Endwalker Relic weapon or using Endwalker gear instead of current max ilvl gear are provided [here](https://xivgear.app/?page=sl|0c28bc0e-543d-4109-a61b-4cf396651f7b).
+      Alternative sets using the Endwalker Relic weapon or using Endwalker gear instead of current max ilvl gear are provided [here](https://xivgear.app/?page=sl|4c2ff1e7-b74d-4264-bffd-3968f9f825a0).
 authors:
   - Balance-RPR-Staff
 ---
