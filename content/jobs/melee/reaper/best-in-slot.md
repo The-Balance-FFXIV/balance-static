@@ -2,7 +2,7 @@
 title: Best in Slot (BiS)
 layout: bis
 patch: "7.55"
-lastmod: 2026-08-05T23:24:36.271Z
+lastmod: 2026-08-07T01:47:35.127Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
     message: Created page
@@ -40,6 +40,9 @@ changelog:
     message: Changed some links. No content changes.
   - date: 2026-08-05T23:24:47.015Z
     message: 7.55 Relic updates to current BiS and FRU BiS
+  - date: 2026-08-07T01:47:40.525Z
+    message: "Updated BiS links for DSR, TOP, and all three Endwalker Criterion
+      Dungeons. "
 bis:
   - type: xivgear
     name: 7.55 2.49 Savage BiS
@@ -65,69 +68,62 @@ bis:
       tomes if you will be capping before entering savage on week 1, please see
       our master sheet here: https://xivgear.app/#/bis/rpr/prog"
   - type: xivgear
-    name: 7.55 FRU Options
+    name: 7.55 Futures Rewritten (Ultimate) Options
     description: Master sheet with all options including options based on which
       weapon you have available or if you have CAR gear or not can be found
       [here.](https://xivgear.app/?page=bis|rpr|ultimate|fru)
     link: https://xivgear.app/?page=embed|sl|4937b104-0dbb-4244-b14c-d09cdffbbaab
-  - type: etro
-    name: 7.05+ Dragonsong's Reprise (Ultimate) BiS (Mixed 730 + 600/605 Gear)
-    link: 2f655c79-6db1-4e5b-90f7-41e130bed30a
-    description: This set is currently the best set available and is slightly
-      stronger than the previous BiS set using only 605/600 gear. The 645 and
-      665 versions of the endwalker relic sync down to be the exact same weapon,
-      so use whichever you have available to you.
-  - type: etro
+  - type: xivgear
+    name: 7.55 Dragonsong's Reprise Ultimate - Endwalker Relic BiS
+    link: https://xivgear.app/?page=embed|sl|1733ff6c-ee8b-43ab-81c7-c847854f5d3f
+    description: This version of the DSR BiS is for those who do not have access to
+      the final i795 version of the Dawntrail Relic weapon. Both the i645 and
+      i665 versions ilvl sync to be functionally identical in DSR, so feel free
+      to use whichever of the two weapon versions you have available to you.
+  - type: xivgear
     description: >-
-      If using the scythe from DSR, meld two Direct Hit X's and one
-      Determination X. If you want full compatibility with DRG after acquiring
-      the DSR weapon, change the SKS meld on the head piece to DET and then do
-      DH DH SKS on the weapon.
+      This version of the DSR BiS is for those who have access to the i795
+      Dawntrail Relic weapon. This is the strongest option available.
 
 
-      Note: The 645 and 665 versions of the Manderville weapon are functionally the same in DSR. Use whichever you have and allocate the stats as shown in the etro link.
-    name: Dragonsong's Reprise (Ultimate) BiS (6.3 Dungeon Gear + 6.45 Relic Option)
-    link: 4aa0f252-5ecf-4887-916a-b38ccddfe258
-  - type: etro
-    description: The original BiS used for DSR. Use this if you do not want to farm
-      the dungeon gear.
-    name: Dragonsong's Reprise (Ultimate) BiS (No 6.3 Dungeon Gear Option)
-    link: b301e789-96da-42f2-9628-95f68345e35b
-  - type: etro
-    name: 7.05 The Omega Protocol (Ultimate) BiS (Mixed 730 + 630/635 Gear)
-    description: This set is currently the best set available and is slightly
-      stronger than the previous BiS set using only 635/630 gear. The 645 and
-      665 versions of the Endwalker relic sync down to be the exact same weapon,
-      so use whichever you have available to you.
-    link: 585d7c37-9d59-4a85-910e-e0a925b3cead
-  - type: etro
+      Note: ONLY the i795 version of the Dawntrail Relic is stronger than the Endwalker Relic. If you do not have the i795 version, use the other set instead.
+    name: 7.55 Dragonsong's Reprise Ultimate - Dawntrail i795 Relic BiS
+    link: https://xivgear.app/?page=embed|sl|3bb6247d-f69d-4aca-88e0-377f467c4926
+  - type: xivgear
+    name: 7.55 The Omega Protocol Ultimate - Endwalker Relic BiS
+    description: This version of the TOP BiS is for those who do not have access to
+      the final i795 version of the Dawntrail Relic weapon. Both the i645 and
+      i665 versions ilvl sync to be functionally identical in TOP, so feel free
+      to use whichever of the two weapon versions you have available to you.
+    link: https://xivgear.app/?page=embed|sl|cc8fddf5-043b-41ae-b474-0d1dcaabee9a
+  - type: xivgear
     description: >-
-      Recommended gearset to prog TOP as of patch 6.5. This set includes the
-      Dungeon Gear from patch 6.5, putting this set slightly ahead of the other
-      option.
+      This version of the TOP BiS is for those who have access to the i795
+      Dawntrail Relic weapon. This is the strongest option available.
 
 
-      Note: The 645 and 665 versions of the Manderville weapons are functionally the same in TOP. Use whichever you have and allocate the stats as shown in the etro link.
-    name: The Omega Protocol (Ultimate) BiS (6.5 Dungeon Gear + 6.45 Relic Option)
-    link: d40f9b9d-c459-4ca4-a9e6-570c4034ecb2
-  - type: etro
-    description: This is just the Abyssos 2.49 BiS, which is slightly lower in DPS
-      than the Dungeon Gear + Relic option. If using the TOP scythe, meld two
-      Direct Hit X's and one Skill Speed X.
-    name: The Omega Protocol (Ultimate) BiS (No 6.5 Dungeon Gear + No 6.45 Relic
-      Option)
-    link: c293f73b-5c58-4855-b43d-aae55b212611
-  - type: etro
+      Note: ONLY the i795 version of the Dawntrail Relic is stronger than the Endwalker Relic. If you do not have the i795 version, use the other set instead.
+    name: 7.55 The Omega Protocol Ultimate - Dawntrail Relic BiS
+    link: https://xivgear.app/?page=embed|sl|cf39c0aa-1271-45ef-8f3c-fe66474686c3
+  - type: xivgear
     name: Another Sil'dihn Subterrane BiS
-    link: 585d7c37-9d59-4a85-910e-e0a925b3cead
-    description: This is the same set as The Omega Protocol. This set is used for
-      both the normal and savage versions of the criterion dungeon.
-  - type: etro
-    name: Another Mount Rokkon/Another AloAlo Island
-    link: c3831920-8a4a-43c8-b9d7-20618899fb6f
-    description: Both of these criterion dungeons sync to the same level, and use
-      the Anabaseios Savage BiS. This set is used for both the normal and savage
-      versions.
+    link: https://xivgear.app/?page=embed|sl|cf39c0aa-1271-45ef-8f3c-fe66474686c3
+    description: >-
+      This is the same set as The Omega Protocol. This set is used for both the
+      normal and savage versions of the criterion dungeon.
+
+
+      If you do not have the i795 version of the Dawntrail relic, use the [7.55 TOP Endwalker Relic BiS](https://xivgear.app/?page=embed|sl|cc8fddf5-043b-41ae-b474-0d1dcaabee9a) instead[](https://xivgear.app/?page=sl|0c28bc0e-543d-4109-a61b-4cf396651f7b).
+  - type: xivgear
+    name: Another Mount Rokkon / Another AloAlo Island
+    link: https://xivgear.app/?page=embed|sl|3cd4d8ab-d6e8-4dc8-b66c-c94cca2706c6
+    description: >-
+      Both of these criterion dungeons sync to the same ilvl, and therefore use
+      the same set. This is used for both the normal and savage versions of
+      these criterion dungeons. 
+
+
+      Alternative sets using the Endwalker Relic weapon or using Endwalker gear instead of current max ilvl gear are provided [here](https://xivgear.app/?page=sl|0c28bc0e-543d-4109-a61b-4cf396651f7b).
 authors:
   - Balance-RPR-Staff
 ---
