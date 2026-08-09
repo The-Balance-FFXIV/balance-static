@@ -1,11 +1,13 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.51"
-lastmod: 2026-06-25T03:38:59.135Z
+patch: "7.55"
+lastmod: 2026-08-09T21:52:05.556Z
 changelog:
   - date: 2026-06-25T03:39:00.416Z
     message: updated for DMU
+  - date: 2026-08-09T21:52:17.980Z
+    message: updated for relic  weapons
 bis:
   - type: plain-text
     name: General Information
