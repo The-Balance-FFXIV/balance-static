@@ -71,11 +71,14 @@ bis:
 
       Chest > Wrist > Ring > Ring
   - type: xivgear
-    name: 2.40 max damage
-    link: https://xivgear.app/?page=embed|sl|bd329cd1-5135-45d3-97b6-0d1342f6b5fe
+    name: 2.40 savage weapon
+    link: https://xivgear.app/?page=embed|sl|913a5f3e-ffbe-4b79-8fd7-b924e0ff910b
   - type: xivgear
-    name: 2.31 max damage
-    link: https://xivgear.app/?page=embed|sl|3aeed012-438c-4559-9d47-ac407c29e6cf
+    name: 2.40 Relic weapon
+    link: https://xivgear.app/?page=embed|sl|a7d49eaa-7161-445c-801a-a8be82bb7dcc
+  - type: xivgear
+    link: https://xivgear.app/?page=sl%7Ca336bb11-552d-4634-b08f-cb3b4657bb61
+    name: full savage sheet
   - type: plain-text
     name: Ultimate/criterion sets below
   - type: genericlink
@@ -90,18 +93,14 @@ bis:
     description: Given the relatively lax DPS checks and higher healing demand from
       P3 onwards it is a benefit to just run higher piety.
   - type: xivgear
-    name: DMU Low-piety 2.40
-    link: https://xivgear.app/?page=embed|sl|2d63d8a2-a7e9-455c-a6e3-7fde1f1614f7
+    name: 2.40 savage weapon DMU
+    link: https://xivgear.app/?page=embed|sl|ffd3b151-f71a-43dd-a201-470637ba9abf
   - type: xivgear
-    name: DMU mid-piety 2.40
-    link: https://xivgear.app/?page=embed|sl|7a4eba39-1cbc-41e7-acb4-d190a6848d50
-  - type: xivgear
-    link: https://xivgear.app/?page=embed|sl|a0afdf21-1e9e-4636-87b1-b77a6a1fb10c
-    name: DMU high-piety 2.40
-    description: ""
-  - type: xivgear
-    name: DMU high-piety 2.50
-    link: https://xivgear.app/?page=embed|sl|443b3bf0-229b-4279-9719-34aeb1f43948
+    name: 2.40 relic weapon DMU
+    link: https://xivgear.app/?page=embed|sl|eb95b220-7312-40e8-9f1e-9bc0fe2504c2
+  - type: plain-text
+    name: full DMU sheet
+    link: https://xivgear.app/?page=sl|d89fd948-87b2-4f9c-a220-e87e34085990
 authors:
   - Balance-SCH-Staff
 tags:
