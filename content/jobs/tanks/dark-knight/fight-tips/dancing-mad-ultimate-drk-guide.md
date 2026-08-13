@@ -39,15 +39,15 @@ You can do one full combo after the listed opener and press **Dark Missionary** 
 
 ## Main Tank Opener
 
-TODO
+Coming soon.
 
 ## Off Tank Opener
 
-TODO
+Coming soon.
 
 # Phase Two: God Kefka
 
-TODO
+Coming soon.
 
 # Phase Three: Chaos and Exdeath
 
@@ -59,11 +59,11 @@ Doing this is fairly 'free' if you can hold the **Shadowbringer** from Phase Two
 
 # Phase Four: Kefka Says
 
-TODO
+Coming soon.
 
 # Phase Five: Kefka Reimagined
 
-TODO
+Coming soon.
 
 # Clear Point of View Videos
 
