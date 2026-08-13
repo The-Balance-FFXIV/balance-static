@@ -68,13 +68,21 @@ You can hold **Salted Earth** from the previous phase to move more damage into t
 
 If you didn't hold **Salted Earth**, make sure that you use it and **Salt and Darkness** during your potion and after the Decisive Battle 'firewall' buffs drop. They drop as soon as the Thunder III cast begins (the large circle AoE that Exdeath casts).
 
+Be very careful about spending all your MP during the 10-minute burst. The last Thunder III happens shortly afterwards, and, presuming you're taking it with mitigation, it is vital to have **TBN** for it.
+
 # Phase Four: Kefka Says
 
-Coming soon.
+There's not a lot to say for this phase that's Dark Knight specific. The boss spends a lot of his time auto-attacking, so if you're holding the boss, make sure to mitigate the hits. If you're not holding the boss, do make sure to help your co-tank out with **TBN** usage where you can.
+
+Bank a **TBN** for Phase Five on the last raidwide (Ultima Upsurge). Your MP will peak in the Phase Five opener at whatever you would finish p4 with without **TBN**.
 
 # Phase Five: Kefka Reimagined
 
 Coming soon.
+
+Oblation can cover four of the five instances of tank damage in the phase. It should be used for everything except the Maddening Orchestra flare.
+
+You can use your potion when **Living Shadow** has <10s left on its cooldown to cover its full duration if you're worried about killtime clipping off the end of your pot.
 
 # Clear Point of View Videos
 
