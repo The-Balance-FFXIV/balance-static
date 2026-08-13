@@ -78,9 +78,9 @@ Bank a **TBN** for Phase Five on the last raidwide (Ultima Upsurge). Your MP wil
 
 # Phase Five: Kefka Reimagined
 
-Coming soon.
-
 Oblation can cover four of the five instances of tank damage in the phase. It should be used for everything except the Maddening Orchestra flare.
+
+**TBN** halfway through the second Maddening Orchestra cast to get it back for the third Fell Forces auto after. Don't worry about not having it on the flare; it really doesn't hit that hard. **Rampart** needs to be very late in the Maddening Orchestra castbar to last for the third auto-attack following Maddening Orchestra. It's better to be late than early here, as the initial hit doesn't do very much damage.
 
 You can use your potion when **Living Shadow** has <10s left on its cooldown to cover its full duration if you're worried about killtime clipping off the end of your pot.
 
