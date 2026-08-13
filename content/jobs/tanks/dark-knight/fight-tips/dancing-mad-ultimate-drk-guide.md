@@ -66,6 +66,8 @@ This phase hurts. Both tanks are going to take a punishment, but note that Chaos
 
 You can hold **Salted Earth** from the previous phase to move more damage into this phase. This will lose overall damage, but will move damage from Phase Two into Phase Three. If you held **Salted Earth**, place it in the center of the arena just before the bosses are targetable and weave **Salt and Darkness** with your first GCD.
 
+If you didn't hold **Salted Earth**, make sure that you use it and **Salt and Darkness** during your potion and after the Decisive Battle 'firewall' buffs drop. They drop as soon as the Thunder III cast begins (the large circle AoE that Exdeath casts).
+
 # Phase Four: Kefka Says
 
 Coming soon.
