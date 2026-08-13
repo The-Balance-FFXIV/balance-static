@@ -1,5 +1,8 @@
 ---
 title: Dancing Mad (Ultimate) DRK Guide
+authors:
+  - violet-stardust
+  - apileofcats
 lastmod: 2026-08-13T22:30:53.408Z
 visibility: public
 ---
@@ -49,6 +52,8 @@ Coming soon.
 
 Coming soon.
 
+You'll generate ~6200 MP between Phase Two ending and your first opportunity to spend in Phase Three.
+
 # Phase Three: Chaos and Exdeath
 
 At the start of this phase, if you have two charges of **Shadowbringer** (if you didn't need to send both at the end of the last phase), you can use one immediately targeting the boss you're not going to be holding. As a result, your opener can be something like
@@ -56,6 +61,10 @@ At the start of this phase, if you have two charges of **Shadowbringer** (if you
 **Delirium** (before boss spawns) -> **Scarlet Delirium** -> [target the other boss] -> **Shadowbringer** -> [target the other boss] -> continue
 
 Doing this is fairly 'free' if you can hold the **Shadowbringer** from Phase Two, as it means that you'll still get two **Shadowbringer**s in the upcoming pot window.
+
+This phase hurts. Both tanks are going to take a punishment, but note that Chaos attacks slightly harder and more frequently than Exdeath. As a result, **TBN** should be used liberally throughout the phase. There is a very real chance of saving healer GCDs by keeping yourself healthy, which far outweighs the gain of more **Edge**s in buffs. This is especially true when other damage is layered on top of autoattacks like during element pops and Slap Happy. You can and should replace an **Edge** in your bursts with **TBN** + **Edge**. Either way, you can usually break **TBN **just from autoattacks while your boss is otherwise not doing anything.
+
+You can hold **Salted Earth** from the previous phase to move more damage into this phase. This will lose overall damage, but will move damage from Phase Two into Phase Three. If you held **Salted Earth**, place it in the center of the arena just before the bosses are targetable and weave **Salt and Darkness** with your first GCD.
 
 # Phase Four: Kefka Says
 
