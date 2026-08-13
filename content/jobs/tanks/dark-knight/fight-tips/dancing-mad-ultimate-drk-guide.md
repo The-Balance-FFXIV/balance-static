@@ -50,7 +50,11 @@ Coming soon.
 
 # Phase Two: God Kefka
 
-Coming soon.
+It's recommended to use one **Edge** at the end of Phase One, **TBN** Ultimate Embrace, then or spend the Dark Arts proc and **TBN** the Forsaken cast.
+
+Ultimate Embrace hits extremely hard, somewhere in the neighbourhood of 1.3 million raw on a high roll when shared. You must have all mitigation active and use Oblation on your cotank. Even then, you require outside help to survive.
+
+For some patterns of Forsaken, you may be disengaged from the boss, including during buffs. Move **Disesteem** around to minimize GCD downtime while maintaining your burst as normal.
 
 You'll generate ~6200 MP between Phase Two ending and your first opportunity to spend in Phase Three.
 
