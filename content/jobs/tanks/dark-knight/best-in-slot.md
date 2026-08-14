@@ -1,8 +1,8 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.4"
-lastmod: 2025-12-16T18:23:30.749Z
+patch: "7.5"
+lastmod: 2026-08-14T20:23:02.497Z
 changelog:
   - date: 2024-07-28T10:20:21.825Z
     message: Added 7.0 sets
@@ -25,6 +25,8 @@ changelog:
       some aesthetic changes.
   - date: 2025-12-16T18:27:45.524Z
     message: Updates for 7.4
+  - date: 2026-08-14T20:23:08.454Z
+    message: 7.5 update
 bis:
   - type: xivgear
     name: Current BiS (2.50)
@@ -38,48 +40,37 @@ bis:
     name: All Current BiS Gearsets
     link: https://xivgear.app/#/bis/drk/current
     description: A 2.46 gearset compatible with 2.50 is also found within.
-  - type: xivgear
-    link: https://xivgear.app/?page=embed|bis|drk|prog&onlySetIndex=0
-    name: 2.50 7.4 Savage Prog
-    description: The recommended 2.50 prog set for 7.4 Savage. Should generally not
-      built after week 1 of Savage.
-  - type: xivgear
-    name: 2.46 7.4 Savage Prog
-    link: https://xivgear.app/?page=embed|bis|drk|prog&onlySetIndex=1
-    description: The recommended 2.46 prog set for 7.4 Savage. Should generally not
-      built after week 1 of Savage.
-  - type: genericlink
-    name: Savage Prog Gearsets
-    link: https://xivgear.app/#/bis/drk/prog
-    description: All sets for 7.4 Savage raid prog. Should generally not built after
-      week 1 of Savage.
   - type: plain-text
     name: Ultimate Raid BiS Gearsets
     link: ""
     description: |-
+      **DMU (Dancing Mad (Ultimate)):**
+      </br>
+      https://xivgear.app/?page=bis|drk|ultimate|dmu
+      </br></br>
       **FRU (Futures Rewritten (Ultimate)):**
       </br>
-      https://xivgear.app/#/bis/drk/ultimate/fru
+      https://xivgear.app/?page=bis|drk|ultimate|fru
       </br></br>
       **TOP (The Omega Protocol (Ultimate)):**
       </br>
-      https://xivgear.app/#/bis/drk/ultimate/top
+      https://xivgear.app/?page=bis|drk|ultimate|top
       </br></br>
       **DSR (Dragonsong's Reprise (Ultimate)):**
       </br>
-      https://xivgear.app/#/bis/drk/ultimate/dsr
+      https://xivgear.app/?page=bis|drk|ultimate|dsr
       </br></br>
       **TEA (The Epic of Alexander (Ultimate)):**
       </br>
-      https://xivgear.app/#/bis/drk/ultimate/tea
+      https://xivgear.app/?page=bis|drk|ultimate|tea
       </br></br>
       **UWU (The Weapon's Refrain (Ultimate)):**
       </br>
-      https://xivgear.app/#/bis/drk/ultimate/uwu
+      https://xivgear.app/?page=bis|drk|ultimate|uwu
       </br></br>
       **UCOB (The Unending Coil of Bahamut (Ultimate)):**
       </br>
-      https://xivgear.app/#/bis/drk/ultimate/ucob
+      https://xivgear.app/?page=bis|drk|ultimate|ucob
   - type: genericlink
     name: Old Patch Archived Gearsets
     link: https://xivgear.app/?page=bisbrowser|drk|archive
