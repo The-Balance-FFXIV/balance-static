@@ -40,13 +40,15 @@ Based on when your MP regeneration ticks, you might not have MP for an **Edge** 
 
 You can do one full combo after the listed opener and press **Dark Missionary** following the **Souleater** after Kefka recenters to cover Mysterious Magic + Wave Cannon and get it back for Gravitas puddle soaks.
 
-## Main Tank Opener
-
-Coming soon.
-
 ## Off Tank Opener
 
-Coming soon.
+![](/img/drk_dmu_off_tank_opener.jpeg)
+
+## Main Tank Opener
+
+
+
+![](/img/drk_dmu_main_tank_opener.jpeg)
 
 # Phase Two: God Kefka
 
@@ -66,7 +68,7 @@ At the start of this phase, if you have two charges of **Shadowbringer** (if you
 
 Doing this is fairly 'free' if you can hold the **Shadowbringer** from Phase Two, as it means that you'll still get two **Shadowbringer**s in the upcoming pot window.
 
-This phase hurts. Both tanks are going to take a punishment, but note that Chaos attacks slightly harder and more frequently than Exdeath. As a result, **TBN** should be used liberally throughout the phase. There is a very real chance of saving healer GCDs by keeping yourself healthy, which far outweighs the gain of more **Edge**s in buffs. This is especially true when other damage is layered on top of autoattacks like during element pops and Slap Happy. You can and should replace an **Edge** in your bursts with **TBN** + **Edge**. Either way, you can usually break **TBN **just from autoattacks while your boss is otherwise not doing anything.
+This phase hurts. Both tanks are going to take a punishment, but note that Chaos attacks slightly harder and more frequently than Exdeath. As a result, **TBN** should be used liberally throughout the phase. There is a very real chance of saving healer GCDs by keeping yourself healthy, which far outweighs the gain of more **Edge**s in buffs. This is especially true when other damage is layered on top of autoattacks like during element pops and Slap Happy. You can and should replace an **Edge** in your bursts with **TBN** + **Edge**. Either way, you can usually break **TBN** just from autoattacks while your boss is otherwise not doing anything.
 
 You can hold **Salted Earth** from the previous phase to move more damage into this phase. This will lose overall damage, but will move damage from Phase Two into Phase Three. If you held **Salted Earth**, place it in the center of the arena just before the bosses are targetable and weave **Salt and Darkness** with your first GCD.
 
