@@ -5,8 +5,8 @@ authors:
   - apileofcats
   - silaqui-amakiir
   - violet-stardust
-patch: "7.4"
-lastmod: 2025-12-16T18:19:34.298Z
+patch: "7.5"
+lastmod: 2026-08-14T20:20:22.122Z
 changelog:
   - date: 2024-07-28T10:30:01.921Z
     message: Updated for 7.0
@@ -20,6 +20,8 @@ changelog:
     message: ""
   - date: 2025-12-16T18:19:37.670Z
     message: 7.4 update
+  - date: 2026-08-14T20:20:26.797Z
+    message: 7.5 update
 ---
 # Introduction
 
