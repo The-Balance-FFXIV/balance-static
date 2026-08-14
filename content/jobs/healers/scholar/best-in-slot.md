@@ -99,7 +99,7 @@ bis:
     link: https://xivgear.app/?page=embed|sl|ffd3b151-f71a-43dd-a201-470637ba9abf
   - type: xivgear
     name: 2.40 relic weapon DMU
-    link: https://xivgear.app/?page=embed|sl|eb95b220-7312-40e8-9f1e-9bc0fe2504c2
+    link: https://xivgear.app/?page=embed|sl|4d43ba38-719d-4e85-9931-a49b551dc0c6
   - type: plain-text
     name: full DMU sheet
     link: https://xivgear.app/?page=sl|d89fd948-87b2-4f9c-a220-e87e34085990
