@@ -3,10 +3,9 @@ title: Openers
 authors:
   - Balance-DRK-Staff
   - silaqui-amakiir
-  - athunin
   - violet-stardust
-patch: "7.4"
-lastmod: 2026-01-03T17:19:08.595Z
+patch: "7.5"
+lastmod: 2026-08-14T20:21:36.462Z
 changelog:
   - date: 2024-07-28T09:27:40.592Z
     message: Updates for 7.0
@@ -19,6 +18,8 @@ changelog:
     message: ""
   - date: 2026-01-03T17:19:10.103Z
     message: Added rotation infographic.
+  - date: 2026-08-14T20:21:46.159Z
+    message: 7.5 update
 ---
 # Introduction
 
