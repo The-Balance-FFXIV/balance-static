@@ -4,8 +4,8 @@ authors:
   - dook
   - silaqui-amakiir
   - violet-stardust
-patch: "7.4"
-lastmod: 2025-12-16T18:21:04.312Z
+patch: "7.5"
+lastmod: 2026-08-14T20:21:12.298Z
 changelog:
   - date: 2024-07-28T10:09:44.043Z
     message: Updates for 7.0
@@ -19,6 +19,8 @@ changelog:
     message: Fixed Impalement skill icon, overhaul for readability.
   - date: 2025-12-16T18:21:10.283Z
     message: Updates for 7.4
+  - date: 2026-08-14T20:21:14.811Z
+    message: 7.5 update
 ---
 # Offensive On Global Cooldown (GCD) Abilities
 
