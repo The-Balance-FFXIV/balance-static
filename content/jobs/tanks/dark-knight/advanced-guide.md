@@ -4,8 +4,8 @@ card_header_image: /img/jobs/drk/advanced.png
 authors:
   - Balance-DRK-Staff
   - violet-stardust
-patch: "7.4"
-lastmod: 2025-12-16T18:23:04.886Z
+patch: "7.5"
+lastmod: 2026-08-14T20:22:28.677Z
 changelog:
   - date: 2024-11-16T15:17:46.131Z
     message: Updated for 7.1
@@ -23,6 +23,8 @@ changelog:
     message: Minor updates to reflect hotfixed Shadowstride application delay.
   - date: 2025-12-16T18:23:17.078Z
     message: Updates for 7.4
+  - date: 2026-08-14T20:22:31.733Z
+    message: 7.5 update
 description: ""
 ---
 # Introduction
