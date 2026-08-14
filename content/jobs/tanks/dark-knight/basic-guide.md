@@ -4,8 +4,8 @@ card_header_image: /img/jobs/drk/basic.png
 authors:
   - silaqui-amakiir
   - violet-stardust
-patch: "7.4"
-lastmod: 2026-01-03T17:17:45.939Z
+patch: "7.5"
+lastmod: 2026-08-14T20:20:57.340Z
 changelog:
   - date: 2024-07-28T10:51:24.137Z
     message: Updates for 7.0
@@ -24,6 +24,8 @@ changelog:
     message: 7.4 updates
   - date: 2026-01-03T17:17:48.119Z
     message: Added rotation infographic.
+  - date: 2026-08-14T20:20:52.207Z
+    message: 7.5 update
 tags: []
 ---
 # Introduction
