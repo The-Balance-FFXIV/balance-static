@@ -43,60 +43,34 @@ bis:
   - type: plain-text
     name: Ultimate Raid BiS Gearsets
     link: ""
-    description: >-
+    description: |-
       **DMU (Dancing Mad (Ultimate)):**
-
       </br>
-
-      <a href="https://xivgear.app/?page=bis|drk|ultimate|dmu" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|dmu</a>
-
+      https://xivgear.app/#/bis/drk/ultimate/dmu
       </br></br>
-
       **FRU (Futures Rewritten (Ultimate)):**
-
       </br>
-
-      <a href="https://xivgear.app/?page=bis|drk|ultimate|fru" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|fru</a>
-
+      https://xivgear.app/#/bis/drk/ultimate/fru
       </br></br>
-
       **TOP (The Omega Protocol (Ultimate)):**
-
       </br>
-
-      <a href="https://xivgear.app/?page=bis|drk|ultimate|top" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|top</a>
-
+      https://xivgear.app/#/bis/drk/ultimate/top
       </br></br>
-
       **DSR (Dragonsong's Reprise (Ultimate)):**
-
       </br>
-
-      <a href="https://xivgear.app/?page=bis|drk|ultimate|dsr" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|dsr</a>
-
+      https://xivgear.app/#/bis/drk/ultimate/dsr
       </br></br>
-
       **TEA (The Epic of Alexander (Ultimate)):**
-
       </br>
-
-      <a href="https://xivgear.app/?page=bis|drk|ultimate|tea" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|tea</a>
-
+      https://xivgear.app/#/bis/drk/ultimate/tea
       </br></br>
-
       **UWU (The Weapon's Refrain (Ultimate)):**
-
       </br>
-
-      <a href="https://xivgear.app/?page=bis|drk|ultimate|uwu" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|uwu</a>
-
+      https://xivgear.app/#/bis/drk/ultimate/uwu
       </br></br>
-
       **UCOB (The Unending Coil of Bahamut (Ultimate)):**
-
       </br>
-
-      <a href="https://xivgear.app/?page=bis|drk|ultimate|ucob" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|ucob</a>
+      https://xivgear.app/#/bis/drk/ultimate/ucob
   - type: genericlink
     name: Old Patch Archived Gearsets
     link: https://xivgear.app/?page=bisbrowser|drk|archive
