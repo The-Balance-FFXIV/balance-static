@@ -43,34 +43,60 @@ bis:
   - type: plain-text
     name: Ultimate Raid BiS Gearsets
     link: ""
-    description: |-
+    description: >-
       **DMU (Dancing Mad (Ultimate)):**
+
       </br>
-      https://xivgear.app/?page=bis|drk|ultimate|dmu
+
+      <a href="https://xivgear.app/?page=bis|drk|ultimate|dmu" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|dmu</a>
+
       </br></br>
+
       **FRU (Futures Rewritten (Ultimate)):**
+
       </br>
-      https://xivgear.app/?page=bis|drk|ultimate|fru
+
+      <a href="https://xivgear.app/?page=bis|drk|ultimate|fru" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|fru</a>
+
       </br></br>
+
       **TOP (The Omega Protocol (Ultimate)):**
+
       </br>
-      https://xivgear.app/?page=bis|drk|ultimate|top
+
+      <a href="https://xivgear.app/?page=bis|drk|ultimate|top" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|top</a>
+
       </br></br>
+
       **DSR (Dragonsong's Reprise (Ultimate)):**
+
       </br>
-      https://xivgear.app/?page=bis|drk|ultimate|dsr
+
+      <a href="https://xivgear.app/?page=bis|drk|ultimate|dsr" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|dsr</a>
+
       </br></br>
+
       **TEA (The Epic of Alexander (Ultimate)):**
+
       </br>
-      https://xivgear.app/?page=bis|drk|ultimate|tea
+
+      <a href="https://xivgear.app/?page=bis|drk|ultimate|tea" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|tea</a>
+
       </br></br>
+
       **UWU (The Weapon's Refrain (Ultimate)):**
+
       </br>
-      https://xivgear.app/?page=bis|drk|ultimate|uwu
+
+      <a href="https://xivgear.app/?page=bis|drk|ultimate|uwu" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|uwu</a>
+
       </br></br>
+
       **UCOB (The Unending Coil of Bahamut (Ultimate)):**
+
       </br>
-      https://xivgear.app/?page=bis|drk|ultimate|ucob
+
+      <a href="https://xivgear.app/?page=bis|drk|ultimate|ucob" target="_blank">https://xivgear.app/?page=bis|drk|ultimate|ucob</a>
   - type: genericlink
     name: Old Patch Archived Gearsets
     link: https://xivgear.app/?page=bisbrowser|drk|archive
