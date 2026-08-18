@@ -78,7 +78,7 @@ There are some very heavy hitting tankbusters at the end of this phase, with Ult
 
 You can press Rampart for the second Ultimate Embrace at the end of the single wing cast. Wait until the next auto to press **Shadowed Vigil**. **Dark Mind** and **Oblation** should be pressed during the double Wings of Destruction castbar.
 
-You'll generate ~6200 MP between Phase Two ending and your first opportunity to spend in Phase Three, you can usually spend both blood and MP very aggressively at the end of this phase, since you'll want to open Phase Three with a **Delirium**.
+You'll generate ~3000 MP between Phase Two ending and your first opportunity to spend in Phase Three, you can usually spend both blood and MP very aggressively at the end of this phase, since you'll want to open Phase Three with a **Delirium**.
 
 # Phase Three: Chaos and Exdeath
 
@@ -97,6 +97,8 @@ If you didn't hold **Salted Earth**, make sure that you use it and **Salt and Da
 Your HP after the third Thunder III doesn't matter (as long as it's not 0) because you get set to 1 HP by Earthquake shortly after. As long as you're reasonably healthy going into it, you can save **TBN** to use immediately after Earthquake to assist your healers in keeping you alive against the following autoattacks. You can use it again off cooldown to cover the Slap Happy damage.
 
 Be very careful about spending all your MP during the 10-minute burst. The last Thunder III happens shortly afterwards, and, presuming you're taking it with mitigation, it is vital to have **TBN** for it.
+
+If you're not holding the boss during the next phase, make sure to use **Shadowed Vigil** on some auto-attacks near the end of the phase. Even better, if you're the last tether, you can use it just before the laser goes out so that the **Vigilant** buff heals you before the next auto-attack. It's completely free to do this and helps things feel a lot comfier.
 
 # Phase Four: Kefka Says
 
