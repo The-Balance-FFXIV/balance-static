@@ -1,5 +1,6 @@
 ---
 title: Dancing Mad (Ultimate) DRK Guide
+card_header_image: /img/drk_dmu_fight_tips.png
 authors:
   - violet-stardust
   - apileofcats
