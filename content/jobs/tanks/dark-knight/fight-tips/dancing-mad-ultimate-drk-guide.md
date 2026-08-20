@@ -99,7 +99,7 @@ Your HP after the third Thunder III doesn't matter (as long as it's not 0) becau
 
 Be very careful about spending all your MP during the 10-minute burst (the burst during Black Hole/Earthquake). The last Thunder III happens shortly afterwards, and, presuming you're taking it with mitigation, it is vital to have **TBN** for it. Of all points in the phase, this is probably the tankbuster where it's most important to give your co-tank an **Oblation** charge for the second hit of the tankbuster.
 
-If you're not holding the boss during the next phase, make sure to use **Shadowed Vigil** on some auto-attacks near the end of the phase. Even better, if you're the last tether, you can use it just before the laser goes out so that the **Vigilant** buff heals you before the next auto-attack. It's completely free to do this and helps things feel a lot comfier.
+If you're not holding the boss during the next phase, make sure to use **Shadowed Vigil** on some auto-attacks near the end of the phase. It should come up around when the last Slap Happy comes out, which means you can mitigate that damage on top of some auto-attacks. Even better, if you're the last tether, you can use it just before the laser goes out so that the **Vigilant** buff heals you before the next auto-attack. It's completely free to do this and helps things feel a lot comfier and take a lot of pressure off your healers.
 
 # Phase Four: Kefka Says
 
