@@ -1,5 +1,6 @@
 ---
 title: Dancing Mad (Ultimate) DRK Guide
+card_header_image: /img/drk_dmu_fight_tips.png
 authors:
   - violet-stardust
   - apileofcats
@@ -78,13 +79,13 @@ There are some very heavy hitting tankbusters at the end of this phase, with Ult
 
 You can press Rampart for the second Ultimate Embrace at the end of the single wing cast. Wait until the next auto to press **Shadowed Vigil**. **Dark Mind** and **Oblation** should be pressed during the double Wings of Destruction castbar.
 
-You'll generate ~6200 MP between Phase Two ending and your first opportunity to spend in Phase Three, you can usually spend both blood and MP very aggressively at the end of this phase, since you'll want to open Phase Three with a **Delirium**.
+You'll generate ~3000 MP between Phase Two ending and your first opportunity to spend in Phase Three, you can usually spend both blood and MP very aggressively at the end of this phase, since you'll want to open Phase Three with a **Delirium**.
 
 # Phase Three: Chaos and Exdeath
 
 At the start of this phase, if you have two charges of **Shadowbringer** (if you didn't need to send both at the end of the last phase), you can use one immediately targeting the boss you're not going to be holding. As a result, your opener can be something like
 
-**Delirium** (before boss spawns) -> **Scarlet Delirium** -> [target the other boss] -> **Shadowbringer** -> [target the other boss] -> continue
+**Delirium** (before boss spawns) -> **Scarlet Delirium** -> **Edge of Shadow** -> [target the other boss] -> **Shadowbringer** -> [target the other boss] -> continue
 
 Doing this is fairly 'free' if you can hold the **Shadowbringer** from Phase Two, as it means that you'll still get two **Shadowbringer**s in the upcoming pot window.
 
@@ -96,7 +97,9 @@ If you didn't hold **Salted Earth**, make sure that you use it and **Salt and Da
 
 Your HP after the third Thunder III doesn't matter (as long as it's not 0) because you get set to 1 HP by Earthquake shortly after. As long as you're reasonably healthy going into it, you can save **TBN** to use immediately after Earthquake to assist your healers in keeping you alive against the following autoattacks. You can use it again off cooldown to cover the Slap Happy damage.
 
-Be very careful about spending all your MP during the 10-minute burst. The last Thunder III happens shortly afterwards, and, presuming you're taking it with mitigation, it is vital to have **TBN** for it.
+Be very careful about spending all your MP during the 10-minute burst (the burst during Black Hole/Earthquake). The last Thunder III happens shortly afterwards, and, presuming you're taking it with mitigation, it is vital to have **TBN** for it. Of all points in the phase, this is probably the tankbuster where it's most important to give your co-tank an **Oblation** charge for the second hit of the tankbuster.
+
+If you're not holding the boss during the next phase, make sure to use **Shadowed Vigil** on some auto-attacks near the end of the phase. It should come up around when the last Slap Happy comes out, which means you can mitigate that damage on top of some auto-attacks. Even better, if you're the last tether, you can use it just before the laser goes out so that the **Vigilant** buff heals you before the next auto-attack. It's completely free to do this and helps things feel a lot comfier and take a lot of pressure off your healers.
 
 # Phase Four: Kefka Says
 
@@ -108,7 +111,13 @@ Bank a **TBN** for Phase Five on the last raidwide (Ultima Upsurge). Your MP wil
 
 Mitigation is very tight this phase, both for tank mitigation and for raidwide mitigation. For some, it can be helpful to create a reference macro with mitigation so that it's easier to remember as it's happening.
 
-**Oblation** can cover four of the five instances of tank damage in the phase. It should be used for everything except the Maddening Orchestra flare.
+One tank in this phase will be covering the opening Ultima Repeater, the second Ultima Repeater, and Forsaken/Forsaken Bonds hits 5-8 with their party mitigation (for us, that's **Dark Missionary**). If that's you, you should use **Dark Missionary** as soon as the boss swings the staff down to his side at the start, and then use it off cooldown for the next two.
+
+**Oblation** can cover four of the five instances of tank damage in the phase. For most mitigation plans (presuming that tanks are invulning the end of Maddening Orchestra + following two auto-attacks), I recommend using it on:
+- The first three auto-attacks
+- The first Maddening Orchestra
+- The post-Celestriad two auto-attacks
+- The last auto-attack in the phase, presuming the first two hits are covered by a tank invuln
 
 **TBN** halfway through the second Maddening Orchestra cast to get it back for the third Fell Forces auto after. Don't worry about not having it on the flare; it really doesn't hit that hard. **Rampart** needs to be very late in the Maddening Orchestra castbar to last for the third auto-attack following Maddening Orchestra. It's better to be late than early here, as the initial hit doesn't do very much damage.
 
@@ -117,6 +126,10 @@ The Forsaken and Forsaken Bonds hits at the end really, really hurt. You will wa
 You can use your potion when **Living Shadow** has <10s left on its cooldown to cover its full duration if you're worried about killtime clipping off the end of your pot.
 
 # Clear Point of View Videos
+
+### Violet Stardust (7.5, Off Tank, NAUR Strats + IkuyaMitty)
+
+{{< youtube yAm7QFPiCmA>}}
 
 ### A Pile of Cats (7.5, Off Tank)
 
