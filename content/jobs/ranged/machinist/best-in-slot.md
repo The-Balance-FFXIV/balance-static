@@ -25,11 +25,13 @@ changelog:
 bis:
   - type: xivgear
     name: 7.5 iLvl 790 BiS
-    link: https://xivgear.app/?page=embed|sl|3e982dd2-e55b-4cf3-ab2e-346eb9a6d193
-    description: ""
+    link: https://xivgear.app/?page=embed|bis|mch|current&onlySetIndex=0
+    description: Click the new tab link in the top-center of the embedded set to
+      open the entire set list. The entire set list contains variations for
+      non-relic weapons, such as the current ultimate weapon and savage weapon.
   - type: xivgear
     name: FRU Best-in-Slot 2.5 GCD
-    link: https://xivgear.app/?page=embed|sl|d355d671-43d8-4f4c-b36a-bb24508e214c
+    link: https://xivgear.app/?page=embed|bis|mch|ultimate|fru&onlySetIndex=0
     description: Clouddark Sollerets are technically a gain of ~1 dps. However due
       to wanting to share the same sets with the Ultimate Weapon and other
       Physical Ranged jobs, we decided to stick with the Dark Horse Boots for
