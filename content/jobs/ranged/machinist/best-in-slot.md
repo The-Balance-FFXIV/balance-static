@@ -1,7 +1,7 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.4"
+patch: "7.5"
 lastmod: 2025-12-16T21:49:58.533Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
@@ -20,16 +20,13 @@ changelog:
     message: top bis updated for 6.5
   - date: 2025-12-16T21:50:01.494Z
     message: Updated for Patch 7.4
+  - date: 2026-08-26T18:00:27.120Z
+    message: Patch 7.5 update
 bis:
   - type: xivgear
-    name: 7.4 iLvl 790 BiS
-    link: https://xivgear.app/?page=embed|sl|3dac7eb3-10e4-4ef3-9373-e1e1a78fcc9b
-    description: The difference between this MCH and DNC set is changing x3 DH melds
-      to DET (one DH meld changed to DET on each of the gloves, legs, and
-      bracelet) - this would make the set compatible with NIN/VPR bis
-      accessories. The DNC set is ~5dps lower than the MCH set, but with the
-      added benefit of having the set completely compatible with both DNC and
-      the scouting jobs.
+    name: 7.5 iLvl 790 BiS
+    link: https://xivgear.app/?page=embed|sl|3e982dd2-e55b-4cf3-ab2e-346eb9a6d193
+    description: ""
   - type: xivgear
     name: 7.4 Week 1 1800 Tomestones BiS
     link: https://xivgear.app/?page=embed|sl|4c5c04a8-d1ff-4ab3-823b-d94b53a4a50d&onlySetIndex=1
@@ -38,16 +35,11 @@ bis:
     link: https://etro.gg/gearset/77e7913d-3fab-47af-b1ad-e148ca4da205
   - type: xivgear
     name: FRU Best-in-Slot 2.5 GCD
-    link: https://xivgear.app/?page=embed|sl|29b58122-8c79-4c92-8569-2aac404fe861&onlySetIndex=0
-    description: >-
-      Relic is better than Savage Weapon, dmg/100p is not an accurate stat for
-      machinist. 
-
-
-      Ultimate Weapon > Relic > Savage
-
-
-      Master sheet with all options can be found [here](https://xivgear.app/?page=sl%7C29b58122-8c79-4c92-8569-2aac404fe861) or opened by clicking the embed's full view button. 
+    link: https://xivgear.app/?page=embed|sl|d355d671-43d8-4f4c-b36a-bb24508e214c
+    description: Clouddark Sollerets are technically a gain of ~1 dps. However due
+      to wanting to share the same sets with the Ultimate Weapon and other
+      Physical Ranged jobs, we decided to stick with the Dark Horse Boots for
+      both.
   - type: etro
     description: The relic is the Manderville 645/665 Relic with "CRIT + DET > DH".
       Gloves/Boots can be obtained from the dungeon (Lunar Subterrane).
