@@ -4,6 +4,8 @@ layout: bis
 patch: "7.55"
 lastmod: 2026-08-27T05:46:10.715Z
 changelog:
+  - date: 2026-08-27T05:47:54.806Z
+    message: Replaced 2.45 embed with "All BiS Options" link
   - date: 2025-12-17T02:31:54.468Z
     message: Updated for 7.4
   - date: 2025-08-24T03:59:21.231Z
