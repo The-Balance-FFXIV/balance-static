@@ -1,9 +1,11 @@
 ---
 title: Best in Slot (BiS)
 layout: bis
-patch: "7.4"
-lastmod: 2025-08-24T01:29:34.136Z
+patch: "7.55"
+lastmod: 2026-08-27T05:46:10.715Z
 changelog:
+  - date: 2026-08-27T05:47:54.806Z
+    message: Replaced 2.45 embed with "All BiS Options" link
   - date: 2025-12-17T02:31:54.468Z
     message: Updated for 7.4
   - date: 2025-08-24T03:59:21.231Z
@@ -13,11 +15,11 @@ changelog:
 bis:
   - type: xivgear
     link: https://xivgear.app/?page=embed%7Cbis%7Cwar%7Ccurrent&onlySetIndex=0
-    name: Current Savage WAR 2.50 GCD BIS
+    name: Current Patch WAR 2.50 GCD BIS
     description: ""
-  - type: xivgear
-    name: Current Savage WAR 2.45 GCD BIS
-    link: https://xivgear.app/?page=embed%7Cbis%7Cwar%7Ccurrent&onlySetIndex=1
+  - type: genericlink
+    name: Current Patch WAR All BiS Options
+    link: https://xivgear.app/#/bis/war/current
   - type: genericlink
     name: Current Patch All Prog Sets
     link: https://xivgear.app/#/bis/war/prog
