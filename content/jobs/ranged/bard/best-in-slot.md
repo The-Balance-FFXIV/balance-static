@@ -32,7 +32,7 @@ changelog:
 bis:
   - type: xivgear
     name: i790 Best-in-Slot w/Relic Bow
-    link: https://xivgear.app/?page=embed|sl|539507c3-cc13-42fa-ab13-2bae77c948c4
+    link: https://xivgear.app/?page=embed|bis|brd|current&onlySetIndex=1
     description: >-
       If you want to play at 2.50 (or fit the DNC/MCH sets), swap the SkS for a
       DH. \
@@ -42,7 +42,7 @@ bis:
       For 2.48, you can make your relic bow 108 SkS instead of DH, and then also put DH in the gloves instead of SkS
   - type: xivgear
     name: i790 Best-in-Slot
-    link: https://xivgear.app/?page=embed|sl|e2c1efce-33f8-4cfe-9db2-bd389aa921bb
+    link: https://xivgear.app/?page=embed|bis|brd|current&onlySetIndex=3
     description: >-
       If you have the DMU bow, put the SkS in that instead of the gloves (put a
       DH in the gloves instead)\
@@ -52,11 +52,11 @@ bis:
       Either way, you can swap the Skill Speed materia for a Direct Hit if you want to play at 2.50. Similarly, swap a second Direct Hit for a Skill Speed if you'd like to run 2.48.
   - type: xivgear
     name: Futures Rewritten Best-in-Slot (2.49)
-    link: https://xivgear.app/?page=embed%7Csl%7C3ad7746a-b612-4b34-9d24-a0f8ae20c857
+    link: https://xivgear.app/?page=embed|bis|brd|ultimate|fru&onlySetIndex=0
     description: >-
-      If you have the FRU bow already, toss in a DH materia in the extra slot.\
+      For sets with the raid weapon and FRU weapon, see:
+      https://xivgear.app/?page=bis|brd|ultimate|fru
 
-      \
 
       You can swap the Skill Speed materia for a Direct Hit if you want to play at 2.50. Similarly, swap a second Direct Hit for a Skill Speed if you'd like to run 2.48.
 authors:
