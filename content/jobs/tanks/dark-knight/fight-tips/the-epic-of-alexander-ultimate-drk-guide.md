@@ -18,7 +18,7 @@ Dark Knight is a very solid choice for TEA and can flexibly perform well in any 
 
 # Gear
 
-Dark Knight BiS for TEA can be found at the following link: <https://xivgear.app/#/bis/drk/ultimate/tea>, which will always be kept up to date and have a variety of options. 
+Dark Knight BiS for TEA can be found at the following link: <https://xivgear.app/bis/drk/ultimate/tea>, which will always be kept up to date and have a variety of options. 
 
 If you have the Shadowbringers relic, a GCD speed of 2.45 can make sense to take advantage of the free Skill Speed provided, and is recommended. However, be aware that Skill Speed does not affect **Unleash** or **Stalwart Soul** (your AoE combo), which can be relevant for phase two, as at this level, your **Stalwart Soul** combo is a gain on two. Despite this, we still recommend 2.45 even for groups utilizing AoE more heavily during Phase Two (BJCC), as you won't be AoEing all of the time, and it is not the phase where damage matters most.
 
