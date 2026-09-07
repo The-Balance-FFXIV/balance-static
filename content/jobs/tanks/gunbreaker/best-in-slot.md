@@ -10,28 +10,28 @@ changelog:
     message: 7.2 Gear Update
 bis:
   - type: xivgear
-    link: https://xivgear.app/?page=embed|bis|gnb|current&onlySetIndex=2
+    link: https://xivgear.app/embed/bis/gnb/current?onlySetIndex=1
     name: "2.50"
   - type: xivgear
     name: "2.45"
-    link: https://xivgear.app/?page=embed|bis|gnb|current&onlySetIndex=3
+    link: https://xivgear.app/embed/bis/gnb/current?onlySetIndex=2
   - type: xivgear
     name: "2.40"
-    link: https://xivgear.app/?page=embed|bis|gnb|current&onlySetIndex=4
+    link: https://xivgear.app/embed/bis/gnb/current?onlySetIndex=3
   - type: genericlink
     name: 7.4 Prog Sets
-    link: https://xivgear.app/?page=sl|238433aa-1115-4510-8759-291234613a0a
+    link: https://xivgear.app/bis/gnb/prog/penta
     description: Previews week three (uncapped tomes) and week four (week one prog
       with tomes) set options.
   - type: plain-text
     name: Ultimates
-    description: |
-      FRU: https://xivgear.app/#/bis/gnb/ultimate/fru
-      </br>TOP: https://xivgear.app/#/bis/gnb/ultimate/top
-      </br>DSR: https://xivgear.app/#/bis/gnb/ultimate/dsr
-      </br>TEA: https://xivgear.app/#/bis/gnb/ultimate/tea
-      </br>UWU: https://xivgear.app/#/bis/gnb/ultimate/uwu
-      </br>UCOB: https://xivgear.app/#/bis/gnb/ultimate/ucob
+    description: |-
+      FRU: https://xivgear.app/bis/gnb/ultimate/fru
+      </br>TOP: https://xivgear.app/bis/gnb/ultimate/top
+      </br>DSR: https://xivgear.app/bis/gnb/ultimate/dsr
+      </br>TEA: https://xivgear.app/bis/gnb/ultimate/tea
+      </br>UWU: https://xivgear.app/bis/gnb/ultimate/uwu
+      </br>UCOB: https://xivgear.app/bis/gnb/ultimate/ucob
 authors:
   - Balance-GNB-Staff
 tags: []
