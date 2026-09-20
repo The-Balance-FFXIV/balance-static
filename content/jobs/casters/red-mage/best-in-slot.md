@@ -24,18 +24,18 @@ changelog:
     message: Updated with 7.4 prog and BiS sets, and updated ultimate set links.
 bis:
   - type: xivgear
-    name: 7.4 RDM BiS - 2.5 GCD
-    link: https://xivgear.app/?page=embed|sl|bfc781a4-ef20-4f2d-ba35-66388adb30c6
+    name: 7.55 RDM BiS - 2.5 GCD
+    link: https://xivgear.app/embed/bis/rdm/current?onlySetIndex=1
     description: Only recommended for use if you also play Pictomancer at 2.50 and
       don't want to re-meld or keep an extra piece of gear to swap melds.
   - type: xivgear
-    name: 7.4 RDM BiS - 2.49 GCD
-    link: https://xivgear.app/?page=embed|sl|3a78b6f3-1c36-4a7d-82c6-a2d3ceee62da
+    name: 7.55 RDM BiS - 2.49 GCD
+    link: https://xivgear.app/embed/bis/rdm/current?onlySetIndex=6
     description: Better oGCD alignment with Fleche and Contre Sixte, and better
       alignment to perform 1e23 double combos at burst windows.
   - type: xivgear
-    name: 7.4 RDM BiS - 2.48 GCD
-    link: https://xivgear.app/?page=embed|sl|d01bbb2f-0636-486e-a633-e7a9944760a4
+    name: 7.55 RDM BiS - 2.48 GCD
+    link: https://xivgear.app/embed/bis/rdm/current?onlySetIndex=11
     description: Better alignment to perform 123e double combos at burst windows
       beyond the first 2m, but will eventually drift Fleche and Contre Sixte
       backwards.
@@ -45,18 +45,18 @@ bis:
     description: Savage week 1 sets with 4 weeks' worth of tomes. Click the
       hyperlink at the top of the set to see options for 2.48 and 2.47.
   - type: xivgear
-    name: 7.4 RDM FRU BiS
-    link: https://xivgear.app/?page=embed|sl|67c7d792-7685-41d8-8b46-b559fb74b1fc&onlySetIndex=3
+    name: 7.55 RDM FRU BiS
+    link: https://xivgear.app/embed/bis/rdm/ultimate/fru?onlySetIndex=2
     description: Click the hyperlink at the top of the set to view a full composite
-      sheet containing 2.48, 2.49, 2.50, i730 Savage weapon, and Relic weapon
+      sheet containing 2.48, 2.49, 2.50, i730 Savage weapon, and FRU weapon
       options.
   - type: xivgear
-    name: 7.2 RDM Legacy Ultimates BiS
-    link: https://xivgear.app/?page=embed|sl|5117ed12-28cb-4cea-8446-4f599c00ceeb&onlySetIndex=0
-    description: Click the hyperlink at the top of the set to view a full composite
-      sheet containing sets designed for each specific Ultimate encounter. These
-      sets will likely only feature very minor changes to include new food
-      between now and 8.0.
+    name: 7.5 RDM Legacy Ultimates BiS
+    link: https://xivgear.app/embed/bis/rdm/ultimate/generic?onlySetIndex=0
+    description: "This set can be updated with the current DT relic if you have it.
+      If you're looking for optimized BiS sets for each individual legacy
+      ultimate, please follow this link:
+      <https://xivgear.app/bisbrowser/rdm/ultimate>"
 authors:
   - Balance-RDM-Staff
 tags:
