@@ -1,5 +1,5 @@
 backend:
-  base_url: https://auth2.thebalanceffxiv.com
+  base_url: https://auth.thebalanceffxiv.com
   branch: main
   cms_label_prefix: cms/
   name: github

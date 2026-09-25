@@ -1,7 +1,7 @@
 ---
 type: editor
-config: /admin/config.yml
-dev_config: /admin/config.yml
+config: /admin-beta/config.yml
+dev_config: /admin-beta/config.yml
 sitemap:
   disable: true
 ---
