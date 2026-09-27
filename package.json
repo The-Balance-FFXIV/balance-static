@@ -1,1 +1,31 @@
-themes/glam/package.json
+{
+  "name": "glam",
+  "version": "1.0.0",
+  "description": "\"Glam is a hugo theme for The Balance website\"",
+  "main": "index.js",
+  "repository": "https://github.com/The-Balance-FFXIV/glam",
+  "author": "Oowazu Nonowazu <oowazu.nonowazu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1",
+    "postcss-import": "^16.1.1",
+    "tailwindcss": "^3.4.18"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "cross-env": "^10.1.0",
+    "netlify-cms-proxy-server": "^1.3.24",
+    "prettier": "^3.6.2",
+    "prettier-plugin-go-template": "^0.0.15",
+    "hugo-bin": "^0.149.2"
+  },
+  "scripts": {
+    "start": "concurrently --kill-others-on-fail --names static,admin \"yarn start:static\" \"yarn start:admin\"",
+    "start:dev": "cross-env GIT_REPO_DIRECTORY=exampleSite concurrently --kill-others-on-fail --names static,admin \"yarn start:static:dev\" \"yarn start:admin\"",
+    "start:static": "hugo server --disableFastRender",
+    "start:static:dev": "hugo server -s exampleSite/ --themesDir=../.. --disableFastRender",
+    "start:admin": "node_modules/.bin/netlify-cms-proxy-server"
+  }
+}
