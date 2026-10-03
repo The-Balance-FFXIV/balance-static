@@ -2,7 +2,7 @@
 title: Best in Slot (BiS)
 layout: bis
 patch: "7.55"
-lastmod: 2026-09-20T20:10:28.543Z
+lastmod: 2026-10-03T17:39:38.616Z
 changelog:
   - date: 2021-10-26T01:30:27.164Z
     message: Created page
@@ -51,11 +51,10 @@ bis:
       sheet containing 2.48, 2.49, 2.50, i730 Savage weapon, and FRU weapon
       options.
   - type: xivgear
-    name: 7.5 RDM Legacy Ultimates BiS
+    name: 7.55 RDM Legacy Ultimates BiS
     link: https://xivgear.app/embed/bis/rdm/ultimate/generic?onlySetIndex=0
-    description: "This set can be updated with the current DT relic if you have it.
-      If you're looking for optimized BiS sets for each individual legacy
-      ultimate, please follow this link:
+    description: "If you're looking for optimized BiS sets for each individual
+      legacy ultimate, please follow this link:
       <https://xivgear.app/bisbrowser/rdm/ultimate>"
 authors:
   - Balance-RDM-Staff
