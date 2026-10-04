@@ -21,7 +21,7 @@ Dark Knight is an extremely good choice for TOP and can flexibly perform well in
 
 # Gear
 
-Dark Knight BiS for TOP can be found at the following link: <https://xivgear.app/#/bis/drk/ultimate/top>, which will always be kept up to date and have a variety of options. 
+Dark Knight BiS for TOP can be found at the following link: <https://xivgear.app/bis/drk/ultimate/top>, which will always be kept up to date and have a variety of options. 
 
 2.50 is the recommended GCD speed for this fight, and while a 2.45 set is provided, there's no specific reason to use it. The fight's phasing favours 2.50, as well as it simming better in a vacuum.
 
