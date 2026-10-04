@@ -19,7 +19,7 @@ Dark Knight is a very strong tank in Dancing Mad at both main and off-tank, and 
 
 # Gear
 
-Dark Knight BiS for DMU can be found at the following link: [https://xivgear.app/?page=bis|drk|ultimate|dmu](https://xivgear.app/?page=bis|drk|ultimate|dmu), which will always be kept up to date and have a variety of options.
+Dark Knight BiS for DMU can be found at the following link: [https://xivgear.app/bis/drk/ultimate/dmu](https://xivgear.app/bis/drk/ultimate/dmu), which will always be kept up to date and have a variety of options.
 
 ## Potion Usage
 
