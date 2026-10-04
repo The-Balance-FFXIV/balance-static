@@ -20,7 +20,7 @@ Dark Knight is a very strong tank in DSR at both main and off-tank, though commo
 
 # Gear
 
-Dark Knight BiS for DSR can be found at the following link: <https://xivgear.app/#/bis/drk/ultimate/dsr>, which will always be kept up to date and have a variety of options. 
+Dark Knight BiS for DSR can be found at the following link: <https://xivgear.app/bis/drk/ultimate/dsr>, which will always be kept up to date and have a variety of options. 
 
 2.50 GCD speed is comfortable as always, and 2.45 lines up well with several uptime phases. We recommend choosing whichever speed you feel most comfortable on.
 
