@@ -22,7 +22,7 @@ One note for this encounter unlike fights from other expansions is that auto-att
 
 # Gear
 
-Dark Knight BiS for UCoB can be found at the following link: [https://xivgear.app/#/bis/drk/ultimate/ucob](https://xivgear.app/#/bis/drk/ultimate/ucob), which will always be kept up to date and have a variety of options. 
+Dark Knight BiS for UCoB can be found at the following link: [https://xivgear.app/bis/drk/ultimate/ucob](https://xivgear.app/bis/drk/ultimate/ucob), which will always be kept up to date and have a variety of options. 
 
 If you have the Shadowbringers relic, we recommend a GCD speed of 2.40, to take advantage of the free Skill Speed provided. If you're not used to faster speeds or might usually shy away from them, be aware that 2.40 almost identical to 2.50, since both numbers cleanly divide 60, meaning your 60 second cooldowns (like **Delirium**) will not drift.
 
