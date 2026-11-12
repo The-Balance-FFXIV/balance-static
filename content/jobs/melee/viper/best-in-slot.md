@@ -55,17 +55,23 @@ bis:
     description: For other options, including without the DT Relic, click
       [here](https://xivgear.app/?page=bis|vpr|ultimate|dsr).
   - type: xivgear
-    name: TEA SkS BiS - 1.91 GCD
-    link: https://xivgear.app/?page=embed|sl|c942a55f-d10a-4b97-936c-a440693bb073
-    description: From level 90 (sub i630) and below skillspeed sets outperform
-      crit-centric sets due to the lack of powerful oGCDs that benefit from
-      crit.
+    name: TEA BiS
+    link: https://xivgear.app/embed/bis/vpr/ultimate/tea?onlySetIndex=1
+    description: For an alternate Skill Speed set, [see this
+      link.](https://xivgear.app/bis/vpr/ultimate/tea) The speed set should be
+      comparable to a non-speed set, but slightly behind in damage.
   - type: xivgear
-    link: https://xivgear.app/?page=embed|sl|1e3e2816-cb5e-4d7f-b5e2-bb1d24f29921
-    name: UWU SkS BiS - 1.78 GCD
+    link: https://xivgear.app/embed/bis/vpr/ultimate/uwu?onlySetIndex=1
+    name: UWU BiS
+    description: For an alternate Skill Speed set, [see this
+      link.](https://xivgear.app/bis/vpr/ultimate/uwu) The speed set should be
+      comparable to a non-speed set, but slightly behind in damage.
   - type: xivgear
-    link: https://xivgear.app/?page=embed|sl|07ed5469-7b71-44c9-9e0b-f8b3f98d061c
-    name: UCOB SkS BiS - 1.80 GCD
+    link: https://xivgear.app/embed/bis/vpr/ultimate/ucob?onlySetIndex=1
+    name: UCOB BiS
+    description: For an alternate Skill Speed set, [see this
+      link.](https://xivgear.app/bis/vpr/ultimate/ucob) The speed set should be
+      comparable to a non-speed set, but slightly behind in damage.
 authors:
   - RhyTamok
   - akashi
